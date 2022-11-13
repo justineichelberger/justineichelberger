@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:41 on 13 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:38 on 13 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Ellinwood (3 miles south of) (KS) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Balls of light disappearing and reappearing.I was setting in the passenger seat of my friends truck and looked into the rear view mirror and I noticed two or three bright orange lights hovering over some wooded land that my friend owns. I commented to him that I didn't remember ever seening those lights(me thinking that the lights were street lamp type lighting) on his land before and he looked at me like I was an idiot and he had no clue of what I was talking about. All of a sudden the balls of light vanished and reappeared in a matter of about 10 seconds. We pulled the truck over and got out to watch the lights. By this time there were five orange lights. One light would disappear for a few seconds and another would disappear and then reappear. It seemed as if the lights were on a timer or flashing a signal of some kind. We observed this for 15-20 minutes until the lights were gone. The lights always stayed in a half circle formation and all stayed in the same spot. This was not an airplane and there was no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15595.html](http://www.nuforc.org/webreports/reports/015/S15595.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Sweeny (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We were looking at the stars , and noticed 3 lights moving back and forth, We could Not see the pattern till I saw the picture.We were outside about 9pm on November 13,2007. The sky was really clear and we were looking at the stars. Then we noticed 3 (what we thought was stars) they started moving back and forth and 1 went down then back up. at first we thought it might be planes. But it was really different. I had my camera so I put it on night setting without flash, just tring to get pictures of the stars. We did NOT see these shapes in the sky.We did see a flash of red, and yellow. It was only when I went to print my pictures that I saw this. I was shocked!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59849.html](http://www.nuforc.org/webreports/reports/059/S59849.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
