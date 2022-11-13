@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:38 on 13 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:36 on 13 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Sweeny (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We were looking at the stars , and noticed 3 lights moving back and forth, We could Not see the pattern till I saw the picture.We were outside about 9pm on November 13,2007. The sky was really clear and we were looking at the stars. Then we noticed 3 (what we thought was stars) they started moving back and forth and 1 went down then back up. at first we thought it might be planes. But it was really different. I had my camera so I put it on night setting without flash, just tring to get pictures of the stars. We did NOT see these shapes in the sky.We did see a flash of red, and yellow. It was only when I went to print my pictures that I saw this. I was shocked!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59849.html](http://www.nuforc.org/webreports/reports/059/S59849.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Three green Orbs spotted over Vancouver, BC Nov13th at 11:15 pmI was very tired when I wrote the first sighting description and I have corrected my grammer in this one. Please use revised addition.Last night, Nov 13th, 2009, was the only clear night I've been able to use my telescope in over 3 weeks. At approx 11:15 pm I saw three low flying silent green orbs traveling from east to west at low altitude. They followed the normal flight path that commercial aircraft use to land in Vancouver.  I am very familiar with commercial aircraft, however I was not able to identify these objects.  The last of the three appeared to be a glowing disc flying through the night sky as if a green halo around the craft itself.Now I am going to speculate and offer my own explanation.  Stealth aircrafts have their afterburners turned up so that they are not heard easily from the ground at low altitude.  There also might be a green light on the top of the aircraft.  As the afterburn of fuel from their engines is directed upwards it might have caused condensation to form thus appearing as a glowing green object from the ground in the cool temperature.  I guesstimate the speed at approximately 700-1000 miles per hour yet no sonic boom which is curious indeed.  However we know this technology has been worked on for years to what level of success I don’t know.  We also know that a condensation halo can be formed around an aircraft at speed depending on atmospheric conditions.I am an amateur astronomer and have been for years but I've never ever seen anything like this before either prior or post military.  I don’t want to say that they were extraterrestrials but I really don’t have any explanation for this at all.  I always like to error on the side of caution. However, the sight of these objects was really something!  One more thought, due to Olympics we know they’ve been flying aircraft over Vancouver city often.  But not like these ones I think!  Any thoughts?  I would like someone to hopefully respond with an objective opinion.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73310.html](http://www.nuforc.org/webreports/reports/073/S73310.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
