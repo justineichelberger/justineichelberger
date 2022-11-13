@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:09:52 on 13 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:02:31 on 13 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lilburn (GA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Skinny white plane-like craft, no windows, engines on tail, wings pointing upward on ends, suspected droneLarge, white plane like craft with no visible windows, but very skinny.  The end of the wings pointed upward and there were two very small engines on tail.  It was moving very slowly directly in front of my car and seemed very low for its size.  No noise but I was inside my car with windows rolled up.  The way it was flying was very strange because the wings were moving in a way that looked like it was floating.  I suspect it was some sort of drone but I am unsure.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115329.html](http://www.nuforc.org/webreports/reports/115/S115329.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Wilmington (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Saw a bright light flying erratically from 4:30 AM to 6:30 AM (possibly longer) over Oleander Memorial Park.  Thought it was an airplane, until it remained in the same area and then went on to thinking it could be a drone.  However, drones usually don't last in flight longer than 35 minutes I thought?((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124056.html](http://www.nuforc.org/webreports/reports/124/S124056.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
