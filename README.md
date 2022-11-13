@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:02:31 on 13 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:41 on 13 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Wilmington (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Saw a bright light flying erratically from 4:30 AM to 6:30 AM (possibly longer) over Oleander Memorial Park.  Thought it was an airplane, until it remained in the same area and then went on to thinking it could be a drone.  However, drones usually don't last in flight longer than 35 minutes I thought?((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124056.html](http://www.nuforc.org/webreports/reports/124/S124056.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Port Orchard (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately continuing - continuing minutes.</sub><blockquote><sub>My husband went out onto our back deck at approximately 21:10 on Thursday evening and suddenly called out to myself, and my daughter to come on out and see "somthing". My grandaughter also went out, so there were 3 adults and 1 child watching this object high in the night sky. It seemed to have various lights on it-two were yellow and the third appeared to be a bluish tinted light. The cradt was definately not a helicopter, or an airplane as it made wide loops and then sudden 'jumps' straight up and then moments later straight downward. It would stop suddenly and hover and seem to spin, revealing a change in the lighting. At these points when it would stop-it almost appeared cylinderical, however it was difficult to see the actual shape as it's altitude was rather high. We could also see to the South east planes on their takeoff pattern from Seatac. The planes elevation was at least 2 - 4 thousand feet lower than the craft we were all observing. We were transfixed with the object. I then remembered your web site as I heard it on George Noory's Coast to Coast AM radio show. While my family continued to observe. I found your website and asked my husband to report it, however, I beleive he was a bit nervouse and left out a little information, that is why I called again and left a seconf message.We are interested if anyone else in the Kitsap County, Pierce County, or King County areas may have reported somthing similar.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33086.html](http://www.nuforc.org/webreports/reports/033/S33086.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
