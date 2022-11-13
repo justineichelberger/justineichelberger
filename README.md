@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:45 on 13 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:38 on 13 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in New York City (Staten Island) (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was sitting in my backyard And i saw a Big red fireball across the sky, my wife marge, and my dad, George were with me i was worried cuz i saw a lot of um  my sister counted but she cant count well and she said 89.  Then we got my binoculars and i saw this little guy with big ears smilin at me.  I got scared and now we are all iving together in our basement and I saw the light in a dream with the same little guy.  This is when i fugured I'd do some researched on my computer because im the edumacated one.  Thanx UFO SIte</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33100.html](http://www.nuforc.org/webreports/reports/033/S33100.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in San Clemente (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orange/Red Orb above Trestles in San Clemente, CAMy girlfriend and I were leaving the beach and walking along the bike path at Trestles beach.  There were super clear skies and the sun had just set. As we walked we watched the sky change colors from the sunset and I noticed a bright white star which I guessed was a planet.  As we kept walking I noticed an even larger light in the sky which at first glance looked like Mars.  It was bigger than the other planet we saw and was bright orange and red.  I thought it odd because its size was much bigger than usual.  Maybe twice as big as Saturn in the night sky.  I mentioned it to my girlfriend and we were both curious about what it could be.  We talked about it a bit and both thought it was odd.  So I set my bags down and got out my phone and opened the Star Walk App.  I lifted it up to see what the object could be and the object was gone.  I then pointed the Star Walk App at the other planet we saw and that was Saturn.  Then went back to the area in the sky whe! re the Orange ball had been.  I could almost still see it but it was much smaller - like it had traveled much farther away in a matter of seconds.  Then I noticed on the App that Mars was in rotation ahead of the Sun and had set below the horizon earlier - so no way it was Mars.  Not anything we could clearly confirm but definitely one of the oddest things I’ve seen in the sky for some time!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165790.html](http://www.nuforc.org/webreports/reports/165/S165790.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
