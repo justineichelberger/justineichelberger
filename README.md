@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:42 on 13 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:44 on 13 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Porter Ranch (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Witnessed red sphere traveling low, silent at very high rate of speed across valley at 2:00 a.m.Upon awakening at 2:15 a.m., I was looking out a window, North facing in my house.I then witnessed what appeared to be a small, bright red sphere flying very low (approx 300-400')in a NW direction.  This object was NOT man-made.  It traveled silently in an extreme straight attitude and traveled in what I estimate 2-3 miles in about 4 seconds.I live high on a hill.  The most remarkable thing about my sighting is speed and attitude of the object. Straight as can be; fast, silent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94469.html](http://www.nuforc.org/webreports/reports/094/S94469.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Idaho Falls (ID) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Driving on I-15 when we seen 2 flashes of bright green light that lit up the night sky approximately 10 minutes apart.  There were no signs of aircraft, lightning, meteor, or any flight objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160580.html](http://www.nuforc.org/webreports/reports/160/S160580.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
