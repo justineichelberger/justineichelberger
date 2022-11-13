@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:46 on 13 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:42 on 13 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Okeechobee (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Orange fireballs in a pattern of three, winking out and returning in another location, repeatedly.While locking my gate at night, I saw what seemed to be an orange "burning" object in the sky, approximately 40 degrees above the horizon, and several miles away.  I wondered if it could be an aircraft on fire.  The fireball did not move, then it winked out after seeming to flare up.  It next appeared off to the south of its previous location, and winked out almost immediately, followed by another very brief appearance even farther to the south.  It reminded me of how fireflies will light up in several different places as they travel.  20-30 seconds later it appeared farther to the north and much closer, repeating the previous pattern.  Avon Park Bombing Range is located in that general direction, and I wondered if it might be something having to do with them.  I did see tiny (much, much smaller) white flashing lights of aircraft in three different locations in this general area, however, these seemed much farther away, and flying in predictable patterns, that is to say, as normal flight patterns for aircraft in that area. I drove several miles from my house then on my way to work, and saw these fireballs again in the same general area.  Several people in this area have told me about the "Prairie Lights" of the Kissimmee Prairie area, but I had not seen them until now.  I will call them UFOs simply because I have no idea what they actually are.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104414.html](http://www.nuforc.org/webreports/reports/104/S104414.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Porter Ranch (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Witnessed red sphere traveling low, silent at very high rate of speed across valley at 2:00 a.m.Upon awakening at 2:15 a.m., I was looking out a window, North facing in my house.I then witnessed what appeared to be a small, bright red sphere flying very low (approx 300-400')in a NW direction.  This object was NOT man-made.  It traveled silently in an extreme straight attitude and traveled in what I estimate 2-3 miles in about 4 seconds.I live high on a hill.  The most remarkable thing about my sighting is speed and attitude of the object. Straight as can be; fast, silent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94469.html](http://www.nuforc.org/webreports/reports/094/S94469.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
