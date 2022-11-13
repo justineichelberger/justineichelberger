@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:44 on 13 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:02:29 on 13 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Idaho Falls (ID) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Driving on I-15 when we seen 2 flashes of bright green light that lit up the night sky approximately 10 minutes apart.  There were no signs of aircraft, lightning, meteor, or any flight objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160580.html](http://www.nuforc.org/webreports/reports/160/S160580.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Vallejo (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>STARTED WITH 4  COMING OUT OF THE SKY THEN 5 THEN 7  THEN 8 THEY WOULD COME TOGETHER THE LEAVETHE CIRCLE OF LIGHTS NOT A COMPLETE CIRCLE STARTED WITH 4 THE A 5TH CAME FROM THE SKY  THEY WOULD INTERACT THE FLY AWAY SEPERATE INTO THE SKY , THEN TWO MORE WOULD CAME SO THERE WAS 7 THEN AN 8TH THEY LEFT THEN THE FOUR LEFT INTO THE SKY IN DIFERENT DIRECTION. ONE HOVER OVER MY HEAD.THE WOULD COME TOGETHER IN MIDDLE THEN SPREAD OUT IN DIFFERENT DIRECTION.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33102.html](http://www.nuforc.org/webreports/reports/033/S33102.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
