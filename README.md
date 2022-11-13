@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:38 on 13 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:37 on 13 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Phoenix (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.5 - 2.5 minutes.</sub><blockquote><sub>White light over phoenix, ny made no soundI was smoking a cigarette in my backyard and was about to go back in the house when i noticed a light flying over my house(front(west) to back(south).  I yelled for my wife to get my camera but she did not hear me so i went and got it and was able to film about 20 seconds of it before it went behind the trees.  It did not make any noise and i did not see any wings or rotor blades.  It was possibly 1000 feet or more in the air. I have looked at the video frame by frame and at frame 95, there seems to be 4 or 5 dark "saucer" shape objects that appear and then "fly off".  It was flying to slow for a plane and it wasn't a star or planet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73351.html](http://www.nuforc.org/webreports/reports/073/S73351.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Harper (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was a little after 3am, maybe 3:05am Nov.13th, 09.  My wife is a nurse at a hospital in Wichita,KS about 40miles north of where we live.She arrived home as normal at 3am. She woke me up, and told me there was a plane with abnormal lights hovering above the house.  I was skeptical, but woke up anyways.  I went outside, and what I witnessed is a large "object" with three orange fire like lights in a triangle like position. The object was in my opinion the size of a medium sized house.  I realized it was not an airplane nor helicoptor when it did not emit any sort of sound and just "hovered" silently.I live out in the country so I have no close neighbors so I was pretty frantic, so I called the police.  While I was on the phone with the 911 operator, the object I don't know how to describe it but the object shot into the sky like a slingshot leaving a orange glow for a few seconds.. When the police arrived I made a report and that's all, the officer said it was probably a meteor but it was not a meteor.  I am a well respected dentist and my wife is a well respected nurse, and we are not the kind to make up such foolish things. I found this site and maybe by writing this somebody can tell me what this was…((NUFORC Note:  I hope someone will inform the Harper Police Department that meteors do not hover, or hang around, for 5 minutes.  They are visible because they pass through the atmosphere at 8-50 miles per second.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73283.html](http://www.nuforc.org/webreports/reports/073/S73283.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
