@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:02:29 on 13 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:42 on 13 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Vallejo (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>STARTED WITH 4  COMING OUT OF THE SKY THEN 5 THEN 7  THEN 8 THEY WOULD COME TOGETHER THE LEAVETHE CIRCLE OF LIGHTS NOT A COMPLETE CIRCLE STARTED WITH 4 THE A 5TH CAME FROM THE SKY  THEY WOULD INTERACT THE FLY AWAY SEPERATE INTO THE SKY , THEN TWO MORE WOULD CAME SO THERE WAS 7 THEN AN 8TH THEY LEFT THEN THE FOUR LEFT INTO THE SKY IN DIFERENT DIRECTION. ONE HOVER OVER MY HEAD.THE WOULD COME TOGETHER IN MIDDLE THEN SPREAD OUT IN DIFFERENT DIRECTION.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33102.html](http://www.nuforc.org/webreports/reports/033/S33102.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Kaufman (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We were coming into Kaufman from Dallas.  And the driver pointed it out first there were 3 circular orbs appearing to be stacked one above the other at a slight angle at first we thought they were helicopters but further observation we could see they were not in fact.  We traveled down the highway for about 5 minutes watching them.  I am not for sure what they were but i do know that they were not helicopters.  I am ex military so i have seen many helicopters and that is not what that was.  After we watched them for about 5 minutes we came to our exit and right before we got ready to exit they just disappeared.  Please someone tell me what we just witnessed.((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143785.html](http://www.nuforc.org/webreports/reports/143/S143785.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
