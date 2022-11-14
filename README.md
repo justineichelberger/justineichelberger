@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 14 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:38 on 14 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Hayward (CA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange craft over Bay AreaIt was about 4pm in the afternoon,it looked like a planet or star except i did'nt shine like one.I quikly ran in the house and grabbed my binocular's*(12x50)through them the object appeared to be the size of a dime at arm's length,it was'nt round more "egg shaped"like Billy D said,it had a strange black "scaffolding" structure behind it,the object was pale yellow in color,it was there for a good ten minute's,Billy D was trying to steady himself on my shoulder to get a better veiw when suddenly a flash of light appeared below it and a orb like object streaked to the left at an incredible speed,i veiwed it with the naked eye and at arm's length it appeared to be the size of a dime,i was suprised and moved trying to show Billy D the object streaking away,it headed out over the bay,Billy did not see it.We then tried to find the first object again but it was not there?I don'nt know if it was the same object or a different one that zoomed out over the bay,but the original object was just not there. A minute later a chemjet flew over head leaving a huge ploom of chemtrail almost in the same spot the UFO was hovering!!!coincidence???Very strange sighting</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26160.html](http://www.nuforc.org/webreports/reports/026/S26160.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Centralia (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Magenta fog after Seattle Lights sightingOn November 14, 1997, as I was driving on I5 North toward Seattle, I witnessed an unbelievable sight.  There were approx 16 lights/fireballs that were twisting and turning in 2 parallel lines that resembled a BI Plane.  The size was massive and as the lights spun around, they emitted a white flame with orange red smoke.  Some cars on the freeway pulled over but I was too mesmerized and stunned. They were slow moving and were visable for at least 3 minutes.  After they had passed, I drove through a magenta fog for approximately 1 mile.  It was beyond comprehension.  2 and half hours after the sighting, I experienced severe stomach cramps which resulted in projectile vomit of ten feet.  ((personal items deleted)) I have never told this information before except to a few very close friends.  Sorry for such a late observation but felt that no one had communicated such a personal observation.((NUFORC Note:  Many other reports of this incident, which the U. S. Space Command reported as a re-entering Russian booster.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17401.html](http://www.nuforc.org/webreports/reports/017/S17401.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [387](http://www.nuforc.org/webreports/reports/165/S165244.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165564.html)
-- [385](http://www.nuforc.org/webreports/reports/160/S160637.html)
-- [384](http://www.nuforc.org/webreports/reports/161/S161117.html)
-- [383](http://www.nuforc.org/webreports/reports/160/S160768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
