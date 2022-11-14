@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:38 on 14 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:54 on 14 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Centralia (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Magenta fog after Seattle Lights sightingOn November 14, 1997, as I was driving on I5 North toward Seattle, I witnessed an unbelievable sight.  There were approx 16 lights/fireballs that were twisting and turning in 2 parallel lines that resembled a BI Plane.  The size was massive and as the lights spun around, they emitted a white flame with orange red smoke.  Some cars on the freeway pulled over but I was too mesmerized and stunned. They were slow moving and were visable for at least 3 minutes.  After they had passed, I drove through a magenta fog for approximately 1 mile.  It was beyond comprehension.  2 and half hours after the sighting, I experienced severe stomach cramps which resulted in projectile vomit of ten feet.  ((personal items deleted)) I have never told this information before except to a few very close friends.  Sorry for such a late observation but felt that no one had communicated such a personal observation.((NUFORC Note:  Many other reports of this incident, which the U. S. Space Command reported as a re-entering Russian booster.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17401.html](http://www.nuforc.org/webreports/reports/017/S17401.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1971, an anonymous witness in Bard (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Huge Green Object with Orange FlamesI was driving south from Laguna Dam to Yuma on highway S-24 just after dark on a clear night when I noticed a small green light over the city. As I got closer to Yuma I realized the light was getting bigger and brighter so I pulled to the side of the road to get a better look. Several other vehicles pulled over as well as I got out and looked up at the huge green object go directly overhead very low and very slow lighting up the ground and it quietly headed directly north. As it passed over I noticed bright orange flames surrounding the object and trailing behind and could swear I could hear a faint flickering sound as well. The size of the object was larger than a full moon and it's speed comparable to a small airplane and everyone present was pointing and commenting. After 10 minutes or so it disappeared over the Laguna Mountains to the north leaving all of us in awe of what we had just witnessed. As I got closer to Yuma I observed a California Highway Patrolman giving someone a citation so I pulled over and waited for him to come speak with him. I explained to him about what I had just seen telling him that it must have been a plane crashing(Although I knew it wasn't an airplane) The officer took down my report and all my information and said he would check it out immediately. Two weeks later I encountered the same officer on the same road and asked him about the outcome and he said nothing was reported crashing and the nearby Marine Air Station reported nothing on radar that evening as well as Yuma Proving Grounds Army Base. I know what I saw and heard that night,too bad I didn't have a camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164435.html](http://www.nuforc.org/webreports/reports/164/S164435.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [387](http://www.nuforc.org/webreports/reports/165/S165244.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165564.html)
-- [385](http://www.nuforc.org/webreports/reports/160/S160637.html)
-- [384](http://www.nuforc.org/webreports/reports/161/S161117.html)
-- [383](http://www.nuforc.org/webreports/reports/160/S160768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
