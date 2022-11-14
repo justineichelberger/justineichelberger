@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:40 on 14 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:07:23 on 14 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Corbett (OR) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Summary : we were driving west on chamberlain rd. which overlooks the columbia river gorge toward washugal washington. we witnessed several, at least twenty, lights off to the north, toward washington, moving in an easterly direction through the gorge. The lights seem to be contained within a glowing nebula.  At the front of the formation was a dark object, larger than an airplane. lights looked like streamers breaking off the main body.  object moved quickly up the gorge away from the coast.  it definitly did not move west.detail will follow later</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02881.html](http://www.nuforc.org/webreports/reports/002/S02881.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in New Orleans (LA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1 photo - 1 photo minutes.</sub><blockquote><sub>Large dark gray dolphin-shaped object in the air found in a photograph, but was not seen or heard by the photographer.My girlfriend’s sister was on a trip in New Orleans, Louisiana, and she snapped a picture of a multi-seat horse drawn carriage with her Iphone. Only later did she see the strange irregularly "dolphin" shaped and fairly large dark gray object floating in the air in the photograph. I asked her if she saw it or heard any sounds and she said no. She didn't hear anything, and she did not see it. The photo was taken on November 14, 2015, at 10:23 AM (not sure if it was Eastern or Central time as the photo EXIF data doesn’t specify. The phone's owner lives in North Carolina so if it doesn't change with the local carrier, it would be set to Eastern Time).((NUFORC Note:  Pigeon.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125782.html](http://www.nuforc.org/webreports/reports/125/S125782.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [387](http://www.nuforc.org/webreports/reports/165/S165244.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165564.html)
-- [385](http://www.nuforc.org/webreports/reports/160/S160637.html)
-- [384](http://www.nuforc.org/webreports/reports/161/S161117.html)
-- [383](http://www.nuforc.org/webreports/reports/160/S160768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
