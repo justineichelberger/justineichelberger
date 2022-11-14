@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:11:39 on 14 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:05:18 on 14 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Manville (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Strange lights flying oval.One large oval was floating for 15 mins then flew very fast across the sky.  The left side had three red lights, the right had four white ones.  Behind were other white lights 5-7 in equal distances across the sky.  There were also eight air planes that were very evident. I saw a similar thing?  Last year in Hillsborough, NJ, one town away.Mind you, my mother had text me, and asked about strange lights, she had been down the same road 15 minutes before us, she says she thought that the object was following her.   The object was visible for almost the rest of our ride, but it didn’t seem to move until it was directly over the mini airport.  It flew very very fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137248.html](http://www.nuforc.org/webreports/reports/137/S137248.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Summerville (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright orange orb-light morphed across the evening sky.While star gazing and looking at the super moon in a telescope on a clear bright evening, man and woman noticed a bright, orange orb-like light flashing across the horizon for about 10 seconds.  The light seemed to be morphing across the sky.  The movement started slowly and then rapidly occurred.  Then all of a sudden, disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131242.html](http://www.nuforc.org/webreports/reports/131/S131242.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [387](http://www.nuforc.org/webreports/reports/165/S165244.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165564.html)
-- [385](http://www.nuforc.org/webreports/reports/160/S160637.html)
-- [384](http://www.nuforc.org/webreports/reports/161/S161117.html)
-- [383](http://www.nuforc.org/webreports/reports/160/S160768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
