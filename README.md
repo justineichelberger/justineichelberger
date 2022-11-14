@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:54 on 14 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:43 on 14 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1971, an anonymous witness in Bard (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Huge Green Object with Orange FlamesI was driving south from Laguna Dam to Yuma on highway S-24 just after dark on a clear night when I noticed a small green light over the city. As I got closer to Yuma I realized the light was getting bigger and brighter so I pulled to the side of the road to get a better look. Several other vehicles pulled over as well as I got out and looked up at the huge green object go directly overhead very low and very slow lighting up the ground and it quietly headed directly north. As it passed over I noticed bright orange flames surrounding the object and trailing behind and could swear I could hear a faint flickering sound as well. The size of the object was larger than a full moon and it's speed comparable to a small airplane and everyone present was pointing and commenting. After 10 minutes or so it disappeared over the Laguna Mountains to the north leaving all of us in awe of what we had just witnessed. As I got closer to Yuma I observed a California Highway Patrolman giving someone a citation so I pulled over and waited for him to come speak with him. I explained to him about what I had just seen telling him that it must have been a plane crashing(Although I knew it wasn't an airplane) The officer took down my report and all my information and said he would check it out immediately. Two weeks later I encountered the same officer on the same road and asked him about the outcome and he said nothing was reported crashing and the nearby Marine Air Station reported nothing on radar that evening as well as Yuma Proving Grounds Army Base. I know what I saw and heard that night,too bad I didn't have a camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164435.html](http://www.nuforc.org/webreports/reports/164/S164435.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Huntsville (AL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Cat and mouse with triangular ship on Hwy 36.  Whoa!  Really wierd.Going to Decatur on Hwy 36, beside First Christian Church, I saw a silvery triangular ship with green lights on each corner as it darted just 100 ft. over the tree line.  Wasn't shocked;  I saw a UFO in 1995, a large star-like one that came over our car.  Deadwood, Texas.  Huge and spherical with light from circular ports under the ship.  This triangular one I followed, like cat and mouse.  No lie!  It parked itself over the church and I got out to look.  The following week I was there again, same time, and saw a larger UFO sitting on the hill beside the junk yard as you approach Memorial Pkwy.  I thought it was a new tower with wide lights.  Upon approach I saw a disk ship, almost black, with lights fanning across the front.  Both UFOs sat motionless, hanging in the sky for at least five minutes before darting off to the south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138480.html](http://www.nuforc.org/webreports/reports/138/S138480.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [387](http://www.nuforc.org/webreports/reports/165/S165244.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165564.html)
-- [385](http://www.nuforc.org/webreports/reports/160/S160637.html)
-- [384](http://www.nuforc.org/webreports/reports/161/S161117.html)
-- [383](http://www.nuforc.org/webreports/reports/160/S160768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
