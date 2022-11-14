@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:01:02 on 14 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:15:34 on 14 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in McMinnville (OR) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Summary : We were out enjoying the full moon.  These things appeared, from over the hills.  I was the first to see them, and it took me about 3 seconds to speak!  I said, "What the hell is THAT?!"  We all stood up to watch.  Then ran over to the crest of the hill to see if we could see them anymore.  It was an incredible sight.  They came from the West and were heading East.  There were 3 at first, then the last (smallest) faded.  They were beautiful!!  We sat there for another hour, dumbfounded; could hardly speak.There were 3, it seemed.  Each had 3, I think, bright white lights in front of them. I think there may have been something in between those 3 lights, but I couldn't see it clearly.  One of those 3 lights seemed to be a bit bigger and brighter than the other two. They each had these "tails" that were golden, and came out of those front lights like perfect rectangles!  I mean, the tops and bottoms were a perfect straight line, and there was golden glittery stuff in them.  The "glitter" was of different sizes, too.  Not all the same size.  And NO glitter was outside of those rectangles!  They were cruising right along, but not zipping by.  They were absolutely silent.  They followed the contour of the land.  It seemed they were about a mile away from us (very hard to judge), so taking that into consideration, with my hand as a guide, I'd say they were about 6" above the horizon.  The first two were overlapping each other, but the 3rd, and smallest, was behind a bit.  I could se! e it more clearly.  I thought about reporting it, but didn't know who to call!  Then, as one of the women was driving home, she heard on the radio that there'd been sightings all the way up to Seattle!  The Oregonian tried to say it was "Space Junk". A rocket!! Ha!  There is NO way that was either one!!  It was incredible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02866.html](http://www.nuforc.org/webreports/reports/002/S02866.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Sunnyvale (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.008333333333333333 - 0.008333333333333333 minutes.</sub><blockquote><sub>Vertical streak of red/orange light in the sky making 90 degree turns then disappearing.Location details: Driver seat of my car facing south, stop at the intersection of I-101 and Lawrence Blvd in Sunnyvale, CA.Observation Details:  While stopped at the intersection a split second vertical streak of light in the distant horizon caught my eye.  The light resembled a falling star. It started above the horizon and ended at about the horizon.  The thin light was constant in shape and red/orange in color.  The odd thing was the path of the light.  As the light traveled down vertically, it made a 90 degree turn to the west followed immediately by another 90 degree turn down (toward the ground) then disappeared.  The whole event lasted a split second but the path was clearly visible.Background of observer:  Kansas native with aviation manufacturing background. Commercial Multi-Engine Instrument Pilot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137254.html](http://www.nuforc.org/webreports/reports/137/S137254.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [387](http://www.nuforc.org/webreports/reports/165/S165244.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165564.html)
-- [385](http://www.nuforc.org/webreports/reports/160/S160637.html)
-- [384](http://www.nuforc.org/webreports/reports/161/S161117.html)
-- [383](http://www.nuforc.org/webreports/reports/160/S160768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
