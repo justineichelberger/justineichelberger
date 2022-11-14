@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:51 on 14 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:40 on 14 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Oroville (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>7 lights 1 amber at the point the remaining 6 were red with 3 down each side.It was huge and silent.It passed by extremely low in the valley and was moving very slow.It appearead to be a giant triangle with an enormous mass.People from the same area also witnessed it.It was my sons b-day and my mom&dad sisters brothers all saw it.This was dismissed as spacejunk but how come my friend on a nearby mountain saw it turned in a different position?WE ALL WITNESSED THIS!My name is ((name deleted)) I'm a w/m 27y/o. my dad ((name deleted)) 50y/o w/m witnessed it first with my brother in-law((name deleted)) 24y/o hispanic male.My brother ((name deleted)) 37y/o w/m also witnessed it.My mother,((name deleted)),48y/o w/f also saw it along with my sister ((name deleted)) 33y/o w/f and sister in-law ((name deleted)) 39 y/o native american.MY ex-wife also saw it too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11183.html](http://www.nuforc.org/webreports/reports/011/S11183.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Mead (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Mt.Spokane Wa. -large white round globe shaped light moving across sky heading towards groundI live on Mt.Spokane which is rural our post office is in Mead, Washington...Very early Tuesday morning (middle of the night) my husband had gotten up I asked him what time it was..he said 3:00 and went back to sleep..I layed there for several minutes realizing I was wide awake, decided to get up..I sat up in bed and looked  out our bedroom window which faces north and saw a bright light I immediately thought Neat a shooting star..but instantly realized it was not a shooting star, it was a white globe which was moving across the sky as if it was coming down..it moved from northwest to northeast..it was up the mountain that is in the distant in my view It would have measured about an inch across..much brighter and way to large for a star..no trail behind it and it didn't change size and it moved slower than a meteor...we always sleep with the window open there was no sound..I woke up my husband and told him I just saw a UFO..another unusual thing was about 15 minutes later there was a jet airplane which I thought could have been sent from Fairchild AFB if they picked up something..we bought Wednesday's paper to see if anything was in it but nothing there..it was neat to see something unusual like that..but for sometime I layed and thought I don't want to see any grays at the foot of my bed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53459.html](http://www.nuforc.org/webreports/reports/053/S53459.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [387](http://www.nuforc.org/webreports/reports/165/S165244.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165564.html)
-- [385](http://www.nuforc.org/webreports/reports/160/S160637.html)
-- [384](http://www.nuforc.org/webreports/reports/161/S161117.html)
-- [383](http://www.nuforc.org/webreports/reports/160/S160768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
