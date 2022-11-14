@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:43 on 14 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:01:02 on 14 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Huntsville (AL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Cat and mouse with triangular ship on Hwy 36.  Whoa!  Really wierd.Going to Decatur on Hwy 36, beside First Christian Church, I saw a silvery triangular ship with green lights on each corner as it darted just 100 ft. over the tree line.  Wasn't shocked;  I saw a UFO in 1995, a large star-like one that came over our car.  Deadwood, Texas.  Huge and spherical with light from circular ports under the ship.  This triangular one I followed, like cat and mouse.  No lie!  It parked itself over the church and I got out to look.  The following week I was there again, same time, and saw a larger UFO sitting on the hill beside the junk yard as you approach Memorial Pkwy.  I thought it was a new tower with wide lights.  Upon approach I saw a disk ship, almost black, with lights fanning across the front.  Both UFOs sat motionless, hanging in the sky for at least five minutes before darting off to the south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138480.html](http://www.nuforc.org/webreports/reports/138/S138480.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in McMinnville (OR) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Summary : We were out enjoying the full moon.  These things appeared, from over the hills.  I was the first to see them, and it took me about 3 seconds to speak!  I said, "What the hell is THAT?!"  We all stood up to watch.  Then ran over to the crest of the hill to see if we could see them anymore.  It was an incredible sight.  They came from the West and were heading East.  There were 3 at first, then the last (smallest) faded.  They were beautiful!!  We sat there for another hour, dumbfounded; could hardly speak.There were 3, it seemed.  Each had 3, I think, bright white lights in front of them. I think there may have been something in between those 3 lights, but I couldn't see it clearly.  One of those 3 lights seemed to be a bit bigger and brighter than the other two. They each had these "tails" that were golden, and came out of those front lights like perfect rectangles!  I mean, the tops and bottoms were a perfect straight line, and there was golden glittery stuff in them.  The "glitter" was of different sizes, too.  Not all the same size.  And NO glitter was outside of those rectangles!  They were cruising right along, but not zipping by.  They were absolutely silent.  They followed the contour of the land.  It seemed they were about a mile away from us (very hard to judge), so taking that into consideration, with my hand as a guide, I'd say they were about 6" above the horizon.  The first two were overlapping each other, but the 3rd, and smallest, was behind a bit.  I could se! e it more clearly.  I thought about reporting it, but didn't know who to call!  Then, as one of the women was driving home, she heard on the radio that there'd been sightings all the way up to Seattle!  The Oregonian tried to say it was "Space Junk". A rocket!! Ha!  There is NO way that was either one!!  It was incredible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02866.html](http://www.nuforc.org/webreports/reports/002/S02866.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [387](http://www.nuforc.org/webreports/reports/165/S165244.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165564.html)
-- [385](http://www.nuforc.org/webreports/reports/160/S160637.html)
-- [384](http://www.nuforc.org/webreports/reports/161/S161117.html)
-- [383](http://www.nuforc.org/webreports/reports/160/S160768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
