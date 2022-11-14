@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 14 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:17 on 14 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Puyallup/South Hill (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Orange yellow lights flare up brightly as they circulate in the sky.Orange/Yellow lights proceed to circle around in a large circle.  They flare up and shine brightly within the same spot as they continue along the same circular path they're on. They have been doing this for a few hours now.  It's very pretty.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115363.html](http://www.nuforc.org/webreports/reports/115/S115363.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Kennesaw (GA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Stars that run when you see them?After comining home from work. I went down stiars to get on my turn tables like always. At about 4:30am or so I wanted to smoke a cig, but they were out side in the truck. So I then went to get them. As I walked out of the front door I felt like I was being followed. As I got to my truck I looked up into the cold night and saw what seem to be a bright star high above my house. As I got my cigs out of the truck I then looked back up at this bright star when it started to move. It moved side to side at very high speed and then started to back away as if it knew I had seen it. As it moved side to side it started to back away from me and get very tiny as if it didnt want me to see it anymore. Then it was gone. Not sure about what I had just seen I got very scared and ran back into the house.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  We believe that celestial bodies would be the first possibility to be ruled out.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31189.html](http://www.nuforc.org/webreports/reports/031/S31189.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [387](http://www.nuforc.org/webreports/reports/165/S165244.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165564.html)
-- [385](http://www.nuforc.org/webreports/reports/160/S160637.html)
-- [384](http://www.nuforc.org/webreports/reports/161/S161117.html)
-- [383](http://www.nuforc.org/webreports/reports/160/S160768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
