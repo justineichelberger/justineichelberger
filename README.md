@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:07:23 on 14 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:38 on 14 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in New Orleans (LA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1 photo - 1 photo minutes.</sub><blockquote><sub>Large dark gray dolphin-shaped object in the air found in a photograph, but was not seen or heard by the photographer.My girlfriend’s sister was on a trip in New Orleans, Louisiana, and she snapped a picture of a multi-seat horse drawn carriage with her Iphone. Only later did she see the strange irregularly "dolphin" shaped and fairly large dark gray object floating in the air in the photograph. I asked her if she saw it or heard any sounds and she said no. She didn't hear anything, and she did not see it. The photo was taken on November 14, 2015, at 10:23 AM (not sure if it was Eastern or Central time as the photo EXIF data doesn’t specify. The phone's owner lives in North Carolina so if it doesn't change with the local carrier, it would be set to Eastern Time).((NUFORC Note:  Pigeon.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125782.html](http://www.nuforc.org/webreports/reports/125/S125782.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Warrenton (VA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Rapid flight changing directionExtremely rapid velocity across the sky from north east to west in a trajectory first to south changing direction rapidly to west.  Light blue in color, oval shape appear to know it was being observed.... maybe...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143804.html](http://www.nuforc.org/webreports/reports/143/S143804.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [387](http://www.nuforc.org/webreports/reports/165/S165244.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165564.html)
-- [385](http://www.nuforc.org/webreports/reports/160/S160637.html)
-- [384](http://www.nuforc.org/webreports/reports/161/S161117.html)
-- [383](http://www.nuforc.org/webreports/reports/160/S160768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
