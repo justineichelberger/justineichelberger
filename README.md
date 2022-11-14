@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:50 on 14 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:46 on 14 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1981, an anonymous witness in Wahoo (NE) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Green neon saucer rose from behind trees to the left, rocked back and forth then accelerated over highway to west then vanished outI was driving home from Lincoln from watching a Nebraska football game on Nov 14, 1981. I live in Fremont, 50 miles north of Lincoln, and the midway point is approximately at Wahoo.  I was listening to the car radio, so I decided to take the longer way home at around 7:30 pm.North out of Wahoo, Highway 77 turns east 5 miles, then turns north again toward Fremont.  I had just made this turn north, when my radio started cutting out.  The early winter hours made it dark by this time, and nobody was on this road.I started to fidget with the radio tuner thinking it was going out, and within 100 yards-- in front and to the left of the road--a bright craft rose up behind a row of trees flanking a run-down shed.It was a weird neon green color-- surrounded by a halo.  It rocked back and forth quickly and several times in a jerky, erratic movement.  It was in my sight for so long I was able to make out something like "windows", and inside these "windows" I saw these weird, creepy "things"-- silhouettes of beings or something-- flitting back and forth.  The craft accelerated to the right-- over the highway to the east, and the minute it passed entirely over the road, it fizzled out like a fireworks display.My radio came back on again, and I looked at my watch wondering if I'd lost time, but it seemed about the same as before-- around 730 pm.As you can imagine, I hit the gas and flew the last 10 miles back to Fremont.  I told my family members over the next couple days and they didn't know what to think, I'm sure.Since then at this area north of Wahoo, the shed has been demolished, but the windbreak of trees are still there-- now only flanked by cornfields.I've never seen anything like this, before or since, but it sticks out clearly in my head to this day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119768.html](http://www.nuforc.org/webreports/reports/119/S119768.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in American Canyon (CA) reported seeing craft that fit the description of some '' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Woman and daughter witness w/ binoculars 2 strange lights in sky.  Flashing white, red, green.  (Not inconsistent w/ twinkling star.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00976.html](http://www.nuforc.org/webreports/reports/000/S00976.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [387](http://www.nuforc.org/webreports/reports/165/S165244.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165564.html)
-- [385](http://www.nuforc.org/webreports/reports/160/S160637.html)
-- [384](http://www.nuforc.org/webreports/reports/161/S161117.html)
-- [383](http://www.nuforc.org/webreports/reports/160/S160768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
