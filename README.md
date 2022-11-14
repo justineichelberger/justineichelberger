@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:38 on 14 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:39 on 14 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Warrenton (VA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Rapid flight changing directionExtremely rapid velocity across the sky from north east to west in a trajectory first to south changing direction rapidly to west.  Light blue in color, oval shape appear to know it was being observed.... maybe...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143804.html](http://www.nuforc.org/webreports/reports/143/S143804.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Orange fireball heading down to groundI decided to report this after reading about the fireballs seen three days later.  What others reported is the same as I saw; a orange red fireball very low and seemingly heading towards earth.  I saw it for only a moment and lost sight of it as it was so low it went behind some 2 story buildings & trees. Moved quickly but was very large and had a firey tail. No sounds. My wife and I saw it 5 seconds after stepping outside for a cigarette._</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94758.html](http://www.nuforc.org/webreports/reports/094/S94758.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [387](http://www.nuforc.org/webreports/reports/165/S165244.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165564.html)
-- [385](http://www.nuforc.org/webreports/reports/160/S160637.html)
-- [384](http://www.nuforc.org/webreports/reports/161/S161117.html)
-- [383](http://www.nuforc.org/webreports/reports/160/S160768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
