@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:49 on 14 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:40 on 14 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in El Paso (Fort Bliss) (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Cigar-shaped UFO moving south-southwest towards MexicoI was walking into the motor pool when I noticed something in the sky.  The motor pool is very near El Paso airport, and I have an interest in aircraft, so I stopped to look at it.  It was traveling south-southwest in a sort of "drifting" manner.  It was brown, and "cigar-shaped".  I waited for its angle to change to determine if it was a helicopter (a common sight patrolling the border), but it's shape was too evenly "cigar shaped" so I was certain it was not a Blackhawk, and it seemed to lack the vertical stabilizer and wings of fixed-wing aviation, so I stood there and stared at it.It was not at a very high elevation, maybe 1000 feet above the ground (I'm not a trained aerial observer, so I can't gauge elevation at all), and it seemed to be just "drifting" over the border, like a dirigible, though it's path was even and consistently south-southwest.I pointed it out to some of my comrades as I was seeing it, but they apparently didn't see it.  I lost track of it when I had to get back to what I was doing.((NUFORC Note:  Witness indicates that date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67502.html](http://www.nuforc.org/webreports/reports/067/S67502.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Corbett (OR) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Summary : we were driving west on chamberlain rd. which overlooks the columbia river gorge toward washugal washington. we witnessed several, at least twenty, lights off to the north, toward washington, moving in an easterly direction through the gorge. The lights seem to be contained within a glowing nebula.  At the front of the formation was a dark object, larger than an airplane. lights looked like streamers breaking off the main body.  object moved quickly up the gorge away from the coast.  it definitly did not move west.detail will follow later</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02881.html](http://www.nuforc.org/webreports/reports/002/S02881.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [387](http://www.nuforc.org/webreports/reports/165/S165244.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165564.html)
-- [385](http://www.nuforc.org/webreports/reports/160/S160637.html)
-- [384](http://www.nuforc.org/webreports/reports/161/S161117.html)
-- [383](http://www.nuforc.org/webreports/reports/160/S160768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
