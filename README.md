@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:27:50 on 14 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:11:39 on 14 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Ventura (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Ventura, CA.  Star looking object with rotating light (lighthouse) changed directions and speedI was night sky watching with my Generation 3 goggles.  As usual I see aircraft and several satellites and sometimes something I can't explain.Then a bright star looking object appeared from northwest moving southeast at a speed slower than commercial aircraft, and a height of approximately 4000 feet.  The object had a slow rotating light like a lighthouse.  I watched for approximately fifteen seconds then the object changed directions heading upward.I watched the object climb at a faster speed over the next thirty seconds with the slow rotating light until it was out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143788.html](http://www.nuforc.org/webreports/reports/143/S143788.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Manville (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Strange lights flying oval.One large oval was floating for 15 mins then flew very fast across the sky.  The left side had three red lights, the right had four white ones.  Behind were other white lights 5-7 in equal distances across the sky.  There were also eight air planes that were very evident. I saw a similar thing?  Last year in Hillsborough, NJ, one town away.Mind you, my mother had text me, and asked about strange lights, she had been down the same road 15 minutes before us, she says she thought that the object was following her.   The object was visible for almost the rest of our ride, but it didn’t seem to move until it was directly over the mini airport.  It flew very very fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137248.html](http://www.nuforc.org/webreports/reports/137/S137248.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [387](http://www.nuforc.org/webreports/reports/165/S165244.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165564.html)
-- [385](http://www.nuforc.org/webreports/reports/160/S160637.html)
-- [384](http://www.nuforc.org/webreports/reports/161/S161117.html)
-- [383](http://www.nuforc.org/webreports/reports/160/S160768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
