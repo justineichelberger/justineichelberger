@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:12:47 on 15 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:46 on 15 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in South Webster (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>This is what I would call my part two of an event that happen on 5/31/01. A coworker and myself saw the same burnt orange objects in the northeastern sky at 18:29pm est. I have saw this befor and it was the same as I first discribed it then. We first saw a single burnt orange light in the northern sky. It was there only about 20 seconds or so then went out. Then in about a minute it was visable slightly left of it first location. After about 3 min's, we saw one,then two, and then three objects in the northwest. Same shape,color,and brightness. We were shocked. I was more than he because I thought that I would never see this again. The sky was crystal clear and no moon was visable. Objects were about at 45 degree's from horizon. There were jets in the area  but at a much higher altitude. Or so they seemed. No sounds were heard.Just a regular night. I have been watching the sky since I was a small boy and I have never saw anything like this.((NUFORC Note:  Please see other reports for same date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20394.html](http://www.nuforc.org/webreports/reports/020/S20394.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Piriapolis (Maldonado Department) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>The object was not noticed at the moment of taking the photograph, but only when it was enlarged.This photograph was taken from the seaside front in the city of Piriapolis in Uruguay, on the coast of the Rio de la Plata river. The coordinates are: -34.863468773203735, -55.27964588674423.It was taken at midday, Uruguay time, on November 15, 2021, using the camera of an iPhone 12 cell phone.The person who took the photograph did not notice anything strange, he just liked the great view of the water, the clear sky and a sailing boat. A few days later, he looked at it again and noticed something strange in the sky, something he had not seen at the moment of taking the photograph. He enlarged it using the Let’s Enhance app. It is not possible to confirm if it was moving or not, but by the image it seems to be still.I am attaching four photographs, the original one and three stages of amplification.Using the normal UFO classification names, I would say it is cigar shaped, but it actually looks like a fish. The front half looks like a shark of a whale, and the back half like a metallic object, an airplane with no tail.I completely trust the photographer, and I know it is not a hoax.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165591.html](http://www.nuforc.org/webreports/reports/165/S165591.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
