@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:47 on 15 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:49 on 15 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Moca (Puerto Rico) (PR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Late, cloudy night in Moca, Puerto Rico.  I saw immense, pulsing lights of varied colors slowing passing above the clouds.  Could not make out a shape but object was at least 2 or 3 footballs fields in size.  It moved very slowly from east to west by southwest.  After several minutes, I saw and heard two fighter jets roar past in same direction.  This pattern was repeated on at least 2 or 3 other nights sometime between 11pm and 2am.This happened sometime in November in Moca, Puerto Rico.  I came up from New York on vacation and was staying with an uncle on route 110, close to the town square.  It was cloudy and happened between 11pm and 2am.  I would see bright, colored lights pulsing above the clouds.  The object(s) moved in a west to southwest direction.  It moved very slowly.  I was facing south and saw the lights from the east as they passed overhead to west.  It took about 30 -60 seconds for it to pass and seemed immense because the different colors would pulse sporadically over a wide area as it moved west.  Several minutes afterward, 2 fighter jets would roar by in the same direction.  This went on for 2 or 3 nights.  I found out that this had been documented in November of 1997.  A friend lent me a book about sightings in Puerto Rico.  In there, to my relief, I saw a reference to the sightings.  It helped to reaffirm what I saw.  The book is in spanish but I don't know the name of it.  This is the second incident that I have submitted and will be submitting others.((NUFORC NOTE:  Date is approximate.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05231.html](http://www.nuforc.org/webreports/reports/005/S05231.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Jessup (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately an hour - an hour minutes.</sub><blockquote><sub>Strange Star formation with green and red lightsMy 22-year-old son and I were outside trying to see the comet.  After a while my son spotted a object that looked like a large star, but when looked at through binoculars, it appeared to have red and green lights flashing. We watched it for a while, then decided to get a closer look and drove about five miles towards it, keeping an eye on the entire time.  When we got closer, we saw another just like proximately ten inches (in the sky) to the right.  Then we noticed three stars diagonally, in-between them.  All five “stars” were in perfect alignment, almost in the shape of a cross.  *  *                        *                    *  *  We watched them for about an hour and did not see anything else. I am not sure if the atmospheric conditions will make objects appear colored, but there was absolutely no mistaken the green and red we observed.The objects did appear to change in an orbit pattern, so I am sure there is a reasonable explanation, I have just never seen that particular formation in the sky and wanted to have a record of it.((NUFORC Note:  Probably a sighting of Sirius.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59872.html](http://www.nuforc.org/webreports/reports/059/S59872.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
