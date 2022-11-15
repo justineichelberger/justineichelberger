@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:43 on 15 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:37 on 15 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Wolfeboro (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two orbs saw in the sky.I saw two lights in the nighttime sky.  One was orange and one was blue. I do know that by law, no aircraft can have those colors.  The lights looked like a “blob” and were large.  They both hovered motionless for one min and then the orange light went north and the blue light went east at an almost supersonic speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124102.html](http://www.nuforc.org/webreports/reports/124/S124102.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 37</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161120.html](http://www.nuforc.org/webreports/reports/161/S161120.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
