@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:34:18 on 15 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:21:53 on 15 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Douglassville (PA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>4 Blue Lights perfectly spaced in a single row found hovering above night sky for 1 minute in Douglassville, PaAt 6:30pm in Douglassville, Pa my two children and I saw 4 bright blue lights perfectly spaced in a single row hovering above us, no movement at all, for around one minute and then the lights just disappeared with no trail.  The sky was pretty black/clear.  I’ve never seen anything like it before. I drove back over to the area where we witnessed it and it was not there, nor did it reappear.  I don’t know if there is any type of aircraft that could possibly have that configuration of neon blue lighting.  If you were to outline the lighting it would form a perfect rectangle.  It could also have been 4 separate hovering UFO’s, but they were spaced too perfect, all 4 lights were equally spaced apart from each other.  There was no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94503.html](http://www.nuforc.org/webreports/reports/094/S94503.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Fernwood (ID) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>more than one person[strangers] have come to my unique viewing mountainsideon many occassions a uc berkley physisist and a women from up north[whom was an abductee] have been up to my mountain top home to observe these sightings.one of them witnessed a close up bright light nearby.she told me of a small metal object removed from her head when she was younger.this women has been here many times and belongs to an international sighting and abductee group.many folks in our small community have observed bright light on the side of our closest peak. we have seen them break into smaller objects,move arround so fast that you could not keep up then jet off into the horizon.it creeps a lot of locals, i just keep on looking.my contractor friend is telling me about these hugh concrete homes he's building into the sides of mountain sides, my lady friend told me about this a while back as these folks are expecting some huge winds comming from the west and that they are getting out of the way.anyway these sightings are not slowing down and i'm not leaving.thanks for reading this, people need to know.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50213.html](http://www.nuforc.org/webreports/reports/050/S50213.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
