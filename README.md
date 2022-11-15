@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:02:43 on 15 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:40 on 15 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1962, an anonymous witness in Alameda Naval Air Station/Marine Corp Air Wing Bubble (CA) reported seeing craft that fit the description of some '' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Ufo Collision with Marine Corp FighterI was a radar operator in marine corp reserve at Alameda Naval Air Base. Time November 1962, i saw 3 boagies on screen at 38 degrees , saw them again at 184 degrees going out bound 15 seconds later. two jets were scrambled to investigate.((name deleted)) reported a collision with a UFO . And reported he had lost his canopy. Upon return to the base the jet was put in hangar two guards posted outside. and three new trainees myself included were not allowed back on base when we returned for our drill the following week. To this date I have never been discharged from the marine corp air wing reserves.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11176.html](http://www.nuforc.org/webreports/reports/011/S11176.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Merritt Island (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>There was a full moon out and i decided it would be a good picture so I started filming the moon with my cell phone. What I notice later when I am  reviewing the video clip is that there is a light moving all around the moon. The light at one time goes into the moons path and dissapears then reapears right after. It was a very fast light with seemingly jerk movements.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47743.html](http://www.nuforc.org/webreports/reports/047/S47743.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
