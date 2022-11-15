@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:57 on 15 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:38 on 15 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Gig Harbor (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately  -  minutes.</sub><blockquote><sub>Flame moving sideways-Gig Harbor Wa -Nov. 1990I am sorry it has taken so long. I was driving up Soundview Dr and saw a large flame moving sideways, I stop and pulled into a lane facing the water and the flame stoped My daughter started to shake I told her not to speak that it was to far away to see us, the flame turned into lights and the shape of the lights changed and it looked like it was taking water then the lights started to move and a airforce c130 (I think) almost hit it and then the lights went into the sky and the sky turned red.I went home with my daughter and told my husband and we went back to the site but everything was gone. I remimber every detail like it happened yesterday but was to afriad to tell anyone because I am in real estate and didnot want the public to think of me diffenently but,I feel it is time((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47622.html](http://www.nuforc.org/webreports/reports/047/S47622.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Oroville (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was outside smoking with a friend when I noticed what appeared to be a satellite going south to north (I've seen numerous satellites that reflect sunlight this wasn't the case) this light started to dim out when a BRIGHT cylindrical light beamed out towards earth half way it looked like a helicopter spotlight from space then just as quick as I seen it, it was gone the light disappeared me and my friend looked at each other I said "did you  see that" he said yep and immediately went inside he was scared  the next day I was telling everyone about it and my friend in Bangor seen the same thing I was grateful I had someone else see it too  since then i observed the same phenomena by myself but heading east to west approx 1 month later  ever since then my eyes have been glued to the sky's((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97651.html](http://www.nuforc.org/webreports/reports/097/S97651.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
