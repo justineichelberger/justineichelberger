@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:46 on 15 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:36 on 15 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Piriapolis (Maldonado Department) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>The object was not noticed at the moment of taking the photograph, but only when it was enlarged.This photograph was taken from the seaside front in the city of Piriapolis in Uruguay, on the coast of the Rio de la Plata river. The coordinates are: -34.863468773203735, -55.27964588674423.It was taken at midday, Uruguay time, on November 15, 2021, using the camera of an iPhone 12 cell phone.The person who took the photograph did not notice anything strange, he just liked the great view of the water, the clear sky and a sailing boat. A few days later, he looked at it again and noticed something strange in the sky, something he had not seen at the moment of taking the photograph. He enlarged it using the Let’s Enhance app. It is not possible to confirm if it was moving or not, but by the image it seems to be still.I am attaching four photographs, the original one and three stages of amplification.Using the normal UFO classification names, I would say it is cigar shaped, but it actually looks like a fish. The front half looks like a shark of a whale, and the back half like a metallic object, an airplane with no tail.I completely trust the photographer, and I know it is not a hoax.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165591.html](http://www.nuforc.org/webreports/reports/165/S165591.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Varysburg (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Two triangular ships seen at nightWhile driving down a back road doing some deer spotting myself and the drive looked up in the sky to see two triangular objects spinning together. From what I can recall, the centers had either an orange or red light and the three points had either an orange or red, one had orange one had red. In the middle there were little white lights flying around it, it kind of looked like how scientist shows movements of atoms. the driver asked if I saw what he say, I said yes, and I was a bit shocked and scared at the same time, he punched the gas to get closer, and as we got past the try line, not even within 8 sec. it was gone and all that was left was a little white light going across the sky. I never really believed in UFO's until I saw that, it was ridiculous and to this day I can’t believe a saw such a spectacle. I don’t know what it was doing, the movement was unreal, like out of a movie, thinking about it makes my stomach drop, I want to see it again, but this may have been a once in a lifetime special.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67126.html](http://www.nuforc.org/webreports/reports/067/S67126.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
