@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:37 on 15 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:45 on 15 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 37</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161120.html](http://www.nuforc.org/webreports/reports/161/S161120.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Sierra Vista (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>The pulsating light kept moving over our area for over an hour with no sound emitting from it and the light pulsating the whole time.While outside in my back yard,I looked up and saw this pulsating light with two lights on each side.  The pulsating light was the center light and it did not have the configuration of conventional aircraft with red and green 'running lights' on each side.  I watched it go northwest then it seemed to stop for a short time then veer to the left,then again stopped and came back to the northeast and I watched and listened for a noise of engines for conventional aircraft. There was none. I know what heliocopters sound like and jet engines and propeller driven planes-nothing!  No sound was heard and I watch this object go back in forth over my area for over an hour.  It kept going back and forth over the area and then close to an Aerostat balloon that is here and is supposed to be a restricted airspace around it and it should have been close enough at that point to have heard any sort of engine sound but there was no sound coming from the pulsating light at all.  It was 7:30pm (19:30hours) when I started watching this light and 8:30 when I went inside my  house. It was still moving back and forth in the area where I live and I tried to find the phone number of the Air Traffic Control tower of the military installation that I live near but had no luck finding any information.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33254.html](http://www.nuforc.org/webreports/reports/033/S33254.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
