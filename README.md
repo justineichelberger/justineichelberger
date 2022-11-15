@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:49 on 15 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:12:47 on 15 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Jessup (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately an hour - an hour minutes.</sub><blockquote><sub>Strange Star formation with green and red lightsMy 22-year-old son and I were outside trying to see the comet.  After a while my son spotted a object that looked like a large star, but when looked at through binoculars, it appeared to have red and green lights flashing. We watched it for a while, then decided to get a closer look and drove about five miles towards it, keeping an eye on the entire time.  When we got closer, we saw another just like proximately ten inches (in the sky) to the right.  Then we noticed three stars diagonally, in-between them.  All five “stars” were in perfect alignment, almost in the shape of a cross.  *  *                        *                    *  *  We watched them for about an hour and did not see anything else. I am not sure if the atmospheric conditions will make objects appear colored, but there was absolutely no mistaken the green and red we observed.The objects did appear to change in an orbit pattern, so I am sure there is a reasonable explanation, I have just never seen that particular formation in the sky and wanted to have a record of it.((NUFORC Note:  Probably a sighting of Sirius.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59872.html](http://www.nuforc.org/webreports/reports/059/S59872.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in South Webster (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>This is what I would call my part two of an event that happen on 5/31/01. A coworker and myself saw the same burnt orange objects in the northeastern sky at 18:29pm est. I have saw this befor and it was the same as I first discribed it then. We first saw a single burnt orange light in the northern sky. It was there only about 20 seconds or so then went out. Then in about a minute it was visable slightly left of it first location. After about 3 min's, we saw one,then two, and then three objects in the northwest. Same shape,color,and brightness. We were shocked. I was more than he because I thought that I would never see this again. The sky was crystal clear and no moon was visable. Objects were about at 45 degree's from horizon. There were jets in the area  but at a much higher altitude. Or so they seemed. No sounds were heard.Just a regular night. I have been watching the sky since I was a small boy and I have never saw anything like this.((NUFORC Note:  Please see other reports for same date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20394.html](http://www.nuforc.org/webreports/reports/020/S20394.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
