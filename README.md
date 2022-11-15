@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 15 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:10 on 15 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1984, an anonymous witness in Jasper (rural part of) (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Lights moving in a circular motion, but hovering without any SOUND!I have one living witness besides myself that can verify this account- my Step-Dad Wayne. I have told few people this story, and truthfully- it isn't for any other reason than, 'they just wouldn't BELIEVE me!" But here is what happen…We were hunting outside the town of Jasper , Fl on some leased land for a private hunting club. There were only 3 of us at the end of the day, and we were responsible for locking-up the main-gate to the entrance. The main road entrance runs perpendicular across a power-line with 200 yds wide of clearnce- very clear night, no obstructions of view, etc...  As I sat there listening to my Step-Dad and his Friend talk, I noticed a 3 light configuration moving in a circular pattern- but remaining in the same altitude -not moving up or down or side to side -just hovering... (cannot remember EXACT colors now) but it startled me enough to point it out to Wayne. This OBJECT was so close that I knew it should be making some sort of sound.!  And as a 16 year old kid, (at the time- 44 now) I realized  that Wayne and his friend were as curious and unsure of WHAT IT WAS as I was. In fact, enough that I begin to back up quit scared - to be honest! As I stepped backward toward the truck- intently watching this thing- it vanished.  It was at that moment I remember hearing Wayne and his friennd say, "Why didn't it make any sound?" And I looked to my right, at the same exact angle, but to the right-side this time, there it was AGAIN! Not making any sound, but visible lights rotating... I got so scared that I got into the truck and begged Wayne to get in also, and let's go!  It disappeared finally, and we left rather starteld. It must of lasted about 3-4 minutes total, and 'the thing that scared me the most' (my Dad was a U.S.A.F. Captian/Pilot- I had seen many AIR-SHOWS, etc...) that this THING MADE NO SOUND AT ALL...NONE! It was the only time I saw anything that resembled a U.F.O., and after finding this WEB SITE- I f! igured you all could use all the 'TRUE AND ACCURATE SIGHTINGS'! that co me forward. I never reported this until today, and my Step-Dad, Wayne, is still alive, and could verify this account. Hope this helps in some way!((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88202.html](http://www.nuforc.org/webreports/reports/088/S88202.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Watermill (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright beam of Light? Disc projected out around beam , then jumped into a saucer  shape,  around the outside primaries another disc eminite around another 6 feet, filled with hundreds  of electrical sparks.  80 feet in diameter  15  feet tall.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158615.html](http://www.nuforc.org/webreports/reports/158/S158615.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
