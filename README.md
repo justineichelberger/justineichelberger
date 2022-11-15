@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:40 on 15 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:52 on 15 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Spartanburg (SC) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Upside down teardrop hovering over hwy witnessed by others.Heading south on I-85 between Spartanburg and Greenville, SC just past the intersection of I-26 E (also locally known as the crossroads of the south) about 1 mile. As the wolfpack of vehicles I was in ( about 15 vehicles) turned onto a straightaway there was an object in the sky that resembled a lightbulb with the threaded part taken off the lightbulb. It had a texture like the moon but was orange and seemed to have a arua about it like heat rising in the desert, from the bottom to the top..All the vehicles hit there brakes at the same time. Myself and another guy in a truck realizing this may be a one in a million event raced to where the object was over the road. The only time I took my eyes off the object was when I bolted into the emergency lane. As we both approached the object it turned toward the south and flew away with the same heat signature that appeared to surroound the object. It was almost like the orange part that I could see had disappeared when it turned, and the back part of it was the same color as the sky, almost morphing invisible, except for the heat trail. Even though it moved quickly it moved with such fluidity. By the time me and the other guy got to where it was it looked as if it was 20 miles away over Greenville, SC in maybe 30secs to a minute. I pulled over next to the guy and he said what the hell was that? I shrugged my shoulders and he drove away. About 5 minutes later I was home telling my wife what happened. I watched the local news that night and for days and no reports. I just wondered if anyone else may have seen the same as me and the other guy. I have never seen anything like this in any report or pictures anywhere. It appeared to be more biological looking then mechanical.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68462.html](http://www.nuforc.org/webreports/reports/068/S68462.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Colorado (on interstate) (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>silent craft followed highwayMy girlfriend and I were traveling from LA to Chicago.  It was night time in Colorado (could have been Utah, it has been 9 years), but up above I saw a pattern of lights (craft) that was following the highway.  After 10-20 minutes of seeing this craft, I pulled off the highway to get a better look. We stopped my SUV and got out.  The craft made no noise, and moved at a constant speed above.  It was either the a blimp, or something else, I have never seen any air vehicle but a lighter than air craft move at that low an altitude and speed for that long.The lights/craft continued to move in the same direction at a constant speed (following the highway) for about 45 min to an hour.  Like stated above, it was either a blimp, or something unknown.It couldn't have been missed, and it was up there for quite some time.  I have always wondered if anyone but us saw this silent craft.I'd love to find out if there was any corroboration or if it was just a blimp following the highway.I am an amateur air enthusiast, and could identify most planes by sight.  This was nothing I was familiar with.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93919.html](http://www.nuforc.org/webreports/reports/093/S93919.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
