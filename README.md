@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:10 on 15 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:34:18 on 15 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Watermill (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright beam of Light? Disc projected out around beam , then jumped into a saucer  shape,  around the outside primaries another disc eminite around another 6 feet, filled with hundreds  of electrical sparks.  80 feet in diameter  15  feet tall.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158615.html](http://www.nuforc.org/webreports/reports/158/S158615.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Douglassville (PA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>4 Blue Lights perfectly spaced in a single row found hovering above night sky for 1 minute in Douglassville, PaAt 6:30pm in Douglassville, Pa my two children and I saw 4 bright blue lights perfectly spaced in a single row hovering above us, no movement at all, for around one minute and then the lights just disappeared with no trail.  The sky was pretty black/clear.  I’ve never seen anything like it before. I drove back over to the area where we witnessed it and it was not there, nor did it reappear.  I don’t know if there is any type of aircraft that could possibly have that configuration of neon blue lighting.  If you were to outline the lighting it would form a perfect rectangle.  It could also have been 4 separate hovering UFO’s, but they were spaced too perfect, all 4 lights were equally spaced apart from each other.  There was no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94503.html](http://www.nuforc.org/webreports/reports/094/S94503.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
