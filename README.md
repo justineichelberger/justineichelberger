@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:36 on 15 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:43 on 15 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Varysburg (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Two triangular ships seen at nightWhile driving down a back road doing some deer spotting myself and the drive looked up in the sky to see two triangular objects spinning together. From what I can recall, the centers had either an orange or red light and the three points had either an orange or red, one had orange one had red. In the middle there were little white lights flying around it, it kind of looked like how scientist shows movements of atoms. the driver asked if I saw what he say, I said yes, and I was a bit shocked and scared at the same time, he punched the gas to get closer, and as we got past the try line, not even within 8 sec. it was gone and all that was left was a little white light going across the sky. I never really believed in UFO's until I saw that, it was ridiculous and to this day I can’t believe a saw such a spectacle. I don’t know what it was doing, the movement was unreal, like out of a movie, thinking about it makes my stomach drop, I want to see it again, but this may have been a once in a lifetime special.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67126.html](http://www.nuforc.org/webreports/reports/067/S67126.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Burnsville (MN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Green ball of light cruised across skyI am a middle-aged professional male.  I was alone, so as far as I know, I was the only witness.  This sighting occurred while I was driving home from work this evening, at approximately 5:15pm.  I was traveling in a SW direction, and the light that I saw was traveling in about the same direction as I was.  My sunroof was open and I would say that I had about an 80 degree arc of sky that I could see.  What I saw was a distinctly green light.  It moved very fast.  Much faster than an airplane, but not so fast as a meteor streak off of the atmosphere.  The light was also relatively large.  I would say approximately 1/10 the size of the full moon at peak height.  The light moved from behind me to in front of me, across the full range of sky that I could see, in about 5 seconds.  It did not leave a trail of any kind.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104487.html](http://www.nuforc.org/webreports/reports/104/S104487.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
