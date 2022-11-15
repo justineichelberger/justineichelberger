@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:03:48 on 15 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:41 on 15 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in Finland () reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Diamond or kite shaped cluster of high altitude red lights that changed to horseshoe pattern and zipped to the horizon.During the winter of '79, in Finland, while my buddies and I were taking a sauna bath in the apartment complex where they lived. They were finished and were "cooling down" outside on the balcony during the mid evening hours on a Satuday nite and the four of them were having refreshments to rehydrate and rest from the broiling sauna-The Finns like it hot!- one of my buddies looks up into the clear starry night and gets the other 3 to also see a series of red lights moving around straight overhead at above 1000 feet in altitude and watch as the the lights maneuver  around changing patterns in a formation of sorts. They described the event to me minutes after it happened. The pattern was at first a shifting kite/diamond shape directly overhead that reorganized into a horseshoe pattern of red lights and sped/zipped to the horizon at high speed. They did not discern a solid shape or hull of a craft only the red lights changing patterns and departing at a phenomenal speed - one second or two to get to the horizon and out of sight. No prank was played on me as the four buddies were missionaries for the church and no one gave the slightest hint of this being a joke on me. They drew on paper the light patterns and said that they behaved like separate objects rather than off and on lights attached to a single craft or hull because of the jigglly positioning or jockeying the lights did when changing from the kite shape outline formation to the horseshoe formation. Then they departed in a locked in formation as "one" entity.  This event was quite possibly recorded in one to four journals as we each kept a journal of our stay in Finland.((NUFORC Note:  Date of event may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42570.html](http://www.nuforc.org/webreports/reports/042/S42570.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Duluth (MN) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two square-shaped objects with flashing lights and no sound hovered above Duluth for a minute and slowly moved south.As I walked outside at 19:20, I noticed two objects above Duluth in the south sky, unmoving.  Both had four flashing lights on them in a square-shape.  They only stayed about a minute after I noticed them, and began to move toward Superior, WI.  They made no noise as a helicopter would when they left.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94506.html](http://www.nuforc.org/webreports/reports/094/S94506.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
