@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:43 on 15 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:02:43 on 15 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Burnsville (MN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Green ball of light cruised across skyI am a middle-aged professional male.  I was alone, so as far as I know, I was the only witness.  This sighting occurred while I was driving home from work this evening, at approximately 5:15pm.  I was traveling in a SW direction, and the light that I saw was traveling in about the same direction as I was.  My sunroof was open and I would say that I had about an 80 degree arc of sky that I could see.  What I saw was a distinctly green light.  It moved very fast.  Much faster than an airplane, but not so fast as a meteor streak off of the atmosphere.  The light was also relatively large.  I would say approximately 1/10 the size of the full moon at peak height.  The light moved from behind me to in front of me, across the full range of sky that I could see, in about 5 seconds.  It did not leave a trail of any kind.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104487.html](http://www.nuforc.org/webreports/reports/104/S104487.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1962, an anonymous witness in Alameda Naval Air Station/Marine Corp Air Wing Bubble (CA) reported seeing craft that fit the description of some '' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Ufo Collision with Marine Corp FighterI was a radar operator in marine corp reserve at Alameda Naval Air Base. Time November 1962, i saw 3 boagies on screen at 38 degrees , saw them again at 184 degrees going out bound 15 seconds later. two jets were scrambled to investigate.((name deleted)) reported a collision with a UFO . And reported he had lost his canopy. Upon return to the base the jet was put in hangar two guards posted outside. and three new trainees myself included were not allowed back on base when we returned for our drill the following week. To this date I have never been discharged from the marine corp air wing reserves.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11176.html](http://www.nuforc.org/webreports/reports/011/S11176.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
