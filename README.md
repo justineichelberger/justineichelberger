@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:48 on 16 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:40 on 16 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Greeley (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Looking for Leonid meteors saw triangle lights fly overheadI was in my backyard hoping to catch a view of the Leonid meteor shower.  From the east I saw a bright light heading toward me to the west.  I noticed that it was 3 lights in the shape of a triangle, not a meteor, and moving too fast and too high to be a plane.  It passed directly overhead and I lost it as it passed over the house.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04875.html](http://www.nuforc.org/webreports/reports/004/S04875.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Kewadin (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>saw a light, long object above some trees while driving.we stopped and got out to see what it was. we thought it was a large plane flying low and was going to crash  but it wasnt a plane. i believe it was a ufo!while out driving with my mom and sister we came to a stop sign.my mom said what is that and to our surprise it was a long object with several lights. green and white in color.it stayed over the treetops in front of us for a few minutes and then turned and vanished. i told my sister that it was a 747 plane at first, but we didnt hear a sound when we got out of the car to watch it. it scared me  when it started to turn towards us, so i told her to get in . when we got back in, we watched it fall behind the trees, the lights went out. we drove across the road to see if it had crasshed or if we could find it, but we couldnt. my sister called the local news and the coast guard, but they told us it was only a meteor. we know it wasnt!! and nobody can tell me that it wasnt some sort of flying object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11029.html](http://www.nuforc.org/webreports/reports/011/S11029.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [565](http://www.nuforc.org/webreports/reports/165/S165788.html)
-- [564](http://www.nuforc.org/webreports/reports/165/S165795.html)
-- [563](http://www.nuforc.org/webreports/reports/165/S165799.html)
-- [562](http://www.nuforc.org/webreports/reports/165/S165794.html)
-- [561](http://www.nuforc.org/webreports/reports/165/S165791.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
