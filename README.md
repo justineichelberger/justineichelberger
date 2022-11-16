@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:41 on 16 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:45 on 16 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Lake Havasu City (AZ) reported seeing craft that fit the description of some 'Cross' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>8 Flashing lights seen flying in formation with multiple other planes flying in close proximity for long periods of time circling over the city.  They would fly as one plane and would seem to break off into two separate crafter after flying together for 3-5 minutes.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131298.html](http://www.nuforc.org/webreports/reports/131/S131298.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Fairborn (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Saw a very bright streak of light at about 500-1,000ft altitude with bright multicolored flashes of light emmiting from it. Estimated speed of object around 75-100mph, and estimated length of the object at around 300-1,000ft. A neighbor witnessed the object with me and said it could not have been a meteor because it was traveling too slow and did not burn up. Also it was brighter and more colorful than any shooting star I've ever witnessed. Witnessed object for about 45-60 seconds.Saw a very bright streak of white light with bright multicolored flashes of light emmiting from the entire length of the object. I would estimate that the object was at about 1,000ft altitude, with the length of the object at around 300-1,000ft, and estimated speed of the object at around 75-100mph. I first saw the light through some tree branches and thought someone was lighting fireworks off. Then when the object passed a tree where I could get a look at it I said "what in the world is that?" because my neighbor was getting out of his car. When he witnessed the object, he said "are we seeing ufo's or something?" He dismissed the object as being a meteor because it was moving so slow, and because it was fairly close to the ground. The object went right over Wright Patterson AFB and continued in a north-westerly direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10903.html](http://www.nuforc.org/webreports/reports/010/S10903.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [565](http://www.nuforc.org/webreports/reports/165/S165788.html)
-- [564](http://www.nuforc.org/webreports/reports/165/S165795.html)
-- [563](http://www.nuforc.org/webreports/reports/165/S165799.html)
-- [562](http://www.nuforc.org/webreports/reports/165/S165794.html)
-- [561](http://www.nuforc.org/webreports/reports/165/S165791.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
