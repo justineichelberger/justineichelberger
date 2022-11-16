@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:35 on 16 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:48 on 16 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Holland (OH) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>i went outside to smoke a ciggarette,i glanced to the west of my home.saw cluster of lights,elongated formation,some larger than others.with fiery trails,flew due west to east at the hight of a standard helicopterthey flew in a steady formation,in an elongated patern,due west to due east.at about the height and speed of a helicopter,they had fiery trails like from a bottle rocket orangeish, the trails didn't extend too far back of them,at first sighting of them i thought it was a larger type fireworks,like a buzzing bee rocket.the lights were white with the burning,fizzling out trails...there were appoximate 7 to 10 lights kinda like star shaped,the lead one was a little bigger than some of them and a few even smaller still,they bulged out from the lead one in a kinda elongated skinny diamond patern.irregulary spaced apart. giving an estamated size,i would say ,if you were looking up at a standard, one of our local hospital lifeflight helicopters,it would be about 10 of them back to back,they flew at a steady pace straight and true no deviations...i'm a 42 year old jeep factory worker with 23 years seniority.i've never seen anything remotely like this.i;ve seen meteors,airplanes at night,comets etc...this was the coolest thing i've ever seen ...i was outside smoking a cigg.because my non smoking in-laws were on our computer with my wife showing them something... :) :) :)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10854.html](http://www.nuforc.org/webreports/reports/010/S10854.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Greeley (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Looking for Leonid meteors saw triangle lights fly overheadI was in my backyard hoping to catch a view of the Leonid meteor shower.  From the east I saw a bright light heading toward me to the west.  I noticed that it was 3 lights in the shape of a triangle, not a meteor, and moving too fast and too high to be a plane.  It passed directly overhead and I lost it as it passed over the house.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04875.html](http://www.nuforc.org/webreports/reports/004/S04875.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [565](http://www.nuforc.org/webreports/reports/165/S165788.html)
-- [564](http://www.nuforc.org/webreports/reports/165/S165795.html)
-- [563](http://www.nuforc.org/webreports/reports/165/S165799.html)
-- [562](http://www.nuforc.org/webreports/reports/165/S165794.html)
-- [561](http://www.nuforc.org/webreports/reports/165/S165791.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
