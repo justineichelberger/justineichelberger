@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:35:19 on 16 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:23:06 on 16 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Fort Payne (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>red light  seen moving slowly left,right and rapidly vertically up and down.On 11/16/15 about 7:30 pm myself, my sister-in-law & her daughter were walking her dogs. It was dark, light overcast and very windy.  When reaching the intersection of Hamilton Drive and Crystal Lake Drive we spotted a large, bright red light against the mountain.  My first thought was it was a car's tail lights visible on a mountain road, but then realized there were no mountain roads in that area.The light moved up the mountain side seemingly following the slope and then back down to approximately its original elevation and began blinking a small green light from the lower side of the red light.  It began to move left, right, back left and then rapidly ascended to an altitude approximately the height of the mountain, estimate 500 feet in about 5 seconds.  Then it rapidly descended back to its original altitude.The light slowly descended from that point behind a tree line as if landing and was not seen again.No craft shape could be seen as the red light dominated.The event lasted approximately 20 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124167.html](http://www.nuforc.org/webreports/reports/124/S124167.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Topsail Beach (NC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>brigth orange globe that became four objects.surf fishing on topsail beach n.c. Thought i saw moon coming up over the ocean. I did not really pay attention to it,I thought it was the moon. Then i noticed the moon much higher and then watched the object.  It appeared to move slowly north and the became four smaller objects.  It was very bright orange.  All four oblects appeared to move very slowly north and went behind clouds.  I know we are near a military base but this was strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79036.html](http://www.nuforc.org/webreports/reports/079/S79036.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [565](http://www.nuforc.org/webreports/reports/165/S165788.html)
-- [564](http://www.nuforc.org/webreports/reports/165/S165795.html)
-- [563](http://www.nuforc.org/webreports/reports/165/S165799.html)
-- [562](http://www.nuforc.org/webreports/reports/165/S165794.html)
-- [561](http://www.nuforc.org/webreports/reports/165/S165791.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
