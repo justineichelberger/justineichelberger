@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:43 on 16 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:45 on 16 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Cincinnati (eastern outskirts) (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.15 - 0.15 minutes.</sub><blockquote><sub>large, slow moving green fireball with green and yellow tale, dropping reddish sparks, moving from south/south west towards north/north eastWhile driving Interstate I-275 west bound, at approximate mile marker 58, I observed a large green fireball moving from a direction from south  by south west towards north by north east at 7:10 pm est. This object had a tale extending at least four moon widths in length dropping material of a reddish color as it traversed very slowly across my field of view. I watched and slowed down as 9 to 11 seconds of time elapsed, and the object seemed to not change in intensity or size, but went over the northeastern horizon. The magnitude of this object rivaled the half moon present at the time. An accurate indication altitude was not readily apparent to me at the time, but the feeling I got was that it was large and not high up, moving very slowly for a meteor. My crude estimate of altitude is 3-4 miles.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10773.html](http://www.nuforc.org/webreports/reports/010/S10773.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in West Des Moines (IA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>10 red orb/lights ranging across the entire northern sky traveling at the same speed and vanishing within 15 seconds.At a 30 degree angle in the sky my friend and I saw a formation of about 8 red lights flying at the exact same speed.  These lights made shapes such as a triangle but that was due to them just flying in perfect unison as far as their speed.  They ranged across about 50 percent of the northern sky so the first and the last orb were very far apart.  the first lights started to fade and then after about 10 seconds went away and the rest started to fade as well from front to back.  Then a single red orb appeared from the western sky moving at the same speed and direction as the others.  When it was directly north from us it vanished as well.  A final red orb appeared from the western sky and did the same thing as it's predecessor.  After that the sky was clear.  There are absolutely no clouds around besides directly overhead so it they couldn't have just went behind a cloud to vanish.  My friend with me saw this and said that he saw white lights that vanished as! soon as I pulled my car over.  I did not see these as I was driving the car and was not able to stare at the formation.  I tried to take a pic with my phone but it would not pick up the lights that far away.  This was in West Des Moines in an area with plenty of lighting.  Time was 8:25 PM so it was dark.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104503.html](http://www.nuforc.org/webreports/reports/104/S104503.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [565](http://www.nuforc.org/webreports/reports/165/S165788.html)
-- [564](http://www.nuforc.org/webreports/reports/165/S165795.html)
-- [563](http://www.nuforc.org/webreports/reports/165/S165799.html)
-- [562](http://www.nuforc.org/webreports/reports/165/S165794.html)
-- [561](http://www.nuforc.org/webreports/reports/165/S165791.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
