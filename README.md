@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:45 on 16 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:54 on 16 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Gonzales (LA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.18333333333333332 - 0.18333333333333332 minutes.</sub><blockquote><sub>Bright, Orange lights in the skyOn the evening of 11/16/13 at approximately 22:00 to 22:30 hours, I was sitting on my bench in my back yard with a friend of mine just hanging out and discussing life events.  The bench faces West, I was sitting on the South end facing north while he was on the North end facing south when I noticed something in the sky behind him, to the North.  It was a sphere shaped, bright orange glowing ball that moved rather slowly as compared to aircraft observed in the area.  I never wanted to post about this before, but since this is the third time I've seen this phenomena this year, I decided to research to see if I was the only one who is seeing these things and now I’m here telling my story, reluctantly due to my profession.My first sighting took place on New Year’s Eve of this year and there were six objects that night, of the same description as previously mentioned but they appeared to be traveling in formations of two.  The first two came from the south at a very high rate of speed, moving north; one behind the other, at the same speed then appeared to stop over us, at the same time, almost like they were attached.  When those two stopped, two more came from the south in the same manner, appeared to be the same distance apart from each other as the first two and actually moved on a slightly north, north westerly direction and slowed to a stop while the third set came from the south in the same manner as the other two sets but was even more slightly to the north westerly direction and slowed to a stop as well.  By this time I had everyone’s attention to them and the objects slowly disappeared over us, all at the same time.  It was witnessed by almost everyone at my house that night, approxim! ately 8 to 10 people and this whole incident occurred within approximately 30 seconds.The second sighting, I had only seen one of them but it was traveling south at a very high rate of speed and I watched it until it disappeared in the horizon.  I was the only one who observed that one and I didn't think anyone would believe me but this sighting only lasted approximately 3 to 5 seconds.  Please note that the directions listed are approximate or in that general direction.  I hope I didn't confuse anyone with the details.  I would also like to add that I did see a Chinese lantern one night a few months ago that someone launched from the next street over from me and the lights I saw did not resemble the characteristics of the lantern at all.  The lights I saw were much much brighter and didn't flicker like the lantern did.The only photo that we had was from a cell phone and was not very clear or showed anything more than a stationary light.I tried to include as much information as I could remember or even describe in this report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104524.html](http://www.nuforc.org/webreports/reports/104/S104524.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Delran (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>large circular object moving very very slowly over an open field off of Chester Avenue. It had bright white lights around the circular</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59985.html](http://www.nuforc.org/webreports/reports/059/S59985.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [565](http://www.nuforc.org/webreports/reports/165/S165788.html)
-- [564](http://www.nuforc.org/webreports/reports/165/S165795.html)
-- [563](http://www.nuforc.org/webreports/reports/165/S165799.html)
-- [562](http://www.nuforc.org/webreports/reports/165/S165794.html)
-- [561](http://www.nuforc.org/webreports/reports/165/S165791.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
