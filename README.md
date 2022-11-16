@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:42 on 16 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:42 on 16 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Austin (Round Rock) (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Triangular object w/three hemi-spherical 'projections' from the bottom, travelling N-S reflecting pink glow of city lights.I was watching the Leonids meteor shower of 11/16/98, approximately 2:30 AM +/- five minutes.  As I watched one meteor directly overhead, the meteor trail crossed the path of the object. The object appeared to be triangular in shape, with three hemi-spherical projections from the bottom.  Imagine three silver ballons with their stems tied together.  It was about the size of ones thumbnail if held at arms length, or the distance between any two of the three stars that make up Orion's belt.  It's leading edge and the leading portions of the projections seemed to be reflecting the pinkish color of a nearby streetlight, or possibly the glow from Austin, but it did not seem to be creating any other light of its own.  The wind was a dead calm and it made no sound. It was moving extrememly fast.  I approximated that it would travel from horizon to horizon in about 10-15 seconds.  I saw it first when it was almost directly overhead, and watched it for about five seconds before it was obscured by a house.  During that time it travelled N-S along a line from Polaris passing roughly between Leo and Orion. I felt it might actually be three silver ballons that someone had let go, or possibly a set of weather balloons, but the object was moving very fast and the wind was a dead calm.  I continued to watch until 3:00 AM but saw nothing else except meteors. I am an amateur astronomer with a degree in Physics.  I am very skeptical about what I saw, but I have no explanation.  I have to count out normal balloons or weather balloons due to the extremely fast movement of the object and the lack of any wind whatsoever.  I was very startled to find a similar report in your database dated 10/8/98, also in Austin.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04869.html](http://www.nuforc.org/webreports/reports/004/S04869.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Wentzville (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Driving East north of Wentzville.  We noticed a very bright light traveling on an arc from 12:00 (due north) to 5:00 (sse).  We noticed the light shortly after it came into view from the north and watched it appx. three forths of the way across the arc before it disappeared.  The light did not dim or get brighter, it did not break up or change color from its original bright white color.  The ambient light level of the sky in this area is high, due to a large factory east of town.  Viewing stars in this area is usually difficult, thats what made this light different and attracted our attention.  We could see landing lights of aircraft lineing up for an east to west landing at lambert.  This light traveled perpendicular to those lights.  Possible meteorite?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33170.html](http://www.nuforc.org/webreports/reports/033/S33170.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [565](http://www.nuforc.org/webreports/reports/165/S165788.html)
-- [564](http://www.nuforc.org/webreports/reports/165/S165795.html)
-- [563](http://www.nuforc.org/webreports/reports/165/S165799.html)
-- [562](http://www.nuforc.org/webreports/reports/165/S165794.html)
-- [561](http://www.nuforc.org/webreports/reports/165/S165791.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
