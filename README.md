@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:23:06 on 16 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:04:36 on 16 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Topsail Beach (NC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>brigth orange globe that became four objects.surf fishing on topsail beach n.c. Thought i saw moon coming up over the ocean. I did not really pay attention to it,I thought it was the moon. Then i noticed the moon much higher and then watched the object.  It appeared to move slowly north and the became four smaller objects.  It was very bright orange.  All four oblects appeared to move very slowly north and went behind clouds.  I know we are near a military base but this was strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79036.html](http://www.nuforc.org/webreports/reports/079/S79036.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in South Lyon (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>On 16-Nov-99 at about 7:12 PM EST I witnessed a dramatic fireball in the sky over South Lyon, Michigan, a small town just to the North of Ann Arbor.On 16-Nov-99 at about 7:12 PM EST I witnessed a dramatic fireball in the sky over South Lyon, Michigan, a small town just to the North of Ann Arbor. It went from horizon to horizon traveling from west to east - the exact opposite direction from which the anticipated Leonid Meteor Shower was to occur. I did not actually time it, but I believe that it was visible between a minute and a half and two minutes--long enough for me to study it as it traversed the sky. As the fireball crossed the sky, it gave off several very bright colors that appeared to be a metallic disintegration or burning. It was glowing predominantly white on the leading edge with blue just behind the white. In my mind, the blue indicated that a copper compound or copper substance was involved. There was some red and yellow as well, and as I observed it, I could clearly see chunks coming off it and burning up in the same manner as the main fireball. It left a smoke trail, but I did not hear a sonic boom as I expected that I might. My first thought was that I was witnessing the reentry of the MIR space station, or something similar in nature. It did NOT appear to be an intelligently controlled craft--unless it was a craft in great distress. It would be difficult to say exactly what I saw.  However, I do know that what I saw was NOT a meteor, and clearly NOT associated with the anticipated Leonid Meteor Shower. I have been watching meteor showers for over forty years now and I know exactly what a meteor looks like.  I am appalled that the news media was so quick to report that this event was part of the anticipated Leonid Meteor Shower.  That was clearly NOT what I witnessed. I have been a pilot since I was in my teens and spent four years as an air traffic controller for the FAA.  I am also an amateur astronomer and I feel very comfortable about recognizing and identifying anything that appears in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11008.html](http://www.nuforc.org/webreports/reports/011/S11008.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [565](http://www.nuforc.org/webreports/reports/165/S165788.html)
-- [564](http://www.nuforc.org/webreports/reports/165/S165795.html)
-- [563](http://www.nuforc.org/webreports/reports/165/S165799.html)
-- [562](http://www.nuforc.org/webreports/reports/165/S165794.html)
-- [561](http://www.nuforc.org/webreports/reports/165/S165791.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
