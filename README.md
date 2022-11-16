@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:38 on 16 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 16 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Middletown (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I observed a huge, silent, pale green triangular object moving east over the city.My neighbor had just had surgery and she had asked me to put a note on her mailbox telling the mailman to leave any packages at my address. It was approximately seven p.m. when I taped the message on the mailbox and was walking back to my house.   I suddenly saw something huge over my right shoulder.  It seemed to be only about a block away.  It was shaped like a long triangle- almost like a cone on its side.  It was made up of pulsating pale green lights, and it was moving east very slowly.  I looked around to tell someone--I know my mouth had dropped open. My labrador retriever was waiting at the gate for me, but he was the only one around.  I actually started to stop a car that was coming toward me from the direction of the object, but by that time it was disappearing behind the houses.  I estimate it was visible for about ten seconds.  It's difficult to gage the size of the object, because I'm sure my perception cannot be correct.  It seemed to be the size of a semi-truck less than a block away. I came inside and told my family, then I called the police department to see if anyone else had seen this huge green triangle over Central Avenue.  The dispatcher said yes, it was a meteor shower.  That's what everyone is seeing. I'm sure everyone who sees what I saw tonight will be told it was a meteor shower. But what I saw appeared to be some kind of machinery.  A giant, silent piece of machinery.  Shortly after I called the police we noticed an unusual number of planes in the area. I have no idea what kind of machine I saw.  I wonder if Wright Patterson has something unworldly going on.  I don't know, but this is what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10974.html](http://www.nuforc.org/webreports/reports/010/S10974.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Single bright fireball with fire trail and sparks, very far out and high up, fast moving from southwest to northeast, obviously massive.This was not a "craft", but a meteor.  I was out doors when I caught sight of the object for about 10 seconds, about 20-30 degrees above the horizon when it was northwest of my position, and it was moving in a generally southwest to northeast direction.  It was very obviously far away, fast moving, and high in the atmosphere.  Just from my own perception and from it's rate of travel and straight path, it was obvious to me that the object was very massive and huge, MOUNTAIN-scale.  It was travelling in an inertial straight line skimming the atmosphere, leaving a fire trail and sparks behind as it went.  I would definitely qualify it as almost an asteroidal near miss event.  It was far enough up that it was seen throughout northeast USA.  There was videotape of it shown on local television.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11221.html](http://www.nuforc.org/webreports/reports/011/S11221.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [565](http://www.nuforc.org/webreports/reports/165/S165788.html)
-- [564](http://www.nuforc.org/webreports/reports/165/S165795.html)
-- [563](http://www.nuforc.org/webreports/reports/165/S165799.html)
-- [562](http://www.nuforc.org/webreports/reports/165/S165794.html)
-- [561](http://www.nuforc.org/webreports/reports/165/S165791.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
