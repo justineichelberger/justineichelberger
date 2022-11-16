@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:38 on 16 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:44 on 16 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Anna (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 00:00:30 - 00:00:30 minutes.</sub><blockquote><sub>Moving from west to east I saw a bright light followed by a long fire trail.While traveling northbound on I-75 at the 100 mile marker, near Anna Ohio. I noticed a bright light. It was apprx. 45 to 60 degrees up from the horizon travelling from west to east. The object was apprx. the size of a thumb at arms length. The main body was bright white and had a trail behind it with varied colors of blue, red, and yellow. The trail also had 2 or 3 additional white lights in it which appeared to be more objects rather than part of the trail. The trail looked more like burning particles or embers rather than a fire trail. The trail was very long about 10 times the length of the main body. At first glance I thought I was witnessing a missle flying through the air. I witnessed these events for apprx. 30 seconds. It did not appear to me to be a meteor, but could have possibly been an extremely large piece of space debris.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10947.html](http://www.nuforc.org/webreports/reports/010/S10947.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Columbus Grove (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>this was a large object moving at a very fast pace from the north west to the south east. it did not burn up but just went over the horizon</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14681.html](http://www.nuforc.org/webreports/reports/014/S14681.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [565](http://www.nuforc.org/webreports/reports/165/S165788.html)
-- [564](http://www.nuforc.org/webreports/reports/165/S165795.html)
-- [563](http://www.nuforc.org/webreports/reports/165/S165799.html)
-- [562](http://www.nuforc.org/webreports/reports/165/S165794.html)
-- [561](http://www.nuforc.org/webreports/reports/165/S165791.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
