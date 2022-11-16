@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:46 on 16 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:36 on 16 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Non-moving lights in the southwestern sky.There was a grouping of red lights, not blinking and not moving, southwest of Scottsdale.  They were kind of in a half triangle, and if looking directly west, the lights were at about 20 degrees.  It was too far away to tell if it was actually an object or not.  But while I was looking through the binoculars, the lights went out, one by one. There was no sound, and the object looked to be west of Phoenix. I don't drink or smoke, and I'd never do drugs, so I know I wasn't imagining things.  I'm not a believer in UFOs, but ((name of investigator deleted)) convinced me to write to this website.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11035.html](http://www.nuforc.org/webreports/reports/011/S11035.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Mount Vernon (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>After thinking about this all week, I've decided to report this. During the 3rd week of November 09 ( I dont remember the exact day) my husband and I were watching a movie. We had rented Transformers and had it on REALLY loud. It was between 10-11pm (I think), during a very loud part of the movie, I thought I heard what sounded like thunder, but then I realized that that would have been some of the loudest thunder Ive ever heard in my life.I looked at my husband, he heard it too. We then paused our movie and listened. We both heard what I can only descibe as a huge jet way too close to our house and only getting louder, then for about half a second, silence and then a huge boom that shook our entire house! We thought for sure there was just a massive plane crash very near our house and ran outside. It of course being Washington, it was raining and we couldnt see anything. Within minutes, we heard 3 seperate helicopters coming from different areas.At that point, we were confident that we would definitly be hearing about this in the news the next morning. Morning came and there was nothing. I spent hours online searching for the smallest piece of report that we werent the only ones that heard and felt whatever this was. Nothing in the papers, online or of course on the news. Its as if it never happened.I just want to make very clear, that whatever this was, when it "crashed" our house shook like it was an earthquake. We live in Mount Vernon, WA. My husband has seen some strange things in the sky here in the same area before and we saw strange lights a few years ago out towards Deception Pass, we just cant simply think of anything else it could have been.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73510.html](http://www.nuforc.org/webreports/reports/073/S73510.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [565](http://www.nuforc.org/webreports/reports/165/S165788.html)
-- [564](http://www.nuforc.org/webreports/reports/165/S165795.html)
-- [563](http://www.nuforc.org/webreports/reports/165/S165799.html)
-- [562](http://www.nuforc.org/webreports/reports/165/S165794.html)
-- [561](http://www.nuforc.org/webreports/reports/165/S165791.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
