@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:42 on 16 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:56 on 16 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Wentzville (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Driving East north of Wentzville.  We noticed a very bright light traveling on an arc from 12:00 (due north) to 5:00 (sse).  We noticed the light shortly after it came into view from the north and watched it appx. three forths of the way across the arc before it disappeared.  The light did not dim or get brighter, it did not break up or change color from its original bright white color.  The ambient light level of the sky in this area is high, due to a large factory east of town.  Viewing stars in this area is usually difficult, thats what made this light different and attracted our attention.  We could see landing lights of aircraft lineing up for an east to west landing at lambert.  This light traveled perpendicular to those lights.  Possible meteorite?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33170.html](http://www.nuforc.org/webreports/reports/033/S33170.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Chaska (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>these  things hovered and moved northI have no idea what the heck is going on in the western skys but tonite the light appeared in the sky still for a few minutes then drifted north. Shortly 2 more lights appeared one above the other. Top one moved north minutes later lower oner moved north. This continued for a very long time with 2 lights coming up in the west sky amd one at a time moving north/northwest.This kept repeating for approx 30inutes or more.  Not the first time i have seen this but for sure the most crafts i have ever seen((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94541.html](http://www.nuforc.org/webreports/reports/094/S94541.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [565](http://www.nuforc.org/webreports/reports/165/S165788.html)
-- [564](http://www.nuforc.org/webreports/reports/165/S165795.html)
-- [563](http://www.nuforc.org/webreports/reports/165/S165799.html)
-- [562](http://www.nuforc.org/webreports/reports/165/S165794.html)
-- [561](http://www.nuforc.org/webreports/reports/165/S165791.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
