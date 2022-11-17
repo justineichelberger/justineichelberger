@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:44 on 17 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:11:10 on 17 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Mechanicsburg (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Very large green circle appeared in the sky and quickly flew out of visible area.Walking outside, saw a bright green circle appear in the sky and shoot off to the north, leaving the visible area within 1-2 seconds.This is a circle, not like a ball.  The outline of the circle was green and was roughly the same size in the sky as the moon would be.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124151.html](http://www.nuforc.org/webreports/reports/124/S124151.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>looked like a large star, moved for a couple seconds then shot out into space.I work for a local phone company on the night shift. I went outside to see the Leonid meteors at 4:30 am pst. About 04:35 pst I saw what looked like a large star in the south sky start to move, thought it was maybe a plane but then it rose up and shot off to the south and up (at a very high rate of speed). It was white like a star but as it zoomed away it's color seemed to shift towards yellow or light red.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04878.html](http://www.nuforc.org/webreports/reports/004/S04878.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
