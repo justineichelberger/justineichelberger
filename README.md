@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:41 on 17 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:43 on 17 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Alvin (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I saw a Silver space ship rising into the early morning sky over Houston, Texas.My first and only report from Liverpool, Texas was begun with the statement ‘Three large round objects lined up along Hwy 35 and an identical object followed me home’.  Two weeks after I posted that as I was leaving my home on my way to work.  The sun had just come up and there were scattered clouds high in the sky.  I glanced up as I noticed something that glistened in the sky and I saw what I can only describe as a space ship.  It was silver, domed top and a fin on the back.  It rose into the sky, hesitated in between the clouds and then sped off so quickly as if to disappear from sight.  I would say that it was over Houston Texas or just south of there.  I keep wondering what it possibly could have been doing during the darkness of night.  I thought it strange how much it looked like the old Sci-fi movies space ships.The circular object that I saw in our subdivision on my previous experience still appears in the sky and has not left.  I watched until late that night as it moved slowly up into the sky.  It always seems to be in the sky and appears before dusk long before any stars are visible.  As I drive home from work it gets closer, appearing larger.  Stars don’t do that. One night it came down very close over our home and appeared almost as large as that first night that I saw it.  It seemed very threatening.We went 7 hours north of our home to Brownwood Texas and just before dusk I looked into the sky and there it was.  I nudged my husband and pointed at it and he nodded.  We left Brownwood Texas the next morning at 5 am.  As we were driving south there were several strange light formations in the night sky along with the circular object.A co-worker even asked me if I had seen the strange light that appears before dusk.  She said that she began seeing it just before Thanksgiving and it could not be a star since it appears so early and sometimes seems to get brighter as dusk falls.I’d prefer not to be aware of these things as I am becoming very concerned and would like to know what is going on.   Are they just observing us or is there something else?   My husband and I are both college-educated people and not easily spooked, but I don’t feel safe.  I’m scared and I need answers.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69689.html](http://www.nuforc.org/webreports/reports/069/S69689.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Waco (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Unknown shape. Thought it was a plane but it never went anywhere except up and down .Flashing red green and blue. At times it disappeared and reappeared. Several planes or what looked Like planes flew directly under the UFO and had to have witnessed as well</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150844.html](http://www.nuforc.org/webreports/reports/150/S150844.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
