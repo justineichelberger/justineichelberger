@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:58 on 17 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:43 on 17 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Trowbridge (UK/England) (WV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>U.F.O.sighting in WiltshireMy Wife and i left Bratton on way to trowbridge by car about midway we noticed a dimley lit orb in the sky which was flanked by two helicopters one about three hundred yards to its left and the other one about six hundred yards to its right we believed the orb to be a U.F.O ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53461.html](http://www.nuforc.org/webreports/reports/053/S53461.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Polson (MT) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>something in the montana air....7 crafts light  orange glow ball that formed a triangle ... for a few mins ... then  rose up 1 at a time and disappeared.... a few min  later 1 more  appeared for aprox 2 min then rose up to the north and disapeared... at first it looked like a large group of helicopters /// coming in several thousand feet over the mission mt. range apron 8k feet... then they sat for a bit ... then rose up to the north /// 4 of the lites formed a triangle/// the other 3 were in a row /// they looked spaced a bit like  stars //// example the big dipper///  could have been ?  but have never seen anything like this before...in this part of mt you dont see to many aircraft...apron 5k population..((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94579.html](http://www.nuforc.org/webreports/reports/094/S94579.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
