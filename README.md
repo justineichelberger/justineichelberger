@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:55 on 17 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:42 on 17 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Lakeland (FL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Falling Star/Fireball changes into 4 horizontal red lights.As we traveled east into South Lakeland, we saw what we thought was a falling star in the Eastern sky, except it was falling very slowly and was orange. As it descended straight down it began to flicker out, only to have four red lights appear horizontally where the fireball ended. We thought perhaps it was a fighter jet making a vertical descent and then re-joining formation with 3 other jets. Only the red lights appeared one after another and we only witnessed one fireball going straight down. As we drove past trees we could not see where they went, but they were gone within a minute of us losing eye contact.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59930.html](http://www.nuforc.org/webreports/reports/059/S59930.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Stone Harbor (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Strange High Speed Aerial ObjectWas out on the deck having a cigar at around midnight, witnessed a strange flying object for about 15 to 20 minutes.  My friend pointed it out first, and we both watched it for quite a while.  I usually don't buy into all the UFO/Alien stuff, but I'm convinced that this was no conventional aircraft.Both my friend and I are experienced sailors and have spent considerable time on the ocean in and around the area.  Neither of us had ever seen anything like it.  It was triangular in shape (as best as I could tell given the extremily bright lights it had), and was moving in erratic patterns at reasonably high altitude. Given the high speed and erratic movements, we determined it was certainly not a helicopter or any conventional civilian aircraft.  The lights it emmitted were red and white. Didn't notice and noise or sounds that could be heard over the din of the ocean. I've never seen anything move so fast and change directions so abruptly.  All of this took place in the eastern sky over the atlantic. Not sure if its related, but there was lots of military aircraft visable in the area on Saturday, November 18.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53542.html](http://www.nuforc.org/webreports/reports/053/S53542.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
