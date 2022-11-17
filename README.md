@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:59 on 17 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:02:57 on 17 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Morristown (TN) reported seeing craft that fit the description of some 'Changing' over a period of approximately  -  minutes.</sub><blockquote><sub>Had three lights alternating between red, green, and blue.  Changed shape from saucered to triangular to ovaled to horizontal and vertical.It was seen around 11:30p.m. tuesday november the 17th when I was looking for the meteor shower.  I happened to see flashing lights to the east at first I thought it was an airplane until it started to change colors and would not move from the same spot.  I went and got my binoculars to see it better and thats when I noticed that it was changing shape from tirangular to an ovaled then also vertical, horizontal, and a saucered shape. At this moment I am still watching and observing it.  I am trying to find my camera to take some pictures.((NUFORC Note:  Date is approximate.  Possible sighting of a celestial body, possibly a twinkling star.  Just a guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04877.html](http://www.nuforc.org/webreports/reports/004/S04877.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Mahanoy City (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Four cloud shrouded lights to the east of town moving in erratic jerks.There were four cloud shrouded lights to the east of town.  They were moving back and forth and in circular motions.They appeared to be over Interstate 81 which is about 2 miles east of town.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73355.html](http://www.nuforc.org/webreports/reports/073/S73355.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
