@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:20:18 on 17 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:01:24 on 17 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Spring Valley (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately till 24:00 - till 24:00 minutes.</sub><blockquote><sub>Satallite/faint star-like object  does 90 degree angles, circles, and splits in two.Appeared to be a satallite traveling from south-east to morthwest until object made a 90 degree turn. It stopped, then backtracked.After losing sight, the object appeared back where it started from. The object appeared to move in a square shape around a star.It began to make circles and slow down, speed up, and stop repeadly. After a short period the object stopped, and there apeared to be two of the objects which began to circle each other. they then returned to a position where they terminated movement. The objects were last seen in the same position as they had terminated: at the midpoint between the seven sisters star cluster and the mid star of orion's belt. We believe the distance was far, at least satellite range, because of it's star-like appearence.((NUFORC Note:  We believe we spoke with this witness.  He seemed quite serious-minded, and credible, to us.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20450.html](http://www.nuforc.org/webreports/reports/020/S20450.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in San Mateo (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>I saw a dark triangle shaped craft with three red dots on the bottom of the craft moving at a fast speed.The object I saw was moving really fast and was triangle shaped.  It was dark and barely visible to naked eye.  It had three red dots on each corner of the points of the triangle.  It was moving in a straight line and looked like it had capabability of moving from side to side at quick speeds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20490.html](http://www.nuforc.org/webreports/reports/020/S20490.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
