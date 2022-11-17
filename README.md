@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:32:23 on 17 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:20:18 on 17 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Carlsbad (NM) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Observed two reddish orange objects moving from west to east above Carlsbad New Mexico about four or five minutes apart.  Both objects appeared very similar, appeared to follow the same trajectory, and both appeared to disappear from sight at similar locations despite being five minutes apart.  I was able to view both crafts with binoculars and take a short low-quality video of the second via an iPhone five.  I did not appear to be a plane or any aircraft I am familiar with nor did they appear to be a meteorite fireball.  The size of the objects would be similar to a low-flying aircraft up to 8 miles away.  Although the light from the objects was not flashing, the appearance did not seem steady, and towards the end of both observations, either travel too far for perception or almost appeared to burnout.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104547.html](http://www.nuforc.org/webreports/reports/104/S104547.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Spring Valley (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately till 24:00 - till 24:00 minutes.</sub><blockquote><sub>Satallite/faint star-like object  does 90 degree angles, circles, and splits in two.Appeared to be a satallite traveling from south-east to morthwest until object made a 90 degree turn. It stopped, then backtracked.After losing sight, the object appeared back where it started from. The object appeared to move in a square shape around a star.It began to make circles and slow down, speed up, and stop repeadly. After a short period the object stopped, and there apeared to be two of the objects which began to circle each other. they then returned to a position where they terminated movement. The objects were last seen in the same position as they had terminated: at the midpoint between the seven sisters star cluster and the mid star of orion's belt. We believe the distance was far, at least satellite range, because of it's star-like appearence.((NUFORC Note:  We believe we spoke with this witness.  He seemed quite serious-minded, and credible, to us.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20450.html](http://www.nuforc.org/webreports/reports/020/S20450.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
