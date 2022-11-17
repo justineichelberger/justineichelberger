@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:36 on 16 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:39 on 17 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Single bright fireball with fire trail and sparks, very far out and high up, fast moving from southwest to northeast, obviously massive.This was not a "craft", but a meteor.  I was out doors when I caught sight of the object for about 10 seconds, about 20-30 degrees above the horizon when it was northwest of my position, and it was moving in a generally southwest to northeast direction.  It was very obviously far away, fast moving, and high in the atmosphere.  Just from my own perception and from it's rate of travel and straight path, it was obvious to me that the object was very massive and huge, MOUNTAIN-scale.  It was travelling in an inertial straight line skimming the atmosphere, leaving a fire trail and sparks behind as it went.  I would definitely qualify it as almost an asteroidal near miss event.  It was far enough up that it was seen throughout northeast USA.  There was videotape of it shown on local television.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11221.html](http://www.nuforc.org/webreports/reports/011/S11221.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Grahamsville (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Saw a light circling a mountain.I was sitting on a pulloff looking over the rondout reservoir and noticed a bright blue shooting star.  Shortly after, i noticed a light moving from behind a mountain on the horizon.  I originally thought it was a plane but it then started circling the mountain at great speeds.  I stepped out of my car and heard nothing, so i got back in and watched.  After a few minutes the object rose up into the sky and dimmed, after about 3 or 4 seconds it lit up instantly and started doing bigger faster circles around the mountain, even coming close to the reservoir at times.  Once i saw the object's circles starting to get closer to me i got scared and turned my car on and drove home, very frightened.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66964.html](http://www.nuforc.org/webreports/reports/066/S66964.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [565](http://www.nuforc.org/webreports/reports/165/S165788.html)
-- [564](http://www.nuforc.org/webreports/reports/165/S165795.html)
-- [563](http://www.nuforc.org/webreports/reports/165/S165799.html)
-- [562](http://www.nuforc.org/webreports/reports/165/S165794.html)
-- [561](http://www.nuforc.org/webreports/reports/165/S165791.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
