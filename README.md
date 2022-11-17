@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:45 on 17 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:43 on 17 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bozeman (MT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Red sphere that made obvious speed and altitude gains as well as direction changes.My girlfriend and I were outside smoking when I remembered that there was a meteor shower happening. We both were looking south up at Jupiter, when my eyes focused in on a group of reddish stars, one star in particular caught my eye because it slowly started to pull away from the other (it was stationary I focused and recognized it's position) My first thought was that I found an orbiting satellite because it started out as slow as an orbiting satellite and seemed to follow a smooth almost floating path to the south west for what seemed like an inch in the sky. The object then seemed to skip almost as it gained speed and turned north gaining altitude and continuing north for about a foot in the sky. It then made a long smooth curve like maneuver towards north east and then east following the horizon and up behind cloud coverage and out.At the moment I saw what I thought was a satellite I pointed it out to my girlfriend and she confirmed that she saw it also as it began to speed up. We then both watched in amazement and it took off. We both saw a obviously red circle that seemed to be able to control speed, altitude, and direction. She mentioned that she thought it might have had a cloudy faded orb surrounding it also. The object seemed to be going faster than anything we have ever seen before while following a very strange smooth flight plan. No other lights were visible on it and the sky was brightly lit, it was almost spooky how bright the sky was. We also recognized 7 meteors that entered the atmosphere and disappeared just like they always do. We are confused and excited about what we saw and are wondering if this is normal or has anyone else experienced this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94551.html](http://www.nuforc.org/webreports/reports/094/S94551.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Bennington (IN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>16 ors along with firealls light up Indiana skyOn Thursday, 11-17-11 at around 19:30 my kids came running into the house saying something about explosions in the sky.  My mom, sister, girlfriend, and I quickly went outside where we witnessed 16 orb shapes blinking different colors and what appeared to be within the middle of them fireballs falling from the sky.  The fireballs looked similar to a flame thrower and a large rumble could be heard when they were seen.  The fireballs lasted for about five minutes from when I witnessed the event and the orbs remained for another 15 minutes afterward before they slowly moved away in all directions.  During this time, our cell phones, internet, and cameras could not picture anything.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85384.html](http://www.nuforc.org/webreports/reports/085/S85384.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
