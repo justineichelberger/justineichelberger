@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:02:57 on 17 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:55 on 17 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Mahanoy City (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Four cloud shrouded lights to the east of town moving in erratic jerks.There were four cloud shrouded lights to the east of town.  They were moving back and forth and in circular motions.They appeared to be over Interstate 81 which is about 2 miles east of town.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73355.html](http://www.nuforc.org/webreports/reports/073/S73355.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Lakeland (FL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Falling Star/Fireball changes into 4 horizontal red lights.As we traveled east into South Lakeland, we saw what we thought was a falling star in the Eastern sky, except it was falling very slowly and was orange. As it descended straight down it began to flicker out, only to have four red lights appear horizontally where the fireball ended. We thought perhaps it was a fighter jet making a vertical descent and then re-joining formation with 3 other jets. Only the red lights appeared one after another and we only witnessed one fireball going straight down. As we drove past trees we could not see where they went, but they were gone within a minute of us losing eye contact.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59930.html](http://www.nuforc.org/webreports/reports/059/S59930.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
