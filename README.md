@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:11:10 on 17 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:58 on 17 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>looked like a large star, moved for a couple seconds then shot out into space.I work for a local phone company on the night shift. I went outside to see the Leonid meteors at 4:30 am pst. About 04:35 pst I saw what looked like a large star in the south sky start to move, thought it was maybe a plane but then it rose up and shot off to the south and up (at a very high rate of speed). It was white like a star but as it zoomed away it's color seemed to shift towards yellow or light red.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04878.html](http://www.nuforc.org/webreports/reports/004/S04878.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Trowbridge (UK/England) (WV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>U.F.O.sighting in WiltshireMy Wife and i left Bratton on way to trowbridge by car about midway we noticed a dimley lit orb in the sky which was flanked by two helicopters one about three hundred yards to its left and the other one about six hundred yards to its right we believed the orb to be a U.F.O ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53461.html](http://www.nuforc.org/webreports/reports/053/S53461.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
