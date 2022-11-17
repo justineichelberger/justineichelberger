@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:43 on 17 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:47 on 17 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Bennington (IN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>16 ors along with firealls light up Indiana skyOn Thursday, 11-17-11 at around 19:30 my kids came running into the house saying something about explosions in the sky.  My mom, sister, girlfriend, and I quickly went outside where we witnessed 16 orb shapes blinking different colors and what appeared to be within the middle of them fireballs falling from the sky.  The fireballs looked similar to a flame thrower and a large rumble could be heard when they were seen.  The fireballs lasted for about five minutes from when I witnessed the event and the orbs remained for another 15 minutes afterward before they slowly moved away in all directions.  During this time, our cell phones, internet, and cameras could not picture anything.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85384.html](http://www.nuforc.org/webreports/reports/085/S85384.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in River Falls and Prescott (between; Hwy. 35) (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>TriagularI was driving alone on Hwy 35 between River Falls and Prescott Wisconsin. It was about 7:15pm (19:15) in the evening and the sky was pitch black already as it's almost winter. I noticed a white light in the sky that was unusual. It was brighter than an airplane. While I was driving it seemed as though I was getting closer to it, and I could see that it was in fact three round, white lights that formed a triangle. It was locked in the sky as though it was stationary, and I wondered if it were a radio tower. As I drove closer I could see it better. The three lights made a triangle where the point of the triangle was the top light, and two lights were below it geometrically. The lights were very close to each other. As I got even nearer, I noticed that while the sky was black, I could make out a darker black in between and around the lights. The lights were definitely attatched to something that was darker than the night sky, although I couldn't make out that shape. Unexpectedly, the three lights seemed to turn off, or go out, or even turn around.  In their place was a single, smaller red light that was not as bright as the white lights. I could still see the darker black form, and it appeared the red light was attatched to it. At this point, the light started to move away from me.  It was no longer stationary.  All I could see was the red light, and I watched as it flew away, slightly upwards, growing smaller and smaller until I couldn't see it anymore. All of this lasted about 5 minutes.((NUFORC Note:  We spoke with this witness via telephone, and we found her to be exceptionally eloquent, in describing her sighting.  We suspect that she is an exceptionally good witness.  We have corresponded with her, to inquire whether she stopped her car, and was stationary, at any time during her sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53477.html](http://www.nuforc.org/webreports/reports/053/S53477.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
