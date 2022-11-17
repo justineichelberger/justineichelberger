@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:47 on 17 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:42 on 17 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Wachapreague (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>low altitude ufo consisting of about 21 windows in groups of 7,no shape observed,over 100 feet longThe sky was overcast and dark,all I saw was a series of 6 or 7 widows in a row brightly lit with the space between the windows about the same dimension as the window. There were three groups of windows all in a horisontal line.  Each group was separated by about 30 feet. The total lenght estinate is 100 to 150 feet.It was observed at about 500 feet altitude, there was no strobe or navigation lights.No sound or air blast was observed.  I was about a block from the object,and while each window was lit up nothing could be seen inside any of them ,they were tall rectangles with rounded corners. The craft was low over a house.suddenly all its lights went out and nothing more was seen of the craft, there was no movement noticed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79099.html](http://www.nuforc.org/webreports/reports/079/S79099.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bozeman (MT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Red sphere that made obvious speed and altitude gains as well as direction changes.My girlfriend and I were outside smoking when I remembered that there was a meteor shower happening. We both were looking south up at Jupiter, when my eyes focused in on a group of reddish stars, one star in particular caught my eye because it slowly started to pull away from the other (it was stationary I focused and recognized it's position) My first thought was that I found an orbiting satellite because it started out as slow as an orbiting satellite and seemed to follow a smooth almost floating path to the south west for what seemed like an inch in the sky. The object then seemed to skip almost as it gained speed and turned north gaining altitude and continuing north for about a foot in the sky. It then made a long smooth curve like maneuver towards north east and then east following the horizon and up behind cloud coverage and out.At the moment I saw what I thought was a satellite I pointed it out to my girlfriend and she confirmed that she saw it also as it began to speed up. We then both watched in amazement and it took off. We both saw a obviously red circle that seemed to be able to control speed, altitude, and direction. She mentioned that she thought it might have had a cloudy faded orb surrounding it also. The object seemed to be going faster than anything we have ever seen before while following a very strange smooth flight plan. No other lights were visible on it and the sky was brightly lit, it was almost spooky how bright the sky was. We also recognized 7 meteors that entered the atmosphere and disappeared just like they always do. We are confused and excited about what we saw and are wondering if this is normal or has anyone else experienced this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94551.html](http://www.nuforc.org/webreports/reports/094/S94551.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
