@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:44 on 17 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:51 on 17 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Middle River (MD) reported seeing craft that fit the description of some 'Disk' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>I saw a ufo behind my neighbors house on the ground.I just had quite a shock.  I walked outside and noticed across the street, behind my neighbors house in the woods, was a disc shaped object surrounded by small red and yellow lights that were blinking consistently.  I thought maybe it was a tent when I saw it, but judging from the distance which was probably 100 meters or so, it was about 14 feet high from the ground.  At the base of it was a bright yellow light that stayed solid.  Above all there was this high pitched buzzing noise that I thought may have been discharge from a streetlight or something but this was the first time I had ever heard it outside.  I watched it for about 6 minutes, and went inside to grab a video recorder.  I came back outside and it was gone.  I wasn’t sure what to do so I waited there for about 5 more minutes, and it never reappeared, but I could still hear this high pitched buzzing noise. This is not fabricated, and I wasn’t hallucinating, I really did see this. I didn’t know what to ! do so I thought that I would report it on this database.  I was somewhat skeptical about UFO’s, but now I’m not so sure anymore on what to believe. I’ll keep my eyes and ears open thought and if something else occurs, I’ll be sure to report it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78936.html](http://www.nuforc.org/webreports/reports/078/S78936.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Chiloquin (OR) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large boomerang shaped aircraft11/17/00 7:30 p.m., a large boomerang shaped aircraft with white lights.There was no sound.It moved very slowly in a northern direction.Five people(all family members) observed this craft for about two minutes after it was first sighted.Then it just "disappeared". I don't see how something this big can fly at a snails pace and stay airborne. Although it was very dark outside, the lights illuminated the object well enough that you could see it's shape real well.I would not be at all surprised if this aircraft had a wing span of 300 feet or more.If my mom had not gone outside when she did, and draw this aircraft to our attention, it would have flown by and we wouldn't have even known it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14950.html](http://www.nuforc.org/webreports/reports/014/S14950.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
