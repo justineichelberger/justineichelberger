@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:44 on 17 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:44 on 17 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in North Phoenix (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange ball flame colored craft.  Flying west paused as airplane approached from the north than disappeared.  Color of light was nothing like normal aircraft in the vicinity.  I have a video but poor quality.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137369.html](http://www.nuforc.org/webreports/reports/137/S137369.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Mechanicsburg (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Very large green circle appeared in the sky and quickly flew out of visible area.Walking outside, saw a bright green circle appear in the sky and shoot off to the north, leaving the visible area within 1-2 seconds.This is a circle, not like a ball.  The outline of the circle was green and was roughly the same size in the sky as the moon would be.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124151.html](http://www.nuforc.org/webreports/reports/124/S124151.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
