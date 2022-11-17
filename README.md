@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:42 on 17 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:47 on 17 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Stone Harbor (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Strange High Speed Aerial ObjectWas out on the deck having a cigar at around midnight, witnessed a strange flying object for about 15 to 20 minutes.  My friend pointed it out first, and we both watched it for quite a while.  I usually don't buy into all the UFO/Alien stuff, but I'm convinced that this was no conventional aircraft.Both my friend and I are experienced sailors and have spent considerable time on the ocean in and around the area.  Neither of us had ever seen anything like it.  It was triangular in shape (as best as I could tell given the extremily bright lights it had), and was moving in erratic patterns at reasonably high altitude. Given the high speed and erratic movements, we determined it was certainly not a helicopter or any conventional civilian aircraft.  The lights it emmitted were red and white. Didn't notice and noise or sounds that could be heard over the din of the ocean. I've never seen anything move so fast and change directions so abruptly.  All of this took place in the eastern sky over the atlantic. Not sure if its related, but there was lots of military aircraft visable in the area on Saturday, November 18.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53542.html](http://www.nuforc.org/webreports/reports/053/S53542.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Wachapreague (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>low altitude ufo consisting of about 21 windows in groups of 7,no shape observed,over 100 feet longThe sky was overcast and dark,all I saw was a series of 6 or 7 widows in a row brightly lit with the space between the windows about the same dimension as the window. There were three groups of windows all in a horisontal line.  Each group was separated by about 30 feet. The total lenght estinate is 100 to 150 feet.It was observed at about 500 feet altitude, there was no strobe or navigation lights.No sound or air blast was observed.  I was about a block from the object,and while each window was lit up nothing could be seen inside any of them ,they were tall rectangles with rounded corners. The craft was low over a house.suddenly all its lights went out and nothing more was seen of the craft, there was no movement noticed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79099.html](http://www.nuforc.org/webreports/reports/079/S79099.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
