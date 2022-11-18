@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:36:29 on 18 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:20:19 on 18 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Asheville (NC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>11/18/11   Asheville    NC     cigar   2-3 min. black bee-shape/sections, square wings, 2 headlights, no sound, along busy highwayObject dark black "bee shape", no sound (rolled down window to listen for a sound, as we first thought it to be a helicopter from a local hospital,or an airplane,but was not heading in that direction for either), only 2 lights, as noted similar to an airplane headlights, no strobe lights, no colored lights; bee shape, because it was in several sections (as seen from underneath, while driving along Hendersonville Road). Had wings, but more squared-shape,mostly black all over, with orange or red lines denoting the sections from underneath.  Saw it while turning into a drive that led to a parking lot.  Once we looked back, it had disappeared.  And, what was striking, it had been moving slowly, and lower than an airplane would fly, especially in that area.  My friend and I compared notes on what we saw; was unable to get a photo, but definitely was not a notable object to this area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85423.html](http://www.nuforc.org/webreports/reports/085/S85423.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Nacogdoches (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Two white lights slowly moved apart, and then faded away.My girlfriend told me to come outside and look at two "weird looking" stars she had never noticed.  I saw two white lights that appeared to be normal stars in the northeast sky.  The lights slowly began to move apart and then over a period of about 30 seconds completely faded away.  They were very bright white and slowly dimmed to white-ish blue.  They were not blinking or flickering.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115451.html](http://www.nuforc.org/webreports/reports/115/S115451.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165533.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165530.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160063.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160704.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
