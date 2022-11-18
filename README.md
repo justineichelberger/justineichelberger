@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:52 on 18 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:10:22 on 18 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in York (NE) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Driving from Omaha got past York and saw a green orb shoot across the sky.  Then it disappeared.  I was very freaked out had to call my husband and make him talk to me the rest of the way home.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143823.html](http://www.nuforc.org/webreports/reports/143/S143823.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Flash' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>One flashing ball of light and 9 other balls of light in the Denver sky.I didn't see stars out last night.  I saw 10 small balls of light in the sky.  One of them was flashing.  They seemed to be in a formation.  They would disappear.  Only the flashing one would remain and then all 10 would reappear.  I live downtown.  The lights were out east.  My guess is near BAFB.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115466.html](http://www.nuforc.org/webreports/reports/115/S115466.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165533.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165530.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160063.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160704.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
