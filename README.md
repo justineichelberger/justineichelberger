@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:54 on 18 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:43 on 18 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Sighting of two "boomerang" shaped craft, from the intersection of South Kingshighway Blvd. and Chippewa Street, St. Louis, MO:  The object was boomerang shaped (half U-shaped) no sharp angles, except for the wing tips, which were also more rounded and also in between the wing tips looked to be another smaller boomerang, but looked to be one solid mass (one object)  The craft was "silent, no sound emitting, but the most impressive was the camouflage" hardly visible, resembling smoke coming off a fire.  I was able to make out the shape and that is was indefinitely a solid mass as it was blocking out the sky on the other side as it was traveling East South East.  And I would approximate the speed at about 35-40 mph if were in my car trying to track it and also at a pretty low altitude.  As the craft looked to be quite large.  The moon was in the back ground, and the object surpassed its size.((NUFORC Note:  We have spoken via telephone with the witness on two occasions, and he seemed to us to be quite sober-minded and sincere.  We suspect that he is a quite reliable witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124197.html](http://www.nuforc.org/webreports/reports/124/S124197.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Thankerton (UK/Scotland) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately Few Minutes - Few Minutes minutes.</sub><blockquote><sub>UFO SightingA large object flyin very low over a small village, it had many white lights all round it and red flashing lites on top, as far as i could tell it looked round but am not sure.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40682.html](http://www.nuforc.org/webreports/reports/040/S40682.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165533.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165530.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160063.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160704.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
