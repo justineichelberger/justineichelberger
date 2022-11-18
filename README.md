@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:22 on 18 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 18 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bartlesville (OK) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was outside  taking pictures of the moon. I turned my head away from the moon, glancing another direction. As I did so, I saw a rather out of this world ship. It was unlike anything I had ever seen before. It seemed to hover for about 20-25 seconds. At one time it even moved from side to side. It did have lights, but lights that were not on earthly aircrafts...only UFO lights. As it hovered, it kind of went still for a second, and then I chose to look away...eventually looking back at where the UFO had been, but it had vanished. Simply vanished!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160699.html](http://www.nuforc.org/webreports/reports/160/S160699.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some 'Formation' over a period of approximately Few seconds - Few seconds minutes.</sub><blockquote><sub>Formation of bright lightsMe and my dad were in the car.When he saw something in the sky.I looked up and didn’t want to believe it.I saw a formation of lights.I saw 3 lights  , but my dad said he saw more.He said it had the shape of an oval .When I tried to take a photo they were gone.We then proceeded to look for them , we got on bridges and saw no trace of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160701.html](http://www.nuforc.org/webreports/reports/160/S160701.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165533.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165530.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160063.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160704.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
