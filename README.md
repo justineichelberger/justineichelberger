@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:39 on 18 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:45 on 18 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Buffalo (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Streaking Light during field goal kick Patriots vs Bills Sunday Night FootballPatriots vs Buffalo Bills.  Look at footage of the field goal where the Ball hit the camera.  There are one if not two lights streaking up in the sky.  Should be checked out.  The network only showed the replay once.  My husband and I noticed it right away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59939.html](http://www.nuforc.org/webreports/reports/059/S59939.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Two of my friends and myself, were walking in westwood village, it was still daylight outside, we were walking on Broxton street, and we were filming a video for myspace, we stopped until I caught notice of something strange in the sky, there were other planes zooming around, but this one was the only one that was peculiar to me. I told one of my friends holding the camera to video tape it, to see if it was a plane or 727, we took a good look at the footage and there was no plane, my first description that it looked like a fireball.   "It looks like a fireball, does that look like a plane to you"? " No actually it doesn't, but I can't tell though"? " I can the camera it is a 100 max, any more we wouldn't be able to see it. The object seemed to make an aura around the object, inside the fire ball there seemed to be a black metallic object. That we can barely make out, we had theories of a rocket. to missile, to a burning plane, to meteor, but none of those fit the description we just saw. All what we can tell it was descending at a sustained speed towards the Ocean. I showed the video to other people and there was no real answer. But that one comment was said on U tube, that it could be a Jumbo jet? I called the authorites about, they didn't care much about it until I I mentioned it was on video, then she was willing to transfer my call to security forces and I hung up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53644.html](http://www.nuforc.org/webreports/reports/053/S53644.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165533.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165530.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160063.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160704.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
