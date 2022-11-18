@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:44 on 18 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:22 on 18 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Lancaster (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright orange light over E. Lancaster DesertStanding in the desert at 65th street west and Ave J, looking to the east I saw a bright orange object floating in a downward trajectory.   At first I thought it was a southwest passanger airliner headed to Burbank, however the color became a glaring bright orange.  I then thought it was the reflection of the sun setting behind me, although I could not account for a reflection from the sun, as the sun was falling behind the mountains at this time.  Its downward trajectory then sped up and I thought it was a plane going down.  It stopped floating hung for a few seconds and then disappeared.  It was either a huge meteor burnign in the earth's atmosphere or something from Edwards.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67004.html](http://www.nuforc.org/webreports/reports/067/S67004.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bartlesville (OK) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was outside  taking pictures of the moon. I turned my head away from the moon, glancing another direction. As I did so, I saw a rather out of this world ship. It was unlike anything I had ever seen before. It seemed to hover for about 20-25 seconds. At one time it even moved from side to side. It did have lights, but lights that were not on earthly aircrafts...only UFO lights. As it hovered, it kind of went still for a second, and then I chose to look away...eventually looking back at where the UFO had been, but it had vanished. Simply vanished!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160699.html](http://www.nuforc.org/webreports/reports/160/S160699.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165533.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165530.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160063.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160704.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
