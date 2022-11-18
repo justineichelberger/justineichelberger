@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:42 on 18 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:48 on 18 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Kahului (HI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Sighting of object during meteor showerApprox. Dec. 1st 2001 a heavily advertised meteor shower was to happen with its greatest show at approx. 02:00am from the east.  I stayed up for event and it was indeed a spectacle.  As I viewed the show I noticed to the NorthEast a stationary extremely bright star or planet.  It was so bright that I wondered what planet it could be this time or year.  I braced myself against the corner of my house and took a picture of it with my digital camera with a telephoto lens at the maximum.  When I viewed the image it didn't really present change from the way I viewed it with the naked eye.  So, I decided to download to my computer and then digitally magnify it.  As I magnified it started taking on a shape up 200X before it became distorted.  It definitely was metallic and was saucer shape.  It appears that a light is on top but may be a reflection of the sun.  I thought maybe this could be a satellite but it remained stationary and didn't move for approx. 2 hours.  I, like most people didn't report it because of the possible stigmas attached to the person reporting such things.  I feel though that it is an important picture for those concerned.((NUFORC Note:  Date is approximate.  Witness may be alluding to the dramatic Leonid Meteor shower, which peaked on Sunday, November 18, 2001.  For details, see here:  http://science.nasa.gov/headlines/y2001/ast15nov_1.htm?list49634We have altered the date to November 18, 2001.PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37774.html](http://www.nuforc.org/webreports/reports/037/S37774.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Flash' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>One flashing ball of light and 9 other balls of light in the Denver sky.I didn't see stars out last night.  I saw 10 small balls of light in the sky.  One of them was flashing.  They seemed to be in a formation.  They would disappear.  Only the flashing one would remain and then all 10 would reappear.  I live downtown.  The lights were out east.  My guess is near BAFB.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115466.html](http://www.nuforc.org/webreports/reports/115/S115466.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165533.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165530.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160063.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160704.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
