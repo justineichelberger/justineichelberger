@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:43 on 18 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:44 on 18 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Thankerton (UK/Scotland) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately Few Minutes - Few Minutes minutes.</sub><blockquote><sub>UFO SightingA large object flyin very low over a small village, it had many white lights all round it and red flashing lites on top, as far as i could tell it looked round but am not sure.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40682.html](http://www.nuforc.org/webreports/reports/040/S40682.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Great Falls (MT) reported seeing craft that fit the description of some 'Flash' over a period of approximately Flash - Flash minutes.</sub><blockquote><sub>Three flashes of green light lit up the entire sky after power outage.Three flashes of green light illuminated the entire sky -- followed after a power outage. Flashes were ~2 minutes apart.  Confirmed by two others via social media, with an additional two witnesses with me.  No sound accompanied these lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124173.html](http://www.nuforc.org/webreports/reports/124/S124173.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165533.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165530.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160063.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160704.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
