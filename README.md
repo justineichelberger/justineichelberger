@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:44 on 18 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:01:56 on 18 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Great Falls (MT) reported seeing craft that fit the description of some 'Flash' over a period of approximately Flash - Flash minutes.</sub><blockquote><sub>Three flashes of green light lit up the entire sky after power outage.Three flashes of green light illuminated the entire sky -- followed after a power outage. Flashes were ~2 minutes apart.  Confirmed by two others via social media, with an additional two witnesses with me.  No sound accompanied these lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124173.html](http://www.nuforc.org/webreports/reports/124/S124173.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Sayreville (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>2 orange hazes scrambling across the sky.I was outside with my wife. I looked up at the sky at what I thought was the big dipper. I thought to myself that it looked kind of weird. Then I noticed what I thought were 2 stars appear to be slowly moving. They appeared to be as high as the stars. (Not airplane height but way higher)The 2 stars appeared to be 2 orange hazes lights moving parallel with each other. Than it stopped, suddenly shot foward again parallel, than stopped again. The 2 lights started to circle each other (like a figure eight pattern) Than they shot across the sky again, stopping and zig-zagging. Both lights staying close with in each other. I told my wife to look up I think its a ufo. See couldn't find the lights and they began to zig-zag, stop and go & disappeared. I thought I was seeing things, but I know I saw something, But what? I have chills as I write this. It was not a satelite, meteor or airplane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26132.html](http://www.nuforc.org/webreports/reports/026/S26132.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165533.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165530.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160063.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160704.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
