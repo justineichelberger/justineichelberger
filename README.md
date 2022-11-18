@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:48 on 18 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:44 on 18 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Flash' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>One flashing ball of light and 9 other balls of light in the Denver sky.I didn't see stars out last night.  I saw 10 small balls of light in the sky.  One of them was flashing.  They seemed to be in a formation.  They would disappear.  Only the flashing one would remain and then all 10 would reappear.  I live downtown.  The lights were out east.  My guess is near BAFB.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115466.html](http://www.nuforc.org/webreports/reports/115/S115466.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Foster City (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Bay Area Sighting During the Morning of the Peak of Leonid Meteor ShowerThis was during the peak morning of the Leonids Meteor shower.  My fiance said he would call me at my house if he woke up and saw lots of meteors.  He called around 2:30am to let me know that the shower was indeed living up to its hype.  I woke my mom and we grabbed our jackets and headed outside.After about 20-25 minutes or so, my mom went inside to grab some lawn chairs...looking up at the sky hurts your neck!  Meanwhile, I was searching the heavens for more meteors.  The weather was nice, but there was a bit of fog coming in from the coast.  It was then that I saw the triangular shaped object moving silently against the night sky.As an amatuer backyard astronomer, I am very familiar with the sky...meteors...comets, satellites and the like...and I know that what I saw was nothing of the sort.  It appeared to have three "lights" with one in each corner. I put "lights" in quotes because they were not like any kind of lights I have ever seen on a familiar aircraft.  Most planes and such have sharp, crisp looking lights.  However, the lights on this craft were diffused...more like a glow.  They were of an amber-red color and were large and round.  They appeared to be directly under the craft and not on the sides.I have no idea how high up it was, but it did not appear to be flying at a high altitude. I followed it as it traveled in a straight line until I lost it.  Unlike other people's posts, this craft did not stop and turn abrubtly, but just continued on a straight path.  I lost it in the sky because the object itself was very dark.  Without the reflection of the city lights, I probably would not have been able to see it at all! I do not know what I saw that night, but I am of the mentality that it was some sort of government craft.  In this day and age of terrorism, I do not believe that there is a way for ANY kind of foreign craft to be in our atmosphere without the government descending on it instantly and without everyone hearing about it. It is, however, an experience that I will remember and always wonder about.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20541.html](http://www.nuforc.org/webreports/reports/020/S20541.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165533.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165530.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160063.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160704.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
