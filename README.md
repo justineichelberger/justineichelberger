@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:43 on 18 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:44 on 18 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Hamden (CT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Observed venus size and color (white) object through binoculars moving slowly accross the sky during day of about 3 minute duration.I was out walking in the country using a strong pair of binoculars and I was observing a helicopter flying about 2,000 ft when I noticed something behind the helicopter but I believe much higher.It was a clear and crisp day and at first I thought it might be venus because it was a very small and bright white round object and not moving, I thought.I have observed venus on other bright clear days in the distant past. But as I was watching this object which I had centered in the binocular lense, which I thought might be venus I saw a branch slowly come into view in the binocular lense. It came into view much faster than any earth rotation would have on a planet. So it was not venus as I first thought. It was not any type of aircraft known to me. Possibly it could have been one of many earth satellites. But are satellites observable in broad daylight moving so slowly? An email responce to my question would be appreciated.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20553.html](http://www.nuforc.org/webreports/reports/020/S20553.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Lancaster (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright orange light over E. Lancaster DesertStanding in the desert at 65th street west and Ave J, looking to the east I saw a bright orange object floating in a downward trajectory.   At first I thought it was a southwest passanger airliner headed to Burbank, however the color became a glaring bright orange.  I then thought it was the reflection of the sun setting behind me, although I could not account for a reflection from the sun, as the sun was falling behind the mountains at this time.  Its downward trajectory then sped up and I thought it was a plane going down.  It stopped floating hung for a few seconds and then disappeared.  It was either a huge meteor burnign in the earth's atmosphere or something from Edwards.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67004.html](http://www.nuforc.org/webreports/reports/067/S67004.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165533.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165530.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160063.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160704.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
