@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:01:56 on 18 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:37 on 18 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Sayreville (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>2 orange hazes scrambling across the sky.I was outside with my wife. I looked up at the sky at what I thought was the big dipper. I thought to myself that it looked kind of weird. Then I noticed what I thought were 2 stars appear to be slowly moving. They appeared to be as high as the stars. (Not airplane height but way higher)The 2 stars appeared to be 2 orange hazes lights moving parallel with each other. Than it stopped, suddenly shot foward again parallel, than stopped again. The 2 lights started to circle each other (like a figure eight pattern) Than they shot across the sky again, stopping and zig-zagging. Both lights staying close with in each other. I told my wife to look up I think its a ufo. See couldn't find the lights and they began to zig-zag, stop and go & disappeared. I thought I was seeing things, but I know I saw something, But what? I have chills as I write this. It was not a satelite, meteor or airplane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26132.html](http://www.nuforc.org/webreports/reports/026/S26132.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Nokesville (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1:00 - 1:00 minutes.</sub><blockquote><sub>I was waiting for NASA to send up a rocket and I saw a strange object.I was outside waiting for the NASA rocket to be sent off.  They said at 6:00pm, and that is when I was out.  At exactly 6, something caught my attention from the corner of my eye.  I than looked and there was this disc like object just sitting there.  It had many lights on it and the lights were very visible, and so was the craft.  I tried to pull my phone out to record but there was than a bright light and a loud roar.  I looked back up and it was gone.  Than I got a text from NASA that there was some sort of 'delay'.  That sounded very weird to me that there was this weird object at the original time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106202.html](http://www.nuforc.org/webreports/reports/106/S106202.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165533.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165530.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160063.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160704.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
