@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:36 on 18 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:52 on 18 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Austintown (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange lights and crafts.My son, his girlfriend, another friend and myself witnessed three large triangle crafts with three orange pulsating lights on each craft on Nov. 18,2012.The crafts/orange lights were flying east to west and were spaced quite a distance from each other.My son had a video phone and took some footage.  The footage is visable but when the lights dimmed and left our view the video couldn't catch anymore footage.The lights were round and seemed to have an electro-magnetic propulsion system of operation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106891.html](http://www.nuforc.org/webreports/reports/106/S106891.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in York (NE) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Driving from Omaha got past York and saw a green orb shoot across the sky.  Then it disappeared.  I was very freaked out had to call my husband and make him talk to me the rest of the way home.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143823.html](http://www.nuforc.org/webreports/reports/143/S143823.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165533.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165530.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160063.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160704.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
