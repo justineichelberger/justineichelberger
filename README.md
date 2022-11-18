@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:45 on 18 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:42 on 18 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Two of my friends and myself, were walking in westwood village, it was still daylight outside, we were walking on Broxton street, and we were filming a video for myspace, we stopped until I caught notice of something strange in the sky, there were other planes zooming around, but this one was the only one that was peculiar to me. I told one of my friends holding the camera to video tape it, to see if it was a plane or 727, we took a good look at the footage and there was no plane, my first description that it looked like a fireball.   "It looks like a fireball, does that look like a plane to you"? " No actually it doesn't, but I can't tell though"? " I can the camera it is a 100 max, any more we wouldn't be able to see it. The object seemed to make an aura around the object, inside the fire ball there seemed to be a black metallic object. That we can barely make out, we had theories of a rocket. to missile, to a burning plane, to meteor, but none of those fit the description we just saw. All what we can tell it was descending at a sustained speed towards the Ocean. I showed the video to other people and there was no real answer. But that one comment was said on U tube, that it could be a Jumbo jet? I called the authorites about, they didn't care much about it until I I mentioned it was on video, then she was willing to transfer my call to security forces and I hung up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53644.html](http://www.nuforc.org/webreports/reports/053/S53644.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Kahului (HI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Sighting of object during meteor showerApprox. Dec. 1st 2001 a heavily advertised meteor shower was to happen with its greatest show at approx. 02:00am from the east.  I stayed up for event and it was indeed a spectacle.  As I viewed the show I noticed to the NorthEast a stationary extremely bright star or planet.  It was so bright that I wondered what planet it could be this time or year.  I braced myself against the corner of my house and took a picture of it with my digital camera with a telephoto lens at the maximum.  When I viewed the image it didn't really present change from the way I viewed it with the naked eye.  So, I decided to download to my computer and then digitally magnify it.  As I magnified it started taking on a shape up 200X before it became distorted.  It definitely was metallic and was saucer shape.  It appears that a light is on top but may be a reflection of the sun.  I thought maybe this could be a satellite but it remained stationary and didn't move for approx. 2 hours.  I, like most people didn't report it because of the possible stigmas attached to the person reporting such things.  I feel though that it is an important picture for those concerned.((NUFORC Note:  Date is approximate.  Witness may be alluding to the dramatic Leonid Meteor shower, which peaked on Sunday, November 18, 2001.  For details, see here:  http://science.nasa.gov/headlines/y2001/ast15nov_1.htm?list49634We have altered the date to November 18, 2001.PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37774.html](http://www.nuforc.org/webreports/reports/037/S37774.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165533.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165530.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160063.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160704.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
