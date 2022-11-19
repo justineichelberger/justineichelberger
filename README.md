@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:47 on 19 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:51 on 19 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Hartley (IA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>5 liights in southern skyAround 8:02 pm walk outside the house and saw 5 strange lights in southern sky. They looked to be Id guess 10 miles away. Just a guess.Instincts told me instantly that this was strange.Ran as to the house to get daughter to witness but the objects were gone already.Couldnt have been more than 15 or 20 secs.Called the radio station and a lady had just called in wth the same report.Started asking persons I met daily if they saw any lights in the sky around that date.Have to date found 2 other persons that saw them.One said he didnt want to tell anyone about them because of the possible stigma.He was obviously shaken by the event.Only possible explaination was flares from a military aircraft but that would seem a little out of place for them though in this area.Difinetly not meteor.Objects were either still or moving very very slowly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55434.html](http://www.nuforc.org/webreports/reports/055/S55434.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Modesto (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Black helicopter with very bright pulsating light.We were driving on Route 132 from Waterford towards Modesto at sunset. For approx. 5 mins we observed a very bright light at first constant but then it began to pulsate regularly. The intensity was approx. 3 times that of Venus at it's brightest. As we came closer to it it appeared to be a black helicopter and stopped pulsating. The reason we are reporting this is that it seemed extremely odd that a helicopter would have such a blinding white pulsating light on it. Wether it was something strange or not will never be known but we report it in case there were any other observations or anomolous activity in the area that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59954.html](http://www.nuforc.org/webreports/reports/059/S59954.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165859.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165553.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160713.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160744.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
