@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:47 on 19 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:01:28 on 19 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in South Charleston (WV) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>lime colored, teardrop, bright light, falling sraight down from sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85409.html](http://www.nuforc.org/webreports/reports/085/S85409.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Middleville (MI) reported seeing craft that fit the description of some '' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>The son of the observer called the hotline, and then put his mother on the line. The observer was sitting in her house watching television, when she witnessed through her window a "fluorescent green, glowing ball of light" streak across the sky in the direction of the local airport (Kent County International Airport").  The object was very, very bright, she saidShe reported that the color of the light was similar to the color of the green lights on a VCR. The object was the size of "1 inch, held at arm's length," and it was perfectly round.  (Note:  Hence, it was a very prominant object in the night sky.)  She found it unusual that the object remained very round during her brief sighting.  She got into her car and drove over to the backwoods to see whether there might be some damage or wreckage there.  They found nothing.She added that she doesn't know how the personnel in the local airport tower could NOT have seen the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01524.html](http://www.nuforc.org/webreports/reports/001/S01524.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165859.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165553.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160713.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160744.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
