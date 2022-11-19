@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:42 on 19 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:37 on 19 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Boynton Beach (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>A bright red orange circle in the sky.We were walking our dog  in Boynton Beach, Florida, around 7:00 pm when we saw this strange round red orange object moving low in the sky .  It caught our attention because it was flying low.  We were very concerned because it didn't look like an airplane or helicopter in the night  sky and it was very quiet.  It was traveling from north to south on the eastern sky about a minute and a half.Suddenly, it went up high in the sky and form an  interesting shape.  The shape looked to us like a waxing crescent moon with the red orange ball in the center and white lights above and below the circle forming  the crescent moon and then it disappeared.  We were not the only ones watching.  Some of our neighbors were out there too.  Interesting sight !</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131334.html](http://www.nuforc.org/webreports/reports/131/S131334.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Apollo Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Reddish-orange round ball of light flying over Apollo BeachRed-orange light almost hovering over Apollo Beach, then takes off into the clouds. Has returned twice within 20 min.  No noise associated with light, and it doesn't follow the normal aircraft flight profile over Apollo Beach.((NUFORC Note:  We suspect a nighttime sighting, and have changed the time above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131345.html](http://www.nuforc.org/webreports/reports/131/S131345.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165859.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165553.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160713.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160744.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
