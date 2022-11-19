@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:42 on 19 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:42 on 19 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Paterson (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately All the time - All the time minutes.</sub><blockquote><sub>Not crazy looks like star got pics.Theres been a ufo sleazing around bergen and passaic counties. I got pics, looks like a star bright but not a star took pic with iphone. Just sits there in the sky and slowly moves. Acts like it a star.  It been around for a while. but Its been caught.  Sent pics to place.  If theres one theres usually more.  F</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104589.html](http://www.nuforc.org/webreports/reports/104/S104589.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in North Richland Hills (TX) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>seen two round grey in color objects. one small,the other seemed to be quiet larger.  these objects stayed still & didn't move for about 15 minutes. their were 3 air force jets in the area one seem to fly close too & in front of the larger one. I keep changing my postion to see if the obects would change,move or disappeare.I went inside to say something to someone and when i return app.45. seconds they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26629.html](http://www.nuforc.org/webreports/reports/026/S26629.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165859.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165553.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160713.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160744.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
