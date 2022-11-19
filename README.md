@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:31:35 on 19 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:18:51 on 19 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Baton Rouge (LA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Orange light in sky over Baton Rouge.One orange light.  I saw 3 in a row matching this description 2 years ago or so, if you look up "orange lights in the sky" on youtube, one of these around russia or something will provide with a better description.  Today i only saw one, and my phone couldnt pick it up to take a picture.  It got greyed out. Weird.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115476.html](http://www.nuforc.org/webreports/reports/115/S115476.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in New Wilmington (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Something in the sky we hadn't seen beforeDriving on road. Looked out passenger window to see what at first I thought was a very low plane. Put window down to get a better look--was not a plane. My son thought it had to be a tower with lights on it. But we have lived there our whole lives and never have seen a power tower there before. We slowed to about 10 miles per hour so that we could get a better look. It wasn't moving. Just "hovering" in the same spot in the sky. Low to the ground for an aircraft. It was at the height of about a power tower. It had multiple lights going around the craft. One was green. The rest were white that we could tell. When we passed it some on the road and looked back, the lights continued around to the back of the craft, too. Then, a once still object started moving and went out of sight. Not at a fast clip. Just moved right along. No sound. I thought of that later. When I had the window down. If it was a helicopter or plane we would have heard an engine. The! re was no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160706.html](http://www.nuforc.org/webreports/reports/160/S160706.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165859.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165553.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160713.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160744.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
