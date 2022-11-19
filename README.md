@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:42 on 19 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:34 on 19 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in North Richland Hills (TX) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>seen two round grey in color objects. one small,the other seemed to be quiet larger.  these objects stayed still & didn't move for about 15 minutes. their were 3 air force jets in the area one seem to fly close too & in front of the larger one. I keep changing my postion to see if the obects would change,move or disappeare.I went inside to say something to someone and when i return app.45. seconds they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26629.html](http://www.nuforc.org/webreports/reports/026/S26629.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Sidney (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Amber-red light array, 3 sec illumination, 40 miles from Stephenville, TX..On the evening of 19-Nov-2009 I again witnessed what appeared to be the same craft as reported on 19-Oct-2009.  Time was approximately 1900 hours, CDT, US.  There were one or two military jets doing passes prior to the sighting this time around.  The jets had left the area before the sighting.A large almost linear array of amber & red lights blinked on for a few seconds, then blinked off, and blinked on again several seconds later for about the same elapsed time--the second time the craft was slightly to the left of the first time.  The craft was east-southeast at about 15 degrees above horizontal (visible about a fingernail's-width-at-arm's-length above the local treeline).The pattern size was about a fingernail's-width-at-arm’s-length and horizontal in orientation.The array was rock-solid, i.e. hovering motionless during illumination and displaying no change in relative position of the individual lights.This could have been two separate craft, but there was no way to tell because the two illuminations did not overlap in time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73389.html](http://www.nuforc.org/webreports/reports/073/S73389.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165859.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165553.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160713.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160744.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
