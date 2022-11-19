@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:38 on 19 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:40 on 19 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Van Nuys (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Bright light, 3 or 4 times the size of a star hovered, moved slowly, and then accelerated to an astounding speed till it disappeared.My boyfriend and I were driving back home in Van Nuys, when all of a sudden a little bit after 5:30, we saw a circular, bright light about 3 or 4 times the size of a star facing west. It stood still, almost as if hovering for a second and then slowly started moving farther away from us. In about an instant it accelerated to a speed I have never seen any object move in my life and it disappeared just as quickly. It was very dark here in California and what we saw was very clear. We live by the airport so we are used to seeing planes and we can differentiate between the two. At first we thought it was a shooting star however, we have never seen a shooting star that big, or one that could move that fast in speed. I have never seen a meteor, so I cannot compare, however I do know that I have never believed in UFO's until this day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53518.html](http://www.nuforc.org/webreports/reports/053/S53518.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Naco (Mexico) (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 09:30 - 09:30 minutes.</sub><blockquote><sub>white floating lightWe saw a spinning white and red light, moving back and fourth floating above the San Jose Mtn range, from 9am till 9:30am, and it was south of Naco,Az.  We called the border patrol and they said they had no vehicles or aircraft in the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33231.html](http://www.nuforc.org/webreports/reports/033/S33231.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165859.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165553.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160713.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160744.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
