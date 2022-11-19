@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:06:34 on 19 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:47 on 19 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Mckeesport (PA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Cigar Shaped UFO seen in sky.Hello,  My wife and I live in McKeesport, PA.  This morning, at approximately 11:15--11:20 A.M., we were driving north on Myer Blvd. in McKeesport.  I stopped at the stop sign at the intersection of Myer and Riverview and my eye was immediately drawn to a bright light visible in the sky directly ahead of me above the northern horizon.  I saw that the light was reflecting from a metallic silver object, and I thought it was odd because it seemed so much brighter than the jets or planes I've seen before in the sky.  My instant reaction was to think this was a conventional aircraft of some kind, and I watched it, thinking that in a second or two a wing structure would become visible as the craft moved toward the north-east.  When no wing structure appeared after a few seconds, I called my wife's attention to the object.  She immediately saw it at that point and was as puzzled by it as I was.The object appeared to be cigar shaped. It was metallic and silvery looking.  There were no wings, propellers, lights, or markings visible anywhere on it.  The object left no contrail, nor could we hear any sound coming from it (although a sound would have been hard to hear because our car's engine was running and our windows were not rolled down.)  In the center of the aircraft appeared what looked like a series of rectangular windows. (My wife said she didn't see this feature.) It was moving in a slightly north-easterly direction at about the same speed as a conventional aircraft would move.  With growing curiosity, I turned the car left and drove up Riverview in order to track the object and keep it in sight. We watched it head into the north-east for a while, and then it suddenly vanished.  I don't know if it flew behind the clouds.  We suddenly were unable to find it in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85408.html](http://www.nuforc.org/webreports/reports/085/S85408.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Hartley (IA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>5 liights in southern skyAround 8:02 pm walk outside the house and saw 5 strange lights in southern sky. They looked to be Id guess 10 miles away. Just a guess.Instincts told me instantly that this was strange.Ran as to the house to get daughter to witness but the objects were gone already.Couldnt have been more than 15 or 20 secs.Called the radio station and a lady had just called in wth the same report.Started asking persons I met daily if they saw any lights in the sky around that date.Have to date found 2 other persons that saw them.One said he didnt want to tell anyone about them because of the possible stigma.He was obviously shaken by the event.Only possible explaination was flares from a military aircraft but that would seem a little out of place for them though in this area.Difinetly not meteor.Objects were either still or moving very very slowly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55434.html](http://www.nuforc.org/webreports/reports/055/S55434.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165859.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165553.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160713.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160744.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
