@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:41 on 20 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:43 on 20 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in George (South Africa) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Silver objects moving across the sky in South Africa, GeorgeI was tanning next to our swimming pool with a ex girlfriend of mine, it was afternoon and a very clear day.  I noticed a bright silver looking object about 3 or 4 km above where i was hovering in the sky moving slowly from side to side, shining and then not shining as it moved side to side.Then whilst the first object moved along the same way as described above, two more objects arrived, but at immense speed, stopped near the hovering object, and shot off again in the opposite direction it came from.If a normal boeing is flying at 800km/h, I would guess that these objects must have been moving at a fifty times that speed.  I called for my brother which was inside the house to come and check this out with me just to make sure that I was seeing correctly.  He confirmed, he also saw the same objects.The whole sighting lasted about 5 to 10 minutes, there were 4 objects in total.  The four objects was hovering together for about 10 seconds and of they went together at one hell of a speed.I saw this same sighting on tv about a year or two ago, and that's when I remembered what I saw.I did report it back then on a ufo report centre, but my brother never got to confirm this per e-mail.  I don't think it's aliens tho, maybe just government experiments.((NUFORC Note:  Source of report indicates that the time of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71761.html](http://www.nuforc.org/webreports/reports/071/S71761.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lac du Bonnet ("RM of" ??) (Canada) (MB) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange orange glow coming from trees alongside highway.Last year, (I don't remember the exact date) I was driving to city early in the morning with my sister, the sun was just coming up the left and I just happened to glance out the passenger window to my right and noticed a very steady bright, orange glow coming up from behind the trees.  At first I thought maybe there was a forest fire, but I slowed down and we looked closer and saw that there was no smoke, just a strange orange glow like the sun was coming up behind the trees...but how can that be if the sun was on the total opposite side of us?  I also thought it could possibly be coming from some lights on a farm or something, but I don't think it's possible for a few lights on a farm to light up a whole area of the sky like that.  I travel along that same highway alot, but I have never seen that orange glow ever again.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75472.html](http://www.nuforc.org/webreports/reports/075/S75472.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
