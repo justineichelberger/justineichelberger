@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:43 on 20 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:42 on 20 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lac du Bonnet ("RM of" ??) (Canada) (MB) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange orange glow coming from trees alongside highway.Last year, (I don't remember the exact date) I was driving to city early in the morning with my sister, the sun was just coming up the left and I just happened to glance out the passenger window to my right and noticed a very steady bright, orange glow coming up from behind the trees.  At first I thought maybe there was a forest fire, but I slowed down and we looked closer and saw that there was no smoke, just a strange orange glow like the sun was coming up behind the trees...but how can that be if the sun was on the total opposite side of us?  I also thought it could possibly be coming from some lights on a farm or something, but I don't think it's possible for a few lights on a farm to light up a whole area of the sky like that.  I travel along that same highway alot, but I have never seen that orange glow ever again.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75472.html](http://www.nuforc.org/webreports/reports/075/S75472.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Rock Hill (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>While driving west bound on Route 17 near Rock Hill, New York, my wife,son and myself saw a triangle shaped object moving across the highway diagnaly. The object was moving toward Pine Bush NY roughly.The object moved with very little sound, just a whisper of air movement but now large turbine or motor sound. It was dark but there were lights on all three sides of the object allowing to see that there was a center and it was solid not small planes flying in tight formation as the militatry sugests. The duration of the sighting was about one minute. Traffic was slightly heavy for that time of year and I did not have a camera or camcorder with me so pulling over was necessary. This object ot me was not a normal plane or like anything I have ever seen. I am not convinced it was full of little green men (but not oposed) but  it was not a plane or conventional aircraft by both visual or audio recognition.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03537.html](http://www.nuforc.org/webreports/reports/003/S03537.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
