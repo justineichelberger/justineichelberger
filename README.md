@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:42 on 20 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:45 on 20 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Rock Hill (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>While driving west bound on Route 17 near Rock Hill, New York, my wife,son and myself saw a triangle shaped object moving across the highway diagnaly. The object was moving toward Pine Bush NY roughly.The object moved with very little sound, just a whisper of air movement but now large turbine or motor sound. It was dark but there were lights on all three sides of the object allowing to see that there was a center and it was solid not small planes flying in tight formation as the militatry sugests. The duration of the sighting was about one minute. Traffic was slightly heavy for that time of year and I did not have a camera or camcorder with me so pulling over was necessary. This object ot me was not a normal plane or like anything I have ever seen. I am not convinced it was full of little green men (but not oposed) but  it was not a plane or conventional aircraft by both visual or audio recognition.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03537.html](http://www.nuforc.org/webreports/reports/003/S03537.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in College Station (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>One third larger and twice as bright as venus. The object did not twinkle as one would expect if it were a star.At approximately 0515 my wife and I were driving SSE on Pondrosa St. and at appromixmately 35 degres to the horizon she and I saw an object as discribed above flying in a NNE to SSW direction.It was flying on a 90 degres with the horizon. Ten seconds went by and the object made an abrupt 35 to 40 degre downward turn.. Take a pencil and draw a streight line for a time and then an abrupt turn downward 30 or 40 degres. This what my wife and I saw. I know of nothing that cand move like that. I would conclude that the object was VERT high in altitude. We compared the speed of a jet liner that normally flies at say 30 thousand feet to the speed of this object and figured it was very large and high in altitude. The object was traveling 15 times the speed of a jet airliner if you observe the jet at 30 thousand feet. The objest disappeared over the horizon. Respectfully yous, ((Radio call letters deleted.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05089.html](http://www.nuforc.org/webreports/reports/005/S05089.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
