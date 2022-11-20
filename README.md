@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:24:07 on 20 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:03:43 on 20 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Sunnyvale (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>HUGE Ball of Light Falling from the Sky.  Possible meteor or missile test on California coast.Was driving south on Hwy 85 from Mountain View heading towards Cupertino.  Saw a HUGE white ball of light falling from the sky over the hills of Saratoga.  It had a long fat tail, and took it's time falling into the earth.  hundreds of folks saw it and were calling KGO radio etc. and TV stations.  I called the San Jose Mercury News,  someone there told me it was a missile test by Edwards Air Force base.  Could have been done at Vandenberg Air Force.  There were sightsing at Monterey Bay.  The only thing in the news about it, said it was a meteor.  I can say that I've never seen a meteor that close and that Huge!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33358.html](http://www.nuforc.org/webreports/reports/033/S33358.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large bright white light moving in zig-zag pattern across the sky.I was outside walking my dog, and I looked up at the sky to watch the stars.  I noticed a very bright light that was about two and a half times the size of the surrounding stars.  At first it was moving forward at a pretty decent speed, then it started moving faster in a zig zag pattern.  It continued in the zig zag pattern until I could not see it anymore.Note: The light appeared to be a bright white-ish color.  Also, the object made no noise.((NUFORC Note:  Source elects to remain totally anonymous; provides no contact information.  We can't help but wonder whether this might be a hoax.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124219.html](http://www.nuforc.org/webreports/reports/124/S124219.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
