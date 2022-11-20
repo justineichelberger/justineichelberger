@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:45 on 20 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:49 on 20 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in College Station (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>One third larger and twice as bright as venus. The object did not twinkle as one would expect if it were a star.At approximately 0515 my wife and I were driving SSE on Pondrosa St. and at appromixmately 35 degres to the horizon she and I saw an object as discribed above flying in a NNE to SSW direction.It was flying on a 90 degres with the horizon. Ten seconds went by and the object made an abrupt 35 to 40 degre downward turn.. Take a pencil and draw a streight line for a time and then an abrupt turn downward 30 or 40 degres. This what my wife and I saw. I know of nothing that cand move like that. I would conclude that the object was VERT high in altitude. We compared the speed of a jet liner that normally flies at say 30 thousand feet to the speed of this object and figured it was very large and high in altitude. The object was traveling 15 times the speed of a jet airliner if you observe the jet at 30 thousand feet. The objest disappeared over the horizon. Respectfully yous, ((Radio call letters deleted.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05089.html](http://www.nuforc.org/webreports/reports/005/S05089.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Chillicothe (OH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>12 aircraft in dogfight firing missles and tracer rounds with laser guidance near Chillicothe OhioAppeared to be a dogfight in the sky just to the west of Chillicothe.  At least 6 rockets were fired, bullets with tracer rounds were fired. Green laser beams also used, possible guidance weapons system.  There were small bright white lights that flashed and moved very fast in unorganized patterns appearing to chase other aircraft.  Could hear jet engines when there were only 2 aircraft left.  Battle lasted 20 minutes. Chillicothe, Ohio, is pretty far from our country's borders for another country to attack us.  Unsure of actual aircraft but there were definite jet engine sounds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124216.html](http://www.nuforc.org/webreports/reports/124/S124216.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
