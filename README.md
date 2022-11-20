@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:52 on 20 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:52 on 20 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Bell Buckle (TN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Crash cover up?The helicopter was military (out of Tullahoma). All the roads around the fire school where closed by local law enforcement. There was a large RV type vehicle that appeared to be some sort of crash response team at the intersection of Smith and Trott rd. The two witnesses said that it appeared to be a plane "on fire" that crashed.http://www.t-g.com/story/1292400.html((NUFORC Note:  Witness elects to remain semi-anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59975.html](http://www.nuforc.org/webreports/reports/059/S59975.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Destin (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Multi-color fireball, Destin, FL.On Nov. 20, 2000 at 22:30 hours, my wife and I were walking west along the beach heading back to our hotel at Destin Florida. I stopped, turned around, and started looking southeast over the Gulf of Mexico. My wife turned around as well and looked in the same direction as I was looking. About 15 seconds later, we both saw a football shaped fireball that suddenly appeared about 10 degrees above the horizion heading straight downward. This firball was moving very slow, and we watched it for a good 6 seconds. Durning this time the fireball changed from a brilliant white color to a dual combination of burnt orange and green. The fireball was about dime size at arms length, and vanished an instant before making contact with the water. I estimate the range from us on the beach at no more than 3 miles. While walking the beach we noticed several meteors crossing the clear, nighttime sky, and this fireball resembled none of them. It was much, much bigger and brighter, and heading downward instead of crossing the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15075.html](http://www.nuforc.org/webreports/reports/015/S15075.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
