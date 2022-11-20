@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:40 on 20 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:37 on 20 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Grand Blanc (MI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Grand Blanc, Mi., two lights not blinking in a staggered formation, low altitude, and no sound.While outside on my deck facing east, I happen to notice two white lights, not blinking, in a staggered formation close to each other for about a minute, until my sight was blocked by roof lines at approx. 8:20 pm.  I couldn't tell if there was 2 objects or just one with two lights. It seems it was one object since the lights moved together perfectly.  The location was parallel to Fenton Rd. heading south, near Grand Blanc Rd in Mundy Twp., Grand Blanc. At first, I thought it was an airplane, since there are many planes near by due to Bishop Airport about 10 miles away.  So, as I am watching this formation it was lower than usual than an airplane would fly in the area, also there wasn't any sound usually associated with an engine.  The lights seemed to float.  When looking at the lights i noticed that at higher elevations, there was an airplane to the north and two more at higher elevation to the south with blinking red and white lights.  What i saw was completely different, it kind of stunned me, left me thinking, what did i just witness?  I'll be thinking of this for a long time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115498.html](http://www.nuforc.org/webreports/reports/115/S115498.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Hopkinsville (I-24) (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Lights near I-24 mile markers 80-77.I was traveling home from work, west bound on I-24, around 5:40pm, and around mile marker 80, or so, I saw 2 large lights in the sky to my left.  They were bigger than any plane or stars in the sky, and were just sitting there not moving.  I then saw a 3rd light to the right of those just above the horizon line, and it shot at a 45 degree angle upwards towards the other 2 white lights.  The light farthest to the left then seemed to fade like it was going away from me.  I lost sight of the lights just before Mile Marker 77 because there is a big heavily wooded hill that blocks the view of the sky just briefly, but after I passed the hill and regained view of the skyline, all 3 lights were gone.I have seen 2 lights in that same area maybe 6 or 7 years ago while riding home from work on the same road close to the same time and at that time, I thought I was about to witness a plane crash, or something, as the lights were spiraling around each other heading towards the ground, but then stopped just above the horizon.  My friend, whom I carpooled with, was driving, and I asked him if he seen those crazy lights just out of his left window, but he did not, and just as i said above once I lost sight of the sky due to the terrain I couldn't find them again.I came home and told my brother about the lights I saw recently and he typed in west ky ufo sightings and lo and behold he found a story on this sight that was so similar to what I had seen and in the same place that I had to post this in hopes that the previous poster sees this and gains some sort of verification to his story.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137614.html](http://www.nuforc.org/webreports/reports/137/S137614.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
