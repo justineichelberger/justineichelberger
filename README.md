@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:01:01 on 20 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:42 on 20 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Santee (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Large triangle ship with 3 white lights and flashing orange light, flew very low overhead with no sound.I was driving down Highway 6 from Santee towards Eutawville and saw 3 very bright lights side by side just over the tree line.  I pulled over once it got close to the road and a dark, very large triangle ship flew directly overhead.  From the bottom there were 3 white lights (one in each corner) and a flashing orange light by the front.  It moved extremely slow and made no noise.  I got some video from inside my car and jumped out when it was overhead and got a minute or so more solid video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137347.html](http://www.nuforc.org/webreports/reports/137/S137347.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Wexford (PA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Bright orange cylinder spiraled in skyDriving along wexford bayne rd on the way to a store my boyfriend, and I looked up and saw extremely bright orange cylinder shape spiral in the sky for about 15 seconds, and then disappear.   I've never seen anything like it in my life while looking at the stars.  It wasn't a street light.  It was in the sky and it was so bright.  We both work all the time and had the day off today so we have been out and about doing different things and then out of nowhere we saw this thing appear and disappear in a matter of moments.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104631.html](http://www.nuforc.org/webreports/reports/104/S104631.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
