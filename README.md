@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:03:43 on 20 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:40 on 20 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large bright white light moving in zig-zag pattern across the sky.I was outside walking my dog, and I looked up at the sky to watch the stars.  I noticed a very bright light that was about two and a half times the size of the surrounding stars.  At first it was moving forward at a pretty decent speed, then it started moving faster in a zig zag pattern.  It continued in the zig zag pattern until I could not see it anymore.Note: The light appeared to be a bright white-ish color.  Also, the object made no noise.((NUFORC Note:  Source elects to remain totally anonymous; provides no contact information.  We can't help but wonder whether this might be a hoax.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124219.html](http://www.nuforc.org/webreports/reports/124/S124219.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Rescue (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3 hrs. - 3 hrs. minutes.</sub><blockquote><sub>11/20/11 Rescue. CA.  triagular shaped object 3hrs. hover then accelerate to high altitude  11/20/11I am not one of the observers but I trust their description of the following.  Rescue is small N. CA. rural town.  Last night at a barbecue,  five friends watched a triangle shaped craft hover at perhaps a thousand feet,  then shoot to over twenty thousand feet in the blink of an eye.  The craft was described as being about the size of a barn,  triangle in shape with white lights.  They watched the craft with bonoculars for over three hours.  I neglected to get the specific time of night of the event Four of the observers are long time residents of the area and are good citzens,  one is a felon and reported the sighting to his parole officer. ((NUFORC Note:  We spoke via telephone with the gentleman who submitted this report, and he will have the witnesses prepare reports.  We have corrected the time above, to reflect an evening sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85426.html](http://www.nuforc.org/webreports/reports/085/S85426.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
