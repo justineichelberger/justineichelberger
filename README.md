@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:40 on 20 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:40 on 20 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Rescue (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3 hrs. - 3 hrs. minutes.</sub><blockquote><sub>11/20/11 Rescue. CA.  triagular shaped object 3hrs. hover then accelerate to high altitude  11/20/11I am not one of the observers but I trust their description of the following.  Rescue is small N. CA. rural town.  Last night at a barbecue,  five friends watched a triangle shaped craft hover at perhaps a thousand feet,  then shoot to over twenty thousand feet in the blink of an eye.  The craft was described as being about the size of a barn,  triangle in shape with white lights.  They watched the craft with bonoculars for over three hours.  I neglected to get the specific time of night of the event Four of the observers are long time residents of the area and are good citzens,  one is a felon and reported the sighting to his parole officer. ((NUFORC Note:  We spoke via telephone with the gentleman who submitted this report, and he will have the witnesses prepare reports.  We have corrected the time above, to reflect an evening sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85426.html](http://www.nuforc.org/webreports/reports/085/S85426.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Grand Blanc (MI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Grand Blanc, Mi., two lights not blinking in a staggered formation, low altitude, and no sound.While outside on my deck facing east, I happen to notice two white lights, not blinking, in a staggered formation close to each other for about a minute, until my sight was blocked by roof lines at approx. 8:20 pm.  I couldn't tell if there was 2 objects or just one with two lights. It seems it was one object since the lights moved together perfectly.  The location was parallel to Fenton Rd. heading south, near Grand Blanc Rd in Mundy Twp., Grand Blanc. At first, I thought it was an airplane, since there are many planes near by due to Bishop Airport about 10 miles away.  So, as I am watching this formation it was lower than usual than an airplane would fly in the area, also there wasn't any sound usually associated with an engine.  The lights seemed to float.  When looking at the lights i noticed that at higher elevations, there was an airplane to the north and two more at higher elevation to the south with blinking red and white lights.  What i saw was completely different, it kind of stunned me, left me thinking, what did i just witness?  I'll be thinking of this for a long time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115498.html](http://www.nuforc.org/webreports/reports/115/S115498.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
