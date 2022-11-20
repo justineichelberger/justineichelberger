@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:42 on 20 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:41 on 20 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Wexford (PA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Bright orange cylinder spiraled in skyDriving along wexford bayne rd on the way to a store my boyfriend, and I looked up and saw extremely bright orange cylinder shape spiral in the sky for about 15 seconds, and then disappear.   I've never seen anything like it in my life while looking at the stars.  It wasn't a street light.  It was in the sky and it was so bright.  We both work all the time and had the day off today so we have been out and about doing different things and then out of nowhere we saw this thing appear and disappear in a matter of moments.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104631.html](http://www.nuforc.org/webreports/reports/104/S104631.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in George (South Africa) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Silver objects moving across the sky in South Africa, GeorgeI was tanning next to our swimming pool with a ex girlfriend of mine, it was afternoon and a very clear day.  I noticed a bright silver looking object about 3 or 4 km above where i was hovering in the sky moving slowly from side to side, shining and then not shining as it moved side to side.Then whilst the first object moved along the same way as described above, two more objects arrived, but at immense speed, stopped near the hovering object, and shot off again in the opposite direction it came from.If a normal boeing is flying at 800km/h, I would guess that these objects must have been moving at a fifty times that speed.  I called for my brother which was inside the house to come and check this out with me just to make sure that I was seeing correctly.  He confirmed, he also saw the same objects.The whole sighting lasted about 5 to 10 minutes, there were 4 objects in total.  The four objects was hovering together for about 10 seconds and of they went together at one hell of a speed.I saw this same sighting on tv about a year or two ago, and that's when I remembered what I saw.I did report it back then on a ufo report centre, but my brother never got to confirm this per e-mail.  I don't think it's aliens tho, maybe just government experiments.((NUFORC Note:  Source of report indicates that the time of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71761.html](http://www.nuforc.org/webreports/reports/071/S71761.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
