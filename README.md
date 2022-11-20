@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:36:49 on 20 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:24:07 on 20 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Baton Rouge (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>At least 20 bright orange/gold lights moving across the sky in Baton Rouge.As I was driving down Airline Highway in Baton Rouge at about 9:30 p.m. on Thursday, November 20th, I saw several orange/gold lights up in the sky to my left.  Then I noticed there were many of these lights.  They were not blinking.  Once in a while, they would appear to twinkle.  Since I was driving, I couldn't tell if they were moving or not, so I pulled into a parking lot to watch.  The lights were moving, all to the northeast.  As I watched, more lights appeared from out of the southwest, and moved in the same direction as the other lights.  These lights were larger than the size of the planet Venus when it can be seen shining brightly in the sky--probably three times the size.  Once they moved past me, I would lose sight of them, but more and more kept coming.  A plane or helicopter with flashing lights appeared and seemed to be going in a wide circle in the area.  After about 10 minutes, no more lights came out of the southwest.  I don't know exactly how many lights I had seen, but at least 20.  I have no idea what these were, and I have not seen any news reports locally about these strange very bright orange/gold lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115522.html](http://www.nuforc.org/webreports/reports/115/S115522.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Sunnyvale (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>HUGE Ball of Light Falling from the Sky.  Possible meteor or missile test on California coast.Was driving south on Hwy 85 from Mountain View heading towards Cupertino.  Saw a HUGE white ball of light falling from the sky over the hills of Saratoga.  It had a long fat tail, and took it's time falling into the earth.  hundreds of folks saw it and were calling KGO radio etc. and TV stations.  I called the San Jose Mercury News,  someone there told me it was a missile test by Edwards Air Force base.  Could have been done at Vandenberg Air Force.  There were sightsing at Monterey Bay.  The only thing in the news about it, said it was a meteor.  I can say that I've never seen a meteor that close and that Huge!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33358.html](http://www.nuforc.org/webreports/reports/033/S33358.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
