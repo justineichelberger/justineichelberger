@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 20 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:37 on 20 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in Uvalde (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>LIGHT SHOOTING STRAIGHT UPDUE TO THE FACT I HAD SEEN A V SHAPE FORMATION OF LIGHTS IN 1984 MY GOAL WAS TO LOOK UP AT THE NIGHT SKY WHENEVER I HAD A CHANCE...MY PARENTS HAD A PRYER MEETING AT THE HOUSE AND I WAS LAYING ON THE BED OF A TRUCK THAT BELONG TO ONE OF THE PEOPLE THAT WERE AT MY HOUSE THAT NIGHT...AND I WAS LAYING THERE LOOKING UP W/MY HEAD POINTING TOWARD THE WEST AND AGAING SOME THING MADE ME LOOK UP TOWARD THE WEST AND THERE WAS THIS PRETTY GOOD SIZE STAR SO I THOUGHT...IT WAS ABOUT THE SIZE OF VENUS WHEN IT COMES OUT OR IS ABOUT TO SET...BUT THIS LIGHT WAS YELLOW LOOKING AND FOR A SPLIT MINUTE I THOUGHT I SAW MOTION AND I THOUGHT IT WAS A SHOOTING STAR BUT TO MY SUPRIZE INSTEAD OF FALLING IT SHOT UP STRAIGHT INTO THE SKY AND FADED AWAY ALMOST LIKE IT HAD TOURNED OFF....IT FELT WEARED THAT THIS THING ALMOST KNEW I WAS LOOKING AT IT AND TOOK OFF.....IT MADE ME FEEL LIKE IT WAS WATCHING ME.…((NUFORC Note:  Date and time are approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20137.html](http://www.nuforc.org/webreports/reports/020/S20137.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Tahlequah (OK) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Triangle craft with lights at corners moving silently.I was standing on the front porch at 22:00 hours when I looked up and saw a triangle shaped craft overhead.  It had white lights at each corner and was moving from northeast to southwest silently.  It went behind a tree and within the few seconds it took me to get to the other side of the driveway and into the alley; I could no longer locate the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115501.html](http://www.nuforc.org/webreports/reports/115/S115501.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
