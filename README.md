@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:39 on 20 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:06:43 on 20 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Vista (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>10 orbs form a patteren for 5 min. over camp pendleton.noticed 10 orbs, 3 in a triangle formation and 7 in a backwards "c" formation as I viewed them north of my location over camp pendleton. Also aircraft circled location for 1 to 1-1/2 hours.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73398.html](http://www.nuforc.org/webreports/reports/073/S73398.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Aurora (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>i could see it but my friend standing next to me could not it was plain as day right there.the shape of what I saw was circular but like a hockey puck it had round lights around the outside of the round part, the lights were white the light traveled one light at at a time around the round part of the object . the light seemed to skip to the next bulb shutting off the previous bulb as it traveled around and around the outside.this object was not far away at all if it were a plane or hellocopter i would have been able to hear it clearly but there was no sound at all. it moved very slowly and stopped at least once it sharply changed direction at least twice i watched it travel across denver to they edge of the front range then it took off at an angle into the sky like a flash and disappeared. but there is more that happened while it was above. i ran across the street to my friends house. i got him to come and see it i pointed directly at it, it was right there still but he could not see it at all this was very confusing at the time i was ten or eleven years old no one would believe me. also when it stopped for a second i felt like it had seen me watching it then it slowly started moving again.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38105.html](http://www.nuforc.org/webreports/reports/038/S38105.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
