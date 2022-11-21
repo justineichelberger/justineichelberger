@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:44 on 21 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:47 on 21 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Riverdale (GA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>For the past 4 days, I've seen this bright light in the sky and it's stationary for a few minutes and then it's gone.  It's not far from the airport and planes fly by it every night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131395.html](http://www.nuforc.org/webreports/reports/131/S131395.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Hollywood (FL) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 1:30 - 1:30 minutes.</sub><blockquote><sub>Cloud colored chevron.Standing outside looking to the east.  Noticed an object moving from the north.  Looked like a sharp-angled bommerang.  No lights but cloud colored.  Object was moving about 30 degrees off the horizon.  Moved south for about 60 seconds.  Saw same object about a weeks ago in the same area of the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20543.html](http://www.nuforc.org/webreports/reports/020/S20543.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165522.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165523.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165524.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165521.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165513.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
