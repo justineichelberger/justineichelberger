@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:44 on 21 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:41 on 21 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Poway (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Blue light which changed to orange travelling fast then disappeared.My husband and I were driving home the evening of 11-21-13, when we noticed a blue light traveling across the sky.  The object was traveling at a high rate of speed, was blue in color, and after about 5 seconds the color changed to orange. It sped across our point of vision, changed colors, and then disappeared as it darted away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104664.html](http://www.nuforc.org/webreports/reports/104/S104664.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Harrison (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.5 - 2.5 minutes.</sub><blockquote><sub>We saw silver balls flying irradically in the skyWe were in the woods squrril hunting behind the house.  The first sighting occured when two silver object thought to be military craft manuvering.  When to second check they broke formation and six more appeared and the spherical crafts began orbiting one another.  The second sighting observed occured in less than three minutes later.   A silver ball was saw making a straight line and dashing really fast making an upside down "j".  Then it disappeared into thin air.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05028.html](http://www.nuforc.org/webreports/reports/005/S05028.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165522.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165523.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165524.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165521.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165513.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
