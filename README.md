@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:04 on 21 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:34:52 on 21 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Colchester (CT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>silver fastA single, silver craft flying north at approximately 10X the speed of a commericial aircraft.  No sign of contrails.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78999.html](http://www.nuforc.org/webreports/reports/078/S78999.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in San Angelo (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Daylight sighting in San Angelo(oval)At approx. 18:00 hrs. I stepped out to the back deck for a smoke. As I sat in my beach chair leaning back I noticed two hawks or buzzards in a thermal at approx. 1500 ft. Looking beyond them I noticed another object farther up and hovering at approx. 5-6000 ft. It looked to the size of a small airplane but with no wings and just sitting there. The birds had moved to the east by now and it was just this thing hanging up there , I looked away and looked back to make sure it was not something on my eyes . (floaters)  I called out to my son to bring a camera and as I was waiting for him said object shot to the west. The object moved from 0 mph to out of sight in less than one second.If I had blinked I would thought it had just vanished but, it moved so fast it actually left a trail of darkness behind it as if it were a tracer.I have never seen anything move that fast in the daylight. The best way I could even describe the speed is to say it left a line in the sky as it shot westward. I'm reporting this as I know another sighting was reported in this town at a later time. My wife and son have had two other sightings in the last 14 months at this location but, they were night sightings.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79534.html](http://www.nuforc.org/webreports/reports/079/S79534.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165522.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165523.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165524.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165521.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165513.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
