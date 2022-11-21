@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:36 on 21 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:49 on 21 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Gettysburg (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>UFO sighting on a Ghost tour in Gettysburg.My friends and I were on a ghost tour in Gettysburg PA.  What we saw was a light in the sky right below the constellation Orion.  It was larger than a star and was blinking red, blue, green, and white.  It was not moving so it was not an airplane and it was to high up to be a tower of any sort.  The night was calm and clear.  There were 5 witnesses including myself (3 friends and the tour guide), all of whom saw exactly what I described.  We continued to see this light the entire way back to school from the tour.((NUFORC Note:  A very good description of the star, "Sirius."  It "twinkles" vividly.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33318.html](http://www.nuforc.org/webreports/reports/033/S33318.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Bremerton (WA) reported seeing craft that fit the description of some 'Flash' over a period of approximately  -  minutes.</sub><blockquote><sub>30+ flashing lights in the Kitsap county night skies that look like stars at a quick glance but flashing red,white and blue lights.On 11/21/15 at 10:40 PM, my fiancé and I see 30+ flashing bright lights in the sky.  If we didn't look closely, we probably wouldn't have noticed and assumed they were stars!  I saw red and white!  It was only on one side of the sky!  We also heard a pressure of air!!  Pretty close together...is it drones?  Or what is it?!((NUFORC Note:  We have corrected the date above.  Source provides no contact information.  Possible hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124272.html](http://www.nuforc.org/webreports/reports/124/S124272.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165522.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165523.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165524.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165521.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165513.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
