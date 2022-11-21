@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:02:54 on 21 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:48 on 21 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Bremerton (WA) reported seeing craft that fit the description of some 'Flash' over a period of approximately  -  minutes.</sub><blockquote><sub>30+ flashing lights in the Kitsap county night skies that look like stars at a quick glance but flashing red,white and blue lights.On 11/21/15 at 10:40 PM, my fiancé and I see 30+ flashing bright lights in the sky.  If we didn't look closely, we probably wouldn't have noticed and assumed they were stars!  I saw red and white!  It was only on one side of the sky!  We also heard a pressure of air!!  Pretty close together...is it drones?  Or what is it?!((NUFORC Note:  We have corrected the date above.  Source provides no contact information.  Possible hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124272.html](http://www.nuforc.org/webreports/reports/124/S124272.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Hwy 101 south of Coos Bay (OR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright lights behind me hwy 101, I thought I was being pulled over at firstIt was the day before Thanksgiving, the year 2000. I was moving back to Arizona from Coos Bay and took highway 101 south to California, so driving several hours around 8 or 9pm. I remember being very tired and emotional having failed at moving away from everything I knew. My boyfriend lay passed out on the passenger seat, the stereo blasting loud as I tried not to think. I remember feeling the dark and being very aware I hadn't seen any cars in either direction for some time. I felt very exposed and lonely for reasons I cant explain. Suddenly, I looked in my rearview mirror and thought, how the heck did anyone sneak up on me so fast? The lights became really close and they flashed quickly, I began to pull over thinking I was getting pulled over by a highway patrol, feeling that same fear of what did I do wrong? As I slowed down to stop my boyfriend woke up, asking me what what going on? I said I'm getting pulled over, I don't know why, I didnt do anything.. ! He looks behind the car and looks back at me like I've lost my mind. He says, Kelly quit screwing around, there's no cop back there. To my shock, I turned around and he was right, nothing!! I claimed that my eyes were playing tricks on me because I felt so stupid, but I know for a fact, something had been right behind me and disappeared into thin air. It's been 20 years ago and I still wonder and wish I had investigated further.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161360.html](http://www.nuforc.org/webreports/reports/161/S161360.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165522.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165523.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165524.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165521.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165513.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
