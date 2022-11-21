@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:50 on 21 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:02:54 on 21 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Newport (RI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Slow moving white light with red sphere rotating tightly around it, disappears into thin air.During observation of stars at a local beach, where the land is low for miles and a majority of the sky is unobstructed, we noticed a slow moving white light with a rotating red sphere around it.We could not tell if the red was a solid or a light but it appeared to be rotating in a vertical position tightly around the white light.  Flying height was similar to small aircraft, appearing to be about 1 mile horizontally and 1 mile vertically from our viewpoint.  No flashing lights or strobes were seen.  No other colored lights were seen except for the white and red.  Object was moving from East to West horizontally.  It never appeared to be floating or moving upwards or downwards.  No noise was heard from the object.  One or two small aircraft were also flying in the sky at the time and this object did not compare to the small aircraft lighting.Once noticed, we watched the object for about 30-60 seconds and then the lights completely shut off or object disappeared in thin air.  From our viewpoint object was about 45 degrees above horizon, well above any distant landscape.  We could not find it after that even though the sky was clear and unobstructed.Both observers are college educated and one is an amateur astronomer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94771.html](http://www.nuforc.org/webreports/reports/094/S94771.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Bremerton (WA) reported seeing craft that fit the description of some 'Flash' over a period of approximately  -  minutes.</sub><blockquote><sub>30+ flashing lights in the Kitsap county night skies that look like stars at a quick glance but flashing red,white and blue lights.On 11/21/15 at 10:40 PM, my fiancé and I see 30+ flashing bright lights in the sky.  If we didn't look closely, we probably wouldn't have noticed and assumed they were stars!  I saw red and white!  It was only on one side of the sky!  We also heard a pressure of air!!  Pretty close together...is it drones?  Or what is it?!((NUFORC Note:  We have corrected the date above.  Source provides no contact information.  Possible hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124272.html](http://www.nuforc.org/webreports/reports/124/S124272.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165522.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165523.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165524.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165521.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165513.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
