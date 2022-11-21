@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:43 on 21 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:04 on 21 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Lewiston (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright, steady white light with blue and red flashesLast Friday evening, November 21, 03, just after 10:00 p.m., my husband called to me from a room at the back of the house, "You've got to come and see this."  He was looking out the window at a strange-looking light about 40 degrees up in the southeastern sky.  The weather was clear and cold. The light was white and steady, the size of a very large star, several times the size of Mars during its close approach to Earth in late summer, and slightly to the west of where that planet had been visible in the night sky.  In addition to the white light, it was giving off rapidly alternating flashes of blue and red.  We went outdoors and watched for a few minutes, then I phoned the police to ask if anyone else had reported it.  No one had.  The dispatcher said she'd send an officer to the vicinity to check, and phone me back if he saw anything unusual.  I went back to the window, and the light was slightly smaller, as if it had moved away from us on a direct line.  I then had to deal with a sick cat, and when I looked again, half an hour later, the light was gone.  We've had some degree of cloud cover every night since, but last night we were able to determine that there are currently no bright stars in the area of the sky where we saw this light. My husband did see a police car drive by that night, but our phone line was in use on the internet afterwards, and we didn't hear anything from the dispatcher.  I haven't phoned back.  This is a small city, and it's slightly embarrassing even to enquire with the police about such a thing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33410.html](http://www.nuforc.org/webreports/reports/033/S33410.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Colchester (CT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>silver fastA single, silver craft flying north at approximately 10X the speed of a commericial aircraft.  No sign of contrails.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78999.html](http://www.nuforc.org/webreports/reports/078/S78999.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165522.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165523.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165524.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165521.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165513.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
