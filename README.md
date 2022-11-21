@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:56 on 21 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:44 on 21 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Oak hill (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Dim moving light that increased in brightness for a short period and then moved out of sight.Looking up thinking we saw a satellite. Watched it move for about 20 seconds then it began getting brighter and brighter for about 7-10 seconds and then started to fade. We watched it until the original dimmer light faded into the night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160733.html](http://www.nuforc.org/webreports/reports/160/S160733.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Poway (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Blue light which changed to orange travelling fast then disappeared.My husband and I were driving home the evening of 11-21-13, when we noticed a blue light traveling across the sky.  The object was traveling at a high rate of speed, was blue in color, and after about 5 seconds the color changed to orange. It sped across our point of vision, changed colors, and then disappeared as it darted away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104664.html](http://www.nuforc.org/webreports/reports/104/S104664.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165522.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165523.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165524.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165521.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165513.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
