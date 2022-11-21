@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:41 on 21 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:47 on 21 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Harrison (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.5 - 2.5 minutes.</sub><blockquote><sub>We saw silver balls flying irradically in the skyWe were in the woods squrril hunting behind the house.  The first sighting occured when two silver object thought to be military craft manuvering.  When to second check they broke formation and six more appeared and the spherical crafts began orbiting one another.  The second sighting observed occured in less than three minutes later.   A silver ball was saw making a straight line and dashing really fast making an upside down "j".  Then it disappeared into thin air.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05028.html](http://www.nuforc.org/webreports/reports/005/S05028.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Morehead (KY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>crying from a femaleMorehead-Rowan Co. Rescue Sq.had a call from MPD of a female crying for help x3. From 2 witnessthen they was a bright light in the sky for about 1 min. RESCUE SQ.arrived on scene and started searching the area 1st & 2nd witness reported seeing this .The fire dept.was ask to begin seaching with the thermal imaging camera with no results found. Res. of Morehead was one of the witnesses.Unless there is a confirmed report of a missing person,the search will not be continued.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33305.html](http://www.nuforc.org/webreports/reports/033/S33305.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165522.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165523.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165524.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165521.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165513.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
