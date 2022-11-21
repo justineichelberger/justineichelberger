@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:45 on 21 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:49 on 21 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Rexburg (ID) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Saw 4 objects flying in an epsilon pattern.I was letting my dog go to the bathroom and looked up in the sky and for about 5 seconds I saw 4  circular objects move across the sky at a rapid rate. The objects almost seemed see through but were very slightly illuminated. It almost looked like when a huge light is shined in the sky and you can see it from far away  but it wasn't nearly as bright. There were 4 objects and they flew in an epsilon pattern like a half v and we're almost perfectly spaced but at one point it looked like the last object broke formation slightly. When I first spotted them they were almost directly above my head and seemed like they were about the height that I always see crop dusters fly, although they could have been higher. In the 5 seconds I watched them fly completely out of view. They were moving alot faster than any plane I have ever noticed it was almost too fast to track them with my eyes. I am positive it wasn't any kind of plane and I'm sure it wasn't any kind of light! that you sometimes see shine through the sky. There was very little cloud cover tonight. The objects were very different and almost seemed like they were distorting the image of the sky around them. I have never seen anything close to as wierd as this in my life and thought I would report it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150914.html](http://www.nuforc.org/webreports/reports/150/S150914.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Pasadena (MD) reported seeing craft that fit the description of some 'Formation' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Orange orbs flying in patterns/formation.Approx 10 orange orbs of light, slowly moving over the tree line.  Three by three triangular formation. I could see usual airplanes in the sky, these were way different.  Then they just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115525.html](http://www.nuforc.org/webreports/reports/115/S115525.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165522.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165523.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165524.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165521.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165513.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
