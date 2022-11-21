@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:41 on 21 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:36 on 21 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Hanover (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>On Nov. 21, 2017, at approximately 22:00 hours, I went to let my dogs outside, I normally look up at the sky, I usually pay attention to my surroundings, I noticed several twinkling triangle shaped lights.  I note that most of the time we have been programmed to see twinkling lights as stars, but this night was different.  You couldn’t help but notice they seemed to be in strategic alignments.  The observation was several stationary at all points East, West, South and North.My location is under a flight path, so I am always aware of the difference between the flight lights and patterns, this was completely different.  I wanted someone else to give me their opinion, I ran in and got someone else to come out and look, this person is an extremely skeptical NON-believer in UFOs.  They saw the triangles and could NOT say a word.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137361.html](http://www.nuforc.org/webreports/reports/137/S137361.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Gettysburg (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>UFO sighting on a Ghost tour in Gettysburg.My friends and I were on a ghost tour in Gettysburg PA.  What we saw was a light in the sky right below the constellation Orion.  It was larger than a star and was blinking red, blue, green, and white.  It was not moving so it was not an airplane and it was to high up to be a tower of any sort.  The night was calm and clear.  There were 5 witnesses including myself (3 friends and the tour guide), all of whom saw exactly what I described.  We continued to see this light the entire way back to school from the tour.((NUFORC Note:  A very good description of the star, "Sirius."  It "twinkles" vividly.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33318.html](http://www.nuforc.org/webreports/reports/033/S33318.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165522.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165523.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165524.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165521.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165513.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
