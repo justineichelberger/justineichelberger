@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:41 on 22 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:54 on 22 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bismarck (ND) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Rollawas driving and off infront of me up towards the trees, I seen a cirle like thing with three green lights,  and within seconds it was gone!  unbelievable!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131404.html](http://www.nuforc.org/webreports/reports/131/S131404.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Southport (NC) reported seeing craft that fit the description of some 'Oval' over a period of approximately  -  minutes.</sub><blockquote><sub>Since I have the picture but did not see in this is what the picture shows.I was taking a picture of the strange clouds on this day using a digital camera.I saved the images on the flash card and floppy disk.  When I printed them I noticed an object in the corner of photo.I blew it up and it looks like a flying saucer. I did not see it because I was focusing on the clouds directly in front of me. This object is in the corner.Two miles down the road I took another picture and the sky was completely clear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20597.html](http://www.nuforc.org/webreports/reports/020/S20597.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165539.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165535.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165552.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165534.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165526.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
