@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:46 on 22 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:44 on 22 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1969, an anonymous witness in Camp Pendleton (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>Government cover up.On October 1969, my Marine platoon was on a bivouac in the hills of Camp Pendleton, California.  We noticed a bright light many miles away,; traveling south it stopped, as if it noticed us, at the same time.  Within a second, it was over our heads, about 30 feet above us.  The bright light went out and a green light came on and shined on us.  The object was about 50 x 50 in size, it hovered quietly.Then, about one minute later, it shot over the ocean and into the sky very fast.  Then a group of jets flew over as if they were trying to follow the UFO.  The amazing part came in the morning when a General and his entourage came out and told us what we saw was a missile misfiring and not to talk about it.  We knew then the government was trying to cover this up.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142441.html](http://www.nuforc.org/webreports/reports/142/S142441.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Elizabethtown (KY) reported seeing craft that fit the description of some 'Disk' over a period of approximately All night - All night minutes.</sub><blockquote><sub>UFO's over Kentucky Seen EVERY clear night, all night between 1 and 7 at a time.I have seen flying disks over KY, up close on two occasions, for many years. But thats not what im writting about. Any clear night where I live I see three or more in the sky that remain all night in a pattern that mimicks the moving stars. They give off a distant but brilliant light that pulses at different colors and gets brighter before and as it moves.  It moves slightly as to stay in its general pattern area and performs manuvers that are both amazing and beautiful.  Problem is , no one seems at all interested in these lights. They are there all the time in a huge grid pattern. Well. feel free to contact for questions and or publish this e-mail if you wish.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53558.html](http://www.nuforc.org/webreports/reports/053/S53558.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165539.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165535.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165552.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165534.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165526.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
