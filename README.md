@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:41 on 21 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:41 on 22 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Somerset Center (MI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Alert Level Changed to Orange.I was trying to get my car up my driveway (hill) that was stuck near the road (major snowstorm).  While I was taking a break from shovelling/snow-blowing, I noticed a bright orange light in the sky moving east/southeast almost directly toward me. It then changed its direction slightly (change of direction was just before it passed me) by moving due east. I watched it until I could no longer see it as it got behind some trees, etc.  I did notice it would change to a reddish tint a few times, but was a very bright orange the majority of time.  It was very illuminated.  I consider it was a solid circle/oval object (fully illuminated circle). I specifically looked for blinking lights or lights that would appear from an airplane, but none were there.  I was quite surprised by the solid brightness of the object throughout the duration.  As I focused while it passed me; the light appeared as a star image.  The object made noise as if it was an airplane, but it certainly w! as not an airplane using normal lighting sequences.  I’ve watched plenty of airplanes and the way it was moving just didn’t seem to match the way an airplane moves (I’d be shocked if it were an airplane).  The altitude was approximately around or below 8,000 feet (this could be a very inaccurate judgment).  However, I just recall it seeming to be very close/low in the sky.  I'm always looking up at the sky when I have a chance, and this isn't the first time I've seen something. It was not a lantern because the altitude did not change while it moved by me.  This light was extremely big in comparison to a star.  I'll have to include more information in another report about another recent strange sighting.  This area must have plenty of activity.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124263.html](http://www.nuforc.org/webreports/reports/124/S124263.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lebanon (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>A bright white line shot across sky almost  Instantaneously it lit up the entire ground It seemed to shoot out from a little light that looked like a star The line was extremely straight in seemed to cross the entire skyline</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150940.html](http://www.nuforc.org/webreports/reports/150/S150940.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165522.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165523.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165524.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165521.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165513.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
