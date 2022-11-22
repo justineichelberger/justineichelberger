@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:18:16 on 22 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:01:01 on 22 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Cortland (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Circular balloon-like UFO spotted by couple in OhioA circular balloon-like object hovered just below the clouds and ambled across the sky.  It had luminescence around the edges, appeared to be a ring of dim light at one time.It stayed within sight for about 2 minutes, and then it gradually flew away out of sight. Spotted by 2 in Ohio.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137375.html](http://www.nuforc.org/webreports/reports/137/S137375.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Holland (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>large bright lights in the Sky two nights same locationon the night of 11/22/19 at 15:30pm I witnessed a bright object in the West south western sky from my location, I believe it was near Holland MI over lake Michigan, I was able to capture a clear image of this object on my Cell Phone, The object is a Large Octagonal white structure with clearly defined details, In my opinion it looks like a Space craft outer hatch door, there is two arched portholes flat side towards the center one top one bottom and two round portholes at center right and left, the object is sightly Geometrically faceted convex aspect, again this object looks man made but was completely motionless in the sky for over 1 hr or more, I wasn't able to capture a image of the other object, They both returned on 11/23/19 same location, I counted 5 aircraft heading toward the object</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150969.html](http://www.nuforc.org/webreports/reports/150/S150969.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165539.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165535.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165552.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165534.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165526.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
