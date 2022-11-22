@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:01:15 on 22 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 22 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Downey (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>ORANGE FIREBALL SEEN OVER DOWNEY CA.A ORANGE BALL OF FIRE CRUISING AT AIRPLANE SPEED FROM NORTH TO SOUTH AND APPEARED TO GO WEST WHEN WE SEEN THE OBJECT EITHER DROP WHAT WE ARE CALLING PLASMA BALLS LIKE 2 PIECES OF IT FELL TO THE EARTHS SURFACE. IT LOOK LIKE IT WAS OVER LAND ,THEN OUT OF SIGHT. I WAS VERY SURPRISED THAT I NEVER HEARD ANYTHING ABOUT IT ON THE NEWS OR RADIO. AT FIRST I THOUGHT IT COULD'VE BEEN A PLANE GOING DOWN BUT IT WAS FAR FROM THAT. I WANTED TO GO AND LOOK BUT WE HAD NO IDEA WHERE EXACTLY THE PIECES FELL OR HOW FAR, BUT IT LOOKED CLOSE. I ACTUALLY HAVE IT ON VIDEO TAPE, A L;ITTLE POOR BECAUSE I MOVED AROUND TRYING TO GET IT INTO VIEW BUT U CAN SEE THE PIECES FALLING OFF. JUST WEIRD BUT EXCITING.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48167.html](http://www.nuforc.org/webreports/reports/048/S48167.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Florence (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Green light falling from the sky very slowly, then disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115551.html](http://www.nuforc.org/webreports/reports/115/S115551.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165539.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165535.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165552.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165534.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165526.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
