@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:10:49 on 22 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:35 on 22 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Richboro (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Oval shaped UFO flew high and far very fast.The object seen was a very quickly moving, oval of lights.  This went from about 300 ft. to around 10,000 ft. within half a minute. This UFO was visable for a few minutes until it went past the horizon.  Two planes around it were moving very slowly compaired to this object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67091.html](http://www.nuforc.org/webreports/reports/067/S67091.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Bowling Green (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 1:00 - 1:00 minutes.</sub><blockquote><sub>We notice a light in the night sky that seems to look like a star but twinkles in different colors ranging from a blue to green and a red flashing. were not sure if this is? possibly it's a man made object that's reflecting or a unknown? it does not seem to have moved in the sky for over an hour. it's presently located just southeast of the big dipper in the sky, but quite abit briter. the sky as a whole is very clear this night with some shooting stars in the same direction and we can see local air traffic flying below it.((NUFORC Note:  Probably a sighting of Sirius.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53547.html](http://www.nuforc.org/webreports/reports/053/S53547.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165539.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165535.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165552.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165534.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165526.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
