@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:50 on 22 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:43 on 22 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Ballwin (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>only 1 out there as of 5:30 cen. timeSo I made a report from ballwin mo. About an hour ago I was able to take a picture it doesn't show much but as you blow it up they have the shape of a sea horse.((NUFORC Note:  Venus?  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124267.html](http://www.nuforc.org/webreports/reports/124/S124267.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Delta (Canada) (BC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Silvery cigar hovers, dissappears, reaapears and dissappears over Boundary BayI was driving west on highway 99, just west of the highway 91 intersection. The time was just after 8:30 AM (the half hour news was playing on the radio). The sky was clear with very light and very high cirrus cloud cover in the southeast direction. I looked out my window and noticed a very distinct, silvery object that I initially thought was an airplane. It had a cylindrical or cigar shaped body. Although the object was distinct, I couldn't detect any wing or tail features in the brief glances I made while trying to keep my eyes on the road and traffic. The object looked like it was at least 1000 feet or so above Boundary Bay (SSW of my position at about 40 degrees above the horizon. It was much larger/closer than my August 3rd sighting (about half the diameter of a dime held at arms length). It was aligned in approximately a north/south alignment and seemed to be hovering or moving very slowly. There was absolutely no vapor trail. I kept glancing back at it trying to get a better view. On my third or fourth glance, it suddenly disappeared completely. One moment it was there, the next it had vanished completely. I tried scanning the sky repeatedly and could see nothing but blue sky. Then just as suddenly, it was there again, in about the same part of the sky I had seen it, less than a minute before. Again I got two or three glances at it and just as suddenly as before, it completely vanished. At this point I pulled my vehicle to the shoulder and stopped my truck. I scanned the whole sky and could find no aircraft. I kept waiting and scanning for  a few minutes but  no object reappeared in the sky.((NUFORC Note:  Our gratitude to the UFO*BC group in Vancouver, B.C., for submitting this report.  They can be reached through their website <www.UFOBC.org.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15123.html](http://www.nuforc.org/webreports/reports/015/S15123.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165539.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165535.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165552.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165534.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165526.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
