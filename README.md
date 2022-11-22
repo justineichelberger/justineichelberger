@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:08 on 22 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:34:40 on 22 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Pueblo (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Straight red line connected by 6 evenly spaced lights seen moving north.((NUFORC Note:  We have looked at the photo, which was submitted by the witness, and believe that the optical effect in the photo may have been the result of an insect in flight.  However, we cannot be certain.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137495.html](http://www.nuforc.org/webreports/reports/137/S137495.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in West Palm Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright Light moving on a collision course with power linesWhile waiting for the traffic signal to turn green (our car was facing east on Lake Worth Road)at the intersection of Military trail; my girlfriend and I witnessed directly before us what appeared to be a very large extremely bright light.  What we would describe as large headlamp that was approaching the power lines in a collision course. And from our vantage point, the power lines and light behind it appeared to be parralell to us. As it continued to approach the wires the light got brighter. As the light seem to hit the wires the large flock of birds resting on them were spooked and flew off quickley, most of them in a northerly direction. The light became much brighter at that point (what could be called the point of impact). At the time of impact the street lamps shut down for a second or two and the traffic light at our intersection did the same. The light disappeared after about a second as the birds flew away. We both experienced discomfort in our eyes similar to a camera flash. As the light changed we proceeded directly through it and quickley realized that the power lines followed the turn in the road and were positioned on the northerly side of the road. We estimated the distance from where we were waiting at the light to the estimated point of impact (centered between two telephone poles) to be less than a quarter of a mile. We stoped at the  shopping center nearby to retrieve our cell phone and called 911. I suggested to the operator that FPL should be called to check the wires and described what we had witnessed. We did not see any planes or helicopters in the vincinity.((NUFORC Note:  We presume the witness intended a date in the year 2003, and we have changed the date above accordingly.  We believe the error arises from a glitch in our Online Report Form.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33654.html](http://www.nuforc.org/webreports/reports/033/S33654.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165539.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165535.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165552.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165534.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165526.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
