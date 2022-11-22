@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:02:38 on 22 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:41 on 22 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Murrells Inlet (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>cluster of white lights "hopscotching" in the skyAt 5:00 am, my husband and I both obseverd several white, circular lights clustered together in the sky. The sky was absolutely clear and quite lit with many stars. They would appear in one spot and then reappear in another. It was obvious the lights were not stars, planets,helicopters,or planes. They were sort of "hopscotching" over one area  of the sky, the all of a sudden just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33314.html](http://www.nuforc.org/webreports/reports/033/S33314.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Avon Lake (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Red Orange ObjectsIn the vicinity of Lake Rd. and Brunswick Dr. in Avon Lake on 11/22/12 (Thanksgiving Evening) my wife noticed a group of 5 slow moving Red-Orange lights moving moving South to North towards the Lake.  Eventually, we stopped the car and got out on a side street near our destination which was in this area.  The 5 objects passed directly overhead, making no noise. Estimated elevation was approximately 3000 feet. Three additional objects came from South to North. At our final destination, 6 more people came out of the house to see and confirm the objects. The red-orange glow on two of the objects went out and the lights came back on again.  A 10th object was seen to the northwest, moving West to East along the lake shore (Lake Road in Avon Lake).  All objects moved at a consistent speed. Each maintained course and elevation for the period in which we watched them.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94763.html](http://www.nuforc.org/webreports/reports/094/S94763.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165539.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165535.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165552.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165534.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165526.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
