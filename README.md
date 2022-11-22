@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:44 on 22 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:10:49 on 22 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Elizabethtown (KY) reported seeing craft that fit the description of some 'Disk' over a period of approximately All night - All night minutes.</sub><blockquote><sub>UFO's over Kentucky Seen EVERY clear night, all night between 1 and 7 at a time.I have seen flying disks over KY, up close on two occasions, for many years. But thats not what im writting about. Any clear night where I live I see three or more in the sky that remain all night in a pattern that mimicks the moving stars. They give off a distant but brilliant light that pulses at different colors and gets brighter before and as it moves.  It moves slightly as to stay in its general pattern area and performs manuvers that are both amazing and beautiful.  Problem is , no one seems at all interested in these lights. They are there all the time in a huge grid pattern. Well. feel free to contact for questions and or publish this e-mail if you wish.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53558.html](http://www.nuforc.org/webreports/reports/053/S53558.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Richboro (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Oval shaped UFO flew high and far very fast.The object seen was a very quickly moving, oval of lights.  This went from about 300 ft. to around 10,000 ft. within half a minute. This UFO was visable for a few minutes until it went past the horizon.  Two planes around it were moving very slowly compaired to this object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67091.html](http://www.nuforc.org/webreports/reports/067/S67091.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165539.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165535.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165552.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165534.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165526.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
