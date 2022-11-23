@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:43 on 23 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:42 on 23 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Three lights changing formationMy family was out for a walk when we noticed three very bright yellow/orange lights in the sky to the west.  They appeared to be stationary at first in an obtuse triangle formation - the middle one equidistant from the outer ones. They then slowly moved so that the middle one was closer to the top one. They were getting lower in the sky and eventually moved into a tight equilateral triangle formation. We were walking away from them at that point, but when we turned around a few seconds later, they were gone - either got too low to see over the houses or faded out.  They appeared to get slightly dimmer as they descended, but it may just be that the sky was not as clear down so low.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60000.html](http://www.nuforc.org/webreports/reports/060/S60000.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Pacific City (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>4 flashes of very bright focused light a few minutes apart.A bright light quickly flashed a large oval-shaped beam into my bedroom from a large window located up high on the south facing window.  The window sits between 17 and 20 feet above ground level.  It happened again around 3 minutes later.  It was so bright, and again focused in a large oval-like beam.  It flashed 2 more times for a total of 4 times within 10 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143862.html](http://www.nuforc.org/webreports/reports/143/S143862.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
