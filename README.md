@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:39 on 23 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:44 on 23 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Greenwater (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We where driving to Crystal Mountain and noticed a bright object in the sky and it was not moving, so we pulled over too took and take a picture!  It was not anything we have ever seen before</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143875.html](http://www.nuforc.org/webreports/reports/143/S143875.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Wheatfield Twp. (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately  -  minutes.</sub><blockquote><sub>Large sphere of blue light passed above the neighborhood.8:25 PM, Having reached the top step on the porch, my husband raised both his arms and proclaimed that the whole place was lit from above. This was twenty minutes after the power failed, and we searched the basement in vain for the lantern light. Later, from the bay window, I watched as blue beams danced over the pile of fall leaves raked in the front yard.Around 9 PM, I get a call from the woman down the street. She describes a large sphere of blue light as It passes above her yard. I asked her if she could estimate the size of the object. Her signal is interrupted by static; that’s when I felt the heavy beat in my chest. I decided to check the landline in the upstairs bedroom. After disconnecting the answering machine, the reassuring hum of the dial tone was still there.9:30 PM, Bathed in the brilliant light of the blue globe, the neighborhood kids played tag amongst the Birch trees that lined Columbia.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165580.html](http://www.nuforc.org/webreports/reports/165/S165580.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
