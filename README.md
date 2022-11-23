@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:41 on 23 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:47 on 23 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Glasgow (UK/Scotland) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>At first thought it was a Chinese lantern, but realised it was too still to be a lantern.  Then thought it was a plane when it started moving. It had a red light on one side and a blue/green light on the other it was going far too fast over the flat when it moved to be a plane or any man made object.  At one point colours flashed out almost like a firework and sunk back into the object, before flying over and changing direction where it sat for approx half an hour before disappearing</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104708.html](http://www.nuforc.org/webreports/reports/104/S104708.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Sunshine Coast (Australia) () reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Single flash 2 times, vast distance apart.Looking west from Peregian Beach (east coast of Australia), just finished observing Jupiter and Saturn with the telescope.  Sitting on my balcony facing west and we saw a single flash level with Kaus Australis.  Continued to observe that part of the sky waiting to see strobe lights from a plane but no repeating light.... then 5 seconds later flash observed in the direction of Messier 55.  No further flashes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151037.html](http://www.nuforc.org/webreports/reports/151/S151037.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
