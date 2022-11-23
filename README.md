@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:08:48 on 23 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:48 on 23 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hagerstown (MD) reported seeing craft that fit the description of some 'Changing' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Observed 4 to 5 white lights in the sky about the size of football field.  They were initially moving in a circular pattern and then changed to coming together and them dispersing in different directions.((NUFORC Note:  Possible advertising light display??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115558.html](http://www.nuforc.org/webreports/reports/115/S115558.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Belton (MO) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three bright lights in the front and sides and a red light at the bottom on the object.Object low in sky.  At first thought it was an airplane flying extremely low or about to crash and as I got closer it was stationary and made no sound.  There were three large lights that were very bright and larger than any light I had ever seen in the sky on an object and on the underneath side of the object was a red light that did not blink and the object looked oval in nature.  It was about 200-300 feet above the tree lines over a field.  I turned the corner to get a closer look and it was gone.  Nowhere to be seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11141.html](http://www.nuforc.org/webreports/reports/011/S11141.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
