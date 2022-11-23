@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:39 on 23 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:39 on 23 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Bainbridge Island (WA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO with changing shape and erraticly fluid movements appears in view and leaves, shortly followed by an unmarked black helicopter.This is a very brief sighting although I have one more to make with a similar unexplainable incidence. Me and my brother have both recently moved to Bainbridge Island, WA , are students, and as far as I am aware he has never encountered a UFO. I only have the prior encounter I will enter after this one which may not even classify as a UFO. My recent experiences and curiosity sparked my interest into learning of reports in my area of the same object. My memory is not the greatest, and in my report I have included only details I clearly remember. Anything else has been left out and I would not want to add on information that is false, even if by mistake.The incidence occurred at approximately 10:20 PM as I was watching television with my brother. At this time I noticed a low volume sound coming from outside. Curious as to what the noise was I stopped what I was doing, and changed my position. The room we were both in contains large glass windows that cover almost the entirety of the wall. As I changed positions I could see clearly an object that appeared very close to the ground for a plane, yet was not loud enough to be a helicopter. It was of saucer shape and had oval shaped lights which appeared to be of different colors. They seemed to create a haze for the object that was a grey/metallic color. The object swooped into my view for a moment, and then proceeded to shift up and to the side out of my view. The movements were very fluid as if the object was hovering.In a curious yet alarmed state I dashed to the window to see if I could catch another view, this time urging my brother who was before preoccupied, to look with me. The saucer made a swoop back into our direction and view, allowing him to confirm to me that he saw what was making the noise as well. As the object was in my line of sight again it had appeared to have changed shape slightly, becoming more of an oval, until it passed overhead and out of sight. Approximately five minutes later an unmarked black helicopter flew overhead with lights on. I believe my location plays a large role in what we witnessed due to certain companies located around here, and multiple naval bases.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73501.html](http://www.nuforc.org/webreports/reports/073/S73501.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Greenwater (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We where driving to Crystal Mountain and noticed a bright object in the sky and it was not moving, so we pulled over too took and take a picture!  It was not anything we have ever seen before</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143875.html](http://www.nuforc.org/webreports/reports/143/S143875.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
