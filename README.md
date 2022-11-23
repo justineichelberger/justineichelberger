@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:53 on 23 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:42 on 23 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in New York City (Manhattan) (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately few seconds - few seconds minutes.</sub><blockquote><sub>Very shiny object that I captured movie from that but the movie didn't show that!It was 23:00 p.m. that I was driving to home.  What I've seen was totally confusing.There were 2 other cars in the road. We were all driving when suddenly a very powerful flash eliminated all the road in the rate that we couldn't see anything anymore.  I stopped the car and I figured out that other cars did it too just some meteres away from me.   We all gathered together and started to talk about the issue.None of us have seen anything that was just a very powerful flash.  When we were getting ready to get back to our cars I've seen something and yelled and others looked at sky like me and saw it.That was a something big in the sky not very far and not very clear.  There were 3 lights, very powerful lights near each other which were connected to each other with 3 shiny lines and they totally made a triangle light which was beautiful.It was flying in the sky not very speedy.  We all picked out our cell phones to capture movie from stranger and we did it but the result was nothing.  That was too odd! we captured movie from one very shiny object that we've seen in the sky togheter but they weren't in the movie.Suddenly it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67604.html](http://www.nuforc.org/webreports/reports/067/S67604.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cape Girardeau (MO) reported seeing craft that fit the description of some 'Oval' over a period of approximately Still there - Still there minutes.</sub><blockquote><sub>Spotted first on hwy 25 near delta mo.  Bright light with red green orange flashing.  Not moving it is now 11:40 pm located in the eastern sky.  Setting low to ground.  Est height unk.  Near cape girardea airport.  Not moving just flashing.((NUFORC Note:  Witness provides no contact information.  PD))((NUFORC Note:  Sirius??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94775.html](http://www.nuforc.org/webreports/reports/094/S94775.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
