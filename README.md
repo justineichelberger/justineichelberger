@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:42 on 23 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:37 on 23 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Philadelphia (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Black balloon and another man in black.November 2008, about 5 minutes past 8:00 pm.  I'm walking home alone from a friend's house.  Something catches my eye on the night sky.  It looks like it appears to be a black balloon drifting above the sheet metal factory that's located above my block as I'm thinking.  I keep my eyes on it with the intentions of watching the balloon until it drifted away and was no longer in sight.  But this object didn't do just that, it paused in mid air.  Once that happened, I slowly jogged closer to the sheet metal factory to get a much better view.  What I then seen in the sky was a perfect black circle with a thin white rim around it. Very still and not moving but floating above the metal factory.  I was the only person outside at the time.  On usually a bright busy street it seem very still and somewhat dark that night, for the circle to be darker than the sky.  My cell phone wasn't advanced enough to take a good photo of the object so I figured why waste my time trying to record ! for such poor quality.  I keep my eyes on the object for a good 15 seconds.  Suddenly, the white door beside the sheet metal factory on Wyncote avenue opens up and out came a African American male wearing all black.  Long sleeve black shirt, black pants, and black boots.  This man was standing directly under the object floating about the building.  He smoothly lit up his cigarette staring at me from across the street, but I gave him temporary attention and looked back up at the object.  Then in a quick second, the object disappears.  Not saying a word to the man in black across the street.  I anxiously run to my house and tell everyone the exclusive news.  This happened at the very exact location of me meeting the strange Asian like man in black.  This took place many months close to a year after my first encounter.((NUFORC Note:  One of three seemingly credible reports from same witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120982.html](http://www.nuforc.org/webreports/reports/120/S120982.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in North Bergen (NJ) reported seeing craft that fit the description of some 'Other' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>THE OBJECT CHANGED COLOURS OVER NYC & N.J. IN HEAVY AIR TRAFFIC. MID. AFTERNON.AT ABOUT 4:45 PM (est)   I WAS WALKING TO MY APT. IN THE N.Bergen, N.J AREA, LOOKING TOWARDS THE EAST, NYC.  NOTICED A PEARL COLOUERD OBJECT MOVING SLOWLY IN THE SKY, CLOUD ALTITUDE LEVEL/CUMULUS/C2 AT THIS TIME OF THE DAY, AIR TRAFFIC FROM NYC IS HEAVY.  I FOCUSED MY EYES ON THE OBJECT, MOVING FROM EAST TO WEST IN THE SKY.  THE OBJECTED CHANGED COLOURS WHEN PASSING IN FRONT OF A CLOUD, IT TURNED FROM PEARL TO A GOLDEN FIRE PEARL.  WHEN IT CLEARED THE CLOUD BACK INTO THE BLUE SKYS,  IT TURNED BACK TO ITS PRIER PEARL COLOUR.  THEN IT DISAPPEARED INTO CLOUD.  MY OBSERVANCE OF THIS OBJECT LASTED 4 MIN.((NUFORC Note:  Date is defective.  We have assigned temporarily an arbitrary date, and requested an accurate date from the witness.  Witness provides e-address, but it seems to be defective.  We wonder whether this is a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80565.html](http://www.nuforc.org/webreports/reports/080/S80565.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
