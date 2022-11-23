@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:42 on 23 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:41 on 23 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cape Girardeau (MO) reported seeing craft that fit the description of some 'Oval' over a period of approximately Still there - Still there minutes.</sub><blockquote><sub>Spotted first on hwy 25 near delta mo.  Bright light with red green orange flashing.  Not moving it is now 11:40 pm located in the eastern sky.  Setting low to ground.  Est height unk.  Near cape girardea airport.  Not moving just flashing.((NUFORC Note:  Witness provides no contact information.  PD))((NUFORC Note:  Sirius??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94775.html](http://www.nuforc.org/webreports/reports/094/S94775.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Glasgow (UK/Scotland) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>At first thought it was a Chinese lantern, but realised it was too still to be a lantern.  Then thought it was a plane when it started moving. It had a red light on one side and a blue/green light on the other it was going far too fast over the flat when it moved to be a plane or any man made object.  At one point colours flashed out almost like a firework and sunk back into the object, before flying over and changing direction where it sat for approx half an hour before disappearing</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104708.html](http://www.nuforc.org/webreports/reports/104/S104708.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
