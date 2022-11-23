@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:42 on 23 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:48 on 23 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Pacific City (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>4 flashes of very bright focused light a few minutes apart.A bright light quickly flashed a large oval-shaped beam into my bedroom from a large window located up high on the south facing window.  The window sits between 17 and 20 feet above ground level.  It happened again around 3 minutes later.  It was so bright, and again focused in a large oval-like beam.  It flashed 2 more times for a total of 4 times within 10 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143862.html](http://www.nuforc.org/webreports/reports/143/S143862.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Riverside (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>a triangular object with 5 bright lights.I was walking home from a friend's house..as I looked into the sky I saw two bright objects . I didn't think anything of it..but as I continued walking...I noticed that the two objects were drifting apart slowly ..I then pulled out my phone and recorded.  The NEXT night.  I saw the same thing..but I continue seeing objects coming and as they head east of my home..the just disappear into thin air..I had a severe Hallucination a couple days ago.  I was laying down and my room suddenly turned black and white...everything seemed like a wave an  moving in a wave motion and I was walking around..but then I woke up...I thought it was real ..it was SO vivid.  But a strange thing...as I felt myself wake up..I saw a flash of a triangle shaped colorful object..I lost 30 minutes.  But it felt like 30 seconds.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115609.html](http://www.nuforc.org/webreports/reports/115/S115609.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
