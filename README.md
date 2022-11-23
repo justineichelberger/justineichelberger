@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:38 on 23 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:50 on 23 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Norwalk (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>9 objects appeared in different formations while changing colors thanksgiving evening.Thanksgiving evening about 10 p.m. 9 objects were seen up in the sky making up different formations and changing from yellow to red. At one point two of the objects got side by side. The objects moved from left to right then would go straight and dissappear for a few seconds then come back down and reappear. All but 1 vanashed after about 15min. The last one flew slowly towards the west.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15061.html](http://www.nuforc.org/webreports/reports/015/S15061.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Muskogee (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Star like,very large and extremely brightI am at my Father-in-laws and stepped outside to smoke a cigarette. I go to the back fence to pet the dog then turn around and look up to the sky as is my habit.I like to look at the stars every night I can. I see what at first is a extremely bright star with a magnitude similar to Sirius but actually brighter. I am thinking to myself that it should'nt be there when I notice it's moving from south to north.I'm thinking this is impossible. So I step inside the door and holler at my Father-in-law and tell him he has got to come out and look at this. He is a total non believer in anything such as UFO's and the like. He comes out and I point it out to him. I ask him "what do you think it is"? We agree it is definitly not a plane(no sound) but it looks just like a giant star. He says maybe it's a satellite but I have saw them before and I don't think so.It's too big and too bright. We watch it until it goes out of sight.He goes back in and about a minute or so after it disappeared I heard and saw a jet on a course that could be like it was keeping an eye on the thing.One more thing my father in law mentioned that he thought he could see like a tail on it.I have better eyesight than him but who knows.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33346.html](http://www.nuforc.org/webreports/reports/033/S33346.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
