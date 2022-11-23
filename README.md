@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:43 on 23 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:30:03 on 23 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Saint James (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I, and two other witnesses, observed a red glowing sphere for approximately 10 seconds.On 11/23/77, approximately 16:15 hrs., I, along with two other witnesses, observed a UFO that was a red glowing sphere in appearance traveling from east to west silently below the cloud cover in the northern sky; it looked as if was going to crash, then accelerated skyward and disappeared into the clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106128.html](http://www.nuforc.org/webreports/reports/106/S106128.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Woodburn (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>White ball of light falling to the groundDriving Southbound on Interstate 5 just south of Woodburn, Oregon.  A bright light caught the corner of my eye to the left.  I turned to see a massive ball of white light falling toward the earth.  I first focused on it when it was at about 45 degrees from my position.  It fell to what appeared to be about 15 degrees and then was not visible.  I believe the mountain range to the East would have precluded it from being a celestial event since it was visible at such a low angle to the ground.  Additionally, it appeared to be no more than a few miles away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47926.html](http://www.nuforc.org/webreports/reports/047/S47926.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
