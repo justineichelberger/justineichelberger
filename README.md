@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:41 on 23 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:40 on 23 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Sandpoint (ID) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Heading Southeast on Hwy 2 from Priest River, Id, to Sandpoint, Id, at Wrenco Loop Road. Low flying projectile, mirror-like reflective surfaces, white colored.  Stealth fighter shaped. Low altitude, high rate of speed, no con-trail.  We turned onto Wrenco Loop and tried to follow the trajectory and took one photo, but the aircraft does not appear in the photograph.  It was quickly a tiny speck in the distance, much further than any hobby plane could be, too small to be manned, not a standard aircraft.  Two witnesses.  Called the local news, submitted the photo, odd streak in photograph, but no aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104790.html](http://www.nuforc.org/webreports/reports/104/S104790.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Baton Rouge (LA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>I saw 3 orange illuminated triangles flying very low between 2 apartment buildings, just above the trees.I left my apartment to go to the laundry room. I was walking and turned the corner, and there was 3 illuminated orange triangles, flying in formation.  One in the front and two on the rear, forming like a triangle. But they were 3 seperate triangles.  I noticed them quickly, because they were so low to the ground. About two of the apartments stacked high. 50 feet up (or low).  They moved slowly and silently towards a church between the two buildings I was standing between. They slowly turned around and slowly came back towards me (with my mouth wide open) and then they slowly got higher and then they shot off and disappeared.  They had to be traveling at the speed of light. 45 minutes after the one of the wildest things I've ever experienced I went back outside and I saw 3 small engine planes flying around the area(within 2 miles). I don't know if somebody else saw but someone had to have.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08167.html](http://www.nuforc.org/webreports/reports/008/S08167.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
