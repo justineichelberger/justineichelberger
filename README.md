@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:44 on 23 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:38 on 23 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Wheatfield Twp. (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately  -  minutes.</sub><blockquote><sub>Large sphere of blue light passed above the neighborhood.8:25 PM, Having reached the top step on the porch, my husband raised both his arms and proclaimed that the whole place was lit from above. This was twenty minutes after the power failed, and we searched the basement in vain for the lantern light. Later, from the bay window, I watched as blue beams danced over the pile of fall leaves raked in the front yard.Around 9 PM, I get a call from the woman down the street. She describes a large sphere of blue light as It passes above her yard. I asked her if she could estimate the size of the object. Her signal is interrupted by static; that’s when I felt the heavy beat in my chest. I decided to check the landline in the upstairs bedroom. After disconnecting the answering machine, the reassuring hum of the dial tone was still there.9:30 PM, Bathed in the brilliant light of the blue globe, the neighborhood kids played tag amongst the Birch trees that lined Columbia.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165580.html](http://www.nuforc.org/webreports/reports/165/S165580.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Norwalk (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>9 objects appeared in different formations while changing colors thanksgiving evening.Thanksgiving evening about 10 p.m. 9 objects were seen up in the sky making up different formations and changing from yellow to red. At one point two of the objects got side by side. The objects moved from left to right then would go straight and dissappear for a few seconds then come back down and reappear. All but 1 vanashed after about 15min. The last one flew slowly towards the west.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15061.html](http://www.nuforc.org/webreports/reports/015/S15061.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
