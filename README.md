@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:53 on 23 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:47 on 23 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Forest lake (MN) reported seeing craft that fit the description of some 'Egg' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Looked up into a clear blue sky. It appeared out of thin air just like a clingon ship on Star Trek.  It was cloked invisible.  It didn't move, just hovered at a 40° angle.  Was extremely high up.  Like a jet but very large.  I was traveling south on Hwy 35.  Then it vanished. I pointed to the sky to my driver who looked also.  Than it reappeared again for another 20+seconds and again vanished.  It was chrome with sun reflecting off it and a black tinted window facing earth almost half the size of the craft.  It was Thanksgiving day.  My driver a female said she didn't ever wanna talk about it again and was shaken up.  It's the only one ive ever witnessed.  It didn't have wings or nothing just a perfect egg shape.  It was able to be invisible that I have no doubt.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157174.html](http://www.nuforc.org/webreports/reports/157/S157174.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Wilmette (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>White round light flying quick, like a shooting star, but closer to the earth.  Flew with a low quick sweep east to west, then shot up to disappear in the sky.  It was a very unusually clear night sky with many stars and</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137397.html](http://www.nuforc.org/webreports/reports/137/S137397.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
