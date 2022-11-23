@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:14:42 on 23 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:43 on 23 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Surry (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Very Bright Stationary Light Seen Over Surry, Virginia.My husband & I were driving home in James City County, VA, & noticed a VERY bright star-like light hovering in the directing of Surry, VA.  We observed it for approximately 15 minutes.  It was larger & lower than a star.  It hovered.  It looked like a really large, bright, low, star.  Some cloud cover occured & it disappeared.  We waited about 10-15 minutes for it to return but it did not.  We decided to drive up & down the Colonial Parkway to see if we could see it from that direction & we could not.  It was simply gone.  Never saw it before tonight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104722.html](http://www.nuforc.org/webreports/reports/104/S104722.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Three lights changing formationMy family was out for a walk when we noticed three very bright yellow/orange lights in the sky to the west.  They appeared to be stationary at first in an obtuse triangle formation - the middle one equidistant from the outer ones. They then slowly moved so that the middle one was closer to the top one. They were getting lower in the sky and eventually moved into a tight equilateral triangle formation. We were walking away from them at that point, but when we turned around a few seconds later, they were gone - either got too low to see over the houses or faded out.  They appeared to get slightly dimmer as they descended, but it may just be that the sky was not as clear down so low.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60000.html](http://www.nuforc.org/webreports/reports/060/S60000.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
