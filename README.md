@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:48 on 23 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:42 on 23 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Riverside (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>a triangular object with 5 bright lights.I was walking home from a friend's house..as I looked into the sky I saw two bright objects . I didn't think anything of it..but as I continued walking...I noticed that the two objects were drifting apart slowly ..I then pulled out my phone and recorded.  The NEXT night.  I saw the same thing..but I continue seeing objects coming and as they head east of my home..the just disappear into thin air..I had a severe Hallucination a couple days ago.  I was laying down and my room suddenly turned black and white...everything seemed like a wave an  moving in a wave motion and I was walking around..but then I woke up...I thought it was real ..it was SO vivid.  But a strange thing...as I felt myself wake up..I saw a flash of a triangle shaped colorful object..I lost 30 minutes.  But it felt like 30 seconds.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115609.html](http://www.nuforc.org/webreports/reports/115/S115609.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Philadelphia (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Black balloon and another man in black.November 2008, about 5 minutes past 8:00 pm.  I'm walking home alone from a friend's house.  Something catches my eye on the night sky.  It looks like it appears to be a black balloon drifting above the sheet metal factory that's located above my block as I'm thinking.  I keep my eyes on it with the intentions of watching the balloon until it drifted away and was no longer in sight.  But this object didn't do just that, it paused in mid air.  Once that happened, I slowly jogged closer to the sheet metal factory to get a much better view.  What I then seen in the sky was a perfect black circle with a thin white rim around it. Very still and not moving but floating above the metal factory.  I was the only person outside at the time.  On usually a bright busy street it seem very still and somewhat dark that night, for the circle to be darker than the sky.  My cell phone wasn't advanced enough to take a good photo of the object so I figured why waste my time trying to record ! for such poor quality.  I keep my eyes on the object for a good 15 seconds.  Suddenly, the white door beside the sheet metal factory on Wyncote avenue opens up and out came a African American male wearing all black.  Long sleeve black shirt, black pants, and black boots.  This man was standing directly under the object floating about the building.  He smoothly lit up his cigarette staring at me from across the street, but I gave him temporary attention and looked back up at the object.  Then in a quick second, the object disappears.  Not saying a word to the man in black across the street.  I anxiously run to my house and tell everyone the exclusive news.  This happened at the very exact location of me meeting the strange Asian like man in black.  This took place many months close to a year after my first encounter.((NUFORC Note:  One of three seemingly credible reports from same witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120982.html](http://www.nuforc.org/webreports/reports/120/S120982.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
