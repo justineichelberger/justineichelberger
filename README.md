@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 23 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:53 on 23 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in North Bergen (NJ) reported seeing craft that fit the description of some 'Other' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>THE OBJECT CHANGED COLOURS OVER NYC & N.J. IN HEAVY AIR TRAFFIC. MID. AFTERNON.AT ABOUT 4:45 PM (est)   I WAS WALKING TO MY APT. IN THE N.Bergen, N.J AREA, LOOKING TOWARDS THE EAST, NYC.  NOTICED A PEARL COLOUERD OBJECT MOVING SLOWLY IN THE SKY, CLOUD ALTITUDE LEVEL/CUMULUS/C2 AT THIS TIME OF THE DAY, AIR TRAFFIC FROM NYC IS HEAVY.  I FOCUSED MY EYES ON THE OBJECT, MOVING FROM EAST TO WEST IN THE SKY.  THE OBJECTED CHANGED COLOURS WHEN PASSING IN FRONT OF A CLOUD, IT TURNED FROM PEARL TO A GOLDEN FIRE PEARL.  WHEN IT CLEARED THE CLOUD BACK INTO THE BLUE SKYS,  IT TURNED BACK TO ITS PRIER PEARL COLOUR.  THEN IT DISAPPEARED INTO CLOUD.  MY OBSERVANCE OF THIS OBJECT LASTED 4 MIN.((NUFORC Note:  Date is defective.  We have assigned temporarily an arbitrary date, and requested an accurate date from the witness.  Witness provides e-address, but it seems to be defective.  We wonder whether this is a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80565.html](http://www.nuforc.org/webreports/reports/080/S80565.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in New York City (Manhattan) (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately few seconds - few seconds minutes.</sub><blockquote><sub>Very shiny object that I captured movie from that but the movie didn't show that!It was 23:00 p.m. that I was driving to home.  What I've seen was totally confusing.There were 2 other cars in the road. We were all driving when suddenly a very powerful flash eliminated all the road in the rate that we couldn't see anything anymore.  I stopped the car and I figured out that other cars did it too just some meteres away from me.   We all gathered together and started to talk about the issue.None of us have seen anything that was just a very powerful flash.  When we were getting ready to get back to our cars I've seen something and yelled and others looked at sky like me and saw it.That was a something big in the sky not very far and not very clear.  There were 3 lights, very powerful lights near each other which were connected to each other with 3 shiny lines and they totally made a triangle light which was beautiful.It was flying in the sky not very speedy.  We all picked out our cell phones to capture movie from stranger and we did it but the result was nothing.  That was too odd! we captured movie from one very shiny object that we've seen in the sky togheter but they weren't in the movie.Suddenly it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67604.html](http://www.nuforc.org/webreports/reports/067/S67604.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
