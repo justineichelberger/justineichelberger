@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:46 on 24 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:37 on 24 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>2 bright reddish orange lights, moving up and away into the atmosphereI live by the ocean and was coming up the back stairs and while looking at the stars I saw two lights.  On clear nights I can see the lights on the jets coming down from L.A. and at first I assumed that's what I was looking at but immediately it became apparent something else was occurring.  The lights were reddish orange, very bright, unblinking, at a tremendous height and were going up as well as northerly to southerly.  They were spaced a fair distance from each other and the leading one was higher than the other for it disappeared, fading away as it went up before the other did.  There was no noise, no blinking or strobing, and no flickering to speak of.  I look at the stars and planes and helicpters at night all the time.  I've seen satellites and comets.  I have no idea what they were but by definition they were UFO's.  I'm a licensed sea captain as well as a general contractor who's spent many a night stargazing while camping or out at sea.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60019.html](http://www.nuforc.org/webreports/reports/060/S60019.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Chilton (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Chilton Texas 2 Bright Lights 11-24-19I went out to let the dog out and saw 2 big bright lights in the sky that had never been there before.  They just stayed still up in the air.  I live in Marlin Texas and it looked to me like they were over Chilton Texas a city about 12 miles away from me.  I took some pic of them and watched them for about 10 min they never moved.  I went back in the house for about 15 min and came back out and they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150964.html](http://www.nuforc.org/webreports/reports/150/S150964.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165558.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165556.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165554.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165563.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
