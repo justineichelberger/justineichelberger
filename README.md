@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:42 on 24 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:48 on 24 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Two rapidly blinking red lights in the west at dusk over Los Angeles.From my backyard in northeast Los Angeles, at approximately 5:18 pm on November 24, 2014, I looked toward the western horizon after sunset.  The sky was a deep cobalt blue with the rapidly approaching night.  I then saw a pair of red lights blinking in rapid succession due west about 50 degrees above the horizon.  The apparent size of the lights was comparable to the apparent size of a star.The lights moved in a steady fashion and in a slow apparent speed.  They moved forward as if flying side by side from one another (instead of in a line, trailing each other).  The red lights were approximately 15 degrees apart from my vantage point. The distance between the lights did not change during my observation.  The lights blinked in a definite pattern which did not change (left-left.….right-left-right-right……..left-left….right-left-right-right…..in rapid succession.)  The two blinking red lights moved slowly north and then continued off to the northwest until no longer visible at approximately 5:26pm.  There was no sound associated with the lights as far as I can tell.The relative positions of the lights as they moved gave me the impression that I was witnessing a massive winged aircraft flying silently in the sky, with each blinking red light located at the end of each wing.   However, no aircraft (spacecraft?) assembly was discernable between the two blinking lights.  No other lights were associated with my observation, such as the constant glow of green and red lights one normally sees in civilian aircraft.I, the observer, am a private K-12 tutor with an interest in science.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115604.html](http://www.nuforc.org/webreports/reports/115/S115604.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Newburgh (IN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 06</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143916.html](http://www.nuforc.org/webreports/reports/143/S143916.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165558.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165556.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165554.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165563.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
