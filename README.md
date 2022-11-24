@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:27:53 on 24 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:09:04 on 24 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Destin (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Large  (circular view with possible oval side)object with sophistacted lighting system hovered and moved over ocean (Gulf of Mexico)While on the 15th floor balcony of a condo where I was vacationing  at Sandestin Golf an Beach Resort I noticed a particularly bright star and curiously took the video cam out to attempt to gain a better look at it by using the zoom in feature.I saw that it wasn't a star, but an unusual flying craft with extremely sophisticated light patterns, appearing circular in shape, although a slight side glimpse indicated it may have been obelisk from another angle. I proceeded to tape the object for approx a half hour, obtaining approx.23 minutes of unusual footage, some very detailed.It was high over the ocean the entire time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33652.html](http://www.nuforc.org/webreports/reports/033/S33652.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Ashville (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>I looked up at the night sky to see the stars and one stood out so I watched it.  It started moving up and down and back and forth for over an hour.  My husband was a witness.  I took video and photos that are not great due to the night sky and didn't have a tripod.  There were about 10 airplanes that flew over my house around the same period of time.((NUFORC Note:  We spoke with the witness, and we correct the date above, based on her reconstruction of the date.  We suspect a sighting of a star or planet.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151043.html](http://www.nuforc.org/webreports/reports/151/S151043.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165558.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165556.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165554.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165563.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
