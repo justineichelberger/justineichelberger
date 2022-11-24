@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:09:04 on 24 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:41 on 24 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Ashville (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>I looked up at the night sky to see the stars and one stood out so I watched it.  It started moving up and down and back and forth for over an hour.  My husband was a witness.  I took video and photos that are not great due to the night sky and didn't have a tripod.  There were about 10 airplanes that flew over my house around the same period of time.((NUFORC Note:  We spoke with the witness, and we correct the date above, based on her reconstruction of the date.  We suspect a sighting of a star or planet.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151043.html](http://www.nuforc.org/webreports/reports/151/S151043.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Naugatuck (CT) reported seeing craft that fit the description of some '' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Driving home on rte 8 n, to my right, at exit 25, saw bright white object, with bright white beam light shining towards ground..object was silent, and twice as high up then a helicopter would be.  It seemed bigger too.  I kept glancing at it to see if it moved, but it just hovered.  The next day,  I read the Naugatuck Patch newspaper,  and citizens reported an explosion noise.  I wondered if the 2 were related?((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124771.html](http://www.nuforc.org/webreports/reports/124/S124771.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165558.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165556.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165554.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165563.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
