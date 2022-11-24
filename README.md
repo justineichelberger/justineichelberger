@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:08:19 on 24 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:39 on 24 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Manassas (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Object hovering over homes in Manassas, VAOn 24 November 2014, at about 6:40 pm, I was driving southwest on Hastings drive coming from Liberia Avenue.  I stopped at the 4 way stop intersection and noticed three red lights hovering over a section of houses.  The lights were not evenly spaced but from my view it look like the object was triangular shaped.  The lights were solid, not flashing like an aircraft, and it was too big to be a drone.  As I went through the intersection, the object slowly began to move in the direction of Lake Jackson.  So I u-turned and tried to follow it but lost it as the light went past the top of the tree line.My first thought was “what the hell is that?”  It was a dark night, because the moon was crescent, but the sky was clear, no clouds.  It was dark enough that I could not make out the shape of the object but I could tell that it was bigger than the house it was hovering over.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115630.html](http://www.nuforc.org/webreports/reports/115/S115630.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Venice (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Two light orbs with propulsion flares on bottom  flying above Venice,CAThat morning I arrived at the desntist office at 8:00 am.The doors were not open yet and people where starting to arrive.It was a very clear day so I noticed the moon in full view,then I noticed a ball of light on the right side of the moon.I pointed it out to everyone and then we noticed it moving very slow and very very high.We did not think much about it untill I looked up again before we started in the office and wow! there were two now but directly over us moving up very high then down low.I filmed this because I just happened to have my camera to bring to take pics of my friends new store in the area.This was Lincoln blvd and Rose Ave. in Venice,CA.I downloaded the footage on my computer and blew them up.They looked like balls of light with a force from underneath.I had to stop and go in for my apt.When I came out they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49560.html](http://www.nuforc.org/webreports/reports/049/S49560.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165558.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165556.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165554.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165563.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
