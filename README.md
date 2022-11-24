@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:50 on 24 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:08:19 on 24 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Coon Valley (WI) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I submitted this earlier but with the wrong date.  I had put down 10/24/2019 but it was 11/24/2019 (yesterday morning). On 11/24/2019 I went out to my deer hunting stand.  I got to the stand and laid down in it flat on my back to wait for the sun to come up.  It was very close to 6:00 a.m. Central Time.  It was a very clear night  sky (technically early morning) with only a sliver of moon and I was just enjoying the stars when I saw what looked like a star traveling across the sky but rather quickly, about a ¼ the speed of a shooting star.  It went in a NNE direction.  As I was trying to figure out what would travel at such a speed I spotted another one on the same trajectory and then another and another, usually spaced a similar distance but not always.  Some were rather close together but always on the same path and speed.   All told I counted 29 of them and the very last one was slightly off the path of the others.  I cannot reason what could travel that speed so far in the sky.  The lights did not blink and they did not fade while traveling until they just got to far off in the distance. ! Like I said, they looked exactly like the stars around them and  there was 29 of them.  It was very quiet, no wind and yet there was no noise.  Sincerely  rb</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151084.html](http://www.nuforc.org/webreports/reports/151/S151084.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Manassas (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Object hovering over homes in Manassas, VAOn 24 November 2014, at about 6:40 pm, I was driving southwest on Hastings drive coming from Liberia Avenue.  I stopped at the 4 way stop intersection and noticed three red lights hovering over a section of houses.  The lights were not evenly spaced but from my view it look like the object was triangular shaped.  The lights were solid, not flashing like an aircraft, and it was too big to be a drone.  As I went through the intersection, the object slowly began to move in the direction of Lake Jackson.  So I u-turned and tried to follow it but lost it as the light went past the top of the tree line.My first thought was “what the hell is that?”  It was a dark night, because the moon was crescent, but the sky was clear, no clouds.  It was dark enough that I could not make out the shape of the object but I could tell that it was bigger than the house it was hovering over.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115630.html](http://www.nuforc.org/webreports/reports/115/S115630.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165558.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165556.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165554.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165563.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
