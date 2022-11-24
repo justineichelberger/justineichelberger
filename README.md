@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:46 on 24 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:52 on 24 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Zebulon (NC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Mid-sized disk shaped object, rotating violently, flying back and forth, landed several times, collision with dog & 2 people.I was visiting girlfriend’s home for Thanksgiving Holiday to meet parents, went outside with her father, brother, and girlfriend when we saw the saucer.  The neighbor’s dog was ballistic.  The UFO hurtled back and forth between the two yards, about the size of a trash can lid, and struck the dog on the side.  Saucer also grazed my girlfriend and her brother. We had all had a drink, but we were all sober enough to know what we saw.  The craft had an undistinguishable colour and the lighting was poor, however, we were able to see strange black characters inscribed on the (presumed) hull of the UFO.  The craft landed and took off several times throughout our observation of the events.  Later, some scorch marks were found in the lawn.  The object did not have lights of its own; however, it did emit an aquamarine glow, making it more difficult to see the colour of the UFO’s body.  No life forms were seen.  Possibly an alien drone?  A government drone?  As for observer backgrounds, my girlfriend is studying finance and accounting at a university near our apartment, but we observed the object at her parents’ house in Zebulon.  Her father is an employee at the pharmaceutical company in the town, and her brother was also visiting from college.  I, myself, am a sales rep for a large company located in Washington state.((NUFORC Note:  We suspect a hoax.  Telephone number provided by witness is non-functional.  Source of report has not responded to an e-mail.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131524.html](http://www.nuforc.org/webreports/reports/131/S131524.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1984, an anonymous witness in Columbus (WI) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Mid day cigar shape citing while deer huntingA cylindrical craft approximately 25M long cruised over my head producing a high pitched drone, faint and not piercing. The craft was black against a grey cloudy sky, and did not have wings or noticeable tail. It was not moving fast, but seemed to move about as fast as a goose landing. I estimate the altitude at 300-400 feet.I have 19 years military experience, 16 in the USAF.((NUFORC Note:  Witness indicates that date of event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42151.html](http://www.nuforc.org/webreports/reports/042/S42151.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165558.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165556.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165554.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165563.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
