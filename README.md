@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:48 on 24 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:46 on 24 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Newburgh (IN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 06</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143916.html](http://www.nuforc.org/webreports/reports/143/S143916.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Shelby (NC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Silver reflective sphere hovering stationary over fieldWhile traveling west on U.S. 74 from Shelby towards Boiling Springs, NC. I was riding as a passenger, in the back seat, on the drivers side, I was looking across the freshly cut cotton fields for deer when I noticed a very large, silver/chrome colored orb hovering above the field.  I had been watching the sky this morning due to the many con-trails being left by the high flying aircraft in the area.  This was very different than the many aircraft I had seen, it was much larger, and closer than the high flying aircraft that were in the area.  It had no wings or lights that I could tell.  It was a very shiny, chrome-like orb, and much larger than any other object in the otherwise clear sky.I pointed it out to my brother that was in the front passengers seat.  He also saw the object and could not figure out what it was either.  After about 30 seconds the tree line partially blocked our view so I asked my dad to make the next left turn onto Beaver Dam Church Road heading south directly towards the area the orb was observed.  When we cleared the trees, less than a minute later, there was nothing at all in the otherwise clear sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104978.html](http://www.nuforc.org/webreports/reports/104/S104978.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165558.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165556.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165554.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165563.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
