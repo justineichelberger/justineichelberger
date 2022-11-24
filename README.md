@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:39 on 24 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:50 on 24 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Venice (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Two light orbs with propulsion flares on bottom  flying above Venice,CAThat morning I arrived at the desntist office at 8:00 am.The doors were not open yet and people where starting to arrive.It was a very clear day so I noticed the moon in full view,then I noticed a ball of light on the right side of the moon.I pointed it out to everyone and then we noticed it moving very slow and very very high.We did not think much about it untill I looked up again before we started in the office and wow! there were two now but directly over us moving up very high then down low.I filmed this because I just happened to have my camera to bring to take pics of my friends new store in the area.This was Lincoln blvd and Rose Ave. in Venice,CA.I downloaded the footage on my computer and blew them up.They looked like balls of light with a force from underneath.I had to stop and go in for my apt.When I came out they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49560.html](http://www.nuforc.org/webreports/reports/049/S49560.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Point Pleasant (WV) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>It was over top the old military place know as the T.N.T.  It has a bunch of concret bunkers used for storing explosives.  It is where the mothman was seen.  It was Thanksgiving 1997 when I saw it.  It was a round metal object size of a small car.  It was less than a mile away and maybe a mile up in sky.  It was like highly polished chrome with sun reflecting off it.  It was only seen for a second or two from inside a moving car.  Then trees instructed my view and wasn't able to know where it went.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138891.html](http://www.nuforc.org/webreports/reports/138/S138891.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165558.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165556.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165554.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165563.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
