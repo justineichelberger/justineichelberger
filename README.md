@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:43 on 25 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:36 on 25 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Wild Rose (WI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>2 sphere orbs of light low in the sky side by side they seemed to disappear and reappear in the same spot photos will occupy this report looked strange thought I'd report</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151093.html](http://www.nuforc.org/webreports/reports/151/S151093.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Phoenix UFO near sky harborAs I was walking into work I looked up and saw what I though was a banner behind a plane. But it was still dark so I looked closer and realized it was some type of craft or multiple. I could not tell it could have been Windows or many small craft flying closely together. I work on a national guard base and it was nothing I had seen before. It was also over Phoenix sky harbor so planes were taking off near it and it did not appear to be an airplane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160831.html](http://www.nuforc.org/webreports/reports/160/S160831.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [338](http://www.nuforc.org/webreports/reports/165/S165728.html)
-- [337](http://www.nuforc.org/webreports/reports/165/S165576.html)
-- [336](http://www.nuforc.org/webreports/reports/165/S165565.html)
-- [335](http://www.nuforc.org/webreports/reports/165/S165683.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165571.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
