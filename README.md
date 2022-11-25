@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:30:10 on 25 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:16:35 on 25 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in San Bruno (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15+ - 15+ minutes.</sub><blockquote><sub>Bright red light seen in the skies of San Bruno, CA maneuvering slowly towards the west.There was a red light which seemed to be moving slowly west, away from our location.  It stopped momentarily, changed directions as if it was going to turn and make a circle, stopped again, and then move a little more west.  It did this two or three times then came to stop for approximately 5 minutes.  Then began to move west again very slowly and steadily towards the coast until it disappeared out of sight over the San Bruno Hills.  The distance of the object was unknown.  We were located on El Camino Real at the Tanforan shopping center it was a little before 2300 when we noticed it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73466.html](http://www.nuforc.org/webreports/reports/073/S73466.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Pembroke Pines (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Intermittently since around 7am I and my neighbor have heard and felt a very deep rumbling throughout our neighborhood. It lasts about a minute with the longest sustained for around 2 minutes.  Very unsettling as i cant see anything overhead that would cause it and the sound doesnt seem to move at all when it comes. Other neighbors dogs who were being walked outside all went nuts barking and panicking just now while i was outside.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151146.html](http://www.nuforc.org/webreports/reports/151/S151146.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [338](http://www.nuforc.org/webreports/reports/165/S165728.html)
-- [337](http://www.nuforc.org/webreports/reports/165/S165576.html)
-- [336](http://www.nuforc.org/webreports/reports/165/S165565.html)
-- [335](http://www.nuforc.org/webreports/reports/165/S165683.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165571.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
