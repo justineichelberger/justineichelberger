@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:42 on 25 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:39 on 25 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Thanksgiving Night 2010, Cheveron UFO flew over San Francisco, CA.This Thanksgiving night 2010, I captured on videotape (from my back yard in San Francisco, CA.) a Chevron shaped UFO. It was heading True North and was seen East of my home about 60 degrees up. It looked like a ghost ship because it was a semi-transparent white color but it did have a detailed shape. I do not know the size or altitude of this UFO. If it did make a noise, I did not hear it because I think it was too far away. I also saw and videotaped 2 other different UFO shapes on this night. A seperate file will be sent on these UFOs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79251.html](http://www.nuforc.org/webreports/reports/079/S79251.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Haiku (HI) reported seeing craft that fit the description of some 'Light' over a period of approximately 5760.0 - 5760.0 minutes.</sub><blockquote><sub>Lights seen from the night sky 1st night-flickering & moving around the sky as if inspecting the clouds-movin up & down-sideways & lighting up clouds with a beam-as thought of near star Vega but a star does not move in these ways-Milky Way if in the sky over the ocean!   So clear & dark-hope someone is filming-I have seen 3 say 1-towards Hana, Oahu Molokai Wow</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151166.html](http://www.nuforc.org/webreports/reports/151/S151166.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [338](http://www.nuforc.org/webreports/reports/165/S165728.html)
-- [337](http://www.nuforc.org/webreports/reports/165/S165576.html)
-- [336](http://www.nuforc.org/webreports/reports/165/S165565.html)
-- [335](http://www.nuforc.org/webreports/reports/165/S165683.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165571.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
