@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:41 on 25 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:38 on 25 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Medellin (Colombia) () reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 34.0 - 34.0 minutes.</sub><blockquote><sub>The event took place at 18:02 pm Medellin, Colombia, time, two red objects appeared in the sky in a west north direction they were paralleled horizontally to each other and they seemed not to be moving  they appeared out of the sky to the eye  we were two witnesses and took accounts of time and movement at approximately 10 minutes of hovering at an approx.  Altitude of 5.000 feet   the craft that would be to the east started a motion moving west the craft that was west to it is now to the east and started moving up not north but upwards we can definitely testify that this was not a normal air craft behavior or movement  we can responsibly say it was no helicopter  air craft or weather balloon as we had a pretty close visual linear distance about 4 kilometers to better explain our siting the crafts were long vertical with red lights at its top and at its bottom the lights looked like a panel you see on a microwave tower  we continued the observation  until 18:36 ! pm as the two crafts  disappeared I would like to add to better explain  they hovered in two different heights first when we first had a visual as I explained  then when they moved up I can estimate the second hover was at approx. 15.000 feet I used the mountains to guide me with my estimation also we did observed lateral horizontal movement hovering and vertical movement within the 34 minutes of observation</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137422.html](http://www.nuforc.org/webreports/reports/137/S137422.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Brookings (OR) reported seeing craft that fit the description of some 'Cigar' over a period of approximately west coast - west coast minutes.</sub><blockquote><sub>cigar shaped craft over southern oregon coastsaw cigar shaped craft flying slow over ocean blinking red light in back with little windows visible,, yellowish light in front with little windows, no sound, disappeared in a second.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104788.html](http://www.nuforc.org/webreports/reports/104/S104788.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [338](http://www.nuforc.org/webreports/reports/165/S165728.html)
-- [337](http://www.nuforc.org/webreports/reports/165/S165576.html)
-- [336](http://www.nuforc.org/webreports/reports/165/S165565.html)
-- [335](http://www.nuforc.org/webreports/reports/165/S165683.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165571.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
