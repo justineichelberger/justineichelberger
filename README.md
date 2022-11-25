@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:16:35 on 25 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:42 on 25 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Pembroke Pines (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Intermittently since around 7am I and my neighbor have heard and felt a very deep rumbling throughout our neighborhood. It lasts about a minute with the longest sustained for around 2 minutes.  Very unsettling as i cant see anything overhead that would cause it and the sound doesnt seem to move at all when it comes. Other neighbors dogs who were being walked outside all went nuts barking and panicking just now while i was outside.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151146.html](http://www.nuforc.org/webreports/reports/151/S151146.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Hermitage (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>I am visiting with my girlfriend at her grandmother's house.  We were relaxing in the living room when we heard a car horn go off for a unusual duration.  Being as curious as we are, we decided to go take a look.  As we walked outside we saw the car leaving over the hill.  It was after that when we saw three of our neighbors looking up and pointing.  We looked up aswell and was completely in shock.  We observed only the last minute of the phenomenon. There were around a dozen of these green lights.  All of which were grouped around the same area in the sky.  By the time we had got the idea to try and snap a picture or a recording of the event, they had each faded away.  This occurred, I would say between 11:30pm to 11:40pm Saturday, November 25, 2018.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143899.html](http://www.nuforc.org/webreports/reports/143/S143899.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [338](http://www.nuforc.org/webreports/reports/165/S165728.html)
-- [337](http://www.nuforc.org/webreports/reports/165/S165576.html)
-- [336](http://www.nuforc.org/webreports/reports/165/S165565.html)
-- [335](http://www.nuforc.org/webreports/reports/165/S165683.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165571.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
