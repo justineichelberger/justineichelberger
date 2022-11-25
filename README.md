@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:40 on 25 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:06:23 on 25 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Springfield (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Just after 3pm, I went outside to smoke a cigarette.  It's a beautiful clear day here today, and I noticed that the sky was really blue for a change.  So I was just staring up in amazement.  I look towards the east and it looked like birds circling around, but upon second glance, I noticed a pin sized light in each object.  There were roughly 10-15 objects.  As I watched, they continued flying in circular formation, criss crossing one another, at the same time rising higher and higher.I ran inside to grab my phone and tried to record it, but when I got back out, (literally 3 seconds later) the objects were so high in the sky I could barely see them anymore.  My camera could not detect anything.  I continued watching them move up, and a little southeast until they finally disappeared completely.All of this happened within the timeframe of 1 minute, just minutes past the 3 o'clock hour, central time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137419.html](http://www.nuforc.org/webreports/reports/137/S137419.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Modesto (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I saw a bright light in the sky, it looked like a small plane,it was florescent aqua blue and looked like it was crashing.I saw a bright light in the sky, it looked like a small plane, it was traveling just  the same speed of a plane,  There was just one thing wrong with it was a florescent agua blue.I was driving west to my sons house and was almost to his driveway when I saw a bright light in the sky.  I observed it and it looked like a small plane, it was traveling just  the same speed of a plane, it was in the south sky heading in a downward motion across the sky to the north, like a falling plane.  There was just one thing wrong with it was a florescent agua blue. I watched it go across the sky toward the horizen, It scared me because I thought it is going to hit my sons house, but it disappeared by going behind trees and my sons house, it was about 8:45 pm when I got insie my sons house and asked him and my other son if they had heard a crash or anything unusual, but he said no.  Him and I looked out the back window of his house in the westerly direction, there is a field with horses on that side of the house and behind that is an orchard.  Him and I both saw something square glowing in the dark, it was white and lasted about 10 seconds.((NUFORC Note:  We spoke with this witness, and have other corroborating reports for the event.  Please see other reports from California.  Object may have been a meteor, but we are uncertain, given the other reports we received from other parts of the U. S., Canada, and Brazil for this date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20593.html](http://www.nuforc.org/webreports/reports/020/S20593.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [338](http://www.nuforc.org/webreports/reports/165/S165728.html)
-- [337](http://www.nuforc.org/webreports/reports/165/S165576.html)
-- [336](http://www.nuforc.org/webreports/reports/165/S165565.html)
-- [335](http://www.nuforc.org/webreports/reports/165/S165683.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165571.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
