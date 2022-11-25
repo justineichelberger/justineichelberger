@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:37 on 25 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:40 on 25 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Yokosuka (Japan) () reported seeing craft that fit the description of some 'Other' over a period of approximately Continuous - Continuous minutes.</sub><blockquote><sub>Orbiting Translucent RingsHello,  	I am writing in regards to something I cannot explain and hoping to get and answer to.  I have seen in my travels as I look up into the sky during the daytime hours, hovering objects.	I can only describe these objects as translucent rings orbiting around a center. I imagine a sphere would be in the middle as the rings orbit around it, although the sphere is not there. I only see the rings orbiting, sometimes expanding and contracting as well while they orbit around a center.	I have seen these objects every place I have traveled, always during they day.  If I focus for a minute at a point in the sky I can eventually find the rings moving in the sky.  As the sun reflects off of the rings, I can also see the colors of the rainbow as if light were passing threw a prism.	If there is an explanation to what I have seen, or any other information about this, I would appreciate some feedback.Thank you very much</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137406.html](http://www.nuforc.org/webreports/reports/137/S137406.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Springfield (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Just after 3pm, I went outside to smoke a cigarette.  It's a beautiful clear day here today, and I noticed that the sky was really blue for a change.  So I was just staring up in amazement.  I look towards the east and it looked like birds circling around, but upon second glance, I noticed a pin sized light in each object.  There were roughly 10-15 objects.  As I watched, they continued flying in circular formation, criss crossing one another, at the same time rising higher and higher.I ran inside to grab my phone and tried to record it, but when I got back out, (literally 3 seconds later) the objects were so high in the sky I could barely see them anymore.  My camera could not detect anything.  I continued watching them move up, and a little southeast until they finally disappeared completely.All of this happened within the timeframe of 1 minute, just minutes past the 3 o'clock hour, central time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137419.html](http://www.nuforc.org/webreports/reports/137/S137419.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [338](http://www.nuforc.org/webreports/reports/165/S165728.html)
-- [337](http://www.nuforc.org/webreports/reports/165/S165576.html)
-- [336](http://www.nuforc.org/webreports/reports/165/S165565.html)
-- [335](http://www.nuforc.org/webreports/reports/165/S165683.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165571.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
