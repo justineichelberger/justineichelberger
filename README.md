@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:46 on 25 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:52 on 25 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Madison Township (OH) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately  -  minutes.</sub><blockquote><sub>rectangular pair of light above the trees in madison ohioi was driving down route 84 traveling east towards ashtabula, in madison ohio between wood road and dayton and from a distance i saw 2 lights that looked very not normal in an area i kno are no radio towers around ive drove down that road a million times,  i saw hovering, not moving lights that were orange and green not blinking about 20ft above the trees…  i thought thats odd i asked the other witness what he thought that looked like to him he said "  a radio tower"  im from the area and kno there is no radio tower there  like i said. it was still light enough outside to see there were no poles traveling from the top of the light and there were also no other lights going down from the top 2 lights if it were a radio tower..  we got right underneath it and i could see it right above the trees but we just kept driving so i didnt get a perfect mental picture if it was rectangular shape or a formation of 2 lights..  but it was not moving,staying light and not making a! ny noise hovering above the trees.((NUFORC Note:  We assume an evening sighting, and we have changed the time above.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85484.html](http://www.nuforc.org/webreports/reports/085/S85484.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in N. Cape May (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Military planes chaseing UFOI was outside of my house smoking a ciggaret.  There were no clouds in the sky and I was looking at all of the stars. Then something caught my eye.  It was a triangle shaped object with 3 orange bright lights on each point. It was moving very fast, faster than any type of plane.  Eventully it flew out of eyesight. I stayed outside for about 10-15 more minutes, hoping to see it again.  Then all of a sudden a milatary style formation of planes were heading in the direction it went.  There was at least 6 planes in formation, and it was very loud after they flew by.  This is the second time I have seen a UFO in my area in the past 4 months.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67141.html](http://www.nuforc.org/webreports/reports/067/S67141.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [338](http://www.nuforc.org/webreports/reports/165/S165728.html)
-- [337](http://www.nuforc.org/webreports/reports/165/S165576.html)
-- [336](http://www.nuforc.org/webreports/reports/165/S165565.html)
-- [335](http://www.nuforc.org/webreports/reports/165/S165683.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165571.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
