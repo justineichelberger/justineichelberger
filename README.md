@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:40 on 25 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:43 on 25 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Winnemucca (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>ufo over the hill of winnimucca nevadait was early morning my friend an i got up to get some water we looked to the east and saw a blue and white light on the horizon, it was just crusing slowly and stopping suddenly then it took off like a bat out of hell and left a small vapor trail.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63535.html](http://www.nuforc.org/webreports/reports/063/S63535.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Kingston (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Single file of bright lights.Over 1 dozen starlike lights traveling west to east very high up in single file formation about 3 seconds apart. No sound could be heard. Some were paired close to each other.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151054.html](http://www.nuforc.org/webreports/reports/151/S151054.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [338](http://www.nuforc.org/webreports/reports/165/S165728.html)
-- [337](http://www.nuforc.org/webreports/reports/165/S165576.html)
-- [336](http://www.nuforc.org/webreports/reports/165/S165565.html)
-- [335](http://www.nuforc.org/webreports/reports/165/S165683.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165571.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
