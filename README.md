@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:06:23 on 25 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:43 on 25 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Modesto (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I saw a bright light in the sky, it looked like a small plane,it was florescent aqua blue and looked like it was crashing.I saw a bright light in the sky, it looked like a small plane, it was traveling just  the same speed of a plane,  There was just one thing wrong with it was a florescent agua blue.I was driving west to my sons house and was almost to his driveway when I saw a bright light in the sky.  I observed it and it looked like a small plane, it was traveling just  the same speed of a plane, it was in the south sky heading in a downward motion across the sky to the north, like a falling plane.  There was just one thing wrong with it was a florescent agua blue. I watched it go across the sky toward the horizen, It scared me because I thought it is going to hit my sons house, but it disappeared by going behind trees and my sons house, it was about 8:45 pm when I got insie my sons house and asked him and my other son if they had heard a crash or anything unusual, but he said no.  Him and I looked out the back window of his house in the westerly direction, there is a field with horses on that side of the house and behind that is an orchard.  Him and I both saw something square glowing in the dark, it was white and lasted about 10 seconds.((NUFORC Note:  We spoke with this witness, and have other corroborating reports for the event.  Please see other reports from California.  Object may have been a meteor, but we are uncertain, given the other reports we received from other parts of the U. S., Canada, and Brazil for this date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20593.html](http://www.nuforc.org/webreports/reports/020/S20593.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Dunes City (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Big bright GREEN FIREBALL seen burning slowly to the earth in Dunes City, OregonFor 3 seconds, I saw a big (1/3 size of a full moon) bright green fireball (possibly ball lightning) burning to the ground from left to right at a 10 degree angle from approximately 300 feet elevation just north of the Summerbell Arm of Woahink Lake between Florence and Dunes City, Oregon.  It was really beautiful very bright green like it was made out of powerful green laser light and seemed to burn out even drip green "lava" as it burnt out just before or even as it hit the ground.  It was NOT a meteor as it was falling much much much too slowly to be a meteor.  Google Project Twinkle and Green fireballs and ball lightning.  I wasn't able to capture any image, but it was a really excellent big bright green fireball.  NOTE: This was so close to Woahink Lake that if it was ball lightning, I suspect the warm temperature of the lake water and the cold air temperature may have intensified the sighting.  Also, at first I thought I was seeing a big green firework fizzling out, but there was no report or boom from any huge firework.  It was not a firework.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124375.html](http://www.nuforc.org/webreports/reports/124/S124375.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [338](http://www.nuforc.org/webreports/reports/165/S165728.html)
-- [337](http://www.nuforc.org/webreports/reports/165/S165576.html)
-- [336](http://www.nuforc.org/webreports/reports/165/S165565.html)
-- [335](http://www.nuforc.org/webreports/reports/165/S165683.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165571.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
