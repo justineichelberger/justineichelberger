@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:43 on 25 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:38 on 25 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Dunes City (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Big bright GREEN FIREBALL seen burning slowly to the earth in Dunes City, OregonFor 3 seconds, I saw a big (1/3 size of a full moon) bright green fireball (possibly ball lightning) burning to the ground from left to right at a 10 degree angle from approximately 300 feet elevation just north of the Summerbell Arm of Woahink Lake between Florence and Dunes City, Oregon.  It was really beautiful very bright green like it was made out of powerful green laser light and seemed to burn out even drip green "lava" as it burnt out just before or even as it hit the ground.  It was NOT a meteor as it was falling much much much too slowly to be a meteor.  Google Project Twinkle and Green fireballs and ball lightning.  I wasn't able to capture any image, but it was a really excellent big bright green fireball.  NOTE: This was so close to Woahink Lake that if it was ball lightning, I suspect the warm temperature of the lake water and the cold air temperature may have intensified the sighting.  Also, at first I thought I was seeing a big green firework fizzling out, but there was no report or boom from any huge firework.  It was not a firework.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124375.html](http://www.nuforc.org/webreports/reports/124/S124375.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Wyoming (RI) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>craft blending in with the stars,  visits Rhode Islandwhile house sitting for a friend, I was on the porch at night observing the sky, with very little light pollution, the night sky is very clear.  It was a cold night with no cloud cover.  I observed a star like object come over the horizon (thought to be an airplane) traveling in a Northerly direction, except it never had any blinking lights (navigation lights), then it just stopped in the sky, and if you had not seen it move  into position, one could easily assume it was just another star in the sky.  Now thinking it was maybe a helicopter (no sound though) it just stayed in that position for at least an hour, then it would change it's position in very straight lines, then stop at intervals of 15 to 20 minutes, sometimes covering large distances.  Using a extremely bright LED flashlight, *in a joking manner* I tried to flash it with a morse code like pattern, and to my surprise it appeared to move no longer in straight lines but curved lines at a higher rate of speed.  then stopping to hold a position.  It appeared at this time to change it's "shine pattern" maybe changing the color of the light and even shape.  Eventually it went back to the star appearance held position, and eventually moved off in a NW direction in a slow straight line until out of view.  this all took place between 9pm and 1am.  In my personal opinion this behaved like no aircraft that I am aware of, as to what it actually was... your guess is as good as mine.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66467.html](http://www.nuforc.org/webreports/reports/066/S66467.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [338](http://www.nuforc.org/webreports/reports/165/S165728.html)
-- [337](http://www.nuforc.org/webreports/reports/165/S165576.html)
-- [336](http://www.nuforc.org/webreports/reports/165/S165565.html)
-- [335](http://www.nuforc.org/webreports/reports/165/S165683.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165571.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
