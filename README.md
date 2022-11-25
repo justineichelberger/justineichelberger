@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 25 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:48 on 25 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Haiku (HI) reported seeing craft that fit the description of some 'Light' over a period of approximately 5760.0 - 5760.0 minutes.</sub><blockquote><sub>Lights seen from the night sky 1st night-flickering & moving around the sky as if inspecting the clouds-movin up & down-sideways & lighting up clouds with a beam-as thought of near star Vega but a star does not move in these ways-Milky Way if in the sky over the ocean!   So clear & dark-hope someone is filming-I have seen 3 say 1-towards Hana, Oahu Molokai Wow</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151166.html](http://www.nuforc.org/webreports/reports/151/S151166.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in St. Louis Park (MN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Low-flying fire ball over St. Louis Park, Minnesota on 11/25/11An object pulsating between fire and black came toward me off the horizon heading from south to northwest.  It moved at a moderate pace and slowed down to a stall.  After stopping about 2-3 blocks from my house the object flew straight up and to the south at a high rate of speed (like nothing I have seen in the sky).  I thought it might be a helicopter at first, but this object made no noise.  In fact I thought to myself that it was odd that just about every dog within a mile was going crazy.  So much so that after the event when I went in to tell my wife what happened, my dog went flying out of the house to see what all the commotion was about.  It was a very gloomy winter evening and the clouds were very low.   I live along a flight path of the Minneapolis airport.   I waited for three planes to come in and land and could hardly see the headlights of one of the three commercial jets landing.  This object was flying very low.  Assuming it was about two or three blocks away I would guess it was 20 feet across.   Every hair on my body was standing on end.  It was the most incredible thing I have ever seen.   Nothing about the way this thing moved was consistent with anything I have seen during the 36 years of my life.  I've been online looking for anyone else that saw it.  I haven't found anyone and post this in hopes that others will come forward.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85498.html](http://www.nuforc.org/webreports/reports/085/S85498.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [338](http://www.nuforc.org/webreports/reports/165/S165728.html)
-- [337](http://www.nuforc.org/webreports/reports/165/S165576.html)
-- [336](http://www.nuforc.org/webreports/reports/165/S165565.html)
-- [335](http://www.nuforc.org/webreports/reports/165/S165683.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165571.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
