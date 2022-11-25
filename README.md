@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:44 on 25 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:49 on 25 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Fredericksburg (northwest Hill Country)) (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Blue lights fill room of house in rural Texas before abruptly vanishingWhen I was a child each year my family drove southwest from Dallas to Central Texas, where my father shared a hunting lease on a ranch several miles northwest of Fredericksburg in the Texas Hill Country.My father is an engineer and an enthusiastic deer hunter, and that year, like most, we came to Fredericksburg at Thanksgiving to hunt deer and turkey. We drove a camper and parked it in front of the old ranch house where I bunked with my father. My mother and two younger brothers slept in the RV. The rustic and less comfortable house, built by German settlers near the end of the 19th c., was situated near a windmill, a sheep shed, water tanks and cattle troughs.One night my father and I turn out the lights to go to bed.  We were settled in the house, miles from any highway or road, and approachable only by way of a narrow limestone trail cut through sharp grass, oak brush, and scrub.  It was a clear, cool night with no storm activity. We unrolled sleeping bags over the beds.  My father’s rifle rested in a corner.We had turned out the lights around 10 pm.  My father noticed something after I had closed my eyes and asked me what I saw through the front windows.A dim blue light entered through a north window, and increased its brightness until the room was cast in a luminous blue.  The light continued through the window a few moments before abruptly shifting positions to a west window.  The room remained saturated in bright blue. Neither of us moved. The light then vanished suddenly after less than a minute.We couldn’t sleep after the light left us, and we talked about what we had seen for half an hour or so before finally falling asleep.  Next morning we resumed the conversation about the lights. My mother and brothers had nothing to report, sleeping soundly through the night.  The event has been lodged in family lore all these years.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88895.html](http://www.nuforc.org/webreports/reports/088/S88895.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in West Jefferson (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Shooting star with NO TAIL or UFOMy boyfriend and I were driving down the road and both saw what we thought was a shooting star zip across the sky about 10inches (which would actually be hundreds of miles).   We both said "Look" at the same time, then both realized there was no tail.  Then the light just stopped and disappeared.   Well, about a second later a little red dot flashed in the sky exactly where the light stopped.  Now, my boyfriend is a small plane pilot, and he said there was NO WAY that what we saw could have been anykind of airplane or jet.  It moved too far too fast.  He said that he estimated the light to be about 10 miles above us.  The sky was pitch black and the sky was fairly clear, you could see several stars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67168.html](http://www.nuforc.org/webreports/reports/067/S67168.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [338](http://www.nuforc.org/webreports/reports/165/S165728.html)
-- [337](http://www.nuforc.org/webreports/reports/165/S165576.html)
-- [336](http://www.nuforc.org/webreports/reports/165/S165565.html)
-- [335](http://www.nuforc.org/webreports/reports/165/S165683.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165571.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
