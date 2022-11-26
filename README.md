@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:35 on 26 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:33 on 26 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Apache Junction (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Silent, bobbing flaming orb.On Tuesday, November 26, 2013, at about 7:05 pm, my friend and I witnessed what looked like a flaming orb to the south of East Main St. in Apache Junction, AZ.   It was maybe 1/8 mile away and moving from east to west.  We watched it for about 30–40 seconds before it disappeared behind taller buildings in the area so it might have only been about 100 feet in the air.  It appeared to be orange in color and and flickered as if it were on fire.  The way it seemed to burn was like a marshmallow, a slow lazy flame.  As it moved it seemed to bob up and down as if it were “riding the waves”. At first, I thought it was a power surge on the power lines but as the power lines switched directions, it continued the same.  There was absolutely no sound related to this!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104801.html](http://www.nuforc.org/webreports/reports/104/S104801.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Spearfish (SD) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>&quot;classic&quot; saucerWe saw a bright light in SW sky, much brighter than stars.  When I got out a spotting scope you could see it was strobing colors.  When I put it on highest power it was clearly a flattened disk with different colored lights on edges.  I went outside to take a picture and it had dropped 15 to 20 degrees and now sat right on the horizon.  This was a matter of a minute or two at most.  It was in the clouds and I couldn't get a picture.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131541.html](http://www.nuforc.org/webreports/reports/131/S131541.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
