@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:42 on 26 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:41 on 26 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Venice (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 19:27-20:14 - 19:27-20:14 minutes.</sub><blockquote><sub>UFO spotting in Venice lightsI observed a light that seemed to move and change color almost ranging from a circle to a triangular shape.  I then asked my father to come outside to observe he said it is a planet that is visible recently has been there for at least a week.  I was not convinced because I witnessed horizontal and vertical movement of light.  Although it seemed to be in the same place for around 30 minutes, I recorded video when it's zoomed you can see the movement. To be sure it was moving I took a photo of light with my phone resting on a wall and marked the wall to be sure each photo was taken at the exact same position.  This proved movement.  I went in my fathers house for 10 minutes or so and the light was gone.  I walked approximately 50 feet to me vehicle and observed the light in a new position over a home.  At this point movement and color change from greens,blue,red and yellow were visible with the naked eye.  Then it quickly disappeared upward out of sight.  In addition! during the whole time 3 airplanes were visibly flying near object, and circled multiple times.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131487.html](http://www.nuforc.org/webreports/reports/131/S131487.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Fort Collins (CO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Object in sky turned lights on, while hovering in one spot.We were driving down College Ave by Jax Surplus, when we saw an object just sitting in the sky pretty lowly.  It only had two lights on, and as we drove under it, all of the lights turned on and it stayed a bit longer.  We looked back and it had disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137444.html](http://www.nuforc.org/webreports/reports/137/S137444.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
