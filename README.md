@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:38 on 25 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:42 on 26 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Brookings (OR) reported seeing craft that fit the description of some 'Cigar' over a period of approximately west coast - west coast minutes.</sub><blockquote><sub>cigar shaped craft over southern oregon coastsaw cigar shaped craft flying slow over ocean blinking red light in back with little windows visible,, yellowish light in front with little windows, no sound, disappeared in a second.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104788.html](http://www.nuforc.org/webreports/reports/104/S104788.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Chicago (near) (IL) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Thanksgiving -  spade shaped object with 10-15 red lights below the cloud overcast and above the tree line.I had just walked into my family's living room for thanksgiving.  After saying hello to everyone I sat down on the couch and looked out the window.  It was an overcast sky so the object I saw was definitely not a plane because it would have been too low.  The object looked like a teardrop shape, almost a spade shape, made up completely of red lights (Probably a good 10-15 red lights around the edge and in the center, symmetrical though.)  It seemed rather large.  It was below the clouds but above the tree line and houses.  The lights did not blink or flash or move formation.  The object hovered there for a second then slowly began descending.  As I was about to get everyone's attention to look outside because I thought I was losing my mind, the craft slowly disappeared behind the tree line and houses.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73568.html](http://www.nuforc.org/webreports/reports/073/S73568.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [338](http://www.nuforc.org/webreports/reports/165/S165728.html)
-- [337](http://www.nuforc.org/webreports/reports/165/S165576.html)
-- [336](http://www.nuforc.org/webreports/reports/165/S165565.html)
-- [335](http://www.nuforc.org/webreports/reports/165/S165683.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165571.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
