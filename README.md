@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:38 on 26 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:35 on 26 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Marysville (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Numerous "fireballs" moving from SSW to NNE.At approximately 5:30 P.M., I happened to be in the driveway of a relative's home and happened to look to the west and saw an unusual cluster of "fireballs" moving at a fairly rapid pace out of the SSW.  The objects were more than 1000 ft. high but lower than a passenger aircraft would fly at cruising altitude.The objects were a deep red color. There were more than 12, and I counted at least 16.  They did not appear to be moving in a particular formation and some were slightly higher than others.  The objects did not flicker but did appear brighter on the leading edges of the objects.  They were not perfectly circular. There was no noise and no other aircraft observed in the area.As I recall, the winds were calm and sky was clear.  The sun had set, but it was still twilight. The objects continued toward the NNE and disappeared out of sight after approximately 2-3 minutes.I have seen so-called Chinese lanterns before, but these were very unusual, as they appeared to be brighter on the 'leading' edges.  I doubt these would have been flares since it was a holiday weekend and there are no nearby military bases.I did take photos, and the quality isn't great, but one can discern the color and shape of the objects.  Several other family members also observed but we could not conclude what we had seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111756.html](http://www.nuforc.org/webreports/reports/111/S111756.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lyndonville (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>A white filled circle, half the size of a full moon, appeared over Lake Ontario, north of Lyndonville, NY. I reappeared 5 more times.On  Saturday, November 26, 2011.  Awaking around 4:45 am, I decided to go outside and check out anything that might be happening in the sky.  I was looking directly north over the shoreline of Lake Ontario, on the New York state side, approximately 30 miles west of Rochester, NY.  A white filled circle appeared directly north, 45 degree angle from the water surface, through a very light cover of clouds over the lake.  Quite large in size, half the size of the full moon, it was displayed for 4 seconds or so, it didn't move in the sky, no noise, and no flashing lights, then the circle disappeared.It reappeared to the right (east) again, the distance of two times its diameter, same size, same distance from the water, then went out.  This occurred 2 more times and there was nothing.  I decided to flash my high powered light, no response.I continued to look to the north only to have this happen again, farther to the east, approx. half mile around 5 minutes later (5:20 am).  Only one display of this white filled circle. The position over the water was the same.I continued to watch until it happen again, 5:30 am, back where it was originally started.  Again same size, same display time and position over the water, no noise or flashing lights but only one display and no more. I continued watching for another hour or so until the sun started to show itself.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107714.html](http://www.nuforc.org/webreports/reports/107/S107714.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
