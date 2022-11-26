@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:44 on 26 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:44 on 26 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Greensboro (NC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>The object moved right and left very fast then a flash of light it split in two objects.I was sitting on my back porch and saw a grey object over the pine trees west of me. It was not moveing at that time. About two minutes passed and it darted rightback to the left very fast. It went down behind the pines and back up and left a snake like trail. I saw a blue green flash in the center and it split in two objects. Clowds moved in   and I lost the object.                                                                                                                                                                  I reported this to mufon and thay took a report. I joined Mufon and became an Investigator. About A week later I had something in my left nostrol and had a nose bleed. It stil bothers me today,and Iam 73 yrs. old</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61362.html](http://www.nuforc.org/webreports/reports/061/S61362.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>circular fireball slowly flew over meWent out for a cig and even though i live under two flight paths i know what i saw it was not a plane. it started to my right and went right across my view, as it passed i thought i saw a little debris like red coals from a fire flashing behind it.it flew to my left untill it was so far i couldnt see it anymore. to long and bright to be a shooting star. ????????????((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73480.html](http://www.nuforc.org/webreports/reports/073/S73480.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
