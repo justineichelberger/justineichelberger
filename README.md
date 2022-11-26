@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:45 on 26 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:45 on 26 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Buena Park (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Brigh orange light seen in the sky over Orange County, CaliforniaI noticed the object moving in a North East direction.  It was a solid deep orange color. No flashing lights. The Object moved quickly in North East direction then stopped and changed direction to the south. Then quickly stopped again and did not move, it just hovered for about a minute. The light changed color to a white then dimmed a bit then disappeared completely.  It did not move again out of site it just disappeared.The light of this object was very bright and was not lit like an aircraft. It did not move like an aircraft. It was too bright to be satellite and satellites move in a large arc path.Could anyone tell me what this may have been?.I did film object with video camera((NUFORC Note:  The planet, Mars, would be in the eastern sky, at the time indicated, but if the object, in fact, moved, as reported above, clearly, it could not have been that planet.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60048.html](http://www.nuforc.org/webreports/reports/060/S60048.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Yellow aura around bright red center low in sky and lossing the aura to then grow faint and rise up in the sky to vanish completly.Single Cherry-red glowing center, fairly large for distance of object, not like a planes blinking red lights. Surrounded by a yellow-orange glow.I'm on an outdoor deck looking East in San Francisco in the Marina District.It came slowly through airspace, from NE to SW, pretty low in sky from my stand point.Went behind building for a few seconds still coming toward my general direction, and reappeared as I moved to corner of deck to meet it, sight wise, and watched the yellow glow disappear and the red center part get smaller - it seemed to now be going up into the sky and quickly vanished. I looked hard for a remnant of a faint light but there was nothing.I thought maybe behind a cloud but then realized I could see many and vast stars all in the area it vanished in - so this would rule out cloud cover.Very odd sighting.In summary; it seemed to be fairly low in the sky moving generally toward me. One glowing cherry-red center and an orange-yellow halo which diminished over time to vanish all together, and then the red center grew faint quickly and it vanished from all sight completely; seemingly moving in an upward flight into the atmosphere. No trace of any light could be seen, I could see stars. But nothing at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85503.html](http://www.nuforc.org/webreports/reports/085/S85503.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
