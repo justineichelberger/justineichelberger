@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:06:45 on 26 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:38 on 26 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Mount Holly (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large circle of light flying noiselessly in a straight line at a fair rate of speedAt about 22:15 my wife and I pulled up into our driveway in Mount Holly, North Carolina and was going into the house when we noticed a large orange light flying across the sky above the trees at a fair rate of speed.  It was very bright and it appeared lower and closer than the typical plane traffic we see from the airport.  It was also flying in a different direction (East) than planes we  normally see.  I was so fascinated that I almost forgot to take a photo, but was able to get a quick photo with my phone before it went out of sight, but unfortunately it was quite a distance away.  The interesting thing was there was no noise at all, totally quiet.  It appeared as a circle to us, but we zoomed in on the photo it appeared to be a rectangle with four sides  visible.  There was light cloud cover and it almost looked like a typical moon in a light cloudy sky.  There were no flashing lights and it appeared to be juste one single light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151118.html](http://www.nuforc.org/webreports/reports/151/S151118.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Marysville (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Numerous "fireballs" moving from SSW to NNE.At approximately 5:30 P.M., I happened to be in the driveway of a relative's home and happened to look to the west and saw an unusual cluster of "fireballs" moving at a fairly rapid pace out of the SSW.  The objects were more than 1000 ft. high but lower than a passenger aircraft would fly at cruising altitude.The objects were a deep red color. There were more than 12, and I counted at least 16.  They did not appear to be moving in a particular formation and some were slightly higher than others.  The objects did not flicker but did appear brighter on the leading edges of the objects.  They were not perfectly circular. There was no noise and no other aircraft observed in the area.As I recall, the winds were calm and sky was clear.  The sun had set, but it was still twilight. The objects continued toward the NNE and disappeared out of sight after approximately 2-3 minutes.I have seen so-called Chinese lanterns before, but these were very unusual, as they appeared to be brighter on the 'leading' edges.  I doubt these would have been flares since it was a holiday weekend and there are no nearby military bases.I did take photos, and the quality isn't great, but one can discern the color and shape of the objects.  Several other family members also observed but we could not conclude what we had seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111756.html](http://www.nuforc.org/webreports/reports/111/S111756.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
