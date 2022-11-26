@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:35 on 26 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:38 on 26 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Utica (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Blue Light Flash Of Light & White LightLast night, I looked out the front window to check for the cat, & noticed a Blue Flash of light About a min later, I checked the back window & seen a White Light on the back fence outside right next to the window it was shining on the inner side & top I checked the back yard it was dark I checked the front seen nothing I was going to record it but then the light started to move & it was gone.  The light must have been over my house.PS:  The light in the dining room where the back window is was off & was not headlights I & my family have witnessed UFOs & aliens since around 1975 & still to this day.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Hoax??  PD))((NUFORC Note:  One of 25 reports from same source.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137454.html](http://www.nuforc.org/webreports/reports/137/S137454.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Spring Lake Park (MN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>i would call it a sunlike sphereI'am not sure what this was it was about 17:00 and my son ani where walking dog when i happenedto look up and i saw this sphere moveing across the sky from the NW.to the SE.at first i thought it was a low orbit sattalite there no red /green lights or blinking lights but then i saw a smaller one trailing the bigger one it wa just one bis light with a smaller one folling it((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74346.html](http://www.nuforc.org/webreports/reports/074/S74346.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
