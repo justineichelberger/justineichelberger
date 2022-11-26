@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:35 on 26 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:42 on 26 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lyndonville (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>A white filled circle, half the size of a full moon, appeared over Lake Ontario, north of Lyndonville, NY. I reappeared 5 more times.On  Saturday, November 26, 2011.  Awaking around 4:45 am, I decided to go outside and check out anything that might be happening in the sky.  I was looking directly north over the shoreline of Lake Ontario, on the New York state side, approximately 30 miles west of Rochester, NY.  A white filled circle appeared directly north, 45 degree angle from the water surface, through a very light cover of clouds over the lake.  Quite large in size, half the size of the full moon, it was displayed for 4 seconds or so, it didn't move in the sky, no noise, and no flashing lights, then the circle disappeared.It reappeared to the right (east) again, the distance of two times its diameter, same size, same distance from the water, then went out.  This occurred 2 more times and there was nothing.  I decided to flash my high powered light, no response.I continued to look to the north only to have this happen again, farther to the east, approx. half mile around 5 minutes later (5:20 am).  Only one display of this white filled circle. The position over the water was the same.I continued to watch until it happen again, 5:30 am, back where it was originally started.  Again same size, same display time and position over the water, no noise or flashing lights but only one display and no more. I continued watching for another hour or so until the sun started to show itself.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107714.html](http://www.nuforc.org/webreports/reports/107/S107714.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Venice (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 19:27-20:14 - 19:27-20:14 minutes.</sub><blockquote><sub>UFO spotting in Venice lightsI observed a light that seemed to move and change color almost ranging from a circle to a triangular shape.  I then asked my father to come outside to observe he said it is a planet that is visible recently has been there for at least a week.  I was not convinced because I witnessed horizontal and vertical movement of light.  Although it seemed to be in the same place for around 30 minutes, I recorded video when it's zoomed you can see the movement. To be sure it was moving I took a photo of light with my phone resting on a wall and marked the wall to be sure each photo was taken at the exact same position.  This proved movement.  I went in my fathers house for 10 minutes or so and the light was gone.  I walked approximately 50 feet to me vehicle and observed the light in a new position over a home.  At this point movement and color change from greens,blue,red and yellow were visible with the naked eye.  Then it quickly disappeared upward out of sight.  In addition! during the whole time 3 airplanes were visibly flying near object, and circled multiple times.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131487.html](http://www.nuforc.org/webreports/reports/131/S131487.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
