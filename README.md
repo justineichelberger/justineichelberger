@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:29 on 26 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:26:48 on 26 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Meriden (CT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Giant light falls from the sky.I was sitting on my front step in South Meriden at between 6:00pm and 6:15pm, facing north when I saw a large bright fireball shoot straight down out of the night sky.  It looked like it may have landed near Meriden Square or the mountains near there.  My first thought was that it was a missle but there was no explosion.  The sky was too hazy for me to have seen a meteorite from that distance.  It was definitely too large to be a meteorite, and if it was we would have heard or felt it hit the ground.  Very alarming!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124405.html](http://www.nuforc.org/webreports/reports/124/S124405.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Brenham (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Oval, very dark with faint gold light, appeared to be spinning, gyrating, motion as it moved silently away.Wednesday 26 November 2014 0530 a.m.I had just walked out the back door of my house to drive to work.  As I turned around after locking door, I noticed an odd light in northwest night sky, about 80 degrees above horizon, and about the size of a full moon. The object was very dark with a faint amber golden light and appeared to be spinning.  The movement of this object did not appear to be a straight steady line but more of a gyrating motion as it moved away.  There was no sound, just the sighting which lasted about 15-20 seconds.  The sky was clear, winds from the southwest at about 8 m.p.h. and temperature about 48 degrees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115684.html](http://www.nuforc.org/webreports/reports/115/S115684.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
