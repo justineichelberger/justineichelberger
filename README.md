@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:42 on 26 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:29 on 26 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Chicago (near) (IL) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Thanksgiving -  spade shaped object with 10-15 red lights below the cloud overcast and above the tree line.I had just walked into my family's living room for thanksgiving.  After saying hello to everyone I sat down on the couch and looked out the window.  It was an overcast sky so the object I saw was definitely not a plane because it would have been too low.  The object looked like a teardrop shape, almost a spade shape, made up completely of red lights (Probably a good 10-15 red lights around the edge and in the center, symmetrical though.)  It seemed rather large.  It was below the clouds but above the tree line and houses.  The lights did not blink or flash or move formation.  The object hovered there for a second then slowly began descending.  As I was about to get everyone's attention to look outside because I thought I was losing my mind, the craft slowly disappeared behind the tree line and houses.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73568.html](http://www.nuforc.org/webreports/reports/073/S73568.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Meriden (CT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Giant light falls from the sky.I was sitting on my front step in South Meriden at between 6:00pm and 6:15pm, facing north when I saw a large bright fireball shoot straight down out of the night sky.  It looked like it may have landed near Meriden Square or the mountains near there.  My first thought was that it was a missle but there was no explosion.  The sky was too hazy for me to have seen a meteorite from that distance.  It was definitely too large to be a meteorite, and if it was we would have heard or felt it hit the ground.  Very alarming!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124405.html](http://www.nuforc.org/webreports/reports/124/S124405.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
