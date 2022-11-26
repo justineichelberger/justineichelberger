@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:33 on 26 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:37 on 26 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Spearfish (SD) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>&quot;classic&quot; saucerWe saw a bright light in SW sky, much brighter than stars.  When I got out a spotting scope you could see it was strobing colors.  When I put it on highest power it was clearly a flattened disk with different colored lights on edges.  I went outside to take a picture and it had dropped 15 to 20 degrees and now sat right on the horizon.  This was a matter of a minute or two at most.  It was in the clouds and I couldn't get a picture.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131541.html](http://www.nuforc.org/webreports/reports/131/S131541.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Dennisport (MA) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>We heard a sound, then a colorfful object shot out the sky.  The object was a disk with green, red, yellow, blue and purple.While walking up my stairs, me and my friend heard a sound like airplane crashing.  We looking towards the trees, and noticed a red and yellow light.  My friend believed it was a airplane.  We waited a few seconds, and the light got bigger, then we relived it was not a plane because it was a also green, blue, and purple.  When the light got closer, the street lights helped us make out the shape of the object.  It was a sideways disk.  As i went to take my phone out the object made a loud sound and shot to the ground.((NUFORC Note:  We suspect an evening sighting, and have amended the time above to reflect that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104798.html](http://www.nuforc.org/webreports/reports/104/S104798.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
