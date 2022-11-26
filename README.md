@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:26:48 on 26 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:06:45 on 26 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Brenham (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Oval, very dark with faint gold light, appeared to be spinning, gyrating, motion as it moved silently away.Wednesday 26 November 2014 0530 a.m.I had just walked out the back door of my house to drive to work.  As I turned around after locking door, I noticed an odd light in northwest night sky, about 80 degrees above horizon, and about the size of a full moon. The object was very dark with a faint amber golden light and appeared to be spinning.  The movement of this object did not appear to be a straight steady line but more of a gyrating motion as it moved away.  There was no sound, just the sighting which lasted about 15-20 seconds.  The sky was clear, winds from the southwest at about 8 m.p.h. and temperature about 48 degrees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115684.html](http://www.nuforc.org/webreports/reports/115/S115684.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Mount Holly (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large circle of light flying noiselessly in a straight line at a fair rate of speedAt about 22:15 my wife and I pulled up into our driveway in Mount Holly, North Carolina and was going into the house when we noticed a large orange light flying across the sky above the trees at a fair rate of speed.  It was very bright and it appeared lower and closer than the typical plane traffic we see from the airport.  It was also flying in a different direction (East) than planes we  normally see.  I was so fascinated that I almost forgot to take a photo, but was able to get a quick photo with my phone before it went out of sight, but unfortunately it was quite a distance away.  The interesting thing was there was no noise at all, totally quiet.  It appeared as a circle to us, but we zoomed in on the photo it appeared to be a rectangle with four sides  visible.  There was light cloud cover and it almost looked like a typical moon in a light cloudy sky.  There were no flashing lights and it appeared to be juste one single light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151118.html](http://www.nuforc.org/webreports/reports/151/S151118.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
