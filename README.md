@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:42 on 26 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:35 on 26 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Wake Forest (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Just saw something really weird.  6 to 8 orange light traveling east to west.  They seemed to be less than 1000 ft in altitude.  Traveled in pairs.  They made no noise and traveled in a constant  speed.  Thinking maybe they were Chinese lanterns, but there was no wind.  They flickered as on fire.  Kind of cool.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124387.html](http://www.nuforc.org/webreports/reports/124/S124387.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Apache Junction (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Silent, bobbing flaming orb.On Tuesday, November 26, 2013, at about 7:05 pm, my friend and I witnessed what looked like a flaming orb to the south of East Main St. in Apache Junction, AZ.   It was maybe 1/8 mile away and moving from east to west.  We watched it for about 30–40 seconds before it disappeared behind taller buildings in the area so it might have only been about 100 feet in the air.  It appeared to be orange in color and and flickered as if it were on fire.  The way it seemed to burn was like a marshmallow, a slow lazy flame.  As it moved it seemed to bob up and down as if it were “riding the waves”. At first, I thought it was a power surge on the power lines but as the power lines switched directions, it continued the same.  There was absolutely no sound related to this!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104801.html](http://www.nuforc.org/webreports/reports/104/S104801.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
