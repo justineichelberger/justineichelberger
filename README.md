@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:44 on 27 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:46 on 27 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Belton raymore (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Red green white Light blinking and twinkling  in sky  hovering about a mile up in clear skyA twinkling red green white light hovering  in morning sky traveling south West of  71 hwy</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160802.html](http://www.nuforc.org/webreports/reports/160/S160802.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Anacortes (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Bright white diving light, accompanied by other lights that changed color.My two children and I were driving home and my daughter and I saw a white ball diving down towards the earth, REALLY REALLY fast.  When we got to the spot where it would have crashed we saw a bright, white, blinking light where none had been before.  As we were talking about it it stopped blinking, then 3 popped on and were moving around above the trees.  I had to look forward to drive, but my daughter said one of the lights turned purple and another one turned green. Thanks</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48092.html](http://www.nuforc.org/webreports/reports/048/S48092.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
