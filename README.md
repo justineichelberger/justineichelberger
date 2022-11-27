@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 27 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:43 on 27 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Paso Robles (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>anouther light like object hoovers over paso robles caafter i saw and reported the first ufo i seen,i went for a walk to try and find the 3 eyewitneses i pointed the craft out to eairlier,i could not find them.but on the way home i began to see several light like crafts moving back and forth in the sky,i was close to home,so i got my phone to call the police once again.then i looked up and seen the craft above our park across from my home,i ran to the park and pointed it out to a bunch of skatters and phoned the police.the police officer came and seen the craft with his own eyes,and the ksby tv news is going to call me tomarow and posibly run a story on it.i cant believe i seen a ufo twice in one day,and the second time was able to produce eyewhitneses to verify my sighting.unreal</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48097.html](http://www.nuforc.org/webreports/reports/048/S48097.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Republic of Ireland () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Alien sighting.Me and my friend were around 12 years of age it was a cloudy yet nice day outside,we were messing about near sommerville swamp (in our estate) and my best friend climed up on some bricks possibly left over from the builders and was looking out on the swamp and said to me that it was a lovley view,then i got up on the bricks too and as soon as i got up she started to shout "oh my god what ((deleted)) is that" so then i asked her what was wrong then she started pointing to it to show me where to look but i told her i didnt see anything,so then i looked closer and a saw a big tall figure walking cruckedly on the swamp (yes on the water) it was silver and black and it looked as if its  finger were dislocated because its top half of its finger/hand was silver then a space of black in between then the bottom of its finger was silver and so its body continiued (a space of black at each joint).so then i started to scream "holy ((deleted))" and then it turned its head twords me and stared at me and it was at that moment that i ran for my life,but then i realised that my friend was still staring at it so i went back to get her .we went to my house and talked about what we saw. we told a few people but none believed us.Oh and to back up my story the day before this incident we were still near by the place of the incident and it was dark already since it was apx.8:30 (winter)and as the car acending from the cliff near our estate the lights from the car must have reflected off the wall coz my friend said she saw something walking cruckedly.so whatever that thing was it was there that night. I have never been so scared in my life ever before.i also remember that thing had a smaler looking creature behind that looked something like a dog.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44168.html](http://www.nuforc.org/webreports/reports/044/S44168.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
