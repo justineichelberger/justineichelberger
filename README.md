@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:17:49 on 27 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:56 on 27 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Wakonda (SD) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Five orange lights in stair-step pattern appear over Southeast South Dakota.We live in the country near Wakonda, SD.  I was out on our county road walking our dog when I looked up and noticed a bright orange light in the Western sky.  Then immediately, another orange light appeared to the right of the first light.  They faded out and that was it.  This took about 5 seconds.  This was at about 6:50 PM on 11/27/12.I then went into the house and told my wife about it.  Ten minutes later I decided to go back outside to see if I could see anymore lights.  I looked in the same area to the West and once again, the lights appeared but this time the first light appeared in the South then four more appeared to the right in an upward stair-step pattern; each light would fade as another appeared.  This second sighting lasted maybe 10 seconds.Later on that night, my wife and I drove West about 3 miles to see if we could see anymore activity but we didn’t see any more.(This isn’t the first time we’ve seen these orange lights.  We’ve seen them on two different occasions during the past 5 years.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95082.html](http://www.nuforc.org/webreports/reports/095/S95082.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Kenmore (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bird or UFO?I don't know if it was a bird, but i noticed a shiny black circle thing in the sky then it suddenly turned tiny and swooped down in an incline then went across the sky as a tiny black dot  not really sure what i saw((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131492.html](http://www.nuforc.org/webreports/reports/131/S131492.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
