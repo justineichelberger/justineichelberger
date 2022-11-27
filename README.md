@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:38 on 26 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:34 on 27 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Spring Lake Park (MN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>i would call it a sunlike sphereI'am not sure what this was it was about 17:00 and my son ani where walking dog when i happenedto look up and i saw this sphere moveing across the sky from the NW.to the SE.at first i thought it was a low orbit sattalite there no red /green lights or blinking lights but then i saw a smaller one trailing the bigger one it wa just one bis light with a smaller one folling it((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74346.html](http://www.nuforc.org/webreports/reports/074/S74346.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Everett (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>An object resembling a satalitte moving north, changes directions and heads straght up and fades into the sky.I went out about 1845 and noticed a satilitte moving across the sky moving from south to north, I thought that was strange, I wasnt sure if satilites moved in the direction. I figured that they must and went in and forgot about it. About 30min. later I heard some people outside and decided to check it out. I watched the children that were making the noise and before going inside I looked up and noticed another similar light moving in the same direction but it was a little further west than before. As I watched it I saw it go from a south-to-north direction, into a more norteastern direction, but it was soon evident that the object wasnt moving northeastern, it was gaining altitude. It only lasted a few seconds before it dissapeered into the sky going almost straight up. The light was the same color as the rest of the stars and about the same intensity as the most intense stars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40803.html](http://www.nuforc.org/webreports/reports/040/S40803.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
