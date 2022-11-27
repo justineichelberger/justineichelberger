@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:34 on 27 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:14 on 27 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Everett (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>An object resembling a satalitte moving north, changes directions and heads straght up and fades into the sky.I went out about 1845 and noticed a satilitte moving across the sky moving from south to north, I thought that was strange, I wasnt sure if satilites moved in the direction. I figured that they must and went in and forgot about it. About 30min. later I heard some people outside and decided to check it out. I watched the children that were making the noise and before going inside I looked up and noticed another similar light moving in the same direction but it was a little further west than before. As I watched it I saw it go from a south-to-north direction, into a more norteastern direction, but it was soon evident that the object wasnt moving northeastern, it was gaining altitude. It only lasted a few seconds before it dissapeered into the sky going almost straight up. The light was the same color as the rest of the stars and about the same intensity as the most intense stars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40803.html](http://www.nuforc.org/webreports/reports/040/S40803.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Oxnard (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange planet orb.I noticed the large orange orb over the ocean while my boyfriend was driving.  I told him to look over at it and he immediately pulled over to check it out.  The object was bigger than the size of the moon and sun.  We watched the neon orange object change shape and gradually disappear into the ocean.((NUFORC Note:  We suspect that the sighting occurred at night, and have changed the time above.  The witness provides no contact information, so we are unable to contact her to confirm the time.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115670.html](http://www.nuforc.org/webreports/reports/115/S115670.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
