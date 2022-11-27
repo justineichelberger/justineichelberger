@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:28 on 27 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:25 on 27 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in El Paso (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A noiseless, round object with colorful bright lights, hovering in the desert of northeast El Paso Tx. by McGregor Range.On November 27th 1987 I was out in the desert, northeast of El Paso Tx. close to McGregor Range.  I saw an object hovering to the south of my location.  The object did not make any noise and it had different colored lights on it.  The lights were going in circles around the object.  The object appeared to be round and appeared to be large. As I watched the object hover it proceeded further east slowly and then moved west slowly, and in a split second it headed into the sky at a very high rate of speed.  I could no longer see it, and it left no trail, nor noise.  I have never reported this to anyone, because I was always afraid of ridicule.  Only people who have seen something like it will believe me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42265.html](http://www.nuforc.org/webreports/reports/042/S42265.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Kenmore (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bird or UFO?I don't know if it was a bird, but i noticed a shiny black circle thing in the sky then it suddenly turned tiny and swooped down in an incline then went across the sky as a tiny black dot  not really sure what i saw((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131492.html](http://www.nuforc.org/webreports/reports/131/S131492.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
