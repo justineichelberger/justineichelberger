@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:48 on 27 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:44 on 27 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in West Hills (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>UFO sighting over main streetI was driving down a main street in West Hills when I saw a chevron shaped flat object flying above the street, a bit further down the road. I slowed down to watch it as it flew about, vanishing and reappearing before my eyes two or three times.  It was about a yard wide, and wasn’t very far from the ground, perhaps 30 or 40 feet.  On one side the lights were red and white, and on the other they were blue and purple. The UFO would flip over in a spinning motion, showing that it was flat when it did so, and revealing the colors on the other side.  It flipped consistently and very gracefully, moving unlike anything the two witnesses have ever seen on earth. It flew in circles above the street, flipping and spinning, until it darted too low to see, about 10 minutes after I had come upon it.  It was very pretty to watch, and seemed unlike anything on Earth.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79074.html](http://www.nuforc.org/webreports/reports/079/S79074.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Lake Charles (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Was at bridge and green oval orb shot pass me above then disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131485.html](http://www.nuforc.org/webreports/reports/131/S131485.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
