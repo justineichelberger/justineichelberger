@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:44 on 27 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:43 on 27 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Lake Charles (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Was at bridge and green oval orb shot pass me above then disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131485.html](http://www.nuforc.org/webreports/reports/131/S131485.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Bear (DE) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three of us witnessed a orange, glowing, round object, that was soundless, and moved slowly accross the sky from the south to the northDriving home from Thanksgiving gathering, we just pulled into our development.  As we approached the stop sign, my son and I witnessed a round ball shaped object with an orange, glowing, burning, center. (It was  the shape of a basket ball or a beach ball with a flame in the middle).  To our amazement, we stopped the car at the stop sign and got out of the vehicle; at that time it was low in the sky but not too far away.   We estimate it was only about 500 feet in the air.  My wife then also got out of the car (she was in the back seat).  At first, she thought we were looking at something in the road, but she saw us looking up at the object.  It traveled slowly, with no noise, and continued on a straight line path and gradually increased in altitude.  We watched it for 5 minutes until it disappeared.  By the time it disappeared, it was extremely high in the sky.  It traveled from the south to the north.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67198.html](http://www.nuforc.org/webreports/reports/067/S67198.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
