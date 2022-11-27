@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:14 on 27 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:29:49 on 27 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Oxnard (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange planet orb.I noticed the large orange orb over the ocean while my boyfriend was driving.  I told him to look over at it and he immediately pulled over to check it out.  The object was bigger than the size of the moon and sun.  We watched the neon orange object change shape and gradually disappear into the ocean.((NUFORC Note:  We suspect that the sighting occurred at night, and have changed the time above.  The witness provides no contact information, so we are unable to contact her to confirm the time.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115670.html](http://www.nuforc.org/webreports/reports/115/S115670.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in  (OH) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately  -  minutes.</sub><blockquote><sub>((NUFORC Note:  The program alluded to below was not a "documentary" about an event, but rather a work of fiction by a major television company, that is becoming known for these types of hoaxes.  One of many giveaways about the nature of the program was the fact that credits were provided at the end for the actors who played the aliens.  Also, the aliens, who were captured on film by security cameras, seemed perplexed by the nature of the mounted security camera, or its lens.  I presume that any creature capable of traveling between stars would not be confused by the concept of a lens, or of a camera.  PD))Lake County Alien abduction 1997I don't know how to ut this in words - I will try- I saw a disturbing tape of 12 people disappearing - Stanton Friedman was narrator - I taped both segments of program - @nd part of tape was enhanced because the first part of tape had a lot of en=interferance in between taping - Tom who is 16 teen was taping thanksgiving with the family and friends' Rosie age 5 - tom age 16 - Roslyn qage 53 - Kurt 28 - Linda 25 - Mathew Wilson age 30 and a couple of more - On the tape it showed investigateing the noise outside - lights in the house going off - while outside - fuse bojxe burning - ekectrical tower exploded in the field - they went to investigate - Saw a craft - Alien disecting a cow with a lazer gunn  disecting a cow - Alien saw them - started running - shot one of them with lazer gunm -balls of light coming through front door - gun in car melted down - engine melted down - nose bleeds - alien outside the house climbed up to secound floor window - Electrical equipent going on and off in living room and kitchen.- Tom showed they all had this triangle red mark in the back of their shoulder.Enhancement of the video showed them going up stairs to the bedroom when a lazer gun was shot through the door - one of them shot the Alien - Big piece of furniture put it against the bed room door.Tis is not a hoax - it is a disturbing video to watch - All these people are missing  - I have been trying for a couple of years to get someone to look into this -to take notice - I have the video - What is going on????? Please try to find out what is going on.Thank you</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24425.html](http://www.nuforc.org/webreports/reports/024/S24425.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
