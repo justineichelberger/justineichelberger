@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:41 on 27 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:39 on 27 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Falcon (north of) (CO) reported seeing craft that fit the description of some '' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Elliptical flash.At dusk I saw a brief flash low, just above the horizon.  It was in the shape of a horizontal ellipse.  It was bright silver but did not appear to be an object. It was much larger than the stars appear, roughly a quarter the size of the moon, but I'm not sure of the distance.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115708.html](http://www.nuforc.org/webreports/reports/115/S115708.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Paso Robles (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>anouther light like object hoovers over paso robles caafter i saw and reported the first ufo i seen,i went for a walk to try and find the 3 eyewitneses i pointed the craft out to eairlier,i could not find them.but on the way home i began to see several light like crafts moving back and forth in the sky,i was close to home,so i got my phone to call the police once again.then i looked up and seen the craft above our park across from my home,i ran to the park and pointed it out to a bunch of skatters and phoned the police.the police officer came and seen the craft with his own eyes,and the ksby tv news is going to call me tomarow and posibly run a story on it.i cant believe i seen a ufo twice in one day,and the second time was able to produce eyewhitneses to verify my sighting.unreal</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48097.html](http://www.nuforc.org/webreports/reports/048/S48097.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
