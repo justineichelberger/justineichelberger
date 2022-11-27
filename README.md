@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:43 on 27 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:48 on 27 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Republic of Ireland () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Alien sighting.Me and my friend were around 12 years of age it was a cloudy yet nice day outside,we were messing about near sommerville swamp (in our estate) and my best friend climed up on some bricks possibly left over from the builders and was looking out on the swamp and said to me that it was a lovley view,then i got up on the bricks too and as soon as i got up she started to shout "oh my god what ((deleted)) is that" so then i asked her what was wrong then she started pointing to it to show me where to look but i told her i didnt see anything,so then i looked closer and a saw a big tall figure walking cruckedly on the swamp (yes on the water) it was silver and black and it looked as if its  finger were dislocated because its top half of its finger/hand was silver then a space of black in between then the bottom of its finger was silver and so its body continiued (a space of black at each joint).so then i started to scream "holy ((deleted))" and then it turned its head twords me and stared at me and it was at that moment that i ran for my life,but then i realised that my friend was still staring at it so i went back to get her .we went to my house and talked about what we saw. we told a few people but none believed us.Oh and to back up my story the day before this incident we were still near by the place of the incident and it was dark already since it was apx.8:30 (winter)and as the car acending from the cliff near our estate the lights from the car must have reflected off the wall coz my friend said she saw something walking cruckedly.so whatever that thing was it was there that night. I have never been so scared in my life ever before.i also remember that thing had a smaler looking creature behind that looked something like a dog.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44168.html](http://www.nuforc.org/webreports/reports/044/S44168.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in West Hills (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>UFO sighting over main streetI was driving down a main street in West Hills when I saw a chevron shaped flat object flying above the street, a bit further down the road. I slowed down to watch it as it flew about, vanishing and reappearing before my eyes two or three times.  It was about a yard wide, and wasn’t very far from the ground, perhaps 30 or 40 feet.  On one side the lights were red and white, and on the other they were blue and purple. The UFO would flip over in a spinning motion, showing that it was flat when it did so, and revealing the colors on the other side.  It flipped consistently and very gracefully, moving unlike anything the two witnesses have ever seen on earth. It flew in circles above the street, flipping and spinning, until it darted too low to see, about 10 minutes after I had come upon it.  It was very pretty to watch, and seemed unlike anything on Earth.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79074.html](http://www.nuforc.org/webreports/reports/079/S79074.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
