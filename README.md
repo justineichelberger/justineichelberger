@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:38 on 27 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:42 on 27 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Jackson (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>Showed up on downloadNot sure if this is anything , but was out taken some pictures and took one of the clouds passing the sun , didn't think much of it till I downloaded to my computer and what caught my attention was I could see the clouds in front of this object , but didn't see it with the naked eye , the camera is a HP photosmart 850 that I have taken well over a 1000 pictures with and never had anything show up that wasn't there .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40800.html](http://www.nuforc.org/webreports/reports/040/S40800.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Eden (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright object hovering for more than a hour direction East of my houseVery bright somewhat light pulsating, bright to slightly dimmer. No movement just stayed stationary. I finally went back to bed</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160852.html](http://www.nuforc.org/webreports/reports/160/S160852.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
