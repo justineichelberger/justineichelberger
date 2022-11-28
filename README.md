@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:30 on 28 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:35 on 28 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mountlake Terrace (WA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Yellow/red strange lights in V shape.Started as a line of 3 lights with a forth appearing to the right.  Lights shifted with some increasing in height.  At times shape appeared in a V, the a square.  Lights quickly disappeared then re-appeared on top and next to each other.  I obtained pictures and as a recording.  Most of the time there were three large ones with fainter lights then appears with 7 at most.  Lights would disappear immediately, most simply hovered, but would elevate and then drop back to the horizon.  I was able to get images that included aircraft versus lights and street lights, all clearly very different than the lights in question.  Not all lights would show on camera and video.  Upon zooming other lights I didn't see by eye did show, I believe these may have been aircraft in the distance approaching the lights.  Lights appeared to be toward Seattle area but not directly over the city which is 20 miles south of me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115719.html](http://www.nuforc.org/webreports/reports/115/S115719.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>In my opinion, I witnessed a metor fall from the sky and impact the ground west of Colorado Springs.Coming home from a Thanksgiving meal shared with friends, I was headed west from Colorado Springs toward the mountains. At the intersection of Cenntennial and Allegeny, I witnessed a neon green circle followed by an orange fire trail dropping straight down from the sky at my 11 o'clock.Upon impact in the foothills, the mountain lit up briefly with a flash of green light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26310.html](http://www.nuforc.org/webreports/reports/026/S26310.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
