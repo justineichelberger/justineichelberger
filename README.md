@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:28:46 on 28 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:11:15 on 28 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Conshohocken (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately :30 - :30 minutes.</sub><blockquote><sub>Extremely fast moving  v-shaped object.  Appeared to be a v shaped short chem-trail moving directly south.  Object moving too fast to be a cloud.  No lights other than the reflection of the moon light.((NUFORC Note:  Witness elects to remain totally anomymous; provides no contact information.  We suspect that the sighting occurred during the evening, and we have changed the time above.  We have no means of contacting the witness to confirm the time.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115685.html](http://www.nuforc.org/webreports/reports/115/S115685.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Marysville (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Facing west and looking upward at about a 60 degree angle, I noticed a perfect equilateral triangle of what appeared to be stars, but then these "stars" started to flatten out their triangular configuration until they were in a straight line.At that point, the leftmost light moved in a straight line away from the other two lights heading toward the southeast.  Definitely NOT typical star behavior!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115682.html](http://www.nuforc.org/webreports/reports/115/S115682.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
