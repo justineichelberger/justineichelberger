@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:33 on 28 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:31 on 28 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Greensburg (IN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>family returning from holiday trip witnesses a bright yellowish green fireball falling from the sky near the interstate 74 interchange at greensburg ind. at around 20:30</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11247.html](http://www.nuforc.org/webreports/reports/011/S11247.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Nokomis (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>7 fiery spheres  in the same orbit, in succession from north, appearing to head south, turned abruptly  west over the Gulf of Mexico..while watching the 8:00pm evening sky, facing west, on the Gulf of Mexico, out of the north coming out from behind tall trees, were 7 fiery spheres that appeared to be all in the same orbit,but spaced  not too far apart from the next one, but seemed low enough so that it looked like it could be a local  plane coming in to land at the Venice Airport.....but with no sound whatsoever from any of them, as they all came in succession, yet as they passed, instead of continuing to head southeast to the airport, these spheres that were very bright turned away and headed west/southwest and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114029.html](http://www.nuforc.org/webreports/reports/114/S114029.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
