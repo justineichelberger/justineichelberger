@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:28 on 28 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:28 on 28 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Tecumseh (Canada) (ON) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Whitish Grey Diamond Shaped UFOsWe were looking up at the night sky with binoculars.  I was told to point them towards a plane, then I heard my fiance say whats that, just as something flashed across the lenses...  I was able to follow it and with the binoculars I witnessed 5 diamond shape objects flying in unison like a flock of birds, but there was no wings and the shapes were whites grey  almost opaque.  No lights flashing, thats why I'm still hesitant about spreading the word...  It couldn't have been birds??  It was almost as if they were connected because the way they maneuvered, the space between them did not get larger or smaller.  I lost them through the binoculars and when I put them down they were out of sight.  Very weird object indeed!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67245.html](http://www.nuforc.org/webreports/reports/067/S67245.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Tazewell (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Was walking dog looked up at sky what i thought was a satellite it was joined by three more lights.  Yellow amber reddish in color.  Flying from east to west.  Floating type mivements like a bird but high speeds very high altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131551.html](http://www.nuforc.org/webreports/reports/131/S131551.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
