@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:27 on 28 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:22 on 28 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Romeo (MI) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 17.0 - 17.0 minutes.</sub><blockquote><sub>sighted object in northern sky that appeared not be moving.noticed object while preforming maintinance task on building roof top. at 45deg above the horizon in northern sky an object the size of a nail head at arms length caught my attenion . the object had no con. trail and appeared to be stationary. when aligned with a roof structure the object was clearly not moving east or west. assuming the object was moving away on a northerly course it was desmissed. viewing time about 10 min. after returning to the ground and exiting the building the object was sighted again in the same location in the sky. no con. trail,no motion. after viewing for serveral more moments it vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11398.html](http://www.nuforc.org/webreports/reports/011/S11398.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in McMinnville (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Bright whitish red light over cow pasture. McMinnville, TNI was driving home one night after hanging out with my friends.  I usually have a long drive home from town alone.  I always look at the sky when I can. I have a fascination with the stars and know where most of them will be when I look up.  But what was different about this star was that it was massive and bright.  It was white and had a faint red glow behind it.  It stayed in one spot for about 10 seconds.  I thought it may have been a spotlight from a plane.  But it was hovering over the cow pasture next to the road I was on.  By the time I had gotten a detailed look at it, the light did a loop and shot towards the mountain range in the distance.  It then flew upwards and was gone faster than anything I had ever seen or heard of.  I tried to debunk it the next night on my way home.  Maybe it was a reflecting light from behind me on the windshield.  But when I went back through I saw no reflecting lights.  It shook me to my core.  I believed in them, I just never thought I’d see one right in front of me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144173.html](http://www.nuforc.org/webreports/reports/144/S144173.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
