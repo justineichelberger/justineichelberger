@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:31 on 28 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:28 on 28 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Nokomis (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>7 fiery spheres  in the same orbit, in succession from north, appearing to head south, turned abruptly  west over the Gulf of Mexico..while watching the 8:00pm evening sky, facing west, on the Gulf of Mexico, out of the north coming out from behind tall trees, were 7 fiery spheres that appeared to be all in the same orbit,but spaced  not too far apart from the next one, but seemed low enough so that it looked like it could be a local  plane coming in to land at the Venice Airport.....but with no sound whatsoever from any of them, as they all came in succession, yet as they passed, instead of continuing to head southeast to the airport, these spheres that were very bright turned away and headed west/southwest and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114029.html](http://www.nuforc.org/webreports/reports/114/S114029.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Pawleys Island (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Small orb moving in erratic patternsOur family was on the beach enjoying the evening when we noticed a light on the horizon. What drew our attention was the erratic movement of the small orb. It was white to orange in color. What drew our attention and held it was the erratic movement of the orb.  It would move left to right, up and down in jerky movement with no apparent rhythm or order.  It stayed in basically the sane location but would move in all directions and then come back.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151153.html](http://www.nuforc.org/webreports/reports/151/S151153.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
