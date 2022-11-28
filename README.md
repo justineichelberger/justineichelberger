@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:28 on 28 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:42 on 28 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Madison (AL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Green light in the sky around Madison, AL area Nov. 28th 2006On November 28th, 2007 around the time of 6:00pm central (not sure of the approximant time)  My family (Dad, step-Mom, and I) saw a green light shooting through the sky.  We were driving NE towards Huntsville, AL.  It was going the same direction to the left of us along interstate 565.  There were really low clouds that night and the object came down from the clouds, flew about 5 seconds, and went back up. I’ve never seen anything fly this fast in my life.  I couldn’t get a really good look at the shape, but it was glowing green.  It did not have a green streak behind it either.  It was flying too low to be a meteor or “space junk” as it was reported here in the Decatur Daily.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60358.html](http://www.nuforc.org/webreports/reports/060/S60358.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Mount Pleasant (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>5 parallelogram shaped lights in tight formation at high speed observed over  Mid-MichiganWhile sitting in our hot tub, identifying constellations, 5 lights in tight formation appeared high above. They were parallelogram in shape and one was not quite as clear as the others. They traveled at a high speed SE to NW. First they were went straight then near the end moved in an erratic motion while maintaining tight formation.  I lost them in the trees (leafless) and distance. Just as they were going out of view, a shooting star passed behind them from SSW to NNE giving me a contrast between the two sights.  While in awe watching the objects, I had the presence of mind to quickly review the constellations I was observing just prior as a sanity or presence of mind check. As a side note, I am an ex-pilot and ex-Air Traffic Controller.  These objects were not flying in any form we know.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60069.html](http://www.nuforc.org/webreports/reports/060/S60069.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
