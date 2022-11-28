@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:28 on 28 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:36 on 28 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Pawleys Island (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Small orb moving in erratic patternsOur family was on the beach enjoying the evening when we noticed a light on the horizon. What drew our attention was the erratic movement of the small orb. It was white to orange in color. What drew our attention and held it was the erratic movement of the orb.  It would move left to right, up and down in jerky movement with no apparent rhythm or order.  It stayed in basically the sane location but would move in all directions and then come back.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151153.html](http://www.nuforc.org/webreports/reports/151/S151153.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Mississauga (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A bright metallic object that looked like a sphere flew across the sky fairly slow.A bright metallic object in the shape of what appeared to be a sphere was spotted flying across the sky in the Woodlands area of Mississauga. The object was about the size of a golf ball held at arms length. The object appeared to be silver in colour and was reflecting sunlight off of it. The object travelled from south to north and simply disappeared in the blink of an eye.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11229.html](http://www.nuforc.org/webreports/reports/011/S11229.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
