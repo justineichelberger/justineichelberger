@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:22 on 28 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:30 on 28 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in McMinnville (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Bright whitish red light over cow pasture. McMinnville, TNI was driving home one night after hanging out with my friends.  I usually have a long drive home from town alone.  I always look at the sky when I can. I have a fascination with the stars and know where most of them will be when I look up.  But what was different about this star was that it was massive and bright.  It was white and had a faint red glow behind it.  It stayed in one spot for about 10 seconds.  I thought it may have been a spotlight from a plane.  But it was hovering over the cow pasture next to the road I was on.  By the time I had gotten a detailed look at it, the light did a loop and shot towards the mountain range in the distance.  It then flew upwards and was gone faster than anything I had ever seen or heard of.  I tried to debunk it the next night on my way home.  Maybe it was a reflecting light from behind me on the windshield.  But when I went back through I saw no reflecting lights.  It shook me to my core.  I believed in them, I just never thought I’d see one right in front of me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144173.html](http://www.nuforc.org/webreports/reports/144/S144173.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mountlake Terrace (WA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Yellow/red strange lights in V shape.Started as a line of 3 lights with a forth appearing to the right.  Lights shifted with some increasing in height.  At times shape appeared in a V, the a square.  Lights quickly disappeared then re-appeared on top and next to each other.  I obtained pictures and as a recording.  Most of the time there were three large ones with fainter lights then appears with 7 at most.  Lights would disappear immediately, most simply hovered, but would elevate and then drop back to the horizon.  I was able to get images that included aircraft versus lights and street lights, all clearly very different than the lights in question.  Not all lights would show on camera and video.  Upon zooming other lights I didn't see by eye did show, I believe these may have been aircraft in the distance approaching the lights.  Lights appeared to be toward Seattle area but not directly over the city which is 20 miles south of me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115719.html](http://www.nuforc.org/webreports/reports/115/S115719.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
