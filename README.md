@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:36 on 28 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:28 on 28 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Mississauga (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A bright metallic object that looked like a sphere flew across the sky fairly slow.A bright metallic object in the shape of what appeared to be a sphere was spotted flying across the sky in the Woodlands area of Mississauga. The object was about the size of a golf ball held at arms length. The object appeared to be silver in colour and was reflecting sunlight off of it. The object travelled from south to north and simply disappeared in the blink of an eye.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11229.html](http://www.nuforc.org/webreports/reports/011/S11229.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Madison (AL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Green light in the sky around Madison, AL area Nov. 28th 2006On November 28th, 2007 around the time of 6:00pm central (not sure of the approximant time)  My family (Dad, step-Mom, and I) saw a green light shooting through the sky.  We were driving NE towards Huntsville, AL.  It was going the same direction to the left of us along interstate 565.  There were really low clouds that night and the object came down from the clouds, flew about 5 seconds, and went back up. I’ve never seen anything fly this fast in my life.  I couldn’t get a really good look at the shape, but it was glowing green.  It did not have a green streak behind it either.  It was flying too low to be a meteor or “space junk” as it was reported here in the Decatur Daily.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60358.html](http://www.nuforc.org/webreports/reports/060/S60358.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
