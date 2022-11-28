@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:28 on 28 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:30 on 28 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Tazewell (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Was walking dog looked up at sky what i thought was a satellite it was joined by three more lights.  Yellow amber reddish in color.  Flying from east to west.  Floating type mivements like a bird but high speeds very high altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131551.html](http://www.nuforc.org/webreports/reports/131/S131551.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Saco (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately sw - sw minutes.</sub><blockquote><sub>Bright looking star in cloud cover and disappeared then later reappeared.I was with my son driving back home from Sanford.  It was mid morning, no rain, just partly sunny and cloud cover.  No planes in area or the moon.We were facing SW and he looked up in cloud cover.  In the center of the clouds.  A very bright star looking UFO appeared.  We both were looking at it off and on, about 1 minute.  I can tell it was "in" the clouds.  A few minutes later is just disappeared.  Like it moved backwards.  Then about 10 minutes with the same clouds, no change, it appeared again in the same spot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95156.html](http://www.nuforc.org/webreports/reports/095/S95156.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
