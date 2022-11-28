@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:22 on 28 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 28 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Providence (RI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Reddish blueish disk flying by my window slowly.I was laying down and outside my window I seen a disk with blues and red lights go by my window very slowly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143918.html](http://www.nuforc.org/webreports/reports/143/S143918.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Greensburg (IN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>family returning from holiday trip witnesses a bright yellowish green fireball falling from the sky near the interstate 74 interchange at greensburg ind. at around 20:30</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11247.html](http://www.nuforc.org/webreports/reports/011/S11247.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
