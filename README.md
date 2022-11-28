@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:23 on 28 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:26 on 28 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Calgary (Canada) (AB) reported seeing craft that fit the description of some 'Changing' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Cloud oddly changed formation, split in two and formed a light streak on a sunny, clear morning.Beautiful, clear, sunny morning sky....Looked outside kitchen window and thought it was strange to see in what appeared to be a very small cloud in the sky.  No other clouds could be seen.  Watched the shape change from circular to oval to oblong when the cloud broke into two in a matter of seconds!  The lower cloud appeared to light up like eletricity was running through it (similar to when you see lightning in the daytime).  The light then slowly left a trail heading downwards then hooked upwards leaving a impression of what looked like a fishing hook!  Then it slowly faded away!  Was not a vap trail as a few where visible at time of sighting!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124420.html](http://www.nuforc.org/webreports/reports/124/S124420.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Flash' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>lights in the middle of the ocean.......I was unable to tell the shape of the craft i was viewing, but i can assure that this object was stationary for well over 30 mins and is still there as i type this. me and my fiance have been at this same location for about a week now and this is the first time we have witnessed this light although the lights resembled a commercial aircraft the lights were continous in there placement over the ocean and would appear and disapear frequently. A bright flashing of red white and another unexplainable color were displayed but in more of a sequence of rotations around the object though it was to far away to determine the size, shape, or color of the craft im sure it was nothing commercial......we observed it for quite a while and it never moved and unbenounced to my knowledge there are no towers or structures with these lights that far out in the ocean or that high in altitude off the coast of south carolina....i just went and looked to see if the lights were still there but some substantial cloud cover has rolled in since i started typing this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40821.html](http://www.nuforc.org/webreports/reports/040/S40821.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
