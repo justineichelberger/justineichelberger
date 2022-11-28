@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:34 on 28 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:39 on 28 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Petersburg (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>its was 10:52 pm three brownish-orange circles with a dark center appeared in a triangular formation for around ten seconds.Three of my friends and I were laying down on a trampoline at one of the friend's house at 10:52 PM. It was a pretty moonlit night. We were all looking at the stars and then one person declares, "Oh my God!" In the sky, we see three circles, a brownish orange in color, flying from the north-west. The were in a triangular formation, flying equidistant from each other. In between the circles was black and whenever it passed a star, you were not able to see the stars. It was also noiseless.It lasted for around ten seconds before it disappeared in the south-east direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73520.html](http://www.nuforc.org/webreports/reports/073/S73520.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Alexandria (VA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>2 red/orange oval shapes hovering in air2 Oval shaped objects that appeared red / orange dropped from sky like small meteorites or jet in downward dive.  Their descent slowed and stopped.  Remained in the same location hovering in the sky.  There was no noise or sounds from it.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94870.html](http://www.nuforc.org/webreports/reports/094/S94870.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
