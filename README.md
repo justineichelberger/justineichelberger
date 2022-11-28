@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:30 on 28 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:27 on 28 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Saco (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately sw - sw minutes.</sub><blockquote><sub>Bright looking star in cloud cover and disappeared then later reappeared.I was with my son driving back home from Sanford.  It was mid morning, no rain, just partly sunny and cloud cover.  No planes in area or the moon.We were facing SW and he looked up in cloud cover.  In the center of the clouds.  A very bright star looking UFO appeared.  We both were looking at it off and on, about 1 minute.  I can tell it was "in" the clouds.  A few minutes later is just disappeared.  Like it moved backwards.  Then about 10 minutes with the same clouds, no change, it appeared again in the same spot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95156.html](http://www.nuforc.org/webreports/reports/095/S95156.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Romeo (MI) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 17.0 - 17.0 minutes.</sub><blockquote><sub>sighted object in northern sky that appeared not be moving.noticed object while preforming maintinance task on building roof top. at 45deg above the horizon in northern sky an object the size of a nail head at arms length caught my attenion . the object had no con. trail and appeared to be stationary. when aligned with a roof structure the object was clearly not moving east or west. assuming the object was moving away on a northerly course it was desmissed. viewing time about 10 min. after returning to the ground and exiting the building the object was sighted again in the same location in the sky. no con. trail,no motion. after viewing for serveral more moments it vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11398.html](http://www.nuforc.org/webreports/reports/011/S11398.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
