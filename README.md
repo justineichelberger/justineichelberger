@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:11:15 on 28 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:23 on 28 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Marysville (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Facing west and looking upward at about a 60 degree angle, I noticed a perfect equilateral triangle of what appeared to be stars, but then these "stars" started to flatten out their triangular configuration until they were in a straight line.At that point, the leftmost light moved in a straight line away from the other two lights heading toward the southeast.  Definitely NOT typical star behavior!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115682.html](http://www.nuforc.org/webreports/reports/115/S115682.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Calgary (Canada) (AB) reported seeing craft that fit the description of some 'Changing' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Cloud oddly changed formation, split in two and formed a light streak on a sunny, clear morning.Beautiful, clear, sunny morning sky....Looked outside kitchen window and thought it was strange to see in what appeared to be a very small cloud in the sky.  No other clouds could be seen.  Watched the shape change from circular to oval to oblong when the cloud broke into two in a matter of seconds!  The lower cloud appeared to light up like eletricity was running through it (similar to when you see lightning in the daytime).  The light then slowly left a trail heading downwards then hooked upwards leaving a impression of what looked like a fishing hook!  Then it slowly faded away!  Was not a vap trail as a few where visible at time of sighting!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124420.html](http://www.nuforc.org/webreports/reports/124/S124420.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
