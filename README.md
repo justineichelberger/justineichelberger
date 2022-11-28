@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 28 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:06:43 on 28 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>In my opinion, I witnessed a metor fall from the sky and impact the ground west of Colorado Springs.Coming home from a Thanksgiving meal shared with friends, I was headed west from Colorado Springs toward the mountains. At the intersection of Cenntennial and Allegeny, I witnessed a neon green circle followed by an orange fire trail dropping straight down from the sky at my 11 o'clock.Upon impact in the foothills, the mountain lit up briefly with a flash of green light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26310.html](http://www.nuforc.org/webreports/reports/026/S26310.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Dunkirk (MD) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>fast moving craft at a very high altidude, after sun setObject witnessed by experienced pilot/firefighter, object was moving 50 degrees appeared to be at a very high altitude at a very fast rate. Unable to discern any shape or color. please e-mail with any information you may have on this sighting</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04942.html](http://www.nuforc.org/webreports/reports/004/S04942.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
