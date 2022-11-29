@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:42 on 28 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:35 on 29 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Mount Pleasant (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>5 parallelogram shaped lights in tight formation at high speed observed over  Mid-MichiganWhile sitting in our hot tub, identifying constellations, 5 lights in tight formation appeared high above. They were parallelogram in shape and one was not quite as clear as the others. They traveled at a high speed SE to NW. First they were went straight then near the end moved in an erratic motion while maintaining tight formation.  I lost them in the trees (leafless) and distance. Just as they were going out of view, a shooting star passed behind them from SSW to NNE giving me a contrast between the two sights.  While in awe watching the objects, I had the presence of mind to quickly review the constellations I was observing just prior as a sanity or presence of mind check. As a side note, I am an ex-pilot and ex-Air Traffic Controller.  These objects were not flying in any form we know.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60069.html](http://www.nuforc.org/webreports/reports/060/S60069.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Morristown (NJ) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>DIAMOND SHAPE LIGHTS OVER 287 SOUTH2 Bright lights in the shape of diamonds, hovering about a mile in the air over route 287 South after the exit in Morristown.  The diamond shape light was bright yellow to white.  Around the shapes you can see halos around the edges horizontally from the center of the subjects.  The lights descended down and disappeared into the horizon after reaching Easton Exit to Route 78.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137499.html](http://www.nuforc.org/webreports/reports/137/S137499.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
