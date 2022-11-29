@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:27 on 29 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:25 on 29 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Omaha (NE) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Loud humming sound off and on, unlike any type of plane, car or helicopter.I have not seen anything yet, but there is a loud humming noise that wakes me up between 3 AM and 5 AM every night lately.  It's indescribable really.  Doesn't sound like anything a human could make or produce from an object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94877.html](http://www.nuforc.org/webreports/reports/094/S94877.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Vernon (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately undetermined - undetermined minutes.</sub><blockquote><sub>Bright lights over the southern and south eastern skies of Vernon TexasWe live out in the country about 17miles southwest of Vernon, Texas.  For about two months now we have seen objects in the southern, eastern skies.  These objects would move radically not accustom to known aircraft.  It has been seen that when a plane or jet would be heading in the same direction, the object(light) would go stationary. After the plane or jet had passed the light(object) would continue its radical movements.  It is unknown how far these objects are away, but far enough that there is no way to determine the shape or how big the object is.  The only description is like looking at a star.  Sometimes the lights change colors.   The flight pattern (?) of these objects is from side to side, up and down and diagonally and some times in circles.  If looking in the sky, possibly do to the distance factor, the objects move the approximate length of a foot in the sky.  Also the object is always bright, no flickering as a plane or jet.((NUFORC Note:  We suspect stars or planets.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67237.html](http://www.nuforc.org/webreports/reports/067/S67237.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/165/S165618.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165610.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165595.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165593.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165594.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
