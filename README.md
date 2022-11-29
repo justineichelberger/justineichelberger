@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:08:49 on 29 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:26 on 29 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Dover (NH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Large object spotted in Dover by many commuters!Driving on Spaulding - saw a large object about 200 feet in the air, hovering in one spot.  It did not move, it did not make any sound.  It just sat there with what seemed like bright lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94898.html](http://www.nuforc.org/webreports/reports/094/S94898.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Indianapolis (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was walking home after visiting family, and looked up and saw 3 lights roating on an unknown object.  The lights were above the clouds and it was completely silent.  I called my roommate to tell them what I saw.  During the call, the phone cut out for a few seconds then the lights suddnly disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151155.html](http://www.nuforc.org/webreports/reports/151/S151155.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/165/S165618.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165610.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165595.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165593.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165594.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
