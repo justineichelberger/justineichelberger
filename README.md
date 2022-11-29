@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:06:41 on 29 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:26 on 29 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Burnsville (MN) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Orbiting light spheres and gold lights in boomerang shapeI went out on my deck,which overlooks 1+ acres of woods in sunurb of Burnsville, off Burnsville Pkwy and Cty Rd 5 at about midnight.  Between the treetops and above, clear sky view, I spotted 2 large orbs of white light, rapidly circling each other in a large circle, about the size of a football field.  The sky was completely covered by dense clouds and the light circles were quite visible.  They never waivered from their distance from eachother, but did move sideways from time to time.  It resembled a planet with an orbiting planet....not an irregular path. I watched for several minutes and then started to take photographs with my digital camera and flash.  I could see nothing in the view window after they were taken, but kept shooting.  Suddenly, several gold orbs or lights appeared in an arc shape, appearing to flash or move. Then the clouds completely went away, revealing a totally clear sky with lots of stars.  In an instant, the lights just vanished.  One of the photos I have sent has been lightened and set to very high contrast, to show the area was above the treetops.  No city lights, just sky.At first, I thought it might be advertising beams shooting into the air, but it started at midnight and there were no beams back to earth.  I called the police and they had no reports and no knowledge of any promotional beamed lighting in the area.  I thought it might be northern lights or lightening, but it had a very set and regular pattern path.  The gold lights were not visible to the naked eye when there was cloud cover,but the early photos showed them.((NUFORC Note:  Witness corrected date to November 29.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73527.html](http://www.nuforc.org/webreports/reports/073/S73527.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Sydney (Australia) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Well, I saw these 4 disc things floating above my house.  I live alone and in an isolated area so no neighbors would have witnessed it.  They were really small and I didn’t know what to do! I called the police and they told me to not prank call them, but I told the truth!!!  No one believes me but I took photos on my camera.  I tried to show my friends, but they refused to look.  The discs had rainbow flashing lights around it and they made a whooping sound.  They were around the size of a small dinner plate.  My dogs began howling at it.  I hope you can believe me.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143128.html](http://www.nuforc.org/webreports/reports/143/S143128.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/165/S165618.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165610.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165595.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165593.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165594.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
