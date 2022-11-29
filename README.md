@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:33 on 29 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:33 on 29 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Plainfield (IL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright white object hovering Southward over Plainfield, IL.Noticed bright white object slowly hovering Southward, in a partly cloudy but otherwise clear sky.  After about 5 minutes of viewing, it rotated or transformed from a horizontal line shape to a vertical one.  There was no noise or discernible lights.  I have cellphone photos of the object, but they don't do the sighting any justice.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131523.html](http://www.nuforc.org/webreports/reports/131/S131523.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Deming (NM) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Goldfish cracker shaped object seen in Deming, New Mexico on 11/29/02Traveling east on I-10 near Deming, New Mexico at approximately 3pm, aircraft was observed hovering the mountains south of the highway.  It never moved, did not have any lights or did not change colors.  It was a clear day.  It had the shape of a goldfish cracker.  My husband who also witnessed it says it was about 5 to 10 miles away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26369.html](http://www.nuforc.org/webreports/reports/026/S26369.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/165/S165618.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165610.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165595.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165593.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165594.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
