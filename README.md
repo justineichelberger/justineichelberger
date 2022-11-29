@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:52 on 29 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:26 on 29 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Salisbury North (Australia) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Sighted huge triangular ufo with white lights each corner plus large red light centre misty light trail at rearI had gone to put out my rubbish bin for the morning collection when i saw a red light slowly pulsing in the distant sky then viewed sheets of light shine to earth from it.  Not like a searchlight they were like sheets of light. It seemed to be motionless or very very slow moving for some seconds then it moved in a North Easterly direction towards my home.  As it came nearer i saw a wide trail of soft misty white light trail behind it.  I went in to my home quickly and obtained my binoculars and using them saw a huge black triangular craft with a small white light on each corner glowing with a large red light in the centre pulsating.   As it flew overhead i suddenly realised there was absolutely no sound and it flew by as if gliding at a very low speed.I believe it was about two thousand feet high and it was huge blocking out groups of stars as it passed.I noticed as it flew away the rear edge seemed to give off a strange moving glow that really defies description. This glow appeared to create the light trail behind. The light trail was more like a whispy mist effect like you see when the suns rays penetrate trees in a forest. This light trail was almost ghostly. The dark red light seemed to shimmer like a mirage in the desert it was unlike any light effect i have ever seen.  I noted as it flew by there was no sound at all and although huge in size it appeared very flat like a board.  I felt mesmerised looking at it amazed by its size and the complete absence of any sound.My father was in the Air Force for many years and i have lived near air bases my entire life.  I am familiar with aircraft and a military airbase is located one mile from me.  I know what i saw is far bigger than any aircraft i have ever seen. I am fifty five years old and for the first time in my life i can say i have seen a UFO.  This is a genuine report but if anyone cares not to believe me it does not matter i know what i saw.I am hoping other people witnessed it also.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53663.html](http://www.nuforc.org/webreports/reports/053/S53663.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Alameda (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately  -  minutes.</sub><blockquote><sub>I saw yellow lights being shifted around in to different shapes.I was with my girlfriend when I saw the aircraft. When I looked I thought it was an airplane since it was near the airport.  At first I saw it as a diagonal line, 4 lights only at this time I didn't care but I stared a little longer nd it moved in a way.  That's when I alerted my friends.  You had to look at it for 20 seconds for it to move.  Then we noticed it became to be a triangle?  It started to slowly turn into just one bright light. I called your hotline and I was not able to be token seriously because the guy who picked says he receives a huge amount of prank calls from kids.  I am not one of them I just REALLY need to know and I need to be told if I were right or wrong or that more people believe me. The lights were yellow and in the middle of those shapes I MAY have seen a shade.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85566.html](http://www.nuforc.org/webreports/reports/085/S85566.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/165/S165618.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165610.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165595.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165593.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165594.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
