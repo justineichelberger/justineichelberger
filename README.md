@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:25 on 29 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:26 on 29 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Billings (MT) reported seeing craft that fit the description of some 'Disk' over a period of approximately Uncertain - Uncertain minutes.</sub><blockquote><sub>I Was Standing Outside Smoking A Cigarette Thinking It Was Just Gonna Be Another Cigarette, I Got A Chill Down My Spine As My Cigarette Went Out, I Don't Know About You But A Cigarette Doesn't Just Go Out With A Full Cherry On It.  I Reached For My Lighter Looking Up And I Saw An Odd Disc Shaped Object In A Cloud Formation,  So I Tried To Take A Closer Look And Saw That There Wasn't Just 1 Ship,  There Was 3,  A Large Disc Shape And 2 Smaller Glider Looking Ships I Ran Inside To Grab My Camera And When I Came Back Out It Was Gone((NUFORC Note:  We are uncertain as to whether this is intended as a serious report.  Witness provides no e-address.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124430.html](http://www.nuforc.org/webreports/reports/124/S124430.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Victoria (Canada) (BC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Triangle shape, twinkling lights, floating, no soundA Light twinkling in the sky floated and changed position every few minutes.  It was the shape of a triangle/tree like, with orange, white and green lights.  It floated over the city and moved forward and backwards and over the course of an hour it had moved across the sky from south to north.  I Tried to use binoculars but they were outdated, fuzzy and I could not see the actual form, just the lights.  There was no sound.  Our city noted the police department could be testing drones however I don't think they can go that high or have a battery life of that long. After 2 hours I had to go to sleep however the object was still in the sky, but I don't know for how long.  Usually there are aircraft in the area no matter what day of the week, but there was none this night which is very unusual.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124443.html](http://www.nuforc.org/webreports/reports/124/S124443.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/165/S165618.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165610.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165595.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165593.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165594.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
