@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:27:10 on 29 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:08:49 on 29 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Walterboro (SC) reported seeing craft that fit the description of some '' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>After watching for 15 min.the 3 objects never moved?At approx.8;00 Pm I walked out on my front porch that points east Of I-95 I saw 3 lights they were Flashing red white and green Lights. First off I know that is the same color of lights that aircraft use I have a private pilot Lic. but after watching the lights for 15 min. they never moved they were at a ALT. of Approx.2000 to 3000 feet.  And Approx 2.5 miles from my house.  I dont wont my family or anybody around me to know i wrote this.  People around here Would think that im crazy.  Thanks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85568.html](http://www.nuforc.org/webreports/reports/085/S85568.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Dover (NH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Large object spotted in Dover by many commuters!Driving on Spaulding - saw a large object about 200 feet in the air, hovering in one spot.  It did not move, it did not make any sound.  It just sat there with what seemed like bright lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94898.html](http://www.nuforc.org/webreports/reports/094/S94898.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/165/S165618.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165610.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165595.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165593.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165594.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
