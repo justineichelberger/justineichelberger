@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:30 on 29 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:27 on 29 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Edmundston (Canada) (NB) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Edmundston, NB, Canada lights going fast in the sky turn 90 degrees at speed that we could not explainwe saw blue and red lights travling west suddenly stop then went straight at us then made a sharp 90 degree turn towards the north it was faster than a plain we could not see any shape just that it suprised us....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47986.html](http://www.nuforc.org/webreports/reports/047/S47986.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Pawleys Island (SC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was walking north on the beach from the Pearce Moser access.  First object rose from the area of South Litchfield Creek traveling south. Lasted approximately 30 seconds before it disappeared.  I continued walking north to the end of the north point.  I turned around and after walking approximately 200 hundred yards another object appeared coming from the same area and again traveling south for approximately 20 seconds and then disappeared.  There was no noise or flashing lights. The winds were light out of the north.  The objects moved too quickly to be riding on the wind and did not waiver.  The general appearance was that of a fireball without a tail or trace.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104918.html](http://www.nuforc.org/webreports/reports/104/S104918.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/165/S165618.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165610.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165595.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165593.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165594.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
