@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:33 on 29 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:23 on 29 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Deming (NM) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Goldfish cracker shaped object seen in Deming, New Mexico on 11/29/02Traveling east on I-10 near Deming, New Mexico at approximately 3pm, aircraft was observed hovering the mountains south of the highway.  It never moved, did not have any lights or did not change colors.  It was a clear day.  It had the shape of a goldfish cracker.  My husband who also witnessed it says it was about 5 to 10 miles away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26369.html](http://www.nuforc.org/webreports/reports/026/S26369.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Reading (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Very high flying and super fastI was looking at stars with binoculars because the atmosphere was very clear. Looking south of my location in Reading, I saw what looked to be about as big as one of the stars I was viewing (it was super high so it looked as small as a star). usually a very high plane or jet would look to be moving slowly and take a while to cover such a distance viewing it from down here on the ground. This object covered my area of viewing in a matter of seconds. It was not a meteorite. It was out of sight in about 5 to 7 seconds. It was very white bright, with no flashing lights. It was moving in a northern direction. I was viewing the sky from my yard at the time. Please see my other report that happened about 10 minutes later. I've seen other objects from this location in the past too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26374.html](http://www.nuforc.org/webreports/reports/026/S26374.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/165/S165618.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165610.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165595.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165593.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165594.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
