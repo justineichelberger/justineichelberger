@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:26 on 29 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:27 on 29 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Maynard (MA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Flying lightbulb the size of a basketball over Maynard MAWhile driving south on Parker St (rt 27), an object passed over head just above the tree lines.  It was round about the size of a basketball and glowed like a light bulb with a surrounding blue hue.  The object travelled east to west at a constant velocity and on a straight line but looked to be coming down.  Possibly landing nearby.  Both of us are at a loss as to what this could have been.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104945.html](http://www.nuforc.org/webreports/reports/104/S104945.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Sheffield (UK/England) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.15 - 0.15 minutes.</sub><blockquote><sub>astrophotography cygnus/sheffieldHi i am an astronomer/astrophotographer and tonight 11/29/05 i was photographing part of the northern sky Cygnus constellation when i saw three star like objects move north west across the bottom corner of cygnus the objects were in no particular formation and were moving very slowly(slower than a satellite but seemed as high) and then disappeared. I have seen numerous satellites in the past and know that these did not have an equatorial path as they each split up going different ways till they got to the centre of cygnus then vanished.I also know they were not of military origin as i keep upto date with all military exercises and these were too high anyway. Unfortunaetly i thought id have picked them up on my DSLR but theres no trace on the pictures .Can anyone tell me if anyone else seen the same observation</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47919.html](http://www.nuforc.org/webreports/reports/047/S47919.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/165/S165618.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165610.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165595.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165593.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165594.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
