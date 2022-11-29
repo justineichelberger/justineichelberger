@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:26 on 29 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:27 on 29 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Sydney (Australia) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Well, I saw these 4 disc things floating above my house.  I live alone and in an isolated area so no neighbors would have witnessed it.  They were really small and I didn’t know what to do! I called the police and they told me to not prank call them, but I told the truth!!!  No one believes me but I took photos on my camera.  I tried to show my friends, but they refused to look.  The discs had rainbow flashing lights around it and they made a whooping sound.  They were around the size of a small dinner plate.  My dogs began howling at it.  I hope you can believe me.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143128.html](http://www.nuforc.org/webreports/reports/143/S143128.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Omaha (NE) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Loud humming sound off and on, unlike any type of plane, car or helicopter.I have not seen anything yet, but there is a loud humming noise that wakes me up between 3 AM and 5 AM every night lately.  It's indescribable really.  Doesn't sound like anything a human could make or produce from an object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94877.html](http://www.nuforc.org/webreports/reports/094/S94877.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/165/S165618.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165610.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165595.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165593.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165594.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
