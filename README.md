@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:39 on 30 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:23 on 30 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright planet type light that went nova and shrunk to nothing. Hurt my skin and eyes.Went outside to have a smoke. Was sitting looking due south. Somewhat clear night. I immediately was what I thought was Jupiter, but very bright and larger than ususal. Then I though, wait a minute, Jupiter should be in the east. The moon was out 2/3 full to the left/east of this light. A jetliner was passing to the left of the moon and the object. Light/large star continued to just be there for a minute or so. Then all of a sudden it started to grow large, very large, about 1/3 the size of the moon. Very,very bright. The brightest white light I have ever seen. My mind was racing looking for any other lights around it-like landing lights-or sound, no sound, it was dead silent. As this light reached its maximum. It shrunk down to nothing very rapidly and --nothing. Later that night my eyes were very uncomfortable and my face cream burned when I put it on. The next morning, fog had come in, and the oncoming headlights of traffic hurt my eyes badly. I had to wear sunglasses half the entire day. Felt weird. My nextdoor neighbors porch lights went out.Did anyone else see this? I don't wear glasses, I have excellent vision, I worked in aviation for 5 years.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53764.html](http://www.nuforc.org/webreports/reports/053/S53764.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Leland (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Silent triangular shaped craft glides fast across the sky.Bright orange/yellow light came across the sky.  Underneath the craft I was able to make out that it was triangular in shape.  Red and orange lights.  The craft was silent and seemed to just glide across the sky and a fast speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115741.html](http://www.nuforc.org/webreports/reports/115/S115741.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/165/S165598.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165735.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165736.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165604.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165597.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
