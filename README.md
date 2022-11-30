@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:30 on 30 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:24 on 30 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in North Bay (Canada) (ON) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>An object observed hovering with candle white lights hued purple in front of house.My husband and I were in bed trying to convince the little one to go back to sleep and as I was rocking her in my arms I happened to look out the window acrooss from our bed and there was this bright light in the shape of a plus sign or diamond , I became focused on it and remember thinking that the north star wasn't usually that bright. Iremember thinking it must have been a star because iit wasn't moving.I didn't think anything unusual about it other than the intensity of the light(lack of sleep, sick with cold, restless baby were factors )Then, I looked away and almost immeditely my husband was in a panic and started freaking out , baby starts crying, and my husband said, Did u see that? did you see that? and i saiid what the light? and he said yeaah, i looked to where i seen the "bright star" and it was gone. It was a clear night and and i could see other stars in the sky where it had been but dim in light by comparison. I had just missed it when i looked away to tend to our baby.my husband who seen this bright diamond light come directly toward us in the sky and lit up our bedroom the silence fell among us and we could feel and hear these rythmetic vibrations (whommm... whommm... whomm) I will now turn the commentary to my husband, Here is what my husband has to say from the time i looked away (I hadn't told him of the "bright star): we had both seen the bright lite but my wife was unable to stay focused on it due to rockin the baby back to sleep. I had become fixiated on the bright, twinkling object that had now begun moving in a fast 'swirling' motion-like a merry go round with bright lights that were the color of candles with a purple twinge to it. At this point maybe 5 min. had passed. As my wife looked away the object then dashed toward out house at an exceptionally fast speed, with the bottom of the object looking like a lit up honeycomb with lights. Then it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40866.html](http://www.nuforc.org/webreports/reports/040/S40866.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Haymarket (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orange lights over Haymarket Virginia at9:30pm on 11/30/13.My wife and I are both clinical psychologists.  We  saw approximately 7-10 orange lights in the sky over Haymarket, VA.  3 of them were in a cluster while one light moved quickly ahead of them.  There were more following in a line formation.  I got out of my car and was approached by a police officer in his patrol car who also saw the orange lights.  The lights hovered for about 3 minutes and then quickly moved east and disappeared out of sight within a couple of seconds.  The time was 9:30pm on 11/30/13, and there is no airport in this area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105008.html](http://www.nuforc.org/webreports/reports/105/S105008.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/165/S165598.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165735.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165736.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165604.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165597.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
