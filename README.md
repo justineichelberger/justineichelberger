@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:30 on 30 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:46 on 30 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Latrobe (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>followed these lights down a dirt road from a distance of about a half mile. they went around a small foothill,as we came around the hill we saw the last one go into what we thought was the side of the hill. we think it did just that due to ground vibrations we felt. also a smell of something like ozone was all around us . we kept feeling thumps and hearing sounds for at least 15 min. latrobe road & michigan bar road.as stated above.......</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04964.html](http://www.nuforc.org/webreports/reports/004/S04964.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Gage (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>11-30-05,19:00 shattuck okla,light,30minutes,video shot from gage oklaseen bright light out door while watching tv. there was no other stars in sky only round light.went and got vidio recorder to film object. light was not stable. had wierd colors,light went in and out of vidio camera. sometimes would take shape of disk. circle of light did not change. seen colors inside light like it was spinning.hard to explain did some wierd things. called sheriff dept nobody else spotted it. would have to see vidio to explain. have no idea what i have on video. i'm baffled,it was wierd and woul like explanation.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47968.html](http://www.nuforc.org/webreports/reports/047/S47968.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/165/S165598.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165735.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165736.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165604.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165597.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
