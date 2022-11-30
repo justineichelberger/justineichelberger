@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:35 on 30 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:26:35 on 30 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Gage (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>11-30-05,19:00 shattuck okla,light,30minutes,video shot from gage oklaseen bright light out door while watching tv. there was no other stars in sky only round light.went and got vidio recorder to film object. light was not stable. had wierd colors,light went in and out of vidio camera. sometimes would take shape of disk. circle of light did not change. seen colors inside light like it was spinning.hard to explain did some wierd things. called sheriff dept nobody else spotted it. would have to see vidio to explain. have no idea what i have on video. i'm baffled,it was wierd and woul like explanation.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47968.html](http://www.nuforc.org/webreports/reports/047/S47968.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Union (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I was driving home and saw the moon out of the corner of my eye. Then, I noticed a bright yellow light to the left of the moon. I blew it off because it looked like a plane coming head-on, but it stayed there for what seemed like forever and there were no landing lights. I had come to a complete stop, in awe, because as I was driving, I kept glancing back at the light and it didn't look like it was a plane turning anytime soon, and it never flew overhead. I was driving slow..keeping an eye on the light, and all at once it seemed to disappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33729.html](http://www.nuforc.org/webreports/reports/033/S33729.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/165/S165598.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165735.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165736.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165604.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165597.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
