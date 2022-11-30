@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:51 on 30 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:35 on 30 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in La Joya (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately few minutes - few minutes minutes.</sub><blockquote><sub>South Texas migrant worker sees "flying disk" while deer hunting.This is kind of old as told to me by my nephew.  He was working as a ranchhand with a migrant in Hondo, TX.  The migrant told him of a experience he had while working down in La Joya, TX for a rancher. La Joya is a very small town in a rural area near the Mexican border. One morning he went deer hunting.  As he was sitting in his deer blind he notice a "flying disk" coming from his right view and moving away from him very slowly. It stopped a few hundered feet from the blind and "stood still" a little bit, and then hid behind a small hill covered with brush.  He was very excited since he had never seen anything of this sort.  (He was a poor 50ish migrant worker that had never heard of ufos or aliens)  He jumped out of the blind and ran over to the area where he thought the disk had hid itself. He found nothing.  This went on for the next two days at nearly the same time of the morning. [ I don't know the exact time but deer hunting is done in the very early morning hours when the sun is just coming up 5am - 9am. ]  He never saw where it came from since a blind has only 2 to 3 openings about 3" by 12" on either side.  He mentioned to his boss, the ranch owner what he had been seeing.  The next morning to prove his story he invited his boss to go deer hunting with him.  As expected the disk flew by the blind and hid behind the same brushy hill.  They both got out of the blind.  His boss was scared stiff and white faced. He asked his boss to accompany him to find the disk. He said no and got into his truck and left. He, the migrant told my nephew this story because the disk reminded him of a plowing disk the type you would see at the end of a plowing tractor.  He never mentioned how big or small the disk was other than it flew just a few feet above the brushy ground. He also never mentioned if it made any sounds or if it had any colors or lights. There aren't to many hills in south Texas and if there are, there're very small. As I mentioned before this story is a little old but I thought it was very interesting.  Could ufos or visitors have a "base or landing area" here in this south Texas town.  Hidalgo county is very rural.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14189.html](http://www.nuforc.org/webreports/reports/014/S14189.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Gage (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>11-30-05,19:00 shattuck okla,light,30minutes,video shot from gage oklaseen bright light out door while watching tv. there was no other stars in sky only round light.went and got vidio recorder to film object. light was not stable. had wierd colors,light went in and out of vidio camera. sometimes would take shape of disk. circle of light did not change. seen colors inside light like it was spinning.hard to explain did some wierd things. called sheriff dept nobody else spotted it. would have to see vidio to explain. have no idea what i have on video. i'm baffled,it was wierd and woul like explanation.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47968.html](http://www.nuforc.org/webreports/reports/047/S47968.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/165/S165598.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165735.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165736.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165604.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165597.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
