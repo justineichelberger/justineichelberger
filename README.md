@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:20 on 30 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:45 on 30 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Creswell (OR) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Two mega brilliant white lights in sky to the south, too big for aircraft. Not landing lights, or anything I’ve seen for 61 years. They were very bright as the traditional star shown in nativity scenes. They both faded together and dissipated. Were not flares. Altitude perhaps 80,000 ft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160888.html](http://www.nuforc.org/webreports/reports/160/S160888.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in LeMars (IA)/Denver (CO) (uncertain; traveling from) (NE) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Multi-colored "pole," appearing to hang in the sky for several minutes before dissipating slowly, from top to bottom, into darkness.My mother and I were returning home from Iowa after Thanksgiving in 1997, driving in the middle of the night. My mother was driving; I was in the passenger seat, looking out the window, as we drove along the highway through endless farmland, indistinguishable in the black of night. I don't recall if there was a moon out, but as I gazed out the window my attention was suddenly grasped by what appeared to be a lit pole - long, thin, and vertical - hanging in the middle of the air over the field on the right side of the car. I have no idea how far out it was; it was a very dark night. The light of the "pole" was rainbow-colored, blended like a spectrum, and did not appear to light the field around it. It hung there for several moments, doing nothing; then, starting at the top and working its way slowly down, the light dissipated and was replaced by darkness. The minute it started doing this I turned to my mother to ask if she was seeing what I was seeing, only to find her looking out my window with a shocked expression. She said she saw it, too, and we watched it until all of the light had dissipated. I could not make out anything that might be connecting it to the ground, but as I said, it was very dark, so I made it a point to search the same fields on subsequent visits to and from Iowa. Taking the exact same route in the daylight, on several visits, at no time did I see anything that looked like the strange pole we saw that night, nor have I found any reports of anything remotely like it. It has been a constant, haunting presence in the back of my mind ever since. I am a State employee, assisting with investigations for the Department of Human Services; my mother is a former dental technician, now working for a company that assists the developmentally disabled.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14362.html](http://www.nuforc.org/webreports/reports/014/S14362.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/165/S165598.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165735.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165736.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165604.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165597.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
