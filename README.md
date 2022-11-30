@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:24 on 30 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:26 on 30 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>ALSO MY STATE SECTION DIRECTOR  YEAR 1998 ALSO SAW THE SAME THING I SAW YEAR 2002I WAS TRAVELING NORTH BOUND ON GILLHAM ROAD AND CROSSING LINWOOD BLVD ,GILLHAM,RD RUNS NORTH AND SOUTH ,LINWOOD BLVD ,RUNS EAST AND WEST.I WAS TRAVELING NORTH ON GILLHAM AND I SAW A  UFO A SLIM SILVER TANK CYLINDER OBJECT CROSSING IN IN FRONT OF A TV TOWER formly TV5 NOW TV-19-PBS- THE  UFO WAS ABOUT 1500 UP 1/2 WAY UP THE TOWER THE TV 19  TOWER IS THE TALLEST TV TOWER IN THE UNITED STATES . THE UFO WAS MOVING SLOWLY  AND  STOPPED 45--65-SECONDS THEN IT  STARTED UP AGAIN .ALSO THERE WAS A AIRFORCE JET OR A ARMED FORCES FIGHTER JET ABOUT 3--TO--5 MILES AWAY.AND  ABOUT 5,000 FEET IN THE SKY. ALSO THE  UFO DROPPED THE FRONT  PART THEN IT RAISED IT SELF AND WITH OUT STOPPING. THEN IT TOOK OFF SUPERHIGH SPEED SO FAST I HAD TO THINK ABOUT WHAT I SAW .ALSO I WAS NOT USING ANY BINOCULARS, AT THE TIME OF THE SIGHTING ,I AM NOT SURE IF THE  UFO WAS CIGAR SHAPED ARE NOT.//// MUFON/////((NUFORC Note:  We express our gratitude to Mr. Tutt, a MUFON Field Investigator, and to Kansas/MUFON, for sharing the report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26418.html](http://www.nuforc.org/webreports/reports/026/S26418.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Barletta (Italy) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>So fast up and down. Everything but aircraft...It was a sphere of light surrounded by a disk. The disk around was dark blue. It was moving up and down in the sky so fast! Too much distance in few seconds... Everything but aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26372.html](http://www.nuforc.org/webreports/reports/026/S26372.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/165/S165598.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165735.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165736.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165604.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165597.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
