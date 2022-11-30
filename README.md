@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:31 on 30 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:27 on 30 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Haymarket (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orange lights over Haymarket Virginia at9:30pm on 11/30/13.My wife and I are both clinical psychologists.  We  saw approximately 7-10 orange lights in the sky over Haymarket, VA.  3 of them were in a cluster while one light moved quickly ahead of them.  There were more following in a line formation.  I got out of my car and was approached by a police officer in his patrol car who also saw the orange lights.  The lights hovered for about 3 minutes and then quickly moved east and disappeared out of sight within a couple of seconds.  The time was 9:30pm on 11/30/13, and there is no airport in this area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105008.html](http://www.nuforc.org/webreports/reports/105/S105008.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Brier (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>triangle of orbs blinking on and off every couple minutes in clouds.Me and my two friends saw 3 spotlight lookin orbs of light appeared in a triangle in the clouds.  It was hovering silently In the same spot not moving.  After a minute all 3 lighrs turned Off at the same time.  Strangely we quickly realized We could see 3 black circles in the sky where the Triangle of lights were.  They preceeded to turn off And on every couple minutes.  Then we got to his house And we saw it one last time except it appeared to be in a different spot In the clouds as if it was slightly going parrallel To our path but maybe not. The rest were sure about tho It was also foggy that night.  It wasnt Spotlights because we checked for a source Point for the light and there werent any.It was too silent and close to the clouds to be any aircraft That we know about.  I dont know any ball lightning That would leave black shadows where they were shining I would be willing to do a lie detector test.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112405.html](http://www.nuforc.org/webreports/reports/112/S112405.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/165/S165598.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165735.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165736.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165604.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165597.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
