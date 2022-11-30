@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 30 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:30 on 30 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Kingsland (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Intermittent bright light (not flashing like plane or helicopter) moving across the sky (from slightly west of here) in a north/northeast direction...slowly appears & then disappears along its path (sky clear...can see other stars)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131547.html](http://www.nuforc.org/webreports/reports/131/S131547.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Jackson (west of) (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I was going west on I94 at mile marker 174 when I looked up and seen a green fireball comeing through the clouds it was green and and had a vary long tale and was vary bright. the event lasted for about 3 sec,s .same as above not much to add to it about me Im a truck driver former juvinal officer,vet ,I served in an aviation unit in germany .although Iv seen many things in the sky this is the 1st fireball of this kind before it was realy a vary bright green and had a long tale like something youed see in the movies .I was going west on my way to kalamazoo MI like I always am .was looking out my truck window and listning to the best of art bell on the radio.when I spotted  this green ball braking through the clouds when it did it had a vary long tale and the ball and the tale were all green .I dont know how far away it was but if i was to hold up my hand at arms langth the ball was about the size of the tip of my pincky.well I guess thats about it .let you know if I see anything else.good night</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11216.html](http://www.nuforc.org/webreports/reports/011/S11216.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/165/S165598.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165735.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165736.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165604.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165597.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
