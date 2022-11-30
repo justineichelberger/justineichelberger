@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:26:35 on 30 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:07:14 on 30 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Union (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I was driving home and saw the moon out of the corner of my eye. Then, I noticed a bright yellow light to the left of the moon. I blew it off because it looked like a plane coming head-on, but it stayed there for what seemed like forever and there were no landing lights. I had come to a complete stop, in awe, because as I was driving, I kept glancing back at the light and it didn't look like it was a plane turning anytime soon, and it never flew overhead. I was driving slow..keeping an eye on the light, and all at once it seemed to disappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33729.html](http://www.nuforc.org/webreports/reports/033/S33729.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Aylesbury (UK/England) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>triangle shaped craft fly over, low down, smooth medium to fast, faster than a plane, lower than a plane, no sound, 3 almost lights round in shape at each corner with red/orange thin strip of colour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151160.html](http://www.nuforc.org/webreports/reports/151/S151160.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/165/S165598.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165735.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165736.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165604.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165597.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
