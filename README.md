@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:26 on 30 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:28 on 30 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Barletta (Italy) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>So fast up and down. Everything but aircraft...It was a sphere of light surrounded by a disk. The disk around was dark blue. It was moving up and down in the sky so fast! Too much distance in few seconds... Everything but aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26372.html](http://www.nuforc.org/webreports/reports/026/S26372.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Redmond (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 31.0 - 31.0 minutes.</sub><blockquote><sub>Flying Object Viewed by Two Who Never Witnessed Anything SimilarWoke up looking out window with open blinds in Redmond toward S/SW direction appx 0220. Very bright (appx 4x more than Venus) light emitting six to eleven rays (disputed between partners). Object moving up and down despite head of first viewer lying stationary on mattress. Woke up wife/ partner. Asked her to stand up and report what was seen outsode.Both viewed something never seen before.Both sober.Both viewed rays from object moving as if defying law pf gravity.Only white in color. Only watched for appx 30 minutes. Recorded with Iphone SE that fails to even observe branches in nearby trees at night. While another object flew closer rathet than further toward the initial object, its trajectory would not lead to a convergence. The latter (man made) object also appeared as closer to the viewers. Called friend to view as 3rd witness and left him a voicemail.He did not reply/listen to voicemail until next day. Recorded anyway.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151188.html](http://www.nuforc.org/webreports/reports/151/S151188.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/165/S165598.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165735.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165736.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165604.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165597.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
