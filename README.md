@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:08:56 on 30 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:35 on 30 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Fort Lewis (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was driving N.B. I-5 next to Fort Lewis, Wa. I just crossed the Nisqually River Bridge, and was traveling uphill towards Mounts Road. A white object traveled across the sky going from the east toward the west, and it disappeared from my site as it traveled over the McNeil Island Federal prison. It was traveling very fast, straight across the sky with no fire or trail. The weather was stormy hard rain and high winds most of the night, but there was a small break in the weather when this appeared about 50,000 feet.This occured at 03:36 A.M. in the morning P.S.T..((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53720.html](http://www.nuforc.org/webreports/reports/053/S53720.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Kingsland (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Intermittent bright light (not flashing like plane or helicopter) moving across the sky (from slightly west of here) in a north/northeast direction...slowly appears & then disappears along its path (sky clear...can see other stars)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131547.html](http://www.nuforc.org/webreports/reports/131/S131547.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/165/S165598.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165735.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165736.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165604.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165597.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
