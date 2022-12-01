@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:28 on 1 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:34 on 1 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Statham (GA) reported seeing craft that fit the description of some '' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Large green fireballOn Dec. 1st, 2008 at 12:13 I was driving east on GA Route 316 towards Athens, GA. An enormous green and orange fire ball entered the sky right in front of me. It appeared to be traveling down towards the earth. The object burned much longer than any meteor that I have ever seen. The fireball was orange in the middle, burned with a green glow, and had a long green tail. After falling and burning for several seconds, there was a large green flash then it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68738.html](http://www.nuforc.org/webreports/reports/068/S68738.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Wytheville (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Pulsating light doing 90 turns and zig zags before shooting off then disappearingDriving to work I noticed what I thought was an airplane until I noticed no aviation lights, just a pulsating white light like a star. I noticed it between 2 stars before it started moving. It would get very bright then real dim. I slowed down to watch it then noticed it started moving. Very slowly at first, then gaining speed. I started watching as it started to make a couple sharp 90° turns and I knew it wasn't an airplane. It took off very fast then slowed down and done a couple zig zag maneuvers before it stopped. Once it stopped it sat for 2-3 seconds before just disappearing but i never seen it fly off, it just vanished. I didn't have time to get my phone to take any pictures or videos. It was only 1 craft that I noticed. I've never had any experience like this before. I'm an avid stargazer and have no reports of any mental health issues in my family. I'm a healthy 29 year old male with no medical or mental health issues. There has been 1 other UFO sighting in my same small town back in the 1980's that I know of. Very strange sighting and have seen a couple stories of the exact same lights in other places.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165833.html](http://www.nuforc.org/webreports/reports/165/S165833.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [441](http://www.nuforc.org/webreports/reports/165/S165612.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165613.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165607.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165628.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165874.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
