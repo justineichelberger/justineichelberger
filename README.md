@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:28 on 30 November 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:34 on 1 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Redmond (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 31.0 - 31.0 minutes.</sub><blockquote><sub>Flying Object Viewed by Two Who Never Witnessed Anything SimilarWoke up looking out window with open blinds in Redmond toward S/SW direction appx 0220. Very bright (appx 4x more than Venus) light emitting six to eleven rays (disputed between partners). Object moving up and down despite head of first viewer lying stationary on mattress. Woke up wife/ partner. Asked her to stand up and report what was seen outsode.Both viewed something never seen before.Both sober.Both viewed rays from object moving as if defying law pf gravity.Only white in color. Only watched for appx 30 minutes. Recorded with Iphone SE that fails to even observe branches in nearby trees at night. While another object flew closer rathet than further toward the initial object, its trajectory would not lead to a convergence. The latter (man made) object also appeared as closer to the viewers. Called friend to view as 3rd witness and left him a voicemail.He did not reply/listen to voicemail until next day. Recorded anyway.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151188.html](http://www.nuforc.org/webreports/reports/151/S151188.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Seattle (West) (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>My dad and I saw a UFO at night when we where looking at the stars.The sky was totally clear no clouds what so ever..My dad and I where looking at the sky and a triangle object with 3 white lights on each of the 3 angles and it also had 1 red light in the middle. I hovered around the sky (not up close but close enough). Then all of the sudden dissappered. My dad was in the military and told me it wasn't a Stealth Bommer like my other family members thought..A few days later I found a mark on my thight that was never there before. It was a triangle made with 3 tiny red dots. I don't know for sure if there is a connection but I think there is.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12606.html](http://www.nuforc.org/webreports/reports/012/S12606.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/165/S165598.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165735.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165736.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165604.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165597.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
