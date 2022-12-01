@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:23 on 1 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:31 on 1 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in The Woodlands (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>two orange lights / spheres moving together across sky, then they danced and left into the stars. amazingI am recounting this after over ten years, but still remember perfectly:  I was sitting on my driveway with my then-boyfriend. We were just talking before it was time for me to go inside for the night. We were facing south.I noticed an orange light in my peripheral. At first, I thought it was the streetlight but I realized that it was shaking and moving across the sky. I turned my head and saw that it was two orange spheres, seeming to shake rapidly as they moved smoothly and silently across the sky. They looked like they were made of light. One was in front and higher in the sky than the second light, but they moved perfectly synchronized. They were moving east to west.Once they were almost in front of us, they stopped moving in the sky, stopped shaking too. They just froze and hovered for a few seconds. They were orange balls about the size of the full moon. They seemed to be flat, like 2D, and multifaceted like bicycle reflectors. But it was hard to understand what they really were.What happened next is hard to explain: They were hanging in the air, one higher and more to the left of the other. Then, simultaneously, they shifted in the air so that the higher one was now in the lower position and the lower one was now in the higher position. They froze again. Then they shifted back and froze. Then, they just LEFT. They ascended into the stars just fast enough for your eyes to follow – FAST. Up, gone, away. They didn't seem to accelerate, just suddenly gone. It was amazing and I will never forget. Years later, I thought they must have known we were watching but who knows?  I swear to this story.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79192.html](http://www.nuforc.org/webreports/reports/079/S79192.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Cockeysville (MD) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>v shaped greenlights seen in evening cloudy sky in baltimorewatching night sky over watershed area, in particular was watching buzzards on fri evening which was very windy but warm.  Initially noted blinking green light in clouds but later concluded these v shaped moving lights were buzzards who were possibly being tracked.  Unable to find any info on internet regarding tracking of buzzards using green lights, saw this link and it sounded like others have spotted something similar recently.  There was a very large gathering of buzzards, more than normal for a given evening over the watershed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53749.html](http://www.nuforc.org/webreports/reports/053/S53749.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [441](http://www.nuforc.org/webreports/reports/165/S165612.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165613.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165607.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165628.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165874.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
