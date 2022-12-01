@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:43 on 1 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:34 on 1 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Conway (SC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 orange lights followed by 5 blue/white flashing lights rotating across the skyWalking my dog...Difficult to calculate how many craft as I first saw 3 orange lights appear toward the east...  Two on the right side of the night sky perpendicular to each other and one quite far off to the left.  These lights appeared for about 5 seconds then all 'turned' off simultaneously until there was no light in the sky other than stars.  The dog stopped and looked up to seem to see the lights as well.  When that event was over I took dog in house and told family member.  Went back outside to close my car windows and suddenly saw a series of blue flashing lights.  These were toward the north and were a series of 5 or 6 rotating lights that also flashed as they rotated across the sky.  I ran in to get two family members who also witnessed these lights.  We watched until 3 or 4 of them disappeared but 3 more continued to rotate in the sky and appear to move off to the east... the we saw a fast moving plane head toward the lights and the blue/white lights quickly disappeared.... this event with the blue/white rotating lights lasted about 3-5 minutes.  There was no noise with these events other than the airplane that eventually came into area</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131559.html](http://www.nuforc.org/webreports/reports/131/S131559.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Dickinson (ND) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Triangular UFO with lights on the exteriorThis ufo was a triangular shape with (flashing)lights. I think it may have been a blue color. It was moving in a fast motion and in weird ways it seemed to be moving further away from me and then I went to call for someone and when I went outside again it was gone. I can't remember the size but it was big but not as big as a plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33561.html](http://www.nuforc.org/webreports/reports/033/S33561.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [441](http://www.nuforc.org/webreports/reports/165/S165612.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165613.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165607.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165628.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165874.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
