@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:23 on 1 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:41 on 1 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in Fort Lauderdale (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>turning into the street,we saw in front of us a huge yellow globe,it was about 200' ahead. decided to go around the block to get abetter look.the huge bright yellowish unit was 2 to 3 times the size of the house it was behind,it seemed to have a gasous emission toward the bottom of the globe,when i tried to see it from the side it was gone,it could not have taken me more than 10 to 15 seconds to go around the block.this all took place about 10 years ago we had come to flordia to visit my kids who at that time lived in the weleby part of ft lauderdale, we had left the kids and went to a movie,this all happened when we were returning home that evening</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05178.html](http://www.nuforc.org/webreports/reports/005/S05178.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Oklahoma City (OK) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>5 lights with orange trailsIn the west sky were 5 lights flying north.  All lights had orange streaks eminating from the rear except for the leading light.  One streak seemed to be at an angle towards the ground for a time.  Each light was traveling at the same speed relative to one another.  This made it appear as if it could have been one object with lights on the corners.  It appeared as if the color between the lights was darker than the background of the sky.  There was no aircraft sound.  One of the fainter lights were blue.  After the formation flew a few miles north, it began to turn east and out of sight.  A police officer was in the parking lot behind us.  He told us it was fighter planes with their after-burners on. I suppose this could be true but I work outside at night and I've never seen anything like it before.((NUFORC Note:  We suspect the witness is describing the re-entry event that occurred at approximately 2120 hrs. (Mountain) on Saturday, December 01, 2001.  Please see following URL for details:  <http://science.nasa.gov/headlines/y2001/ast03dec_1.htm?list49634>.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20649.html](http://www.nuforc.org/webreports/reports/020/S20649.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [441](http://www.nuforc.org/webreports/reports/165/S165612.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165613.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165607.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165628.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165874.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
