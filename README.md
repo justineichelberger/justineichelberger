@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:36 on 1 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:25 on 1 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Vancleave (MS) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Triangle lights hover over pondI was working at the boarding stable where I keep my horse. It was dark out and the horses where wanting to come in to eat. It was getting late. The horses were moving around alot and the ducks were making alot of noise. The other person there went to the one pasture gate and I went to the other gate to start bringing them in. The pasture gate I went to has a pond. Out of nowhere there appears a huge triangle of lights. Only three lights but super bright. But I could still look at the lights without squinting my eyes.  There wasn't any noise at all from the object. I noticed all the horses stopped moving and the ducks stopped making noise as well. It just hovered over the pond. Its lights lit up the pond and the area around it.  I couldn't take my eyes off of it. Then it just zipped out of sight, like someone turned off the light switch.  Gone and still no noise.  I looked over to the other gate and ask the other person if she saw that and she said yes. We never! mentioned to each other again.  The next day there were reports of the same thing in the county north of Vancleave.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78318.html](http://www.nuforc.org/webreports/reports/078/S78318.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Eustis (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Blue triangle lights over Eustis, FL.It was about 1:30 am i got up to get drink of water and use restroom, I glanced out window saw like a blueish pulsating light, at first thought maybe law enforcement had someone pulled over or something, but I looked out window and saw the glow was coming from above.  As i looked up, I could see 3 triangle crafts, almost as if it was translucent, almost like seeing through it.  The light was flashing on things in yard like the orange tree, then flashed the oak, like they were looking for something.  I was frightened by what I saw, and it appeared that when they saw me moving curtain to see, they went straight up and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115787.html](http://www.nuforc.org/webreports/reports/115/S115787.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [441](http://www.nuforc.org/webreports/reports/165/S165612.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165613.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165607.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165628.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165874.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
