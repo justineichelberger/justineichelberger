@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:41 on 1 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:36 on 1 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Oklahoma City (OK) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>5 lights with orange trailsIn the west sky were 5 lights flying north.  All lights had orange streaks eminating from the rear except for the leading light.  One streak seemed to be at an angle towards the ground for a time.  Each light was traveling at the same speed relative to one another.  This made it appear as if it could have been one object with lights on the corners.  It appeared as if the color between the lights was darker than the background of the sky.  There was no aircraft sound.  One of the fainter lights were blue.  After the formation flew a few miles north, it began to turn east and out of sight.  A police officer was in the parking lot behind us.  He told us it was fighter planes with their after-burners on. I suppose this could be true but I work outside at night and I've never seen anything like it before.((NUFORC Note:  We suspect the witness is describing the re-entry event that occurred at approximately 2120 hrs. (Mountain) on Saturday, December 01, 2001.  Please see following URL for details:  <http://science.nasa.gov/headlines/y2001/ast03dec_1.htm?list49634>.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20649.html](http://www.nuforc.org/webreports/reports/020/S20649.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Vancleave (MS) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Triangle lights hover over pondI was working at the boarding stable where I keep my horse. It was dark out and the horses where wanting to come in to eat. It was getting late. The horses were moving around alot and the ducks were making alot of noise. The other person there went to the one pasture gate and I went to the other gate to start bringing them in. The pasture gate I went to has a pond. Out of nowhere there appears a huge triangle of lights. Only three lights but super bright. But I could still look at the lights without squinting my eyes.  There wasn't any noise at all from the object. I noticed all the horses stopped moving and the ducks stopped making noise as well. It just hovered over the pond. Its lights lit up the pond and the area around it.  I couldn't take my eyes off of it. Then it just zipped out of sight, like someone turned off the light switch.  Gone and still no noise.  I looked over to the other gate and ask the other person if she saw that and she said yes. We never! mentioned to each other again.  The next day there were reports of the same thing in the county north of Vancleave.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78318.html](http://www.nuforc.org/webreports/reports/078/S78318.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [441](http://www.nuforc.org/webreports/reports/165/S165612.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165613.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165607.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165628.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165874.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
