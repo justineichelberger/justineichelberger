@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:25 on 1 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:23 on 1 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Eustis (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Blue triangle lights over Eustis, FL.It was about 1:30 am i got up to get drink of water and use restroom, I glanced out window saw like a blueish pulsating light, at first thought maybe law enforcement had someone pulled over or something, but I looked out window and saw the glow was coming from above.  As i looked up, I could see 3 triangle crafts, almost as if it was translucent, almost like seeing through it.  The light was flashing on things in yard like the orange tree, then flashed the oak, like they were looking for something.  I was frightened by what I saw, and it appeared that when they saw me moving curtain to see, they went straight up and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115787.html](http://www.nuforc.org/webreports/reports/115/S115787.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lockport (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright Lights in SW suburbs of ChicagoSaw a bright large light up in the sky, then it appeared to be 2 other lights (looked like normal airline flashing lights) near it at first.  After watching it for a little while there appeared to be 5 or 6 of the "airplanes" around it.  All with flashing red & white lights.  Bright large light disappeared and reappeared about 2 miles away towards Mokena/New Lenox area.When I stopped to look into the sky again I saw the flashing what looked like airplanes all over the sky. When one appeared to be close to the ground, I stopped to see if I could hear anything and it passed overhead without any noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73561.html](http://www.nuforc.org/webreports/reports/073/S73561.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [441](http://www.nuforc.org/webreports/reports/165/S165612.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165613.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165607.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165628.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165874.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
