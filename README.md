@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:34 on 1 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:25 on 1 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Dickinson (ND) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Triangular UFO with lights on the exteriorThis ufo was a triangular shape with (flashing)lights. I think it may have been a blue color. It was moving in a fast motion and in weird ways it seemed to be moving further away from me and then I went to call for someone and when I went outside again it was gone. I can't remember the size but it was big but not as big as a plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33561.html](http://www.nuforc.org/webreports/reports/033/S33561.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Alvin (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Big chrome ballsIt was either late '89 or very early '90 because it was about 530pm or 6pm when I saw them and it was getting dark. I was sitting facing almost due west in a small parking lot on business hwy35/Steele rd. I was looking out the windshield and started seeing something shiny and small coming toward me about 60ft in the air.  There was a small antenna tower behind the building I was in front of so I tried to estimate the height by the tower. It couldn't have been much higher than that. The closer it got the more confused I became.  At first (with the sun setting behind) I thought it was an ultralight flying due to the slowness and altitude.  But then I realized it wasn't one object but 5.  I have excellent vision, especially from far off, so I knew within the space of about 30 seconds it was more than one thing coming in my direction.  As it flew closer and went over my head it seemed like they were almost floating.  They were totally silent. They looked like big chrome balls, about 2.5-3 feet in diameter, and they were in a v-formation.  The reason I say "chrome" is because I could see reflections of everything around me in the balls.  Maybe they were mirrored, I don't know.  They flew right over my head and just kept going. I lost sight of them almost immediately because across the street from where I was parked there is a farmhouse with big oaks in the front yard. It looked like they were traveling roughly parallel to Steele Rd.  I have never come across anything like that in any description of a ufo. It still drives me crazy that I have no real idea of what those things were.  Were they some kind of drone?  Did they have some little creature in them?  No blinking lights, no sound.  I didn't feel anything weird except jaw-dropping amazement.  Just me for years afterward wondering what the heck they were.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87868.html](http://www.nuforc.org/webreports/reports/087/S87868.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [441](http://www.nuforc.org/webreports/reports/165/S165612.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165613.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165607.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165628.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165874.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
