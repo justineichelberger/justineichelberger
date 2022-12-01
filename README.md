@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:11:04 on 1 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:28 on 1 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Red Wing (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately I was on the way back fro - I was on the way back fro minutes.</sub><blockquote><sub>I was on the way back from dejavu strip club, sober, cabbing from Minneapolis to red wing mn as entering red wing seen a object hovering over both two lane highway with lights around it it was the size of both highways. It was right at the street lights at the intersection by kwik trip and.  Burnside school.((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143820.html](http://www.nuforc.org/webreports/reports/143/S143820.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Colorado Springs (monument) (CO) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.8888888888888888 - 0.8888888888888888 minutes.</sub><blockquote><sub>GLOWING CIGAR/CYLINDER,SHAPED.THE SIZE OF A STRIP MALL X THREE!ALL TRAVELING IN-LINE!!OKAY FOLKS,THIS IS A FIRST FOR ME!SO I FEEL REALLY ODD DOING THIS!BUT I HAVE TO TELL SOMEONE!LONG,STREAMED,GIAGANTIC IN SIZE,THE SIZE OF A SM.STRIPMALL X'S THREE!ALL THREE TRAVELED IN-LINE,THEY SEEMED TO DISAPPEAR,AND THEN REAPPEAR AGAIN!THEY DID THIS THREE X'S AS I WATCHED.WHEN DISAPPEARING,YOU COULD STILL SEE THE OUTLINE'S OF THE OBJECT'S!IT WAS A FULL MOON DURING THIS TIME,SO THE LIGHTING WAS VERY GOOD OVER THIS DURATION.HERE'S THE REALLY ODD THING;IF YOU BURNED A CIGAR ALL THE WAY,AND THE ASH STAYED GLOWING ALL THE WAY,BUT THE ASH WAS THE SIZE OF A SM.STRIP MALL,AND MOVING THROUGH THE SKY,WITHIN THE INTERIOR OF THIS,WAS SM.POP'S OF LIGHTS,LIKE BURST OF FLASHES,WITHIN THE THREE OBJECT'S,GOING ON AND OFF SLOWLY,BUT MANY TIMES.ALSO DISAPPEARING WHEN THE OBJECTS CLOAKED!NO SOUND AT ALL,MOVING SWIFTLY BEHIND A LRG.WALL OF CLOUDS,THEN THATS IT!I PULLED OVER TO WATCH THE OBJECTS,I WAS TRAVELING FROM CASTLEROCK COLO.SOUTH ON 1-25,I HAD JUST GOT OFF OF WORK.TWO OTHER MOTOREST HAD PULLED OVER IN FRONT OF ME,BUT I DID'NT STICK AROUND TO DISCUSS THIS WITH THEM!WHEN IT WAS OVER,I GOT THE HELL OUT OF THERE!THIS THING COULD NOT POSSIBLY IN MY OPINION,BE CONFUSSED WITH ANYTHING I'VE EVER SEEN MILITARY OR COMMERCIAL!THE SIZE WAS THAT OF A BUILDING!NEXT TO SOME OF THE SM.MOUNTAINS,IT WAS ALL THAT SIZE!BUT IT WAS STILL AT A DISTANCE!I CAME HOME,TOLD MY WIFE AND DAUGHTER,AND DREW A PICTURE.THATS ABOUT IT!I WATCHED THE SKIES ALL THE WAY HOME,THINKING THAT MAYBE NORAD WOULD HAVE SCRAMBLED SOMTHING TO CHECK THIS OUT!BUT I DID'NT NOTICE ANY MILITARY FLIGHT!((NUFORC Note:  Probably space debris.  Please see other reports.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20781.html](http://www.nuforc.org/webreports/reports/020/S20781.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [441](http://www.nuforc.org/webreports/reports/165/S165612.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165613.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165607.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165628.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165874.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
