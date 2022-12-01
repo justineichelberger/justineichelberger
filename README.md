@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:23 on 1 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:27 on 1 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lockport (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright Lights in SW suburbs of ChicagoSaw a bright large light up in the sky, then it appeared to be 2 other lights (looked like normal airline flashing lights) near it at first.  After watching it for a little while there appeared to be 5 or 6 of the "airplanes" around it.  All with flashing red & white lights.  Bright large light disappeared and reappeared about 2 miles away towards Mokena/New Lenox area.When I stopped to look into the sky again I saw the flashing what looked like airplanes all over the sky. When one appeared to be close to the ground, I stopped to see if I could hear anything and it passed overhead without any noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73561.html](http://www.nuforc.org/webreports/reports/073/S73561.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sheridan (WY) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright Light U.F.O.Morning of the first of December 14, in daylight, I was driving down a dirt road, heading south, when I looked up to the sky and seen a bright white line to the southwest at a 45 degree angle.  The sky was clear of clouds so it wasn't a cloud.  It was long and wide as a pencils lead from where I sat.  I first thought it was the space station, but it was not moving at all.  It was high in the sky.  As high as the clouds would be.  The government should put people around the country to witness and study what is going on.  These U.F.O.s could effect geothermal, etc., etc earth., processes.  One woman said a U.F.O. went over her once and she felt a weird sensation.  Most likely there gravity countering technology.  Who knows maybe ghosts people see are actualy Space Beings.  We don't know.  This summer I think I will stay out nights to see what I can of U.F.O.s.((NUFORC Note:  Possible contrail??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115893.html](http://www.nuforc.org/webreports/reports/115/S115893.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [441](http://www.nuforc.org/webreports/reports/165/S165612.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165613.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165607.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165628.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165874.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
