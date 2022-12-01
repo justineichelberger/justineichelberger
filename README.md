@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:24 on 1 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:23 on 1 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Stevens Point (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Goldish orange light in the southeast sky.Driving south on I39, I noticed a bright light in the southeast sky.  It was the brightest thing in the sky, but no brighter than mars was at it's full intensity.  I was trying to figure out if it could possibly be an airplane going for a landing or a planet (not sure what is going on astronomically these days) and driving and trying to watch for deer.  The object didn't appear to be moving, but the light (goldish orangish)did vary in intensity.  I calculated it to be in almost a direct line with Orions dagger which was pointing in a southerly ground direction so I could go home and see what planet it might be.  It suddenly disappeared.  No clouds in the sky...half moon in the other half of the sky.  Strange.((NUFORC Note:  A perfect description of the dramatically bright, twinkling star, Sirius.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33537.html](http://www.nuforc.org/webreports/reports/033/S33537.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in Fort Lauderdale (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>turning into the street,we saw in front of us a huge yellow globe,it was about 200' ahead. decided to go around the block to get abetter look.the huge bright yellowish unit was 2 to 3 times the size of the house it was behind,it seemed to have a gasous emission toward the bottom of the globe,when i tried to see it from the side it was gone,it could not have taken me more than 10 to 15 seconds to go around the block.this all took place about 10 years ago we had come to flordia to visit my kids who at that time lived in the weleby part of ft lauderdale, we had left the kids and went to a movie,this all happened when we were returning home that evening</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05178.html](http://www.nuforc.org/webreports/reports/005/S05178.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [441](http://www.nuforc.org/webreports/reports/165/S165612.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165613.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165607.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165628.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165874.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
