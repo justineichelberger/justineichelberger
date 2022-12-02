@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:39 on 2 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:28 on 2 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Pottsville (AR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>lights,qiuet,slow drift,,"whats all theses strang lights flying around".it was just hanging in the night shy,dull in color,as if it wasnt fully lumunated yet,then slowly it went north, it was probaly 1,500 ft up,i watched it closly looking for differents in lighting,as it driffet north it became fully illuminated the it banked west, maybe over interstate 40 ,i went in to tell my wife,about 5 minutes later i went back out and just curios spotted it again ,this time it was headed in the direction of the river south,banked towards petit jean mt.to the east and went black again,i would dicrib it in a shape of a traigle on a lsrger traingle,i' am a  artist so i drew the shape i saw.,,but these arnt the 1st ive seen,in all i spotted 4 sitting over my land."one left the image of two windows burnt into my mind,,any one else??</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40881.html](http://www.nuforc.org/webreports/reports/040/S40881.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Gloucester (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>3 Very Bright Lights All Tightly Next To Each Other Blindingly bright Moved suddenly and disapperedWalking along a bright light was visable in the sky to bright to be an aircraft which moved suddenly stopped and then as we ran to get passed a tree to look closer it disappered, nothing else could be seen of anything in the sky it was a clear night and nothing was visable where the object previously had been.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48050.html](http://www.nuforc.org/webreports/reports/048/S48050.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
