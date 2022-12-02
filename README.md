@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:25 on 2 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:28 on 2 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in San Dimas (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Object of animated lights off 210 free in California.I'm not sure what it was I saw tonight. I'd like to know.  I was driving home - on the 210 Freeway headed East.  It was 6:30pm so it was dark.  Off to the right front I noticed far out a series of orange/yellow lights in the darkness. I thought perhaps it was a fire, on a mountain... but I realized there is no mountain in that area. At this point I just kept glancing at it, and noticed it started to become an oval of lights.  Then the thing moved... slowly to sit over the freeway.  At one point it started to move down the freeway (headed West.)  The lights I could see now.  The lights were rotating and they looked like the animated lights on a blimp. This is what I thought it might be, but it was kinda low... and the thing that was really odd, the rotating lights were on the bottom of whatever this was. Since it was dark, I could see no body to the thign, just the animated lights, that were moving in a direction.  Let me try and describe. On the bottom of this thing, it looked like 5 lights in a row, and this row of lights, would turn off and the next row on... so forth. so it looked like a panel of five lights animating. There was no sound... and the traffic was reacting to it.  traffic slowed, etc.  I did take video off my iphone... but the iphone uses such a wide aspect that it only appears as a small set of dots... and i'm shaking the phone a lot as i'm driving...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73564.html](http://www.nuforc.org/webreports/reports/073/S73564.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>3 dots floating down and dissapearing.There was a zig-zag cloud in the sky and then a multi-colored cloud appeared and then 2 lights turned into 3 and formed a circle around it.  They then floated down and dissapeared.  I am not sure if this was the Falcon 9 rocket exploding over Orlando that launched from Cape Canaveral or it was some kind of alien spacecraft.  My 2 friends and I saw it all together.  THIS IS REAL!!  If you live in the Conway area of Orlando you may have saw it too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105056.html](http://www.nuforc.org/webreports/reports/105/S105056.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
