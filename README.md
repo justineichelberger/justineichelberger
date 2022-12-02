@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:24 on 2 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:23 on 2 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Cochrane (Canada) (AB) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A triangle shaped object with 3 glowing lights left a V-shaped cloud before disappearing shortly after it was seen Southwest of CochranObserved SW of Cochrane, distant triangle with 3 glowing lights left a "V" of cloud and disappeared (along with its clouds) after only a couple minutes.  This repeats daily at/around sunset.Observed by my boyfriend and I- both 24, both skeptical people.  He does insurance and I'm a massage therapist.  Sound of mind people but we see this happen daily</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151293.html](http://www.nuforc.org/webreports/reports/151/S151293.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Kent (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was in my car when I saw a ball of fire I thought it was a plane at first  Then I saw a 2nd and 3rd on I could see a plane too low to be then I thought A air balloon but couldn't see a balloon but on one of them I saw something Attached to one object it was like a circular tube spinning circles</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115798.html](http://www.nuforc.org/webreports/reports/115/S115798.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
