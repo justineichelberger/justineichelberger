@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:28 on 2 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:36 on 2 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Port St. Lucie (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Christmas tree colored sparkling lights hovering over the southeastern sky in FloridaA friend and I had gone out to the movies. Upon our return I happened to glance up and saw among the stars, something that stood out and was different from all the stars. Upon closer examination with binoculars, my friend and I saw christmas colored lights kind of sparkling on the two crafts that were hovering in the southeastern sky over the Indian River or Atlantic Ocean area estimated to be perhaps 8 to 10 miles away. The two objects remained still but sparkled red, green, blue and yellow and one seemed larger than the other. We watched for about a half hour or more until our necks got tired from looking up. These were obviously not airplanes or satellites. Another passerby saw these crafts also and agreed that they were something not like anything he had seen ever.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60167.html](http://www.nuforc.org/webreports/reports/060/S60167.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Oakley (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Stepped out on my balcony & looked up to see a silver head of a shovel shaped/ufo object with a blue horse shoe shaped fluorescent tube running on the inside bottom of the craft. The craft tilted up and seemed to move away in a skimming motion until it was out of sight. The craft was stationary above our home and moved from the west to east when it left.  It left. It left an errie feeling in my stomach.  It's hard to stop thinking about it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105101.html](http://www.nuforc.org/webreports/reports/105/S105101.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
