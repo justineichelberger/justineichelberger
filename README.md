@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:26 on 2 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:31 on 2 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Plainfield (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two bright lights in the sky.I can't be certain of the exact time.  My camera says 4:10 pm but I know that is not accurate.  My best guess is that it was around 7pm but could have been later.  I walked out onto the front porch to plug in the Christmas lights and looked up at the moon when I noticed to very bright white lights to the left of the moon.  They were brighter than the stars around them and looked like lights on airplanes as they approach the airport (which is near our house) or even like low flying helicopters.  The only difference is that they did not budge at all and they were not accompanied by the red and blue flashing lights that are visible on aircraft (especially on aircraft that are flying directly at you - which these would have had to have been because of the visibility of thier "headlights" - let me stress again that they did not seem to be moving at all).I called my seventeen year old daughter out to look at them and then called out my husband who stated that they were probably planets.  The only problem with his theory is that they seemed to be very similar in brightness and size which doesn't bode well for the planet theory.  And frankly, they were just too bright.  I've veiwed planets before while taking astronomy in college.My husband went back inside to watch tv and my daughter and I snapped a couple of pictures with my camera but gave up after feeling like we couldn't get a successful shot.  We went inside, reluctantly accepting my husband's planet theory.  When I went back out several hours later to unplug the Christmas lights the "planets" were not visible anywhere in the night sky.Today I was watching a UFO show on television and decided to go ahead and report my sighting.  The only think I know is that I can't identify what I saw.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67653.html](http://www.nuforc.org/webreports/reports/067/S67653.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I saw a flock of bird shaped objects, about 23, fly within a 5 second period and disappear in the open sky.I saw about 23 dull white bird shaped objects moving like a flock, from SW to the East over Portland, Or.  First three were startling, then more came within a 5 second period.  They vanished in a slip or zipper in sky.I was looking out of a large industrial window that faces Mt. Hood from the SW to East.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94928.html](http://www.nuforc.org/webreports/reports/094/S94928.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
