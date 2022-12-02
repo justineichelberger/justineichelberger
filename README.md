@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:23 on 2 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:39 on 2 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Medford (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>4 Star like objects moving east to west in the southern sky on Dec. 2nd @ 11:22PMAt 23:22 on December 2nd, 2010, my wife and I were outside enjoying a deadly cigarette break when I saw her face go completely blank. I immediately looked to the sky where she was looking, and saw the same thing she had.  Four “star like lights” Traveling East to west.THE SIGHTING I only knew to look to the sky by the look on my wife’s face. When I did, I saw four “star like lights” in a formation that resembled ascending stairs.  The lights kept a generally same formation the entire time I saw them, but each light, for lack of a better term, wobbled independently of each other. I base my certainty of these lights being UFO’s because of; - The speed at which they traveled. Taking less than 3 seconds to leave my line of sight behind my house, when I ran through the yard to continue to watch them travel, they were no longer visible to me. Note* It is an overcast night tonight. I do not know if they became too far to see, or if they changed direction, or other explanation is necessary.Their travel pattern. While their pattern remained “stairs-like,” stacked one atop the other with even spacing from each other, at approximately a 75 degrees pitch, each light seemed to carelessly wobble.Position of Traveling		Top: flight path Objects		Bottom: Horizon  My wife described their movement through the sky as Passeando, which in my understanding of Portuguese could mean walking, meandering, strolling, et cetera. I couldn’t have said it better, they moved at speeds that I could not imagine man-kind of capable of just yet. They made no noise, moved swiftly, yet as my eyes were upon them, it felt as if time slowed. Much like moments I felt as a high school athlete, when I was making a “big play” it almost felt as if I was perfectly focused and everything moved just as fast, but seemed slower.I can’t imagine what else to write so please contact me if there are any questions you’d like answered.P.S. If you do retrieve any footage of the passing of “Lights” please forward it to me!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79114.html](http://www.nuforc.org/webreports/reports/079/S79114.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Pottsville (AR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>lights,qiuet,slow drift,,"whats all theses strang lights flying around".it was just hanging in the night shy,dull in color,as if it wasnt fully lumunated yet,then slowly it went north, it was probaly 1,500 ft up,i watched it closly looking for differents in lighting,as it driffet north it became fully illuminated the it banked west, maybe over interstate 40 ,i went in to tell my wife,about 5 minutes later i went back out and just curios spotted it again ,this time it was headed in the direction of the river south,banked towards petit jean mt.to the east and went black again,i would dicrib it in a shape of a traigle on a lsrger traingle,i' am a  artist so i drew the shape i saw.,,but these arnt the 1st ive seen,in all i spotted 4 sitting over my land."one left the image of two windows burnt into my mind,,any one else??</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40881.html](http://www.nuforc.org/webreports/reports/040/S40881.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
