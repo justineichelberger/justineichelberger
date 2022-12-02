@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:28 on 2 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:24 on 2 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>3 dots floating down and dissapearing.There was a zig-zag cloud in the sky and then a multi-colored cloud appeared and then 2 lights turned into 3 and formed a circle around it.  They then floated down and dissapeared.  I am not sure if this was the Falcon 9 rocket exploding over Orlando that launched from Cape Canaveral or it was some kind of alien spacecraft.  My 2 friends and I saw it all together.  THIS IS REAL!!  If you live in the Conway area of Orlando you may have saw it too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105056.html](http://www.nuforc.org/webreports/reports/105/S105056.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Suffield (CT) reported seeing craft that fit the description of some 'Cigar' over a period of approximately  -  minutes.</sub><blockquote><sub>My friend was pointing to the sky, I looked up and saw a small whitish tic tac shape thing going towards the north. Saw it for about 5 seconds, then the trees were blocking my view. Not sure if there was sound or not, too much noise around me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165619.html](http://www.nuforc.org/webreports/reports/165/S165619.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
