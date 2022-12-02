@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:25 on 2 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:45 on 2 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in River Falls (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Large ball of orange light that slowly lowered to the west of where we were driving.A friend and I were driving home and the entire drive there was a large circular ball of orange light, we both don’t have a clue what this could have been and it seemed to lower from the sky in the west near the Twin Cities.  We both tried to find any sort of logical explanation for it but we couldn’t.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151240.html](http://www.nuforc.org/webreports/reports/151/S151240.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Kansas City (KS) reported seeing craft that fit the description of some 'Oval' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Two orange, flashing oval craft hovering low in skySighting 2 Dec 2010, Wyandotte County, KS In northwest sky, at about 17:00 hours, two solid objects, bright orange, and round or oval in shape, were seen out north-facing picture window hovering, one low above horizon, the other directly above the lower one at about the same point in sky as upper power lines (looking out house window). Weather was clear, no wind to speak of. The objects flashed, with orange light (did not blink on and off) like a strobe effect. Both were larger and brighter than stars appear. Point of observation is atop a hill about 1 mile south of MO river, situated below regular MCI and downtown airport flight paths (aircraft such as commercial jets, small planes, helicopters frequently overhead). These objects were not moving: neither to either side, nor becoming larger or smaller for several moments. I called my husband to see them. The uppermost object then moved away rapidly into the northwest sky. The lower object remained stationary for another several minutes (I had time to get my telescop! e from another part of the room and aim it at the object). The object remained where it was; a regular plane flew over the space with normal movement toward airport, but the hovering object did not move at all. Finally it very slowly moved upward (judged by power line in foreground) and then away toward the northwest(in the same direction as the one before had gone) and was quickly no longer visible. Could not tell how far away or at what altitude, but compared to the commercial jet it was (estimated) about half the size of the fuselage of the jet and at about the same altitude, but seemed more distant  – no wings were apparent. When these objects moved away they quickly became "smaller" to the naked eye, and then disappeared. Observer is a woman with a Master's degree, and husband is an IT specialist.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79116.html](http://www.nuforc.org/webreports/reports/079/S79116.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
