@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:22 on 1 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:28 on 2 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1951, an anonymous witness in Crewe (UK/England) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>This was in the city, I caught a movement over my shoulder and saw a very low black object going north.  It appeared to be floating and was very large and silent. At that time I had never heard of UFO's. On the front page of the daily paper [Daily Mail or Daily Herald] I can't remember which the next morning was a report from the Jodrell Bank Observatory which is approx. 25 miles from Crewe stating that they had picked up the object, tried communication and to identify it to no avail so tracked it until it went off their screens still going north and disappeared over the north coast of Scotland. That was the last I heard of it.  No more news items.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22222.html](http://www.nuforc.org/webreports/reports/022/S22222.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Port St. Lucie (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Christmas tree colored sparkling lights hovering over the southeastern sky in FloridaA friend and I had gone out to the movies. Upon our return I happened to glance up and saw among the stars, something that stood out and was different from all the stars. Upon closer examination with binoculars, my friend and I saw christmas colored lights kind of sparkling on the two crafts that were hovering in the southeastern sky over the Indian River or Atlantic Ocean area estimated to be perhaps 8 to 10 miles away. The two objects remained still but sparkled red, green, blue and yellow and one seemed larger than the other. We watched for about a half hour or more until our necks got tired from looking up. These were obviously not airplanes or satellites. Another passerby saw these crafts also and agreed that they were something not like anything he had seen ever.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60167.html](http://www.nuforc.org/webreports/reports/060/S60167.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [441](http://www.nuforc.org/webreports/reports/165/S165612.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165613.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165607.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165628.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165874.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
