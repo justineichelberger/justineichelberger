@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:25 on 2 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:26 on 2 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Greenwood (MO) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>My brother and I saw something strange burning into the atmosphereMy brother was outside on the back porch letting his dog out, and he suddenly yelled for me to come look at the sky.  We both saw a circular glowing shape burning into the atmosphere.  we yelled for our mom to come look and she did too.  it seemed to be breaking up as well.  it started off as a deep purple slowly changing into orange and yellow.   it continued to change and break up until it dissapeared.  we couldnt figure out what it was.. and the fact that it was so well seen.  anyone who was looking up at the sky at that moment in the area would have seen it.  it was on the westerly side of the sky.later that night we watched the news.. and they had an extremely small two sentences to say about it.  someone had caught it on video..  and the news anchor said it was "space trash"  but there were no details.  it sounded to me like no one really knew and they didnt want anyone to know about it.it definetely was one of the weirdest things i have ever seen.((NUFORC Note:  Date may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27834.html](http://www.nuforc.org/webreports/reports/027/S27834.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lillington (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>A quick green light.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  We have changed the date, to reflect a sighting on Monday morning, December 2nd, 2013.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105016.html](http://www.nuforc.org/webreports/reports/105/S105016.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
