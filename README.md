@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:31 on 2 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:23 on 2 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I saw a flock of bird shaped objects, about 23, fly within a 5 second period and disappear in the open sky.I saw about 23 dull white bird shaped objects moving like a flock, from SW to the East over Portland, Or.  First three were startling, then more came within a 5 second period.  They vanished in a slip or zipper in sky.I was looking out of a large industrial window that faces Mt. Hood from the SW to East.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94928.html](http://www.nuforc.org/webreports/reports/094/S94928.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Fairfield (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.6 - 0.6 minutes.</sub><blockquote><sub>two objects that appeared through my camera as white, seem that they had the ability to become one and seperate at high speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162292.html](http://www.nuforc.org/webreports/reports/162/S162292.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
