@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:36 on 2 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:24:40 on 2 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Oakley (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Stepped out on my balcony & looked up to see a silver head of a shovel shaped/ufo object with a blue horse shoe shaped fluorescent tube running on the inside bottom of the craft. The craft tilted up and seemed to move away in a skimming motion until it was out of sight. The craft was stationary above our home and moved from the west to east when it left.  It left. It left an errie feeling in my stomach.  It's hard to stop thinking about it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105101.html](http://www.nuforc.org/webreports/reports/105/S105101.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in LaGrange (GA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 00:10:00 - 00:10:00 minutes.</sub><blockquote><sub>UFO sighting in LaGrange, GA. Bright lights hovering very low to ground, and house.On December 2, 2011 at 9:00 pm I witnessed a UFO in rural Georgia.  I was in the driveway, of my girlfriend’s house about to leave.  Two bright lights hovered over a distant neighbor’s home. The Lights appeared to be like headlights of a car, except they were floating in the air and one light was about the size of a vehicle.  As we watched the lights the object moved very low toward us, coming down the wood line.  It appeared that the object was going to scrape its bottom on the trees. We pulled out of the driveway, turning left toward the object.  We stopped at a stop sign approximately 500 ft. from the driveway.  We turned the truck and headlights off.  The object was still hovering very low.  But slowly it rose straight up into the air.  The object made a very faint noise as it rose up.  We turned left at the stop sign and parked the truck. We got out, and saw it hovering above my girlfriends pasture.  We watched it there for a few minutes then returned back to her house.  Back at her house we could now see different colors on the object.  There was a thin band of light at the bottom with an even brighter, bigger, circular light rotating around the band of light.  We looked at it through binoculars, but the object was to high in the sky at this point to see any good details.  From just looking at the object all you could see at the point was color changes, from green, to yellow, to white, to bright blue.  The object is still hovering in the sky. Now the object is very high though.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85641.html](http://www.nuforc.org/webreports/reports/085/S85641.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
