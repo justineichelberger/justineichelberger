@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:26 on 3 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:19 on 3 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Lodi (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1230.0 - 1230.0 minutes.</sub><blockquote><sub>Strange fireballs on Dec. 03, 1999 on the West side of Lodi.  They hung around for about four hours, and military planes flew over.Around 7:30pm on Dec. 03, 1999, my cousin (who at the time was 10 years old) and I went outside to wait for Santa Claus to come by on his firetruck (a town Christmas tradition). I need to give you a quick description of where we live.  We live on the West side of Lodi, our house faced north but to the west of us across the street is nothing but fields going towards the delta.  The only houses around us are to the east and north.  As we were outside waiting I happened to turn to the west towards the field and noticed two large orange/red fireballs hanging over the field just a little above tree level.  I had my cousin go in the house and get three more of my relatives.  As we watched these lights they would appear and disappear as if throwing alight switch, and sometimes they would just get real dim then glow real brightly.  Around this time four more of my relatives were driving by so we flagged them down to watch.  There were other motorists on the road, and some looked like they were looking at the objects, but I'm not sure if any one else saw them.  Anyways, this whold thing lasted about four and a half hours of these huge fireballs appearing, disappearing, dimming, and darting back and forth. And the entire time aircraft was circling them, I mean lots and lots of airplanes.  AT one point a huge military plane flew right over our house and it was so low you could see the missles attached to it. One of the unknown craft went flying down the field, just barely over the grapevinyards, and it seemed to be spinning as it flew.  It had red and blue lights andit was so fast we couldn't even tell where it went.  So to make a long story short Lodi was full of strange lights that night and after that night we saw them around five or six more times.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14833.html](http://www.nuforc.org/webreports/reports/014/S14833.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>what i saw could only be descibed as a green laser beam coming from the sky and it had a red "flame" coming from the back as it shot down towards the ground in an angle. i tried to listen to see if it made a sound when it hit the ground but it did not. not even a light emmited as it hit.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15389.html](http://www.nuforc.org/webreports/reports/015/S15389.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
