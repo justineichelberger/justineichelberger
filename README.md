@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:27 on 3 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:27 on 3 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Westminster (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Trail of lights in the sky that appeared to be on a sideways rotating disc. Craft moved up in the sky and faded away.I was biking home when I stopped to fix my jacket. I looked up and saw an unusual trail of lights in the sky. I assumed it was the iss, but it was long. A straight line of white dots. I looked more and saw an outline of an oval, looking like the side of a discus. I pulled out my phone to video it after I saw that it seemed to be rotating, the lights moving up like they were on the side of a rotating disc. As I videoed the scene, I saw the thing move higher in the sky. Then the lights started to fade and the outline disappeared as the whatever it was faded away into the night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165673.html](http://www.nuforc.org/webreports/reports/165/S165673.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Milford (CT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Saw five craft  and observed signaling after work.As reported to MUFONCT:  After coming home from work I observed a white fluorescent cigar shaped object 60ft high and 35 ft away at closest point.  The object was about 20 ft long and about 6' high.  It moved into the southern sky about 1 mi away stayed and burst into a "gigantic sparkler"...which then moved in a straight line and exploded two more objects from itself.  Those two began to signal me by movements then went past their "mother" --then they began to turn red and blink then disappear over horizon.  I got into my car to chase "mother", as I viewed it thru binoculars I raised the binoculars upward and observed the black crescent UFO which nearly filled my entire field of view.  I lowered the bino. and noted that it was several hundred feet in the air.  I ran to my car and encountered a "mystery man" who began to bang on my window. talked with him for a minute then drove to the police station.  Upon arriving home, I saw a chevron cloud formation, raised binoculars to one cloud and saw a classic flying saucer (hump above and below center line) which came from cloud with rotating disk and alternate red and green lights attached to disc.  It approached me and looked as if it would hit the house in which I stood--I hid behind storm door and watched saucer float above my neighbors house across the street--about 50 ft away and about 50  ft high.  Stepped outside as it veered off to the western horizon, where it hovered...after a few moments it came back towards me, turned on its axis and the rotating dissk turned on end moved to the right and disappeared piecemeal as if moving into a cut into the very sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35162.html](http://www.nuforc.org/webreports/reports/035/S35162.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
