@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:28 on 3 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:31 on 3 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Lebanon (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright Ball of light viewed from Lebanon Il. at 10:50pm originating from Southwest and exiting in the Northeast visible for 15 minutesEvery night at 10:50pm on my way home from work driving North on Rt. 4 towards Lebanon Illinois from Scott Air Force Base and while driving east on new Rt. 50 from Lebonon to Carlyle I witness a ball of light moving acrost the sky at a very high rate of speed, (can't tell because I don't know how high it is, however, I drive am driving 65 mph and it comes into my view as I leave the base and it is gone out of my sight before I reach Breese Illinois, that's about 15 minutes, it must cover about 300 ground miles in that time frame. It is first visible from the Southwest looking from Lebanon and last visible in the Northeast over Vandalia from the same vantage point.((NUFORC Note:  We have no idea what the witness has been viewing.  However, since the witness apparently has been in motion during his sighting, we feel that he may have been witnessing a (stationary) celestial body, which gives the impression that it is moving, given that the witness has been moving.   PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20702.html](http://www.nuforc.org/webreports/reports/020/S20702.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Boone Grove (IN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Driving north from Wheatfield, IN, into Bone Grove, IN, just south of Valparaiso, IN.  I witnessed white lights in the sky, dark saucer shaped craft, the lights appeared to be on the outer edges of the craft.  Pitch black out side, clear night, no wind.  The craft made no noise and sighting lasted 5 minutes til craft disappeared from sight behind trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131593.html](http://www.nuforc.org/webreports/reports/131/S131593.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
