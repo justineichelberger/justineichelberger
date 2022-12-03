@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:38 on 3 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:37 on 3 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Fort Lauderdale (FL) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Chevron Wedge of approx. 20 small luminescent disks; in actuality one large individual UFO with round "running lights" below.Telescope observation. Full moon; three major planets. Orion high. Paused for clearing eye. Looking towards the east [Ft. Lauderdale beach]at Lupus constellation. Slow rising wege [reverse chevron configuration]. Approx. 20 small round luminescent discs [one out of "formation"]visible, rising from east in slow arc towards Orion constellation. Unaware of height in night sky - meteor burn below chevron-shape cluster of discs [disc-circles small as smaller floppy-disk circle]. Height estimated above 100,000 ft. Chevron wedge of disc-light flight takes them across first two stars of Orion belt, and stars disappear behind chevron wedge shadow [the dark space between, and surrounding disc-lights]! Lights thought to be many objects, now appear to be one large object [by large...meaning enormous - like small satellite moon!]. Arc of flight continues past zenith until object "falls off sky" as would an object outside Earth's atmosphere! Contacted Jimmy Carter Washington telephone number to report sighting; received confirmation as being one of four sighters at 1:10 a.m. and 6:30 a.m. [repeated particulars of sighting to both callers]. Received e-mail from stranger a few years ago [around 1995] from viewer in boat out at sea that smae night who reported to me that he not only saw the same object as I, but another smaller craft from larger one which "buzzed" Ft. Lauderdale beach, and caused small Piper Cub type aircraft to crash, killing dentist and family! Could not corroborate my sighting because of problem with his party whose members did not wish to be identified as being where they were at the time! Was told by Professor Hynek [the 6:30 a.m. call from California] that my sighting was one of "Mother-Ship" first seen in 1888 and then again in 1950.((NUFORC Note:  We will attempt to establish whether the date is exact, or approximate.  We will invite the witness to locate the article of the crashed aircraft.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22291.html](http://www.nuforc.org/webreports/reports/022/S22291.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Lexington (KY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Twenty white objects spotted hovering over University of Kentucky campusOn the third of December, after exiting our classroom building, my friend and I noticed about twenty white, floatinging "orb-like" objects in the sky. The were moving around, and when our view became obstructed by a tree, we ran to see them again -- but they were gone. Did anyone else see them around the UK campus? We need to know what those things were!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41016.html](http://www.nuforc.org/webreports/reports/041/S41016.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
