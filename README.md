@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:26 on 3 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:21 on 3 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Royal Palm Beach (FL) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>everyone that saw  admitted never seen anything like itAt first looked like con trail from plane but smoke and craft disappeared for 20 sec.  Only to reappear coma shaped larger more smoke and dropped at least two other fire balls before going out to sea.  Helicopter responded to scene in 3 min.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105070.html](http://www.nuforc.org/webreports/reports/105/S105070.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Dittmer (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>It looked like a Amtrak train at about 1500’ with lite up sections of different colors like a short cem trail at night lighted.The object was at what seemed like the height were jets fly. There was no noise of an aircraft, moving at about the same speed as a jet. It was only the for about 2 minutes. It looked like a 20 car train with all sections lite with different colors. My 16 year old son came in the house and said the was a row of lights in the sky. I may a 59 year old power lineman for large utility and do have done executive security as a side job. It’s probably nothing but my brother is an Aviation mechanic and I sent him a picture and he has no clue.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165687.html](http://www.nuforc.org/webreports/reports/165/S165687.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
