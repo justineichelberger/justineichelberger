@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:28 on 3 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:25 on 3 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Cigar' over a period of approximately  -  minutes.</sub><blockquote><sub>Long straight shining flying objectOn 12/3/2021 at 6:40pm. It was already dark outside, I was walking my dog in my community. I love looking at stars while walking my dog in the evening. At that time, I was on the phone with my sister in China. Suddenly I saw a long shining bright chain-like object showed up in the middle of the sky and moving from west to east, and it flew away out of sight after 4 minutes. I took a picture with my phone, but the quality of the picture isn’t the best due to the capacity of my phone camera. My son said later he also saw the same flying object while he was out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165679.html](http://www.nuforc.org/webreports/reports/165/S165679.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Owings Mills (MD) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Large, bright double trail low in the sky, falling quickly to the ground.This looked like a "double shooting start," but much brighter and lower in the sky.  Very white.  Large mass that broke into 2 separate tails, fell quickly to the earth.((NUFORC Note:  Possible meteor??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115827.html](http://www.nuforc.org/webreports/reports/115/S115827.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
