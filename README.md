@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:19 on 3 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:29 on 3 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>what i saw could only be descibed as a green laser beam coming from the sky and it had a red "flame" coming from the back as it shot down towards the ground in an angle. i tried to listen to see if it made a sound when it hit the ground but it did not. not even a light emmited as it hit.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15389.html](http://www.nuforc.org/webreports/reports/015/S15389.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright Round Shape directly above heads....12/03/07 17:35   Albuquerque NM   From Taylor Ranch Area  I just pulled into my driveway at home when exiting vehicle I observed in northeast sky over Sandia Mountains a bright blue meteor falling at about 45 degree angle followed by dusty trail of smaller blue meteors directly behind.  Lasting approximately 10 to 20 seconds.  Running inside to get friend immediately returning back outside and running toward street I, a friend and third person witnessed directly above our heads an extremely bright round circular light.  Altitude unknown, silent, single bright white light.  Light remained solid for twenty seconds and then closed down like camera lens to a pinpoint size greyish colored dot. I continued to observe the grey dot as it paused after closing down, then very slowly floated northeast gaining slight altitude moving toward mountain.  It paused for short period, then continued slightly changing direction moving direction where blue meteorite had landed in Sandia Mountain.  I watched the grey dot slowly float northeast/north until it was out of site possibly over the Placitas area.  The meteorite appeared to have landed north of tram area behind the first mountain range.  I stayed outside for awhile waiting or hoping for another sighting.  I also reported to MUFON shortly after sighting... maybe Jan 2008.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85772.html](http://www.nuforc.org/webreports/reports/085/S85772.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
