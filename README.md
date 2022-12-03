@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:22 on 3 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:28 on 3 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Timmonsville (SC) reported seeing craft that fit the description of some 'Other' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>LOng cloud like object races across the skyWhile my wife and I were outside sitting by a fire cooking hot dogs we looked up at the stars and saw a long very very high going from horizion to horizion, What I am going to describe is hard but i will try anyway. It was like a long narrow cloud, except it moved from west to east at an amazing speed and never seemed to get wider or more narrow. We both said boy look at it race across the sky. We watched it till it went out of sight to the east. We went back to cooking our hot dogs and looked up about 5 min later and watched another long narrow cloud like thing again race across the sky from west to east. This also reached from horizion to horizion. Like the other it RACED across the sky no way was the wind blowing this that fast. Even if you watched a jet fly that would be slow compared to how fast this "cloud" moved. We never heard a sound and it was a very quiet night. The moon really light it up.((NUFORC Note:  We wonder whether the witnesses might have observed military fighter aircraft passing overhead at velocities higher than what is typical for a transport jet aircraft.  Just a guess.  We have received no other reports, yet.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33579.html](http://www.nuforc.org/webreports/reports/033/S33579.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Cigar' over a period of approximately  -  minutes.</sub><blockquote><sub>Long straight shining flying objectOn 12/3/2021 at 6:40pm. It was already dark outside, I was walking my dog in my community. I love looking at stars while walking my dog in the evening. At that time, I was on the phone with my sister in China. Suddenly I saw a long shining bright chain-like object showed up in the middle of the sky and moving from west to east, and it flew away out of sight after 4 minutes. I took a picture with my phone, but the quality of the picture isn’t the best due to the capacity of my phone camera. My son said later he also saw the same flying object while he was out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165679.html](http://www.nuforc.org/webreports/reports/165/S165679.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
