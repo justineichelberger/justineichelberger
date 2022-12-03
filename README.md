@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:23 on 2 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:30 on 3 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Kent (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was in my car when I saw a ball of fire I thought it was a plane at first  Then I saw a 2nd and 3rd on I could see a plane too low to be then I thought A air balloon but couldn't see a balloon but on one of them I saw something Attached to one object it was like a circular tube spinning circles</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115798.html](http://www.nuforc.org/webreports/reports/115/S115798.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Macomb (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Bright Glowing orbs... get brighter then dimmer.. sometimes 3-4... glide back and forthI've reported this sightings in the past.  I don't believe it was on this site that I had reported it.. these lights have been showing up since November of 2014..  I have numerous cell phone videos of these glowing objects from the passed couple of years.  I don't see a pattern to when they will show up but all last summer 2016 every couple days they would apear anywhere from 20 minutes to 2-3 hours hovering and at times all of a sudden another will appear (not as bright as the first one) right next to it or possibly more (have only ever seen 4  One time).  They glow a white/orange color but when take binoculars and zoom in you get what seems like every single color illuminating (yes like a star) and here is where the star theory dies.... these objects HAVE been seen below the clouds... what is interesting is when first one appears it is always the brightest and dims then gets bright again and moves slowly gliding right to left... and when they leave it's just boom...GONE.  (For whatever reason it is always the same exact location/spot it shows up to, then moves right or left from there)  (Have videos)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133124.html](http://www.nuforc.org/webreports/reports/133/S133124.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
