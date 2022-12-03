@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:25 on 3 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:23 on 3 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Owings Mills (MD) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Large, bright double trail low in the sky, falling quickly to the ground.This looked like a "double shooting start," but much brighter and lower in the sky.  Very white.  Large mass that broke into 2 separate tails, fell quickly to the earth.((NUFORC Note:  Possible meteor??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115827.html](http://www.nuforc.org/webreports/reports/115/S115827.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Object was large and very shiny, remained stationary and showed no signs of lights or windows.  Then just seemed to vanish into thin air.soon after I noticed jets were scrambled towards it's direction as well as a c-130</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151249.html](http://www.nuforc.org/webreports/reports/151/S151249.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
