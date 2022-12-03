@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:17:44 on 3 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:26 on 3 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Dobson (NC) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately  -  minutes.</sub><blockquote><sub>Two separate people two separate locationsObserver 1 saw one large white lighted object first while driving home at night. Called second observer at home to have them go outside and look as well. Observer 2 while at home turned all lights off, went outside saw a plane in the sky. They continued to look for another object and then saw a very large long white lighted rectangular object in the sky while on the phone with observer 1 who was also seeing the same thing. Note both observers were about 3 mi apart from each other. The object was North, slightly NW.The lights appeared to be very tall and parallel to each other and they seemed to run the entire length of the object.While continuing to look at the object in the sky, observer 2 at home proceeded to take a picture with their cell phone and then a zoomed in picture with their cell phone. Observer 2 then moved the phone settings to video and the object disappeared. Observer 1 approximately 3 miles away also noted the object could no longer be seen in the sky at that time. Observer 1 saw the object for approximately a few minutes. The object did not appear to be moving. There were two commercial airplanes in the sky within sight during this time of the unidentified object sighting.Observer 1 is a mechanic and was in the army for ten years. Observer 2 is in management at a pharmaceutical development company.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165654.html](http://www.nuforc.org/webreports/reports/165/S165654.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Royal Palm Beach (FL) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>everyone that saw  admitted never seen anything like itAt first looked like con trail from plane but smoke and craft disappeared for 20 sec.  Only to reappear coma shaped larger more smoke and dropped at least two other fire balls before going out to sea.  Helicopter responded to scene in 3 min.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105070.html](http://www.nuforc.org/webreports/reports/105/S105070.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
