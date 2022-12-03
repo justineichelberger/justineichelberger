@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:36 on 3 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:29 on 3 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Shaker (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>early morning sighting by 8 y.o.The object was moving in an odd line and it was kind of an oval with two triangles on top at the end.  The second time I saw it it was moving in a straight line and it was white with black spots on it.((ADDENDUM FROM PARENT OF WITNESS))This is something my son (8) saw.  He was very insistent about it.  I very much tried to discourage his submission.  He says he watched as he rode to school.   I would leave it at that.  I am not interested in what he saw particularly.  He is an entusiastic little kid, and I for one, have no idea what he thinks he saw.  My apologies for the submission.((END))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40908.html](http://www.nuforc.org/webreports/reports/040/S40908.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Chandler (AZ) reported seeing craft that fit the description of some '' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>Woman noticed unusually bright object in the daytime sky.  It was very luminous, or very reflective of sunlight.  It appeared to have a vertical orientation to it, and it moved erratically, first E to W, then to SW.  Then the observer noticed an orange colored object "farther" away, which seemed to be receding from her position, then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01036.html](http://www.nuforc.org/webreports/reports/001/S01036.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
