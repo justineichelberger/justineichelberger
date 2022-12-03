@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:29 on 3 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:36 on 3 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Chandler (AZ) reported seeing craft that fit the description of some '' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>Woman noticed unusually bright object in the daytime sky.  It was very luminous, or very reflective of sunlight.  It appeared to have a vertical orientation to it, and it moved erratically, first E to W, then to SW.  Then the observer noticed an orange colored object "farther" away, which seemed to be receding from her position, then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01036.html](http://www.nuforc.org/webreports/reports/001/S01036.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Uniontown (OH) reported seeing craft that fit the description of some '' over a period of approximately Few seconds - Few seconds minutes.</sub><blockquote><sub>Stepped out of house to go to a store saw this huge craft with a long blueish white streak across the sky from east to northwest.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115807.html](http://www.nuforc.org/webreports/reports/115/S115807.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
