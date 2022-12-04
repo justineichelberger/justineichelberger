@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:30 on 4 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:42 on 4 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Elizabeth (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>I sent my nephew to get my laptop from my car and when he came back in he said, &quot; oh by the way, what are those lights out there?"I sent my nephew to get my laptop from my car and when he came back in he said, " oh by the way, what are those lights out there?"  I asked what light and he said, they've been there for like 10 minutes.I rushed to my dad's window and saw about 5 extremely bright lights, staying still in the sky.I called my mom into the room and she said they were aiplanes, but after observing them for about 5 minutes and still no movement just bright lights we figured they couldn't possibly be airplanes.Suddenly, a few more lights started flickering in the background of the already bright lights in the dark night sky.Then suddenly one of the brighter lights dashed incredibly fast to the other side of the sky.  All three of us then rushed to my brothers window facing the front of the house and saw that there were other lights gathering around that one brighter light.  It was almost as if they were doing a fornation.  Suddenly there was a total of 10 super bright lights just floating in the sky.I called my brother and asked him to peak outside from his job site and see if he saw anything and while I was on the phone the lights started flickering and a few others just seemed to disappear into the night sky, until all were gone.We were convinced that these were no airplanes.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124507.html](http://www.nuforc.org/webreports/reports/124/S124507.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Fort Meade (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Driving along road that runs parallel to military base, a bright white/amber light shot over the sky at an extremely low distance, could not have been a falling star due to its horizontal to horizontal movement and the closeness of it to the ground.  It was enough to stun me and the other occupant of my car and then was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11283.html](http://www.nuforc.org/webreports/reports/011/S11283.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
