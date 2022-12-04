@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:32 on 4 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:29 on 4 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Milton (near Banbury) (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>bright slow moving non formation circular objects over north oxfordshireclear blue sky. I was filling a couple of bird seed containers in my garden and had just looked towards the sky, watching an aircraft descending into LHR. I know that aircraft are normally descending through 18000ft at this stage when i noticed a small silver round object,way above the flight path of the aircraft.My initial thought was that it was a weather balloon.I was fascinated, stopped filling the containers and picked up my binoculars from inside the house.The object moved slowly so i visualised its path, moving from north-west to south-east.Looking back at what i thought was a solitary object i observed at least 20-30 similar bright objects moving slowly in the same direction, but in a random pattern.I called to my wife, who was upstairs,but by the time she realised what I hoped she would see as well, the objects had disappeared.My initial reaction was that what i had seen would be easily explained. I telephoned RAF Benson in Oxon. who informed me that they did not think it was anything weather related, but they gave me the telephone no. of the headquarters of the meteorological office in Exeter. They were interested, but could not offer any clues as to what i had observed.I have looked on various websites to see of anything similar has been reported, but again no luck.I have observed on you tube something very similar to my observations made back in 2004 over Guadalajara, but not in the same numbers.I used to work for British Airways as cabin crew for 38 years, retiring 3years ago.I am a keen birdwatcher and still interested in aviation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67333.html](http://www.nuforc.org/webreports/reports/067/S67333.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Woodbury (CT) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Rounded lighted object seen over Woodbury CTMe and my mom were driving home when suddenly a rounded object with lights appeared in our view. We watched it thinking it was an airplane but the lights did not blink or strobe.  As we were looking at it it got lower to the point where our car actually went ahead of the object ( this is how i could tell it was low because if it was high like an airplane we wouldn't have been able to pass it and to where the angle we had to look at it had to change ).  We stopped, now questioning what we were seeing.  The object continued to move past us ( to my view it was moving to my right and I was sitting in the passenger seat of the car, looking out the drivers side window) until suddenly, and i mean INSTANTLY, stopped and shot away into the other direction (away from our car, to the left of my view, and towards the rear of where our car was faced).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105080.html](http://www.nuforc.org/webreports/reports/105/S105080.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
