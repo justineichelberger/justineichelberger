@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:21 on 4 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:24 on 4 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in West Molesey (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Stange light seen near Heathrow airport.My wife and i were returning from shopping it was a clear evening and no cloud and the stars were out, i was looking at the aircraft over head as we have a habbit of doing as they are so close to each other we worry about near misses.I then noticed a light which was brighter than the stars and was like a hallogen light in colour and it was moving right to left of our possition and seemed to float along with no paticular pattern when i mentioned this to my wife she said "it was probebly a plane?". but i pointed out that all the other planes in the sky had red navigation lights flashing and as i said this an airoplane flew under this light and turned in a normal flight path where as this light just seemed to float on?.So which ever way it would go if this was an aeroplane i would have been able to see its navigation lights but there were none  then after a few more minutes it's light seemed to fade real fast i could still see it and then i saw it no more.In conclusion with so many planes in the sky and being so close to heathrow airport someone up there must have seen something? especialy the plane which flew under the light and as we live under the flight path for Heathrow we know which direction the planes fly in and this object floated across them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26423.html](http://www.nuforc.org/webreports/reports/026/S26423.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lafayette (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>16 Lights following each other in a rowString of lights, each following each other in formation of a line.  Slowly traveled across sky from south to north horizon.  Some lights traveled closer to one light then back to a well spaced distance from the other light.  Each was about half the light of Venus.  They only were white light in color.  No flashing lights like air planes.  Seemed to hover and float.  No sound.  Took about five minutes to travel from one horizon to the other.I was the only one that witnessed this although I'm sure anyone in my city probably saw it too.  I am a retired computer network engineer.  I witnessed this in front of my residence.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160999.html](http://www.nuforc.org/webreports/reports/160/S160999.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
