@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:42 on 4 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:30 on 4 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Fort Meade (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Driving along road that runs parallel to military base, a bright white/amber light shot over the sky at an extremely low distance, could not have been a falling star due to its horizontal to horizontal movement and the closeness of it to the ground.  It was enough to stun me and the other occupant of my car and then was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11283.html](http://www.nuforc.org/webreports/reports/011/S11283.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Syosset (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>AT APPROXIMATELY 6:30PM EST I OBSERVED A STRING OF LIGHTS MOVING THROUGH THE SKY.IT TRAVELED SLOWLY SOUTH TO NORTH. THERE WERE PLANES IN THE AREA BUT THIS WAS NOTA PLANE. IT APPEARED THAT THERE WAS SOME MASS ATTACHED BUT COULD NOT DEFINITIVELY SAYA SHAPE. THE STRING OF LIGHTS DISSAPPEARED AFTER APPROXIMATELY 2 MINUTES OF TRAVEL THROUGHTHE SKY. THERE WAS NO SOUND OF ANY KIND COMING FROM THIS LIGHT STRING.THE LIGHT WAS NOT A CONSTISTANT STRAND. IT HAD SPACES BETWEEN THE LIGHTS AT DIFFERENTDISTANCES BETWEEN THEM.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165744.html](http://www.nuforc.org/webreports/reports/165/S165744.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
