@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:23 on 3 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:43 on 4 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Object was large and very shiny, remained stationary and showed no signs of lights or windows.  Then just seemed to vanish into thin air.soon after I noticed jets were scrambled towards it's direction as well as a c-130</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151249.html](http://www.nuforc.org/webreports/reports/151/S151249.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Courtice (ON) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>A row of about 20 lights very high up just flew in a North easterly direction across the night sky.Went outside to let my dog out and when I looked up I saw string of about 20 round lights travelling across the sky. Somewhat evenly spaced out in a straight line. Lasted about 20 seconds. Thought it went behind some clouds but never came out? Other normal stars were clearly visible so don’t know where they disappeared to? Looked all over sky for about another 5 minutes to see if they reappeared anywhere else but no sign of them. Very unusual to say the least. Didn’t have my phone handy so I could not record what I saw. Was about to go inside to get it when they disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165700.html](http://www.nuforc.org/webreports/reports/165/S165700.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
