@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:59 on 4 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:32 on 4 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Clovis (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>I walked out of my house Wednesday evening, 12/04/2019, at about 9:55 at night,  I got to the edge of my walkway turned around Facing East and saw a rather large ball of light hovering in the sky for a split second, and then shot off to the North at an extremely high rate of speed, and then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151301.html](http://www.nuforc.org/webreports/reports/151/S151301.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Milton (near Banbury) (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>bright slow moving non formation circular objects over north oxfordshireclear blue sky. I was filling a couple of bird seed containers in my garden and had just looked towards the sky, watching an aircraft descending into LHR. I know that aircraft are normally descending through 18000ft at this stage when i noticed a small silver round object,way above the flight path of the aircraft.My initial thought was that it was a weather balloon.I was fascinated, stopped filling the containers and picked up my binoculars from inside the house.The object moved slowly so i visualised its path, moving from north-west to south-east.Looking back at what i thought was a solitary object i observed at least 20-30 similar bright objects moving slowly in the same direction, but in a random pattern.I called to my wife, who was upstairs,but by the time she realised what I hoped she would see as well, the objects had disappeared.My initial reaction was that what i had seen would be easily explained. I telephoned RAF Benson in Oxon. who informed me that they did not think it was anything weather related, but they gave me the telephone no. of the headquarters of the meteorological office in Exeter. They were interested, but could not offer any clues as to what i had observed.I have looked on various websites to see of anything similar has been reported, but again no luck.I have observed on you tube something very similar to my observations made back in 2004 over Guadalajara, but not in the same numbers.I used to work for British Airways as cabin crew for 38 years, retiring 3years ago.I am a keen birdwatcher and still interested in aviation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67333.html](http://www.nuforc.org/webreports/reports/067/S67333.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
