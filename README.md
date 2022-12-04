@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:24 on 4 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:20 on 4 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lafayette (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>16 Lights following each other in a rowString of lights, each following each other in formation of a line.  Slowly traveled across sky from south to north horizon.  Some lights traveled closer to one light then back to a well spaced distance from the other light.  Each was about half the light of Venus.  They only were white light in color.  No flashing lights like air planes.  Seemed to hover and float.  No sound.  Took about five minutes to travel from one horizon to the other.I was the only one that witnessed this although I'm sure anyone in my city probably saw it too.  I am a retired computer network engineer.  I witnessed this in front of my residence.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160999.html](http://www.nuforc.org/webreports/reports/160/S160999.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in Roosevelt (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>One light, then 2 lights west of Roosevelt, AZ observed by 2 adults camping.We were looking west while camping east of Tortilla Flat.  While we were observing the stars we saw a single red light lasting about 10 seconds.  After a minute of staring in the same area, we saw a commercial airliner going south to north and all of a sudden 2 red lights showed up.  In perspective, the lights were as large as the commercial jet.  With my hand extended, they looked to be about 12 inches apart (from our vantage point).  I am not sure how far away from us they were as it was night time.  They stayed in one position horizontally for about 10 seconds, then the southern one went up and the northern one went down, slowly at first, then quickly.  They both then disappeared and we didn't see any additional lights over the next hour or so.  The one that went upward seemed to moved extremely rapidly the other not so fast.  We were both in disbelief and asked each other if that just happened.  I searched an have not found any similar incidents online.  We were just merely out camping and saw these lights.  We are both professional adults.  Here is a link to the google maps link approximately where we were camping: https://www.google.com/maps/place/33%C2%B038'02.1%22N+111%C2%B012'14.4%22W/@33.633907,-111.203989,154m/data=!3m2!1e3!4b1!4m2!3m1!1s0x0:0x0</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118430.html](http://www.nuforc.org/webreports/reports/118/S118430.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
