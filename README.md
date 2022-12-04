@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:43 on 4 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:23 on 4 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Courtice (ON) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>A row of about 20 lights very high up just flew in a North easterly direction across the night sky.Went outside to let my dog out and when I looked up I saw string of about 20 round lights travelling across the sky. Somewhat evenly spaced out in a straight line. Lasted about 20 seconds. Thought it went behind some clouds but never came out? Other normal stars were clearly visible so don’t know where they disappeared to? Looked all over sky for about another 5 minutes to see if they reappeared anywhere else but no sign of them. Very unusual to say the least. Didn’t have my phone handy so I could not record what I saw. Was about to go inside to get it when they disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165700.html](http://www.nuforc.org/webreports/reports/165/S165700.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Apache Junction (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>ufos emerge from three small geometric clouds.at 0700 my wife noticed an odd cloud in the SE sky, maybe 2 mi from our house.  If 2 miles is about right, then I would guess it's altitude to be about 1000 ft, and it's size to be about 100 feet high.  No other clouds were visible anywhere.  The cloud looked flat, was vertically oriented, and had perfectly straight sides, and was diamond shaped.  My first thought was that it was some kind of huge kite.  I  looked at it through a spotting scope, and could tell that it was clearly a cloud.  Then I noticed a round object above the cloud, which my wife could see without the scope, and through the scope it had a frisbee shape, with what looked like a hole in the center. The object looked solid, and had clearly defined edges. It began to move downward, extremely slowly, and changed it's orientation so that it looked almost edge on to our viewpoint, then went behind some low hills just south of the Superstition Mtns.  This took place over maybe 2-3 minutes, and while this was happening, the cloud kind of disentegrated into a more or less normal cloud looking shape, and drifted slightly north of where we first saw it.  At this time my wife had to leave for work, and I went back in the house, where I continued looking at this cloud through the scope.  Then another cloud appeared very suddenly, in about the same place.  It appeared to be more edge on, and looked more like a slash, but I could see that it had the same square edged appearance as the first one.  As I was looking at it, a small round piece of it slowly bulged out of the side, near the bottom, and began the same slow drifting kind of descent the first one did.  Thia one however didn't have a definite shape, it just looked like a small piece of cloud, trailing cloud/steam/smoke/? in a very short tail behind it.  It also finally went out of sight behind the hills in about the same place as the first one, and the cloud disentegrated in about the same manner as the first.  Before this second one disappeared, a third cloud appeared, in jus! t about the same place, with the same thing coming out of it.  I called my wife on her cell phone, (she had just gotten on the 60, headed west), and asked her to look in the rear view mirror if she could and tell me what she saw.  She could clearly see three clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53837.html](http://www.nuforc.org/webreports/reports/053/S53837.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
