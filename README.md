@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:27 on 4 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:21 on 4 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Spring Valley (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>I saw a triangle.Going from west to east, an anomalous, triangular craft streaked along the sky.  There was one red light that stayed in alignment with itself as the craft moved.  Strangely, the light was never the lead of a craft.  As well, it never lost shape, as all angles were, too, maintained.  As it went by I tried to get any kind of reference point, a star, perhaps.  It crosses a star and is, noticeably, translucent.  After it left the area, there was a heavy number of helicopters, like police choppers.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115835.html](http://www.nuforc.org/webreports/reports/115/S115835.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in West Molesey (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Stange light seen near Heathrow airport.My wife and i were returning from shopping it was a clear evening and no cloud and the stars were out, i was looking at the aircraft over head as we have a habbit of doing as they are so close to each other we worry about near misses.I then noticed a light which was brighter than the stars and was like a hallogen light in colour and it was moving right to left of our possition and seemed to float along with no paticular pattern when i mentioned this to my wife she said "it was probebly a plane?". but i pointed out that all the other planes in the sky had red navigation lights flashing and as i said this an airoplane flew under this light and turned in a normal flight path where as this light just seemed to float on?.So which ever way it would go if this was an aeroplane i would have been able to see its navigation lights but there were none  then after a few more minutes it's light seemed to fade real fast i could still see it and then i saw it no more.In conclusion with so many planes in the sky and being so close to heathrow airport someone up there must have seen something? especialy the plane which flew under the light and as we live under the flight path for Heathrow we know which direction the planes fly in and this object floated across them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26423.html](http://www.nuforc.org/webreports/reports/026/S26423.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
