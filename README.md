@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:23:17 on 4 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:01:43 on 4 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Convoy crosses Kansas City sky.I was standing in the parking lot on the west side of the Arrowhead Stadium after the Big 12 Championship on Saturday night.  Two lights appeared behind the stadium on the south side and crossed the sky from south to north.  The objects appeared as rings of fire/light separated by a constant distance and moving in the same direction at jet-like speed.  It seemed as though one craft was "towing" another behind it. A few seconds after the two lights disappeared in the north horizon, identical lights appeared again behind the south side of the stadium and follow the exact same trajectory.  A few seconds after these two lights dissappeared, a third set of lights crossed the sky, following the same trajectory as the others.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40975.html](http://www.nuforc.org/webreports/reports/040/S40975.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>An oval  orange and green  with three orange beams in the rear  object flying very fast in the sky from east to west sideways.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124510.html](http://www.nuforc.org/webreports/reports/124/S124510.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
