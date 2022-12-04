@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:38 on 4 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:25 on 4 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Englewood (CO) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A saw a few dozen or so single white lights flying slowly in a perfect straight line. Looked about 1,000 ft. in elevation and a few hundred feet apart. The movement was slow at about 20 mph with a heading of NE tracking over Centennial airport. All lights were white and about as bright as the stars in the sky. They made no noise and didn't exhibit any movement besides the straight line track. I saw the trail end.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161075.html](http://www.nuforc.org/webreports/reports/161/S161075.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Window Rock (AZ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Blue oval shaped light with tail above Window Rock traveling east to west.We were looking south from the Window Rock monument. An blue oval shaped light with a tail appeared in the sky out of nowhere, traveling faster than a plane, moving from east to west. We could see it for about 5 seconds and then disappeared from the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60406.html](http://www.nuforc.org/webreports/reports/060/S60406.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
