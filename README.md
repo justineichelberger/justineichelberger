@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:30 on 4 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:27 on 4 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Syosset (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>AT APPROXIMATELY 6:30PM EST I OBSERVED A STRING OF LIGHTS MOVING THROUGH THE SKY.IT TRAVELED SLOWLY SOUTH TO NORTH. THERE WERE PLANES IN THE AREA BUT THIS WAS NOTA PLANE. IT APPEARED THAT THERE WAS SOME MASS ATTACHED BUT COULD NOT DEFINITIVELY SAYA SHAPE. THE STRING OF LIGHTS DISSAPPEARED AFTER APPROXIMATELY 2 MINUTES OF TRAVEL THROUGHTHE SKY. THERE WAS NO SOUND OF ANY KIND COMING FROM THIS LIGHT STRING.THE LIGHT WAS NOT A CONSTISTANT STRAND. IT HAD SPACES BETWEEN THE LIGHTS AT DIFFERENTDISTANCES BETWEEN THEM.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165744.html](http://www.nuforc.org/webreports/reports/165/S165744.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in East Haddam (CT) reported seeing craft that fit the description of some 'Flash' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>UFO SightingI was driving around 3pm and saw it in the sky a huge circle/ flash in the sky then it was gone.  It lasted maybe 2 seconds.  Very, very white and big object with flash.  The passenger was with me and we both didn’t know what it was.  No other explanations or anything in the sky on a clear day that would suggest it could have been something else.  We same to the conclusion that we saw a ufo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151281.html](http://www.nuforc.org/webreports/reports/151/S151281.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
