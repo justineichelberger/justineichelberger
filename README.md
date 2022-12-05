@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:28 on 5 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:11 on 5 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Melbourne Beach (FL) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>At 9:00 pm a series of lights appeared aprox 1/2 mile off shore.  They were stationary and seemed to represent one big object.  The lights came on all at once but dimmed and dissapeared one at a time. I took a 30 sec video.  On the zoom mode, the lights seemed to pulse rapidly.  Before I could get my camers the object lit up the ocean by some type of beam.  It was a foggy evening.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85713.html](http://www.nuforc.org/webreports/reports/085/S85713.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Baytown (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>A Flash of light caught my attention as i looked up in the sky there was a Blue Fireball or Streak.  Vivd blue flash trail with Orb. prob Meteor IDK...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151306.html](http://www.nuforc.org/webreports/reports/151/S151306.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165759.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161213.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161137.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161055.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161054.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
