@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:20 on 5 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:14 on 5 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Tiverton (RI) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Brilliantly lighted cylindrical object seen in northern sky moved at a high rate of speed and vanished.While traveling north on Fish Road I observed what appeared to be a brilliantly lighted object against a clear blue cloudless sky. It was difficult to determine if the object was providing its own source of light or was merely reflecting sunlight as it seemed to emit a "welding-arc" type of brightness. The shape was cylindrical and it appeared to be in an "upright" position.The truck I was riding in was stopped behind a schoolbus picking up students. I observed the object remain stationary in the sky for a couple of seconds, then watched as it dropped at a 45 degree angle at a phenomenal rate of speed and simply disappeared from sight. There were no objects to obscure my line of vision as I observed this. The object for all intents and purposes vanished from sight. The driver of our vehicle, to my delight, also witnessed the event and expressed his surprise as well.It would be extremely difficult to not have noticed the object as its illumination was quite vivid. There were no interior lights on in the vehicle and as we were stopped for a schoolbus (as were other vehicles), no chance of another vehicle's movement reflected on our windshield.As someone with an interest in unusual phenomena, and trained to look for rational explanations before declaring anything to be beyond that - this was pretty breath taking. A true UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68152.html](http://www.nuforc.org/webreports/reports/068/S68152.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Colorado City (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright halogen colored light.Observed a bright halogen colored light traveling from west to east.  Altitude was below other aircraft in the area.  This was visible for about ten seconds then disappeared.  Was viewed with binoculars but could only see the light which was round in shape. Object was traveling away from my field of view. Also no sound was observed.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60212.html](http://www.nuforc.org/webreports/reports/060/S60212.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165759.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161213.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161137.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161055.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161054.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
