@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:25 on 5 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:24 on 5 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in St. Johns River (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>St. Johns (Route 417):  a light overhead dropped to the water level and straight into the tree line.I am veteran that has seen many night flights of helicoptors and their attack patterns, which is why I thought as this light was weaving from west to east and repeating was a helicopter. I started to see this light right after I had gotten onto north/east bound 417 from the Aloma on ramp.  This light peaked my interest as there was not any other cars in the immediate area.  As i drove it was bounding back and forth in a weaving pattern over 417.  As I approached the bridge, the light went out of view.  I thought it the helicopter went out of sight, but as I looked out over the bridge, the light was almost on the water with how low it was it I couldn't take my eyes off ot it. Then in a flash it darted toward the north shoreline still hugging the water.  Up to this point, I still thought it to be a helicopter, but when the light kept its pace straight into the trees flickered brighter and was gone.  As this happened I started to yell myself I didn't see this, this did not just happen, but I can't forget it.  Thanks for being anonymous.  I needed to say something and it helps.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116583.html](http://www.nuforc.org/webreports/reports/116/S116583.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Fairfield (ID) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>25 ufo's over Fairfield, ID25 craft following in formation across the sky and disappearing into a dark object that blocked out the stars.  We tried to video tape the siting, but my wife's phone malfunctioned.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160967.html](http://www.nuforc.org/webreports/reports/160/S160967.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165759.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161213.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161137.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161055.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161054.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
