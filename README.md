@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:38 on 5 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:32 on 5 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Bel Air (MD) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Flying oval objectsSighting Report Occurred : 8/12/2011 09:30 (Entered as : 8/12/11 9:30) Reported: 8/12/2011 8:00:44 PM 20:00 Posted: 8/21/2011 Location: Bel Air, MD Shape: Fireball Duration: 25 Unknown objects counted 30 human aircraft  First off, I would like to express that I in sound of mind have always beloved in the possibility of other life forms but that is a thought never have I personaly had any tangible evidence that I have witnessed to support this thought, feeling,or possibility until tonight.I went outside to discuss something things with my girlfriend we have a porch that is tall and able to get a clear open view of the skyline over our town as I was talking I noticed a distraction of bright lite to the side of me as turned to look I noticed 25 you glowing orbs that were kind of in unison but also in groups it looked like a fireball at times but then I didn't.  My girlfriend and I were astonished at what we we're seeing and my heart dropped because I felt something serious was happening my first that was asteroids but they were movie to oddly then I realized there were human aircraft all over converging to thees figures within 10 minutes of seeing this I counted 15 human aircraft as the human aircraft moved in thees figures increased in speed and manuverd away almost got higher into the ski they one bye one disappeared in the groups they were in human aircraft has in creased since then I have counted 30 as of now very high to very low in the sky I asked a some! one else to look in the sky and tell me what they noticed and they agreed that there were a were a abnormal amount of aircraft.That's it don't know what this was and while it was amazing to witness it was also very frightening I also have video taped this as best as I could on my phone but I don't feel it is of any credit to what I observed.I definately just witnessed the same this as this person did on 8-12-11.  It was like 25 objects or so.  They were all flying from The direction of Edewood and were flying towards the direction of Forest Hill.  Flying directly over the center of Bel Air.  It was definately pretty scary!! Not sure what it was but it looked wierd as crap.  It was flying from the direction of the military base here so it could have been from that.  I dont know but it was pretty amazing to watch.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85703.html](http://www.nuforc.org/webreports/reports/085/S85703.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Beatty (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Four lights around the full moon appear then slowly turn off.Three lights came on around the full moon one at a time with one small dimmer light moving away from them semi fast.  The lights were stationary, then slowly turned off.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137579.html](http://www.nuforc.org/webreports/reports/137/S137579.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165759.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161213.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161137.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161055.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161054.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
