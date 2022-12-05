@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:28 on 5 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:31 on 5 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Billings (MT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright light in east, falling, the bouncing horizontally along the horizon, then making a circle and shot up.At 0645 on December 5, 2011, I was headed into work traveling south on highway 212 about 5 miles north of Billings, Montana.  I noticed a very bright light high up in the sky to the east.  It was brighter than any star and over twice as big.  It was falling straight down toward the ground and at first I thought it was a meteor.  Before it reached the ground, it began to travel in an up and down bouncing motion horizontally toward the south.  After it bounced along, well above the horizon, it suddenly looped into a complete circle, then shot straight up into the air and was gone in seconds.  I am 46 years old, a social worker and have a high school eduction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85706.html](http://www.nuforc.org/webreports/reports/085/S85706.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Broken Hill (Australia) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>The weird 25 lights/objects appeared and moved in the line in the sky at night time.We were travellers with motorhomes/campervans around outback in Broken Hill, NSW, Australia and we were chatting outside and beside the motorhomes at the night. One observer walked out of the group to the dark area and saw the weird spots appeared in the line in the sky. The observer called them to see the extra-terrestrial activity and wanted to share our experience.There appeared to be a series of objects that moved in a straight line, observed as a line of lights/objects moving up into the sky. All moved upwards at the same time, in vision, it looked like separate objects following each other.They moved upwards and as they went overheard at a certain point, they disappeared. Each light disappeared when it reached that point.Some of them moved sporadically to the left or right then below and up again before they disappeared .It took approximately the minute for them to move from horizon to directly above us when they disappeared one by one.There were many at least 25. We did not count them as we were amazed at the time and did not know what it was and did not think to record or count them until a few seconds later. We have a recording on my phone.No trial was left. This was late at night we could not see the object, only the light on each, which was the size of the head of a small nail head, approximately 1-2 mm in diameter. They all appeared white in colour.No sound was heard by people with normal hearing. There were 10 witnesses saw it.There was a clear night and half-moon beside the lights or objects as it appeared, they were very far away but before the stars and near or not far from the moon.I will post video in USB key.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151809.html](http://www.nuforc.org/webreports/reports/151/S151809.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165759.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161213.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161137.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161055.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161054.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
