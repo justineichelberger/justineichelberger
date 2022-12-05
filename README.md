@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:32 on 5 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:27 on 5 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Beatty (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Four lights around the full moon appear then slowly turn off.Three lights came on around the full moon one at a time with one small dimmer light moving away from them semi fast.  The lights were stationary, then slowly turned off.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137579.html](http://www.nuforc.org/webreports/reports/137/S137579.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Poughkeepsie (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Five lights over my car in the Catskills.While driving north on the Taconic State Parkway, early in the morning, the fog very dense in patches, I noticed a light shining down on the north side of the parkway about 50 yards in the distance. The light seemed to come from what I thought was very late night construction. As I drove closer I noticed how strange it was that there were no cars behind me. I slowed as I approached and stopped directly under five lights that were in a pentagon pattern about 10 - 15 feet apart from each other and about 20 feet above me. I stared up through my windshield and opened my window to see better. My heart was racing. I noticed no sound, from anywhere. Everything seemed very quiet, strangely quiet. Fear overcame me and I drove off, watching the light fade in my mirror. My normal travel time for this trip was always about 2.5 hours. That evening it took me 4.5 hours to arrive. Never thought I sat there for more than 10 minutes.((NUFORC Note:  Date may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22889.html](http://www.nuforc.org/webreports/reports/022/S22889.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165759.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161213.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161137.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161055.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161054.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
