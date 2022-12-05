@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:26 on 5 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:30 on 5 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Big Pines (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Huge Black Object with no Lights hovering around Mountians near Mt WhitneyTuesday, December 5th 2006,  approximately 7:30 pm I was sitting in the passenger seat of our van. We were driving home from a show in Reno and we were on the 395 heading south.  We were passing through a town called Big Pines near Mt Whitney and it was around 7:30 at night. The moon was very full that night so the sky was pretty well lit. I looked up towards the mountains on the east side of the highway, towards Nevada when I saw this enormous black object. It was right above the mountain range and then it disappeared.  Our driver exclaimed, "Did you see that?"and yes, I did. It looked like the size of a city block in the sky.  It as completely black, no lights at all and seemed to have an angular piece, like some kind of wing sticking out.  It was hard to make out the entire shape. We only saw it for a few seconds when it vanished into or on the other side of the mountains somewhere. Needless to say, we were dumbstruck!((NUFORC Note:  We spoke with this witness via telephone, and she sounded to be quite mature and sober-minded to us.  We suspect that she and her friends witnessed something unusual.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53841.html](http://www.nuforc.org/webreports/reports/053/S53841.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Hanover (MD) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 77</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161211.html](http://www.nuforc.org/webreports/reports/161/S161211.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165759.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161213.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161137.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161055.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161054.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
