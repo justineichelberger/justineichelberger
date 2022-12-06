@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:22 on 6 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:34 on 6 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Linden (VA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 orange flickering balls traveling west and southwest.Saw 2 orange flickering circles no trails behind it, at a consistent speed.  First one traveling west no noise heard.  Just as first one was getting out of field of vision, a second one traveling northwest, same speed.  There was small aircraft out at the same time to compare to.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124628.html](http://www.nuforc.org/webreports/reports/124/S124628.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in North Pole (AK) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Large triangular shape with lights hovering over the outskirts of North Pole.My friend and I were driving home from Fairbanks, when I spotted an odd light in the sky.  I pointed it out to my friend and she saw it too.  I kept an eye on it while we went down the highway and as we got closer, I saw that it was rather large.  It was dark out but it looked silver or a dark gray.  It had a large white light on the bottom and a few flashing blue and red lights around the corners.  It was hovering at around cloud level and wasn't moving or making a sound.  As we pulled onto another road, I looked up again and it was gone.  It had completely vanished without sound or anything, it was nowhere in sight.  And as we approached my house, her car started to make some very odd sounds and started acting up, although it had just been fixed up in the past week.((ADDENDUM #1 FROM WITNESS))My friend and I were around the 12 mile bar at the time when I saw the light.  When we pulled off the highway onto Hurst road, it was completely gone.  I'll definitely have to think about finding other people who saw it, however it was very late but there were a few cars still out.((END ADDENDUM))((ADDENDUM #2 FROM WITNESS))...As far as more detailing goes, the object was about the size of a B-2 stealth bomber, but a little more pointy in the front.  There was a large and bright white light in the middle of the triangle and some smaller white lights on the corners.  There was a blue blinking light near the tip of the triangle and it was not moving.  I stared at it as we drove and I wanted to see if it was just a plane.  As we passed it, I saw it was cloud level and just silently hovering.  I looked down at my phone to start to search for images of triangular UFOs and when I looked back, it had vanished.  When I looked around on the horizon and though the trees, no lights were in sight besides the stars and the moon.  It had just disappeared out of thin air.((END ADDENDUM #2))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115840.html](http://www.nuforc.org/webreports/reports/115/S115840.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
