@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:23 on 6 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:24 on 6 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Portland (northeast) (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Triangle with one bright light at the frontIt looked like 2 lines of a triangle with a bright light at the front.  Appeared out of nowhere and flew off extremely fast.  No sound.  Looked like waves behind it what we would think of as exhaust or an aura.  Then disappeared ..... literally.  It did not go behind anything, up, or down.  Just plain disappeared, like it cloaked itself.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137602.html](http://www.nuforc.org/webreports/reports/137/S137602.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Oval object travelling west over Denver skyline flanked by two jetsI was travelling north in front of the State capital building in downtown Denver.  When I stoppped at a red light I looked up in the sky and noticed what appeared to be an oval type object travelling from east to west. The object was flanked on either side by a fighter jet as though it was being tracked or possibly escorted somewhere. What added to the strangeness of the situation was that unlike the two jets, the object did not appear to be emmitting any type of exhaust or chem trail.((NUFORC Note:  Date of incident may be approximate, although the witness does not indicate that fact.  Witness indicates only that the event occurred, allegedly, during the month of December 2006.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54660.html](http://www.nuforc.org/webreports/reports/054/S54660.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
