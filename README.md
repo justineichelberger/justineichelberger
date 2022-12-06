@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:26 on 6 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:21 on 6 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Rialto (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Just before walking into the house I looked straight up and saw a small white object which was moving very slowly in a N-NW direction. Rate of speed was such that the object took 15 minutes to travel from a point directly above me to a point @ 45 deg. N-NW where I lost sight of it due to haze in the atmosphere and wispy clouds moving in (very quickly the sky changed from nice and clear to grayish and scattered clouds).The clouds came in from W-NW moving E-SE. I don't know if the wind at higher altitudes ever travels in opposite/different directions than the wind at lower altitudes. If it does, then the object could have been a balloon(s).If it was traveling against the wind then I don't know what it could've been. I've never seen a satellite travel from SE to NW, but maybe there's one that does.I did manage to snap one photo but it only adds confusion since the object in the photo appears to be four orange lights arranged like a + (plus sign) but so tightly packed that the general shape is circular.  I don't know if this is what it really looked like or if this is some "digital camera anomaly" or a result of being improperly focused.Anyway, I just wanted to put it on record in case anybody else saw it. Not a real big deal. Just a flying (silent) object that I could not identify.PS. I did notice that when my camera was struggling to focus just before I pressed the button fully to snap the picture, the image in the viewfinder did all kinds of funny stuff, it showed a faint crescent shape that expanded and then a flash of light and then as it shifted the focus out toward infinity I just snapped it because I didnt think it was going to ever find it. (Hope that makes sense)  Thanks for the opportunity to record these events, Mr. Davenport.  You're doing a great job.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67344.html](http://www.nuforc.org/webreports/reports/067/S67344.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Rancho Viejo (TX) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>very distinct bright golden light. moved in swervesAs I was standing on my porch looking up into the sky, I caught a object the size of a star with a dim halo around it traveling north. No sound of an engine was heard, it traveled across the entire sky until it diminished.  Right at that moment, there was a second object that showed up out of nowhere shining a golden bright as it was moving.  It did not move straight, rather in short swerves and zig zags.It dimmed down a bit then you could see the object was a teardrop shape with the light coming from the tip.  It traveled a mere 5 seconds until it just vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95022.html](http://www.nuforc.org/webreports/reports/095/S95022.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
