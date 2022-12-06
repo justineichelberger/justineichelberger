@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:24 on 6 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:31 on 6 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in Ireland (not sure which town) () reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>1 light comes down from space, two other smaller lights attach themselves and then all go up into space.I would just like to state that I was not the witness of the event, but I was retold it by someone who at the time I was very close to, as I was not even born when the event occured:however, the person who was the witness was a very serious man and even didnt want to tell me as he was a sceptic and didnt really understand what he saw: but I thought that it was a very very interesting event that took place and should be on this website:  Dates and Time are approx only, In around june, about 1972 the witness was in his garden with his kids in ireland at approx midnight looking up at the stars (as its an incredible view in ireland not many city lights where they were) the witness told me  he saw 2 lights (like stars) moving, they were as high up as what the stars appear to be and one was to the left of him the other coming in at the right (as if heading towards each other)he watched them as they slowly moved closer into contact.  Then, and this is the weird and almost unnerving part, a larger much larger light came down (as if from space) the two other lights seemed to join to the larger light, and then the larger light moved with speed back up into space.I can say that the man who told me this was in full awarness of his faculties and as I said didnt even believe what he saw years on, he doesnt like to tell people as obviously it doesnt sound very normal, and like a piece of fiction. But I can say that this person is telling me excactly how the event happened. I know I am not the witness but hope that its ok to post this, but feel free to contact me. I fully support what this site does and am just as intrigued as to what is going on in the UFO world.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46123.html](http://www.nuforc.org/webreports/reports/046/S46123.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Santa Fe (NM) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Saw a green fireball from my house streak across the sky twords Los Alamos, NM.((NUFORC Note:  Possible meteor??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124603.html](http://www.nuforc.org/webreports/reports/124/S124603.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
