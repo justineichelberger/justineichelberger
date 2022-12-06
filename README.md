@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:06:44 on 6 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:21 on 6 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Fredericksburg (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>White fast moving lightI saw the light moving very fast, no sound, from north to east. I was trying to follow the light forwards through the trees and wife saw the light move back to the north upwardly with an orange light then it was gone. Total time just a few seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165738.html](http://www.nuforc.org/webreports/reports/165/S165738.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Pueblo (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Stange cluster of lights in SouthWestern Sky of Pueblo Colorado2 of us  were on Mountain Bikes riding with night lights  West of Pueblo near the Pueblo Motorsports Park (a recreational area set aside for motocross, mountain biking, hiking and such). It was dark and about 7:40 PM MST.  Our exact location was near the water tower on the bluff  overlooking the Pueblo Resevoir area, on the eastern edge of Pueblo West.  My friend and I had stopped for a moment and I walked behind a tree to relieve myself.  As I started to walk back I noticed 3 bright lights which I thought were flares.  These lights were about 15-20 degrees off of the horizon in the SouthWest portion of the sky over the area of Wetmore Colorado (25-30 miles Southwest).   When the lights disappeared I walked back to my bicycle and asked observer #2 is she had seen the lights?  She saw them too because they reappeared about then.  We looked to see if they might be landing lights of a plane disappearing and reapperaing behind the clouds,  but there were no clouds.  We saw the blinking light of a plane in the same general area but saw no association between it and these lights.  The sky was  star filled. We got a reference to the mountain range that sits below and they were definitely above the mountains.  We wondered if they might be distress flares from someone in the mountains, but the lights never moved downward like flares do.  They just stayed in the same spot, disappearing and reappearing.  Each appearance lasted  20-40  seconds for about 4 times.    There were always 3 lights.  They were always in the same position but  their positioning was not symetrical.  They each had about the same intensity of light and were of the same size (about 1/4" in diameter on the scale we were viewing).  One was  slightly higher than the others and slightly to the West.  The other two were closer together with the lower one slightly East of the center one.  They disappeared after about 4 or 5 minutes.  We do not know what these lights were.  Perhaps someone else from Colorado saw them too?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20728.html](http://www.nuforc.org/webreports/reports/020/S20728.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
