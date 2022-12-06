@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:26 on 6 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 6 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in La Grande (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>Red and Blue light seen in south eastern sky out of La Grande Oregon at about 9:56PM.In south east ski, red and blue flashing ball, seen from cimaron manor apartments  at approx 9:56PM 2 other witnesses. Thought was aircraft but did not move for 20 minutes. Looked through binoculars but could only see red and blue constant flashing lights.((NUFORC Note:  Sirius, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67346.html](http://www.nuforc.org/webreports/reports/067/S67346.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Birch Tree (MO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>red/orange lights moving and leaving flickering trails.I noticed a number of red/orange lights moving in lines and leaving a streak of red like flickers behind them.  There were probably 10 at first, + pointed them out to my sister then there looked to be alot of planes in he sky all of a sudden probably 10 or more they looked like stars burning out. I came in and got my dad to see then there were more red/orange lights.  1 came down twards the fid out front and came within 50 or 60ft from the ground another one came lower but was farther out.  I've lived here forwve and have never seen anything like it! I want answers.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95024.html](http://www.nuforc.org/webreports/reports/095/S95024.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
