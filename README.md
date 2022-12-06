@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:21 on 6 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:25 on 6 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Rancho Viejo (TX) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>very distinct bright golden light. moved in swervesAs I was standing on my porch looking up into the sky, I caught a object the size of a star with a dim halo around it traveling north. No sound of an engine was heard, it traveled across the entire sky until it diminished.  Right at that moment, there was a second object that showed up out of nowhere shining a golden bright as it was moving.  It did not move straight, rather in short swerves and zig zags.It dimmed down a bit then you could see the object was a teardrop shape with the light coming from the tip.  It traveled a mere 5 seconds until it just vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95022.html](http://www.nuforc.org/webreports/reports/095/S95022.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in High Point (NC) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>Unique Craft Spotted above trees, still motion, strange shape, just observing.I was driving home and noticed some sort of craft way down the road.  As I got closer I noticed that it wasn't moving.  Still I got closer until I was right under it.  It was positioned just off the side of the road about 20-30 feet above the tree line (but not behind the trees, closer to the road). It had to be as big as my car since it appeared the same size that far up.  I paused under it briefly in wonder.  The clouds behind it were lit by the moon perfect, so I could make out the shape.  It was like nothing I've seen or heard described.  It had very short, stout wings, the front end (i guess the cockpit) was bulbous shaped and the back end was shaped like that of a jet (like where the air would come out).  I guess it was shaped like a jet but severely squished.  It had two white lights (like car headlights, but the y didn't shine outward, they just lit up) on each side of the cockpit.  It had a band of read light that went across the middle with a small! red light on each side and the light appeared to move back and forth across that area.  The craft was dark in color.  You could have drawn a parallelogram around the outside of it, if you had to place it in a tangible shape category.  It just stayed in the air, no sound, above me.  I really thought somebody has got to be playing a joke, perhaps so. There was a car coming and it was late so I started to drive.  I watched in my rear view until I couldn't see it anymore.  Just before it went out of view it began to move to my left back towards the wooded area.  I called my husband and he told me to go get a picture (a decision I regret not making immediately now).  So I turned down the back roads.  I believe I saw it again, moving really slow, staying at the same altitude, across a horse pasture (it was too far to get a picture with my phone).  It looked like it was just exploring or observing.  I don't know.  Then it was gone.  I got home immediately and tried to find a drawing or image of the shape I saw.  I couldn't find any drones or plane s that resembled it.  I drew a sketch, but now I just feel crazy and really stupid for not immediately taking a picture while it was perfectly outlined above me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131650.html](http://www.nuforc.org/webreports/reports/131/S131650.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
