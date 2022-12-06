@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:24 on 6 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:24 on 6 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Oval object travelling west over Denver skyline flanked by two jetsI was travelling north in front of the State capital building in downtown Denver.  When I stoppped at a red light I looked up in the sky and noticed what appeared to be an oval type object travelling from east to west. The object was flanked on either side by a fighter jet as though it was being tracked or possibly escorted somewhere. What added to the strangeness of the situation was that unlike the two jets, the object did not appear to be emmitting any type of exhaust or chem trail.((NUFORC Note:  Date of incident may be approximate, although the witness does not indicate that fact.  Witness indicates only that the event occurred, allegedly, during the month of December 2006.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54660.html](http://www.nuforc.org/webreports/reports/054/S54660.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in Ireland (not sure which town) () reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>1 light comes down from space, two other smaller lights attach themselves and then all go up into space.I would just like to state that I was not the witness of the event, but I was retold it by someone who at the time I was very close to, as I was not even born when the event occured:however, the person who was the witness was a very serious man and even didnt want to tell me as he was a sceptic and didnt really understand what he saw: but I thought that it was a very very interesting event that took place and should be on this website:  Dates and Time are approx only, In around june, about 1972 the witness was in his garden with his kids in ireland at approx midnight looking up at the stars (as its an incredible view in ireland not many city lights where they were) the witness told me  he saw 2 lights (like stars) moving, they were as high up as what the stars appear to be and one was to the left of him the other coming in at the right (as if heading towards each other)he watched them as they slowly moved closer into contact.  Then, and this is the weird and almost unnerving part, a larger much larger light came down (as if from space) the two other lights seemed to join to the larger light, and then the larger light moved with speed back up into space.I can say that the man who told me this was in full awarness of his faculties and as I said didnt even believe what he saw years on, he doesnt like to tell people as obviously it doesnt sound very normal, and like a piece of fiction. But I can say that this person is telling me excactly how the event happened. I know I am not the witness but hope that its ok to post this, but feel free to contact me. I fully support what this site does and am just as intrigued as to what is going on in the UFO world.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46123.html](http://www.nuforc.org/webreports/reports/046/S46123.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
