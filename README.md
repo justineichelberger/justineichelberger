@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:22:27 on 6 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:01:07 on 6 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Unionville (TN) reported seeing craft that fit the description of some 'Cone' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Huge red cone shape glowingThe sky started glowing Red and rising from beneath the tree line, then as we approached this huge Red glowing Red object came up from the center of the tree lines..  Whatever it was it was floating up and down, it stated in our sight for about 4 mins then it was gone..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105119.html](http://www.nuforc.org/webreports/reports/105/S105119.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Elyria (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>The lorain county airport is literally in my back yard.  the object that i saw was a pulsing light of a full spectrum of colors.  the object wasn't in the normal patters that i see aircraft fly in, nor did it have the colors of a normal aircraft.  the object grew brighter then dimmer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41001.html](http://www.nuforc.org/webreports/reports/041/S41001.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
