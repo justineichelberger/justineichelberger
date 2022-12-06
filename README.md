@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:14 on 6 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:22:27 on 6 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Covington (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright light and flashing in covington gaMe and my friend were coyote hunting and it was very windy out.  We were out there for about an hour when we first got out in the deer stand there was a orange light in the distance almost like some one was walking through the woods with a flash light.  Everything was still there was no wind and then out of no where a light lit up the deer stand we were in and we could see everything like some one was standing behind us with a giant spot light.Then after about 10 seconds of looking around it stared flashing like a strobe and we looked up and saw a blue figure in the sky it had no definite shape it was just there and then out of no where it was gone but it didn't leave a streak or anything behind it.It was just gone.It was the clearest light I have ever seen in my life it lit up the whole sky and it didn't hurt my eyes.  I was motionless and I couldn't look away I waited for him to say something and finally he did.I was nautious  but at ease all at the same time I was terrified but I couldn't move I couldn't look away and I couldn't move fast.  I was just there and it was there and my friend and it was like there was nothing else  around we were just singled out by everything.  I am not saying it was a ufo and I am not saying that it wasn't.  I am saying that is an experience that I will never forget and I question now if there is something out there that we don't know about something smarter than us and leaves me feeling very unsettled and I hope to never see anything like that the rest of my life!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60214.html](http://www.nuforc.org/webreports/reports/060/S60214.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Unionville (TN) reported seeing craft that fit the description of some 'Cone' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Huge red cone shape glowingThe sky started glowing Red and rising from beneath the tree line, then as we approached this huge Red glowing Red object came up from the center of the tree lines..  Whatever it was it was floating up and down, it stated in our sight for about 4 mins then it was gone..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105119.html](http://www.nuforc.org/webreports/reports/105/S105119.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
