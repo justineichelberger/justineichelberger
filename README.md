@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:26 on 5 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:25 on 6 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Port Townsend (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>A  very bright object  was seen moving rapidly in the western skyWe saw a bright sustained flash (3 seconds) falling rapidly in the western sky.  It seemed like an LED type of light in intensity and tint (bluish). We were in a dark place in a parked car overlooking a bay when this occurred.  It was bright enough that the hood and dashboard of the car was illuminated.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60213.html](http://www.nuforc.org/webreports/reports/060/S60213.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Circlulating lights, pulsating yellow squaresI find it hard to believe that I am so far the only person in San Francisco to report this (I can't find any account of this online anywhere), and I've never seen a UFO before and didn't really believe in them up until this, but I have no explanation for what I saw. I first saw it out of the corner of my eye as I was reading a book as it passed over our apartment, and went to another window the check it out. It flew steadily with yellow/orange lights on its rim that circled intermittently like a neon sign. It has two small red lights on one side that didn't blink. There was also a sequence of rectangles on its underside that pulsated out from its center like this: [[[[ ]]]]. It flew steadily over the city and out of sight, at one point passing a plane that seemed to take no notice. But seeing it juxtaposed againt what was obviously an airplane made it seem even stranger looking.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53873.html](http://www.nuforc.org/webreports/reports/053/S53873.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165759.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161213.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161137.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161055.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161054.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
