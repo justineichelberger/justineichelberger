@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:23 on 6 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:28 on 6 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>A possible UFO cigar-ed shaped is moving and hovering in the air for about 20 minutes while airplanes land and take off LAX airport.On December 6th, 2010 around 11:00am to 11:30am, as I was having lunch on the roof top of my school,I was facing southwest, when out of the right corner of my eye I observed one cigar shaped craft hovering and then moving slowly across the horizon heading east. I let it go for about 10 minutes and then realize there are planes in the background landing and taking off from LAX Airport. I quickly rush to the end edge of the roof and am able to make out the craft well. Its a long cigar shaped object thats black or dark gray, there are no visible lights and the object doesn't reflect light. Every 3 to 5 minutes the craft would stop. I could see at least 5 airplanes flying right by the craft. I tried to tell myself it was a blimp or helicopter but this thing would completely stop for minutes at a time and just hover. One more thing that was strange was in the background theres a mountain like a  huge mesa almost like where the Hollywood sign is. As the craft pass! ed I saw a bright flashing coming from the mesa mountain, almost like taking pictures from a professional camera but big, it was bright and I could see it for miles away.As the craft passed the flashing stop and it continued to hover and move slowly. I was Able to take one clear picture of the craft. I tried taking video but I was unsuccessful because I have no video zoom so you couldn't see anything. The sun was also pointing in my direction.The craft then kept moving east till I lost sight because there was a building office in front of me. I couldn't see where I was pointing my Iphone but when I returned home I could clearly make it out. I used Windows picture system and I was able to zoom in. I was Shocked, it a long cigar shaped object with no visible attachments or helicopter propellers. The same day On December 6th, 2010 over LAX Multiple UFO were spotted forming a V-shaped.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79176.html](http://www.nuforc.org/webreports/reports/079/S79176.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in West Warwick (RI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Me and my father's girlfriend were walking back form the store when what we seen what we thought was an airplane flying extrmely close to the gorund but it was to big to be an airplane.  It was lit up all around in green flashing lights and one huge yellow light in the middle of it.  It took of extremely fast followed by another aircraft that looked exactly like it following this unidentifed flying object.  It was extrmely insane because they were both so huge and neither of them made a noise.  They were traveling extremely fast and went pretty far but the lights were so bright we could still see them.  They then shot into the air and the yellow light that wa sin the middle of it got tinier and tinier until it dissapered.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60224.html](http://www.nuforc.org/webreports/reports/060/S60224.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
