@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:27 on 6 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:21 on 6 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I'm only reporting this because now it happened a second night in a row and my husband saw it this time too and the helicopters and plaA flash of light skiped thru the sky three times befor disappearing approx 40 seconds later the sky filled with helicopters and planes and on 12-7-13 @ 10:03pm the same happened except the object was going south opposed to north and did not skip just disappeared as on 12-6-13 and again the sky filled with helicopters and planes but this time ot only took 20 seconds for them to come there was 6 in a very close air space!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105144.html](http://www.nuforc.org/webreports/reports/105/S105144.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Santa Rosa (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Pale red light, approx. 1000 foot altitude, very slowly elevated to 1500 feet,then proceded towards our direction, so we continued driving.A pale red light was seen to my left above a tree line next to a creek. This object caught my attention immediately, because an airplane wouldn't be flying that close near a residential area.I found a parking spot 150 yards up the road, and got out to observe the object. It was only one pale red light that maybe twice faded to a dim and then returned to it's original brightness. There was a telephone pole right next to the object, so my girlfriend & I could actually observe the object's ascent to approx. 1500 feet. As it ascended, it swayed very slighty to one side & back to the other. It reminded me  of a Chinese Lantern, as it was a pale red color and the swaying it did. It proceded to move towards our direction after about 10 minutes of ascending. It was NOT an airplane or any conventional aircraft I have ever seen in a night-time setting. The light made no noise. The evening was calm & crystal clear that night. As it proceded towards us, I became a little nervous, and watched it move to the south-east (in our direction), so I decided I had seen enough (40* F outside), but when I looked back in the object's general direction 5 minutes later, it was gone. This was my first sighting that I can recall in my life. There were no reports in the paper or on the radio the following day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05043.html](http://www.nuforc.org/webreports/reports/005/S05043.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
