@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:29 on 7 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:32 on 7 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Burbank (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Bright light disappeared with no trace; blue flash followingIt was 1:20 AM and it was time to bid my friend farewell. I walk him outside to the sidewalk and right as I walk out, I observe how beautiful the stars are.  Right above me was the North Star and various other stars of which I don't have names for.  They were really glowing bright and I couldn't help but admire them for there hasn't been a clear night in awhile.  As I was digressing I couldn't help but notice a bright light in my peripheral vision at about  250 degrees west.  I immediately give the apparition my full attention and as quick as it manifested, it was gone in a blink.  What was amazing to me was that it almost looked like a shooting star.  I have seen many shooting stars before and I knew for a fact that it did not look like any shooting star I've seen before.  I've only seen shooting stars at the beach or through countryside drives; and may I remind you I live in the vast glowing city of LA where city lights would make it unlikely to see a shooting star. what I saw did not have a trail and disappeared abruptly. It did not burn out or fade away.  The best way I could describe it is that it was just as bright as the North Star and same shape, but was moving in a diagonal fashion downward towards the ground; just like a shooting star.3:03 AM- As I was writing this, just a little less than two hours after the incident, there was a bright blue flash in the window. The flash was relatively similar to a blue lighting flash for it had illuminated the sky.  There is clear weather and little to no clouds.  I debunked the idea of it being a car because there were no driving cars on my st as this occurred.  Another hypothesis is it could've been a blown transformer, but I don't think this is what the light appeared like.  There was no sound.  May I remind you again, it is a clear night in the LA area.  What I saw I'm not sure, that's why I'm here.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95063.html](http://www.nuforc.org/webreports/reports/095/S95063.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Garden Grove (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was driving east on Highway 22 at Beach Blvd. It was hovering over the Brookhurst area  it all of a sudden flew over highway 22 in an eastbound direction.  I saw it hover to the north side of the moon then hovered up and over the moon.  Saw it drop something similar to sparks.  Flew south and up.  Vanished as airplane approached.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105162.html](http://www.nuforc.org/webreports/reports/105/S105162.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
