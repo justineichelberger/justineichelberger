@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:26:38 on 7 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:05:44 on 7 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lenzburg (IL) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Craft hovering over strip pit in south New Athens, Illinois, witnessed by 3 males.Craft was a sorta "V" shape and had at the very tip a white light and there were white lights on the edges and a flashing light in the middle.  There was a deep vibration sound emitted from the craft. The craft hovered in the same place for about 5 minutes, the moved to the left and up and moved northeast.  The craft was hovering over the strip pit water area. This is the 3rd sighting in this area in the past 3 years.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85741.html](http://www.nuforc.org/webreports/reports/085/S85741.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in In-flight (over the North Sea, between England & Denmark) () reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright lights suspended above teh cloudsWhilst travelling on a flight from Dublin to Copenhagen I saw three briht lights spheres suspended in tmid air above the clouds. The passenger sitting in the seat next to me also saw these lights an we could provide no logical expanation for them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15432.html](http://www.nuforc.org/webreports/reports/015/S15432.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
