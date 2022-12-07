@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:25 on 7 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:33 on 7 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two white lights in the daytime skyI was outside of the building I work in and heard a helicoptor flying nearby.  When I looked up to see where it was I noticed what I first thought to be a airliner flying at high altitude from east to west.  When it stopped and appeared to be falling i realised it was not an airliner but a dot of light instead.  It seamed to be falling for about ten to fifteen seconds when it suddenly moved back to the west very fast.  That is when I noticed a second dot of light that the first had moved to and stopped.  Both dots of light were stationary at that point and did not appear to be changing altitude.  I called my co-workers to come and look but the dots seemed to slowly gain altitude and fade away before they were able to spot them.  I was a clear day with scattered light clouds and excellent visibility at the time.  It should also be noted that I am a former air defense crew member and have had extensive aircraft recognition training.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26496.html](http://www.nuforc.org/webreports/reports/026/S26496.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Yokohama (Japan) () reported seeing craft that fit the description of some 'Flash' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>It was moving slowly around in the sky and after maybe 4 min it sped of at high speedsThe object was bright and we saw a yellow flash before it dissapeared. It hurt our eyes and when it flew away our eyes had bright spots as if we had been staring at a light for a few minutes.  There was a yellow trail in the sky.  We think that maybe some other people may have seen it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33680.html](http://www.nuforc.org/webreports/reports/033/S33680.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
