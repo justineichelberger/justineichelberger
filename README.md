@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:33 on 7 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:23 on 7 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Half Moon Bay (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Sky suddenly turned Green for about 12 seconds accompanied by (blink of the eye) power outage.I CAN SEE PILLAR POINT AIR FORCE BASE FROM MY LIVING ROOM WINDOW.  AT APPROXIMATELY :45 AM ON FRIDAY NIGHT DEC. 6, 2019 ( JUST TURNED SATURDAY MORNING DEC. 7, 2019) THE SKY OVER PILLAR POINT AIR FORCE BASE LITE UP GREEN (SIMILAR TO THE COLOR OF THE NORTHER LIGHTS IN ALASKA).  I  RAN TO THE WINDOW TO LOOK AT THE SKY AT WHICH TIME I BELIEVE THAT THERE WAS A SUDDEN VERY SHORT ( BLINK OF THE EYE) POWER OUTAGE.  I HAVE DIRECT TV AND THE SERVICE WENT INTO RESTART MODE.I was too stunned to think in time to take a picture, but would like more information about what kind of activity could create such an event</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151350.html](http://www.nuforc.org/webreports/reports/151/S151350.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Boca Raton (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>orange fireball or rocketThought for sure that I saw the minotaur v rocket last nite .. from the se sky.. except the time is not rite ..launch was at 11:27 not 7:00 ish...  It was a bright orange fireball taking a straight track up.... looked like a rocket but the time of the minotaur launch is off..  The fireball did come from that area too..  Now im confused ... don't know what I saw then</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105154.html](http://www.nuforc.org/webreports/reports/105/S105154.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
