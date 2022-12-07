@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:32 on 7 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:33 on 7 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Garden Grove (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was driving east on Highway 22 at Beach Blvd. It was hovering over the Brookhurst area  it all of a sudden flew over highway 22 in an eastbound direction.  I saw it hover to the north side of the moon then hovered up and over the moon.  Saw it drop something similar to sparks.  Flew south and up.  Vanished as airplane approached.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105162.html](http://www.nuforc.org/webreports/reports/105/S105162.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Sioux Falls (SD) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.025 - 0.025 minutes.</sub><blockquote><sub>Have seen numerous objects over sky north of Sioux Falls in past few months.First off let me say that I live near Sioux Falls but would like to remain anonymous. Still can't believe I'm telling this but here goes. Around 12/07/02, at approximately 2330 hours, I observed a very bright, tear drop shaped object, travel from north to south across the eastern sky in relation to my position. The odd thing was that it appeared to travel in an upwards direction and then blinked out of sight. Duration was approx. 1.5 seconds. It was bright white in color and the light tailed behind it or at least appeared to. It is difficult to say since it was travelling so fast. I first chalked it up to something skipping off our atmosphere. Which perhaps is true.The thing is, I saw the same thing this past weekend, around 01/16/03, at approximately 0230 hours. This one was in the same general area of the sky as before. Except it appeared to travel upwards from south to north, ie: opposite direction.I am not sure what I have been seeing, but these two are not the only strange objects I've seen in the sky recently. I work outside at night so I occasionally see objects. These have all caught my eyes as I have been driving. So at least to me they are very noticeable. They have all lasted long enough to get a reasonable look at them. At last eye exam I tested around 20/10, plus I have a stygmatism on top of that, so I'm correctable to even better. Since I spend most of my time in the hours of darkness, perhaps my eyes are more sensitive to movement and light in the sky, and I'm just seeing more of the junk that's hitting the atmosphere than most others can see. Who knows. I am a college educated professional. I have doubted this stuff, but man, when you see weird stuff you can't explain, it bothers you and you really can't tell anyone about it. Especially with what I do for a living, supposed to be the unflappable one. Some who read this will understand what I'm saying with that last statement and wanting to remain anonymous. Anyhow, I see this stuff probably at least once a week over the skies north of Sioux Falls, SD. I see meteorites almost nightly, so I generally notice when somethings a little different.Well there you have it, hope this helps some people tell what they have seen. Reading the others on here helped me to do it. All I know is that there have to be more people like me, seeing this stuff and just not saying anything.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27193.html](http://www.nuforc.org/webreports/reports/027/S27193.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
