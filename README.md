@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:33 on 7 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:28 on 7 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Yokohama (Japan) () reported seeing craft that fit the description of some 'Flash' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>It was moving slowly around in the sky and after maybe 4 min it sped of at high speedsThe object was bright and we saw a yellow flash before it dissapeared. It hurt our eyes and when it flew away our eyes had bright spots as if we had been staring at a light for a few minutes.  There was a yellow trail in the sky.  We think that maybe some other people may have seen it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33680.html](http://www.nuforc.org/webreports/reports/033/S33680.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in White Rock (Canada) (BC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>It was a foggy evening, I was looking out of my window at the sky. I was drawn to a star which was in a westernly direction from where I was. I thought at first it was an aeroplane or helicopter, but watching it for a few minutes it didn't move, so I thought it must be a star even though it was foggy. I looked through the binoculars and could see it was winking red,white and green lights. I was interested because I have seen a star overhead at times like this before, but thought it had changed it's position. As I watched, it turned into a solid red circle, after which it straightened out to a worm shape with some white along the side, also turning into an oblong shape. I must have watched for about twenty minutes while it was changing mostly from a circle to a straight line. A second one came from behind some trees and passed out of sight. I know it was the same but cannot remember now how I knew as I never wrote down any details at the time. It was still there when I left the window but had gone maybe half an hour or so later when I looked again. The next morning I phoned the R.C.M.P. to see if anyone else had reported anything about it, and not knowing who else to contact as I was unaware of this website until now.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16104.html](http://www.nuforc.org/webreports/reports/016/S16104.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
