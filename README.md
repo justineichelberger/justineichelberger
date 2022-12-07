@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:30 on 7 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:26:38 on 7 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Connersville (IN) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 29.0 - 29.0 minutes.</sub><blockquote><sub>December 7, 2012 Cylinder shaped, transparent object appeared, hazy gray color slow/fast movement.Dec. 7, 2012 I reported to work close to 11:00pm.  Minutes later I was looking at camera monitors and noticed movement in one, as I used the zoom control on the panel to bring the image closer, I was shocked!                                                 Then when I realized what I was looking at, I was in awe and scared! Considering I was within 500ft of whatever it was.  The object, cylinder shaped,10-15ft in length and 4-5ft wide was hovering about 100ft from the ground. Hazy gray in color yet it was transparent, it would move slow as a floating feather to lightning fast speed, when turning/change direction, it seems to pivot, at one point while recording it shot straight up at a very high speed.  This area background is industrial, residential and government.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101138.html](http://www.nuforc.org/webreports/reports/101/S101138.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lenzburg (IL) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Craft hovering over strip pit in south New Athens, Illinois, witnessed by 3 males.Craft was a sorta "V" shape and had at the very tip a white light and there were white lights on the edges and a flashing light in the middle.  There was a deep vibration sound emitted from the craft. The craft hovered in the same place for about 5 minutes, the moved to the left and up and moved northeast.  The craft was hovering over the strip pit water area. This is the 3rd sighting in this area in the past 3 years.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85741.html](http://www.nuforc.org/webreports/reports/085/S85741.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
