@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:23 on 7 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:28 on 7 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Boca Raton (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>orange fireball or rocketThought for sure that I saw the minotaur v rocket last nite .. from the se sky.. except the time is not rite ..launch was at 11:27 not 7:00 ish...  It was a bright orange fireball taking a straight track up.... looked like a rocket but the time of the minotaur launch is off..  The fireball did come from that area too..  Now im confused ... don't know what I saw then</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105154.html](http://www.nuforc.org/webreports/reports/105/S105154.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Cherry Hill (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Blue oval object with very bright flashing white lights on the bottom.I was returning home from a walk, and was approaching the Woodcrest shopping Center on Browning Road, when I saw what I thought was just a bird taking off near the roof of the shopping center.  Then I noticed that it looked more like a balloon.  I thought it was pretty cool that someone let a balloon go, and was probably just watching to see how high it would go.  So, I also stopped and watched its ascent.  It was almost directly above me (and only a couple of hundred yards away at most), when I realized that it had very bright white lights blinking at the bottom of it--almost taking up the entire object.  I also realized that it was more oval than cylindrical, and almost the color of a blue pearl.  It was definitely not an airplane or helicopter.  I just watched for a couple of minutes in wonder as it gradually sailed across the sky, and then walked away.I just dismissed as something I didn't understand (a weather balloon???).  But I got thinking about it again and went online to see if there were any other reports of it, and found this site…((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137610.html](http://www.nuforc.org/webreports/reports/137/S137610.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
