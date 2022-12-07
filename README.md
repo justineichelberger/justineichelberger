@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:36 on 6 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 7 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Birch Tree (MO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>red/orange lights moving and leaving flickering trails.I noticed a number of red/orange lights moving in lines and leaving a streak of red like flickers behind them.  There were probably 10 at first, + pointed them out to my sister then there looked to be alot of planes in he sky all of a sudden probably 10 or more they looked like stars burning out. I came in and got my dad to see then there were more red/orange lights.  1 came down twards the fid out front and came within 50 or 60ft from the ground another one came lower but was farther out.  I've lived here forwve and have never seen anything like it! I want answers.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95024.html](http://www.nuforc.org/webreports/reports/095/S95024.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Johnson City (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately short - short minutes.</sub><blockquote><sub>strange lights over washington county tennesseewhile observing the night sky i witnessed a light appear in the sky, which was moving in a trajectory that would be best described as a crash in the distance. the light was a bright white with a barely visible orange trail, about half the radius of the light. a moment later i spoke with a freind and informed him of what i saw. he and another freind came over and surely enough they both saw the same thing in a different part of the sky at about 9 pm. i did not witness the second event but the description was similar. then there was a tremendous amount of aircraft activity above us. we counted 35-40 planes in a period less than 1 hour. they seemed to be doing military maneuvers. the aircraft were dominantly heading to the locations where we had seen the lights. suddenly a flash of green light streaked across the sky directly above one of the aircraft. later another, more faint flash happened in front of another aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41028.html](http://www.nuforc.org/webreports/reports/041/S41028.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
