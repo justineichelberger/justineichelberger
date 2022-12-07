@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 7 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:30 on 7 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Johnson City (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately short - short minutes.</sub><blockquote><sub>strange lights over washington county tennesseewhile observing the night sky i witnessed a light appear in the sky, which was moving in a trajectory that would be best described as a crash in the distance. the light was a bright white with a barely visible orange trail, about half the radius of the light. a moment later i spoke with a freind and informed him of what i saw. he and another freind came over and surely enough they both saw the same thing in a different part of the sky at about 9 pm. i did not witness the second event but the description was similar. then there was a tremendous amount of aircraft activity above us. we counted 35-40 planes in a period less than 1 hour. they seemed to be doing military maneuvers. the aircraft were dominantly heading to the locations where we had seen the lights. suddenly a flash of green light streaked across the sky directly above one of the aircraft. later another, more faint flash happened in front of another aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41028.html](http://www.nuforc.org/webreports/reports/041/S41028.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Connersville (IN) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 29.0 - 29.0 minutes.</sub><blockquote><sub>December 7, 2012 Cylinder shaped, transparent object appeared, hazy gray color slow/fast movement.Dec. 7, 2012 I reported to work close to 11:00pm.  Minutes later I was looking at camera monitors and noticed movement in one, as I used the zoom control on the panel to bring the image closer, I was shocked!                                                 Then when I realized what I was looking at, I was in awe and scared! Considering I was within 500ft of whatever it was.  The object, cylinder shaped,10-15ft in length and 4-5ft wide was hovering about 100ft from the ground. Hazy gray in color yet it was transparent, it would move slow as a floating feather to lightning fast speed, when turning/change direction, it seems to pivot, at one point while recording it shot straight up at a very high speed.  This area background is industrial, residential and government.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101138.html](http://www.nuforc.org/webreports/reports/101/S101138.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
