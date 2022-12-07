@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:28 on 7 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:25 on 7 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I have never heard of anyone discribe what I saw and possibly it was just my eyes playing tricks on me but.....it was a large triangle shape, very large. Looking up I noticed three stars forming a triangel but inside  what would be the of the shape, it seemed to be darker than the rest of the sky, I keeped looking out of curriosity and soon it begain to kind of dance around the sky. the sky was dark and it was only slightly darker so it looked almost like a shadow. I watched for about 10 min. never sure if what I was seeing was real or not, since I have never heard of such a thing. Id like to know if others had witnessed the likes of this. Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54054.html](http://www.nuforc.org/webreports/reports/054/S54054.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two white lights in the daytime skyI was outside of the building I work in and heard a helicoptor flying nearby.  When I looked up to see where it was I noticed what I first thought to be a airliner flying at high altitude from east to west.  When it stopped and appeared to be falling i realised it was not an airliner but a dot of light instead.  It seamed to be falling for about ten to fifteen seconds when it suddenly moved back to the west very fast.  That is when I noticed a second dot of light that the first had moved to and stopped.  Both dots of light were stationary at that point and did not appear to be changing altitude.  I called my co-workers to come and look but the dots seemed to slowly gain altitude and fade away before they were able to spot them.  I was a clear day with scattered light clouds and excellent visibility at the time.  It should also be noted that I am a former air defense crew member and have had extensive aircraft recognition training.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26496.html](http://www.nuforc.org/webreports/reports/026/S26496.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
