@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:05:44 on 7 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:28 on 7 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in In-flight (over the North Sea, between England & Denmark) () reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright lights suspended above teh cloudsWhilst travelling on a flight from Dublin to Copenhagen I saw three briht lights spheres suspended in tmid air above the clouds. The passenger sitting in the seat next to me also saw these lights an we could provide no logical expanation for them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15432.html](http://www.nuforc.org/webreports/reports/015/S15432.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Gilbert (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Object streaking across sky similar to falling star, It stopped and dropped 4 other objects that moved in formation.My wife ((name deleted)), my son ((name deleted)), and I saw a mysterious phenomenon last night at approximately 8:30 pm. The attached pics and vids are taken from our front yard looking directly south. The property is located just northeast of Elliot and Val Vista Roads in Gilbert. Initially, we saw an object streaking in the southeast sky heading west and descending in a diagonal trajectory.  It had a bright white light with a trailing tail and looked like a falling star, which is what I at first thought it was. It also appeared to be emitting sparks.  The object came to a stop at a position due south of our property and 45 degrees above the horizon.  The object held its position while emitting a significantly dimmer light. I originally thought that it was the spot where the falling star (meteor) had burnt out, but the light remained in the sky at the stopped position.  We continued to watch for several seconds, after which an object began to fall to the ground (perpendicular to the earth) . It seemed to emit a dim spot of light.  It traveled approximately 1/3 the distance to the ground and stopped. It then began heading east (horizontal to the earth).  At that point, the object was intensely bright and appeared to be emitting sparks very much like a fireworks display rocket. Three additional objects did the same thing, creating a formation about 30 degrees above the horizon at a significant distance below and east of the original object.  They remained visible for several minutes, descending along looping trajectories until they disappeared below the horizon. The attached pics and vids are of the descending formation only.  We did not have the camera working in time to capture the activity that had happened before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105175.html](http://www.nuforc.org/webreports/reports/105/S105175.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
