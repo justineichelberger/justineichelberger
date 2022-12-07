@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:26 on 7 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:38 on 7 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in New Port Richey (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>One vary bright light moving over land out to the gulf look like a fire ball going about the speed of a hilicoptor about 500' in air slow going out and then turning into a red light by the time it got over the water and just disappeared((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105155.html](http://www.nuforc.org/webreports/reports/105/S105155.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Charleston (James Island) (SC) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>It looks like a beefed (or bulky) up amazon drone, 30-50mph, 4 small roaders surrounding a central body, all black, and deffintly unmanedLooks to be possible government drone of sorts.  Middle of the day, decent skies, up about 6 stories. It was all black, we thought it was the new amazon drone, but realized they weren't doing that currently. It had the same build, but different style. It was bulkier with thicker arms going into the propellers and had a smaller central body then the amazon drone.  Although I suppose its possible, I doubt its a toy. We were going 25-30mph through the back of a subdivision along the marsh and it passed us with no trouble and we eventually lost sight of it. I'd say it was going between 35-50 mph. I just cant think of a kids toy that could do this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105169.html](http://www.nuforc.org/webreports/reports/105/S105169.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
