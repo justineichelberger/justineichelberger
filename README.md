@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:38 on 8 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:36 on 8 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Hoofddorp (Netherlands) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>i was walking the dog when suddenly i looked up at the sky and there it was a  big neon pink deltashape, it had a lighttail and it moved very fast and was silent, had contstand speed and it lasted 5 seconds and suddenly dissapeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33676.html](http://www.nuforc.org/webreports/reports/033/S33676.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in De Leon (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>my daughter and I were returnung from town which is about six miles from our house when we saw three round orange colored lights in the south west. only two were lighted at the same time they looked like they were playing leap frog. My husband and I saw the same lights in the same area about three weeks later. They would light up then one would fade out and another one would light up each time they did this same thing then they would just disappear.Each time it was only lights that we saw. It was dark with no moon. They were all in a line moving from north to south approximately 20 or 30 miles from us. This is a very rural area without many city lights the population of our entire county is less than 8000. and there aren't any large airport close to us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10519.html](http://www.nuforc.org/webreports/reports/010/S10519.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
