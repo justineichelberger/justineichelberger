@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 8 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:27 on 8 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Newport Beach (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately Minutes - Minutes minutes.</sub><blockquote><sub>one disk with lights underneath it observed by myself another adult and 3 kids for a few minutes in the sky stationary as well as moving across sky a few feet back an forth and higher and lower  I saw one(1) disk. It had lights on it that formed a circle underneath it. The light were white or yellowish. The disk was dark. One red light. The disk could have been remote controlled from the ground, but it seemed to be to high up and to move in a way that made me think it was not remote controlled. we observed it for about 2 minutes stationary as well as moving across the sky. We stopped observing it and went to a movie and it was still in the sky and we did not investigate further. I only made a note here becasue I saw a similiar sighting in NewPort and we were not convinced it was a normal motion for a remote control craft... Weird.....((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53884.html](http://www.nuforc.org/webreports/reports/053/S53884.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Hornbrook (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Flashing, hovering light moving multiple directions in one area of the sky.For the past 2 nights, between 9-10 pm PST, I've noticed what I thought was a bright and twinkling star near the bottom left of Orion.  Both times, this bright light appeared to hover and subtly move in different directions, diagonal movements being most noticeable.  It stayed in the same little area and didn't make any sudden movements at all.It appears to flash multiple colors and be extremely far away.I pulled out my phone to use my SkyMap tonight, to see if there was a corresponding planet or star, and the app kept malfunctioning..  Which is unusual.From where I am at, the light was straight in the direction of Mt. Shasta.I thought maybe I was just tired last night, but when my friend saw it tonight,  that confirmed it for me.Both nights I watched it for a good 10-15 mins before I got too cold and went in.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137629.html](http://www.nuforc.org/webreports/reports/137/S137629.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
