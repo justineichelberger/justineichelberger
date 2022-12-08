@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:02:47 on 8 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 8 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Beaver (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 2 hrs. to ? - 2 hrs. to ? minutes.</sub><blockquote><sub>Three bright objects would appear and disappear covering great distances in the night sky.I had just got in from work and went outside to check the christmas lights, when I looked up at the night sky and off in the distance I saw what I thought was an air craft light. As I continued to watch this light I noticed it would travel across the  horizon it would travel slowly ,seem to stop or disappear and reappear a great distance away. It would jump from one spot to another very quickly.Soon another light appeared above the first and another above the second light and all three objects traveled together then would split up in different directions and then reappear one ontop of the other as if looking for something. I watched this for a couple of hours off and on. Because of the cold weather I finally went in for the night. I tried to video tape the objects ,but my camera would not focus inthe night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15421.html](http://www.nuforc.org/webreports/reports/015/S15421.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Fredericksburg (IA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I was Driving northbound on hwy 63, 3 miles south of hwy 18 when i saw a bright white lighted, Rectangular object moving very fast through the sky east to west, lasted about 6 seconds and then just vanished</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161094.html](http://www.nuforc.org/webreports/reports/161/S161094.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
