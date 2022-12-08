@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:24 on 8 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:24:00 on 8 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Sweeny (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Very bright blue UFO hovering over the Tx Country Sky!Blue flashing lights hovering across the sky.  When I stopped on the highway to see it and record it.  Leaving away from the flying UFO it started following super fast then suddenly stopped.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105171.html](http://www.nuforc.org/webreports/reports/105/S105171.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Henderson (NE) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>3 gold colored  connected lights very large moving East to West3 round gold color balls in a horizontal lign heading from East to West- appeared to be connected.  No sound, moving very fast.  as close as I can tell this object was larger than a normal aircraft.  Seen in a total night dark sky.  I have seen many meteors- this was not a meteor or an airplane/jet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41041.html](http://www.nuforc.org/webreports/reports/041/S41041.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
