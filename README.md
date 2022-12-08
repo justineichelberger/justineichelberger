@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:46 on 8 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:29 on 8 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Moncton (NB) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Long stream of lightsThought it was satellites at first but just a long stream of what looked like satellites but there was too many.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151413.html](http://www.nuforc.org/webreports/reports/151/S151413.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in outer space () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>During the space walk on Monday, I was watching CSPAN and saw something strange.  At one point during the space walk the robotic arm or some other part of the shuttle was in the center of the screen.  This separated the screen into black (outer space) areas on the right side of the screen and a black (outer space) area on the left side of the screen.  In the black area (outer space) on the left side of the screen, I saw a small white circle move quickly from right to left.  It seemed to appear out of nowhere; maybe it was just entering the light of the sun-I don't know.  It lasted about 1 second.  Immediately thereafter the view on television switched from the camera to the prepared graphics, and some astronaut guy started babbling.  I could still hear the audio of the astronauts, but I don't think that they saw this thing.  They were still talking about their work.It looked like a perfect circle; white in color.  I'm sure somebody must have the entire space walk on tape to confirm or disconfirm what I saw.  It is only 1 second out of 4+ hours of space walks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05047.html](http://www.nuforc.org/webreports/reports/005/S05047.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
