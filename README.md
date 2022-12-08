@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:35 on 7 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:31 on 8 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Phoenixville (PA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>White haze horizontal cigar/ sphere shaped object. Flying from south to north. Very high in sky no sound. Consistent travel speed. I see these on occasion while on deck watching for shooting stars. Bare eye observation. I'm a housewife and a bit of a nightowl...no drugs used. this is my first report. I also see quick moving dark shadows on occasion. I observe sky approximately 3 nights per month.  I will report from now on! This white hazy object was not my imagination. Could it just be man made? Was very large and distant. Responses anyone?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161070.html](http://www.nuforc.org/webreports/reports/161/S161070.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Marietta (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Today we experienced a snow in and we are currently sitting inside with candles due to a power outage.  My family and I have seen about 4 blue lights flash over the sky within the past 35 mintues or so.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137623.html](http://www.nuforc.org/webreports/reports/137/S137623.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
