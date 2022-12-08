@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:46 on 8 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:24 on 8 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Olathe (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>K and C were driving down the street after receiving a phone call from a friend about a strange light appearing above his house. K and C proceeded to drive over to his house to witness the light for themselves. However, as they neared the trailer park where he lives they noticed a strange contrast in the night sky and its coloration. On the left side of the street the sky was purest black. On the right side the sky was orange with a white strip across the bottom and darker as we looked higher up. As we drove through the trailer park the sky on our right proceeded to grow more orange. The previous orange shade intensified. Driving down the streets of the trailer park any where the vehicle went the streetlights around it dimmed and continued to do so until we drove away. As we drove out of the trailer park the sky seemed to darken and the orange light gathered behind C's car. Driving down the main street back to K's house we were stopped by a train. A light that was previously white was now yellow and while K and C were waiting for the train to pass other colors started to appear mixed in with the yellow. C rolled her window down to see if it might have been the fog that was starting to roll in. It wasn't. She asked a car on the other side of her and the occupants of the vehicle said they did not see any light. K and C both saw the light. The train passed and we drove on. The fog had gathered to become slightly obscurant and thus we missed her street the first time around. We drove a few more feet to the roundabout and turned around. We turned onto the correct street and stopped for approximately 3 seconds to roll the window up. There was a shadow behind the car yet when K and C looked there was no one, and nothing. There was likewise nothing there as we pulled away. We continued along the street until pulling into the driveway and walking into the house.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60246.html](http://www.nuforc.org/webreports/reports/060/S60246.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Des Moines (IA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>At approximately 0615 hours on a Saturday morning while still during the hours of darkness, I observed a fast moving silver light going from west to east across the sky.  I saw it for the briefest of instances.  My initial impression was that it was a military aircraft.  I mentioned seeing it to a co-worker and he stated he saw something similar approximately 20-25 minutes earlier.I found the incident to be odd because of the timing of the event.  It was early on a Saturday morning. There is a local Air National Guard base nearby but it had no aircraft up and flying that morning.  It's possible that what I saw was an aircraft but, as I said earlier, why were they flying over an urban population center at that particular time on a weekend?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95091.html](http://www.nuforc.org/webreports/reports/095/S95091.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
