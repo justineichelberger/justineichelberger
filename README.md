@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:36 on 8 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:32 on 8 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in De Leon (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>my daughter and I were returnung from town which is about six miles from our house when we saw three round orange colored lights in the south west. only two were lighted at the same time they looked like they were playing leap frog. My husband and I saw the same lights in the same area about three weeks later. They would light up then one would fade out and another one would light up each time they did this same thing then they would just disappear.Each time it was only lights that we saw. It was dark with no moon. They were all in a line moving from north to south approximately 20 or 30 miles from us. This is a very rural area without many city lights the population of our entire county is less than 8000. and there aren't any large airport close to us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10519.html](http://www.nuforc.org/webreports/reports/010/S10519.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Cross' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>the orange cross over sacramentoOn my way home from picking up my wife from work ,as we pulled into our street we saw a orange cross in the sky, it was about 15hundered feet i guess , it was as lowe as a chp choper would normaly be. The cross had no sound to it ,so i  opend our moon roof in our car,pulled over and we were able see this thing very well, my wife said to me can it be a blimp?  I dont know?  I dont think so? because  blimps moves some.  At this point we just looked at it not knowing what it is.  Then  it moved ,to our left , and when it did no sound and very fast,  So i drove to the next street over to try to get a pictuer of it , it thein moved back to the place that i first saw it,  My wife and i dident know what two think? so i drove a coupel of blocks over to our home, it was still thier. we get out of the car it still thier , my wife makes her way in the house, shaking her head telling me to come inside, well I dont, i go to the back yard and look for it ,, it still thier ! just thier! then it dropt something ..like a flair from underneth it .. the flair fell and was burning up and when the flair was gone so was the cross. like it was never thier, just gone..we saw something that we had never seen befor</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85779.html](http://www.nuforc.org/webreports/reports/085/S85779.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
