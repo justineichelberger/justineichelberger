@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:35 on 8 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:35 on 8 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Henderson (NV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Shadow like triangle, no lights or sound, larger and faster than a commercial jet.There was no sound and it passed my field of view from north to south.Looked larger than an airplane and was completely silent.There was no lights it was like a shadow but could make out it was triangular in shape it was larger and faster than a commercial airplane and cross the path the planes landing at McClain airport.It was triangular and looked to glow but no light, like a shadow. It was two toned the outer sides were lighter and the center was dark. It was large and low with no sound. I could here the commercial jets over it and they were higher in the sky than it was. It was also fast passing from the sight between roof tops. In a straight line almost perfect dew south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105182.html](http://www.nuforc.org/webreports/reports/105/S105182.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Newport Beach (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately Minutes - Minutes minutes.</sub><blockquote><sub>one disk with lights underneath it observed by myself another adult and 3 kids for a few minutes in the sky stationary as well as moving across sky a few feet back an forth and higher and lower  I saw one(1) disk. It had lights on it that formed a circle underneath it. The light were white or yellowish. The disk was dark. One red light. The disk could have been remote controlled from the ground, but it seemed to be to high up and to move in a way that made me think it was not remote controlled. we observed it for about 2 minutes stationary as well as moving across the sky. We stopped observing it and went to a movie and it was still in the sky and we did not investigate further. I only made a note here becasue I saw a similiar sighting in NewPort and we were not convinced it was a normal motion for a remote control craft... Weird.....((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53884.html](http://www.nuforc.org/webreports/reports/053/S53884.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
