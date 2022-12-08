@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:24:00 on 8 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:02:47 on 8 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Henderson (NE) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>3 gold colored  connected lights very large moving East to West3 round gold color balls in a horizontal lign heading from East to West- appeared to be connected.  No sound, moving very fast.  as close as I can tell this object was larger than a normal aircraft.  Seen in a total night dark sky.  I have seen many meteors- this was not a meteor or an airplane/jet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41041.html](http://www.nuforc.org/webreports/reports/041/S41041.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Beaver (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 2 hrs. to ? - 2 hrs. to ? minutes.</sub><blockquote><sub>Three bright objects would appear and disappear covering great distances in the night sky.I had just got in from work and went outside to check the christmas lights, when I looked up at the night sky and off in the distance I saw what I thought was an air craft light. As I continued to watch this light I noticed it would travel across the  horizon it would travel slowly ,seem to stop or disappear and reappear a great distance away. It would jump from one spot to another very quickly.Soon another light appeared above the first and another above the second light and all three objects traveled together then would split up in different directions and then reappear one ontop of the other as if looking for something. I watched this for a couple of hours off and on. Because of the cold weather I finally went in for the night. I tried to video tape the objects ,but my camera would not focus inthe night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15421.html](http://www.nuforc.org/webreports/reports/015/S15421.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
