@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:28 on 9 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:43 on 9 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Kalamazoo (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>a little ball of light making little circles in the skyI was in the batchroom and I thought I was seeing things, maybe that is still the case but I looked out the window and I saw the little ball of light and it wasn't too far up in the sky.  It was making circle motions fairly fast and then it would stop for a second and then start up again and I went outside to take a better look.  Well, it had started moving slowly toward me and when it passed over head I saw that there was a red light on it and I could hear it but it was a very low sound.  Not something that a plane would make I don't think.  So it might be my eyes deceiving me or it was indeed an unidentified flying object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05092.html](http://www.nuforc.org/webreports/reports/005/S05092.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Red Light  over east valley of PhoenixMy wife heard on the radio that there was a red light hovering over the east valley of the Phoenix area. She let me know about it and we went out side to look. Sure enough we could see it clearly. A deep red glowing light hovering high in the sky. We observed it through binoculars and it was without a doubt this "Bubba" object that I've heard about. Just letting you know.((NUFORC Note:  Correct date was not included by witness.  We have corrected it here; the event occurred on 09DE00.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15346.html](http://www.nuforc.org/webreports/reports/015/S15346.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165806.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165817.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165808.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165838.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165837.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
