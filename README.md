@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:28 on 9 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:26 on 9 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Huntersville (NC) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Box shape (ie a book) flat black all around, 2 large white lights no windows or exhaust slow & silent.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55305.html](http://www.nuforc.org/webreports/reports/055/S55305.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Canton/Jackson Township (OH) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Green flash of light over Canton OhioI did not see an object, more of a flash of green light. I was driving home from work at the time listed above, in western Jackson Township, when I noticed a green flash of light to the southeast, over the city of Canton Ohio. It was cloudy, after a bad thunderstorm. This was definitely not lightening. This is all the information I have. You may contact me if you have specific questions.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151442.html](http://www.nuforc.org/webreports/reports/151/S151442.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165806.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165817.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165808.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165838.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165837.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
