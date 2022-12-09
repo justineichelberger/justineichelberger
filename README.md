@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:27 on 9 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:26 on 9 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Phillipsburg (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>12 red flashing lights, traveling slowly, with a heading in SW KANSAS.On Dec. 8, 2017,  (sic.  Dec. 9th) my husband and myself witnessed a distinctive row of red lights traveling SW of Phillipsburg, KS.  They were lined up and flashing, moving at a slow rate of speed.Did not see any object just the lights there was at least a dozen red flashing lights no sounds of engines, just silence.Would love to know if anyone else has reported that sighting.((NUFORC Note:  We suspect that the time indicated by the witness is flawed, and we have attempted to contact her to confirm whether the sighting might have been during the evening.  In the meantime, we have amended the time above.  PD</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137680.html](http://www.nuforc.org/webreports/reports/137/S137680.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Purdy (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>PALE GREEN LIGHT MOVING VERY FAST FROM NE TO SW.  SIGHTED BETWEEN CLOUDS. APPEARED TO BE DROPPING INTO THE BAY IN THE DIRECTION OF OLYMPIC MOUNTAINS.WHILE TRAVELING FROM WORK IN BREMERTON, WA TO MY HOME IN GIG HARBOR, WA (ROSEDALE COMMUNITY ON HENDERSON BAY (CARR INLET)), I SAW, FROM MY CAR, A BRIGHT, PALE GREEN FIREBALL IN A PEAR SHAPE MOVING ACROSS THE SKY FROM NE TO SW.  THE SKY WAS CLOUDY AND I SAW THE FIREBALL BETWEEN CLOUDS.  I WAS LOOKING SW.  IT APEARED TO BE FALLING, AND MY PERCEPTION WAS THAT THE FIREBALL'S TRAJECTORY, IF COMPLETED, WOULD TAKE IT INTO THE BAY.  THE LIGHT, WHILE PALE GREEN IN COLOR, WAS VERY BRIGHT.  ITS SIZE WAS MUCH SMALLER THAN A FULL MOON, BUT MUCH, MUCH LARGER THAN THE LARGEST-SEEN STAR.  PERHAPS THE MIDDLE SECTION OF A HALF-MOON.  IT WAS BEAUTIFUL! I AM 57 YEARS OLD, FEMALE.  I WORK AS A PARALEGAL AT THE PUGET SOUND NAVAL SHIPYARD LEGAL OFFICE.  I HAVE A LIBERAL ARTS BACHELORS DEGREE.  I DO NOT BELIEVE THE GOVERNMENT IS HIDING ALIENS IN ARIZONA OR NEVADA OR WHEREVER AREA 51 IS.  THIS IS THE FIRST TIME I HAVE REPORTED LIGHTS IN THE SKY, ALTHOUGH IT'S THE SECOND TIME I HAVE SEEN A SIMILAR FIREBALL.  THE FIRST WAS 1 OR 2 YEARS AGO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11307.html](http://www.nuforc.org/webreports/reports/011/S11307.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165806.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165817.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165808.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165838.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165837.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
