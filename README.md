@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:55 on 9 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:26 on 9 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Green River (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I took my 11-year-old son and his 12-year-old cousin camping just outside the Goblin Valley State Park in Green River, Utah, on Dec 9, 2017. We started seeing reddish pulsating lights traveling slowly across the horizon, looking west. It was winter, so it was mostly dark outside. I grabbed my camera, a Sony A7 with a 50 mm lens using an f2 aperture and a 6400 iso. The picture has a total of 9 groupings of light, all in a row except one group slightly above the others. The 8 groups had three lights per group that pulsated a reddish color, and the one group slightly above had white pulsing lights. So all together, 42 slowly moving pulsating lights. I also took a video as well. I'm not sure if it was helicopters or not, but it was definitely weird.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163261.html](http://www.nuforc.org/webreports/reports/163/S163261.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Cheyenne (WY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Sitting at a red light and I'm looking at light waiting for it turn green.  And this round object, with bunch of mini pastel lights floating around in side of the round object.  And the round object was clear see through.  It flu or glided pretty fast.  About 1 min later another one glides past but this one appeared to have a tail looked more like a ballon.  clear round and floating mini pastels lights inside of it, and this is night and dark.((NUFORC Note:  We have spoken via telephone with the witness, and she assures us that the sighting occurred at 4:45 p.m., as she was returning home from work.  The objects were seen moving from her right to left, but she witnessed GREEN lights, ruling out any type of terrestrial aircraft.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137648.html](http://www.nuforc.org/webreports/reports/137/S137648.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165806.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165817.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165808.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165838.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165837.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
