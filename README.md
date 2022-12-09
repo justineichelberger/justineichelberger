@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:26 on 9 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:28 on 9 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in California (southern) (CA) reported seeing craft that fit the description of some '' over a period of approximately over flight - over flight minutes.</sub><blockquote><sub>simple explanation  of " rings "  in dry lake bed as seen by biplane  piloit during flight .this in answer questions about your report of circles on the ground in a dry lake bed on the front page of your site. "  Two pilots, flying a Boeing "Stearman" biplane from Lake Havasu City, AZ, to Palm Springs, California, witnessed a peculiar, ring-shaped formation on the ground. .  When they landed, to inspect the formation, they could not detect it from ground level.  SOUTHERN CALIFORNIA, SATURDAY, DECEMBER 09, 2006 "  the answer is that rings in dry lake beds , of this type , are commonly found all around the western USA.  they are used / were used during WWII and the Korean and are still used in places as bombing range target markers, for pilots to practice with, to drop bombs.  dozens of places like this exist , the ones that are hard to see ( like these ) are older ones that haven't been used in a long time ( see B on the map I included ).   look at the acme map I provided , at locations B , C, and D for other examples of these types of circles.  these particular circles are found on Nellis Ranges in Nevada. Http://www.acme.com/mapper/?ll=37.48759,-116.22823&z=15&t=S&marker0=37.64472%2C-115.74278%2Crachel%20nv&marker1=37.49876%2C-116.39225%2C27.1%20km%20NW%20of%20Belted%20Range%20NV&marker2=37.51269%2C-116.24295%2C19.5%20km%20NxNW%20of%20Belted%20Range%20NV&marker3=37.48759%2C-116.22823%2C16.4%20km%20NxNW%20of%20Belted%20Range%20NV hough they look unusual, the rings are a common sight to experienced desert rats.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57049.html](http://www.nuforc.org/webreports/reports/057/S57049.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Kalamazoo (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>a little ball of light making little circles in the skyI was in the batchroom and I thought I was seeing things, maybe that is still the case but I looked out the window and I saw the little ball of light and it wasn't too far up in the sky.  It was making circle motions fairly fast and then it would stop for a second and then start up again and I went outside to take a better look.  Well, it had started moving slowly toward me and when it passed over head I saw that there was a red light on it and I could hear it but it was a very low sound.  Not something that a plane would make I don't think.  So it might be my eyes deceiving me or it was indeed an unidentified flying object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05092.html](http://www.nuforc.org/webreports/reports/005/S05092.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165806.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165817.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165808.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165838.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165837.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
