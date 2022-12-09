@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:26 on 9 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:26 on 9 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Cheyenne (WY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Sitting at a red light and I'm looking at light waiting for it turn green.  And this round object, with bunch of mini pastel lights floating around in side of the round object.  And the round object was clear see through.  It flu or glided pretty fast.  About 1 min later another one glides past but this one appeared to have a tail looked more like a ballon.  clear round and floating mini pastels lights inside of it, and this is night and dark.((NUFORC Note:  We have spoken via telephone with the witness, and she assures us that the sighting occurred at 4:45 p.m., as she was returning home from work.  The objects were seen moving from her right to left, but she witnessed GREEN lights, ruling out any type of terrestrial aircraft.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137648.html](http://www.nuforc.org/webreports/reports/137/S137648.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in California (southern) (CA) reported seeing craft that fit the description of some '' over a period of approximately over flight - over flight minutes.</sub><blockquote><sub>simple explanation  of " rings "  in dry lake bed as seen by biplane  piloit during flight .this in answer questions about your report of circles on the ground in a dry lake bed on the front page of your site. "  Two pilots, flying a Boeing "Stearman" biplane from Lake Havasu City, AZ, to Palm Springs, California, witnessed a peculiar, ring-shaped formation on the ground. .  When they landed, to inspect the formation, they could not detect it from ground level.  SOUTHERN CALIFORNIA, SATURDAY, DECEMBER 09, 2006 "  the answer is that rings in dry lake beds , of this type , are commonly found all around the western USA.  they are used / were used during WWII and the Korean and are still used in places as bombing range target markers, for pilots to practice with, to drop bombs.  dozens of places like this exist , the ones that are hard to see ( like these ) are older ones that haven't been used in a long time ( see B on the map I included ).   look at the acme map I provided , at locations B , C, and D for other examples of these types of circles.  these particular circles are found on Nellis Ranges in Nevada. Http://www.acme.com/mapper/?ll=37.48759,-116.22823&z=15&t=S&marker0=37.64472%2C-115.74278%2Crachel%20nv&marker1=37.49876%2C-116.39225%2C27.1%20km%20NW%20of%20Belted%20Range%20NV&marker2=37.51269%2C-116.24295%2C19.5%20km%20NxNW%20of%20Belted%20Range%20NV&marker3=37.48759%2C-116.22823%2C16.4%20km%20NxNW%20of%20Belted%20Range%20NV hough they look unusual, the rings are a common sight to experienced desert rats.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57049.html](http://www.nuforc.org/webreports/reports/057/S57049.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165806.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165817.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165808.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165838.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165837.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
