@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:30 on 9 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:27 on 9 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Utica (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>18 UFOs Over Building Clear Video!18 Ufos Pop In From Outta Nowhere & Swirl Over Building. Sending Clear Video To ufocntr@nwlink.com</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151653.html](http://www.nuforc.org/webreports/reports/151/S151653.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Phillipsburg (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>12 red flashing lights, traveling slowly, with a heading in SW KANSAS.On Dec. 8, 2017,  (sic.  Dec. 9th) my husband and myself witnessed a distinctive row of red lights traveling SW of Phillipsburg, KS.  They were lined up and flashing, moving at a slow rate of speed.Did not see any object just the lights there was at least a dozen red flashing lights no sounds of engines, just silence.Would love to know if anyone else has reported that sighting.((NUFORC Note:  We suspect that the time indicated by the witness is flawed, and we have attempted to contact her to confirm whether the sighting might have been during the evening.  In the meantime, we have amended the time above.  PD</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137680.html](http://www.nuforc.org/webreports/reports/137/S137680.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165806.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165817.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165808.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165838.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165837.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
