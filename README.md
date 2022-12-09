@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 9 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:36 on 9 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Charlottesville (VA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>alien acrobat, or new government plane?  you tell me.At about 10 pm I and my family witnessed a fast moving light in the western sky maneuvering at a high rate of speed, exceeding known limitations of aircraft.  It remained in the same vicinity for at least 2 hours.  If this was not a new space plane of some sort,  It must be alien.  It performed right angle turns at impossible rates of speed.  Too cold outside, did not see it leave.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79200.html](http://www.nuforc.org/webreports/reports/079/S79200.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Two Oval Shaped Craft Flying Low and Extremely Fast in Tandem Formation Over San Jose California!I was released from the San Jose hospital on December 9th in the afternoon and it was a very nice sunny day with no clouds in the sky and shortly after arriving to my home I was resting in a chair in my back yard facing to the South at around 4pm when all of the sudden I noticed two oval shaped objects come into my vision from deep in the Western sky.  They were traveling together and within very close proximity of each other just as two side by side blue angel jets do when they fly in tandem formation during air shows.After they had caught my eyes attention, I focused directly on them for approximately 7 seconds as they went from the far right hand side of the Western sky all the way to the left of the Eastern sky.  I tried to get my friend’s attention who was standing to my left and facing me to turn around and look at the two fast flying ufo’s.  As he had turned to face them, they were already two thirds the way across the sky which caused me to get up out of my chair and walk forward passing by my friend to catch the last glimpse of them as they went over the far Eastern hills.The two ufo’s were traveling at approximately 4,000 feet above the ground and were about 3 miles or so out away from my home and seemed to be traveling at a speed of at least 1,000 plus miles per hour as it appeared from the distance that they had covered in such a quick time.The way I figured their speed at about 1,000 plus miles an hour is because I lived near the San Jose airport which is about 2 miles North West of the home that I was living in at the time and I use to watch the incoming and out going planes flying overhead all of the time in the sky at about the same distance that I had watched the two oval shaped ufo’s flying and they don’t cover anywhere near the distance of skyline in such a short period of time that the two ufo’s did in that day of December!  Everything that I have mentioned in this statement is 100% true and as accurate as I can remember.  My eyesight is 20 20 in my right eye and 10 20 in my left eye which is much better than average, so, what I was looking  at was very clear to my eyesight!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81828.html](http://www.nuforc.org/webreports/reports/081/S81828.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165806.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165817.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165808.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165838.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165837.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
