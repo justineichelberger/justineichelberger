@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:02:57 on 9 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:38 on 9 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Chilliwack (Canada) (BC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>dark oval like object crossed in sky while driving on highway near chilliwack making stereo go warbly / off pitch like battery failingwas driving to chilliwack down highway 1.  suddenly the CD i was playing seemed to slow down as if battery was failing...but it didnt slow down it kinda got warbly...like when trying to start a car that won't start.... anyways, it is hard to describe but it was off pitch....   i also felt a kinda shock in my neck...not sure if related... i think my lights dimmed too...not 100% on that...i thought my battery was having problems anyways..which startled me because i was driving 100Km/hr.... then i saw a fast moving dark shape in the sky out front of my truck...it was flying at an angle ..only saw it for a moment because it crossed my path.... at first i thought it was a helicopter..but it was very low....very dark (no lights) and moved very silently except it seemed there was a bass like sound as it went in front/overtop of me.  then it was gone and the stereo was back to normal...i couldnt stop because i was on the highway...so thats all i  can say. dont even know if it was anything...but it was a little chilling.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53890.html](http://www.nuforc.org/webreports/reports/053/S53890.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Dardanelle (AR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>I was driving down the highway, taking a friend home, when out of the corner of my eye, looking through the windshield, I saw a large white light zip not only across the sky, but angled downwards at high speeds, had I blinked I would have missed it but the size in comparison to the rest of the scenery I was seeing, it was like half the size of a dime on my windshield if that makes sense.  The ufo did not follow the curvature of the earth, and if it did touch down I would guess it was within 25 miles of my location.  I couldn't make out the shape of it but the light was circular, with a small trail behind it, but not like a meteor. It was too big to be an asteroid or a meteor, and to fast to be anything from earth.  Where I live I see a lot of commercial airlines fly overhead at night, but the light that a commercial plane gives off pales in comparison to the light of this ufo.  I was astounded and my friend in the passenger seat saw it also, he said he was able to see a! shape within the light, but it went by so quickly, it was hard to make out an exact shape.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137625.html](http://www.nuforc.org/webreports/reports/137/S137625.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165806.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165817.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165808.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165838.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165837.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
