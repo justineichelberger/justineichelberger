@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:38 on 9 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:25 on 9 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Dardanelle (AR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>I was driving down the highway, taking a friend home, when out of the corner of my eye, looking through the windshield, I saw a large white light zip not only across the sky, but angled downwards at high speeds, had I blinked I would have missed it but the size in comparison to the rest of the scenery I was seeing, it was like half the size of a dime on my windshield if that makes sense.  The ufo did not follow the curvature of the earth, and if it did touch down I would guess it was within 25 miles of my location.  I couldn't make out the shape of it but the light was circular, with a small trail behind it, but not like a meteor. It was too big to be an asteroid or a meteor, and to fast to be anything from earth.  Where I live I see a lot of commercial airlines fly overhead at night, but the light that a commercial plane gives off pales in comparison to the light of this ufo.  I was astounded and my friend in the passenger seat saw it also, he said he was able to see a! shape within the light, but it went by so quickly, it was hard to make out an exact shape.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137625.html](http://www.nuforc.org/webreports/reports/137/S137625.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Newport (ME) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Sighted a disk/saucer shaped craft with rotating lights at 4:30 heading to Newport.My mother and I were traveling in a car towards Newport at 4:30 PM, when a moving light caught my notice.  My mother was only able to take a short look at the object as she was driving the car at the time.  I watched it for ten minutes, searching over possible explanations for the strange object.  It lacked the consistent blinking and red and green light color common to planes.  The altitude at which the object maneuvered, I would estimate, was like that of a plane (39,000 feet), possibly lower.  The object moved fairly quickly and was lit by white/yellow light which appeared to rotate.  I lost sight of the object when it moved behind a large cloud and apparently disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131694.html](http://www.nuforc.org/webreports/reports/131/S131694.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165806.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165817.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165808.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165838.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165837.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
