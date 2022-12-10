@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:29 on 10 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:28 on 10 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in North Branch (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Large bright reddish light ejecting 8 identical projectiles towards the ground then disappearingLarge bright solid reddish yellow light moving west to east.  Light ejected projectiles in groups of 2 towards the ground that looked like the end of a meteor when it fizzles out 4 times for a total of 8 identical projectiles then just disappeared,  not flares no sound and too low to be a commercial airliner.  Tried to take video but didnt turn out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144030.html](http://www.nuforc.org/webreports/reports/144/S144030.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Grand Rapids (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.058333333333333334 - 0.058333333333333334 minutes.</sub><blockquote><sub>big triangle rotating counter clockwise,9 triangulated mini-lights made the appearance of one big triangle,in cruising formation,silent3 dots of white lights,in a triangle,about 20 feet between each point.2 more sets of these tri-lights.9 lights total.each set spinning 3 revolutions per second.counter-    clockwise.each set spinning counterclockwise.each at the same rate.now,these three sets formed an even larger triangle.the center of each set of 3 points of light ,drawing an imaginary line;each set to each set,making a triangle,the big triangle.take the three points of a big triangle,fifty yards by fifty yds.by fifty yds.,the center of these 20 by 20 by 20 triangletts at each point ,comprising the bigger triangle.and this big triangle rotating as well ,at two rotations per second.traveling north-east to south-west at about a sailing rate of 100 m.p.h. no sound!1/4 of a mile up.traveling on a top to bottom slant directly away from me.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36393.html](http://www.nuforc.org/webreports/reports/036/S36393.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165885.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165825.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165810.html)
-- [350](http://www.nuforc.org/webreports/reports/161/S161141.html)
-- [349](http://www.nuforc.org/webreports/reports/161/S161150.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
