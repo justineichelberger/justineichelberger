@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:31 on 10 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:22 on 10 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Mankato (MN) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Four dim lights in a row, flew over my head. One object or four seperate objectsI was walking home from work (Bartender) I was not drinking. I happened to look up to my right when I saw a row of dim lights, what seem to be close, right above me (about 200yards ) It could have been one thing or four seperate things. They made no noise- hum or buzzing- nothing. It moved a little faster than I was walking. The four lights did not blink or flash, they were very dim. If I was not looking right at them I would not have seen them.In about 15 seconds it was ahead of me. I started to run in the direction it was moving. I'm not sure but it might have increased it's speed than disapeared over the sight line. I tried to tell myself that it was the belly of birds reflecting light from a near by Hospital's parking lot lights.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52021.html](http://www.nuforc.org/webreports/reports/052/S52021.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Westland (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Strange glowing object seen in the sky, moving east to west.first seen object coming from the west. it had a strange glow to it. It was moving slow at first, then speeded up.  Then it hovered for a moment.  Then it took off at a very high rate of speed and was gone in an instant, like a blink of an eye…((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116035.html](http://www.nuforc.org/webreports/reports/116/S116035.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165885.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165825.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165810.html)
-- [350](http://www.nuforc.org/webreports/reports/161/S161141.html)
-- [349](http://www.nuforc.org/webreports/reports/161/S161150.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
