@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:12 on 10 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:20:30 on 10 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Farragut (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>Bright light over FarragutFor about a month, maybe a month and a half, me and my friends have been noticing a bright white light in the sky towards the southwest.  It doesn't move, doesn't blink, and is usually just white.  It is lower than the other stars and is clearly visible when no other stars are.  It sometimes dims and then gets brighter, and alse the size changes from a tiny pinprick in the sky to a clear visible dot.  Sometimes it looks like it shoots beams out from the top of it that look like they're every color at once.  By about 23:30-24:00 it is gone.  It has happened every night since I first observed it which may have been back in about late October.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131733.html](http://www.nuforc.org/webreports/reports/131/S131733.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Valley Falls (KS) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Triangle ufo saw clouds through the center of it.Driving north of Valley Falls.  Thought I saw a silo it wasn't moving after looking closer realized it was a triangle ufo, I saw clouds right through the center of it.  I slammed on the breaks and turned around and it was gone.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124617.html](http://www.nuforc.org/webreports/reports/124/S124617.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165885.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165825.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165810.html)
-- [350](http://www.nuforc.org/webreports/reports/161/S161141.html)
-- [349](http://www.nuforc.org/webreports/reports/161/S161150.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
