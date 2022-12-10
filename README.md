@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:28 on 10 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:29 on 10 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Newport News (VA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Hexagon shape ufo'sI was on guard duty with a nother person around 12:00am. I felt something over my head.  I look up and around 20 feet off the ground I saw three space craft with a shape of a hexagon hovering over our heads. Their was no noise and the ufo were just floating.They had no window and signs and they were the size of a bus and no more than 6 feet tall. Then with in one min they shot ahead about 100 yards and then went up as fast as light can move. Their was no wind or any type of drag.  I am so lucky to have seen this.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42262.html](http://www.nuforc.org/webreports/reports/042/S42262.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in St. Augustine (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright large yellow white ball appeared mid sky at sunset and fell toward horizon in St. Augustine, Florida.Driving on beach A1A in St. Augustine, Florida, going west - approaching main A1A.  The sun had set and it was already getting dark.  From about halfway up in the Southwest sky a very bright light appeared and proceeded to fall rather arched toward direct west (if I was facing 12 o'clock this appeared in the 11 o'clock position and fell downward toward the 12 o'clock position).  I thought it was a shooting star but it remained just as bright as it fell, no tail, no fireball appearance - just a very large and very bright yellowish white color - moving very fast.  Lost sight of it at the tree line but did not see an explosion or any indication it hit the ground.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124612.html](http://www.nuforc.org/webreports/reports/124/S124612.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165885.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165825.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165810.html)
-- [350](http://www.nuforc.org/webreports/reports/161/S161141.html)
-- [349](http://www.nuforc.org/webreports/reports/161/S161150.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
