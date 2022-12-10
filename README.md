@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:31 on 10 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:21 on 10 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Trumann (AR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Three dull red lights forming a triangle moved rapidly and silently from the north to the south.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124616.html](http://www.nuforc.org/webreports/reports/124/S124616.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Maricopa (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright Orange Lights over Maricopa.We saw two bright orange lights at first.  Same brightness but some distance from each other over the Eastern side of Maricopa as we drove down John Wayne Parkway.  Then a third orange light appeared in between the other two.  It slowly faded from nothing into a bright light just like the other two were.  A few minutes later, the light on the far left faded out and disappeared.  As we got into town, the two that remained got closer together and seemed so close they may be touching.  Then they faded into darkness as well.  The entire event lasted about 20-25 minutes.One thing to note, there was a spotlight display happening at the same time from in front of the grocery store in the middle of town, we could see it from a few miles out of town.  We didn't get pictures because we were driving, and didn't think about it until it was too late.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115930.html](http://www.nuforc.org/webreports/reports/115/S115930.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165885.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165825.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165810.html)
-- [350](http://www.nuforc.org/webreports/reports/161/S161141.html)
-- [349](http://www.nuforc.org/webreports/reports/161/S161150.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
