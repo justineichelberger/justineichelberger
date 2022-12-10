@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:25 on 10 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:21 on 10 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>EXTREMELY BRIGHT, WHITE, LARGE OBJECT FELL OVER WEST PHOENIX SKY & NEAR SOUTH MOUNTAIN. DOGS WERE HOWLING FOR FIRST TIME-19:06 12/10/13At 7:06 p.m., I was sitting outside at our home in Laveen (SW Phoenix) and letting my dog play.  I was in the backyard where we have full view of high skies and much flight activity as close to Phoenix Sky Harbor Airport and Air Force Bases.I was standing and an enormous and brilliantly white in color light caught my eye as the it seemed to literally fall from the sky and quick over the house and neighborhood and then to the ground. It came from what appeared to be the North and East direction (saw as quick came over roof of home) and the immense and very intense bright white light dropped in the just near South and just East or possibly just Southerly direction.  The area where it flew over seemed to be almost right above the front of our home and heading rapidly towards the ground and South Mountain part.  The bright light was very intense and large and "appeared" too close to be real.  We did NOT hear any explosion or landing noise.  We did, for the very first time we've lived here, hear dogs HOWLING. It was so large that clearly others have seen and will report.  I had thought to call 911 but thought I could not really tell them what it was or where it landed.I have seen meteor shower and stars falling.  They burn out quickly and don't appear to ever be lower than the very busy aircraft that are constantly in the air.  The Airport closest is about 10 miles due East and we see departures and arriving flights around the clock, along with military craft performing maneuvers and plenty of high altitude large craft mostly coming from the West or likely California and passing far above the local traffic. This was in a fairly spherical shape but the light was SO BRIGHT and SO WHITE that it seemed like it may have been very large-nothing I have ever seen in 40 years.  I've never reported anything like this, never have seen anything like this and hope that you and others can locate where this landed and hopefully it didn't land or crash in a populated area.  It's too early online to see comments from NEWS, etc.  But MANY private and commercial craft were in the air at this time.  This was far below even where helicopters fly. Thanks for listening.Arizona Reporting</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105230.html](http://www.nuforc.org/webreports/reports/105/S105230.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in National City (Palm Ave.) (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I am resending this as I did not state that the triangle was only about 100 feet overhead and that this event happened on Palm Ave.  One 9/14/15 someone was on Palm Ave about one mile west and saw the triangle.  Please add Palm Avenue to my sighting so the other person who had a sighting on the same street will know.  The event really blew my mind.  It was also seen on 2/1/15 in Encinitas.  I will be going to Palm Ave a little more often, with a camera this time.((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122108.html](http://www.nuforc.org/webreports/reports/122/S122108.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165885.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165825.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165810.html)
-- [350](http://www.nuforc.org/webreports/reports/161/S161141.html)
-- [349](http://www.nuforc.org/webreports/reports/161/S161150.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
