@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:38 on 10 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:23 on 10 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>It was in a T formation.I was looking out my window at a blinking star, and i live around a lot of trees, next thing i know i see a aircraft really close to my house and the trees around. It was in a T formation,  On the horizontal line were 3 lights, on the vertical line there were two.  I dont know if it was the S-R Blackbird or not. i did not have enough time to take out my camera to take a picture.  I dont know if it left a trail it was too dark to tell. Very little to no sound heard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85796.html](http://www.nuforc.org/webreports/reports/085/S85796.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Auckland (New Zealand) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>spoted and watched multi-disk ship of huge sizei woke up in the middle of the night and couldnt get to sleep so was looking out the bedroom window when i saw what i thaught at first to be a aeroplane flying past but on closer examination i noticed that it was spining as at moved so i sat up and focused on the object. as i looked it was very clear to see and was quite far away but it was huge i could see what seemed little lights on it. it wasnt spinning entirely just the base of the craft was slowly spinning and from the base came 3 pylons that led down to 3 smaller discs at the base of the pylons, these discs were spinning much faster.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22781.html](http://www.nuforc.org/webreports/reports/022/S22781.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165885.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165825.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165810.html)
-- [350](http://www.nuforc.org/webreports/reports/161/S161141.html)
-- [349](http://www.nuforc.org/webreports/reports/161/S161150.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
