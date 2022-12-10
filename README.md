@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:28 on 10 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:20 on 10 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Grand Rapids (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.058333333333333334 - 0.058333333333333334 minutes.</sub><blockquote><sub>big triangle rotating counter clockwise,9 triangulated mini-lights made the appearance of one big triangle,in cruising formation,silent3 dots of white lights,in a triangle,about 20 feet between each point.2 more sets of these tri-lights.9 lights total.each set spinning 3 revolutions per second.counter-    clockwise.each set spinning counterclockwise.each at the same rate.now,these three sets formed an even larger triangle.the center of each set of 3 points of light ,drawing an imaginary line;each set to each set,making a triangle,the big triangle.take the three points of a big triangle,fifty yards by fifty yds.by fifty yds.,the center of these 20 by 20 by 20 triangletts at each point ,comprising the bigger triangle.and this big triangle rotating as well ,at two rotations per second.traveling north-east to south-west at about a sailing rate of 100 m.p.h. no sound!1/4 of a mile up.traveling on a top to bottom slant directly away from me.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36393.html](http://www.nuforc.org/webreports/reports/036/S36393.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Baton (NC) reported seeing craft that fit the description of some 'Other' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>slow-moving comet like tail with single strobe over western north carolinaI walked outside around 1920 eastern time, looked up, and my eye was caught by what looked like a bright comet with a very well-defined conical tail (it looked like the pictures i've seen of comet Kohoutek).   It was similar in size to a full moon.  I went in and got my binoculars (12 power) and resumed watching.  With binoculars, I was able to see that the object was moving slowly, referencing the stars nearby.  Over the course of 20 or 25 minutes, the object moved in an ENE direction from near the constellation Pegasus until it became too faint to see in the middle of the constellation Cassiopeia.  Several times during viewing, I observed a single bright flash like an aircraft strobe, and twice I saw objects not unlike satellites in brightness and speed pass moving west to within a degree (a full moon being around 1/2 a degree) of the object.((NUFORC Note:  Missile venting fuel in space.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60267.html](http://www.nuforc.org/webreports/reports/060/S60267.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165885.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165825.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165810.html)
-- [350](http://www.nuforc.org/webreports/reports/161/S161141.html)
-- [349](http://www.nuforc.org/webreports/reports/161/S161150.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
