@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:21 on 10 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:29 on 10 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in National City (Palm Ave.) (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I am resending this as I did not state that the triangle was only about 100 feet overhead and that this event happened on Palm Ave.  One 9/14/15 someone was on Palm Ave about one mile west and saw the triangle.  Please add Palm Avenue to my sighting so the other person who had a sighting on the same street will know.  The event really blew my mind.  It was also seen on 2/1/15 in Encinitas.  I will be going to Palm Ave a little more often, with a camera this time.((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122108.html](http://www.nuforc.org/webreports/reports/122/S122108.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in North Branch (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Large bright reddish light ejecting 8 identical projectiles towards the ground then disappearingLarge bright solid reddish yellow light moving west to east.  Light ejected projectiles in groups of 2 towards the ground that looked like the end of a meteor when it fizzles out 4 times for a total of 8 identical projectiles then just disappeared,  not flares no sound and too low to be a commercial airliner.  Tried to take video but didnt turn out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144030.html](http://www.nuforc.org/webreports/reports/144/S144030.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165885.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165825.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165810.html)
-- [350](http://www.nuforc.org/webreports/reports/161/S161141.html)
-- [349](http://www.nuforc.org/webreports/reports/161/S161150.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
