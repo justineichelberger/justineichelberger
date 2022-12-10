@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:41 on 10 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:09 on 10 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mesa/Chandler (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Multiple orange spheres over Mesa/ Chandler, AZ.After coming home from the store, I noticed a orange sphere on the southwest of my location, I pulled over on the side of the road and parked my car facing west.  Soon after I parked I saw another sphere appear next to the first one I initially saw, I tried recording but my phone kept going out of focus.Around 9:30 I saw a single sphere appear far to the right of the two that i was triying to record,a few seconds later two appeared further right, two more appeared to the left of them and then two more!  All three of the set of two appear to be equally spaced and parralel from each other.I got some blurry video and a picture where all nine can be seen at a distance, unfortunatelly that is all I got, I wish I had a better camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115957.html](http://www.nuforc.org/webreports/reports/115/S115957.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Lake CIty (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Fuel Dump Spooks Nation!Observed same comet-like phenomenon as the others previously posted here. Finally had a chance to search the web for possible launches which could account for this. URL: http://mt-milcom.blogspot.com/2007/12/nrol-24-launch-dec-10-possible-sds.html  Quote: The launch period is such that visual observers in parts of North America may be able to observe the Centaur's propellant dump soon after MECO2, as occurred with NROL-1.((NUFORC Note:  Missile venting fuel in space.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60421.html](http://www.nuforc.org/webreports/reports/060/S60421.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165885.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165825.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165810.html)
-- [350](http://www.nuforc.org/webreports/reports/161/S161141.html)
-- [349](http://www.nuforc.org/webreports/reports/161/S161150.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
