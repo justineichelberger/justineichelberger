@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:30 on 11 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:35 on 11 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>flew like no other, a fireball in the sky u can say..ALL I KNOW IS THIS..! I SEEN THIS OBJECT FLYING IN DA AIR, I KNEW IT WASN'T A SHOOTING STAR BECAUSE IT WAS TO SLOW...   BUT I KNEW IT WASN'T NO PLANE... IT WAS MOVING AT A STEADY PACE.. LIKE NO OTHER..  A FIREBALL IN DA SKY U CAN SAY.!! ...  MOVING AT A STEADY PACE, I WAS ABLE 2 SHOW MY FRIEND NEXT 2 ME... WE BOTH STARED AT IT FOR A GOOD 30-SECONDS, THEN THE OBJECT CAME 2 A COMPLETE STOP... STAYED THERE FOR A QUICK SEC, THEN DISAPEREAD... IT WAS A CLEAR DAY... SO I SEEN IT PERFECT, IT WAS A LOT LIKE THIS ("") THING I SEEN ON A "PETER JENNINGS" SPECIAL HE HAD ON UFO'Z...   WHAT I SEEN WAS THE SAME THING THAT THEY SEEN IN ARIZONA, ??? IN 02' OR SOMEHTING, I FORGOT.. OLD MAN TOOK THE FILM...  BUT IT'Z ON THAT SHOW WHEN A COUPLE OF THEM WHERE IN THE AIR.. I SEEN THAT!!...I AM OPEN 2 THE IDEA OF AN "OTHER FORM OF LIFE", I BELIEVE THE GALAXY IS FULL OF LIFE, AND OTHER TYPE'Z OF INTELLIGANCE..... "HUMANS CAN'T BE THE ONLY LIFE FORM.."    THIS IS THE SECOND TIME I'VE SEEN UFO STUFF IN SAN FRANCISCO.... FRISCO NATIVE</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49472.html](http://www.nuforc.org/webreports/reports/049/S49472.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Sallisaw (OK) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>circle with blinking lights.I was calling my cat to come inside when I saw a circle hovering by the pool up the road. It looked like it had smoke coming off of it but I was not sure it was cloudy that and this night but what I saw left me speechless.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165839.html](http://www.nuforc.org/webreports/reports/165/S165839.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/165/S165836.html)
-- [270](http://www.nuforc.org/webreports/reports/165/S165839.html)
-- [269](http://www.nuforc.org/webreports/reports/165/S165851.html)
-- [268](http://www.nuforc.org/webreports/reports/165/S165865.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161156.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
