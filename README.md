@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:31 on 11 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:21 on 11 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Newark (NJ) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>it flew as if it was a jelly fish..but in the skyI was looking out of thw window because my car alarm went off when I noticed something the sky which was moving kind of weird so I took a harder look and call my mother and she also saw it ...it was like a jellyfish without tentecles....it was like a transparent red with light surrounding the edges and flew exactly the way a jellyfish would swim in water..and it had a kind or glow to it...I couldn't believe it but my moms was there to and we watched it pratically swim in the sky until it disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79235.html](http://www.nuforc.org/webreports/reports/079/S79235.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Coconut Creek (FL) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>this object looked like the north star was getting 20 times closer to earth.at first my duaghter and I thought it was the north star brighter than we have ever seen it. but it only got brighter and brighter as if it was getting closer. It was a very and I mean very bright twinkle. We could see it clear being that it was a very clear sky that night. My daughter and just froze in couriosity, as we saw this twinkle in the sky going down in a 45 degree angle that back up again. As it did, it then started to proceed to fly slowly yet smooth. We could see it's shape take form as it flew over. It was diamond shape with lights at each end and more lights cemetrical to to teh shape of the aircraft. We also thought it might of been a rare shaped plane but waht's been bugging us is that at first it just appeared to huver without moving, only getting bigger and brighter, also that it made no sound (not one peep) accross the skies.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41105.html](http://www.nuforc.org/webreports/reports/041/S41105.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/165/S165836.html)
-- [270](http://www.nuforc.org/webreports/reports/165/S165839.html)
-- [269](http://www.nuforc.org/webreports/reports/165/S165851.html)
-- [268](http://www.nuforc.org/webreports/reports/165/S165865.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161156.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
