@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:05:51 on 11 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:21 on 11 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Loves Park (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>triangle object hovering above field next to me then dissappearedmy experince was on 12/12/03 in loves park , illinois around 17:30 - 17:40. i was walking in the country for my daily walk. i always look at the stars. i seen an object appear in the north sky traveling southward. it had 3 lights in a trianglur shape. it was moving slowly across the sky. it then hovered above the feild i was next to. it was maybe 100-300 feet off of the ground. i could see it clearly. it was dark in color. the lights were yellowish, i was kind of scared because i have never seen an object like this before. as it hovered i didn't observe any noise. not even a hum. it looked like about the size of a small airplane. it started moving south then all of a sudden it turned northeast in a fast rate of speed. then traveled northeast. there was a car that stopped to watch this object also. it then turned back southward then traveled really fast then all of a sudden just dissappeared. no sound what so ever. the lights were in a triangular shape, one light on each corner of the object. my sighting lasted about 20 minutes total but seemed to last longer. i have seen airplanes and satelittes,ballons,meteors,all of that before but have never encountered anything like this before. really wierd and scarry. i didn't tell noone yet because i don't think noone will believe me. how do you tell someone you just seen a triagular object hovering over a field next to you. thats why i am reporting this to this site. that way you know about this and this is in your guys expertise area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33792.html](http://www.nuforc.org/webreports/reports/033/S33792.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Avalon (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>It was a small bright light like a falling star but much larger than I have ever seen</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95161.html](http://www.nuforc.org/webreports/reports/095/S95161.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/165/S165836.html)
-- [270](http://www.nuforc.org/webreports/reports/165/S165839.html)
-- [269](http://www.nuforc.org/webreports/reports/165/S165851.html)
-- [268](http://www.nuforc.org/webreports/reports/165/S165865.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161156.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
