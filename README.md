@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:35 on 11 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:45 on 11 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Sallisaw (OK) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>circle with blinking lights.I was calling my cat to come inside when I saw a circle hovering by the pool up the road. It looked like it had smoke coming off of it but I was not sure it was cloudy that and this night but what I saw left me speechless.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165839.html](http://www.nuforc.org/webreports/reports/165/S165839.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Cross Plains (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright yellow and red lights lined up in a perfect line and also spaced outMy brother went outside to feed the dogs and he saw 3 red lights appear next to each other. He went inside and told me to go outside to look. My brother and I sat on the front porch and looked out to the South. Four yellow lights appeared in a perfect line next to each other and I told my brother to go inside and get his phone to record it. He came back and had his phone and I got my phone as well. We called my mom, who wasn't home at the time, and told her. Lights started appearing again but spaced out, so I got my brothers phone and started recording. We caught about 4 on camera. Those disappeared and I called my Aunt who lives down the hill from us and we told her to go outside. She made it out in time to see 7 line up in a perfect line with each other but they disappeared too fast for my brother and I to record.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151513.html](http://www.nuforc.org/webreports/reports/151/S151513.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/165/S165836.html)
-- [270](http://www.nuforc.org/webreports/reports/165/S165839.html)
-- [269](http://www.nuforc.org/webreports/reports/165/S165851.html)
-- [268](http://www.nuforc.org/webreports/reports/165/S165865.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161156.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
