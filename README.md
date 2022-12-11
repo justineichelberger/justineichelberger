@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:45 on 11 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:27 on 11 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Cross Plains (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright yellow and red lights lined up in a perfect line and also spaced outMy brother went outside to feed the dogs and he saw 3 red lights appear next to each other. He went inside and told me to go outside to look. My brother and I sat on the front porch and looked out to the South. Four yellow lights appeared in a perfect line next to each other and I told my brother to go inside and get his phone to record it. He came back and had his phone and I got my phone as well. We called my mom, who wasn't home at the time, and told her. Lights started appearing again but spaced out, so I got my brothers phone and started recording. We caught about 4 on camera. Those disappeared and I called my Aunt who lives down the hill from us and we told her to go outside. She made it out in time to see 7 line up in a perfect line with each other but they disappeared too fast for my brother and I to record.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151513.html](http://www.nuforc.org/webreports/reports/151/S151513.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in San Tan Valley (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5833333333333334 - 0.5833333333333334 minutes.</sub><blockquote><sub>Possible UFOThree bright oval lights, white in color observed in the sky's north of San Tan Valley, AZ.  At first one bright light was seen as it was stationary and stayed bright for 5 to 7 seconds.  Then it went out and two more lights lite up as the third light lite came back on.  All three lights same brightness, as they went dark they seemed to, in a faster then normal, sped to another location in the sky to the north east of San Tan Valley, AZ, and again would light back up and stay stationary for about 10 to 15 seconds.  After about 35 seconds all lights went off and nothing was seen again. In the past month I have seen this same action one time before with the difference of there being only one light.((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137708.html](http://www.nuforc.org/webreports/reports/137/S137708.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/165/S165836.html)
-- [270](http://www.nuforc.org/webreports/reports/165/S165839.html)
-- [269](http://www.nuforc.org/webreports/reports/165/S165851.html)
-- [268](http://www.nuforc.org/webreports/reports/165/S165865.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161156.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
