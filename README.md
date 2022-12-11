@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:26 on 11 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:31 on 11 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Thornton (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>2 flashing lights seen above Thornton.We were driving north on I-25 between 104th and 120th. I noticed odd blinking lights. There was two of them, blinking at the same time about 2 second intervals. It seemed like they might have been connected because they moved at the same time and at the same speed, however I could not see any shape - I was too far away.  The light was bright white in color. The only illumination that was seen were the two lights.  When they stopped flashing there was no other source of light, no red lights, no green lights - nothing. After watching it for about 5 minutes while driving it simply vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151511.html](http://www.nuforc.org/webreports/reports/151/S151511.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Newark (NJ) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>it flew as if it was a jelly fish..but in the skyI was looking out of thw window because my car alarm went off when I noticed something the sky which was moving kind of weird so I took a harder look and call my mother and she also saw it ...it was like a jellyfish without tentecles....it was like a transparent red with light surrounding the edges and flew exactly the way a jellyfish would swim in water..and it had a kind or glow to it...I couldn't believe it but my moms was there to and we watched it pratically swim in the sky until it disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79235.html](http://www.nuforc.org/webreports/reports/079/S79235.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/165/S165836.html)
-- [270](http://www.nuforc.org/webreports/reports/165/S165839.html)
-- [269](http://www.nuforc.org/webreports/reports/165/S165851.html)
-- [268](http://www.nuforc.org/webreports/reports/165/S165865.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161156.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
