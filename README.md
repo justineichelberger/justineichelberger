@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:48 on 11 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:26 on 11 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Sherman (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Who: Myself - Overnight Security  What: Observed Light - exactly like in previous sighting in the area - green in color, no trail, moving from an agle of my observance from 65 DEG -> horizon.Light started out as bright green, simular to what would be seen with a Green LED or electrical spark changing 1/2 way through the movement into a pure white back for about 2 seconds, back to green. When: 0353hrs  Where: (GROSS position of myself during event:)  West of Texoma Parkway and Fallon Drive aprox 1/4 mile.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33740.html](http://www.nuforc.org/webreports/reports/033/S33740.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Thornton (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>2 flashing lights seen above Thornton.We were driving north on I-25 between 104th and 120th. I noticed odd blinking lights. There was two of them, blinking at the same time about 2 second intervals. It seemed like they might have been connected because they moved at the same time and at the same speed, however I could not see any shape - I was too far away.  The light was bright white in color. The only illumination that was seen were the two lights.  When they stopped flashing there was no other source of light, no red lights, no green lights - nothing. After watching it for about 5 minutes while driving it simply vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151511.html](http://www.nuforc.org/webreports/reports/151/S151511.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/165/S165836.html)
-- [270](http://www.nuforc.org/webreports/reports/165/S165839.html)
-- [269](http://www.nuforc.org/webreports/reports/165/S165851.html)
-- [268](http://www.nuforc.org/webreports/reports/165/S165865.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161156.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
