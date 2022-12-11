@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:26:34 on 11 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:05:51 on 11 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Oval' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Low in the skiwith colored light then turned into big bright light moving towards me and then zipped across the ski.It was around 9:00 pm off of tramway and central when i was walking my dogs and i came across four lights blinking in a pattern. I told my boyfriend to come look we then noiticed 10 sets of four blinking patterns of lights. I called my mom, dad, and my boss and told them to go look outside i described what i saw they confirmed what i was telling them. There was one UFO that was real low n big, we all were watching it when, it started to move across the ski. When we first saw the 10 UFOS the were still and their lights went off when planes came by them. The one then moved towards us and the light grew bigger and bigger, then zipped across the ski towards the kirtland airforce base. MY dad then jumped in the car on case and it then moved fast towards the airport then disapeired we then watched the other 9 as they one by one also vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79226.html](http://www.nuforc.org/webreports/reports/079/S79226.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Loves Park (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>triangle object hovering above field next to me then dissappearedmy experince was on 12/12/03 in loves park , illinois around 17:30 - 17:40. i was walking in the country for my daily walk. i always look at the stars. i seen an object appear in the north sky traveling southward. it had 3 lights in a trianglur shape. it was moving slowly across the sky. it then hovered above the feild i was next to. it was maybe 100-300 feet off of the ground. i could see it clearly. it was dark in color. the lights were yellowish, i was kind of scared because i have never seen an object like this before. as it hovered i didn't observe any noise. not even a hum. it looked like about the size of a small airplane. it started moving south then all of a sudden it turned northeast in a fast rate of speed. then traveled northeast. there was a car that stopped to watch this object also. it then turned back southward then traveled really fast then all of a sudden just dissappeared. no sound what so ever. the lights were in a triangular shape, one light on each corner of the object. my sighting lasted about 20 minutes total but seemed to last longer. i have seen airplanes and satelittes,ballons,meteors,all of that before but have never encountered anything like this before. really wierd and scarry. i didn't tell noone yet because i don't think noone will believe me. how do you tell someone you just seen a triagular object hovering over a field next to you. thats why i am reporting this to this site. that way you know about this and this is in your guys expertise area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33792.html](http://www.nuforc.org/webreports/reports/033/S33792.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/165/S165836.html)
-- [270](http://www.nuforc.org/webreports/reports/165/S165839.html)
-- [269](http://www.nuforc.org/webreports/reports/165/S165851.html)
-- [268](http://www.nuforc.org/webreports/reports/165/S165865.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161156.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
