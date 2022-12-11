@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:26 on 11 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:54 on 11 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lisbon (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>A glowing orb seen 3 days in a row in OhioDecember 13, 2012    This is the third day my mother has watched a glowing orb hovering over a small lake in Lisbon, Ohio.  On December 11th at approximately 5:30 a.m.  she saw a glowing ball of light above the lake by her home.  She said it was the size of an exercise ball.  It moved  slowly up and down the lake and at times would hover, she would see a light shining down on the water , and then a splash like a small explosion (like an M80) thrown in the water.  This occurred for quite a while…when it began getting lighter outside it would disappear.  Amazingly, it was there on the next day and then today it was there again!   She said today it didn’t shoot into the water!   She is not prone exaggeration, has lived there for many years and is actually a little afraid.  I hope it is there tomorrow too!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95207.html](http://www.nuforc.org/webreports/reports/095/S95207.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Kuwait () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>a fading light over Kuwait, this light was behaving like a one side light of a round object that was circling it self,It happened at night while I was driving on the highway returning home, when I suddenly saw a light like the flash light used for emergency to be shot toward the sky.  I thought at first it could be the lights of an airplane, but this light was behaving like a one side light of a round object that was circling it self, because the light stays for ( 3 sec ) and fade to the other side.  The object changed its position twice and at the third time it stayed lighting for ( 6 sec ) and disappeared for good.  I saw only a light but could not see anything else because of the dark sky. Also this object was flying not far above land.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60416.html](http://www.nuforc.org/webreports/reports/060/S60416.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/165/S165836.html)
-- [270](http://www.nuforc.org/webreports/reports/165/S165839.html)
-- [269](http://www.nuforc.org/webreports/reports/165/S165851.html)
-- [268](http://www.nuforc.org/webreports/reports/165/S165865.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161156.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
