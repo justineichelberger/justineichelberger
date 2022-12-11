@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:26 on 11 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:41 on 11 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Reddish orange flashing lights in a pattern.  Rimmed the triangular, boomerang shape. Would hover in one spot,  as soon as I thought it had disappeared it would reappear moving/ hovering south west.  Finally vanished.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144028.html](http://www.nuforc.org/webreports/reports/144/S144028.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Monmouth Beach (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>12 brilliant silver orbs surge from the cloud coverI was traveling south on Route 36 (Ocean Avenue) from the vicinity of Sandy Hook, NJ. It was approximately 2:30 p.m. on a Saturday afternoon with overcast skies. While driving, I happened to glance out my driver's side window at the sky over the ocean. At the instant I looked at the sky, I observed approximately 12 orbs of the brightest silver light I have ever seen. I could only describe the luminosity as being like that of liquid mercury--only many times brighter--and pulsating. These bright lights appeared to surge out of the cloud cover and pulsate in a formation of 3 stacked rows. The size of each orb was larger than a marble but smaller than a golf ball--if held at arm's length. Almost as quickly as the orbs appeared, they disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41085.html](http://www.nuforc.org/webreports/reports/041/S41085.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/165/S165836.html)
-- [270](http://www.nuforc.org/webreports/reports/165/S165839.html)
-- [269](http://www.nuforc.org/webreports/reports/165/S165851.html)
-- [268](http://www.nuforc.org/webreports/reports/165/S165865.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161156.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
