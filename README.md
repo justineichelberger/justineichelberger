@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:25 on 11 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:27 on 11 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Aston (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Very large translucent triangleIt was a sunny clear morning. The sun was still low in the sky behind me. I think this has a lot to do with what I saw. I was sitting in my car in the parking lot of a local bank waiting for the it to open. I always watch the sky because I am a plane spotter and always have been interested in aviation. I know the usual aircraft that fly around. Plus I live near a major airport so it’s the usual commercial aircraft. I put triangle shape in the description but it started out not triangle. I noticed a mass in the sky moving toward my location, coming from the west. It looked like a flock of birds. That’s what I thought it was at first. The best I could describe it was, it looked like white birds flapping their wings. Like white shimmering shapes. I watched this but I did take my eyes off it because, like I said I thought it was just birds. Again I think the sun angle had a lot to do with this. This is where it gets fuzzy, I don’t recall the shapes getting close! r as I was partially watching but suddenly it was right over my car. I looked up and it was very bright but almost translucent. Then I was so shocked I could make out a triangle shape and a distinct outline of four bright white lights along the back. The rest seemed to be reflecting the sun. I almost get the feeling I wasn’t supposed to see this. I reached for my phone to take a photo or video. Somehow in the couple of seconds it took to reach for my phone I knew it would be gone and I looked back up with phone in hand and it was gone. Disappeared. I really want to know what this was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161193.html](http://www.nuforc.org/webreports/reports/161/S161193.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Mountlake Terrace (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 100</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151982.html](http://www.nuforc.org/webreports/reports/151/S151982.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/165/S165836.html)
-- [270](http://www.nuforc.org/webreports/reports/165/S165839.html)
-- [269](http://www.nuforc.org/webreports/reports/165/S165851.html)
-- [268](http://www.nuforc.org/webreports/reports/165/S165865.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161156.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
