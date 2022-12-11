@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:54 on 11 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:26:34 on 11 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Kuwait () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>a fading light over Kuwait, this light was behaving like a one side light of a round object that was circling it self,It happened at night while I was driving on the highway returning home, when I suddenly saw a light like the flash light used for emergency to be shot toward the sky.  I thought at first it could be the lights of an airplane, but this light was behaving like a one side light of a round object that was circling it self, because the light stays for ( 3 sec ) and fade to the other side.  The object changed its position twice and at the third time it stayed lighting for ( 6 sec ) and disappeared for good.  I saw only a light but could not see anything else because of the dark sky. Also this object was flying not far above land.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60416.html](http://www.nuforc.org/webreports/reports/060/S60416.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Oval' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Low in the skiwith colored light then turned into big bright light moving towards me and then zipped across the ski.It was around 9:00 pm off of tramway and central when i was walking my dogs and i came across four lights blinking in a pattern. I told my boyfriend to come look we then noiticed 10 sets of four blinking patterns of lights. I called my mom, dad, and my boss and told them to go look outside i described what i saw they confirmed what i was telling them. There was one UFO that was real low n big, we all were watching it when, it started to move across the ski. When we first saw the 10 UFOS the were still and their lights went off when planes came by them. The one then moved towards us and the light grew bigger and bigger, then zipped across the ski towards the kirtland airforce base. MY dad then jumped in the car on case and it then moved fast towards the airport then disapeired we then watched the other 9 as they one by one also vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79226.html](http://www.nuforc.org/webreports/reports/079/S79226.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/165/S165836.html)
-- [270](http://www.nuforc.org/webreports/reports/165/S165839.html)
-- [269](http://www.nuforc.org/webreports/reports/165/S165851.html)
-- [268](http://www.nuforc.org/webreports/reports/165/S165865.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161156.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
