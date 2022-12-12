@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:22 on 12 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:24:20 on 12 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Commerce Twp. (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Was awaken to very distinct humming noises outside my window.  I didn’t notice anything in the sky after first, but after about 15 minutes the sound got even louder and I then noticed in the distance of me red and white hazy lights hovering over the end of my street.  The object continued to make this loud noise as it was fast moving to where I could no longer see it anymore, but still hear the sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137769.html](http://www.nuforc.org/webreports/reports/137/S137769.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Harrisburg (PA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Harrisburg, PA - 7 to 8 light formation in the sky shaped like a boomerang - appeared 7 timesDriving east on 76 turnpike over the Susquehanna river @ 5:20 PM on 12/12/2007, saw a 7 to 8 light formation in the sky shaped like a boomerang, appeared for about 3 seconds, individual lights went out in order from top to bottom sequentially within 1 to 2 seconds.  This formation appeared again, about 5 to 10 miles east within about 30 seconds, then again way toward the west in about 30 seconds, then far in the distance about 10 miles in the opposite direction...this basically repeated 7 times before I had to move on.  Tried to catch this on my cell phone, but the light wasn't bright enough.  The weird thing is, 2 other people who I go to class with saw this at the same time I did about 10 mile north of where I was at the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60352.html](http://www.nuforc.org/webreports/reports/060/S60352.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165841.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165872.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165831.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165845.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165830.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
