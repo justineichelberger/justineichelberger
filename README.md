@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:32 on 12 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:25 on 12 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 0:03 - 0:03 minutes.</sub><blockquote><sub>Looked like star trek warp engine double trail.Just finished work and got home petting the dog around 4:45 am last Wednesday morning when I looked up west just south of downtown Kansas City and it looked like the back to the future tire streak so it was two things very fast like warp drive initiation mixed with back to the future but it was not fire and it was not a shooting star, very strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144143.html](http://www.nuforc.org/webreports/reports/144/S144143.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in North Pole (AK) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Dim flash of orange lasting a few seconds that came from above and illuminated 30 ft. trees.I suffer from severe insomnia which has plagued me for the past 35 years.  Even with the highest strength of an Rx from my doctor, I still have difficulty falling asleep and staying asleep.  Last night I was sitting in my living room watching tv.  I don't like having the lights on in the house when not necessary; so they were all off.  My fiance and son were in bed.  My couch was facing a large picture window that looks out onto our front yard. We live in the woods.As I was watching my television show, I noticed a dim flash of orange outside that came from over the tree tops and was bright enough to light up the surrounding trees yet not super bright.  I jumped up and looked outside the window but there were no cars.  The flash came from above anyway and I have seen many car headlights come and go from our neighbors and they cannot and do not illuminate our entire yard and up to the top of the 30 ft. trees we have.There was no sound and no sign of any aircraft.  I opened the front door and the only sound I heard was that of the wind moving through the tall thin evergreens and those trees crackling as they swayed in that wind.  If it had been the spotlight from a helicopter, it would have been bright white, like an LED bulb.  I've seen those many times.  And I would have heard that helicopter.  Like I said before, there was no sound at all.  And it was not bright enough to have been a spotlight anyway.  It was a somewhat dim flash.I don't know what it was that I saw and I'm not going to try to overthink it.  I'm just putting it down here for you to consider because we had an experience two nights in a row some days ago that also included bright (at the time even brighter) orange flashes that illuminated our yard.  That's really all I can say about it.  I had not been drinking. I don't do drugs and I was not sleeping.  I was wide awake at the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105292.html](http://www.nuforc.org/webreports/reports/105/S105292.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165841.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165872.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165831.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165845.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165830.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
