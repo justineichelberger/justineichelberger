@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:37 on 12 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:25 on 12 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Fonthill (Canada) (ON) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>fireball seen ~ 3-5 foot 'grey' alien being seen.I was young at the time i approximate 8 years old, i was awoken by a flash of light at my window, i sat up in be, reached over to the window, peeked through the blinds, and saw what i thought at the time to look like an orange street light moving left to right, left to right, over the houses behind my property, this went on for a minute or so, then it disappeared, i laid back down in bed, then i heard my closet door squeaking as it opened, i looked, and coming out of my closet was a 3-4 foot tall being, which i have now been able to identify as a "grey" and he was looking at me, i hid under my blanket, and tried to scream, but nothing came out, i then blacked out, i remembered only the feeling of something sharp on the back of my neck when i awoke, i immediately went down stairs and asked my foster mother if i had a mark on the back of my neck, she said no, asked me why i asked, i said "i think i was abducted by aliens" she told me it mus! t have been a dream, because there was no mark on my neck, i accepted her dream idea, and moved on, then when this growth on the back of my neck began, in that exact same location, i began to investigate further, and i realized what i had gone had been seen before, the descriptions i had read matched my memories perfectly, since then, i have thoroughly investigated the phenomenon, and just found this site tonight, after another encounter which i reported 1st.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105531.html](http://www.nuforc.org/webreports/reports/105/S105531.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>4 lights over Denver. 2 turned into 4.  As they dropped from the first 2, very bright flare trails seen ascending.Driving home headed west and 4 very large bright spheres appeared in the sky over Lakewood.Two of them dropped what looked like flares that turned into the other two lights. (4 total) The lights headed west and that was it.  The light spheres were about as big as a blimp but they moved way faster.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105315.html](http://www.nuforc.org/webreports/reports/105/S105315.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165841.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165872.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165831.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165845.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165830.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
