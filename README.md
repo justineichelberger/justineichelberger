@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:25 on 12 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:25 on 12 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Grovetown (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Large group of blink or flashing lights, followed by a bigger and brighter orange lightI came outside at work and looked at the sky to see several flashing lights above the tree line across the street, the lights had no pattern but were seen in multiple position at one time leading me to believe there was more than 10.  The lights would blink( more like a flicker) and reappear but not like a plane would.  As I watched I called a coworker to come over and see.  As he came over a different light appeared much bigger and brighter than the others and orange in color.  It did not move and was seen for 30 seconds to a minute before it slowly faded away.  We watched the smaller flashing lights move towards the southwest till they were out of sight.  Then they reappeared heading toward the direction they came.  There was at least a dozen maybe more of the smaller lights.  At one point one of the lights stopped flashing and became a constant light.  We watched it move to the east and then switch directions and move to the west.  Which I do not know of any aircra! ft that is capable of moving or changing directions like that.  Shortly after that the bright orange light reappeared followed by four or five more all in a line at what looked like the same altitude.  The line disappeared in the same order that it appeared one going out at a time.  We did not see the light again but continued to see the others for another 10 to 15 minutes.  This was in the city of Grovetown looking towards the direction of the Fort.  My Co-worker and myself were very confused by what we saw both of us have never seen anything like it.  We did see a shooting star during this event and a plane.  I have seen planes, helicopters and shooting stars in the night sky plenty of times.  I do not believe what we saw was any of those things((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105312.html](http://www.nuforc.org/webreports/reports/105/S105312.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Lancaster (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I observed a solo object shaped like a metallic golf ball low on the horizon moving eastward over Willowstreet pike near Bookmiller park. My window of view was small only a small patch of sky but I saw it clearly it was large and not extremely fast but fast.  Not a plane blimp or balloon but weird.  ((NUFORC Note:  We spoke via telephone with the witness, and he sounded to us to be quite sincere and credible.  The object was reported to be blue, and moving rapidly.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87372.html](http://www.nuforc.org/webreports/reports/087/S87372.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165841.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165872.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165831.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165845.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165830.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
