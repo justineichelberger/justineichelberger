@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:30 on 12 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:21 on 12 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Grants Pass (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately i only saw it for maybe 1 - i only saw it for maybe 1 minutes.</sub><blockquote><sub>Cluster of lights in the sky in southern Oregon.I live in southern Oregon.  Last night around 10:40 pm, I went out side and saw a very bright cluster of lights, looked to me like a combination of red, blue, and white (or clear looking), from where I am it was in the southeast direction, it was not moving just hovering very high in the sky.   I wasn't sure what i was looking at still not, but i ran back in side to get my camera came back out it was gone, never seen anything like it before.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116041.html](http://www.nuforc.org/webreports/reports/116/S116041.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Albany (OR) reported seeing craft that fit the description of some '' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>I saw a white streak from the northeast moving to the southwest. Seemed to speed up and disappear</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151587.html](http://www.nuforc.org/webreports/reports/151/S151587.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165841.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165872.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165831.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165845.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165830.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
