@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:40 on 12 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:32 on 12 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cumming (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5833333333333334 - 0.5833333333333334 minutes.</sub><blockquote><sub>6 red flashing lights in the sky over North GA.https://www.youtube.com/watch?v=cSNxQ3q6zf0&list=PL5HTb8B-sZQuavUwhG2THWoqQbGtzTRaI   Attached above is the linked video of the sighting, just in case the file is too large to send VIA Email.I was driving home and I came to a stop sign where I was going to turn left until I looked up and saw the red lights in the sky.  The altitudes were not abnormal as I would say they were actually rather low.  The were slow paced and the lighting fluctuated between the crafts.  This night was clear skies and 100% visibility.  I did have my windows down and I could not hear anything...  I assumed I would hear them with how close they were and the amount of them.  This video was shot in North Georgia.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146612.html](http://www.nuforc.org/webreports/reports/146/S146612.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in La Junta (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Red light across the skyMe and a friend were standing outside smoking a cigarette.  It was cloudy no stars were visible.  My friend was siting on the porch were he could not see the sky.  I stepped off of my porch and was looking at the clouds to see if could possibly snow.At that time a red light streaked all the way across the sky. Then acclerated back in the oppisite derection.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41089.html](http://www.nuforc.org/webreports/reports/041/S41089.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165841.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165872.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165831.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165845.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165830.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
