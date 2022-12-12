@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:32 on 12 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:25 on 12 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in La Junta (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Red light across the skyMe and a friend were standing outside smoking a cigarette.  It was cloudy no stars were visible.  My friend was siting on the porch were he could not see the sky.  I stepped off of my porch and was looking at the clouds to see if could possibly snow.At that time a red light streaked all the way across the sky. Then acclerated back in the oppisite derection.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41089.html](http://www.nuforc.org/webreports/reports/041/S41089.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Oklahoma City (OK) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Was enjoying lunch at an Oklahoma City restaurant, looking out at clear, blue sky.  Jets were flying by and leaving white contrails behind. Suddenly, as the contrail dissipated, a spherical, black object "popped" out of it and seemed to "fall" from a great height toward the earth.  As it did, it seemed to change color from black to a silvery white, before I lost sight of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137766.html](http://www.nuforc.org/webreports/reports/137/S137766.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165841.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165872.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165831.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165845.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165830.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
