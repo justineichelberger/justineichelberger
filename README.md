@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:29 on 12 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:30 on 12 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Coalgate (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright Light (White) seen above small rural South Eastern Oklahoma townDriving home last night about 4 miles west of Coalgate, noticed a bright,white,light north of town that was visable for a few seconds and then would disappear. The light appeared to be stationary because everytime it would reappear it was in pretty much the same location in the sky. Then after a few seconds of not seeing it, I noticed several bright lights streak very fast across the sky heading south lasting only a couple of seconds as if it was leaving and then disappeared for good. (so I thought) About 5 to 10 minutes later, I was on the other side of Coalgate heading east and continued to look to the south to see if I could notice the bright light again. I then saw the light appear again and immediately began to slow my car down so I could get a good look. Stopped in the middle of the road I noticed two smaller orange lights, one above the other which lasted only a few seconds before disappearing. As an oncoming car was heading my direction I began to drive off again and looking back to where I saw the two orange lights I saw what appeared to be a slow moving orange fireball which was leaving a small tail behind it. This only lasted for a few seconds and then was gone for good. I personally don't believe in spacecraft or whatever so I'm sure there is a perfect explaination of what I saw. Just wondering if anyone else noticed this on the night of Dec. 12 2005 in South Eastern Oklahoma near Coalgate and appeared to be heading toward s Atoka Oklahoma.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48282.html](http://www.nuforc.org/webreports/reports/048/S48282.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Grants Pass (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately i only saw it for maybe 1 - i only saw it for maybe 1 minutes.</sub><blockquote><sub>Cluster of lights in the sky in southern Oregon.I live in southern Oregon.  Last night around 10:40 pm, I went out side and saw a very bright cluster of lights, looked to me like a combination of red, blue, and white (or clear looking), from where I am it was in the southeast direction, it was not moving just hovering very high in the sky.   I wasn't sure what i was looking at still not, but i ran back in side to get my camera came back out it was gone, never seen anything like it before.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116041.html](http://www.nuforc.org/webreports/reports/116/S116041.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165841.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165872.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165831.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165845.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165830.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
