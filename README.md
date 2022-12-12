@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:41 on 11 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:46 on 12 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Oval' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright Oval object moving slowly over Reno area Early December 2013On December 12 2013 I saw a bright light very close to where Venus starts shining in the evening in the S.W part of the sky.  This was much brighter than Venus as well as much larger and slowly moving from west to east.  At one point it stopped moving for a few minutes and the continued on in the same direction.  I observed it through binoculars and then through my spotting scope.  The video that I got of it is through my spotter using my camcorder.  I am not sure if the video I am sending will show the pattern that was on the object but through my camcorder it is pretty defined.  My son and his stepfather saw it through binoculars from their back yard a couple of miles from my home.  I have never seen anything like it and was hoping someone could tell me what I have seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105506.html](http://www.nuforc.org/webreports/reports/105/S105506.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Westford (MA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I was just out walking my dogs when I looked up at the sky and saw a large fireball zoom from North to South.  It left a trail and was downright epic.((NUFORC Note:  We suspect a nighttime sighting, and have changed the time above, to reflect that fact.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95165.html](http://www.nuforc.org/webreports/reports/095/S95165.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/165/S165836.html)
-- [270](http://www.nuforc.org/webreports/reports/165/S165839.html)
-- [269](http://www.nuforc.org/webreports/reports/165/S165851.html)
-- [268](http://www.nuforc.org/webreports/reports/165/S165865.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161156.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
