@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:29 on 12 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:32 on 12 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in East Amherst (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately ALL NIGHT - ALL NIGHT minutes.</sub><blockquote><sub>THESE THINGS HAVE NEVER BEEN PHOTGRAPHED BECAUSE THEY DO NOT EXIST OUTSIDE OF SOME PEOPLE'S MINDS.Gee, I saw this amazing thing and would you believe I happened to have a camera with me? But of course the "thingy" photographed was way too far away and way too fuzzy and out of focus but then they ALL are out of focus and fuzzy aren't they.People get photos of about everything that ever occurs around them except those pesky UFOs; I guess they really don't like their picture taken.Seriously, isn't it about time someone got a REAL photo of these imaginary things? I think so too. Now let's go and get a life.((NUFORC Note:  We agree with the observation that if UFO's are real, and commonplace, then there should be more good photos available.  Only very few of the alleged photos of UFO's turn out to be genuine.  PD))((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34087.html](http://www.nuforc.org/webreports/reports/034/S34087.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 0:03 - 0:03 minutes.</sub><blockquote><sub>Looked like star trek warp engine double trail.Just finished work and got home petting the dog around 4:45 am last Wednesday morning when I looked up west just south of downtown Kansas City and it looked like the back to the future tire streak so it was two things very fast like warp drive initiation mixed with back to the future but it was not fire and it was not a shooting star, very strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144143.html](http://www.nuforc.org/webreports/reports/144/S144143.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165841.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165872.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165831.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165845.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165830.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
