@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:07:14 on 13 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:31 on 13 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Gillette (WY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Large White/Green Object Descends over Gillette, Wyoming, No known ImpactOn December 13, approx 16:24 while traveling west bound on Clovis Point Road on the east side of Gillette near Interstate 90, a large fireball coming from the north and traveling at a low altitude descended across the sky over Gillette.The fireball appeared to be white in color, with green hued 'tails' or tracings. The ball itself appeared to be the size of a house, with the tail being 200 yards approx.It was descending at an angle, with the low side being to the south, with an excessive rate of speed in it's course.The object in question appeared to be no more than five miles before me, close enough to be viewable within clear skies.  The rate of speed and angle of the object would give assumption of impact to the ground, though none was seen.There was no sound associated with the object, and impact, if such occurred, would have been south east of Gillette, though it was blocked by a hill in the line of sight.  There was no evidence of its existence afterwards, as well as no known reporting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79262.html](http://www.nuforc.org/webreports/reports/079/S79262.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sylvania (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>Bright colors flying very rapidly.Me and my friend were in the park around 11:55, it was a really dark night and we saw these things moving in the shape of disks or saucers.  They were moving very rapidly and vanishing on and off.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95321.html](http://www.nuforc.org/webreports/reports/095/S95321.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165854.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165850.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165857.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165856.html)
-- [327](http://www.nuforc.org/webreports/reports/161/S161436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
