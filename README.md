@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:48 on 13 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:19 on 13 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Huntsville (AL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>During meteor shower, bright amber object, no blinking or other colored lights, entered field of view due west travelling east northeast directly overhead.  Silent, unseen on attempted video.  Domestic dog followed with eyes during instance, traversed full view of sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137750.html](http://www.nuforc.org/webreports/reports/137/S137750.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Shenandoah (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Miniature Big Dipper-like UFO, seen during Geminid meteor shower.Standing outside with my friend, watching the geminid meteor shower, december 13, 2015, at about 10pm.  My friend asked "What is that?  Is it moving, or am I seeing things?" and pointed above our roof.  So I looked up and saw what appeared to be a teeny tiny, but extra bright, version of the big dipper constellation.The tiny non-constellation was sitting in a place that I had never seen stars before, and where my friend confirmed no stars had been visible ever before. After we stared for a few minutes more lights turned on, and instead of looking like mini dipper, it then appeared to have 2 parallel slightly curved rows of about 7 lights each.  The lights blinked or flickered individually, but not in any particular pattern.  One light, in the middle on the upper row, that had previously appeared to be the start of the mini dippers handle, didn't seem to blink and was brighter than the others.It had been stationary (aside form the blinking), and we couldn't tell how far up it was, just that it was above the clouds.  There was no sound coming from it, but I had been on the phone with my mom for about half an hour precluding the sighting and for the duration of it (relaying what I was seeing on the phone).  My phone did break up quite noticeably when we were standing beneath it.After we watched it for maybe 10 minutes, the lights looked bigger (as if moving towards up) and then smaller (as if moving away), though staying in the same basic position as it had been the whole time.  The lights very slowly got dimmer over the course of about 10 more minutes, until they disappeared completely.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124650.html](http://www.nuforc.org/webreports/reports/124/S124650.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165854.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165850.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165857.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165856.html)
-- [327](http://www.nuforc.org/webreports/reports/161/S161436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
