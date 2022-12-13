@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:01:06 on 13 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:31 on 13 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>V shaped lights over HoustonI was out in my backyard on a clear night. We just moved to this new subdivision and since there are not many lights this far away from the city, I have a wonderful view of the sky. From behind me I heard the roar of a jet so I turned to watch it. As I was watching it, a V shaped set of 5 lights came into view behind and under the plane. The ufo passed the airplane and disappeared from view within seconds. I then saw another plane approaching from the west at a high rate of speed to the vicinity of where I last saw the ufo. The plane circled the area for about 5 minutes, then left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26651.html](http://www.nuforc.org/webreports/reports/026/S26651.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in New York City (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Green ring flew over New York cityI just saw a green ring for though the sky. I happened to be looking out the window the second it flew by. The ring was headed north west.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161179.html](http://www.nuforc.org/webreports/reports/161/S161179.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165854.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165850.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165857.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165856.html)
-- [327](http://www.nuforc.org/webreports/reports/161/S161436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
