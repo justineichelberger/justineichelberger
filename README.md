@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:31 on 13 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:37 on 13 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Tomah (WI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Bright green round falling object; seemed very close and disappeared behind tree lineNear Tomah, WI, on south side of I-90 saw bright green falling object.  Appeared to be very close to the ground.  Lost sight at tree top level.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))((NUFORC Note:  Possible meteor.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95221.html](http://www.nuforc.org/webreports/reports/095/S95221.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Dulce (NM) reported seeing craft that fit the description of some 'Disk' over a period of approximately Photo - Photo minutes.</sub><blockquote><sub>Small u.f.o. hovering over Archuleta Mesa in Dulce, NM.I visited Dulce, NM on December 13, 2004 in order to hike the famous Archuleta Mesa. I hiked around and took quite a few photo's in order to study later.  I only recently discoverd what seems to be a small ufo hovering over the Archuleta Mesa. I can't quite make out details of the U.F.O.  All I know is that it's not a bird, plane, or helicopter.  The sky is Blue as can be, not a cloud.  If you would like me to e-mail you the photo then I will do so.  ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45705.html](http://www.nuforc.org/webreports/reports/045/S45705.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165854.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165850.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165857.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165856.html)
-- [327](http://www.nuforc.org/webreports/reports/161/S161436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
