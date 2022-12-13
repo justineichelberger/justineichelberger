@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:19 on 13 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:22 on 13 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Shenandoah (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Miniature Big Dipper-like UFO, seen during Geminid meteor shower.Standing outside with my friend, watching the geminid meteor shower, december 13, 2015, at about 10pm.  My friend asked "What is that?  Is it moving, or am I seeing things?" and pointed above our roof.  So I looked up and saw what appeared to be a teeny tiny, but extra bright, version of the big dipper constellation.The tiny non-constellation was sitting in a place that I had never seen stars before, and where my friend confirmed no stars had been visible ever before. After we stared for a few minutes more lights turned on, and instead of looking like mini dipper, it then appeared to have 2 parallel slightly curved rows of about 7 lights each.  The lights blinked or flickered individually, but not in any particular pattern.  One light, in the middle on the upper row, that had previously appeared to be the start of the mini dippers handle, didn't seem to blink and was brighter than the others.It had been stationary (aside form the blinking), and we couldn't tell how far up it was, just that it was above the clouds.  There was no sound coming from it, but I had been on the phone with my mom for about half an hour precluding the sighting and for the duration of it (relaying what I was seeing on the phone).  My phone did break up quite noticeably when we were standing beneath it.After we watched it for maybe 10 minutes, the lights looked bigger (as if moving towards up) and then smaller (as if moving away), though staying in the same basic position as it had been the whole time.  The lights very slowly got dimmer over the course of about 10 more minutes, until they disappeared completely.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124650.html](http://www.nuforc.org/webreports/reports/124/S124650.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Atlantic Ocean (Mid-Atlantic) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>elal flight enroute jfk- object left side of aircraft around 33,000 boeing 777 enroute to telaviv-bengurion - object  we say is size of city-hundreds of lights  massive ,didnt intfere with any equipment,gps-fmc equimt too stuned to report -no sensation of aircraft inflight ie,we didnt detect us moving,we were i- say stationary for 5 mins then it out paced us around 1 klm a second,dissapearing east bound above us  in veiw for 20 mins then dissapeared completely it left contrails inits wake,((NUFORC Note:  Witness remains totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22400.html](http://www.nuforc.org/webreports/reports/022/S22400.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165854.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165850.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165857.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165856.html)
-- [327](http://www.nuforc.org/webreports/reports/161/S161436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
