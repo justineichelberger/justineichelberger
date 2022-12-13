@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:27 on 13 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:36 on 13 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Harrisburg (PA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>A Line of Lights in The North Sky- In the Area of Paxtonia/Lingelstown and By Costco Got Cell Phone Video!I saw the other post from 12/13/05 19:00 hours, so I decided to post. I saw the same thing at around the same time.  We were on Interstate 81 heading North and right as we were getting off at the Paxtonia/Lingelstown Exit I slowed down on the ramp as I saw 4 yellowish circular lights in a long stretched out row very low in the sky directly in front of us. My first thought was "Man that plane is low!" I slowed along the ramp and rolled down the window, my fiance was observing as well.  We did not see any plane body and there was no sound either, and then just like that it fizzled away. Now, I never bought into anything with UFO's so natually I was trying to come up with a justification and could not.  I was thinking maybe fireworks, but there was no way it could have been and there was no noise either.  I wanted to see them again and kept looking, but saw nothing. We got to Costco in Lower Paxton Twp at around 19:00, I looked up over the shopping center in the northern direction and sure eough the formation was back again.  The lights lit up in a row again and then fizzled out just as they had before. I decided to get my cell phone out and take video of it, when it came up a third time I got it on my phone!!!!.... Unfortunatly because of the lights in the parking lot and the distance you cant see the distinct circles, but you can very clearly see a bright bursting line of light blended together, having a quick burst of orange and then slowly fading away (on the left center of the video screen). I waited to try and get another clip but did not see it for five minutes so I gave up. As we walked into Costco it showed up one more time in the distance to the right of where we last saw it. We saw it appear and disappear a total of 5 times.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48875.html](http://www.nuforc.org/webreports/reports/048/S48875.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Macomb (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 orange lights in triangle moving in unison then disappearing3 orange lights in a triangular shape, moving fast across the night sky. the speed it moved across the sky was quite rapid, compared to other aircraft's.  each light appeared to be bigger than a star and brighter. no visible aircraft's around the area at the time of the sighting.  it was not a Chinese lantern or man-made lights.  the area between the lights was completely black, i was unable to see through it.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95225.html](http://www.nuforc.org/webreports/reports/095/S95225.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165854.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165850.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165857.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165856.html)
-- [327](http://www.nuforc.org/webreports/reports/161/S161436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
