@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:27 on 13 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:26 on 13 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Williamsburg (OH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Looks like a star but has red, green, and blue flashing lights when you look closer.Same as a couple of the descriptions in here.  I have seen what appears at first to be a really bright star, but as you look more closely with a pair of binoculars you see that this object doesn't fly but just hovers instead.  And when you look at it with binoculars you can clearly see red, blue, and green lights flashing.  I live right beside clermont county airport so I see planes fly over head everyday.  It just so happens that on one of the nights I seen this object a plane from the nearby airport flew by and you could clearly make out the difference between the plane and the object that I have seen now about 3 times in the past two months.  My mother who lives about 15 miles away called me up the first night and told me to go outside and look up.  I didn't think anything of it until I grabbed my binoculars and looked more closely.  Thats when I seen the red, blue, and green lights falshing.  Definently not a star or plane.((NUFORC Note:  Possible sighting of Sirius??  PD</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54008.html](http://www.nuforc.org/webreports/reports/054/S54008.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Thornton (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>fast silent low flying objectsI was watching the night sky and 6 or 7 low fast and silent flying objects were flying faster than birds about 100ft up and dead silent in a v shape maneuvering in and out of eachother.((NUFORC Note:  Possible hoax, but we cannot be certain.  Witness does not indicate a date for the sighting, so we have assigned an arbitrary date.  Witness elects to remain totally anonymous, and provides no contact information, so we have no means of contacting him, or her.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116014.html](http://www.nuforc.org/webreports/reports/116/S116014.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165854.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165850.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165857.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165856.html)
-- [327](http://www.nuforc.org/webreports/reports/161/S161436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
