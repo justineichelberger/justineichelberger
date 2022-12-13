@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:25 on 13 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:48 on 13 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Pleasantville (NY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Dimond shaped ,very bright moving very fast across the sky.  Definitely a UFO.I just came out of my Pleasantvile Pace university campus and was waiting for the bus.I am currently doing my Masters in Computer Science.It was around 4 PM on 13th Dec 2013.  The first thing I noticed was there was a vertical smoke trail in the sky, the kind of trail which you see when a jet plane leaves behind in the sky.  And the object making the trail looked like a bright white  orb.This vertical trail I could see from the top of the sky.  The object was going vertically down to land , crash or whatever.  I waited long for it to emit a bright flash which I believe would have confirmed to me that it was probably a meteor.  While this was happening I saw something extraordinary.  Another object which appeared diamond shaped,very bright appeared and was moving horizontally near the orb moving downwards.  This diamond shaped object did not have leave any trail of any kind in the sky and appeared to be moving significantly faster than the one moving downwards.  I can not say how close these objects were to each other.  The diamond shaped object was visible for about 5-8 secs and then disappeared.  The vertically falling orb was seen for approximately 5 mins.  I tried taking a video but my smartphone could not capture it.  The objects seemed like they were very far away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105326.html](http://www.nuforc.org/webreports/reports/105/S105326.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Huntsville (AL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>During meteor shower, bright amber object, no blinking or other colored lights, entered field of view due west travelling east northeast directly overhead.  Silent, unseen on attempted video.  Domestic dog followed with eyes during instance, traversed full view of sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137750.html](http://www.nuforc.org/webreports/reports/137/S137750.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165854.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165850.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165857.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165856.html)
-- [327](http://www.nuforc.org/webreports/reports/161/S161436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
