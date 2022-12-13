@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:38 on 13 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:46 on 13 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lakewood (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>4 lights spotted in Lakewood Colorado on KiplingWe were driving north bound on Kipling Blvd.  Around Kipling and Bowles me and my mother noticed four very bright lights that were stationary and seemed to be in formation. These lights were well above the street and ahead of us about 8-10 miles away.  The lights began to break formation and proceeded  on their own path. Two of the lights started to intersect each others path, but they did not colide.  We watched the lights for about 3 miles while driving.  Three of the lights that were closest to the east, started to fade away and or fly away, while the one remaining light intensified and slightly flashed a few times. Once we traveled another 2 miles or so the remaining light faded away.  I have traveled on this road for more than 20+ years, and I or my mother have never seen lights like that before  there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105332.html](http://www.nuforc.org/webreports/reports/105/S105332.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I was watching the geminids towards about I think it was Venus ENE  I am located in NE Tucson AZ The fireball was slow for other meteors and broke up into pieces. Thought it may hit the ground was so close.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41090.html](http://www.nuforc.org/webreports/reports/041/S41090.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165854.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165850.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165857.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165856.html)
-- [327](http://www.nuforc.org/webreports/reports/161/S161436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
