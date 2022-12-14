@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:32 on 14 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:48 on 14 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Santa Maria/Orcutt (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A fireball in the sky floatingI was driving home from work I was about to make a right turn onto my street when I saw a big red fire ball in the sky.  It was red on the outside but looked like fire inside.  I pulled over and was trying to think if it was a balloon or lantern floating as a prank and pulled into my drive way and it was still floating.  I took a picture it you really can't see anything so then I ran inside to call my family to come see it and it was gone.  What a bummer they thought I was joking.  I don't really know how long it was there, but when i seen it and drove home must have been at least a minute.  I wasn't keeping track of the time.  I was just amazed on what I was seeing.  Sorry I don't have a great story but at least I can share this with people who will take me seriously.  Also, I live next to an airport and this object had no sound, no lights, and definitely was not flying by fast like the airplanes around here.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105349.html](http://www.nuforc.org/webreports/reports/105/S105349.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Santa Fe (NM) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Triangular object with bright green lights near Santa Fe, NM.My husband and I were driving northeast on I-25 between Albuquerque and Santa Fe at around 7 p.m. (19:00) on Thursday, December 14, 2017.  Suddenly, at around the Waldo Canyon exit, we saw an object flying across the Interstate in a southeasterly direction.  It appeared triangular with bright green lights around its entire periphery.  From my husband's perspective, it appeared larger than a full moon.  By the time it crossed my field of vision (I was in the passenger seat), it appeared slightly smaller than a full moon.  It was perhaps several hundred feet in front and above us and appeared to be moving at about 100 mph or less.  It seemed to be heading down and then it vanished.((NUFORC Note:  We spoke via telephone with the witness, and we found her to be very eloquent, and very sober-minded.  We suspect that she is an excellent witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137810.html](http://www.nuforc.org/webreports/reports/137/S137810.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
