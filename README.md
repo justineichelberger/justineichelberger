@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:09 on 14 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:25:50 on 14 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Monroe Twp (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Loud chopper-like sound over Monroe twp, NJ.While in bed my wife and I heard very loud sound like a helicopter chopper.  It hovered in the same location for about 10 minutes then suddenly took off.The sound was very loud and it disappeared within 2 seconds.  It did not gradually go away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131742.html](http://www.nuforc.org/webreports/reports/131/S131742.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Flashing light over MiamiWe saw a light blue light moving east-west when the light suddenly stopped and started blinking red, moving towards a southern direction, then stopping again, flashing red.  It then moved again east-west but at this time flashing green, coming to another full stop, and then flashing red.  It then changed directions and started moving back, west-east dimming to a light blue and then disappearing from sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105343.html](http://www.nuforc.org/webreports/reports/105/S105343.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
