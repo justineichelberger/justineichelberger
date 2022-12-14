@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:51 on 14 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:37 on 14 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Irvington (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>High speed rotating lights flas across the sky.Many flashes of light were seen in the vacinity of the sighting previous to appearance. once the object appeared it moved in an irregular pattern up and down with rotating lights. the actual craft was not visible but the lights were seen easily. It was moving at an incredible rate of speed. it was lost behind a row of trees and never reappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26607.html](http://www.nuforc.org/webreports/reports/026/S26607.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in McPherson (KS) reported seeing craft that fit the description of some 'Fireball' over a period of approximately Second - Second minutes.</sub><blockquote><sub>Took my dogs for a walk at 0500, first step off seen a fast half way falling shooting star.  Ok cool. Later in the evening around 1900, my very intelligent 10 year old came in from walking the dogs and asked if I believed in UFO!!!  I said why, she said there were spinning yellow/green lights heading straight and fast south (I found out after she pointed ) of town!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144061.html](http://www.nuforc.org/webreports/reports/144/S144061.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
