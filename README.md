@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:29 on 14 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:41 on 14 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Large white circular object flying across skyMy sister and I were out tonight going on a walk together. The sky was clear and we could see all the stars, and there was a full moon. It was around 10:10 p.m. on December 14th 2019. We saw, at the same time, a large circular bright white light. It looked like a star, but a lot larger and closer by. We saw it moving diagonally very fast, for about 3 seconds, and then it vanished completely. It left no trail behind. It made no noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151638.html](http://www.nuforc.org/webreports/reports/151/S151638.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in North Highlands (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Large, fast-moving, triangular object with orange lights spotted in Sacramento sky.I was out for the evening to catch the meteor shower, talking on the phone with my friend, when I noticed a fast-moving, triangular group of lights moving from south to north.  7 lights formed a V-shape, with 2 more lights forming the third line in the "back," making a triangular shape. I noticed no physical form, and the lights were orange.  At first I assumed geese reflecting light, but the shape was too perfect and un-changing.  I discovered that I could not take pictures with my phone while on a call the hard way, disconnected the call, and found that as I fumbled with the camera controls it had disappeared.  The only other detail I noticed was a strange quiet, but this could have been an effect of the shock of the moment.  The object made no sound. I could not surmise the size of the object, or be sure of its solidity, but it appeared large. With my arm outstretched, it was about the size of four of my fists.  Distance unclear.Right after the sighting I noticed how much noise there was again, suddenly. Airplanes, the freeway, etc.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95269.html](http://www.nuforc.org/webreports/reports/095/S95269.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
