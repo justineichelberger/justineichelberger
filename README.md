@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:28 on 14 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:29 on 14 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Alexandria (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange Flickering Light Moving and Motionless near Washington, D.C.Witnessed a bright orange light to the southeast, it had no blinking lights (like an airplane would), but flickered like a candle.  It appeared to be moving very slowly from  south to north, then slowed to an apparent stop about 30 seconds after first appearing.  It remained motionless in the sky for another 30 seconds, then quickly faded out.  Aircraft taking off from Reagan National Airport fly north to south in this part of the sky, but they're close enough to identify the airline and could not be mistaken for anything else; the object observed appeared farther away (perhaps southeast of Washington), made no sound, and moved essentially toward the airport before stopping and fading away.  I'm also aware of the meteor shower--if this was a meteor it was travelling extraordinarily slowly (being visible for about a minute and appearing motionless for a time).  There was no trail.  It could have been an aerial flare.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95259.html](http://www.nuforc.org/webreports/reports/095/S95259.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Large white circular object flying across skyMy sister and I were out tonight going on a walk together. The sky was clear and we could see all the stars, and there was a full moon. It was around 10:10 p.m. on December 14th 2019. We saw, at the same time, a large circular bright white light. It looked like a star, but a lot larger and closer by. We saw it moving diagonally very fast, for about 3 seconds, and then it vanished completely. It left no trail behind. It made no noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151638.html](http://www.nuforc.org/webreports/reports/151/S151638.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
