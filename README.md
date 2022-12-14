@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:26 on 14 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:28 on 14 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Hudson (ME) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Silent triangular craft about 75 yrds above roadA triangular craft was moving VERY slowly over the road. The front had three white lights uniformly spaced, and two smaller red lights beneath the middle white light. It was backlit by the sky (almost a full moon) so triangle was very clear to see. The back came to a point and had no lights at all. So creepy! I gawked and then got TF out of there! Tried to take a video but it came out as a photo and all messed up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165896.html](http://www.nuforc.org/webreports/reports/165/S165896.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Alexandria (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange Flickering Light Moving and Motionless near Washington, D.C.Witnessed a bright orange light to the southeast, it had no blinking lights (like an airplane would), but flickered like a candle.  It appeared to be moving very slowly from  south to north, then slowed to an apparent stop about 30 seconds after first appearing.  It remained motionless in the sky for another 30 seconds, then quickly faded out.  Aircraft taking off from Reagan National Airport fly north to south in this part of the sky, but they're close enough to identify the airline and could not be mistaken for anything else; the object observed appeared farther away (perhaps southeast of Washington), made no sound, and moved essentially toward the airport before stopping and fading away.  I'm also aware of the meteor shower--if this was a meteor it was travelling extraordinarily slowly (being visible for about a minute and appearing motionless for a time).  There was no trail.  It could have been an aerial flare.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95259.html](http://www.nuforc.org/webreports/reports/095/S95259.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
