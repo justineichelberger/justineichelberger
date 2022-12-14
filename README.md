@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:48 on 14 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:45 on 14 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Santa Fe (NM) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Triangular object with bright green lights near Santa Fe, NM.My husband and I were driving northeast on I-25 between Albuquerque and Santa Fe at around 7 p.m. (19:00) on Thursday, December 14, 2017.  Suddenly, at around the Waldo Canyon exit, we saw an object flying across the Interstate in a southeasterly direction.  It appeared triangular with bright green lights around its entire periphery.  From my husband's perspective, it appeared larger than a full moon.  By the time it crossed my field of vision (I was in the passenger seat), it appeared slightly smaller than a full moon.  It was perhaps several hundred feet in front and above us and appeared to be moving at about 100 mph or less.  It seemed to be heading down and then it vanished.((NUFORC Note:  We spoke via telephone with the witness, and we found her to be very eloquent, and very sober-minded.  We suspect that she is an excellent witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137810.html](http://www.nuforc.org/webreports/reports/137/S137810.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Frankenmuth (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>we saw an object that we know was not from earthwe were down at the creek it was about 10 PM and we were standing on the bridge and we looked up and saw these three lights that seemded to be in a trianlge like shape moving very slowly      the object never stoped and after about ten minutes it disapeared        I know for a fact this was not a plane</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42150.html](http://www.nuforc.org/webreports/reports/042/S42150.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
