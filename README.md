@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:25 on 14 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:30 on 14 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Potomac (MD) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>I was driving with my girlfriend and i noticed a bright object in the sky around 10:45. As i mentioned it to her i realized that the lights were not blinking.  There were three bright white lights on the bottom of the object.  The bottom was shaped like a triangle.  The object was very low and flying slow. We were following it, and it stopped over a golf coarse and hovered for a few seconds.  This gave me a good side view. It seemed that it curved up from opposite sides on top.  There was also a red light on top near the back.  Soon the object moved and it was headed towards the Potomac River.  We got onto a road that moved parallel with the object, it stayed low over the river but then it came back our way and also got higher.  I drove the opposite direction and it stayed behind the whole time. I pulled over and got a picture and video, but all you see is the lights, no detail of the object.  Then I had to drive my girlfriend home, which was about 15 minutes north o! f our location.  On our way we passed an open area with no trees and saw the object high up and moving north faster than before.  It was noticeably bright, easily the brightest thing in the sky.  As we got to her house I saw the object pass by very fast and it was going north.  As it went by i realized how massive it was.  It looked almost like a cigarette at the speed it was moving.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95261.html](http://www.nuforc.org/webreports/reports/095/S95261.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Santa Fe (NM) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Triangular object with bright green lights near Santa Fe, NM.My husband and I were driving northeast on I-25 between Albuquerque and Santa Fe at around 7 p.m. (19:00) on Thursday, December 14, 2017.  Suddenly, at around the Waldo Canyon exit, we saw an object flying across the Interstate in a southeasterly direction.  It appeared triangular with bright green lights around its entire periphery.  From my husband's perspective, it appeared larger than a full moon.  By the time it crossed my field of vision (I was in the passenger seat), it appeared slightly smaller than a full moon.  It was perhaps several hundred feet in front and above us and appeared to be moving at about 100 mph or less.  It seemed to be heading down and then it vanished.((NUFORC Note:  We spoke via telephone with the witness, and we found her to be very eloquent, and very sober-minded.  We suspect that she is an excellent witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137810.html](http://www.nuforc.org/webreports/reports/137/S137810.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
