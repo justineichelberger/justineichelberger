@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:45 on 14 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:46 on 14 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Frankenmuth (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>we saw an object that we know was not from earthwe were down at the creek it was about 10 PM and we were standing on the bridge and we looked up and saw these three lights that seemded to be in a trianlge like shape moving very slowly      the object never stoped and after about ten minutes it disapeared        I know for a fact this was not a plane</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42150.html](http://www.nuforc.org/webreports/reports/042/S42150.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Redding (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>At approximately midnight of 12/14/2017 I was on an I-5 off-ramp in Redding, CA, when i looked in the sky and saw a triangular object in the southern sky moving at a high rate of speed.  The object was white in color and was moving in such a trajectory that it would strike the ground within several miles of where I was.  There were a couple of other large trucks on the freeway who had to have seen the same thing that i did, as it was very hard to miss.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137763.html](http://www.nuforc.org/webreports/reports/137/S137763.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
