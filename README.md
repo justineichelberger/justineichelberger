@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:23 on 14 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:38 on 14 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Vinton (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>large meteor like object surrounded by bright green lightObject somewhat larger than a shooting star. In path and duration it was similar to a shooting star, and seemingly disappeared in mid-sky. There was not cloud cover sufficient to obscure an object this bright, nor were there mountains to block it. The object was surrounded or followed by bright green light; both the light and the object disappeared at the same time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33806.html](http://www.nuforc.org/webreports/reports/033/S33806.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in St. Petersburg (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately walking into home - walking into home minutes.</sub><blockquote><sub>I saw a floating fire ball object that stopped and hovered for a few minutes then shot off in the air, took a clear pictureI was getting out of my car very slowly to walk into the house,I stopped and looked up to the sky.  I come from new york and have recently moved down to Florida I am amazed on seeing a clear sky full of stars, accept this night there was a over cast and very few many stars out.  As I looked up i saw a bright ball of fire floating up and to left, I originally thought it was a flare or one of those lanterns that you can light and they fly away.  Until it stopped and was just hovering the clous was behind it and it was bright yellow and orange like fire, I grabbed my cell phone and took a picture of it and as soon as i took a picture it started to move slow, so I took one more shot and it shot into the sky and it was gone.  I have seen planes and helicopters my whole life. I Never seen anything do what it did that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86072.html](http://www.nuforc.org/webreports/reports/086/S86072.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
