@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:09 on 14 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:51 on 14 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Augusta (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I was coming home from work when I noticed 3 bright lights (red ,blue, green) that where flashing in pattern.  The craft was stationary at 120°SE.  Over the course of and hours it has slowly moved upward as if it's getting farther away.  It was silent and very bright lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115995.html](http://www.nuforc.org/webreports/reports/115/S115995.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Irvington (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>High speed rotating lights flas across the sky.Many flashes of light were seen in the vacinity of the sighting previous to appearance. once the object appeared it moved in an irregular pattern up and down with rotating lights. the actual craft was not visible but the lights were seen easily. It was moving at an incredible rate of speed. it was lost behind a row of trees and never reappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26607.html](http://www.nuforc.org/webreports/reports/026/S26607.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
