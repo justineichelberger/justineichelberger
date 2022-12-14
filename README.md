@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:28 on 14 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:09 on 14 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Anniston (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>1 bright light was seen North North west of location near 431/Bynum Leatherwood road.  The light was motionless for about 18 min and then dissipated (light turned off). no viewable craft was ever seen.  No Strobe lights were visible, the light was a bright Orange color as if someone had a flash light on from some distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67473.html](http://www.nuforc.org/webreports/reports/067/S67473.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Monroe Twp (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Loud chopper-like sound over Monroe twp, NJ.While in bed my wife and I heard very loud sound like a helicopter chopper.  It hovered in the same location for about 10 minutes then suddenly took off.The sound was very loud and it disappeared within 2 seconds.  It did not gradually go away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131742.html](http://www.nuforc.org/webreports/reports/131/S131742.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
