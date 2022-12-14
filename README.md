@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:37 on 14 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:32 on 14 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in McPherson (KS) reported seeing craft that fit the description of some 'Fireball' over a period of approximately Second - Second minutes.</sub><blockquote><sub>Took my dogs for a walk at 0500, first step off seen a fast half way falling shooting star.  Ok cool. Later in the evening around 1900, my very intelligent 10 year old came in from walking the dogs and asked if I believed in UFO!!!  I said why, she said there were spinning yellow/green lights heading straight and fast south (I found out after she pointed ) of town!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144061.html](http://www.nuforc.org/webreports/reports/144/S144061.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Santa Maria/Orcutt (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A fireball in the sky floatingI was driving home from work I was about to make a right turn onto my street when I saw a big red fire ball in the sky.  It was red on the outside but looked like fire inside.  I pulled over and was trying to think if it was a balloon or lantern floating as a prank and pulled into my drive way and it was still floating.  I took a picture it you really can't see anything so then I ran inside to call my family to come see it and it was gone.  What a bummer they thought I was joking.  I don't really know how long it was there, but when i seen it and drove home must have been at least a minute.  I wasn't keeping track of the time.  I was just amazed on what I was seeing.  Sorry I don't have a great story but at least I can share this with people who will take me seriously.  Also, I live next to an airport and this object had no sound, no lights, and definitely was not flying by fast like the airplanes around here.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105349.html](http://www.nuforc.org/webreports/reports/105/S105349.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
