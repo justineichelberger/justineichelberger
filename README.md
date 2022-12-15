@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:25 on 15 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:28 on 15 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Kaikoura (New Zealand) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Pulsating light in the skyThe photograph was taken by my father with his SLR camera in December of 1978 (Date unknown, time is approximate) around the Kaikoura area (Exact location unknown), on the South Island of New Zealand.Sightings around this area in late 1978 are known in New Zealand as the 'Kaikoura UFO lights'.My parents were the only witnesses present during the event in question (as far as they know).  The object in question is described by my parents as a pulsating light which appeared to be changing in shape and size.  Bright orange and white colours, changing in intensity.  No noise or smell.  It appeared for a number of seconds, travelling at a slow pace vertically but with no clear trajectory and then disappeared in the horizon.  No noise (when leaving) or trail left behind.  My parents are unsure regarding distance and size.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84069.html](http://www.nuforc.org/webreports/reports/084/S84069.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Redwood Valley (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A soundless, bright blue light that moved very fast and felt as though it was not a thing but a person.It was a large bright sky blue light that streaked across the sky at a high rate of speed In a southwesterly direction. It was an overcast night and no stars could be seen.It was outside of the window and my back was turned to that area,so I didn't see it,I felt it, like it was looking a me.I looked back and saw it to be no more than 25-50 feet above ground.It moved faster than a helicopter or low-flying plane and it was not a stormy night.It made no sound.It seemed to light up the whole valley</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17062.html](http://www.nuforc.org/webreports/reports/017/S17062.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/165/S165881.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165886.html)
-- [436](http://www.nuforc.org/webreports/reports/165/S165884.html)
-- [435](http://www.nuforc.org/webreports/reports/165/S165883.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
