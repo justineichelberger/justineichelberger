@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:37 on 15 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:24 on 15 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Seymour (CT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Saw a silver disk with white lights move slowly then hover just above treeline and then it disappeared1976 UFO?  I was at a birthday party with my friends and we were around 14-15 years old.  It was a cold, clear night in December and, the house was in a neighborhood on a high hill overlooking the valley.  We could see the night sky for miles around.We left the party to walk to another friend’s house to bring her to the party.  As we were walking down the road, we noticed a strange disk that was slowly moving from behind a grove of trees.  It was moving from left to right in a straight line.  It was close and not much higher than the trees and was a silverish gray color.  It seemed to be rotating/spinning with white, rectangular lights around the middle.  It made a very low, soft, humming sound.We just stopped and stared.  Someone asked what was it?  I was mesmerized and couldn’t believe what we were seeing.  I wasn’t scared but, couldn’t figure out what it could be.  The disk then stopped moving and just hovered in place.  It seemed to be still spinning.  Then it started moving from right to left, back towards the trees.  We took another road to the left to get our friend and we paralleled the disk for a few minutes.  Then, it disappeared behind the trees.A few minutes later, I expected to see the disk on the other side of the grove of trees, but it was gone.  We didn’t see or hear it anymore.   We could see stars and the blinking lights of planes but, never saw the disk again.  We went back to the party and no one said anything more about it.  I told my parents and they didn’t know what to make of it.  My friends and I never talked about it again.  I thought it might be a blimp but, years later, I saw a blimp and it didn’t look, act or sound anything like the disk did.I still don’t know what it was but, I’ll never forget it!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147565.html](http://www.nuforc.org/webreports/reports/147/S147565.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Montreal (Canada) (PQ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Meteor with a green tail shooting straight down towards eastern canada or north-eastern us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05207.html](http://www.nuforc.org/webreports/reports/005/S05207.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/165/S165881.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165886.html)
-- [436](http://www.nuforc.org/webreports/reports/165/S165884.html)
-- [435](http://www.nuforc.org/webreports/reports/165/S165883.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
