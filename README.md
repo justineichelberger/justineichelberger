@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:27 on 14 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:52 on 15 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Elk City (OK) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Fireball breaking up.Object seen traveling east to west, low on the horizon.  Greenish blue ball with tail, breaking up as it neared the horizon.  Definitely a meteor breaking up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125306.html](http://www.nuforc.org/webreports/reports/125/S125306.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Caloundra (Australia) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A spinning sphere shaped object observed in clear blue sky accelerated rapidly away at very high speedI have been interested in aircraft for 30yrs and have observed many types over the years all over the world as well as being the airforce for a time, I have become used to the unusual way which objects in the sky can look due to atmospheric conditions,weather etc.On a very hot sunny day I was sunbathing on the rocks by the ocean with a clear view out to sea, as I was laying there I caught a bright flash out of the corner of my eye upon looking towards the area of the flash I was astounded to see a small sphere (shaped more like a spinning top)it was spinning rapidly and each rotation would produce a bright flash as if the sun was reflecting off of it.The object moved in an arc pattern in a very 'precise' manner and then shot off at such a rediculous speed that at first I thought it had vanished, however I did see a 'motion blur'for a split second which lead me to believe that it had in fact accelerated extremely fast.The object was bright,shiny 'chrome' in colour and the flashes were as bright as sunlight reflecting off a mirror,and had a flash rate of 3 times per second. Having given this sighting much thought I have eliminated every conventional possibility- it was just something which I cannot explain, but would love to understand.((NUFORC Note:  Witness does not provide a time or date for the sighting.  We will attempt to have him pin down the date.  In the meantime, we have assigned an arbitrary date in the Australian summer.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31480.html](http://www.nuforc.org/webreports/reports/031/S31480.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
