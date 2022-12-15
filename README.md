@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:22 on 15 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:25:23 on 15 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Youngstown (OH) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>U.F.O in Youngstown,Ohfrom> YOUNGSTOWN,OHIO SOUTH SIDE OF TOWN MYRTLE AVE.<<<<I forget exactly what year  but I do remember and inncident where I just got dropped off by my friends and I came into the house and saw my mother cooking and she told me to go to bed because I had drank a couple of beers with my friends,so i went and got into my bed which was facing a window and my grandma's home next door...Usually between the houses  there is a light that comes on automatically in the evening but some reason that night it wasn't on,so as i laid in my bed staring outside i saw a teardrop shaped craft hover between our houses and as it hovered there I wanted to holler but for some reason i couldnt move a muscle so i was just laying there thinking i was yelling ma but my mouth wasnt working.The craft was a metallic shiny black glowing color actually more beautiful than scary,well after the craft slowly moved off I got my movement back so i ran down stairs and my mom was sitting watching t.v. and the kitchen was all clean as if she hadnt cooked it seemed to me no time went by but an whole hour did...I was telling my mother i saw a U.F.O but she just laughed at me and said go back to bed but the next day on the local news at noon time there was a report that a Liberty,oh police officer  also encountered a craft.also I noticed as i went back to bed the light that was off between the houses was know on.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56021.html](http://www.nuforc.org/webreports/reports/056/S56021.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Accomac (VA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was going on break at work, and like normal went to my car, and looked up to my left (east) in the sky at the stars as i like to, but also saw 3 redish dots/balls in the sky at different heights, the left being the lowest, the right being the next highest and the middle being the highest, but they were far enough apart to tell they were not a single aircraft,and the thought crossed my mind that they were too dim and close to all be towers,also ahead of me (south) in the distance i could see the red blinking light of a tower as comparison.as i walked to my car keeping my eyes on them i said to a passing co-worker "what are those lights" "i don't know",she replied uninterested.  So i continued to my car(walking slowly the entire time to keep my eyes on the lights) but in the short time it took to look down to step off the curb the one on the left disappeared. then as i walked and refused to look away again i bumped into another co-worker and pointed them out to her, but she continued inside seemingly uninterested also. So as i look on the one on the right and the center one were climbing "straight" up ,from my view,and the one on the right disappeared and finally the one in the center climbed the highest and disappeared.they didn't flicker or anything,they were very well defined constant lights.i looked on the way in and after work but didnt see them again sadly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116051.html](http://www.nuforc.org/webreports/reports/116/S116051.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/165/S165881.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165886.html)
-- [436](http://www.nuforc.org/webreports/reports/165/S165884.html)
-- [435](http://www.nuforc.org/webreports/reports/165/S165883.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
