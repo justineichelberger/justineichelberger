@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:36 on 15 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:31 on 15 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Great Falls (Canada) (MB) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>first and third object flew eastwards made a turn north east,north of my house second flew east in a more parallel line turning s.eTo whom it may concern,   In between approximately 8:50 pm and 9:05 I was outside smoking a cigarette and my friend had started his car, it’s a very clear night. With the lights on facing the north I looked to the west and thought I seen a satellite I pointed out and realized it was not a satellite because the shine of the sun would reflect upon from the west as I would see the shade side.  It seemed to look as if there were airplane lights on it but one red flash then the rear flashed after repetitively around once each per second we also seen three lights, the direction of the un identified object looked as if the lights were not on wings, there was also 2 white lights parallel to each other and another in front near red flashing light, we knew it was not an airplane because the lights in the rear and the direction of the plane would be going in opposite direction at the same time it also was changing directions just as the un identified object left sight we looked to the west again and seen a second object coming from the same direction possibly a little farther south, this object flew in almost a straight line but yet to be going faster than a satellite, it also had the same type of lighting not 1 minute later a third had come the same path as the first, as it turned north at what seemed the same co ordinates facing now south east we seen the first a little higher up but farther away as the third followed continuing north east, the second object had faded into the sky so that you couldn’t see the lights just the red flash per second.  These objects were all going the same speed as each other, yet to still be faster and lower flying than a satellite. Seemed the two were going towards Hudson bay after they turned and coming from Regina going to northern Quebec.  The size of the object looked larger than an airplane possibly wider than a transit bus’s length and possibly triple its length between the back and front may be larger in size it’s hard to give definite size th! ough seemed like it was flying low was hard to caption exact s! ize only seen its lights   My friend will also be mailing in a report shortly,  Best regards</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85873.html](http://www.nuforc.org/webreports/reports/085/S85873.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Southington (CT) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Two diamond shaped objects over 84 SouthingtonWhile merging onto 84 east from Cheshire into Southington, my daughter and I saw two diamond shaped objects hovering above the highway.  One of the objects was higher in the air while one was closer to the ground.  The two objects were a light golden color that pulsed every 2-3 seconds.  My daughter saw one of the objects change to red in color.  The event happened very quickly as I stated earlier I was entering the highway and exited at the first exit there after.  I did see several other planes in the air at least one seemed to be a small passenger plane.((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115973.html](http://www.nuforc.org/webreports/reports/115/S115973.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/165/S165881.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165886.html)
-- [436](http://www.nuforc.org/webreports/reports/165/S165884.html)
-- [435](http://www.nuforc.org/webreports/reports/165/S165883.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
