@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:39 on 15 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:33 on 15 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Rhome (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>An extremely bright round object. As me and two relatives drove north on 287 from Haslet.  While driving a Circular and definitely way Brighter than any star I've seen grabbed all of our attention.  It was up high on the left (west) side of the fwy.  It looked like a star was falling at a fast speed then the round light seemed to have control again and started going up.  The space craft seemed to do what it seemed to me like between a "J" and a "U" then dissapeared towards the end of the "J" to an extremely high speed away to what I believe was west but then dissapeared. We have never experienced anything like it or have seen something so bazaar or so quick. Our radio also went a bit staticky but wasn't sure if it was just a coincidence.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152227.html](http://www.nuforc.org/webreports/reports/152/S152227.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Lake Wales (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>It was shortly after 7 p.m. Saturday, Dec. 15, 2007, when I noticed a bright object in the sky. It was a bright light, not unlike a satellite but moving in a north to south direction; Brighter than any star. There were no other lights or colors associated with it.It continued moving south in atypical movements characteristics of an airplane or helicopter. It didn’t move like an airplane and there was no noise. It was traveling fairly fast and suddenly slowed down and them took a short oblique move to the right and then to the left and the continued south. Too fast and abrupt to be a helicopter or aircraft.It continued south for two or three seconds and then started to fade and disappear. Did not get a chance to observe it with binoculars.Within seconds after the light faded away, an aircraft (identified by flashing red and blue lights and noise) appeared above the tree line due south and passed directly along the same path as the object but heading north. There was no bright white present as with the unidentified object.I was in a hurry to meet my wife and couldn’t stay around to check further. I thought the aircraft I observed heading north may have seen the UFO and perhaps was pursuing it???  Analysis: It appeared the object saw the approaching aircraft and started to turn to avoid it but finally vanished to hide.Credentials:  I served in the Air Force Civilian Observation Corps as an observer and worked at the local Filter Center for a two year period in Syracuse, NY. Visually sighting aircraft and identifying them to call in to the Filter Center "radar gaps." I’m very familiar with multiple aircraft at all altitudes.I served in the Air Force as a Radar/Radio technician.I spent 1 ½ years in Viet Nam as an Engineering Writer for the DoD.Grad Degree: BS in Math and Science Worked in Aero Space programs for 20 years  Engineering missiles     (Polaris, Centaur, Minuteman, Pershing and Sam-Ds.) I’m also an Armature Astronomer  use an 8-Inch reflecting telescope</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60415.html](http://www.nuforc.org/webreports/reports/060/S60415.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/165/S165881.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165886.html)
-- [436](http://www.nuforc.org/webreports/reports/165/S165884.html)
-- [435](http://www.nuforc.org/webreports/reports/165/S165883.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
