@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:27 on 15 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:41 on 15 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Ocean City (MD) reported seeing craft that fit the description of some 'Oval' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>2 hovering discs probing ocean waterI should have reported this back in 1990, but I had no idea where I could report such a thing to.  I came home at 12:15am to my  oceanfront condominium, relaxed and watched TV.  Approximately 12:30am, I checked my sliding glass door, looking out to the ocean.  I saw a peculiar object hovering over the water with lights shining down and what appeared to be some sort of "probes" reaching into the water below.  I was stunned and just stood there wondering if my eyes were deceiving me.  I then saw the hovering object pull in the "probes" and ascend back up to what appeared to be a larger hovering object up above, higher in the air.  I assumed it to be some sort of "mother ship".  After ascending, it descended after a few (?) minutes.  This process repeated approximately 3 times.At this point, approximately 3 hours had passed. I had to get a closer look, although I was fearful.  I walked out on my balcony and saw the lights shine towards me on the coast.  I was horrified thinking this "thing" was going to chase me!  I ran back in to my condo and slammed the door.  I watched from inside once again.  At this point, it ascended midway to the "mother ship" and took off at a very high speed, South, down the coast and disappeared from sight.  I was so frightened, living alone.  I wanted to leave my condo, but I was too fearful after what I saw.  Although, it was frightening, somewhat, it was truly amazing and something I have never forgotten after 15 years.  As usual, most of the people I reported this to, just laughed it off.  I felt this was worthy of reporting to your fine organization after I learned about you after watching the Peter Jennings special on UFO's.  Keep up your good work!((NUFORC Note:  Witness indicates that date of event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42807.html](http://www.nuforc.org/webreports/reports/042/S42807.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Grants Pass (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Very large triangular shaped UFO siting, North-West, outlined in blinking red lightsI was driving to Eugene from Medford and happened to look up to the sky and through the clouds I saw a very large blinking red light.  I thought it was just an airplane as I couldn't see it clearly at first, but I kept looking at it as I was surprised in the large amount of area it was lighting up.  It was moving from North to West, now very rapidly, still blinking, then I saw its huge enormous size as it was blinking and realized that this wasn't an airplane, and had to be a ufo, no doubt in my mind. Triangular shape, very large, moving down West closer down into the mountains, outlined in red blinking lights.  I saw it out of the window as my mother was driving down the freeway.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20821.html](http://www.nuforc.org/webreports/reports/020/S20821.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/165/S165881.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165886.html)
-- [436](http://www.nuforc.org/webreports/reports/165/S165884.html)
-- [435](http://www.nuforc.org/webreports/reports/165/S165883.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
