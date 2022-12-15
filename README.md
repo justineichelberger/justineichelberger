@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:32 on 15 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:30 on 15 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1969, an anonymous witness in Viet Nam (location not specified) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Saucer and Dome observed by Starlite Scope in Vietnam During the War.While on guard duty in the Republic of Vietnam (with Battery A, 1st Battalion, 7th Artillery) my job was to scan the treeline with a starlite scope for enemy movement/lights.  We had received mortar fire recently upon our dug-in position in the "Catcher's Mitt" area of South Vietnam.  This area had never been occupied by U.S. forces until our arrival late in November of 1969 by air assault.  While scanning the treeline I saw a saucer shaped craft flying above the trees.  It tracked slowly from south to north and as I followed it a dome-like structure came into view sitting on the side of a hill. In the view from a 1969 vintage starlite scope any light source appeared green.  The dome slowly pulsed and as the saucer approached, it appeared to enter the dome, no details were discernible, only that the saucer disappeared into the dome.  I continued to watch, and sent the second guard to get the battery commander, an artillery captain (Captain ((name deleted))).  As I watched, the saucer, or a second one that was its twin, left the dome and "launched" into the sky.  About that time the captain arrived and I said "Take a look at that sir."   He did, watching for five or six minutes then he straightened up.  "What should we do sir?" I asked.  He replied we were to do nothing and no report was to be written up.  I watched the dome all night, it continued to pulse, but when I left guard duty a few hours later the saucer had not returned.  There was never any discernible sounds, I listened for the "whomp, whomp" of a chopper or the sound of jets and never heard anything.  I mentioned the incident to the guard releaving me, but he was unconcerned as long as it "Wasn't VC".  The following night I took a look through the scope to where the dome had been the night before, but it was gone. I've never reported this other than to my captain.((NUFORC Note:  Date in December 1969 is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29430.html](http://www.nuforc.org/webreports/reports/029/S29430.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1954, an anonymous witness in Red Bank (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright orange light, about the size of a pea at arms length, moving slowly from the west to NE.  I was a soldier, stationed at Ft. Monmouth, NJ at the time of the sighting.  As I walked west towards my barracks on a cold clear night in Dec., I first noticed the object at about 30 deg elevation.  It moved steadly on the same course for about 20 seconds.  Then, it abruptly stopped without decelerating for what seemed to be a minute or so.  It abruptly restarted, at the same speed as before and remained on the same course.  This behavoir repeated two more times.  Then the object zipped up at about a 70 deg. angle towards the NE, getting smaller as it disappeared in about 2 seconds.  During the observation period there was no sound, and no change in brightness or color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13818.html](http://www.nuforc.org/webreports/reports/013/S13818.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/165/S165881.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165886.html)
-- [436](http://www.nuforc.org/webreports/reports/165/S165884.html)
-- [435](http://www.nuforc.org/webreports/reports/165/S165883.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
