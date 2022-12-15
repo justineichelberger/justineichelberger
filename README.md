@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:41 on 15 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:21 on 15 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Grants Pass (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Very large triangular shaped UFO siting, North-West, outlined in blinking red lightsI was driving to Eugene from Medford and happened to look up to the sky and through the clouds I saw a very large blinking red light.  I thought it was just an airplane as I couldn't see it clearly at first, but I kept looking at it as I was surprised in the large amount of area it was lighting up.  It was moving from North to West, now very rapidly, still blinking, then I saw its huge enormous size as it was blinking and realized that this wasn't an airplane, and had to be a ufo, no doubt in my mind. Triangular shape, very large, moving down West closer down into the mountains, outlined in red blinking lights.  I saw it out of the window as my mother was driving down the freeway.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20821.html](http://www.nuforc.org/webreports/reports/020/S20821.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Dalzell (IL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>One bright, white, and massive craft moving faster than anything I have seen, moved soundless, over central Illinois. Two witnesses.It was a little past 9 pm, late December of 2012.  Me and a good friend were walking though our small town.  My friend is a skeptic of this sort of thing. All of a sudden he slows a down to stop and says, 'look at that'. I looked up, and could barely process what I had just seen. It was a massive, bright, white, and fast moving object. Rectangular in shape. And moving at hundreds of mph!  One of the many things that hit me about this craft, was it appeared to be moving right over our town, and low, at an unimaginable speed, yet it never made one sound. I would say it was the size of a football field, at least.  And then it just disappeared into the clouds. I tried to ask my skeptic friend why couldn't this by some plane, (even though I pretty much knew what it had to be). He said, 'um because it was going a million mph'!! One thing is for sure, I will never forget that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96643.html](http://www.nuforc.org/webreports/reports/096/S96643.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/165/S165881.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165886.html)
-- [436](http://www.nuforc.org/webreports/reports/165/S165884.html)
-- [435](http://www.nuforc.org/webreports/reports/165/S165883.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
