@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:04:29 on 15 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:31 on 15 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1945, an anonymous witness in Roswell (NM) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Sphere in Roswell. Were aliens looking for thier dead ?I was laying on my bed and was looking out the window. I saw what I thought was a shooting star (meteor, didn't know the proper name then. I was about ten years old.). It was moving very slowly which I thought was unusual. Before I knew it, I realized it was not a meteor but a sphere and it was desending above the house Across the street. It was bright, but did not give off a whole lot of light. It moved very slowly and hovered at the porch of our nieghbors house. I ran across the room to wake up my sisters to look at it. When I reached thier bed, my older sister was kneeling on her bed and looking out the window. I told her "Do you see that?". She said "Yes, and it took off real fast". I looked to where it was and it was already gone. We never told anyone or discussed it. I don't think we even remembered the next day until we were adults and we taked about it then. I thought I would tell our story before we are both gone and niether one of us is here to tell it and back each other up. Also visted Roswell a few years back and my brother-in-law told me he had seen a sphere by the cemetery and discrbed it the same as wht my sister and I had seen. I told him I had seen a similair object when I was a kid. He was grateful for me telling him that because he thuoght he was seeing things that were not real.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26207.html](http://www.nuforc.org/webreports/reports/026/S26207.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Flovilla (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>White dot almost crashes into a planeAround 6:28pm I was outside with the dogs.We live over a holding pattern for the Atlanta airport,So I watch the plans come in from the distant.Tonight it was very busy 2-5 planes coming in at a time. The one plane that caught my attention was the one that had the very fast moving white dot coming right to the side of it. This dot was coming from the SouthWest and the plane was headed to the northwest.At one point the dot came very close to the plane I thought It was going to crash into it,but it didn't.  It (the dot) just missed the plane and went behind it,then just disappering into the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54010.html](http://www.nuforc.org/webreports/reports/054/S54010.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/165/S165881.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165886.html)
-- [436](http://www.nuforc.org/webreports/reports/165/S165884.html)
-- [435](http://www.nuforc.org/webreports/reports/165/S165883.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
