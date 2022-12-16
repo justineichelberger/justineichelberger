@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:40 on 16 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:08 on 16 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Placentia (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>To day12/16/2005 Friday at 7.15 pm; together with my wife we think we saw an ufo. The location is Valencia Avenue Placentia Ca 92870 USA. If you have a reasonable argument, please give us an idea. The machine was a square shaped very well lit, like a christmas ornament.  Very briliant and very fast. We tried to follow it with our eyes in a radius of 1 mile. First we thought a plane was falling down, then we saw that it slowed down, then took off again. We thought it may be a model plane but we have never seen something this fast before. It went back and forth a couple of times then disappeared into the darkness.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48376.html](http://www.nuforc.org/webreports/reports/048/S48376.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Marksville (LA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I saw this disk and I know it was a ufo.A friend and I were driving in town, on the four lanes, when I noticed some odd lights to my left. I nugged her to look and before I could say anything it started traveling in our direction.  We both saw it,  it was a huge disk with lights rotating around it moved silently first extremely slow and then within a matter if seconds it had darted back into the sky.  Once it was in the sky it flew in sparatically.  At first when it was close to us, my video camera wouldn't record, then once it was in the sky it started recording.  Strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106028.html](http://www.nuforc.org/webreports/reports/106/S106028.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
