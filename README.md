@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:15:36 on 16 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:42 on 16 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Venice (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange spheres floating across sky in Venice, FL.Initially saw 6 spheres in sky, spaced apart, drifting slowly from West to East coming from the water, over Dona Bay.  Just disappeared (thought may have went behind a cloud), then saw 2-3 more at a time come from behind the tree line, lower and moving quicker.  Had a central yellow steady light, with a orange-red glow in a spherical shape.  No sound.  Sky was very clear, no wind.  Entire event lasted about 10 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95299.html](http://www.nuforc.org/webreports/reports/095/S95299.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Loeriesfontein (South Africa) () reported seeing craft that fit the description of some 'Disk' over a period of approximately ?? - ?? minutes.</sub><blockquote><sub>Interesting photoI took a picture of a friend on Sunday 16.12.2001 in South Africa while on a road trip. I noticed a very strange object in the sky after I developed the film. We never noticed anything that day whilst taking the pictures. This was taken in a remote part of our country with no air routes passing over this area. I took the photo to the Cape town planetarium and the are as baffled as I am. They inspected the negatives for possible dust images or any other likely distortions on the film.Interesting thing was that I took three pictures at the same place within the space of less than one minute and this object only appears in the last photo. The object is at an angle with the sun reflecting on the top part and casting a shadow on the bottom of the object.I will post the picture on the web as soon as I have the access to the equipment to do so.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20869.html](http://www.nuforc.org/webreports/reports/020/S20869.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
