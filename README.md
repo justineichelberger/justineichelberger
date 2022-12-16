@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:28 on 16 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:29 on 16 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Van Buren (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>red light with white yo- yoing lightiwas on my way to work and i pulled into our yard (i drive a tractor trailer)our yard is on top of one of the biggest hills around and it was raining no moon its was a very dark night and im usually the only one there when i get to work when i pulled in i was facing east and above the tree tops i could tell it was a couple of miles off it was a constant red it pulsated an intence red and it moved eraticly up and down and it had a white light yo-yoing away from it in all directions it took 5 minutes at the most to go from horizon to horizon and you can see a long ways on top of this hill there was no sound i could tell it was a large oblect i was just dumnfounded</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33849.html](http://www.nuforc.org/webreports/reports/033/S33849.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Spotsylvania (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Triangular shaped object floating above Rt. 3 was seen and followed for serveral minutes.While on our way to workout my brother and I noticed a strange grouping of lights in the sky floating above Rt. 3.  The lights slowly began to move.  We decided to follow the lights.  As the craft passed in front of the clouds it was breifly backlight revealing a triangular shape with red and green lights at different points on the craft.  The object then disappeared over the treeline and we decided to go workout.  A half hour later while coming back down Rt. 3 on the West lane we noticed the craft still in the air above us only now coming our direction.  We began to follow it until we lost sight of it for good.  Several days later on Christmas day my other brother and I we outside talking at around 9:00 pm when I noticed the same craft in the sky near our house.  He tried to dismiss it as a helicopter but it was making no sound.  I then began to drive down the road and lost site of the craft.  About 15 minutes down the road the craft appeared on the opposite side of the sky now with several other lights around it.  I lost sight of it shortly after that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26894.html](http://www.nuforc.org/webreports/reports/026/S26894.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
