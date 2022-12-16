@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:21 on 16 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:27 on 16 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Charlottesville (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Wandering lights in the sky over Charlottesville, VASeveral flying lights were seen by three persons. The lights changed in color and intensity, although luminosity was maintained at comparable brightness to stars in the vicinity, over the course of the half hour in which they were seen, the objects also meandered across the sky, going various directions at most times, while stopping and staying still for more than five minutes at a time. The first light was observed heading SW, then NW, then N, then back to the south, and so on. Eventually, three of the objects made a triangular formation. Several attempts were made at photographic evidence, but the cameras in use were not powerful enough to pick up the lights clearly.  At some points, the lights moved fast enough to leave behind a slight tail of disturbance in the atmosphere. Several commercial planes were observed in the vicinity of some of the objects, but distance was not able to be judged without better instrumentation to be able to determine how close the planes were to the objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60424.html](http://www.nuforc.org/webreports/reports/060/S60424.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Lubbock (TX) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Object southbound, displaying three white lights, slowed, hovered, quickly accelerated and made a low, banking turn to the east and then sped north until out of sight.Witness #1 saw three white lights in sky at approximately 19:20CST.  The lights appeared stationary and witness thought the lights were an inbound airliner at a distance thus accounting for the lights seeming to hover.  At approximately 19:40CST, witness #1 and witness #2 were traveling in a vehicle together when the object was again seem southbound over the southwest part of Lubbock.  The object slowed, hovered, and then accelerated to the south, making a low sweeping turn to the east, completing the 180 degree turn to the north and sped out of sight.  When the witnesses pulled off the street to look at the object, they heard it making a pulsing humming sound.  The radio in their automobile was tuned to an FM station.  Something else came over the radio at a louder volume.  Mixed in with the FM broadcast was a louder voice speaking in English.  It seemed to be one side of a two-way conversation, not unlike a telephone call.  The object was very dark or black.  Witness #1 is very familiar with civil and military aircraft and stated that he had never seen anything like this before.  I am reporting this incident for my daughter (witness #2) and her fiance (witness #1).  If you want to contact me call digital pager 806((number deleted)).  I will return your call as soon as possible.  The below number is my office telephone number where I can be contacted 0830-1700CST, Mon-Fri.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05171.html](http://www.nuforc.org/webreports/reports/005/S05171.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
