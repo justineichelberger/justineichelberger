@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:29 on 16 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:24 on 16 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Newton (MA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Cheveron of light amber lights over 128 South in Massachusetts.  I noticed them for about 5 seconds then they disappeared.I was driving to work on Route 128 South, in Massachusetts, at about 1:30 pm on the above date.  I saw, in the shy, what I thought was a commercial airliner either ready to land or crash onto the highway on which i was driving.  I did not notice any airplane like features, but the thought, "my god, this plane is going to crash was what came into my mind."  At that instant the lights disappeared completely.  I dont think i heard any sounds, i cant say for sure. I know other people saw it because i saw them slow down and their brakelights come on.  a jeep travelling to my left almost caused an accident. The lights were side by side going up diagonaly and coming down diagonaly like an upside down V, but the V was more elongated and not as pointed.  the lights were a very light amber.  I am not sure if it was 6 crafts or one craft with six lights.  i cant say for sure. I called my wife on my cell phone and told.  I think she believed me, but I called her back and said i think it would be best if she said nothing. Thats all i can say.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48338.html](http://www.nuforc.org/webreports/reports/048/S48338.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in North San Diego (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Summary : Green fireball.  Seemed to be too low for a celestial event.  Definitely not fireworks.I'm an engineer.  See myself as a careful, objective observer.  Know planes, seen lots of meteors, fireworks, and the like. This brief phenomenon defied my logic. It was a light green "fireball" lasting about a second.  It showed a short-persistance trail (1/4-1/2 sec). I'm 5-10 miles north of downtown San Diego.  It was south of my observation point, maybe 30 deg. above horizon.  It faded out at about 15-20 deg.  It may have been visible higher in the sky, but my view was restricted. The object seemed to be falling, moving towards the southwest.  It showed a straight, fast trajectory - like a meteor.  Quite bright but not extremely so. It left me with the distinct impression that it was generated within the atmosphere, that it was not a celestial event.  However, because of its motion and the characteristics of its luminance, it was definitely not fireworks.  It seemed like it could have been only a few thousand feet away.  Seeing a meteor is much different than was seeing this. Interesting too, it occurred right where I was looking, but not expecting anything. Would be interested to know if anybody else saw a similar thing it this time. Email me if you could use or provide further information.  Please keep my last name, address, phone, and email address confidential. Thanks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02980.html](http://www.nuforc.org/webreports/reports/002/S02980.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
