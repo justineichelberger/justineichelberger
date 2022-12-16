@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:29 on 16 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:25 on 16 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Spotsylvania (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Triangular shaped object floating above Rt. 3 was seen and followed for serveral minutes.While on our way to workout my brother and I noticed a strange grouping of lights in the sky floating above Rt. 3.  The lights slowly began to move.  We decided to follow the lights.  As the craft passed in front of the clouds it was breifly backlight revealing a triangular shape with red and green lights at different points on the craft.  The object then disappeared over the treeline and we decided to go workout.  A half hour later while coming back down Rt. 3 on the West lane we noticed the craft still in the air above us only now coming our direction.  We began to follow it until we lost sight of it for good.  Several days later on Christmas day my other brother and I we outside talking at around 9:00 pm when I noticed the same craft in the sky near our house.  He tried to dismiss it as a helicopter but it was making no sound.  I then began to drive down the road and lost site of the craft.  About 15 minutes down the road the craft appeared on the opposite side of the sky now with several other lights around it.  I lost sight of it shortly after that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26894.html](http://www.nuforc.org/webreports/reports/026/S26894.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Anchorage (AK) reported seeing craft that fit the description of some 'Circle' over a period of approximately Dabarr - Dabarr minutes.</sub><blockquote><sub>What The Hell Is that in the sky??It was 12/16/2010,between 12pm and 2pm I was driving to a Chevron Gas station across the street from Alaska Reginonal Hospital to get my head light fixed.  It was a clear beautiful day and as i came close to the gas station i looked up toward the moon and i noticed right below it was a circular silver shape in the air that was just sitting there.  AS i was trying to drive and watch it at the same time, the object begin to move down, than stopped, I pulled into the gas station and gave my boy friend a call to tell him what i was seeing, the object disapered.  I got out of the car and just watched the sky as the man that worked at the store asked me what was wrong. I was kind of afriad to tell him i thought i just saw a ufo.  So i just kept it to myself.  I Never in my life believed in ufo's, or aliens,  But i know what i saw yesterday had no wings, no lights, it just looked like a sliver circle in the sky, but the way it was moving let me know it wasn't a balloon,  or nothing like that.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79289.html](http://www.nuforc.org/webreports/reports/079/S79289.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
