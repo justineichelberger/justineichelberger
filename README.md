@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:27 on 16 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:27 on 16 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Lubbock (TX) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Object southbound, displaying three white lights, slowed, hovered, quickly accelerated and made a low, banking turn to the east and then sped north until out of sight.Witness #1 saw three white lights in sky at approximately 19:20CST.  The lights appeared stationary and witness thought the lights were an inbound airliner at a distance thus accounting for the lights seeming to hover.  At approximately 19:40CST, witness #1 and witness #2 were traveling in a vehicle together when the object was again seem southbound over the southwest part of Lubbock.  The object slowed, hovered, and then accelerated to the south, making a low sweeping turn to the east, completing the 180 degree turn to the north and sped out of sight.  When the witnesses pulled off the street to look at the object, they heard it making a pulsing humming sound.  The radio in their automobile was tuned to an FM station.  Something else came over the radio at a louder volume.  Mixed in with the FM broadcast was a louder voice speaking in English.  It seemed to be one side of a two-way conversation, not unlike a telephone call.  The object was very dark or black.  Witness #1 is very familiar with civil and military aircraft and stated that he had never seen anything like this before.  I am reporting this incident for my daughter (witness #2) and her fiance (witness #1).  If you want to contact me call digital pager 806((number deleted)).  I will return your call as soon as possible.  The below number is my office telephone number where I can be contacted 0830-1700CST, Mon-Fri.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05171.html](http://www.nuforc.org/webreports/reports/005/S05171.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Longview (WA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Orange-colored diamond shaped objects.There were 2 orange tented glowing objects in the sky above my house.  They were hovering atop of one another very close.  One of the ufo's seemed much bigger than the others.  The 2 ufo's slowly disappeared and another one appeared as soon as the other 2 were gone.  The 3rd ufo hovered just the same and looked like the others.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116061.html](http://www.nuforc.org/webreports/reports/116/S116061.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
