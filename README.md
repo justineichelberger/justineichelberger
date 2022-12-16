@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:59 on 16 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:28 on 16 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Carson City (NV) reported seeing craft that fit the description of some '' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Object streaking across sky.Streaking light changing from white, to yellow, to green seen from Carson City Nevada at 6:25am 12/16/2016.  Lasting 5 seconds. in the western sky traveling North to South.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131780.html](http://www.nuforc.org/webreports/reports/131/S131780.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Van Buren (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>red light with white yo- yoing lightiwas on my way to work and i pulled into our yard (i drive a tractor trailer)our yard is on top of one of the biggest hills around and it was raining no moon its was a very dark night and im usually the only one there when i get to work when i pulled in i was facing east and above the tree tops i could tell it was a couple of miles off it was a constant red it pulsated an intence red and it moved eraticly up and down and it had a white light yo-yoing away from it in all directions it took 5 minutes at the most to go from horizon to horizon and you can see a long ways on top of this hill there was no sound i could tell it was a large oblect i was just dumnfounded</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33849.html](http://www.nuforc.org/webreports/reports/033/S33849.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
