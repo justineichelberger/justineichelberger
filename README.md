@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:24 on 16 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:38 on 16 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in North San Diego (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Summary : Green fireball.  Seemed to be too low for a celestial event.  Definitely not fireworks.I'm an engineer.  See myself as a careful, objective observer.  Know planes, seen lots of meteors, fireworks, and the like. This brief phenomenon defied my logic. It was a light green "fireball" lasting about a second.  It showed a short-persistance trail (1/4-1/2 sec). I'm 5-10 miles north of downtown San Diego.  It was south of my observation point, maybe 30 deg. above horizon.  It faded out at about 15-20 deg.  It may have been visible higher in the sky, but my view was restricted. The object seemed to be falling, moving towards the southwest.  It showed a straight, fast trajectory - like a meteor.  Quite bright but not extremely so. It left me with the distinct impression that it was generated within the atmosphere, that it was not a celestial event.  However, because of its motion and the characteristics of its luminance, it was definitely not fireworks.  It seemed like it could have been only a few thousand feet away.  Seeing a meteor is much different than was seeing this. Interesting too, it occurred right where I was looking, but not expecting anything. Would be interested to know if anybody else saw a similar thing it this time. Email me if you could use or provide further information.  Please keep my last name, address, phone, and email address confidential. Thanks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02980.html](http://www.nuforc.org/webreports/reports/002/S02980.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Luther (OK) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>A long string of 15-20 lights moving in single file formation and disappearing sequentiallyAn evenly spaced string of 15 to 20 bright white spherical lights, brighter and larger than any stars or planets were seen near Luther, Oklahoma, Northeast of Oklahoma City, all moving at a constant rate in a straight line, maintaining even spacing, moving from North to South in the general direction towards the North Star.Each light disappeared as it reached the identical location in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155877.html](http://www.nuforc.org/webreports/reports/155/S155877.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
