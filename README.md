@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:30 on 15 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:40 on 16 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1954, an anonymous witness in Red Bank (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright orange light, about the size of a pea at arms length, moving slowly from the west to NE.  I was a soldier, stationed at Ft. Monmouth, NJ at the time of the sighting.  As I walked west towards my barracks on a cold clear night in Dec., I first noticed the object at about 30 deg elevation.  It moved steadly on the same course for about 20 seconds.  Then, it abruptly stopped without decelerating for what seemed to be a minute or so.  It abruptly restarted, at the same speed as before and remained on the same course.  This behavoir repeated two more times.  Then the object zipped up at about a 70 deg. angle towards the NE, getting smaller as it disappeared in about 2 seconds.  During the observation period there was no sound, and no change in brightness or color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13818.html](http://www.nuforc.org/webreports/reports/013/S13818.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Placentia (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>To day12/16/2005 Friday at 7.15 pm; together with my wife we think we saw an ufo. The location is Valencia Avenue Placentia Ca 92870 USA. If you have a reasonable argument, please give us an idea. The machine was a square shaped very well lit, like a christmas ornament.  Very briliant and very fast. We tried to follow it with our eyes in a radius of 1 mile. First we thought a plane was falling down, then we saw that it slowed down, then took off again. We thought it may be a model plane but we have never seen something this fast before. It went back and forth a couple of times then disappeared into the darkness.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48376.html](http://www.nuforc.org/webreports/reports/048/S48376.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/165/S165881.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165886.html)
-- [436](http://www.nuforc.org/webreports/reports/165/S165884.html)
-- [435](http://www.nuforc.org/webreports/reports/165/S165883.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
