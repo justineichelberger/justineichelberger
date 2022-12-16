@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:38 on 16 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:28 on 16 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Luther (OK) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>A long string of 15-20 lights moving in single file formation and disappearing sequentiallyAn evenly spaced string of 15 to 20 bright white spherical lights, brighter and larger than any stars or planets were seen near Luther, Oklahoma, Northeast of Oklahoma City, all moving at a constant rate in a straight line, maintaining even spacing, moving from North to South in the general direction towards the North Star.Each light disappeared as it reached the identical location in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155877.html](http://www.nuforc.org/webreports/reports/155/S155877.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in North Port (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Craft UnknownWhile driving on interstate I-75 north bound at approximatly 6:05 pm between exit #33 and exit #34 an object appeared in the north eastearn part of the sky. It looked to be approximatly 500 to 1500 feet up in the sky, and approximatly 1 mile from our current position. At first glance it appeared to be a plane heading in our direction which would be to the southwest. Almost immediatly it was determined by myself and the driver of the car that it was not an ordinary aircraft. At first there were two lights in the front of the craft positioned when an ordinary commercial airliner would have its headlights. The two lights were at least 10-15 feet in diameter and were blinking on and off one at a time. (one off and then one on again). On the top of the craft were a number of small, bright blinking lights maybe 5 or 6. These lights were similar to what you would see on the top of a tower antenna. (a very bright strobe affect). There did not appear to be any determinable shape or angles to the craft. There was no shape of a wing or tail found on either a plane or helicopter. As we got closer we saw that there was another large bright white light turning on and off in a pettern with the first two lights that were seen. As we approached the craft it appeared to be completely stationary just to the side of the interstate. I then stuck my head out the window and observed the same bright lights that wre in the front and side of the craftin what now appeared to be the rear of the craft. We were now going approximatly 60 mph and as soon as I brought my head into the car to get a better view from the rear window it had completely disappeared from the sky. We scoured the sky for maybe two more minutes to find any sign of the craft, which had appeared to have disappeared. It was still very light out at that time of day and the craft appeared to be black or grey in color. There was a group of about five cars driving in the group with us and all of the people in the other cars had appeared to acknowledge the craft and ha! d baffel ed looks on their faces. Myself and the driver of the vehicle could not think of any type of craft that we knew of that this may have been.((NUFORC Note:  We spoke with this witness, and we found him to be quite lucid and credible  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20831.html](http://www.nuforc.org/webreports/reports/020/S20831.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
