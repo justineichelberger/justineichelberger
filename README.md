@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:25 on 16 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:30 on 16 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Anchorage (AK) reported seeing craft that fit the description of some 'Circle' over a period of approximately Dabarr - Dabarr minutes.</sub><blockquote><sub>What The Hell Is that in the sky??It was 12/16/2010,between 12pm and 2pm I was driving to a Chevron Gas station across the street from Alaska Reginonal Hospital to get my head light fixed.  It was a clear beautiful day and as i came close to the gas station i looked up toward the moon and i noticed right below it was a circular silver shape in the air that was just sitting there.  AS i was trying to drive and watch it at the same time, the object begin to move down, than stopped, I pulled into the gas station and gave my boy friend a call to tell him what i was seeing, the object disapered.  I got out of the car and just watched the sky as the man that worked at the store asked me what was wrong. I was kind of afriad to tell him i thought i just saw a ufo.  So i just kept it to myself.  I Never in my life believed in ufo's, or aliens,  But i know what i saw yesterday had no wings, no lights, it just looked like a sliver circle in the sky, but the way it was moving let me know it wasn't a balloon,  or nothing like that.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79289.html](http://www.nuforc.org/webreports/reports/079/S79289.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Demotte (viewed from) (IN) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Green round glowing fireball with short glowing tail, fell slowly from below cloud cover to very near ground level, viewed at distance.I am 40 years old, have been driving for a living most of my life.  Novice amateur astronomer.  Have seen few very strange things in the sky but always keep an eye out. Driving north on Indiana Highway 10 into Demotte, Indiana, stopped at a stopsign, I observed a glowing green teardrop-shaped "meteor" or "fireball" for approximately five seconds. Light snow had fallen a few hours earlier and the sky was still mostly cloudy. The glowing object appeared below the cloud layer a degree or two west of north and, falling at approximately 30-40 degrees from vertical towards the west, fell slowly for about 5 seconds and disappeared in place, not fully obscured at any time. There is a line of telephone poles 10'-12' to my left.  Three strands of tinsel are strung tightly between the poles with, perhaps, a 2"-3" sag at the center.  Three strands of tinsel approx 18" apart from each other, the highest strand at about 13' from the ground and horizontal.  The object fell below the level of the highest strand and disappeared before it's short tail was bisected lengthwise by the middle strand, from my perspective at about 4 feet off the level ground (in my car). The complete length of the object, from the perspective, was about a third the distance between the strands of tinsel. I expected the object to hit the ground;  it did not.  It did not change direction, velocity, intensity color, shape or size.  The core glowed more brightly than the glowing "aura" and tail.  There was no trail. The color was like the green of a night vision scope.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05162.html](http://www.nuforc.org/webreports/reports/005/S05162.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
