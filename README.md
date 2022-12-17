@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:26 on 17 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:59 on 17 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Reed Point (MT) reported seeing craft that fit the description of some 'Flash' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright red flashing light hovering seen by a rancher and wife in SE Sweet grass county, MTMy husband and I were coming home and saw a steady flashing red light that seemed to be moving extremely slow if at all above our ranch heading south.  We stopped to put our field glasses on it but it disappeared quickly.  Then out of nowhere it appeared again this time above our main courtyard of the ranch circling and blinking a very bright red flashing light.  Then it started to head due East.  This time we both got out of the pickup to listening for any sort of noise but there was none.  Then just like the first time we seen it, it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151709.html](http://www.nuforc.org/webreports/reports/151/S151709.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some '' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Multnomah Co. off. at traffic light sees obj. STREAK from W to E in SW sky.  2 min. later, sees identical event, same trajectory.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01735.html](http://www.nuforc.org/webreports/reports/001/S01735.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/165/S165899.html)
-- [249](http://www.nuforc.org/webreports/reports/165/S165902.html)
-- [248](http://www.nuforc.org/webreports/reports/165/S165903.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161234.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161224.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
