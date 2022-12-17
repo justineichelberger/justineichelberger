@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:30 on 17 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:25 on 17 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Unknown crafts shadow passenger jetWe were traveling on a Southwest flight to Los Angles when is the general area of Las Vegas, my husband notices 3 teardrop shaped crafts that appeared to be following the plane on the North side.  The leading craft had 2 huge lights on it and it looked as though there was a faint light between each craft as if they were tethered together.  It was very odd to say the least.  We watched it for about 10 minutes before it simply vanished.  It was not a reflection, as it was obscured twice by clouds</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105418.html](http://www.nuforc.org/webreports/reports/105/S105418.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Beaufort (SC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 45:00 - 45:00 minutes.</sub><blockquote><sub>My wife and I went outside for a cigarette and saw a few green comets coming down.  She then drove out to check where they landed.  There were about 15 dual lighted objects hovering around about a mile from our house. We have a picture from her cell phone. I don’t know what they were, but it still haunts my dreams and thoughts at night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86834.html](http://www.nuforc.org/webreports/reports/086/S86834.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/165/S165899.html)
-- [249](http://www.nuforc.org/webreports/reports/165/S165902.html)
-- [248](http://www.nuforc.org/webreports/reports/165/S165903.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161234.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161224.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
