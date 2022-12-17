@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:26 on 17 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:22 on 17 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Conway (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>The lights were kind of multiplying in what looked like a possible triangular pattern and then all of sudden disappeared.  They were yellow in color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144170.html](http://www.nuforc.org/webreports/reports/144/S144170.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Was standing on top of Sunset Cliffs, overlooking the Pacific ocean.  I noticed a dim red light around near where the horizon should have been sitting fairly still.  It then began to brighten and move around in an irregular pattern, almost like looking at the random flight path of a fly.  I ask my girlfriend if she is seeing the same thing I am and she confirms I am not seeing things.  We then spent the next 10 or so minutes watching this object brighten and dim while moving back and forth, gaining and losing altitude erratically.  The object was out over the pitch black ocean so I could not actually see the horizon so I could not determine how far away the object was.  There was no sound associated with the object.  I figure if the object was as close as two miles, its movements probably covered 0-1500ft in altitude and back and forth across the horizon a minimum of 3 miles.  It dimmed out once about 4 minutes in and appeared to be gone but came back about 3! 0 seconds after.  After it disappeared the second time I did not see it return and we left the location.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131797.html](http://www.nuforc.org/webreports/reports/131/S131797.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/165/S165899.html)
-- [249](http://www.nuforc.org/webreports/reports/165/S165902.html)
-- [248](http://www.nuforc.org/webreports/reports/165/S165903.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161234.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161224.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
