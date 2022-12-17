@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:31 on 17 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:20 on 17 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Fluvanna county (off rt 15) (VA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Driving from Richmond to Lake Monticello, 1/4 mile from intersection of rt 15 and rt 616 on riight, I onserved the following:  bright multicolor array of cilindrical shaped vertically positioned lights flashing and moving left to right, horizontally around somewhat oval shaped large object hovering  above trees about 100 yards from road.  Top and bottom of object were convex.  Top and bottom curved portions comprisedaybe 40- 50 % total size, the remaining 50% was lighted rectangular multicolored center portion of it. Top and bottom parts were  very brightly glowing white light. Object total size appeared 50 feet wide 30 feet high.  Appeared to jump several feet in different directions while remaining in same place and orientation.  Before suddenly disappearing. Wondered if someone might be attempting a hoax,  I Kept looking in area where object seen as turned right onto 616 and noticed a house with a few Christmas lights but it was well  below trees and  nothing! going on there.  Actual siting only lasted 2 or 3 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85959.html](http://www.nuforc.org/webreports/reports/085/S85959.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Victoria (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>I was outside my job talking to some of my co-workers when I looked to the East and saw a white object in the sky.  It looked like it almost had a tail, but wasn't, or didn't look like, a fireball/meteor/comet/Asteroid.  It wasn't very high in the sky from where I was at.  It also wasn't going very fast.  I watched it for a few minutes until I couldn't see it anymore.  Also, it was flying South.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124734.html](http://www.nuforc.org/webreports/reports/124/S124734.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/165/S165899.html)
-- [249](http://www.nuforc.org/webreports/reports/165/S165902.html)
-- [248](http://www.nuforc.org/webreports/reports/165/S165903.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161234.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161224.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
