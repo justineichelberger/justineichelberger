@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:26 on 17 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:21 on 17 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Portsmouth (VA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Was @ the light on college drive heading east to 164, look up at an angle and seen what appeared to be a white/shiny object appear, as I was heading they the  traffic light I lost track of it, then while I was driving on interstate I looked in that direction I see it again, I almost crashed I was so amazed then it vanished((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116067.html](http://www.nuforc.org/webreports/reports/116/S116067.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in St. Petersburg (FL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3 frames - 3 frames minutes.</sub><blockquote><sub>It just looks like it doesn`t belong there.As I was viewing the (weather bug) on my computor, I moused over to "Live Camera from Environmental Science Academy Crystal River, Florida"   Please view the first few daylight shots from live camera and notice the object in 3 of the frames.  It sure looks like a cigar shaped object to me.  I do not know the elapsed time between shots, but it seems the object is moving pretty slow for being airborn.  It doesn`t appear to be a helocopter on my screen. Please let me know what you think.  ((e-address deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67510.html](http://www.nuforc.org/webreports/reports/067/S67510.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/165/S165899.html)
-- [249](http://www.nuforc.org/webreports/reports/165/S165902.html)
-- [248](http://www.nuforc.org/webreports/reports/165/S165903.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161234.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161224.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
