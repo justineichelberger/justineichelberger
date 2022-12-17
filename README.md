@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:39 on 17 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:22 on 17 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Belton (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately Every night for the past  - Every night for the past  minutes.</sub><blockquote><sub>If you go to the west of town almost to the edge look to the south west you will see blue white and now for the first time on 12/17/17 there is a dim red light.  I have seen jet fighters in formations going near one of them also one has flew over my house without sound.  Want to know what this is trying to find out but no help white lights are sharp fast blinking and random the blue are sometimes sharp and some are slow real dim the new red one is dim don’t know what it all means maybe someone has answeres out there</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137841.html](http://www.nuforc.org/webreports/reports/137/S137841.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lewisport (KY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately Still occurring as I'm po - Still occurring as I'm po minutes.</sub><blockquote><sub>Triangular-shaped, multi-colored, erratically moving from side to side, up and down.  Have video of it and many, many wild pictures I just can't explain. At some points it looks like a ball of plasma spinning and pulsating different intensely bright colors. And when I say my phone to take several pictures at once, it seems to change general shape an color. But about every few shots of there is a definitive triangular shape.  Last night it was not there, but the night before it was on the other side of the sky.  And also days before that in another area. I have photos and video.  Have been really seeing these things since the summer in 2017. But by far much more regularly as of late</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151707.html](http://www.nuforc.org/webreports/reports/151/S151707.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/165/S165899.html)
-- [249](http://www.nuforc.org/webreports/reports/165/S165902.html)
-- [248](http://www.nuforc.org/webreports/reports/165/S165903.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161234.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161224.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
