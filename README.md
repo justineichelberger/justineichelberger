@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:19 on 17 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:26 on 17 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Merritt (Canada) (BC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>A glowing yellowish-green sphere fell, shortly after dusk, lasted seven seconds before disappearing, and made no sound.UFO Dec.17/09  Account 1: (Mother) At approximately dusk (after sun had set) on Thursday, I saw a strange illumination/object in the SW sky in the direction of the Coutlee Plateau but more directly above Collettville. I was parked across from N.H.'s house on 1st Avenue, while my children walked their paper route nearby. I had the car stereo on so didn't hear anything (window closed). I was thinking how the sky was still rather cloudy but had a few clear patches, and I was wondering about how the upcoming weather would be.My eyes were drawn to what I thought might be a "falling star" but it was greenish-yellow glowing ('emerald green') It did make me think of something burning up after entering atmosphere as it was far higher than a flare might reach. I wondered about meteor showers but thought they'd come in multiples. It lasted maybe 3-5 seconds, long enough for me to form some thoughts and wonder about it 	There was a plane trail quite far to thte left of where this occurred, but unrelated I think (The plane's path was towards the Coquihalla and Vancouver). One bright star was visible to the left of where I was the light show. The falling trajectory was not straight down, but at an angle.Account 2: (Son, 13)  The yellowish-green sphere fell over the music fest area. It glowed yellow and green. It was around 5:00 pm. It was kind of 3-d. There were clouds behind it. It didn't make the clouds glow (no reflection), the clouds which were a medium distance behind it. No foreshortening on the side opposite the direction of movement. Like a falling star, falling across the sky. Nothing was heard, no sounds. Definitely a single light. No airplane trails. Lasted six seconds from the time I looked up to see it. Was looking across the street and I looked up and saw it. I was standing in front of L.B.'s house, walked across the sandy area to the middle of the lawn of the house next door while watching. Not a solid, more a glowing ball of energy. Same size as a toonie. Mother also saw it. Weather was cloudy, not clear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73722.html](http://www.nuforc.org/webreports/reports/073/S73722.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Simsponville (SC) reported seeing craft that fit the description of some 'Changing' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Very Bright Light Moving Strangely in the sky over SimpmsonvilleThere was a bright light almost appeared as if it was a star~ I watched as it slowly moved around the sky staying in the general area and moving up and then down, then looked like another light circled it. Object then moved beyond the tree line where I could no longer see it. It then reappeared on 12/19/11 at 1:00am again and lasted another 20 mins.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85964.html](http://www.nuforc.org/webreports/reports/085/S85964.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/165/S165899.html)
-- [249](http://www.nuforc.org/webreports/reports/165/S165902.html)
-- [248](http://www.nuforc.org/webreports/reports/165/S165903.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161234.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161224.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
