@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:32 on 17 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:26 on 17 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Sunrise (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>SUMMARY:  We saw a comet like shape heading west to east very fast, Suddenly the comet tail dissapeared, than ignited twice then disapeared.On tuesday Dec 17 at 9:00pm my friend and I were on our way home from the sawgrass mills mall. In Sunrise Fl. The highway that we were on runs north and south.To the west is all Everglades, to the east is Sunrise, Up in the sky way way west we saw a comet shaped object moving west to east in an arc shaped motion.It looked like a blueish sphere with a reddish comet-like tail.It was way too high to see any real detail. The object was moving at an incredable rate of speed. Suddenly the comet tail went out and all you could see was the blue orb. When the UFO was over the road (still way to high to see detail) the tail"fired" twice, like some kind ofafte rburners.And was rocketed out of sight to the east ina matter of seconds, way faster than anything either of us had ever seen. My friend and I know alot about airplanes and this fits no description we could make. Planes appear to be moving slowly from afar, not this thing.We have absoultly no explanation for this.It !must have traveled 50 or 60 miles in the extent of 60 to 90 seconds.Please post this so I can find out if anyone else saw it. There were plenty of other cars on the road at this time. Thanks Dan This story also appears at http://mother.com/~green3/ufo/dan.htm</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01904.html](http://www.nuforc.org/webreports/reports/001/S01904.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Conway (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>The lights were kind of multiplying in what looked like a possible triangular pattern and then all of sudden disappeared.  They were yellow in color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144170.html](http://www.nuforc.org/webreports/reports/144/S144170.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/165/S165899.html)
-- [249](http://www.nuforc.org/webreports/reports/165/S165902.html)
-- [248](http://www.nuforc.org/webreports/reports/165/S165903.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161234.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161224.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
