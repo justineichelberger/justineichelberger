@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:25 on 17 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:31 on 17 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Beaufort (SC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 45:00 - 45:00 minutes.</sub><blockquote><sub>My wife and I went outside for a cigarette and saw a few green comets coming down.  She then drove out to check where they landed.  There were about 15 dual lighted objects hovering around about a mile from our house. We have a picture from her cell phone. I don’t know what they were, but it still haunts my dreams and thoughts at night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86834.html](http://www.nuforc.org/webreports/reports/086/S86834.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Fluvanna county (off rt 15) (VA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Driving from Richmond to Lake Monticello, 1/4 mile from intersection of rt 15 and rt 616 on riight, I onserved the following:  bright multicolor array of cilindrical shaped vertically positioned lights flashing and moving left to right, horizontally around somewhat oval shaped large object hovering  above trees about 100 yards from road.  Top and bottom of object were convex.  Top and bottom curved portions comprisedaybe 40- 50 % total size, the remaining 50% was lighted rectangular multicolored center portion of it. Top and bottom parts were  very brightly glowing white light. Object total size appeared 50 feet wide 30 feet high.  Appeared to jump several feet in different directions while remaining in same place and orientation.  Before suddenly disappearing. Wondered if someone might be attempting a hoax,  I Kept looking in area where object seen as turned right onto 616 and noticed a house with a few Christmas lights but it was well  below trees and  nothing! going on there.  Actual siting only lasted 2 or 3 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85959.html](http://www.nuforc.org/webreports/reports/085/S85959.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/165/S165899.html)
-- [249](http://www.nuforc.org/webreports/reports/165/S165902.html)
-- [248](http://www.nuforc.org/webreports/reports/165/S165903.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161234.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161224.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
