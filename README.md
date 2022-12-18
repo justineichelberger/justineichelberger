@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:26 on 18 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:25 on 18 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Dallas (OR) reported seeing craft that fit the description of some 'Other' over a period of approximately 13.0 - 13.0 minutes.</sub><blockquote><sub>I heard a strange noise, suffered a physical and emotional response to it, military jets "chased" it away.I was lying in bed listening to C2C AM on my AM/FM alarm clock-radio.  Suddenly, the radio signal was reduced to an annoying "buzzing/humming" noise.  I tried cranking the dial up and down on both AM and FM but to no avail.  While I was trying to acquire a signal, I began hearing a "whirring" noise in the ambient background.  Unable to find a radio station after several minutes, I gave up and turned my radio off--strangely enough, the digital numbers on my clock still worked and the minutes seemed to pass in a normal time-frame.  Once I had turned the radio off, the "whirring" sound became more prevelant.  As soon as I consciously thought about the "whirring" sound, I suffered migraine-like pain in my head.As I lay there massaging my temples I suddenly felt a sensation of absolute and total primal fear.  I wish I could describe it better but essentially, the part of my brain that warned my ancestors that they were about to be eaten by a saber-toothed cat fired off at full strength!  I knew that if I moved or turned on my lamp that something "bad" was going to happen to me--I've never been that afraid in my life.Maybe three minutes after the migraine ensued, I heard high-performance (military) turbines speeding through the sky at what I estimate to be less than 1,000 feet ASL.  As soon as the jets - I distinctly heard two aircraft - came over the town, the noise, the feeling of dread and the pain ceased immediately.  For the next few minutes, I heard the jets perform a hard climb and then all was silent.I am new to the area I live in and I don't know my neighbors, so I was reluctant to ask strangers about any experiences they may have had that night.  I am a University student, a security expert, and an aircraft enthusiast.  In general, I am fairly skeptical about UFO phenomenon and extra-terrestrials.  I hope this report serves to further your cause in some way.((NUFORC Note:  Date is approximate.  We do not know what the witness may have heard, or experienced.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34095.html](http://www.nuforc.org/webreports/reports/034/S34095.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Coronado (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>it flashed for three or four seconds and disapered.we saw it by the moon and it looked like a star but then moved and turned green. after about 3 seconds it was gone. since then orions belt looks brighter than normal and is glowing on and off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41178.html](http://www.nuforc.org/webreports/reports/041/S41178.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [242](http://www.nuforc.org/webreports/reports/165/S165905.html)
-- [241](http://www.nuforc.org/webreports/reports/165/S165893.html)
-- [240](http://www.nuforc.org/webreports/reports/161/S161223.html)
-- [239](http://www.nuforc.org/webreports/reports/161/S161237.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161238.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
