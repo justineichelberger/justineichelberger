@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:39 on 18 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:28 on 18 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Lehigh Acres (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Green orb over lehigh  My wife and I were on our way home wed. the 18th at about 12:30ish a.m. when something caught my eye in the sky. I was about to tell my wife to look when she says do u see that?   It started as a tiny green orb stationary in the night sky and proceeded to get bigger and brighter and grew in intensity.  It took off like a rocket to the west with a super long super flurecent green trail behind the super flurecent green orb. And as fast as it appeared it and it's trail disapeared. The night sky was clear that night with the moon being crecent and bright. This is the second time i've seen this.  The first time was about 20 years ago when i was a child on a vac trip to orlando going down S.R.31.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60448.html](http://www.nuforc.org/webreports/reports/060/S60448.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Waynesboro (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 100.0 - 100.0 minutes.</sub><blockquote><sub>Two different types: one that flashes ...it almost looks like a star that's really close that appears and disappears, moves up and down and from side to side, takes off at highly rapid speed, and sometimes they disappear they appear in a completely different location, they color it flashes it a whiteish blue look similar color of a star on flashes...also they flashes are not consistant...also a ray of light..a beam of some short came out the side of one and then instantly they mulitplied...there was 5 to start with and end up be to May to count be cause they would appear and disappear but I know I seen at least 10 or more all at one time flashing together.Second type: large golf ball to basket ball sized bright orange glowing orbs or fireballs..... they appeared 3 in row when I first saw them diagnally....they dimmed disappeared and then reappeared in a triangle....the disappeared and came back only this time there was 7 or 8 of them and formed a prefect circle in complete unison with one another...then scattered from the circle moving swiftly around, up down, side to side.....  Then all but a few would disappear and the ones still visible where completely still just dimming off and on  Myself and a family member witnessed this as we where enjoying a cigarette on my front porch.  We started to witness this at about 7:15 pm...  I do not where glasses or contacts my other witness does...  There was no noise coming from these and weather was cold but no wind...  There was no smoke coming from these lights so there for it didn't leave any trail..  Neither of us have been drinking or on any drugs!!!!  This was real what we saw and can't be explained!!!  This happened on 12/18/2013 at 7:15 pm in waynesboro, ga</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105446.html](http://www.nuforc.org/webreports/reports/105/S105446.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [242](http://www.nuforc.org/webreports/reports/165/S165905.html)
-- [241](http://www.nuforc.org/webreports/reports/165/S165893.html)
-- [240](http://www.nuforc.org/webreports/reports/161/S161223.html)
-- [239](http://www.nuforc.org/webreports/reports/161/S161237.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161238.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
