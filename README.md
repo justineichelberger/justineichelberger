@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:27 on 18 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:28 on 18 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately still active 12:35am - still active 12:35am minutes.</sub><blockquote><sub>flying stick, the ends of it brighter. Recorded eventlooks like an invisible drone?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165893.html](http://www.nuforc.org/webreports/reports/165/S165893.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Laguna Lachua National Park () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.43333333333333335 - 0.43333333333333335 minutes.</sub><blockquote><sub>big blue light ufo sightning over NATIONAL PARK LACHUA, GUATEMALA C.A.in the night we saw one circular blue light who get up from the lake and reach aprox.300 meters over floor and dissapear to the near mountains. this sightning were in GUATEMALA NATIONAL PARK LAGUNA LACHUA. COBAN BAJA VERAPAZ. CENTRO AMERICA.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26931.html](http://www.nuforc.org/webreports/reports/026/S26931.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [242](http://www.nuforc.org/webreports/reports/165/S165905.html)
-- [241](http://www.nuforc.org/webreports/reports/165/S165893.html)
-- [240](http://www.nuforc.org/webreports/reports/161/S161223.html)
-- [239](http://www.nuforc.org/webreports/reports/161/S161237.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161238.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
