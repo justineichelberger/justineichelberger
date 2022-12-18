@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:04 on 18 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:16:46 on 18 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in London (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>i was amazed and i stared and fixed on the image. just like other members in the hallbright light that moved in opposite directions extremely fast. it land out side ((name of school deleted)) and was seen by members of the community in the dinner hall</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15500.html](http://www.nuforc.org/webreports/reports/015/S15500.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Highland Park (NJ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I was up that night writing my Fling Article when suddenly an intense blue light shone through my window.  At once, I felt a feeling of deep calm and relaxation.  Almost as if guided by an invisible force, I walked out the door and stood on the grass, facing the three glowing spacecrafts hovering before me.  "Welcome!" I yelled, as the spacecrafts blinked at me.  Almost without noticing it, I began to float towards the craft until I was hovering before it's entrance.  The door opened as I hovered inside.  I then played cards with the Aliens and we bad breakfast together before we reluctanly bid eachother goodbye and went our separate ways.  The End.((NUFORC Note:  Anonymous report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15483.html](http://www.nuforc.org/webreports/reports/015/S15483.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [242](http://www.nuforc.org/webreports/reports/165/S165905.html)
-- [241](http://www.nuforc.org/webreports/reports/165/S165893.html)
-- [240](http://www.nuforc.org/webreports/reports/161/S161223.html)
-- [239](http://www.nuforc.org/webreports/reports/161/S161237.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161238.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
