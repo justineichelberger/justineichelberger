@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:16:46 on 18 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:26 on 18 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Highland Park (NJ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I was up that night writing my Fling Article when suddenly an intense blue light shone through my window.  At once, I felt a feeling of deep calm and relaxation.  Almost as if guided by an invisible force, I walked out the door and stood on the grass, facing the three glowing spacecrafts hovering before me.  "Welcome!" I yelled, as the spacecrafts blinked at me.  Almost without noticing it, I began to float towards the craft until I was hovering before it's entrance.  The door opened as I hovered inside.  I then played cards with the Aliens and we bad breakfast together before we reluctanly bid eachother goodbye and went our separate ways.  The End.((NUFORC Note:  Anonymous report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15483.html](http://www.nuforc.org/webreports/reports/015/S15483.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Caracas (Venezuela) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Dear gentelmen,  On Tuesday December 18, 2012, at 6:00 Hour Local Time here in Venezuela, I took a picture with an iphone from the balcony of my apartment located on the east side of Caracas to the mountain Avila, an unexpectedly we watched on the picture what looks like an UFO. (I am not a fanatic nor a UFO Hunter or a Sky watcher),  Though it seems to be an interesting issue.  Thank you for your attention.Note: Annexed the photo in two attachments both are the same picture but one of them (UFO 2) I added some light to it with”Windows Live Photo Gallery" ...Sincerely ((personal information deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95637.html](http://www.nuforc.org/webreports/reports/095/S95637.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [242](http://www.nuforc.org/webreports/reports/165/S165905.html)
-- [241](http://www.nuforc.org/webreports/reports/165/S165893.html)
-- [240](http://www.nuforc.org/webreports/reports/161/S161223.html)
-- [239](http://www.nuforc.org/webreports/reports/161/S161237.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161238.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
