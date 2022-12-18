@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:24 on 18 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:27 on 18 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Mountain View (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Light near moon slowly move away from itWhile driving car on San Antonio Rd, Mountain View, CA, I saw a star very near moon.  It was just north west side.  Since it was day time and being bright near moon and never see a star like that near moon, I was amazed and so showed it to my daughter and my wife.  My wife could not see it first, so we were pointing her to the direction to look we realized it was slowly faring away from moon, that made us very much amazed and we were constantly watching it without even taking our eyes from it.  About 5 to 7 minutes time it reached 1 to 1.5 meters away from moon, then disappeared all of a sudden.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144140.html](http://www.nuforc.org/webreports/reports/144/S144140.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately still active 12:35am - still active 12:35am minutes.</sub><blockquote><sub>flying stick, the ends of it brighter. Recorded eventlooks like an invisible drone?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165893.html](http://www.nuforc.org/webreports/reports/165/S165893.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [242](http://www.nuforc.org/webreports/reports/165/S165905.html)
-- [241](http://www.nuforc.org/webreports/reports/165/S165893.html)
-- [240](http://www.nuforc.org/webreports/reports/161/S161223.html)
-- [239](http://www.nuforc.org/webreports/reports/161/S161237.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161238.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
