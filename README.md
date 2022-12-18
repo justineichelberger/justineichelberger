@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:30 on 18 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:33 on 18 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Knox (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3:00am humming and craft for 5 minuteswas working on the computer i work midnights so i was awake right around 3:00to3:05 a humming whinding noise came from outside i slide on my shoe's and a coat think it was about 2 degrees that morning from straight above to about the constellation Casseopea short bursts of speed then an almost hover my neighbor from acroos the street came outside said he was awoken by a loud hum and his windows were shaken said his vcr started to rewind and it was off when I pionted out the object we stood there for about 1 minute 30 seconds then it shot the other direction and was gone you could hear the low humming rumble the entire time I noticed 6 different lights one from a different location then what we thought was the craft whiched seemed to follow the pattern of the first one.....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48432.html](http://www.nuforc.org/webreports/reports/048/S48432.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Laguna Lachua National Park () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.43333333333333335 - 0.43333333333333335 minutes.</sub><blockquote><sub>big blue light ufo sightning over NATIONAL PARK LACHUA, GUATEMALA C.A.in the night we saw one circular blue light who get up from the lake and reach aprox.300 meters over floor and dissapear to the near mountains. this sightning were in GUATEMALA NATIONAL PARK LAGUNA LACHUA. COBAN BAJA VERAPAZ. CENTRO AMERICA.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26931.html](http://www.nuforc.org/webreports/reports/026/S26931.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [242](http://www.nuforc.org/webreports/reports/165/S165905.html)
-- [241](http://www.nuforc.org/webreports/reports/165/S165893.html)
-- [240](http://www.nuforc.org/webreports/reports/161/S161223.html)
-- [239](http://www.nuforc.org/webreports/reports/161/S161237.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161238.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
