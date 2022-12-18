@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:23 on 18 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:22 on 18 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Prince Albert (Canada) (SK) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>location - Prince Albert date -dec 18th 2019 time -815 pm duration of the sighting -4 minutes behaviour of the object(s) four red lights appeared above the river like a string of diagonal lights strung across the river I continued driving a block till I could get along the river bank to see clearer then got out of my truck and watched them till they disappeared colour of the object(s) red with white shape of the object(s) round weather conditions -clear skies how you lost sight of the object(s)- pulled the truck down on the boat launch by the river got out of the truck lights didn’t move for a couple minutes two middle ones faded away the one on  the left moved upward to the left and faded away and the one on the right moved upward toward the right and faded away</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151724.html](http://www.nuforc.org/webreports/reports/151/S151724.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Snydersville (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub># strange lights seen over Rt 209/33 near Snydersville Pa3 spheres of light seen over Rt 209/33 near Snydersville Pa. Was NOT airplane or helicopter.  Front light moved slowly at first and stopped just above highway just before Snydersville exit on Rt 209/33. Lights were aligned from East to West, spaced about 1/2 mile to 1 mile apart.  There was no sound, and airplanes going in same direction near craft gave accurate size comparison.  I am an avid amateur astronomer, and these were NOT planets nor stars. I drove under the nearest one, the one furthest eastward.  I pulled off of Snydersville exit to get gas, and several people were observing the lights. At this time the light moved again.  I only observed the front one move, slightly to the south then quickly to the north, and then stop, and to my knowledge there are no (unclassified) aircraft that can do that, or make the maneuvers that it made.  What was the most unsettling and what took my attention the most is the lack of any sound coming from the craft. I was coming from Stroudsburg Pa when I first noticed these lights, and thought them to be airplanes or helicopters.  As I drove about 4 to 6 miles closer, I realized they were not. There were other craft in the sky, but I was able to correctly identify all of them as planes except for the 3 strange lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85937.html](http://www.nuforc.org/webreports/reports/085/S85937.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [242](http://www.nuforc.org/webreports/reports/165/S165905.html)
-- [241](http://www.nuforc.org/webreports/reports/165/S165893.html)
-- [240](http://www.nuforc.org/webreports/reports/161/S161223.html)
-- [239](http://www.nuforc.org/webreports/reports/161/S161237.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161238.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
