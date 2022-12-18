@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 18 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:25 on 18 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Laguna Lachua National Park () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.43333333333333335 - 0.43333333333333335 minutes.</sub><blockquote><sub>big blue light ufo sightning over NATIONAL PARK LACHUA, GUATEMALA C.A.in the night we saw one circular blue light who get up from the lake and reach aprox.300 meters over floor and dissapear to the near mountains. this sightning were in GUATEMALA NATIONAL PARK LAGUNA LACHUA. COBAN BAJA VERAPAZ. CENTRO AMERICA.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26931.html](http://www.nuforc.org/webreports/reports/026/S26931.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Runnemede (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 360.0 - 360.0 minutes.</sub><blockquote><sub>triangular crafts with bright lights and no soundWhile driving , there were two very bright lights that were extremely close , they were stationary for A while until we came to a stop sign.  Then they began moving over us.  They were triangular crafts with 3 bright white lights that formed a triangle.  Total silence. Throughout the rest of the night there were many of those same bright balls of light in the sky but more distant and couldn't tell the shape, but they moved back and forth glowing bright then dim, then bright again.   \I'm trying to find a logical explanation but it's impossible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105445.html](http://www.nuforc.org/webreports/reports/105/S105445.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [242](http://www.nuforc.org/webreports/reports/165/S165905.html)
-- [241](http://www.nuforc.org/webreports/reports/165/S165893.html)
-- [240](http://www.nuforc.org/webreports/reports/161/S161223.html)
-- [239](http://www.nuforc.org/webreports/reports/161/S161237.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161238.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
