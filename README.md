@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:54 on 18 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:24 on 18 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Clearwater (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO Sighting in Clearwater, FloridaI was looking in the sky at the stars when all of a sudden, what appeared to be a star began to move south. The lighted object was as big as a star appearing to be extremely high in altitude. It moved at a slow pace for about 20 seconds till it disappeared into the night. Around 4-5 minutes after my first sighting, myself and a friend were viewing the sky after i told him what i had observed, both of us were looking around the same spot in the sky when once again another lighted object started moving east at the same speed as the other object and was viewable for 1-2 min till it also disappeared into the night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54060.html](http://www.nuforc.org/webreports/reports/054/S54060.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Mountain View (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Light near moon slowly move away from itWhile driving car on San Antonio Rd, Mountain View, CA, I saw a star very near moon.  It was just north west side.  Since it was day time and being bright near moon and never see a star like that near moon, I was amazed and so showed it to my daughter and my wife.  My wife could not see it first, so we were pointing her to the direction to look we realized it was slowly faring away from moon, that made us very much amazed and we were constantly watching it without even taking our eyes from it.  About 5 to 7 minutes time it reached 1 to 1.5 meters away from moon, then disappeared all of a sudden.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144140.html](http://www.nuforc.org/webreports/reports/144/S144140.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [242](http://www.nuforc.org/webreports/reports/165/S165905.html)
-- [241](http://www.nuforc.org/webreports/reports/165/S165893.html)
-- [240](http://www.nuforc.org/webreports/reports/161/S161223.html)
-- [239](http://www.nuforc.org/webreports/reports/161/S161237.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161238.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
