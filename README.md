@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:36 on 18 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:23 on 18 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Rocky Mount (MO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Object with lights.The object my Mom and I saw was a large round object that had huge lights on it.Made absolutely no sound at all. All of a sudden it just vanished. We were not able to make out the true shape of the object the lights were just too bright.  Moving at a pretty pace.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41848.html](http://www.nuforc.org/webreports/reports/041/S41848.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Granite Falls (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Green fireball fell south and east of Granite Falls, WATraveling east on SR-92 I observed a large (approximately the size of a paper match head held at arm length) bright green fireball falling in an easterly direction to the south. I was 2 to 3 miles west of Granite Falls.The object was falling at approximately a 45 degree angle.  Object was ablating as it fell and 2 or 3 large pieces were seen breaking off of the main object. The fireball burned out approximately 30 to 40 degrees from the horizon. No sound was heard.Very similar in appearance to green fireball I observed on 11/5/03 though it was a lighter green and the sky was lighter.I expect there will be several reports since this fell during rush hour traffic.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33912.html](http://www.nuforc.org/webreports/reports/033/S33912.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [242](http://www.nuforc.org/webreports/reports/165/S165905.html)
-- [241](http://www.nuforc.org/webreports/reports/165/S165893.html)
-- [240](http://www.nuforc.org/webreports/reports/161/S161223.html)
-- [239](http://www.nuforc.org/webreports/reports/161/S161237.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161238.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
