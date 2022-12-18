@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:28 on 18 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:54 on 18 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Waynesboro (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 100.0 - 100.0 minutes.</sub><blockquote><sub>Two different types: one that flashes ...it almost looks like a star that's really close that appears and disappears, moves up and down and from side to side, takes off at highly rapid speed, and sometimes they disappear they appear in a completely different location, they color it flashes it a whiteish blue look similar color of a star on flashes...also they flashes are not consistant...also a ray of light..a beam of some short came out the side of one and then instantly they mulitplied...there was 5 to start with and end up be to May to count be cause they would appear and disappear but I know I seen at least 10 or more all at one time flashing together.Second type: large golf ball to basket ball sized bright orange glowing orbs or fireballs..... they appeared 3 in row when I first saw them diagnally....they dimmed disappeared and then reappeared in a triangle....the disappeared and came back only this time there was 7 or 8 of them and formed a prefect circle in complete unison with one another...then scattered from the circle moving swiftly around, up down, side to side.....  Then all but a few would disappear and the ones still visible where completely still just dimming off and on  Myself and a family member witnessed this as we where enjoying a cigarette on my front porch.  We started to witness this at about 7:15 pm...  I do not where glasses or contacts my other witness does...  There was no noise coming from these and weather was cold but no wind...  There was no smoke coming from these lights so there for it didn't leave any trail..  Neither of us have been drinking or on any drugs!!!!  This was real what we saw and can't be explained!!!  This happened on 12/18/2013 at 7:15 pm in waynesboro, ga</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105446.html](http://www.nuforc.org/webreports/reports/105/S105446.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Clearwater (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO Sighting in Clearwater, FloridaI was looking in the sky at the stars when all of a sudden, what appeared to be a star began to move south. The lighted object was as big as a star appearing to be extremely high in altitude. It moved at a slow pace for about 20 seconds till it disappeared into the night. Around 4-5 minutes after my first sighting, myself and a friend were viewing the sky after i told him what i had observed, both of us were looking around the same spot in the sky when once again another lighted object started moving east at the same speed as the other object and was viewable for 1-2 min till it also disappeared into the night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54060.html](http://www.nuforc.org/webreports/reports/054/S54060.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [242](http://www.nuforc.org/webreports/reports/165/S165905.html)
-- [241](http://www.nuforc.org/webreports/reports/165/S165893.html)
-- [240](http://www.nuforc.org/webreports/reports/161/S161223.html)
-- [239](http://www.nuforc.org/webreports/reports/161/S161237.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161238.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
