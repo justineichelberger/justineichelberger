@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:24 on 18 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:36 on 18 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Ainsworth (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>TRIANGLE OBJECTS HOVERING IN CORNFIELD.I went out to start my truck to let it warm up around 4am when i heard a low humming sound coming from around back of the house.  As i walked around back i seen 2 triangle objects with solid orange colored lights in the south cornfield.  These objects were approximately 300yrds out & were hovering approximately 150ft. above a small grove of trees.  The objects looked  to be about the size of larger personal airplane.  One of these objects had a blue-ish beam of light coming down from the middle of it that seemed to be tracing the outer edge of the tree line.  After about two minutes the objects started to rise straight upward then headed east approximately a mile then making what looked like a perfect 90% turn, headed straight back west at high rate of speed then vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105422.html](http://www.nuforc.org/webreports/reports/105/S105422.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Rocky Mount (MO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Object with lights.The object my Mom and I saw was a large round object that had huge lights on it.Made absolutely no sound at all. All of a sudden it just vanished. We were not able to make out the true shape of the object the lights were just too bright.  Moving at a pretty pace.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41848.html](http://www.nuforc.org/webreports/reports/041/S41848.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [242](http://www.nuforc.org/webreports/reports/165/S165905.html)
-- [241](http://www.nuforc.org/webreports/reports/165/S165893.html)
-- [240](http://www.nuforc.org/webreports/reports/161/S161223.html)
-- [239](http://www.nuforc.org/webreports/reports/161/S161237.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161238.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
