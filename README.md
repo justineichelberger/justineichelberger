@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:41 on 19 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:40 on 19 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Columbia (MS) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Object's light looks like a meteor falling in Earth's atmosphereI was going for a walk to the park, crossing the yard I saw a bright streak in the western sky, very far away. I first thought it was a plane, it may have been a plane, but it looked more like a comet or meteor. Like the one that was caught on tape some years back over a football field. Now I did not think it a craft, but It appeared to be going down in the harizion, in the western sky of mississippi.The tail seemed short for a plane, yet very wide since I could Not see the object. It was that far away.It may have been a comet, if it was not a plane.Oh it was going south to the north, downwards in the western sky of Mississippi. At about 4:45pm to 5pm, central time zine</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48382.html](http://www.nuforc.org/webreports/reports/048/S48382.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Pella (IA) reported seeing craft that fit the description of some '' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>while in hot tub, looking east saw object, bar or cigar shaped, traveling north to south  it veered off to south east speed like falling star   reappeared short time later traveling east to west and veered off to south west  this the second sighting,maybe months earlier color seemed to be dim but reddish</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85978.html](http://www.nuforc.org/webreports/reports/085/S85978.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/165/S165900.html)
-- [230](http://www.nuforc.org/webreports/reports/165/S165907.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161437.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161289.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161240.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
