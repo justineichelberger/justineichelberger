@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:23 on 19 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:46 on 19 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Venice (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Saw 15 or more red UFO.s over Venice Florida moving over the Gulf of Mexico.Saw approx. 15 or more ufo,s moving east to west over Venice Florida around 20:00 8pm. Their color was red only, moving against a cold front very slowly and not very high in the sky. No other lights or sounds were noted.  Watched the red ufo,s for about 20 or 30 mins moving to the west to the Gulf of Mexico.  Three other people watched with me, we all asked, "What is that?".  They were moving in the clouds against the wind and we were only able to see the red lights when they were out of the clouds banks.  Again there was no sound and no other lights as a plane would have. It was odd that they were moving so slow in rows of two, one higher than the other as the UFOs pasted by heading to the Gulf of Mexico.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105524.html](http://www.nuforc.org/webreports/reports/105/S105524.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Ponte Vedra Beach (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Orange balls of light, blinking, drifiting in formations.I was driving (at 10pm, Saturday, December 19th, on Solana Road (west) in Ponte Vedra Beach, Fl.  I looked up at the moon, and to the right I noticed a large group of orange lights.  I noticed that a group of maybe 5 lights were in a perfect, straight line.  Another group were grouped together like a triangle, and about 10 others were just spread out randomly.  Sometimes they were blinking, and sometimes disappearing.  After disappearing, they would reappear.  There were no other lights on them anywhere.   Some moved quickly around the others that were just drifting.  I pulled over and watched for a few moments, trying to get a video.  Nothing would show up on my phone so I drove home.  I told my boyfriend, and we drove back down the road and he was able to see about 3 of them coming up over a golf course.  Then they just disappeared.  Very strange.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124789.html](http://www.nuforc.org/webreports/reports/124/S124789.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/165/S165900.html)
-- [230](http://www.nuforc.org/webreports/reports/165/S165907.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161437.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161289.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161240.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
