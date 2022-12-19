@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:46 on 19 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:37 on 19 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Anchorage (AK) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.6666666666666665 - 2.6666666666666665 minutes.</sub><blockquote><sub>4 red silent crafts flying from North to South with no flashing airplane lights.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131815.html](http://www.nuforc.org/webreports/reports/131/S131815.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Sterling Heights (MI) reported seeing craft that fit the description of some 'Flash' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Many flashing objects moving in an oval pattern at high speeds.It was about 8:00 pm when my neighbor called me on the phone. He explained that there were light in the sky, I rushed upstairs and ran outside. The objects were faint, there were approximately ten to twenty objects moving in a circular motion. The objects flashed very slowly, the traveled at an extremely fast rate, like nothing I have ever seen. I didn’t notice any clouds or smoke, but at times; some of the objects had a trail behind them.  The objects danced around the sky for about ten to fifteen minutes. There was no aircraft or power lines in the vicinity. Nothing that would create a pattern like this. There wasn’t anything between the objects, and me but there were light clouds. I was wearing my glasses at the time, which had been recently cleaned, I tried viewing the objects with and without the glasses, and I saw the same objects. I wasn’t wearing any headphones at the time, the objects were silent. I’m not on any prescription drugs, nor was I consuming alcohol. The sighting concluded around 8:10 or 8:15. (Eastern)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60427.html](http://www.nuforc.org/webreports/reports/060/S60427.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/165/S165900.html)
-- [230](http://www.nuforc.org/webreports/reports/165/S165907.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161437.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161289.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161240.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
