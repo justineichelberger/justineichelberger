@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:22 on 18 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:39 on 19 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Oak Island (NC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>At approximately 7:00p.m, I thought I saw a strange light in the sky over the ocean through my window.  I grabbed my glasses and went out onto our porch, which faces the ocean to the south.  Whatever light I had seen was no longer visible but I noticed some small white lights blinking very fast and moving at what appeared to be extreme rates of speed.  The lights would sometimes appear to be chasing each other and other times seemed to be moving in unison.I knocked on the window and my husband came outside and watched with me.  We saw as many as ten of these lights at any given time and they would sometimes blink, sometimes the light would be steady and then they would just disappear.  The ocean was very calm and we would have been able to hear jet sounds, but there were none.  After a few minutes of this, we saw a very bright orange light appear, which hovered for several seconds before disappearing.  This happened about 3 more times, all the while the white lights were continuing to blink and jump around.  We then heard a loud rumble like a fighter jet and after that that it was quiet again and all the lights seemed to cease.  This event lasted about 15 minutes.We went back inside, but after about 10 minutes I went back out to look again.  I began seeing the blinking white lights again, and occasionally heard the jet sounds.  My husband came back out and again we saw the orange lights only this time multiple appeared at one time and one of them split into about six lights in a straight line at an angle.  This happened two more times, after which the white lights had moved further away and to the west before disappearing altogether.  This second event lasted about 10 minutes.I would like to note that we have seen this same phenomenon, or parts of it, on several occasions from this same location.  I would really like to know what it is we’re seeing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144148.html](http://www.nuforc.org/webreports/reports/144/S144148.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Point Harbor (NC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>14-16 lights moving in different directions but made 90 degree turns.Witnessed 10-16 lights when while on the bridge at 17:04 only caught 2 with my camera while driving.  The lights came down like something burning up in the atmosphere but then they made 90 degree turns. The lights made different movements. No sound from air craft, weather was clear and this occurred at dusk. The lights disappeared at different times. Whole event a few minutes I pulled after the bridge I pulled off the road and captured the remaining two lights.  The light was consistent throughout could not make out any objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151885.html](http://www.nuforc.org/webreports/reports/151/S151885.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [242](http://www.nuforc.org/webreports/reports/165/S165905.html)
-- [241](http://www.nuforc.org/webreports/reports/165/S165893.html)
-- [240](http://www.nuforc.org/webreports/reports/161/S161223.html)
-- [239](http://www.nuforc.org/webreports/reports/161/S161237.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161238.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
