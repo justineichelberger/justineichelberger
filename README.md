@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:15:20 on 19 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:25 on 19 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Heber Springs (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Very bright, extremely fast, and silentIt happened Friday December 19th , 2008.  It was 6:25 AM.  I could only make out one very bright light.  It looked like a giant star, with one exception.  It was moving extremely fast.  It was traveling north east in an arc pattern.  Judging by the speed and brightness it was close, but it made no sound.  It traveled from one horizon to the other in about 45 seconds to 1 minute.  I’ve never seen a ufo before.  Maybe it was just a plane, but if it was, I don’t believe it’s any plane the public is aware of. Plus, the light was constant.  It never blinked or fluttered.  Any plane I've ever seen before has had blinking multicolored lights.Later that aftenoon, I also noticed alot of fighter jets in the area.  That seems pretty odd to me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67557.html](http://www.nuforc.org/webreports/reports/067/S67557.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Eads (TN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 32</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161445.html](http://www.nuforc.org/webreports/reports/161/S161445.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/165/S165900.html)
-- [230](http://www.nuforc.org/webreports/reports/165/S165907.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161437.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161289.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161240.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
