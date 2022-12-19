@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:34 on 19 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:33 on 19 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Winston-Salem (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3:00 - 3:20 p.m. - 3:00 - 3:20 p.m. minutes.</sub><blockquote><sub>100's of round blobs or circles, clear or silver, shiny, color change to red or blue and back hovering over & around tower.Well, here we go again. This is my second sighting this year. My granddaughter and I stopped at Wendy’s on Reynolda Rd. in Winston-Salem, NC. While I was accessing my Wendy’s app for coupons, she said, “Grandma what are those things up there?” I looked out my right passenger window and looked up. Above and around the very tall cell tower behind Wendy’s were what seemed like hundreds of round blobs moving all around but they stayed in the same area. We got out the car for a better look. They seemed clear or silver colored, but shiny. Some turned red and some turned blue. A few even changed shape to have a tail or something pointing behind, or in front. of them. They were not up very high in the sky, at least no further than the cell tower. They were definitely round before shifting shape. We tried to capture videos from my cell phone, but when we looked through the camera you could not see them. (After we got home I checked the videos on my phone and you coul! d make out a few of the objects.) After about 20 minutes, the group of objects moved to the right of the sky but at the same height level. They seemed to just disappear after that. I do not know how huge the objects would be on ground level. But clearly they were large. Some would move towards each other and then pull back. This time my granddaughter saw them first and brought them to my attention. The last time I brought the UFSs we saw to her attention (reported on this site). It was almost like when you blow out a bunch of bubbles at one time (but many more) except bubbles do not stay at one level, they either float up and then burst or fall down and burst or touch each other and burst or cling to each other and then burst. I reviewed this writing with my granddaughter, and she confirms it is an accurate depiction of what we both saw. She said, Grandma we have got to get a real camera if we keep seeing these things.” I agree.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151735.html](http://www.nuforc.org/webreports/reports/151/S151735.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Appomattox (VA) reported seeing craft that fit the description of some '' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Line of lightsIt was a line of 5 lights moving in formation then standing still they the lights separated</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151737.html](http://www.nuforc.org/webreports/reports/151/S151737.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/165/S165900.html)
-- [230](http://www.nuforc.org/webreports/reports/165/S165907.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161437.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161289.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161240.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
