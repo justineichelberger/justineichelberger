@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:38 on 19 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:41 on 19 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Kansas (location unspecified) (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>What I thought was a helicopter made no noise as it flew over my car.It was late at night and I was driving alone across Kansas on my way to California.  I saw what appeared to be an auto accident on the left side of the two lane highway and off a ways into a farm field.  I didn't stop to help because there was enough activity by the scene.  Maybe ten minutes later I witnessed what I thought was a helicopter coming down the highway towards me, shining a light down onto the roadway.  I thought it was a medivac unit going to evacuate accident victims.  As the low flying craft approached and went over and past my car, it made no noise.  I remember looking into my rear view mirror and saying out loud, "why didn't that thing make any noise, what the heck is that thing."   Interestingly, I forgot about the incident until at least 6 years later. Somehow the memory came back to me during a discussion about ufo's with my son.  It's sort of like remembering a dream and not remembering something that actually took place.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52107.html](http://www.nuforc.org/webreports/reports/052/S52107.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Columbia (MS) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Object's light looks like a meteor falling in Earth's atmosphereI was going for a walk to the park, crossing the yard I saw a bright streak in the western sky, very far away. I first thought it was a plane, it may have been a plane, but it looked more like a comet or meteor. Like the one that was caught on tape some years back over a football field. Now I did not think it a craft, but It appeared to be going down in the harizion, in the western sky of mississippi.The tail seemed short for a plane, yet very wide since I could Not see the object. It was that far away.It may have been a comet, if it was not a plane.Oh it was going south to the north, downwards in the western sky of Mississippi. At about 4:45pm to 5pm, central time zine</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48382.html](http://www.nuforc.org/webreports/reports/048/S48382.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/165/S165900.html)
-- [230](http://www.nuforc.org/webreports/reports/165/S165907.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161437.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161289.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161240.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
