@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:38 on 19 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:43 on 19 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Milpitas (CA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>appearing and reappearing lights. moving side to sideFirst seen 2 floating object that were flashing red, white, blue, and green. They were not moving like a plane, but side to side and vertically up and down. They were also morphing. Then out of no where, there was a sudden bright amber light that formed a triangle with the other 2 objects. This one was moving the same way but much faster. It seemed to get closer and closer to us. It almost seemed to be following us out of the hills. Once we got to the bottom of the hills, it disappeared. On the way back home, we noticed an amber light on our right side bouncing up and down, and left and right, but not moving anywhere. Shortly after watching that light 2 government planes(low profile planes, very secretive like, one strobe light per plane)were headed towards the light. The light just disappeared, but reappeared on our left side(many many miles apart) in like a second.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67554.html](http://www.nuforc.org/webreports/reports/067/S67554.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Santa Fe (NM) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>UFO floats over, truck stops, distributor is stuck to inside of roof, magnetized.I was driving on 84-285 from near the opera to Santa Fe.  On my right, above my head, coming from the Los Alamos area, appeared the biggest thing I had ever seen in the air.  It "floated" right over me, from the passenger side to the drivers side and kept going.  It was totally silent but  had a luminescence.  As it went over me, my old (real sheet metal) Ford truck stopped.  I turned off the radio, which was still working.  The truck would not restart.  I had to call a tow truck.  My cell phone worked.  The next day I called my long-time mechanic ((name deleted)) and asked him what was wrong.  He said to call the next day.  The next day he told me"You've got to come see this to believe it.  I've been a mechanic for 40 years and I've never seen this happen."  I went down to the shop.  He said "I've seen distributor caps crack, but I've never seen an entire distributor pulled out and exploded."  He opened the hood, and there, magnetized, and stuck to the inside top of the hood, were the pieces of my distributor!  He asked "How did this happen."  I said "((name deleted)), you don't want to know!"((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32357.html](http://www.nuforc.org/webreports/reports/032/S32357.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/165/S165900.html)
-- [230](http://www.nuforc.org/webreports/reports/165/S165907.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161437.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161289.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161240.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
