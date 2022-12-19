@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:25 on 19 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:25 on 19 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Eads (TN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 32</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161445.html](http://www.nuforc.org/webreports/reports/161/S161445.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Santa Paula (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Silent orange lights in the skyAbout 30 Orange lights with no sound floating above Santa Paula, Ca.  Followed by more orange lights.  They Disappered into thin air.  The lights were the same size as a helicopter's light.  I say that because I saw a helicopter flying beside them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105465.html](http://www.nuforc.org/webreports/reports/105/S105465.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/165/S165900.html)
-- [230](http://www.nuforc.org/webreports/reports/165/S165907.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161437.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161289.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161240.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
