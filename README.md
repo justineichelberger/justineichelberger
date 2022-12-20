@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:31 on 19 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:35 on 20 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in White Lake (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 1:20 - 1:20 minutes.</sub><blockquote><sub>Helicopter Pursues two lights over White Lake, Michigan at high speedAt approximately 18:45 traveling east on M59 in White lake Township, two lights, one white and a smaller light more of an orange color fly overhead of traffic followed by a helicopter. I’m not sure what size the lights were in relation to the helicopter but the larger white light was maybe half the size of the chopper. I thought the crafts were a formation of some sort but the orange light traveling next to the other larger light threw me off, because there were no blinking lights and no usual shape I could make out of the two. all three craft were traveling at high speed and after the trio started getting further ahead I notices that the orange light was getting smaller and fainter, it wasn’t visible at all after about 30 seconds after the initial contact. I could still see the blinking chopper lights still chasing the brighter white light until they both exited my frame of view. I wouldn’t have thought anything of the sighting if the small orange orb didn’! t dissipate out of nowhere, it didn’t make sense.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151741.html](http://www.nuforc.org/webreports/reports/151/S151741.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Feeding Hills (MA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>It was high in the sky shooting over Provin mountain, it was bright red with a red trail.  As it shot over the mountain it appeared to &It was high in the sky shooting over Provin mountain, it was bright red with a red trail.  As it shot over the mountain it appeared to "burn out" but it was clear like a shooting star not a flare.  It blinked twice as it shot across then it disappeared all together.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107445.html](http://www.nuforc.org/webreports/reports/107/S107445.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/165/S165900.html)
-- [230](http://www.nuforc.org/webreports/reports/165/S165907.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161437.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161289.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161240.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
