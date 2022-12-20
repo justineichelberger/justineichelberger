@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:34 on 20 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:35 on 20 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright lights hoveringThere were 2 bright lights in the sky hovering then suddenly vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151783.html](http://www.nuforc.org/webreports/reports/151/S151783.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Trenton (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>My friend and I were coming home from seeing The Green Mile when I noticed a brilliant light changing colors in northern sky.On Dec. 20, 1999 at approx. 11:30 P.M. Central standard time my friend and I were on our way home from seeing The Green Mile in O'fallon, Il when I noticed a brilliant light in the northen sky.  The object was stationary changing from white to green to yellow to blue rapidly.  This went on for about 3-5 minutes when I was telling my friend that I had seen something like this a few years ago around Tuscola, Il.  About that time tha object just disappeared.  Both of us saw the object changing colors and disappearing.  I am a 25 year old white male with a B.A. in Psychology. I was raised in a home with two parents who own the buisness I am currently employed by.  The other witness ha sbeen a friend if mine for 11 years, he is a 22 year old college student.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11467.html](http://www.nuforc.org/webreports/reports/011/S11467.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161265.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161250.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161269.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161247.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
