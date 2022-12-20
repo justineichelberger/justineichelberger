@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:23 on 20 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:34 on 20 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Downey (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Bright light, brighter than any star in the sky fades out of view in an instant.I was washing my car at the time while on the phone. I look up to see a bright light, brighter than any star in the sky stay in one spot for a second then fade away.  I did not see any movement or pulsation, just the fading out.  It was a lone, white light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151985.html](http://www.nuforc.org/webreports/reports/151/S151985.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Decatur (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>During a raging snowstorm, I saw a dark object flying at about 5 MPH in the middle of the road between the trees, using a bright searchlight to nagigate. There was no noise. It was heading north & was probably heading towards the Clinton Nuclear Power Station, that had just been built. It was flying very low, just over the cars (which were many). It could NOT have been a helicopter or other conventional aircraft for several reasons. ONe fact was that the snowstorm was raging. The wind was blowing very, very hard, & each flake of snow would hit out windshield about the size of a 1/2 a dollar. No conventional aircraft could have been flying in that weather. Two, it had no wings or helecopter blades because they would have hit the trees that overhung the 4 lane street. It was using a very large, very bright searchlight. It had to be some kind of Carbon-arc light because of the brightness of the spot it prodiced on the pavement. It seemed to be using the light to nevigate. It was moving about 5 MPH at an altitude of approximately 15 feet above the pavement. I was sitting at a red light. When the light changed to green, I continued driving (south) again & it flew right over out heads.  & because I was in the center lane, I was unable to turn around right away to follow it. I finally was able to maneuver to the left lane & turn around 2 blocks later. By then it was gone. Illinois Power had just finished building a Nuclear Power station in Clinton. I figured that was where it was going, but there was no evidence to substantiate that. Because of the raging snowstorm, I gave up the chase. Dates are approximate. I was working at ((deleted)) TV as a ((employee)) at the time. For fear of retaliation, I was reluctant to come forward openly, but I did share this with many of out friends. My wife (fience at the time) was with me at the time & was as suprised as I was at this event.((NUFORC Note:  Date is approximate, but could be corroborated from weather reports at that time.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33669.html](http://www.nuforc.org/webreports/reports/033/S33669.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161265.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161250.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161269.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161247.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
