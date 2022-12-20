@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:32 on 20 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:23 on 20 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Newark (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Rolling strobe lights over NewarkWe were driving down the highway about 10 miles west of Newark heading east.  We spotted two very bright (but off white) round lights very close together in the sky.  It alarmed us because it looked nothing like any airplane lights we'd ever seen.  It seemed to be barely moving.  All of the sudden, the lights went out and bright strobe type lights started rolling in a pattern from left to right (about 10 lights).  The speed accelerated and we couldn't keep it in our site for long as it zipped across the sky.  It was dark and we were driving so we could not make out a shape....only lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79317.html](http://www.nuforc.org/webreports/reports/079/S79317.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Downey (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Bright light, brighter than any star in the sky fades out of view in an instant.I was washing my car at the time while on the phone. I look up to see a bright light, brighter than any star in the sky stay in one spot for a second then fade away.  I did not see any movement or pulsation, just the fading out.  It was a lone, white light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151985.html](http://www.nuforc.org/webreports/reports/151/S151985.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161265.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161250.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161269.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161247.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
