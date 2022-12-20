@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:34 on 20 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:24 on 20 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in San Tan Valley (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red orange flickering strobe lights in San tan valley sky 12/20/13 8:30pm8:30pm Friday went out in my backyard and noticed one huge red ball of light in sky,then changed turned a orange color light flickering, than ran in to grab phone and I see 4 more appear!  All 5 red orange flickering strobe lights forming a straight line then as it was going toward up slowly flickering dimming and disappearing.  Was amazing!!!  All caught on video from start to end.  No noise whatsoever...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105475.html](http://www.nuforc.org/webreports/reports/105/S105475.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Fairbanks (AK) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>A Cluster of Fixed White Lights Hovering Over Fairbanks Alaska is Seen From Wal~Mart.Memory is fuzzy.  However, I think it was about 5 - 8 PM after work, sometime between December 2004 to January 2005.  I had just finished work at Wal~Mart and myself and another coworker were warming up our vehicles getting them ready to leave for home.  We both noticed a cluster of white balls of light in the sky to the South of us.  We conversed a little bit about it and concluded that it must have been an Airplane coming in to the Airport.  Our location is at the East end of Airport Way.  The Airport runway is at the West end of Airport Way.  We assumed that it was an Airplane preparing to land coming in from the East.  It was moving slowly.  The Lights seemed Fixed.  In other words, if a person were to measure the distances between the lights during the 15 - 30 minute period I observed the phenomenon they would have stayed at a constant in relation to each other.  So the cluster of lights seemed to be from one solid structure.  There was no noise.  It was a crystal clear night with temperatures well below freezing.  After we determined it was an Airplane I got in my car and drove home.  My home was to the south so I was able to watch it as I drove home.  At the time I arrived at my appartment I went inside and then went out onto the balkcony.  The object was still there and had not moved as fast as I would believe an airplane would coming into the Airport.  I began to realise that it was not an airplane.  It was just moving to slow for it to keep itself up.  I watched it for a short period of time and further concluded that it was something conventional that I was not used to.  Having some understanding of Government, Military, and Area 51 Research I thought it was of no concern of mine and that even if it was a UFO it would only be another video tape of Balls of light against a Night Sky.  I did notice that it seemed to be larger than a Conventionsl Airline Aircraft.  However, there were too many variables to make any opinion of what it was.  But there was definitely something there, whether it be conventional or non conventional air or  space craft.Later my coworker agreed that he thought it was a UFO and not an Air Craft.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46986.html](http://www.nuforc.org/webreports/reports/046/S46986.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161265.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161250.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161269.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161247.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
