@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:53 on 20 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:19:23 on 20 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Columbia (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Greenish blue lightWhile driving in rain, we saw a bolt of lightning.  Within 2 seconds we saw the horizon light up with  blue and green light.  One solid color, all sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95366.html](http://www.nuforc.org/webreports/reports/095/S95366.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>December 20, 2007 at 10:06 P.M. in thick fog a tiangle box shaped air craft was seen over the Mississippi River in South St.Louis City.We were driving north on highway 55 in south St.Louis City on 12/20/07 at 10:06 P.M., it was super foggy that night. We looked east toward the Mississippi River, the highway is about 70 feet above the river on a sloping bluff. We saw three lite blue lights at each point of a dark triangle box shaped air craft. The triangle shaped air craft was traveling north following at a height of about 500 feet above the Mississippi River at about 48 knots/hr.. The craft seemed to be following the the river, but then dipped slightly to it's right and turned north/east over the river and disappeared in the thick fog. There was no sound that we could hear. The triangle shaped craft seemed to just float in the fog like a gost ship at sea.  We seen the craft for only a duration of 10 sec., but it was real.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60445.html](http://www.nuforc.org/webreports/reports/060/S60445.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161265.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161250.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161269.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161247.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
