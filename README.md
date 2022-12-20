@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:39 on 20 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:40 on 20 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Dhubri (India) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A BIG BRIGHT RED LIGHT SEEN IN THE SKY, CHANGED ITS SHAPE, AN UFO.YESTERDAY, WHEN ME AND MY HUSBAND, WENT FOR SHOPPING IN THE EVENING,  AS WE ARE RETURNING HOME, WE NOTICED A VERY BRIGHT AND BIG RED LIGHT IN THE SKY IN THE EAST,  AT FIRST WE THOUGHT THAT IT MIGHT BE SOME TOWER LIGHT.  THEN SUDDENLY ,  IT MOVED AND ITS SHAPE WAS THEN LIKE NEW MOON, THEN HALF MOON, THEN AGAIN NEW MOON AND IT IS GONE.  WE WERE VERY SHOCKED.  WHAT WAS IT?  AN UFO !!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116124.html](http://www.nuforc.org/webreports/reports/116/S116124.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in Las Vegas (60-70 miles north-east of, Interstate 15 North) (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>SUMMARY:  Viewed pairs of red strobing lights extended across wide area of Nevada desert and watched as two F-15 fighter aircraft tried to intercept light formation.On December 20, 1989 I and two co-workers were on our way to Aspen,CO. We were driving a 24Ft. rental truck loaded with items for our employer's winter home.We were approximately 60-70 miles north-east of Las Vegas when we heard cargo in the rear of the truck shift. I pulled over to check the cargo and found everything secure. We all took this opportunity to stretch our legs and while facing away from the highway and looking in a southerly direction,I noticed six pairs of strobing red lights. They were located on a east-west plane and seemed to be evenly spaced. A large mountain stood in the distance andI later learned that it was Virgin Peak. What caught my attention readily was the very slow strob speed of the lights. I looked for other color patterns and none were visable. It is almost impossible for me to determine distance or height of objects, and no shape patterns were visable due to impending sunset.There was no noticable noise at the onset of sighting. After viewing objects for approximtely 2-3 minutes we noticed the sound of jet aircraft. Suddenly from a north-west direction two F-15 fighters flew over at a tremendous rate of speed. I would estimate that they were flying at approximately 500 feet and as they passed the ground reverberated with the sonic boom. We all watched in awe as the pairs of red strobbing lights moved tremendously fast to the east and suddenly in unison changed course to the south-east and raised altitude until they vanished. This all took place within a matter of seconds, and the pursuing fighters had no chance what so ever to catch these objects. This was truly a hair-raising experience for all of us and we did not waste any time in exiting the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01959.html](http://www.nuforc.org/webreports/reports/001/S01959.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161265.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161250.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161269.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161247.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
