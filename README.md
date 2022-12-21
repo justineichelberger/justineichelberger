@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:47 on 21 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:21 on 21 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Peru () reported seeing craft that fit the description of some 'Disk' over a period of approximately 1:53 - 1:53 minutes.</sub><blockquote><sub>Flying saucer landed near a gas station.Flying saucer surrounded by other light objects was video-recorded landed near a gas station outside Piura, in the north of Perú.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152848.html](http://www.nuforc.org/webreports/reports/152/S152848.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Stevensville (MI) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Yellowish Diamond shaped object with a distinct line right down the middle.While walking the dog me and my wife witnessed a diamond object in the Verizon in a fixed position for around 40 minutes to an hour.  The object slowly sunk into the Verizon app where we cannot see it anymore, it appeared to be hovering over Lake Michigan.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152027.html](http://www.nuforc.org/webreports/reports/152/S152027.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
