@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:29 on 21 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:34 on 21 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Two white lights that looked like stars followed by a third that moved away at a rapid speed.I was driving home from work early in the morning and I saw two bright lights in the sky about two hundred feet apart.  At first I thought that they might me starts but they seemed too low and too bright and they seemed to hover and move slightly. Out of the corner of my eye I saw what looked like a shooting star but when I looked at it, it was the same shape and size of the other too lights and it moved extremely fast, faster that any thing I have ever seen.  When it was gone I watched the other two lights closely until I made it home.  They seemed to glow now and then and turn orange. I kept thinking that they must be starts but I have never seen stars that did this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85985.html](http://www.nuforc.org/webreports/reports/085/S85985.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Phoenix (Ahwatukee) (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>9 orange lights seen in Phoenix, Arizona 12-21-122nd message left to you from this site:  Four of us were taking turns looking at Jupiter thru a telescope on the evening of Dec. 21, 2012 in Ahwatukee (Phoenix), Arizona.  While waiting for my turn, I saw 9 orange lights in the distance coming at us from the SE horizon.  It looked like they were all traveling at the same speed. Thinking that maybe they were planes waiting to land at Sky Harbor, we noticed they were NOT in formation, they were orange and the other moving objects in the sky were planes.  These 9 objects were not planes and appeared as orange lights, shape unknown.  Then suddenly one light just blinked out, then another, and another until they were all gone.  My son was able to capture these lights on his cell phone camera and recorded each light as they went out. I can send it to you, if you want.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95704.html](http://www.nuforc.org/webreports/reports/095/S95704.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
