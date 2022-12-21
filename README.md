@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:33 on 21 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 21 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Streaking Bright Flash Witnessed over Portland OregonI am on the fence as to what was witnessed by my brother and I.  Around 17:30hrs (+/- a few minutes or so), sitting in the living room of my brothers home, my brother and I more or less faced the north-facing window.  All the sudden a bright white flash occurred.  The flash seemed from our perspective, to move from our right, to our left, at a extremely high rate of speed.  The line of sight from where we were looking from, to the general area of the flash in the sky, seems to be somewhere between 25' to 35' degrees up, illuminating through the trees that stood between the flash and where we were sitting at the time.  Trees vary between coniferous and deciduous, with intermittent uninterrupted lines of sight periodically.  We both agreed that the flash originated beyond the aforementioned trees at an unknown distance.We suspected most likely, it was a meteor flash.  But, it did seem slightly odd even for a meteor flash, so I feel this should at least be archived.  We both agree that we saw the exact same event, in exactly the same details upon comparison, to the best of my knowledge.  We monitored the local news for anything related to what we witnessed, which amounted to nothing by the next following morning.More likely, may have been a meteor flash.  But, feel unexplainably compelled to document this event, as this report may prove to be a useful reference for some type of research in the future.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105486.html](http://www.nuforc.org/webreports/reports/105/S105486.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Tunkhannock (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>hovering craft takes off quickly, loss of timeI went for my morning jog, when I saw this strang light. There were three lights. They just hovered in the air for about 1 minute. Then the lights went out, and in only 4 or 5 seconds the dark object cleared the intire distance of the sky. When I arived home I became shocked to find that I had lost ten extra minutes.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26856.html](http://www.nuforc.org/webreports/reports/026/S26856.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
