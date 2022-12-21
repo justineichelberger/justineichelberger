@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:33 on 21 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:44 on 21 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in North Attleboro (MA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Outline of the craft clearly seen, rotating lights, no noise, slowly moving southThe object was seen by my entire family.  The sky was very clear and we could see the object above a neighbors house, it was moving to the South.  It made no noise, had white lights that rotated around the sphere clockwise.  We could see the shape of the object against the black sky.  My brother and three friends followed the object to a  road outside of Providence. It stopped and they stopped.  It was directly above them and they could clearly see hyroglyphic-type writing on the shiny metalic surface - they were that close!  My brother took pictures and the object began to move again.  They were terrified and returned home. Only he was actually gone for hours longer than they can account for.  He won't talk about any of this to anyone.  He pretends it didn't happen but my family and I know what we saw! When the film was developed, all non-UFO  pictures developed normally but the UFO photos were all overexposed yet he used no flash and the pictures were taken at night.  Quite a few others saw this UFO that evening and everyone I have spoken with agrees with my description.  An investigator (from where I don't remember) came to our house and spoke with everyone individually and we drew pictures of the object.  I haven't seen one since but I check the skys nightly!((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15465.html](http://www.nuforc.org/webreports/reports/015/S15465.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Costa Mesa (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Oval shaped, brightly lit, moving slowly.Spotted bright oval shaped craft moving north to south slowly in the morning.  From My point in Costa Mesa, it looked to be over Santa Ana, or Tustin.  About 6 or 7 miles from me.  Brightly lit, not moving fast.  Went behind a low hanging cloud.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124791.html](http://www.nuforc.org/webreports/reports/124/S124791.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
