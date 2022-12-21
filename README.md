@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:04 on 21 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:16:48 on 21 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Keaton Beach (FL) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>High-speed flashing objectsI saw 2 flashing objects appear over the Gulf then one chased the other at great speed towards shore where they then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105484.html](http://www.nuforc.org/webreports/reports/105/S105484.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Franklinville (NJ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3-4 - 3-4 minutes.</sub><blockquote><sub>Orange fireball splits in two and then disappears over Franklinville, New JerseyAs I walked down the driveway I looked at the sky across the street over an open field, I saw an orange fireball  slowly streak across the sky.   It moved slowly.  A lot slower than any meteor/shooting star I've ever seen.   It moved laterally heading north and didn't appear to be falling.	I couldn't tell the distance from myself to the fireball.  The only thing that I have to judge the hieght of the fireball from my vantage point, is the tree line directly across the street from my driveway.  Those trees are about 30-35 feet high and the fireball was about 30-35 feet above them, but over the field behind them.  The field is to the left of the tree line.  I will attatch a picture of my vantage point in daylight.	 There was definitely some sort of smoke or heat trail behind it.  I couldn't really tell what it was but it looked like a thick plume.  The fireball lasted about 2 seconds and then it appeared to split in to two pieces.  It looked like one behind the other.  They both seemed to have kept the same altitude and color.  Once it went out, I could not see any visible trail or anything.	The "intact" fireball was about 4-5 times the size of an average star.  After it "split" the front piece seemed to be the same size as it was before it split.  The one in front was the biggest, the one behind was half the size.  Then, it just went out.  The whole thing lasted about 3 seconds.	I looked over at my mom and asked if she had seen it.  She said no.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105961.html](http://www.nuforc.org/webreports/reports/105/S105961.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
