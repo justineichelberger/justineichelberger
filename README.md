@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:48 on 21 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:22 on 21 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Kelseyville (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>I was on my back deck ,which over looks Clearlake (Soda Bay), when I saw two spheres of circling each other for approximately oneThere were two fizzy spheres of light (as if looking at a light through a screen of fog). I could not see anything defined and they looked as if they were 100-200 yards off my back deck (which is about 100 yards above the lake) and a couple of hundred yards above the lake (Soda Bay). They would continue to circle each other (approximately 40 yards apart) in a diametrical fashion (opposite each other). After approximately 15 minutes, one of the sphere's would start to advance closer to the other one (while still circling) until it met up with it. At that point, it appeared to join the other light and continue to make the same circle as one light. After approximately 10-15 minutes, one of the lights started to move away from the other one until it was opposite again. They would circle each other in this fashion for approximately 15 minutes and repeat this same process again. The whole incident lasted for over an hour. It should be noted that there was absolutely no sound during this observation and no indication they were search lights (no trail lights to the ground).((NUFORC Note:  We observe that the report is not inconsistent with a sighting of advertising lights, circling one another.  Just a guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34104.html](http://www.nuforc.org/webreports/reports/034/S34104.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Redwood City (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>3 witnesses of a red/orange glowing orb darting above soccer field, while changing size and color.Pre-arranged siting with Beings of a red/orange glowing orb above the soccer field at local park.  Was able to get a shaky video while walking toward orb.  The orb darted around starting out small and continued to change shape, size an color.  Varying from a basketball size glowing red/orange orb to a small pea size white dot.  It disappeared almost as quickly as it appeared.I have been fortunate and seen numerous UFO's and have been visited many times.  There were 2 other witnesses who were chasing the orb also.  It was their first sighting and they were stunned as they discussed what is wasn't.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132125.html](http://www.nuforc.org/webreports/reports/132/S132125.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
