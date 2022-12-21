@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:29 on 21 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:26 on 21 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Orem (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>About 7 Solid orange lights forming a circle and vanishing. Event time was about 2 minutesI was driving on 800 N coming from Provo Canyon when I get to the stop light intersection with State St. ready to turn South (left) I so first about 6 Orange solid lights, at first I thought was some helicopters because they weren't on a specific formation and suddenly they form a circle shape and vanished after about 5 seconds after they form the circle, I was trying to call my wife, daughter and son to verify that if they can see it from home, I lived South Orem.  But unfortunately they didn't answer.  After the 6 light disappeared one more Orange light arrived to the same spot, so I change my line so I do not turn left on State Street and then I drove towards the Provo Lake looking the light and tried to hear any sound, I stop on the side of the road but the light vanished the same way that the other did.  So I couldn't recorded anything.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105992.html](http://www.nuforc.org/webreports/reports/105/S105992.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Hartebeespoortdam (South Africa) () reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>UFO sighting in South Africa on 21 December 2015.Early yesterday, Monday morning.  I was driving towards my farm in a westerly direction, when I noticed an hot air balloon that was about to land right next to the road.  I stopped and took a photo with my cell phone before I continued.About 4 hours later I looked at the photo again and it was then that I noticed a very white object in the background of the photo.  With the limited enlargement capacity of the instrument I noticed a craft.  I immediately realized that this was no object of known origin.  It looks like it was moving at an angle of about 35 degrees with a radiation towards the front and the back.  It also seems that the craft was emitting a strange glow.I am sure that if this photo could be enhanced more secrets might be known!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124952.html](http://www.nuforc.org/webreports/reports/124/S124952.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
