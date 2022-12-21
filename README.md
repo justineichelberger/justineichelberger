@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:26 on 21 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:25 on 21 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>While enjoying our outdoor firepit, I first noticed 3 aircraft (no noise or typical aircraft strobes) travelling SW to NE in a steady straight path and evenly spaced. These lights weren't bright, their flight path was high. As each light reached a certain point, they would dim then disappear. This continued for 10-15 minutes. My entire family saw, we even showed the neighbor. Planes appeared to investigate.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151820.html](http://www.nuforc.org/webreports/reports/151/S151820.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Multiple craft ascending from north of Shelbyville road, very bright and very quiet in comparison to passenger planes seen in the sky aI was looking north from my back porch while smoking a cigarette right around midnight.  I noticed a very bright light that I first thought was just a bright star.  After comparing it to other stars, I could tell it was way too bright.  I continued to watch and finally noticed that the object was moving.  The first object moved to the east before it completely disappeared from sight.  Intrigued I continued watching and yet another ascended from the same area.  I started recording from my phone as more and more objects followed the same routine.  All objects took different routes, going either east or west and then disappearing.If I had to guess I would say these were some type of military stealth aircraft or something.  What I find strange though is that none of the airports in Louisville are north of Shelbyville road.  The closest airport to the north is about 100 miles away.  If these craft were to come from that far, their lights wouldn't be visible.  In fact other passenger planes from Standiford Airport in Louisville were going over at the same time, and they were barely visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131823.html](http://www.nuforc.org/webreports/reports/131/S131823.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
