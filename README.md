@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:33 on 20 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:34 on 21 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1971, an anonymous witness in Mountainview (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Particially hidden, behind cloud, hovering craft with large observation window clearly visableMy wife (at the time age 21 a receptionist at the Stanford business park) and I (age 29 a marketing administration manager for a national medical instrumentation company)were about to do some Christmas shopping in what was then called the "White Front Store". After parking the car, I happened to glance up to observe very low hanging clouds and peeking out from one such cloud was a triangular shaped portion of a craft just exposing enough area to include a large observation window. Of particular note was the rootbeer metalic color of the craft. I have since seen such metalic colored material on 5 inch wide ribbon cabling used on experimental micro wave missiles. This area is very near a military airbase. Moffett field. The craft remained motionless and no noise was heard. It was as if it was hovering very still as observations were being made. After approx 10 minutes of viewing the craft, I went into the store. When I returned 45 minutes later, it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40905.html](http://www.nuforc.org/webreports/reports/040/S40905.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Albury (NSW, Australia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>fast orange light almost like strobe light moving at great speedfast orange light almost like strobe light moving at great speed back and forth very very fast kilometers in seconds once we pulled our car over it stopped((NUFORC Note:  We cannot certify that this report was, in fact, submitted from Australia.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26719.html](http://www.nuforc.org/webreports/reports/026/S26719.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161265.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161250.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161269.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161247.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
