@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:26 on 21 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:29 on 21 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Hartebeespoortdam (South Africa) () reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>UFO sighting in South Africa on 21 December 2015.Early yesterday, Monday morning.  I was driving towards my farm in a westerly direction, when I noticed an hot air balloon that was about to land right next to the road.  I stopped and took a photo with my cell phone before I continued.About 4 hours later I looked at the photo again and it was then that I noticed a very white object in the background of the photo.  With the limited enlargement capacity of the instrument I noticed a craft.  I immediately realized that this was no object of known origin.  It looks like it was moving at an angle of about 35 degrees with a radiation towards the front and the back.  It also seems that the craft was emitting a strange glow.I am sure that if this photo could be enhanced more secrets might be known!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124952.html](http://www.nuforc.org/webreports/reports/124/S124952.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Two white lights that looked like stars followed by a third that moved away at a rapid speed.I was driving home from work early in the morning and I saw two bright lights in the sky about two hundred feet apart.  At first I thought that they might me starts but they seemed too low and too bright and they seemed to hover and move slightly. Out of the corner of my eye I saw what looked like a shooting star but when I looked at it, it was the same shape and size of the other too lights and it moved extremely fast, faster that any thing I have ever seen.  When it was gone I watched the other two lights closely until I made it home.  They seemed to glow now and then and turn orange. I kept thinking that they must be starts but I have never seen stars that did this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85985.html](http://www.nuforc.org/webreports/reports/085/S85985.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
