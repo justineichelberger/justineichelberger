@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:26 on 21 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:26 on 21 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Prescott Valley () reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>They were lined up and traveling west to East. They were perfectly spaced apart and moving much faster than the other planes flying in the area . Just moving at perfect intervals in relation to each other.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151797.html](http://www.nuforc.org/webreports/reports/151/S151797.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>While enjoying our outdoor firepit, I first noticed 3 aircraft (no noise or typical aircraft strobes) travelling SW to NE in a steady straight path and evenly spaced. These lights weren't bright, their flight path was high. As each light reached a certain point, they would dim then disappear. This continued for 10-15 minutes. My entire family saw, we even showed the neighbor. Planes appeared to investigate.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151820.html](http://www.nuforc.org/webreports/reports/151/S151820.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
