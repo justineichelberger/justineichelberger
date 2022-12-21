@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:40 on 21 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:35 on 21 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Mesquite (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Solid grey object moving fast over houseI was outside at 11:00pm to get a break from a movie I was watching.  I looked up at the stars to see what was available to my telescope.  While looking at Orions belt which was straight up I noticed a Grey object flying fast. It was not a blurring speed. It was about the size of my thumb at an arms length. There were no lights and no sound. It moved from right to left over my house and out of view.  I tried to make the shape out but couldn't because it was so dark and it moved pretty fast. I tried to determine what it could have been. I came to no conclusion. All I know is I got an erie feeling as I watched it cruise on by.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34022.html](http://www.nuforc.org/webreports/reports/034/S34022.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Geneva (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Triangular shaped, possibly bright white, flashing lights was seen over west central Georgia, USAToday as I was traveling in a  south eastern direction, at app 11 o’clock position in the sky, I saw a triangular shaped object, that appeared to have a halographic type of surface. This could have been bright white, flashing lights. The edges of  the craft were sharp and clean, not rounded or blurry.This is the second one of these I have seen, the first being in July of this year, also in the south eastern skies above Georgia.  I did not report the first, but now that I have seen it again , I feel I must.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95380.html](http://www.nuforc.org/webreports/reports/095/S95380.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
