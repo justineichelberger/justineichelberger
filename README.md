@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:34 on 21 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:26 on 21 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Phoenix (Ahwatukee) (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>9 orange lights seen in Phoenix, Arizona 12-21-122nd message left to you from this site:  Four of us were taking turns looking at Jupiter thru a telescope on the evening of Dec. 21, 2012 in Ahwatukee (Phoenix), Arizona.  While waiting for my turn, I saw 9 orange lights in the distance coming at us from the SE horizon.  It looked like they were all traveling at the same speed. Thinking that maybe they were planes waiting to land at Sky Harbor, we noticed they were NOT in formation, they were orange and the other moving objects in the sky were planes.  These 9 objects were not planes and appeared as orange lights, shape unknown.  Then suddenly one light just blinked out, then another, and another until they were all gone.  My son was able to capture these lights on his cell phone camera and recorded each light as they went out. I can send it to you, if you want.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95704.html](http://www.nuforc.org/webreports/reports/095/S95704.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Prescott Valley () reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>They were lined up and traveling west to East. They were perfectly spaced apart and moving much faster than the other planes flying in the area . Just moving at perfect intervals in relation to each other.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151797.html](http://www.nuforc.org/webreports/reports/151/S151797.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
