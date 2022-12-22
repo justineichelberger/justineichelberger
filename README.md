@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:28 on 22 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:25 on 22 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Richmond (VA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three bright lights in the sky making a triangle.Hello, I was walking my dogs this evening and it is a very clear sky tonight.  I noticed the usual stars that I see every time I walk the dogs along with the moon but tonight I noticed a very bright round light in the sky near the moon along with two dimmer round lights.  All three formed what looked like a triangle formation.  Now what caught my eye was the bigger/brighter light started flickering or pulsing, then the light darkened and I could no longer see it.   After this happened I noticed the smaller one on the left started moving away and eventually went out of view.  The third dim light at that point to me just looked like a distant star that never went away.Now take note that as this was going on I noticed the normal jets flying high in the sky and these lights appeared to me to be higher than the jets.  Being the type of person who likes to find an explanation for everything I checked to see where the space station was currently located and it was flying over the south pole at the time of the sighting.  Now I can't rule out other debris thats flying overhead but it looked very strange to me.  I have also never seen anything that has ever resembled a UFO before or anything paranormal.  I just thought I would post this here in hopes of an explanation to what I noticed.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95422.html](http://www.nuforc.org/webreports/reports/095/S95422.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Alamo (NV) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>very bright, white, light, sparatic movement horizontal to the horizon and then went vertical till it disappearedPlease call me, my husband and i are very nervous and still shook up over the event .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152465.html](http://www.nuforc.org/webreports/reports/152/S152465.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
