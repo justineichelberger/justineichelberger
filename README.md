@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:18:18 on 22 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:29 on 22 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Child/Elkton (Cecil County) (MD) reported seeing craft that fit the description of some 'Oval' over a period of approximately foggy - foggy minutes.</sub><blockquote><sub>im not 1 to tell sorys but i seen itwas a foggy ,mornin was blowin feet off with air hose boots rather in looked over seen somethin look like a water tower in said to my self i can see the water tower at elkton never gave it a thought loooked back next day said u cant see the water tower where i was in told a few at work wat i seen in then like 3 weeks later seen in cecil whig where they seen somthin over ccdc detetion center in elkton in thats like less then 3 miles from where i was at child maryland when i seen paper i new i had seen somethin then was no noise just over the corn field very foggy</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68066.html](http://www.nuforc.org/webreports/reports/068/S68066.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Sedalia (MO) reported seeing craft that fit the description of some 'Circle' over a period of approximately Still - Still minutes.</sub><blockquote><sub>There were approximately 15 circular lights in formation coming from the west heading East. Then the lights would disappear at the same spot in the eastern sky into a triangle shape of stars.. Then one would appear from the west coming East. It to disappeared into a formation of triangle shaped stars. This went on every 2 to 3 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151855.html](http://www.nuforc.org/webreports/reports/151/S151855.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
