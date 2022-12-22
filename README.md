@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:48 on 22 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:22 on 22 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Springfield (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>circular vague light traveling at high speeds in jerky circles... very strangeWe Witnessed a continually circling light object. It was traveling at incredible speeds.It appeared at first to be a beam of light,  Like from a huge spotlight...  But there was no bean coming from the ground,  And no disruptions as it would have gone through trees or other tall objects...  And to move a beam of light in this fashion would have required multiple people and super human like athletic abilities((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105494.html](http://www.nuforc.org/webreports/reports/105/S105494.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Clinton (MI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Looking west of Clinton single lights in row formation (8-10) showing. Flying up evenly spaced. Once one would disappear into the sky and new light would appear below.  This took place for roughly 20 min. A ll stars were out, clear sky’s no clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151824.html](http://www.nuforc.org/webreports/reports/151/S151824.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
