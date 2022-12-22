@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:34 on 22 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:49 on 22 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Vista (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15:43 - 15:43 minutes.</sub><blockquote><sub>Two objects swirling and giving off some kind of trail with a light beam following slowly behind it.((NUFORC Note:  Rocket launch.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137958.html](http://www.nuforc.org/webreports/reports/137/S137958.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lafayette (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Apparently high altitude dark amber light with a tail moving in a straight line from west to east, 6:08 pm  to 6:10 pm, Lafayette, Ca.One dark amber light about the same (apparent) altitude, size and speed of the ISS crossed almost directly overhead moving from west to east as seen from my location in the center of downtown Lafayette, CA.  I first noticed it overhead at 6:08 PM as it was still coming from the western nighttime sky and it continued toward the east in a straight line.  I continued to watch it until it reached the eastern horizon. In the moonlight I noticed it had a tail, possibly a smoke trail, which was long, light colored, and straight extending backwards a long way. once I saw the tail and because of its relatively slow speed, I realized it was probably not be ISS because a smoke trail would not appear the same as it does in our atmosphere.  Due to its slow speed, I assume it could not have been a meteor. The object's color could possibly be described as a fire viewed from a great distance which makes sense because it had what appeared as a smoke trail behind it. it had no b! linking lights and did not change in color even as it reached the eastern horizon. It also appeared as though it were at high altitude based on observations of many aircraft over my lifetime. I could not hear any sound from it. Note; because of my swing shift hours of work at a dark hilltop secure location from which I am now retired, I have witnessed many ISS crossings at night as well as one very striking meteor as it was breaking up, over the years. So I am familiar with the apparent speed and color of the ISS as well as the differences between aircraft at night as well as meteors.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124935.html](http://www.nuforc.org/webreports/reports/124/S124935.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
