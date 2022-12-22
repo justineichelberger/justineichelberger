@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:22 on 22 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:28 on 22 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Clinton (MI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Looking west of Clinton single lights in row formation (8-10) showing. Flying up evenly spaced. Once one would disappear into the sky and new light would appear below.  This took place for roughly 20 min. A ll stars were out, clear sky’s no clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151824.html](http://www.nuforc.org/webreports/reports/151/S151824.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Boulder City (NV) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>The meteor was a splitting red fireball with lights.  I looked at it for about 30 seconds.I don't think it was a craft it was a meteor, but with a red tail, it was splitting apart, and it looked like to me was electronic material because it was flashing like if it was a plane.  So I'm thinking it might be a  satellite, or maybe it's light reflecting, because it could of came from warm wood releasing the iron if anyone knows what I'm talking about it's an object bigger than Jupiter.  I don't know if I can call it a planet. Anyway that's my observation.((NUFORC Note:  Re-entering space debris.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124928.html](http://www.nuforc.org/webreports/reports/124/S124928.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
