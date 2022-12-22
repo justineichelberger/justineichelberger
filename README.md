@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:29 on 22 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:35 on 22 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Sedalia (MO) reported seeing craft that fit the description of some 'Circle' over a period of approximately Still - Still minutes.</sub><blockquote><sub>There were approximately 15 circular lights in formation coming from the west heading East. Then the lights would disappear at the same spot in the eastern sky into a triangle shape of stars.. Then one would appear from the west coming East. It to disappeared into a formation of triangle shaped stars. This went on every 2 to 3 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151855.html](http://www.nuforc.org/webreports/reports/151/S151855.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Searsport (ME) reported seeing craft that fit the description of some 'Changing' over a period of approximately Over an hour - Over an hour minutes.</sub><blockquote><sub>Bright changing objects hovering over Searsport’s bay making dipping motions and then we noticed a three lighted object very very high up and moved side to side and odd movements some I was able to get on vid and photos which also show this object had a ring of lights aluminating around a hexagon shaped object meny colors definitely in our atmosphere</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161288.html](http://www.nuforc.org/webreports/reports/161/S161288.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
