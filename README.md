@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 21 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:38 on 22 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Tunkhannock (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>hovering craft takes off quickly, loss of timeI went for my morning jog, when I saw this strang light. There were three lights. They just hovered in the air for about 1 minute. Then the lights went out, and in only 4 or 5 seconds the dark object cleared the intire distance of the sky. When I arived home I became shocked to find that I had lost ten extra minutes.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26856.html](http://www.nuforc.org/webreports/reports/026/S26856.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Branson (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>As I stood on my balcony, I saw approximately 40 bright lights evenly spaced moving in single file from SW to NE across SW Missouri.At 18:30 I was out on my balcony and was looking up in the night sky at the stars. I spotted a bright light going across from SW to NE. I then saw another and another and another they were evenly spaced apart and traveling at the same rate of speed. I stood there watching and noticed that they were coming from the SW. I stayed counting them I got up to 15 and thought this is no way planes or helicopters for they all had just a single bright light. I couldn't get a good video or picture due to the darkness and they wouldn't show-up. I then ran and got my Son to come and see them not knowing if they would be there once I returned with my Son as a witness. We got back out on the balcony and they were still there just as before. One after another and up to 40 of them I also noticed planes flying around the same area with their blinking white and red lights and I could till the planes were at a lower altitude then all the single white bright lights were that were! going across the night sky. After the single file white bright lights stopped I stayed watching the same areas to see if anymore came as the first set. And, if anymore sightings of planes in the same area. I then witnessed 8 more of the same single bright light going in the same direction as the multiple ones. However, I could tell these were higher up then the other ones and further apart then as they got just passed my backyard tree line I saw a bright flash of a few of them then they were gone. I went back inside and went to see if anything was posted online from any other sources. This was at 17:15 and I found your site and decided to post this. A feedback to my sighting would be appreciated if another reports should come in. Thank you,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151870.html](http://www.nuforc.org/webreports/reports/151/S151870.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
