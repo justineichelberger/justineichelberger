@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:31 on 22 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:48 on 22 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Murrieta (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>We saw some type of tractor beam pulling another craft into another one.  There was a large strange looking cloud or something in they both came from.  My phone did not work until it passed.Somebody just passed a BS story of a missile test at 1807.  You don't test missiles over a dam residential neighborhood.((NUFORC Note:  Missile launch.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137988.html](http://www.nuforc.org/webreports/reports/137/S137988.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Springfield (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>circular vague light traveling at high speeds in jerky circles... very strangeWe Witnessed a continually circling light object. It was traveling at incredible speeds.It appeared at first to be a beam of light,  Like from a huge spotlight...  But there was no bean coming from the ground,  And no disruptions as it would have gone through trees or other tall objects...  And to move a beam of light in this fashion would have required multiple people and super human like athletic abilities((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105494.html](http://www.nuforc.org/webreports/reports/105/S105494.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
