@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:55 on 22 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:30 on 22 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Queensbury (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Giganticly huge glowing object.  Very high in the sky, moving at high speed. Observed in night sky.Decided to take a late night trip trip to the local WalMart for some last minute holiday shopping.  We were driving East on Potter Road when we (my 19 year old daughter and I) noticed somethng bright orangish-red high in the sky above us moving South.  It had an irregular shape at first which made it diffiult to conclude what it was.  It reminded me of a windsock.  Wide on one end and a tail like wavy thing on the other end.  It seemed to glow from within and it was huge and high.  Much too large and high to be a wind sock.  We took a right onto Aviation Road (traveling East)and saw it again briefly.  But it's shape had changed.  We lost it and saw it again just past the I-87 overpass.  What we saw was remarkable.  This HUGE ROUND GLOWING thing that seemed to be moving away at a remarkable speed.  It looked like something was partially covering it, maybe clouds.  But the thing was so enormous my daughter remarked it looked like a planet exploding.  We were completely freaked out and in awe.  We knew this wasn't natural.  We attempted to follow it, but it was moving away at such a high speed and it just suddenly disappeared.  his was the most remarkable thing I have ever experienced!!!!  HUGE object, very HIGH in the SKY, moving at HIGH SPEED.  Glowing from inside like a fireball reddish-orange in color.  Called the Sheriff's Department to see if anyone else reported anything (nope).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48430.html](http://www.nuforc.org/webreports/reports/048/S48430.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Vista (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15:43 - 15:43 minutes.</sub><blockquote><sub>Two objects swirling and giving off some kind of trail with a light beam following slowly behind it.((NUFORC Note:  Rocket launch.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137958.html](http://www.nuforc.org/webreports/reports/137/S137958.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
