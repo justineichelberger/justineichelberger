@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:38 on 22 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:13 on 22 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Branson (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>As I stood on my balcony, I saw approximately 40 bright lights evenly spaced moving in single file from SW to NE across SW Missouri.At 18:30 I was out on my balcony and was looking up in the night sky at the stars. I spotted a bright light going across from SW to NE. I then saw another and another and another they were evenly spaced apart and traveling at the same rate of speed. I stood there watching and noticed that they were coming from the SW. I stayed counting them I got up to 15 and thought this is no way planes or helicopters for they all had just a single bright light. I couldn't get a good video or picture due to the darkness and they wouldn't show-up. I then ran and got my Son to come and see them not knowing if they would be there once I returned with my Son as a witness. We got back out on the balcony and they were still there just as before. One after another and up to 40 of them I also noticed planes flying around the same area with their blinking white and red lights and I could till the planes were at a lower altitude then all the single white bright lights were that were! going across the night sky. After the single file white bright lights stopped I stayed watching the same areas to see if anymore came as the first set. And, if anymore sightings of planes in the same area. I then witnessed 8 more of the same single bright light going in the same direction as the multiple ones. However, I could tell these were higher up then the other ones and further apart then as they got just passed my backyard tree line I saw a bright flash of a few of them then they were gone. I went back inside and went to see if anything was posted online from any other sources. This was at 17:15 and I found your site and decided to post this. A feedback to my sighting would be appreciated if another reports should come in. Thank you,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151870.html](http://www.nuforc.org/webreports/reports/151/S151870.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Huntsville (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>String of white lights that disappeared into a triangle shaped object and a flashing light appeared and the light flew off quicklyLong string of 15-20 lights staying in a straight line until they reached a triangle of lights about the same size and brightness and all disappeared at the same point and more lights came from other directions and all disappeared in that area once again, also there were clouds in the sky, about 20 minutes later a few more emerged and disappeared at the same triangle of stars although they came from different directions, shortly after they disappeared a light started flashing in that area and shortly after jetted off in a bright white streak of light . The witnesses were myself, my dad who was in the military for many years, and my mom</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151853.html](http://www.nuforc.org/webreports/reports/151/S151853.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
