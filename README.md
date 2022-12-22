@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:37 on 22 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:29 on 22 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Foster City (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Looking SE towards Orion, 4 orange lights suddenly appeared and streaked westward across the sky and disappeared.Looking SE towards Orion, 4 orange lights suddenly appeared and streaked westward across the sky (about 60 degrees) and disappeared.  They were in a straight line side by side and stayed in formation.  The entire viewing lasted less than 2 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26756.html](http://www.nuforc.org/webreports/reports/026/S26756.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Twisp (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately Evening - Evening minutes.</sub><blockquote><sub>Close encounter with Big bright sphere above road, Shape of object noticable in lightsphereTwo bright spheres of light one going north maybe 2 miles in the atmasphere one hovering just out side of town above a hill I drove towards it till I saw that it was actually above the road I was on I approach it within 75 yards it hovered maybe 30-35 feet in air.  It was big and bright,could see an object within the light,  What ever it was in side that arora was domed on top and had three rounded off level surfaces on the bottom.   My son I watch this object in front of us for only a minute afraid of the actions we were facing.  Object began moving away from the road to the right and back towards the hills were I first noticed it.  We Watched it for another 5 to 10 minutes till the sphere of light disappeared beyond the tree lines</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86008.html](http://www.nuforc.org/webreports/reports/086/S86008.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
