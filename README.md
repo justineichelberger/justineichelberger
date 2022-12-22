@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:26 on 22 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:52 on 22 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Okeechobee (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>4 silent objects at night each with 4 large red non-blinking lights moving east to west near Lake Okeechobee, FlTook my dog outside about 10:00 pm Friday, 12/22/17 and saw 2 very dark red bright objects in the dark sky coming toward me east to west.  There was no sound at all even though they seemed to only be as high as a small plane might fly.  Each seemed to have 4 large red lights that did not blink.  The lights defined their shape, 2 behind 2 that almost touched.  Could have been a square shape.  One was a short distance from and a little ahead of the other, and not wavering from their path.I watched them fly overhead until out of sight and then saw 2 more coming from the same direction appearing very much like the first 2 and moving in the same path.  There were a few stars out and also a plane flying north to south so high it was barely visible.  It probably took 4-5 minutes for each pair to move from first sighting to out of sight.  I found it amazing that there was no sound in the quiet night for such large objects.I retired after 27 years with the Okeechobee County Library System.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138123.html](http://www.nuforc.org/webreports/reports/138/S138123.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Palm Springs (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>The craft emitted light / chem trail. The chem trail seemed to be the source of the light. There was another craft trailing first pulsating light.((NUFORC Note:  Rocket launch from Vandenberg AFB @ 5:26 p.m..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137994.html](http://www.nuforc.org/webreports/reports/137/S137994.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
