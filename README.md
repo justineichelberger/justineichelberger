@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:36 on 23 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:29 on 23 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Big round red pulsating, plasma like ball in S. FL heading west & disappearing from viewMy husband & I went out to a local restaurant to meet with out of town relatives that came for the Holidays. This was a family restaurant where no liquor is served.  Just a regular night out with family members in their 40's & 50's and a couple of kids.   I went out to the parking lot to get some family photos I left in the car, when I looked next to me I saw a couple & another woman, not with the couple, looking up in awe & when I looked up I saw a round red pulsating ball just hovering right above us (wouldn't move, like it was watching us) facing north, s. of Miami intl airport close to our home in Coral Gables. It looked alive, like a red plasma of sort - no other colors, no tails & no sound. It was about 2000 feet up in the air & it was big & beautiful red blob. It was about 4 full moons in size. I was in total awe & wanted my husband to see this so I ran inside the restaurant to get him & he sensed my desperation & came right out(took about 2 seconds)& the red ball was moving west (towards the everglades) becoming smaller & smaller until it was the size of a little red pinhead & it disappeared west somewhere.  Well, I'm glad I had my husband witness this with me so he didn't think I was crazy. We were sort of in shock and casually walked inside,remained silent & didn't say anything for fear of the family thinking we were nuts.  We have kept this to ourselves for about 5 yrs. We just hope that the other 3 unknown people in that parking lot that night will come out & say something about this spectacular event that has changed the way we view life.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28343.html](http://www.nuforc.org/webreports/reports/028/S28343.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Bowie (MD) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>disc shaped, blue /white light UFO flying low and fastI was driving South on the Baltimore Washington Parkway on Sunday December 23rd at around 6:45 pm when I saw a large (larger than a full moon) whitish blue disc-like shape fly from right to left and disappear in the middle of the sky.  It was low in the sky and was visible for only 3-4 seconds. There were no other smaller lights or any visible features and it flew through the sky extremely fast and very smooth.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60472.html](http://www.nuforc.org/webreports/reports/060/S60472.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
