@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:30 on 23 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:21 on 23 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Prineville (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Multiple star like objects exited earths atmosphere at lihgt speedObserved what at first looked like 15+ stars lined up in a line, Southern Sky looking from Prineville, Oregon. line or formation was North South orientation from viewpoint, formation moved North in an orderly measured fashion and disappeared one by one as velosity increased, could not tell if direction of travel was ascending or decending in relation to night sky or horizon. Definitly not stars, definitely not aircraft, very large and bright and at a great distance, by the movement viewed speeds were astronomical! A bunch of people must have seen this it was spectacular!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152079.html](http://www.nuforc.org/webreports/reports/152/S152079.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Leavenworth (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Green saucer with orb figure 8 and bursts offI saw the object after the fact in a Live Photo I took. The object seems to bounce around in a figure 8 the movements and then burst off out of sight. From my vantage point it was the size of a large star. The object was growing green and seems to have an orb of light around it. When you zoom into the photo you can see the shape looks just like the saucers you tend to see in drawings of UFOs but sideways . If this wasn’t a Live Photo, I would have just thought it was a light but it moves so strangely.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161352.html](http://www.nuforc.org/webreports/reports/161/S161352.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
