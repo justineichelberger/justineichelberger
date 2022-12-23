@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:24 on 23 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:28 on 23 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Prineville (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Multiple star like objects exited earths atmosphere at lihgt speedObserved what at first looked like 15+ stars lined up in a line, Southern Sky looking from Prineville, Oregon. line or formation was North South orientation from viewpoint, formation moved North in an orderly measured fashion and disappeared one by one as velosity increased, could not tell if direction of travel was ascending or decending in relation to night sky or horizon. Definitly not stars, definitely not aircraft, very large and bright and at a great distance, by the movement viewed speeds were astronomical! A bunch of people must have seen this it was spectacular!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152079.html](http://www.nuforc.org/webreports/reports/152/S152079.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Rehoboth Beach (DE) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>fACING TO THE sOUTHEAST A VERY BRIGHT OBJECT HIGH IN THE SKY HOVERING OVER PROBABLY THE OCEAN AND i WATCHED IT MOVE HIGHER IN THE SKY DURING A HALF HOUR PERIOD.  i SAW ONE TWENTY YEARS AGO AT sOLOMONS iSLAND - mD AND THAT ONE WAS MUCH LOWER AND i COULD SEE MORE PLAINLY.  tHE ONE i SAW THIS am HAD THE SAME SORT OF SHAPE AND THERE ARE NO STARS OUT ONLY THIS BRIGHT GLOWING OBJECT.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26733.html](http://www.nuforc.org/webreports/reports/026/S26733.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
