@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:43 on 23 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:24 on 23 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Chester (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>My son and i were out side walking and looked up and saw a light moving in the sky, it was white and was moving from south to north.  It was not a plane for sure.About 20 min went by and we both saw two more.Now we can go out and see them just about any night we want between 7:30 and 8:00pm.what are they?((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48646.html](http://www.nuforc.org/webreports/reports/048/S48646.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Alamogordo (NM) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A large red/orange orb, hovering over the area of Holloman Air Force Base, disappeared and reappeared several times.I was walking my dog in my neighborhood.  It was a cold, clear night.  As I crossed a bridge, I looked up in the sky to the west and noticed a large red/orange orb hovering stationary in the sky.  In terms of size, I estimated it to be large, probably at least 25 meters in diameter, it seemed to be hovering about 200 meters over the area of Holloman Air Force Base, which is about 12 miles away, and was noiseless.  I wasn’t sure what to think at first.  I had never seen anything like it.  I kept looking and was amazed when it moved instantly, effortlessly, and noiselessly about 50 meters to the right.  It hovered there for about one minute, then disappeared, so I continued to walk and turned in an easterly direction, thinking that was all, but I turned back to look and it was there again, then disappeared.  Again I walked, turned around and it was there, watched and it disappeared.  This happened once more before it disappeared altogether.I am 55 and have lived in Alamogordo for most of my life.  I've been teaching for 26 years.  I have never seen any UFOs before or since. It was an intriguing experience, but not frightening.  I wasn’t going to report it, but changed my mind. It was very interesting.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118810.html](http://www.nuforc.org/webreports/reports/118/S118810.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
