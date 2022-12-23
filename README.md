@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:36 on 23 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:22 on 23 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Wilmington (DC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Sighting of a look alike 6 bright star like in circle with 1 bright starlike in middle in Wilmington, De 12/22/2014.View just above houses due east but definitely not street lights too high and large UFO MAYBE DEC 23 2:20 -AM Monday or Tuesday morning now.East – simi north view.Stayed still over 20+ minutes.6 outer very bright speckles hugh stars look alike.One star in middle.  Diameter about my view 1mile guess.Not helicopters hovering too precise and not moving at all. Just still for over 20 minutes.Not meteorites cause not moving sideways and down the were just still.The objects not flashing across the sky.I don’t know what to call this sighting but sure was unidentified and I have never seen anything like it.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116298.html](http://www.nuforc.org/webreports/reports/116/S116298.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Grants Pass (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>My Wife and I witnessed evenly spaced line of lights ( approx. 50) evenly spaced moving over Grants Pass, Or. on 12/23/19 at 18:30A line of round white lights (approx. 50), a little larger than satellite size, moved across the sky in a straight line at the same speed.  At first approximately 30 lights were evenly spaced (about 3" apart from my perspectiv, then about 20 of the same lights moved in the same line unevenly spaced.   They appeared in the West and disappeared in the East as the sky permitted.  They seemed to move faster than any satellite I have ever seen.  They moved from approximately west to east across the sky over Grants Pass, Or., at 6:30 PM.  They appeared to be satellite height - traveling much higher than any plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152098.html](http://www.nuforc.org/webreports/reports/152/S152098.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
