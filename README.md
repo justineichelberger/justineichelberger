@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:31 on 23 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:59 on 23 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in West Sacramento (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Lights in a chevron shape flying over West Sacramento, CAI saw 4-5 lights in a chevron shape fly above a layer of clouds.  I only saw the lights and could net see any shape to whatever the lights were attached.  The lights were somewhat dim due to the cloud layer.  It was completely silent and flew northwest and then made a sharp turn to the northeast.  It flew faster than the commercial airliners the regularly fly over my house.  No one was present with me.  This is the third time I have seen such a craft.  Twice, my ex-wife and I saw one fly over the family student housing complex for the University of California, Berkeley, when I was in attending school there (the housing complex is in Albany, CA, and I reported these sightings to this website too).  I think these were in May 2002 and May 2003.  In those cases, I could see the craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116168.html](http://www.nuforc.org/webreports/reports/116/S116168.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I was taking picture of a bright round object in the southern sky...I think it was Venus.  When I looked at the pictures, a green round ball looked like it was checking it out and then went in to the white light.  I could not see it with my eyes when taking the pictures.  Only shows up on the Pictures.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60468.html](http://www.nuforc.org/webreports/reports/060/S60468.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
