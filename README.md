@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:25 on 23 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:33 on 23 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Madison (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Triangle flying object with 2 lights on the back switching one to the other never at the same time.Saw a triangle shaped object heading west.  It had two lights flashing back and forth but no other lights on it. It was dark but you could see the shape of the craft. There were several people standing in the parking lot observing this object including me.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95594.html](http://www.nuforc.org/webreports/reports/095/S95594.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Conroe (TX) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Rectangle shape the size of a football field, width of about 30 feet, entire ship outline in white neon like a vehicle from tron.At around 3:00 a.m. I lost Dish service, so I decided put out our 4 dogs before going to bed.  All the dogs stayed by to door so I decided to go out and see what was going on.  I walked past our deck and saw the ship.  It flew right over my house just above the trees.  The object was the legth of a football field with the width of about 30 feet and it did cast a shadow flying over.  The front of the object was flat divided in 3 rectangles which lit up by white neon outlining the ship.  The side of the ship was also lit up in white neon with 18 rectangles in total again the top 6 rectangles were smaller than the bottom 12.  Bottom of the ship was dark black with neon white outline.   The back of the object looked the same as the front.  The object made no noise but was moving very fast.  Had no visible means of propolsion.  I live close to Intercontinental Airport and you can see the jet propolsion at night.  As soon as the object passed over the dogs went ou! t in the yard, I stayed up to see if another one was passing by but nothing and went to bed around 4:00 a.m.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86522.html](http://www.nuforc.org/webreports/reports/086/S86522.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
