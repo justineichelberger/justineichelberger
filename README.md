@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:22 on 23 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:31 on 23 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Grants Pass (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>My Wife and I witnessed evenly spaced line of lights ( approx. 50) evenly spaced moving over Grants Pass, Or. on 12/23/19 at 18:30A line of round white lights (approx. 50), a little larger than satellite size, moved across the sky in a straight line at the same speed.  At first approximately 30 lights were evenly spaced (about 3" apart from my perspectiv, then about 20 of the same lights moved in the same line unevenly spaced.   They appeared in the West and disappeared in the East as the sky permitted.  They seemed to move faster than any satellite I have ever seen.  They moved from approximately west to east across the sky over Grants Pass, Or., at 6:30 PM.  They appeared to be satellite height - traveling much higher than any plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152098.html](http://www.nuforc.org/webreports/reports/152/S152098.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in West Sacramento (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Lights in a chevron shape flying over West Sacramento, CAI saw 4-5 lights in a chevron shape fly above a layer of clouds.  I only saw the lights and could net see any shape to whatever the lights were attached.  The lights were somewhat dim due to the cloud layer.  It was completely silent and flew northwest and then made a sharp turn to the northeast.  It flew faster than the commercial airliners the regularly fly over my house.  No one was present with me.  This is the third time I have seen such a craft.  Twice, my ex-wife and I saw one fly over the family student housing complex for the University of California, Berkeley, when I was in attending school there (the housing complex is in Albany, CA, and I reported these sightings to this website too).  I think these were in May 2002 and May 2003.  In those cases, I could see the craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116168.html](http://www.nuforc.org/webreports/reports/116/S116168.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
