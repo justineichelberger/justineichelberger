@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:29 on 23 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:43 on 23 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Pataskala (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Triangle-shaped craft hoverig low over a house in Pataskala OhioMy  brother and I were driving home from our friends house around 11:00 at night and we glanced off to our left and saw a small group of lights.  At first we thought nothing of it we just assumed it was a commercial jet on its way to Columbus airport which is close by.  However as we got closer to the object it became apparent that the object was close and was not moving.  I slowed my car down and tried to get a good look at it; I saw that the object was hovering about 100-150 ft. above a nearby house and not moving.  The craft was triangle shaped and had a white light on each corner and a red light somewhere near the middle.  It was a full moon so I was easily able to see the shape of the craft against the sky, the craft was not white like a commercial jet, it was either gray or black, the only way I was easily able to distinguish its shape was by observing it against the moonlight sky.  It was difficult to tell how "tall" the craft was because I was observing it mostly from the bottom so the craft could have been pyramidal.  I slowly passed the house the craft was hovering over and immediately turned around once I realized what I was looking at.  When I was about half way back to the house the craft started slowly flying away to the south-east.  As I was drawing nearer to the craft it tilted to the right and gained speed and headed off towards Columbus (to the south-east).   As I mentioned earlier it was a full moon out and there were a few clouds in the sky that were white because they were being illuminated by the moon, I believe this is the only reason I was able to distinguish the craft's shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60496.html](http://www.nuforc.org/webreports/reports/060/S60496.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Chester (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>My son and i were out side walking and looked up and saw a light moving in the sky, it was white and was moving from south to north.  It was not a plane for sure.About 20 min went by and we both saw two more.Now we can go out and see them just about any night we want between 7:30 and 8:00pm.what are they?((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48646.html](http://www.nuforc.org/webreports/reports/048/S48646.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
