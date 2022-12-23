@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:18:14 on 23 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:27 on 23 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Rexburg (ID) reported seeing craft that fit the description of some 'Flash' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Blue, red and green flashes seen above east idahoI was driving home from Rexburg to Rigby headed south on Highway 20.  I was just driving along when suddenly to the left or east of me above the Rexburg water tower there was a large blue flash that was brighter than any lighting Ive ever seen.  The chistmas lights and all other light for that matter went out for five seconds then turned back on.  About a minute later about 10 miles south of the first one there was a second one about the same brightness and same color then even further south there was a red flash followed by a green one about 10 seconds apart.  After that I was driving and I thought I may have seen more but was trying to drive.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105519.html](http://www.nuforc.org/webreports/reports/105/S105519.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1991, an anonymous witness in Pleasanton (NE) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Small orange fluorescent object seen S in distance, disappears, then rushes vehicle in northerly direction, narrowly missing windshield.  Strobe-like flash accompanied at point of near-impact.I was driving 55-60 mph on the highway south of Pleasanton, NE, when I saw a small, orange, fluorescent object ahead in the distance. I dismissed it as a powerline reflector usually seen near small, rural airports, forgetting that there is no airport (to my knowledge) in that area.  It was just dusk and darkening into night, and the object seemed to get dimmer as I drove south, eventually fading out of sight, so I assume it was travelling in a southerly direction along the highway, perhaps a little faster than I was driving. A few minutes later, as I was passing a familiar farm site with house and grain elevator in the yard, a white/silver spherical object, about 9 inches in diameter, came down out of the night sky and rushed directly at my car. Its path was over the hood and up the windshield, a few inches above the vehicle.  I felt a rush of wind and heard a loud swooshing sound as it passed over.  My reaction was to duck and swerve the car slightly to the left, but my reaction occurred after this quick event.  There was a bright, strobe-like flash as it reached the top of my windshield and flew up over my car. The flash enabled me to see several feet from the vehicle, over to a power pole in the ditch, and a power line extending over the highway from the pole, so the object had to go beneath this line.  I tried to see it in my rear view mirror, but sited nothing, and sped on south to Kearney, NE. I wondered about the incident on my way home, but was really too scared and confused to come to any conclusions, so I promptly forgot about it, until I saw my family at Christmas.  We were telling stories, and I remembered my experience.  I told my sister-in-law, but got frightened as I told her, and told her I thought it was an owl that swooped in front of my car.  This thing was not an owl.  I can come up with nothing to explain the flash of light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04097.html](http://www.nuforc.org/webreports/reports/004/S04097.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
