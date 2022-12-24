@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:37 on 24 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:26 on 24 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in West Jordan (UT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>4 red orbs over West Jordan, UT. on Christmas Eve 2011On the evening of Christmas Eve, 2011, my husband and I, along with our 2 young children, were driving to my parents’ home to celebrate the holiday.  We were about 5 minutes from their home when I noticed a diamond shape of 4 red orbs in the night sky.  They were much farther away than planes or clouds, but much closer than stars.  I pointed the orbs out to my husband and both of us were confused about what we were seeing.  We arrived at my parents’ home, watching the red orbs during the entire drive.  When we reached their driveway, my husband ran inside to get my parents to come outside and look at what we were seeing.  I pulled out my phone to take pictures and got out of the car for a better look.  As I pointed my phone toward the sky I realized I couldn’t see the red orbs on the camera of my phone.  When I looked away from my phone and back at the sky, one of the 4 orbs was gone…there were only 3 left.  I decided to stare at the orbs and watch what they! did, rather than try to take pictures.  As I was staring at the orbs, each one faded out to black – they didn’t move around the sky, they just “turned off,” so to speak.  My husband and parents did not make it outside in time to see them…they had disappeared by that time, in a matter of maybe 2 minutes.I’ve been searching the internet for answers since this happened, but didn’t think to report the occurrence until I heard Peter Davenport on Coast to Coast AM with George Noory on 06/20/12, when he discussed this happening more frequently across the country since June of 2011 – and he was describing something very similar to what we saw.Thanks for your time.  I look forward to an explanation…if one ever comes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90150.html](http://www.nuforc.org/webreports/reports/090/S90150.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Bethel Park (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>5 Red pulsating lights in the sky over Bethel Park, PA on Christmas Eve 2013On Christmas Eve (2013) I witnessed 5 red glowing/pulsating lights around 730 pm in the Bethel Park area in the south hills of Pgh, PA.  I was loading my kids Christmas into our car, preparing to leave my in-laws house.  After witnessing the lights, in stunned curiousity I yelled for my wife to come out, by that time she witnessed one light, as they were moving quickly through the sky.  I know they weren't planes flying in formation they were way too red and relatively close together.  Very strange event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105621.html](http://www.nuforc.org/webreports/reports/105/S105621.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [433](http://www.nuforc.org/webreports/reports/161/S161306.html)
-- [432](http://www.nuforc.org/webreports/reports/161/S161298.html)
-- [431](http://www.nuforc.org/webreports/reports/161/S161585.html)
-- [430](http://www.nuforc.org/webreports/reports/161/S161369.html)
-- [429](http://www.nuforc.org/webreports/reports/161/S161296.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
