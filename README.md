@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:51 on 24 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:14:02 on 24 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Ontario (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Sationary black dots giving off smoke puffs(exhaust) for at least half an hour.From the the moment I got on the 60 fwy I noticed these dark tiny puff clouds undernieth some big semi dark clouds. There were four lined up in a row, and then kind of stacked,but the ones further down kind of witherd away. It baisiclly looked like exhaust. After a half hour of driving we got pretty close to it and that is when i actually saw the smoke being distributed from something. It was a line of smoke, very dark, and then a few seconds latter looked like the other smoke puffs. While the smoke was coming out, right above in the clouds, I saw a line of black dots. It was deffinitly something solid and very large. I know they were not clouds. Something was dispensing that stuff.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20886.html](http://www.nuforc.org/webreports/reports/020/S20886.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Indianapolis (IN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large Red Orb on HighwayI was traveling southbound on I-465 sometime between 9 and 10 o'clock, there was a decent amount of traffic at the time. Suddenly all the vehicles in front of me, most likely about 10 vehicles, came to panic stop as if there was an accident.  Then I saw a bright red orb, almost like the red dot from a laser pointer looks, but this orb was maybe a foot in diameter. The red orb jumped up from in front of the cars ahead of me, then shifted to side of the highway in front of a sign. Everybody that had been stopped by this red orb speed away very quickly and most exited @the first exit which was Harding Ave.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54612.html](http://www.nuforc.org/webreports/reports/054/S54612.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [433](http://www.nuforc.org/webreports/reports/161/S161306.html)
-- [432](http://www.nuforc.org/webreports/reports/161/S161298.html)
-- [431](http://www.nuforc.org/webreports/reports/161/S161585.html)
-- [430](http://www.nuforc.org/webreports/reports/161/S161369.html)
-- [429](http://www.nuforc.org/webreports/reports/161/S161296.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
