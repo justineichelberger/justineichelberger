@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:29 on 24 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:51 on 24 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Cancun (Mexico) () reported seeing craft that fit the description of some 'Other' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>'dancing' lights that looked like starts zig-zagging and doing other incredible manouveres in Cancun MexicoI was out on my balcony of my hotel lying down looking at all the stars and then I noticed that one of them started to 'wiggle'. I could not believe I was actually seeing a UFO. I rushed downstairs with my camera and binoculars and got some of the staff at the hotel reception to come outside and view this UFO. They came out and saw what I was on about, a 'star' moving around seemingly randomly but definatley with amazing speed and at crazy angles - almost 'dancing' in the sky but then after about 5 minutes of looking around the sky I said 'hold on - there are 12 of these things up there'. The hotel staff and myself watched these objects moving around the sky for the next two hours, some of them moving in perfect formation with the others until the sun started coming up. I took many photos of these things which must have been moving at phenemonal speeds; you can clearly see that the stars are stationary in these photos but the ufos are moving so quickly that they have left light streaks on the image in the time it took the for the camera to take the picture whilst the stars are totally stationary. These 'lights' seemed to be under intelligent control. They almost seemed to be putting on 'as show' for us!  This was just the beginning of a series of amazing observations over the next 4 nights which did not just consist of light streaks in the sky, the other stuff is even more incredible. I would really love somebody to examine the images that I have;I have waited this long to see if I could find any images similar to the ones I have and I still have not seem anything similar to the images that I have. I hope that through this organisation my images can be investigated.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30694.html](http://www.nuforc.org/webreports/reports/030/S30694.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Ontario (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Sationary black dots giving off smoke puffs(exhaust) for at least half an hour.From the the moment I got on the 60 fwy I noticed these dark tiny puff clouds undernieth some big semi dark clouds. There were four lined up in a row, and then kind of stacked,but the ones further down kind of witherd away. It baisiclly looked like exhaust. After a half hour of driving we got pretty close to it and that is when i actually saw the smoke being distributed from something. It was a line of smoke, very dark, and then a few seconds latter looked like the other smoke puffs. While the smoke was coming out, right above in the clouds, I saw a line of black dots. It was deffinitly something solid and very large. I know they were not clouds. Something was dispensing that stuff.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20886.html](http://www.nuforc.org/webreports/reports/020/S20886.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [433](http://www.nuforc.org/webreports/reports/161/S161306.html)
-- [432](http://www.nuforc.org/webreports/reports/161/S161298.html)
-- [431](http://www.nuforc.org/webreports/reports/161/S161585.html)
-- [430](http://www.nuforc.org/webreports/reports/161/S161369.html)
-- [429](http://www.nuforc.org/webreports/reports/161/S161296.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
