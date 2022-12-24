@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:23 on 24 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:32 on 24 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Hiawassee (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red, glowing circle over mountains of North GeorgiaThe large red, glowing craft was silently moving across the sky about 100 yards above the ground.  The craft moved behind a small mountain and disappeared.  For years after the encounter, I would have incidents until around the age of 16.  Then, I got to see something, being, in my room.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155962.html](http://www.nuforc.org/webreports/reports/155/S155962.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in St. Maries (ID) reported seeing craft that fit the description of some '' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Swooshing sound, bright white/red lights,light up whole area obove and surrounding house in IdahoI had just gone to bed and turned out the lights.  My son was watching TV in the living room.  I heard a sound like a strong wind blowing and the large windows in my bedroom (4X6) & (3X8) started lighting up as if there was lightning outside.  I waited for a few minutes and it continued so I decided to unplug the computer and TV's.  I went in the living room where we have a 6 X 12 ft window and four other windows down the side of the LR, DR area.  The flashes continued, like lightning although there was no storm, thunder, or black clouds. My son opened the front door to go out but being new to the area I thought if it was lightning, it was dangerous (I lived previously in Arizona). Suddenly the whole field, about six acres and the mountain on the other side of the field and all the property we could see down the side of the house lit up in a very bright light like a giant spot light for about three or four seconds. It really startled us.  Then a red light flashed in the same manner for about one to two seconds.  There were a couple of smaller flashes and then everything just stopped suddenly.  There was the sound of wind and then everything was quiet.  I was new to Idaho and told my sister about it and she said they do not have sheet lightning in the winter.  There was nothing in the local paper re this incident.  I was not going to report it but it has been on my mind and I cannot reach a satisfactory explaination for what we saw.  I wonder if there has been any other reports of bright lights on this date?  I am sure now it was not lightning and I wish we had gone outside to look up in the sky because the light seemed to come down from directly over the house.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15986.html](http://www.nuforc.org/webreports/reports/015/S15986.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [433](http://www.nuforc.org/webreports/reports/161/S161306.html)
-- [432](http://www.nuforc.org/webreports/reports/161/S161298.html)
-- [431](http://www.nuforc.org/webreports/reports/161/S161585.html)
-- [430](http://www.nuforc.org/webreports/reports/161/S161369.html)
-- [429](http://www.nuforc.org/webreports/reports/161/S161296.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
