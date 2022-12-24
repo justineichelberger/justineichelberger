@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:29 on 24 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:42 on 24 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Waxhaw (NC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Disc-shape object hovering 30 ft above house - lights blinking with siren-like sound.  Object left very quickly within seconds.I walked outside to take my dog out and it had a kindof loud wistling noise. I looked in the sky and saw it. It was huge, it was grey basicly all around and had a oval shaped door in the middle. I t had flashing rainbow colored lights on the bottom of it. My dog saw it and started barking and it took off at the speed of light. It looked like it just fanished into thin air. When it left all the trees started going back and forth of how fast it left.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48461.html](http://www.nuforc.org/webreports/reports/048/S48461.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Baton Rouge (LA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red orb spotted over Shenendoah Subdivision - Baton RougeSighted over Shenendoah Subdivision.  Light was traveling vertical paused about 10 seconds, moved vertical once more.. then Straight down at a very fast speed.  There was absolutely no noise being emitted from object.  Object seemed to be round.  It shone with one very red light, making it appear to be a red orb.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79929.html](http://www.nuforc.org/webreports/reports/079/S79929.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [433](http://www.nuforc.org/webreports/reports/161/S161306.html)
-- [432](http://www.nuforc.org/webreports/reports/161/S161298.html)
-- [431](http://www.nuforc.org/webreports/reports/161/S161585.html)
-- [430](http://www.nuforc.org/webreports/reports/161/S161369.html)
-- [429](http://www.nuforc.org/webreports/reports/161/S161296.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
