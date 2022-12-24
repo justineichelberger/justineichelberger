@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:28 on 24 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:25 on 24 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Cone' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Christmas Eve 2013 headed South leaving Albuquerque, saw a craft that looked like a spinning top with rings spinning around it,My fiance and I were leaving Albuquerque headed South.  We looked at the sky and saw a flying craft that looked like a spinning top or a cone with different colored rings spinning around it.  The rings were red and yellow.  It hovered in one spot far away in the horizon toward Arizona.  We could not believe what we were seeing. We saw it in the sky hovering and I thought maybe it was a helicopter.  No Way!  The way it was moving no craft that we know of or have seen moved like this UFO.  I got to take pictures of it with my phone.  There was a moment where it stopped hovering and went forward then again continued hovering until we reached Belen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106842.html](http://www.nuforc.org/webreports/reports/106/S106842.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Elmwood Pk (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>a luminous object flying eastbound on RT. 64 north of River Forest, IL.  After my observation going at about 10mph....!!! no noise!!!  mabye Santa has a new sleigh???  During Christmas Eve.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54178.html](http://www.nuforc.org/webreports/reports/054/S54178.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [433](http://www.nuforc.org/webreports/reports/161/S161306.html)
-- [432](http://www.nuforc.org/webreports/reports/161/S161298.html)
-- [431](http://www.nuforc.org/webreports/reports/161/S161585.html)
-- [430](http://www.nuforc.org/webreports/reports/161/S161369.html)
-- [429](http://www.nuforc.org/webreports/reports/161/S161296.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
