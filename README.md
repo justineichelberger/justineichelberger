@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:32 on 24 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:21 on 24 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in St. Maries (ID) reported seeing craft that fit the description of some '' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Swooshing sound, bright white/red lights,light up whole area obove and surrounding house in IdahoI had just gone to bed and turned out the lights.  My son was watching TV in the living room.  I heard a sound like a strong wind blowing and the large windows in my bedroom (4X6) & (3X8) started lighting up as if there was lightning outside.  I waited for a few minutes and it continued so I decided to unplug the computer and TV's.  I went in the living room where we have a 6 X 12 ft window and four other windows down the side of the LR, DR area.  The flashes continued, like lightning although there was no storm, thunder, or black clouds. My son opened the front door to go out but being new to the area I thought if it was lightning, it was dangerous (I lived previously in Arizona). Suddenly the whole field, about six acres and the mountain on the other side of the field and all the property we could see down the side of the house lit up in a very bright light like a giant spot light for about three or four seconds. It really startled us.  Then a red light flashed in the same manner for about one to two seconds.  There were a couple of smaller flashes and then everything just stopped suddenly.  There was the sound of wind and then everything was quiet.  I was new to Idaho and told my sister about it and she said they do not have sheet lightning in the winter.  There was nothing in the local paper re this incident.  I was not going to report it but it has been on my mind and I cannot reach a satisfactory explaination for what we saw.  I wonder if there has been any other reports of bright lights on this date?  I am sure now it was not lightning and I wish we had gone outside to look up in the sky because the light seemed to come down from directly over the house.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15986.html](http://www.nuforc.org/webreports/reports/015/S15986.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two bright orange lights were moving straight across the sky with no engine sound.I saw an orange light in the night sky moving from the northwest to the east as I was out walking my dog.  As I turned back to the northwest to return to my house I saw another bright orange light moving in the same pattern.  I asked my family to come out and look at the light.  We all thought the light appeared to be flickering but it was bright.  It moved in a straight line following the same path as the previous light but there was no sound.Comparing what we saw to a news report from Cape Coral, Florida, we felt we saw the same kind of light that was sighted the family there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116343.html](http://www.nuforc.org/webreports/reports/116/S116343.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [433](http://www.nuforc.org/webreports/reports/161/S161306.html)
-- [432](http://www.nuforc.org/webreports/reports/161/S161298.html)
-- [431](http://www.nuforc.org/webreports/reports/161/S161585.html)
-- [430](http://www.nuforc.org/webreports/reports/161/S161369.html)
-- [429](http://www.nuforc.org/webreports/reports/161/S161296.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
