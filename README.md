@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:29 on 23 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:29 on 24 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Bowie (MD) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>disc shaped, blue /white light UFO flying low and fastI was driving South on the Baltimore Washington Parkway on Sunday December 23rd at around 6:45 pm when I saw a large (larger than a full moon) whitish blue disc-like shape fly from right to left and disappear in the middle of the sky.  It was low in the sky and was visible for only 3-4 seconds. There were no other smaller lights or any visible features and it flew through the sky extremely fast and very smooth.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60472.html](http://www.nuforc.org/webreports/reports/060/S60472.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Cancun (Mexico) () reported seeing craft that fit the description of some 'Other' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>'dancing' lights that looked like starts zig-zagging and doing other incredible manouveres in Cancun MexicoI was out on my balcony of my hotel lying down looking at all the stars and then I noticed that one of them started to 'wiggle'. I could not believe I was actually seeing a UFO. I rushed downstairs with my camera and binoculars and got some of the staff at the hotel reception to come outside and view this UFO. They came out and saw what I was on about, a 'star' moving around seemingly randomly but definatley with amazing speed and at crazy angles - almost 'dancing' in the sky but then after about 5 minutes of looking around the sky I said 'hold on - there are 12 of these things up there'. The hotel staff and myself watched these objects moving around the sky for the next two hours, some of them moving in perfect formation with the others until the sun started coming up. I took many photos of these things which must have been moving at phenemonal speeds; you can clearly see that the stars are stationary in these photos but the ufos are moving so quickly that they have left light streaks on the image in the time it took the for the camera to take the picture whilst the stars are totally stationary. These 'lights' seemed to be under intelligent control. They almost seemed to be putting on 'as show' for us!  This was just the beginning of a series of amazing observations over the next 4 nights which did not just consist of light streaks in the sky, the other stuff is even more incredible. I would really love somebody to examine the images that I have;I have waited this long to see if I could find any images similar to the ones I have and I still have not seem anything similar to the images that I have. I hope that through this organisation my images can be investigated.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30694.html](http://www.nuforc.org/webreports/reports/030/S30694.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
