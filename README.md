@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:27 on 24 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:21 on 24 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Menifee (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>My wife noticed the two orange lights first.  We pulled over so I could take a picture, but couldnt capture one.  We saw two bright orange lights in the sky if you were looking North East of the 215 and newport road in Menifee Ca.  One looked higher in altitude. Both were montionless.  After 2-3 minutes of observation, the higher altitude craft just fanishes,  30 seconds later the 2nd one disappeared as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131876.html](http://www.nuforc.org/webreports/reports/131/S131876.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Oklahoma City (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I saw a light in the sky then another light eminated from it and fell to the earth when it reached earth the object in sky went out.Hi nuforc staff this is a first for me and i feel silly actually going to the trouble to send this report, but i cant help what i saw on the evening of wednesday december 24 .  First i must say that i have seen what i believed to be a ufo several years ago (5 or more)  that was three very bright lights in the shape of a triangle.  There were muptiple witnessness that saw the object that simply disapeared after a few seconds.  So in saying that, since that incident i have become obsessed in watching for ufos or anything that could not be explained.  I have become an avid skywatcher and have not seen anything out of the ordinary since, until now.  After this incident i searched online for the proper way to report this type of thing and i found this is the way to go.On the evening of Wed. Dec 24 2008, after trying to return a christmas gift i was heading home in the major metro and just before i reached my destination i witnessed a large strange orange light in the NNW sky ahead of me.  I just happened to stare long enough approximately 6-8 seconds to witness another much smaller light that appeared to be the exact same color as the larger light eminate from the larger one and slowly float to the earth in a straight line.  When the smaller light appeared to reach the ground the light in the sky just disappeared.My first impression when i saw the light was an airplane but i remember thinking quickly the plane has dirt inside the light because of the odd color.  Then when the smaller light appeared out of the other i was quickly thinking that sparks were coming out of the plane and i was witnessing a plane malfuntion or crash.  Then when the second object never flickered and went to the earth at the same slow speed and as soon as it seemed to reach earth the object in the sky simply went out, i knew i was seeing something unordinary.  So i pulled off the side of the road and stopped to look for a plane or helicopter.  I stared at that part of the sky for anything flying and seen absolutely nothing.  The background was nothing but sky with a few high level clouds.  I hope to talk to any representative who wishes to hear this account in person.  THIS IS NOT A HOAX.  follow ups will be granted and wishfully expected.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67614.html](http://www.nuforc.org/webreports/reports/067/S67614.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [433](http://www.nuforc.org/webreports/reports/161/S161306.html)
-- [432](http://www.nuforc.org/webreports/reports/161/S161298.html)
-- [431](http://www.nuforc.org/webreports/reports/161/S161585.html)
-- [430](http://www.nuforc.org/webreports/reports/161/S161369.html)
-- [429](http://www.nuforc.org/webreports/reports/161/S161296.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
