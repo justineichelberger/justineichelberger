@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:42 on 24 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:23 on 24 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Baton Rouge (LA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red orb spotted over Shenendoah Subdivision - Baton RougeSighted over Shenendoah Subdivision.  Light was traveling vertical paused about 10 seconds, moved vertical once more.. then Straight down at a very fast speed.  There was absolutely no noise being emitted from object.  Object seemed to be round.  It shone with one very red light, making it appear to be a red orb.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79929.html](http://www.nuforc.org/webreports/reports/079/S79929.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Watford (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Dim, orange, circular object (centre of disk brighter than outside edge), travelling from NE across sky to SW, changing direction by approx 10 degrees 'instantly'. Below cloud deck but still high. Silent, and travelling at great speed (at least 9 times faster than a commercial jet).I saw the object at the above time and location, from my back garden whilst having a cigarette. It appeared from the NE above the roof of my home, and headed towards the SW. It was travelling at great speed. I estimated it to be about 9 times faster than a comercial jet. My home was under a flight path from Heathrow, so I constantly saw jets high in the sky travelling over from the west to the east. The object was a dim, slightly glowing orange disk. The center was brighter than the outside edge. It was high, but still below the cloud deck, which was at its usual hight that evening. There were clouds dotted around the sky, and no other objects/jets etc visible at the time. As an amateur astronmer I instantly knew that this was not any kind of natural phenomena. Nor was it was like any kind of aircraft I had ever seen before. This was all the more obvious because of its great speed and silence. When the object had traversed about two thirds of the way across the sky it suddenly changed direction by about 10 degrees. The change of direction was 'instant', showing no curvature or arc during the maneuver. The object was silent for the entire time I saw it which, due to its speed was only about 4 or 5 seconds. The object left no vapour trail of any kind. It disapeared into the SW over houses and out of my sight. The direction was roughly towards the town's main park...Cassiobury. As it was Christmas eve I had family and friends staying with me. I went into the house and told them all. They advised me to contact the local newspaper, but I didn't. The reason for me remembering the time and date so well were of course due to the fact that it was December the 24th. Although I have always found this kind of thing interesting I have never seen anything before or since, and I am not the kind of person to 'fake' something like this. As an amateur astronmer I a interested in the night sky for many reasons, but that night is one I will never forget, even though I didn't have my telescope out that time!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11867.html](http://www.nuforc.org/webreports/reports/011/S11867.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [433](http://www.nuforc.org/webreports/reports/161/S161306.html)
-- [432](http://www.nuforc.org/webreports/reports/161/S161298.html)
-- [431](http://www.nuforc.org/webreports/reports/161/S161585.html)
-- [430](http://www.nuforc.org/webreports/reports/161/S161369.html)
-- [429](http://www.nuforc.org/webreports/reports/161/S161296.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
