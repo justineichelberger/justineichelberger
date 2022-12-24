@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:31 on 24 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:37 on 24 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Memphis (TN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Four bright orange lights in a perfect square that was slowly drifting before separating and disappearing.My family and I were finishing Christmas Eve dinner when my aunt went to the car, ran back in, and said we had to come see something. In the sky were four bright orange lights, slightly larger than airplane lights or stars- the largest lights in the sky but very high up. The odd thing was that they created a perfect square that was drifting slowly through the air. We assumed they were part of one craft until they all began to drift off in other directions and quickly faded out. The fact that they kept the square formation so perfectly was what got everyone. Some neighbors down the street were watching, but we didn't ask them about it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60551.html](http://www.nuforc.org/webreports/reports/060/S60551.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in West Jordan (UT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>4 red orbs over West Jordan, UT. on Christmas Eve 2011On the evening of Christmas Eve, 2011, my husband and I, along with our 2 young children, were driving to my parents’ home to celebrate the holiday.  We were about 5 minutes from their home when I noticed a diamond shape of 4 red orbs in the night sky.  They were much farther away than planes or clouds, but much closer than stars.  I pointed the orbs out to my husband and both of us were confused about what we were seeing.  We arrived at my parents’ home, watching the red orbs during the entire drive.  When we reached their driveway, my husband ran inside to get my parents to come outside and look at what we were seeing.  I pulled out my phone to take pictures and got out of the car for a better look.  As I pointed my phone toward the sky I realized I couldn’t see the red orbs on the camera of my phone.  When I looked away from my phone and back at the sky, one of the 4 orbs was gone…there were only 3 left.  I decided to stare at the orbs and watch what they! did, rather than try to take pictures.  As I was staring at the orbs, each one faded out to black – they didn’t move around the sky, they just “turned off,” so to speak.  My husband and parents did not make it outside in time to see them…they had disappeared by that time, in a matter of maybe 2 minutes.I’ve been searching the internet for answers since this happened, but didn’t think to report the occurrence until I heard Peter Davenport on Coast to Coast AM with George Noory on 06/20/12, when he discussed this happening more frequently across the country since June of 2011 – and he was describing something very similar to what we saw.Thanks for your time.  I look forward to an explanation…if one ever comes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90150.html](http://www.nuforc.org/webreports/reports/090/S90150.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [433](http://www.nuforc.org/webreports/reports/161/S161306.html)
-- [432](http://www.nuforc.org/webreports/reports/161/S161298.html)
-- [431](http://www.nuforc.org/webreports/reports/161/S161585.html)
-- [430](http://www.nuforc.org/webreports/reports/161/S161369.html)
-- [429](http://www.nuforc.org/webreports/reports/161/S161296.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
