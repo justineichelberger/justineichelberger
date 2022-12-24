@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:21 on 24 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:21 on 24 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two bright orange lights were moving straight across the sky with no engine sound.I saw an orange light in the night sky moving from the northwest to the east as I was out walking my dog.  As I turned back to the northwest to return to my house I saw another bright orange light moving in the same pattern.  I asked my family to come out and look at the light.  We all thought the light appeared to be flickering but it was bright.  It moved in a straight line following the same path as the previous light but there was no sound.Comparing what we saw to a news report from Cape Coral, Florida, we felt we saw the same kind of light that was sighted the family there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116343.html](http://www.nuforc.org/webreports/reports/116/S116343.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Cherry Fork (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three red lights in triangle formation no sound but movement.I told friends and co-workers about this in the days after the event.  I did not try to report further till I saw the Lafayette Co report.  It was like watching a video of what we saw.  Exactly the same. I just thought someone should know of the event</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80683.html](http://www.nuforc.org/webreports/reports/080/S80683.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [433](http://www.nuforc.org/webreports/reports/161/S161306.html)
-- [432](http://www.nuforc.org/webreports/reports/161/S161298.html)
-- [431](http://www.nuforc.org/webreports/reports/161/S161585.html)
-- [430](http://www.nuforc.org/webreports/reports/161/S161369.html)
-- [429](http://www.nuforc.org/webreports/reports/161/S161296.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
