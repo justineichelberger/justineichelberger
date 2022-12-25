@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:16 on 25 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:47 on 25 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Los Angeles (ID) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>WE SAW A UFO!it was a cold night, i was driving a newly wed couple around our gorgues city before i was to drop them off at the Hilton hotel for the start of their romantic honeymoon.all of a sudden the lady spotted a glowing object out side the side window. we didnt see it for long as we drove behind a building, when we looked next it had dissapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60205.html](http://www.nuforc.org/webreports/reports/060/S60205.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in San Pedro (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Outside of my window on Christmas day (from second story apartment), I had a strange feeling to look outside and so I did. I noticed immediately a strange ball of lights that changed various colors about 40 feet from my bedroom window it was almost so close, enough for me to see it's round sphere like shape. I know it noticed me because it flew so fast that I just grabbed my phone to record. Almost a full 45 minutes  it was in the area going from one spot to another and then disappearing  and the crazy thing is  know it was a UFO. I know there are no man made space craft that when going invisible, turn the color Burgundy. I have many pieces of video footage from close up zoomed in video footage of it and am hesitant to upload on social media. The colors it changed was beautiful. While everyone was at home and enjoying Christmas, I was recording something super cool!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161599.html](http://www.nuforc.org/webreports/reports/161/S161599.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/161/S161322.html)
-- [388](http://www.nuforc.org/webreports/reports/161/S161308.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161327.html)
-- [386](http://www.nuforc.org/webreports/reports/161/S161304.html)
-- [385](http://www.nuforc.org/webreports/reports/161/S161324.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
