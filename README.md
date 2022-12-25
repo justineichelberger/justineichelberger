@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:28 on 25 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:16 on 25 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Cape Coral (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>We had spent an couple hours enjoying a very small fire in a rock fire pit in our back yard.   The fire was out down to embers, and the moon and the street lights in front of the house were the brightest light sources in the area.  We saw(4) lights at maybe 5*-10* west of due south.  The lights were pumpkin orange and brighter than the handful of stars visible facing south at the time.  They were as bright or maybe slightly dimmer than the north star (opposite direction in the sky so a true visual comparison was not possible.  However, I did look briefly behind me to use it as a general basis for comparison).  The lights appeared out of no where and appeared to move independently for the first minute we saw them.  They all shifted position both vertically and horizontally 2 or 3 times rather quickly.  They then adjusted position relative to each other and formed a perfect square in the sky.  It maintained this for about 3-5 minutes.  Then one light (upper right ! of the square) disappeared suddenly like turning off a light.  With the two left lights maintaining position, the lower right moved out and up, the three forming an equilateral triangle pointing west. It maintained this formation for 5-7 minutes or so.  Just floating there.  During this time, a commercial flight crossed between us and the lights while traveling west to east.  From our view point it passed directly between us and the lower left light blocking it out completely in passing with the light reappearing in it's location after passing.  The plane's lights were on and was likely either circling or on final approach to Southwest Florida International Airport (RSW).  The plane was visibly brighter (about 2 times), and much lower in the sky, with both solid and flashing lights on.  The lower left light looked like it descended suddenly out of sight.  The lower right light appeared to travel due west and out of sight.  Neither of these had a trail of any kind, just a qu! ick moving point of light.  The upper light appeared to remain! in plac e but just got fainter and fainter over about 30 seconds and faded out once the other two had gone.  It was like watching a light traveling directly away from you until it disappears.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124854.html](http://www.nuforc.org/webreports/reports/124/S124854.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Los Angeles (ID) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>WE SAW A UFO!it was a cold night, i was driving a newly wed couple around our gorgues city before i was to drop them off at the Hilton hotel for the start of their romantic honeymoon.all of a sudden the lady spotted a glowing object out side the side window. we didnt see it for long as we drove behind a building, when we looked next it had dissapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60205.html](http://www.nuforc.org/webreports/reports/060/S60205.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/161/S161322.html)
-- [388](http://www.nuforc.org/webreports/reports/161/S161308.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161327.html)
-- [386](http://www.nuforc.org/webreports/reports/161/S161304.html)
-- [385](http://www.nuforc.org/webreports/reports/161/S161324.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
