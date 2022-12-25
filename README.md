@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:27 on 25 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:39 on 25 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Did not see object until after picture was taken and picture downloaded to computer.Picture file being sent is      snow barn object.jpg</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26763.html](http://www.nuforc.org/webreports/reports/026/S26763.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Port Charlotte (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5833333333333334 - 0.5833333333333334 minutes.</sub><blockquote><sub>Bright reddish-orange sphere in southern night sky.Port Charlotte, Florida December 25, 2013, @ 8:50 pm.My father and I were in the pool when we noticed a bright, reddish-orange sphere appear in the eastern sky.  It flew across the sky, from the east to west; our pool area faces south and we were able to watch it as it crossed the night sky to the south of us.  It moved at a high rate of speed.  It was difficult to determine the altitude of the object, but it could not have been more than several thousand feet.  There were no flashing lights.  It made absolutely no noise.  It was a bright, illuminated, reddish-orange object and it flew on a level course.  During the 35-40 second sighting, our neighbor’s dog began barking (this could have been a response to our excited conversation during the sighting).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105650.html](http://www.nuforc.org/webreports/reports/105/S105650.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/161/S161322.html)
-- [388](http://www.nuforc.org/webreports/reports/161/S161308.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161327.html)
-- [386](http://www.nuforc.org/webreports/reports/161/S161304.html)
-- [385](http://www.nuforc.org/webreports/reports/161/S161324.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
