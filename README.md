@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:23 on 25 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:19 on 25 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Nashville (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange lights traveling in a southeasterly direction.  Object(s) didn't blink, absolutely no sound either.  Watched until it moved out of sight.  One more orange object appeared and wasa going relatively fast.  It appeared it was trying to catch up with the other lights.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116278.html](http://www.nuforc.org/webreports/reports/116/S116278.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Chandler (AZ) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>2 Solid round Orbs, one white / one red.  Stopping/ starting, in the sky above me.  Both orbs very clear, solid.One solid red round Orb like light.  One Solid white Orb like light.  Red Object at a standstill, white object came into view, and looked like the white Light was going to crash into the red light in its trajectory. but white object veered off And came to a stop, past the red object.  Then white object began moving again, and and zipped past the red light again, as If the two lights were playing a Game of "Chicken"   This went on for approx. 4-5 mins, then White light speed off out of sight.  Approx. 1 min later the red light took off until it was out of sight..  This was at Approx. 6:10, 6:15 PM At Chandler, Az.  Cross streets,  Cooper rd/Pecos rd.  85225.((NUFORC Note:  We spoke via telephone with the witness, and found her to be quite sober-minded.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138112.html](http://www.nuforc.org/webreports/reports/138/S138112.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/161/S161322.html)
-- [388](http://www.nuforc.org/webreports/reports/161/S161308.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161327.html)
-- [386](http://www.nuforc.org/webreports/reports/161/S161304.html)
-- [385](http://www.nuforc.org/webreports/reports/161/S161324.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
