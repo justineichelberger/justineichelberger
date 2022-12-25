@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:39 on 25 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:23 on 25 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Port Charlotte (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5833333333333334 - 0.5833333333333334 minutes.</sub><blockquote><sub>Bright reddish-orange sphere in southern night sky.Port Charlotte, Florida December 25, 2013, @ 8:50 pm.My father and I were in the pool when we noticed a bright, reddish-orange sphere appear in the eastern sky.  It flew across the sky, from the east to west; our pool area faces south and we were able to watch it as it crossed the night sky to the south of us.  It moved at a high rate of speed.  It was difficult to determine the altitude of the object, but it could not have been more than several thousand feet.  There were no flashing lights.  It made absolutely no noise.  It was a bright, illuminated, reddish-orange object and it flew on a level course.  During the 35-40 second sighting, our neighbor’s dog began barking (this could have been a response to our excited conversation during the sighting).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105650.html](http://www.nuforc.org/webreports/reports/105/S105650.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Conover (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Stealth-like transparent triangular object makes incredible maneuver and disappearsPlease note: I am filing this report more than two months later as I did not know about this site. All I remember is that thic incidence either happened on the 24th, 25th, or 26th of December, 2005. I was leaving the town center of Conover and driving on 1st Street West towards Interstate I-40.  As I looked out of the car windshield I got a mental shock as I thought a aircraft-crash is going to happen. It "looked like" in the first moment like a fighter plane with triangular solid shape (no distinctive wings) in a sort of stealthy transparent grey, flying straight down (totally vertical) from maybe one mile above ground (when I started to see it). I thought it will fly straight into the ground, at extremely high speed. I guess a speed of at least 1000-2000 mph.  I was in shock at this point and made a significant "sigh" that my female friend said: "WHAT???!". I  couldn't answer; my thought was: "it's going to crash!"... But in that moment, maybe 600 feet above ground, it made a very sharp right-angular turn away from us, into a horizontal flight pattern, climbing up in an approximately 30 degree angle. But "the object" disappeared SUDDENLY after about one second into "nothing". No trail, nothing.  Due to being in the car I can not say if there was a sound; I heared no sound. Observation: No conventional technology aircraft could have made a sort of 90 degree turn at THAT speed.The G-force of that turn would have been incredible (impossible to a human pilot) by earthly standards.The sudden disappearance was not just a fast fading out of sight, it was a SUDDEN;  disappearance. I have a private pilot's licence. I am a graduated technical engineer.What I saw would be impossible to perform with conventional aircraft technology.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49347.html](http://www.nuforc.org/webreports/reports/049/S49347.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/161/S161322.html)
-- [388](http://www.nuforc.org/webreports/reports/161/S161308.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161327.html)
-- [386](http://www.nuforc.org/webreports/reports/161/S161304.html)
-- [385](http://www.nuforc.org/webreports/reports/161/S161324.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
