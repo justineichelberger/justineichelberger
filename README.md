@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:46 on 25 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:23 on 25 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Portsmouth (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 Orange/red Orbs in the sky early morning Christmas Day 2013 in Portsmouth, Ohio.Roughly 0030 on Christmas Day myself and my kids we're driving through Portsmouth,  Oh on our way to Kentucky to visit family.  While driving through Portsmouth, Ohio, my eldest son had noticed 3 orbs in the sky that were orange/red in color.  I pulled over to the side of the road and all of us got out of the vehicle to get a better view.  The orbs/craft were flying side-by-side in a line formation.  They seemed to be gliding through the sky smoothly. There was no sound that I could hear coming from the crafts.  They were roughly 800-1500 feet in the air.  We watched them for about 2min, that's was when they faded in the clouds and disappeared.  This is the first time I've seen anything remotely looking like a UFO.  I've been in the military going on 20yrs and I've been around just about every type of aircraft known to the military.  I know what aircraft sound like and how they move, and this was something that I've never seen before.  But I'm glad I had the chance to experience this with my children; because we are all believers.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105955.html](http://www.nuforc.org/webreports/reports/105/S105955.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Nashville (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange lights traveling in a southeasterly direction.  Object(s) didn't blink, absolutely no sound either.  Watched until it moved out of sight.  One more orange object appeared and wasa going relatively fast.  It appeared it was trying to catch up with the other lights.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116278.html](http://www.nuforc.org/webreports/reports/116/S116278.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/161/S161322.html)
-- [388](http://www.nuforc.org/webreports/reports/161/S161308.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161327.html)
-- [386](http://www.nuforc.org/webreports/reports/161/S161304.html)
-- [385](http://www.nuforc.org/webreports/reports/161/S161324.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
