@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:20:00 on 25 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:21 on 25 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lonoke (AR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately very brief - very brief minutes.</sub><blockquote><sub>Glowing star-like object grows large and then vanishes.I was standing outside my grandparents house, gazing into the night sky when the siting occurred.  I saw an unusually large star-like object that was stationary.  After a moment of viewing it, it grew to the size of my finger tip against the sky and then shrunk into nothing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74648.html](http://www.nuforc.org/webreports/reports/074/S74648.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Anchorage (AK) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Anchorage Alaska Gray Aliens are conducting barbaric inhumane human experiments on innocent children,that needs to be destroyed!The UFO were dropping from stationary stars over anchorage.  They were dropping straight down like they were leaving from  it and the others were moving beneath the darkness horizontally.  These were distinctively different than the orange circle fleets that popped up from the ground formed a serpentine geometrical danse and dispersed.  Or the fake red helicopters that are sometimes utilized by them.((NUFORC Note:  For some reason, the witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138068.html](http://www.nuforc.org/webreports/reports/138/S138068.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/161/S161322.html)
-- [388](http://www.nuforc.org/webreports/reports/161/S161308.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161327.html)
-- [386](http://www.nuforc.org/webreports/reports/161/S161304.html)
-- [385](http://www.nuforc.org/webreports/reports/161/S161324.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
