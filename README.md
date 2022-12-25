@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:20 on 25 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:24 on 25 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Melbourne (VT) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>in my oppinion large object was under attack also spotted space junk one flash of orange light took off like commetfirst object appeared horrizon darting up down left right for app 5 mins befor vanishing into space at 3;45 am then more appeared app 5 min intervals accross the sky started like a satelight then moved more rappidly weiving left right slowed stopped when we noticed tiny pin pricks gathering around the front forming a tryangle this slowed object as it would dart of away from smaller objects when tryangle was complete to a point.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67634.html](http://www.nuforc.org/webreports/reports/067/S67634.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Helena (MT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orange ball in the night skyAt 2100 on December 25, 2011, looking to the east my boyfriend and I saw an orange ball of light moving north across the sky.  The object started moving straight across the sky and then appeared to move directly upward. The orange light started to blink and quickly dimmed to look like just a star in the night sky. A few seconds later the object disappeared completely. There were not any blinking lights on the object and there did not appear to be any aircraft in the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86089.html](http://www.nuforc.org/webreports/reports/086/S86089.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/161/S161322.html)
-- [388](http://www.nuforc.org/webreports/reports/161/S161308.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161327.html)
-- [386](http://www.nuforc.org/webreports/reports/161/S161304.html)
-- [385](http://www.nuforc.org/webreports/reports/161/S161324.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
