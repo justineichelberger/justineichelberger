@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:23 on 25 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:22 on 25 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Conover (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Stealth-like transparent triangular object makes incredible maneuver and disappearsPlease note: I am filing this report more than two months later as I did not know about this site. All I remember is that thic incidence either happened on the 24th, 25th, or 26th of December, 2005. I was leaving the town center of Conover and driving on 1st Street West towards Interstate I-40.  As I looked out of the car windshield I got a mental shock as I thought a aircraft-crash is going to happen. It "looked like" in the first moment like a fighter plane with triangular solid shape (no distinctive wings) in a sort of stealthy transparent grey, flying straight down (totally vertical) from maybe one mile above ground (when I started to see it). I thought it will fly straight into the ground, at extremely high speed. I guess a speed of at least 1000-2000 mph.  I was in shock at this point and made a significant "sigh" that my female friend said: "WHAT???!". I  couldn't answer; my thought was: "it's going to crash!"... But in that moment, maybe 600 feet above ground, it made a very sharp right-angular turn away from us, into a horizontal flight pattern, climbing up in an approximately 30 degree angle. But "the object" disappeared SUDDENLY after about one second into "nothing". No trail, nothing.  Due to being in the car I can not say if there was a sound; I heared no sound. Observation: No conventional technology aircraft could have made a sort of 90 degree turn at THAT speed.The G-force of that turn would have been incredible (impossible to a human pilot) by earthly standards.The sudden disappearance was not just a fast fading out of sight, it was a SUDDEN;  disappearance. I have a private pilot's licence. I am a graduated technical engineer.What I saw would be impossible to perform with conventional aircraft technology.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49347.html](http://www.nuforc.org/webreports/reports/049/S49347.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Belfair (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Bright lights changing formation and the flying straight up until they disappeared.At 18:49 I was surprised to see what I at first believed to be red flares in the low east sky from my residence.  It wasn't until 9 of the came into view and went from a straight line into a shape that resembled the Little Dipper that I realized these craft were flying.  They proceeded to change to a southward direction, as well as gained more altitude. I ran for my camera and had someone else come and see what was going on.  In less than 5 minutes time they had again changed formation and were disappearing into the sky as they changed direction and went straight up into the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131877.html](http://www.nuforc.org/webreports/reports/131/S131877.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/161/S161322.html)
-- [388](http://www.nuforc.org/webreports/reports/161/S161308.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161327.html)
-- [386](http://www.nuforc.org/webreports/reports/161/S161304.html)
-- [385](http://www.nuforc.org/webreports/reports/161/S161324.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
