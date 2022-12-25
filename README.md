@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:25 on 25 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:24 on 25 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Moncks Corner (SC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My family and myself witnessed 5 glowing fireball like orbs in the sky late Christmas night.My husband, my children (7 and 5), my father in law and myself were heading out from the grands house around 10:00 PM Christmas night.  My father in law was sitting in the drive, waiting for us to come out to take us home when he noticed what he at first glance thought was a plane with an engine on fire.  Mind you my father-in-law worked in law enforcement for 25+ years here in our town.  He has actually witnessed a small plane go down.  Upon looking he noticed that there were two more just like it trailing the first in almost an uneven triangular shape with a fourth trailing even further behind on the right.  There was also no sound at all. He had no explanation for what he was seeing.  At this time my family and myself were walking out to greet him and pile in the car to go when he started to tell us what he had seen.  We then looked up (naturally) to see exactly what he was talking about and sure enough we caught the fifth and last fireball looking orb.  It had momentum and seemed to be moving in a direction.  They all went in the same direction.  The one my husband and my kids witnessed as well as myself was completely silent.  There were planes all in the sky and you could clearly identify them just by looking and listening, but this orb like ball was different.  If you stared at it, it looked as if the entire thing was on fire and it kind of bobbed as it was moving forward.  It never lost or gained altitude.  It just traveled across the sky until completely out of sight.  My kids were excited and wanted to know what we had just seen..  All I could tell them was that (because of their ages) it was Santa and Rudolph going back home to the North Pole after visiting the children in the US.  My husband and I were baffled and dumbfounded, but I found the whole experience exciting, especially because my odds of ever witnessing that again are slim to none.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125144.html](http://www.nuforc.org/webreports/reports/125/S125144.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Burlington (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Triangle fire-like ball over BurlingtonWe started out on the main road heading home when up in the sky I witnessed a triangle of firelike balls in the sky in the direction of the airport. Upon my pressing my girlfriend we went closer to the triangle and the the two lower fireballs disappeared but the top fireball was still in place.  We stopped by the road where a blue truckful of guys about four of them also saw it and took a video of it. As we kept watching it, it was speeding up in the direction of Sedro Woolley at a medium speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86127.html](http://www.nuforc.org/webreports/reports/086/S86127.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/161/S161322.html)
-- [388](http://www.nuforc.org/webreports/reports/161/S161308.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161327.html)
-- [386](http://www.nuforc.org/webreports/reports/161/S161304.html)
-- [385](http://www.nuforc.org/webreports/reports/161/S161324.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
