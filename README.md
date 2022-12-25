@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:21 on 25 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:26 on 25 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Anchorage (AK) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Anchorage Alaska Gray Aliens are conducting barbaric inhumane human experiments on innocent children,that needs to be destroyed!The UFO were dropping from stationary stars over anchorage.  They were dropping straight down like they were leaving from  it and the others were moving beneath the darkness horizontally.  These were distinctively different than the orange circle fleets that popped up from the ground formed a serpentine geometrical danse and dispersed.  Or the fake red helicopters that are sometimes utilized by them.((NUFORC Note:  For some reason, the witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138068.html](http://www.nuforc.org/webreports/reports/138/S138068.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Woodlyn (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Thought it was a shooting star but it was way too low to be oneI was unloading Christmas presents when i saw what I thought was a shooting star but it was too low and looked like it was pulsing.  The object streaked off towards the river (east) and disappeared  I have seen shooting stars and this was not one. The object was moving at a high rate of speed and seemed to just vanish.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67633.html](http://www.nuforc.org/webreports/reports/067/S67633.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/161/S161322.html)
-- [388](http://www.nuforc.org/webreports/reports/161/S161308.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161327.html)
-- [386](http://www.nuforc.org/webreports/reports/161/S161304.html)
-- [385](http://www.nuforc.org/webreports/reports/161/S161324.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
