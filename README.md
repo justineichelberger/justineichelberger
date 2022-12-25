@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:24 on 25 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:20 on 25 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Burlington (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Triangle fire-like ball over BurlingtonWe started out on the main road heading home when up in the sky I witnessed a triangle of firelike balls in the sky in the direction of the airport. Upon my pressing my girlfriend we went closer to the triangle and the the two lower fireballs disappeared but the top fireball was still in place.  We stopped by the road where a blue truckful of guys about four of them also saw it and took a video of it. As we kept watching it, it was speeding up in the direction of Sedro Woolley at a medium speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86127.html](http://www.nuforc.org/webreports/reports/086/S86127.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Melbourne (VT) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>in my oppinion large object was under attack also spotted space junk one flash of orange light took off like commetfirst object appeared horrizon darting up down left right for app 5 mins befor vanishing into space at 3;45 am then more appeared app 5 min intervals accross the sky started like a satelight then moved more rappidly weiving left right slowed stopped when we noticed tiny pin pricks gathering around the front forming a tryangle this slowed object as it would dart of away from smaller objects when tryangle was complete to a point.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67634.html](http://www.nuforc.org/webreports/reports/067/S67634.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/161/S161322.html)
-- [388](http://www.nuforc.org/webreports/reports/161/S161308.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161327.html)
-- [386](http://www.nuforc.org/webreports/reports/161/S161304.html)
-- [385](http://www.nuforc.org/webreports/reports/161/S161324.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
