@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:24 on 25 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:46 on 25 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Zig Zagging Star Over Tampa FloridaMc Donalds Christmas nightime party.  Upper deck 1975.  Witness was an Airforce personnel who worked part time named Luis I believe.  We saw a triangular bright looking star and watched it go straight, zig zag, zooming up and down.  I asked him is that a new air craft on Mc Dill AFB?  He said no!  A plane or craft we have cannot move like that.  No one was on the rooftop but us at that time so he told me never to tell because people would think we were nuts.  He had his career to think about.  I will never forget it.  I was about 16 or so I believe.  I am now getting up in age so I want it known and wonder if any other people living in Tampa saw this?  We could not have been the only ones. It looked like a star it was so bright and high in the sky.  He said this thing must be larger than what we were seeing!  Just need someone to know this information in case anything ever happens to me.((NUFORC Note:  Date above is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98169.html](http://www.nuforc.org/webreports/reports/098/S98169.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Portsmouth (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 Orange/red Orbs in the sky early morning Christmas Day 2013 in Portsmouth, Ohio.Roughly 0030 on Christmas Day myself and my kids we're driving through Portsmouth,  Oh on our way to Kentucky to visit family.  While driving through Portsmouth, Ohio, my eldest son had noticed 3 orbs in the sky that were orange/red in color.  I pulled over to the side of the road and all of us got out of the vehicle to get a better view.  The orbs/craft were flying side-by-side in a line formation.  They seemed to be gliding through the sky smoothly. There was no sound that I could hear coming from the crafts.  They were roughly 800-1500 feet in the air.  We watched them for about 2min, that's was when they faded in the clouds and disappeared.  This is the first time I've seen anything remotely looking like a UFO.  I've been in the military going on 20yrs and I've been around just about every type of aircraft known to the military.  I know what aircraft sound like and how they move, and this was something that I've never seen before.  But I'm glad I had the chance to experience this with my children; because we are all believers.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105955.html](http://www.nuforc.org/webreports/reports/105/S105955.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/161/S161322.html)
-- [388](http://www.nuforc.org/webreports/reports/161/S161308.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161327.html)
-- [386](http://www.nuforc.org/webreports/reports/161/S161304.html)
-- [385](http://www.nuforc.org/webreports/reports/161/S161324.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
