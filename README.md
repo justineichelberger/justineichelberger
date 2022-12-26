@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:35 on 26 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:23 on 26 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Maugansville (MD) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>While walking my dog,  I noticed several orange/red lights in the sky.  The number is an approximate guess as a row of townhouses was in my line of sight just below the lights.  I positioned myself to make sure I wasnt just seeing ambient lights reflecting onto the house that appeared to be beneath the lights but as I did it became obvious the lights were indeed in the sky.  I brought my dog inside the house and called for my wife.  By the time she came outside,  I tried to point her at the lights but she was focusing on local air traffic.  Ilookid in the exact same spot I first saw the objects bt by this time only one was visible.  It disappeared before I could get my wife to see it.  I drove to a local spot with exceptional views for miles but saw nothing but standard aviation traffic.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86107.html](http://www.nuforc.org/webreports/reports/086/S86107.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Nashville (TN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangular Craft seen in Nashville TennesseeWe were driving down hwy 100 in Nashville driving by Percy Warner Park area when above the hill we saw a triangular craft about 100 ft across going over the hill away from of us we saw about 2/3 of the object. we saw two white lights and a red one in the middle the third white light must of been on its fron already over the hill. Our background is that we all work in a music studio in Bellevue in Davidson county and we were driving to my house to get some more reel to reel tape for the recording machines at rob's house/studio. It was about 1:50 am. I have seen other objects in the past couple of years in the same area but not a triangle craft until now.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20959.html](http://www.nuforc.org/webreports/reports/020/S20959.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/161/S161325.html)
-- [258](http://www.nuforc.org/webreports/reports/161/S161336.html)
-- [257](http://www.nuforc.org/webreports/reports/161/S161379.html)
-- [256](http://www.nuforc.org/webreports/reports/161/S161465.html)
-- [255](http://www.nuforc.org/webreports/reports/161/S161373.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
