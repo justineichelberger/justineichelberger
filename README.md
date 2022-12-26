@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:42 on 26 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:41 on 26 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Raleigh (NC) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Daylight sighting of a star-shaped objectI was outside looking up to change a birdfeeder hanging near my windowsill. Out of the corner of my eye I saw what I thought was a hawk floating over my house. After a second or two I realized it had too many wings to be a hawk. It was more of a star shape with about six points, dark against the bright blue December sky. My next guesses of a very large leaf or (hah!) a flying squirrel were ruled out by the altitude of the object. I guessed it was flying at over 1000 feet. It cruised silently from almost directly west to east, at roughly 120 to 150 knots at my estimated altitude. As it approached the trees on the eastern horizon, I could no longer make out the points of the star. It now appeared more like a ball. Perhaps unrelated to this, a helicopter (which I took to be military from the sound) followed the same course (and apparent altitude) exactly ten minutes later. Earlier today I was taking pictures of hawks and so had my telephoto camera within 20 feet of me but had no time to take a picture of the object. The object may have been a very large balloon, though I haven't seen many star-shaped balloons of this sort. It flew in the direction of the wind. It made no sudden turns or other unusual movements, nor did it make any sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54155.html](http://www.nuforc.org/webreports/reports/054/S54155.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Riverside (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange balls of light over Riverside, CaliforniaWe witnessed multiple formations by these 5 orange colored crafts.  They moved silently, and more quickly than anything I've ever seen.  They formed a vertical line, then a diamond and what appeared to be a crescent shape with a line, like the profile of a baseball cap.  They continued to move, then the light began fading and reappearing.  Eventually they disappeared in an upward direction.  We tried to use our cell phone cameras, but the image would not photograph.  The duration was approximately 3 minutes.  It was incredible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73842.html](http://www.nuforc.org/webreports/reports/073/S73842.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/161/S161325.html)
-- [258](http://www.nuforc.org/webreports/reports/161/S161336.html)
-- [257](http://www.nuforc.org/webreports/reports/161/S161379.html)
-- [256](http://www.nuforc.org/webreports/reports/161/S161465.html)
-- [255](http://www.nuforc.org/webreports/reports/161/S161373.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
