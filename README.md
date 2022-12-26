@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:41 on 26 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:05 on 26 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Compton (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1:30 - 1:30 minutes.</sub><blockquote><sub>1 Bright Orange Fireball Looking Sphere In The Night SkyIt was December, 26, 2013 around 11:30pm when i was looking up at the North Star snapping pictures.  As I was taking pictures, the object was on my left from where i was standing and was moving to my right.  Then this object starting flying upwards for about 20 seconds and disappeared.  What i did noticeabout this UFO was that there was no strobe lights it was just one solid orange color it was glowing in the sky sort of like a shine from a fire but i doubted it was fire until investigated and seen recent reports of a mystical "ufo fireball" and then stated to believe that’s what i saw.  When i was snapping the pictures the object was in motion.  If you rewiew my pictures and zoom in on every picture you’ll see the orange orb.  On the pictures that show the tree was when the object was flying upwards, on these pictures i had the camera on slow shutter speed at 2 seconds i believe i took pictures of a UFO.  I would please like everyone to review my pictures and my report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106152.html](http://www.nuforc.org/webreports/reports/106/S106152.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Howards Grove (WI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>8 witnesss, soundless, constant speed/velocity, redish orange in color, 8-10 balls, about 800-1000ft up in the sky.My uncle happened to step outside and notice a bright red orange ball in the sky.  He called us out to look after about the third or fourth ball sailed across the sky right as another one appeared from the entry point.  We observed about 5-7 more balls go across the sky completely silent and constant in velocity.  They seemed to vanish after about 1-2 minutes in the sky and seemed to reappear as soon as the next one came out.  They cruised about 800-1000 ft above the ground.  We had 8 witnesses out at the time to view this odd, strange, ordinary event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95533.html](http://www.nuforc.org/webreports/reports/095/S95533.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/161/S161325.html)
-- [258](http://www.nuforc.org/webreports/reports/161/S161336.html)
-- [257](http://www.nuforc.org/webreports/reports/161/S161379.html)
-- [256](http://www.nuforc.org/webreports/reports/161/S161465.html)
-- [255](http://www.nuforc.org/webreports/reports/161/S161373.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
