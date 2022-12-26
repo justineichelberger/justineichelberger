@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:25 on 26 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:31 on 26 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Glasgow (UK/Scotland) () reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orange pulsing light - moved erratically then went straight up and disappeared.I was out walking my dog an hour ago and saw a bright orange light in the sky. It's a very clear night, with no clouds, and at first glance above the streetlight I thought it must be one of the planets as it was a different colour from all the stars (more orange), larger,  and much, much brighter.  Then I realised it was moving, and the light was pulsing. It moved very slowly at first and not in a straight line, so I didn't think it could be a comet or meteor (as all of those I have ever seen have been very fast and moved in one straight direction only). There was no noise at all from it, which made me think it couldnt have been an aircraft and besides no aircraft lights look like that. It moved to a point directly above where I was, and stayed there pulsing but not moving for about 30 seconds. Then it seemed to go straight up as the light got smaller before disappearing altogether.  A couple of planes passed by at the edge of the sky a few minutes later and they made the normal noise and looked completely different so I am utterly convinced it could not have been a plane or helicopter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54154.html](http://www.nuforc.org/webreports/reports/054/S54154.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Glen Burnie (MD) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I saw a round, orb-shaped object last night.  It was dark, with stars out last night, clear sky.  It had a lot of red flashing lights on it.  It was white in color with red lights.  It appeared to have a criss-crossing of lines on it, almost looking like a snowflake.  It would sit motionless for a while, then move jerkingly through the sky.  Finally it went too far for me to be able to keep watching it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105607.html](http://www.nuforc.org/webreports/reports/105/S105607.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/161/S161325.html)
-- [258](http://www.nuforc.org/webreports/reports/161/S161336.html)
-- [257](http://www.nuforc.org/webreports/reports/161/S161379.html)
-- [256](http://www.nuforc.org/webreports/reports/161/S161465.html)
-- [255](http://www.nuforc.org/webreports/reports/161/S161373.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
