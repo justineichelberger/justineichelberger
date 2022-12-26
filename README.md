@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:31 on 26 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:33 on 26 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Maceio (Brasil) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Flame red oval object moving fast on Maceio 26 Dec 2007 20:00 PM aboutI'm italian. I was at Hotel D'Anatureza (Blu Club Teorema) about 40 km from Maceio, Brasil. It was about 8 pm . I have seen an oval fire ball in the sky, moving orizontally (parallel to the ground). I remember that it was red (like fire) and white (like lights in the sky). The colour were intense and shining.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60612.html](http://www.nuforc.org/webreports/reports/060/S60612.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Albany (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I had stepped outside and noticed in the southern sky a shiny oval shaped reflection which I initially thought was a plane. The brightness of the object caught my eye and I originally watched as I thought this must be light reflecting off a plane however within 3 seconds the object had just disappeared. There was no contrail and the object appeared to be at an high altitude and in the distance so I heard no sound. In summary, a brightly reflecting oval shape drew my attention when I stepped outside around 3:30 pm this afternoon in Albany, New York. The object was moving away from my vantage point and the object had vanished within 3 to 5 seconds of me noticing it and observing it directly as I originally thought it was a plane. I had fixed my gaze on the object as I believed it was so shiny due to the sun's reflection. The shiny decreased iinstantaneously into a blackish color as the object "vanished" into thin air.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86102.html](http://www.nuforc.org/webreports/reports/086/S86102.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/161/S161325.html)
-- [258](http://www.nuforc.org/webreports/reports/161/S161336.html)
-- [257](http://www.nuforc.org/webreports/reports/161/S161379.html)
-- [256](http://www.nuforc.org/webreports/reports/161/S161465.html)
-- [255](http://www.nuforc.org/webreports/reports/161/S161373.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
