@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:05 on 26 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:18:34 on 26 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Howards Grove (WI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>8 witnesss, soundless, constant speed/velocity, redish orange in color, 8-10 balls, about 800-1000ft up in the sky.My uncle happened to step outside and notice a bright red orange ball in the sky.  He called us out to look after about the third or fourth ball sailed across the sky right as another one appeared from the entry point.  We observed about 5-7 more balls go across the sky completely silent and constant in velocity.  They seemed to vanish after about 1-2 minutes in the sky and seemed to reappear as soon as the next one came out.  They cruised about 800-1000 ft above the ground.  We had 8 witnesses out at the time to view this odd, strange, ordinary event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95533.html](http://www.nuforc.org/webreports/reports/095/S95533.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Huntington (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>Three officers report UFOCBS News site:  Police Report UFO Sightings  HUNTINGTON, Ind. - Three Indiana police officers are now talking about their day-after-Christmas UFO sighting. Huntington officer Chip Olinger was warming up his car the afternoon of December 26th, when he reported seeing a circular object in the sky. He radioed officers Greg Hedrick and Randy Hoover, who saw it too. Olinger says it wasn't like a 1950's type flying saucer. He says it was big, but didn't have a hump in the middle. The three policemen say the object drifted toward a church steeple, then shot away without a sound. Officer Hoover says they didn't mention it before, because they were worried people would think they were crazy. Now, the officers are wondering if anyone else saw the circular object in the sky.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34355.html](http://www.nuforc.org/webreports/reports/034/S34355.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/161/S161325.html)
-- [258](http://www.nuforc.org/webreports/reports/161/S161336.html)
-- [257](http://www.nuforc.org/webreports/reports/161/S161379.html)
-- [256](http://www.nuforc.org/webreports/reports/161/S161465.html)
-- [255](http://www.nuforc.org/webreports/reports/161/S161373.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
