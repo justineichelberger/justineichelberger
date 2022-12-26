@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:23 on 26 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:46 on 26 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Nashville (TN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangular Craft seen in Nashville TennesseeWe were driving down hwy 100 in Nashville driving by Percy Warner Park area when above the hill we saw a triangular craft about 100 ft across going over the hill away from of us we saw about 2/3 of the object. we saw two white lights and a red one in the middle the third white light must of been on its fron already over the hill. Our background is that we all work in a music studio in Bellevue in Davidson county and we were driving to my house to get some more reel to reel tape for the recording machines at rob's house/studio. It was about 1:50 am. I have seen other objects in the past couple of years in the same area but not a triangle craft until now.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20959.html](http://www.nuforc.org/webreports/reports/020/S20959.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>An object with blue lights over PhoenixAn object with what seems to be a wing with blue lights was moving almost like dancing in the sky, there was no noise what so ever and that made be believe the object was a great distance or at high altitude, the object also moved in a matter that defies the laws of physic and as to my knowledge no existent aircraft could even came closer. This took place for about 20 minutes and only once an helicopter approached, the light moved away at an enormous speed and disappeared. I have video footage</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86106.html](http://www.nuforc.org/webreports/reports/086/S86106.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/161/S161325.html)
-- [258](http://www.nuforc.org/webreports/reports/161/S161336.html)
-- [257](http://www.nuforc.org/webreports/reports/161/S161379.html)
-- [256](http://www.nuforc.org/webreports/reports/161/S161465.html)
-- [255](http://www.nuforc.org/webreports/reports/161/S161373.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
