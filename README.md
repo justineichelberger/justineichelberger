@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:29 on 26 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:34 on 26 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>White triangular plume against a blue sky ascending.While driving for a ride share company, two passengers and I witnessed what may have been a rock launch.  I was in San Jose on Capitol Expressway at the intersection of Marten/Ocala facing South.  My two passengers and I saw a white plume shaped as a triangular trajectory as if an upward bound craft was making its ascent.  I turned East onto Marten Avenue and could no longer see the unidentified object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138101.html](http://www.nuforc.org/webreports/reports/138/S138101.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Norwalk (CT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was a clear enough night to see it was triangular in shape with no sound moving very slowlyAt approximately 3:45 AM on December 26th 2020 I had arose early and was having coffee at my desk when I noticed a triangular shaped object moving from west to east in a very slow manner.  While moving across the sky there were white and red lights that would blink on and off.  There was no sound and there were no other aircraft that I could see in the area.  There were no obstructions and the object was clearly visible and was definitely triangular in shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161413.html](http://www.nuforc.org/webreports/reports/161/S161413.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/161/S161325.html)
-- [258](http://www.nuforc.org/webreports/reports/161/S161336.html)
-- [257](http://www.nuforc.org/webreports/reports/161/S161379.html)
-- [256](http://www.nuforc.org/webreports/reports/161/S161465.html)
-- [255](http://www.nuforc.org/webreports/reports/161/S161373.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
