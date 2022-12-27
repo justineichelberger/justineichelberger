@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 27 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:25 on 27 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Alpharetta (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Boomerang shaped object, completely white, hovering in the skyHello, I did not know about there was a place to officially report these sightings or else I would have done this sooner.I was on my way to work in the morning, and it was winter, 2 days after Christmas.  The trees were bare and the sky was clear with no clouds, so I was able to see fairly far.  I saw in the air, some distance away, a boomerang shaped object and the ends were facing downwards, so it could even be described as an upside down ‘U’.  It was completely white, but since it was in the open sky, I have no frame of reference for how large it was.I did my best to keep my eye on it, but since I was driving I could not take a picture.  The object did not move and just hovered in the sky.  After about 10-15 seconds, I had to take my eyes completely off of the object to go thru a roundabout circle on the road, but when I looked up again it was gone.I kept looking and as I proceeded down the road, I saw it again but it had moved a very large distance away within the 5-10 seconds that I had lost it.  The ends of the U were still facing down and it was hovering again, without moving.  I was able to keep my eyes on it for another 5 seconds or so and then lost it again.  I was not able to find it after that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144670.html](http://www.nuforc.org/webreports/reports/144/S144670.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Millbrook (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Blinking, waivering aircraft that shoot off and disappear,For two years in the night sky we have seen in various positions, stationary objects with blinking lights (red, blue, green) flashing.  These objects spontaneously jump left and right, waive ring, also up and down, then disappear. In the last two nights, a half mile away, one seems grounded in a distant pasture, going up and down for hours.  We finally drove the road, North Tower Hill, only to see it until we got closer, go completely out.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116256.html](http://www.nuforc.org/webreports/reports/116/S116256.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
