@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:25 on 27 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:31 on 27 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Southampton (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.04 - 0.04 minutes.</sub><blockquote><sub>2 Orange circular lights in sky over Southampton 27/12/08On 27th December 2008 at approx 12am 2 Orange orbs came into my view over the east of Southampton.  I was on my balcony and the night was very clear.  There was no noise at all from the objects.  They were very bright and quite large.  They flew across then the one in front flew straight upwards then the second did the same.  They appeared to be flying synchronised.  They flew across again and then straight upwards again, then across.  The objects then went out of view, due to a Tower block.  I had no alcohol on this evening and smoke outside on my balcony so am very used to seeing aeroplanes etc in the sky.  I have never seen anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67684.html](http://www.nuforc.org/webreports/reports/067/S67684.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Largo (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Many orbs in sky over Largo FL 12/27/13, 7 PMIt was dusk and I was walking dogs, the sky had lights swirling, like searchlights, but there were many many coming from all directions, not as bright as lights and some were behind the clouds.  People came out of their homes and I said, Look up, they stood in awe as orbs swirled around overhead, then they moved to different parts of the sky.  When I got home they were still swirling, some bigger than others.  Like angels flying around fast, many many of them.  They are still there, over an hour later, still moving in all directions, they are like a clan, they all move together in the group although they each swirl individually.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105608.html](http://www.nuforc.org/webreports/reports/105/S105608.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
