@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:25 on 27 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:29 on 27 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Spring Hill (FL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>ufo over springhill floridai was looking up at the orion system.  above the sqare portion of the star formation, about what appears to be a distance of twenty feet from the ground, a star that appears to be orange in color.  as if it where going dim.  i noticed a high flying jet with an evident strobe about maybe 30.000 ft.  when all of a sudden, for a brief moment i observed a cigar shaped craft out of the corner of my right eye, following it to full vision, then it was gone.  it was luminous white, emitting a white trail.  it then vanished as if being cloaked suddenly.  this object was far closer to earth than the aircraft at 30.000.  it was not a shooting star.  if i were looking to the right, or southeast alittle more, i would have seen it for a longer duration.  there was no apparent ark to its trajectory.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67687.html](http://www.nuforc.org/webreports/reports/067/S67687.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Clacton () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>belive this to be linked to u.s airbase bentwaters known as the rendlesham forest incident 1980ball of fire went into sea close to former us airbase bentwaters rendlesham forest suffolk england uk.clear winters night.massive appeared to be controlled, rather coming straight down was coming down at an angle.  the only place this could have crashed or landed without massive destruction to surronding area is in the sea.  i belive this to be just off woodbridge close to orford lighthouse also close to 2 air bases.r.a.f woodbridge and us bentwaters.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  However, the Bentwaters case occurred at the time indicated by the source of this report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86682.html](http://www.nuforc.org/webreports/reports/086/S86682.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
