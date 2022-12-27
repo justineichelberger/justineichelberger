@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:32 on 26 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:27 on 27 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Delmar (MD) reported seeing craft that fit the description of some '' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Unexplainable bright pulsating yellow-orange object hovering and then flying away at a high rate of speed.I was putting my son to sleep when I noticed a bright yellow-orange ball of pulsating light floating over the back treetops.  Hovered for sometime and then sped up towards leftward direction.  As it sped up the ball of light disappeared and ?changed into flickering lights - appeared to be multiple objects flickering red, blue , white very very quickly ( not like the steady plane lights at night).  It crossed the skyline within seconds. I’m a physician by practice.  This was not natural. I have security camera footage vouching for the 1st half of the story ( the object left the field of the camera).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161379.html](http://www.nuforc.org/webreports/reports/161/S161379.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Chatham (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>a lot of people must have seen this orange object over the skys of chathamme and my girlfriend were driving on st.clair st in chatham at 17:45 and seen this guy stopped on the road with his 4 ways on.he had his cell phone pointed to the sky.  i looked up and seen this orange, slow flying and low round object.it was flashing as well.it was amazing.  it was moving to the east slow then we lost it in the clouds.  this is the first time i seen anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79390.html](http://www.nuforc.org/webreports/reports/079/S79390.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/161/S161325.html)
-- [258](http://www.nuforc.org/webreports/reports/161/S161336.html)
-- [257](http://www.nuforc.org/webreports/reports/161/S161379.html)
-- [256](http://www.nuforc.org/webreports/reports/161/S161465.html)
-- [255](http://www.nuforc.org/webreports/reports/161/S161373.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
