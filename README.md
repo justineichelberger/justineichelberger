@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:27 on 27 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:25 on 27 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 48.0 - 48.0 minutes.</sub><blockquote><sub>Shape shifting black object at sunset hovering south east in skyAt 5:15pm I looked out our 10th floor condo balcony and saw a one large black object  over South Mountain park.  The object remained south east in the sky for over 48 minutes from 5:15pm to 6:03pm.The shape of the single object was like an upside down top hat or boiling pot.  During this time, it floated very gradually from left to right.  It also repeatedly grew smaller then back to its original size.  When smaller, it created a bird shape and then it would change back to the upside down top hat/boiling pot formation.As it grew darker, the object lowered in the sky.  Once fully dark, it became lit with faint red and white lights. At 6:03pm it disappeared.Compared to the airplanes landing at Sky Harbor Airport at the time, the object looked over 5 times bigger in size.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60536.html](http://www.nuforc.org/webreports/reports/060/S60536.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Southampton (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.04 - 0.04 minutes.</sub><blockquote><sub>2 Orange circular lights in sky over Southampton 27/12/08On 27th December 2008 at approx 12am 2 Orange orbs came into my view over the east of Southampton.  I was on my balcony and the night was very clear.  There was no noise at all from the objects.  They were very bright and quite large.  They flew across then the one in front flew straight upwards then the second did the same.  They appeared to be flying synchronised.  They flew across again and then straight upwards again, then across.  The objects then went out of view, due to a Tower block.  I had no alcohol on this evening and smoke outside on my balcony so am very used to seeing aeroplanes etc in the sky.  I have never seen anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67684.html](http://www.nuforc.org/webreports/reports/067/S67684.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
