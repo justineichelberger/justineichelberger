@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:27 on 27 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:16 on 27 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Chatham (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>a lot of people must have seen this orange object over the skys of chathamme and my girlfriend were driving on st.clair st in chatham at 17:45 and seen this guy stopped on the road with his 4 ways on.he had his cell phone pointed to the sky.  i looked up and seen this orange, slow flying and low round object.it was flashing as well.it was amazing.  it was moving to the east slow then we lost it in the clouds.  this is the first time i seen anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79390.html](http://www.nuforc.org/webreports/reports/079/S79390.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Chelsea (IA) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Row of 10-12 circlesMy sister and I were traveling to Chelsea.  Driving on E66 we were at the intersection of E66 and T ave seen a row of 10-12 bright circular lights lined up in a perfect line.  They where close to the ground and where probably as long as a semi or if not two semis.  They stayed there for a unknown amount of time and could be seen a couple miles away on 360th street and s ave.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151961.html](http://www.nuforc.org/webreports/reports/151/S151961.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
