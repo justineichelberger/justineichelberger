@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:31 on 27 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:37 on 27 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in In distance from Earth () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4320.0 - 4320.0 minutes.</sub><blockquote><sub>NASA has photos of an object in space moving towards Earth and shaped like a triangle.  They pass this off as a reflection of Venus on the telescope.  Check out the footage on NASA's site and see what you think.  They always pass off things in space so we wont be alarmed, but this is really perfect shaped to be a reflection.  Many articles have been filed about this event.http://www.space.com/14283-nasa-debunks-mysterious-triangular-ufo.html</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86780.html](http://www.nuforc.org/webreports/reports/086/S86780.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Reddinton Beach (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Saw a total of 5 fire balls, 3 were in a horizontal lineI was sitting on my deck looking at the ocean and I see a ball of fire slowly moving south above the coast.  Then a minute later 3 more came in an almost perfect horizontal line.  A few minutes after those went away, one more came.  Same size, same speed, going the same direction.  This was at night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116261.html](http://www.nuforc.org/webreports/reports/116/S116261.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
