@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:37 on 27 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:22 on 27 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Buffalo (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Witnessed whitish "tic tac" shaped craft hovering above tree tops for approximately 5 minutes.  Made no noise at all. witnessed whitish "tic tac" shaped craft hovering above tree tops for approximately 5 minutes.  made no noise at all.  Then changed color to bluish glow, rotated and accelerated up and to the south at incredible speed.  Literally disappeared in about 2 seconds.  Several sonic booms were heard as it left.  Neighbors' dogs were barking.  Our pet cat was visibly upset.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138079.html](http://www.nuforc.org/webreports/reports/138/S138079.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Youngsville (NC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>At 8:30pm red flashing lights appeared in the sky above the tree lines, making different formation patterns.My witness and I were headed South in a motor vehicle when my witness asked what those lights were. I was driving so I looked and thought at first glance a tower of some sort.  It was well past dusk.  Then upon further notice it seemed they red dots were moving.  First it looked like two then three. We pulled the car over and watched.  The reddish blinking lights seemed to be moving but not necessarily going any where.  It seemed to be now four blinking lights.  Making different formations in the skyline just over the pine tree line in the distance.  Triangle formations and even staggered line patterns. We watched for as long as we could before we had to get it the car and head home.  Once in our neighborhood we couldn't see the area anymore due to trees.  But it seemed to be hanging around for awhile.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95551.html](http://www.nuforc.org/webreports/reports/095/S95551.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
