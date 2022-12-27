@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:23 on 27 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:37 on 27 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in St. Cloud (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>triangle in the sky 12/27/08 800 pm just south of st cloud betwen I94 and 75it was an over cast night so no stars i was driving to st cloud as we get in to town i look up in the distents and see 2 lites as we got closer it was 3 lites in the shape of a little triangle about 150 to 200ft wide and about 600to 700ft in the air and a 1000 off to the right of the hyway hovering below the clouds after droping my friends off on my way back notfar off to the west of hyway 15 area i seen a super big triangle and 2 smaller ones space out under the clouds((NUFORC Note:  Witness elects to remain semi-anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67693.html](http://www.nuforc.org/webreports/reports/067/S67693.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Buffalo (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Witnessed whitish "tic tac" shaped craft hovering above tree tops for approximately 5 minutes.  Made no noise at all. witnessed whitish "tic tac" shaped craft hovering above tree tops for approximately 5 minutes.  made no noise at all.  Then changed color to bluish glow, rotated and accelerated up and to the south at incredible speed.  Literally disappeared in about 2 seconds.  Several sonic booms were heard as it left.  Neighbors' dogs were barking.  Our pet cat was visibly upset.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138079.html](http://www.nuforc.org/webreports/reports/138/S138079.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
