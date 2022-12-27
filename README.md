@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:30 on 27 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:01:01 on 27 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Sphere with SpikesComing home for Christmas on 12/27/99 my brother and I were driving east on Interstate 80 over the Sierra Nevada Mountains, when I noticed a large bright light coming of the mountain top, coming from the south. As the object came closer it appeared to get larger, very bright, and spikes coming out of it. I was the passenger in the car, my brother driving. I couldn`t believe what I`m seeing, so I told my brother who is driving to look to right up the mountain. I needed him to view the object because his eyes are better than mine. He seen everything I did and confirmed what I was looking at. Of course I viewed it longer, because he had to drive. I was getting a little scared at what I was seeing because it was getting closer to us. Well we lost sight of it at that point, because of our distance traveling. We did see the object one more time about three miles more up the road, but at more of a distace away. Then if disapeared. I would say this object was at least, 300 yards in diameter. The strange part of all this is, we forgot about seeing this object. It wasn`t until 4 months later that it popped back into my head. I can home that day and asked my brother about it again, he said he forgot about it also, untill I had reminded him of the event. about me:I`m 44 years old and Iv`e worked for General Motors for the last 23 years, and I consider myself very level headed, as for my brother.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16320.html](http://www.nuforc.org/webreports/reports/016/S16320.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Jackson (TN) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.3833333333333333 - 0.3833333333333333 minutes.</sub><blockquote><sub>Lights over Jackson, Tennessee.I was at work at  scrap yard at Jackson Tennessee. We had two garbage trucks from Waste Management that we were taking  the garbage compartment off of the back of the truck to cut up and process for scrap.  We had finished the first one and were walking to the second one, when what at first I thought was a row of ducks or geese caught my eye.  I thought that I had never seen birds flying that high before.  Then I noticed they werent birds but lights that were wagging up and down or in a circle pattern.  There were twelve or fourteen of them in a single line and they kind of faded out from view then reappeared.  There were three other people with me and I pointed up and hollered HEY! LOOK!.  I could tell they were all attached to something but I could not tell what the shape of it was but it was as big as a couple of train rail cars.  As i was pointing at it, it faded from view again, and I didn't see it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131859.html](http://www.nuforc.org/webreports/reports/131/S131859.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
