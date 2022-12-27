@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:25 on 27 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:45 on 27 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Panhandle/Big Bend area (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Huge mothershipI was traveling up from central Florida to a job interview and to establish a new residence in Tallahassee. It was very sunny at the time with puffy cumulus clouds.  I was in a rural area in the Big Bend or bending part of the west coast going up into the Panhandle area on US 19.  I was excited, as I had intuition that I would land the job, and just slightly nervous.  I looked to the left where there was a brightly lit field where the sun had just broken through a cloud.  Very shortly thereafter, I looked to the left again and saw a very unusual sight. In the same cloud group where the sun had broken through, with rays gleaming down, was another large beam of the same white/gold light.  I puzzled over this as there is only one sun. The beams were equally strong as the sun's.  Although I was not concerned about what I was seeing-just very interested, I was worried about some government person or people seeing me notice this, as I was going into a government job.  Not a job classified as important, but one where I would be working around important people.  So, I casually pulled off the road, not braking hard, but as if I had to consult a map or something.  There was very little traffic.  Possibly no other cars for several minutes.I peeked out of my window and looked towards the phenomena, but what I saw instead was a huge charcoal or steel colored craft overhead that looked like it was made of cast iron.  It seemed to have a central area where the beam might have come from.  The surface was rough but I didn't see too much detail.  It was right overhead, and I may have stepped out of the car.  The light changed very quickly as the sun set, and I could not see it any longer.((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144322.html](http://www.nuforc.org/webreports/reports/144/S144322.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Hutchinson (MN) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Slow moving diamond shaped flame.I was driving on highway 7 past Hutchinson (right before Silverlake) - heading East. The flame moved steadily across my path north to south.  I pulled over and watched it slowly pass over the road about 60 feet overhead.  It was a flame with a glow above and below it, but not other parts seen.  I was very overwhelmed and moved by what I saw.  Nobody believes me.  I looked extra hard to make sure I was seeing accurately.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105579.html](http://www.nuforc.org/webreports/reports/105/S105579.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
