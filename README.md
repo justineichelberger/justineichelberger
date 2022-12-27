@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:37 on 27 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:37 on 27 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Reddinton Beach (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Saw a total of 5 fire balls, 3 were in a horizontal lineI was sitting on my deck looking at the ocean and I see a ball of fire slowly moving south above the coast.  Then a minute later 3 more came in an almost perfect horizontal line.  A few minutes after those went away, one more came.  Same size, same speed, going the same direction.  This was at night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116261.html](http://www.nuforc.org/webreports/reports/116/S116261.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in  () reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Dark gray smoky shaped saucerI am glad I found this website. I want to ask if anyone has seen this, or if it was just me. I believe what I saw was on December 27, 2008. I was driving to work at 7:30 in the morning, driving on I30 Westward towards Dallas, Texas. It was VERY overcast this morning and traffic was not very full, due to kids being out for the holidays. I was looking straight ahead down the highway and I thought I saw a dark gray cloud. It looked like a plate sitting there up in the sky right above the highway. It was not quite to the skyscrapers, yet. It was between Mesquite and Garland, Texas. It was dark gray and was not like a plane, not silver, not outlined. I was afraid it was just a reflection from my truck windshield, but it moved. It did look like it was made of dark gray smoke under gray overcast sky. There were no lights. I watched it and it laid flat, like the typical UFO, but it was neat because it went lower and lower, in a slow, diagonal direction, like it was going to try to land. I was fascinated. It was like one description I had seen before on this site: “Smoke moving weirdly”. I was trying to see if anyone had ever seen anything like this by reading all your descriptions on the site.  Anyway, the shape was a saucer, but it was very very smokey. It then kept going lower and kind of stood up again like a plate and then got horizontal again. It moved REALLY fluid, like water. I kept looking and looking as I finally got up to the place where it should have been, but could not find it. Sort of like a rainbow situation. I could swear it was invisible and the gray overcast actually made it stand out, somehow. It was a dark gray ship and I could see the outline of it against the sky. It was truly weird.  I could have sworn it landed somewhere, but I could not see past the buildings. I was embarrassed to tell anyone. I tried to call the news, but got shy to ask if anyone had seen anything and shy to tell my family. I am still so curious if anyone else saw it. I also wondered if it could have be! en a ref lection from a car dealership, but why would they shine a shape of a UFO changing form and shape up over the highway? It is hard to believe in these things. Thanks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60708.html](http://www.nuforc.org/webreports/reports/060/S60708.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
