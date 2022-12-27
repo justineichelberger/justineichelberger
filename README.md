@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:25 on 27 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:31 on 27 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Millbrook (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Blinking, waivering aircraft that shoot off and disappear,For two years in the night sky we have seen in various positions, stationary objects with blinking lights (red, blue, green) flashing.  These objects spontaneously jump left and right, waive ring, also up and down, then disappear. In the last two nights, a half mile away, one seems grounded in a distant pasture, going up and down for hours.  We finally drove the road, North Tower Hill, only to see it until we got closer, go completely out.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116256.html](http://www.nuforc.org/webreports/reports/116/S116256.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in In distance from Earth () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4320.0 - 4320.0 minutes.</sub><blockquote><sub>NASA has photos of an object in space moving towards Earth and shaped like a triangle.  They pass this off as a reflection of Venus on the telescope.  Check out the footage on NASA's site and see what you think.  They always pass off things in space so we wont be alarmed, but this is really perfect shaped to be a reflection.  Many articles have been filed about this event.http://www.space.com/14283-nasa-debunks-mysterious-triangular-ufo.html</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86780.html](http://www.nuforc.org/webreports/reports/086/S86780.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
