@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:29 on 28 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:30 on 28 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Calgary (Canada) (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>On December 28, 2019 at approximately 18:25 hours I was looking into the western sky.  I noticed what appeared to be a satellite traveling from west to east.  However I soon noticed several more all traveling in the same direction evenly spaced apart.  I may have missed the beginning of this parade but watched for 2-3 minutes as they just kept appearing and traveling across the sky in almost single file.  I did start counting but after 10-12 of them I stopped and just watched in wonder. I am familiar with satellites but have never seen more than one or two at once, but never the amount that I saw this night all going in the same direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151937.html](http://www.nuforc.org/webreports/reports/151/S151937.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Fort Myers (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>8-10 fireballs floating through the air in a strange formation moving North.I was pulling into the Wal-Mart parking lot off of 6 Mile Cypress and to the west I noticed a group of orange orb/fireball looking spheres "floating" silently through the sky moving North.  There was about 8-10 (didn't think to count them.  They were in a sort of "constellation" like formation.  Over about two minutes they started to disappear until I couldn't see any of them anymore.  This was witnessed by my mother and sister as well.  I tried to have my mother take a picture with her phone but the parking lot lights were too bright for the phone to capture what we were seeing in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95575.html](http://www.nuforc.org/webreports/reports/095/S95575.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/161/S161338.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161351.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161356.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161355.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161371.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
