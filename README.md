@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:17:37 on 28 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:29 on 28 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Weatherford (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Our dog was barking so I went to investigate. While watching the dogs outside I noticed a very bright light that seemed to be coming towards my home from about 10 to 15 miles away. I thought nothing of it until it started drifting slowly up then down then around but generally in the same spot. It began quickly flashing orange lights then dimmed into the darkness but quickly lit up again w/a bright white light. It continued w/this flashing pattern for the duration of the event. It never got any closer or further away until about 6 a.m. then it slowly lowered below the treeline out of sight. I woke my husband after watching it for the 1st min. or so. He was intregued enough to watch the entire event. The event occured in the western sky at varying distances above the neighborhood treeline. We couldn't detect a shape for sure. Only flashing lights that seemed to surround the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05269.html](http://www.nuforc.org/webreports/reports/005/S05269.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Calgary (Canada) (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>On December 28, 2019 at approximately 18:25 hours I was looking into the western sky.  I noticed what appeared to be a satellite traveling from west to east.  However I soon noticed several more all traveling in the same direction evenly spaced apart.  I may have missed the beginning of this parade but watched for 2-3 minutes as they just kept appearing and traveling across the sky in almost single file.  I did start counting but after 10-12 of them I stopped and just watched in wonder. I am familiar with satellites but have never seen more than one or two at once, but never the amount that I saw this night all going in the same direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151937.html](http://www.nuforc.org/webreports/reports/151/S151937.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/161/S161338.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161351.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161356.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161355.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161371.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
