@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:32 on 28 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:36 on 28 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Maywood (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Formation Flight of UFOs.Was smoking a cigarette, i looked up and noticed a star like object moving high up....slowly going in a path, then it stopped,hovered, and began circular motion, moving in a 8 pattern rapidly.....then that one, two more appeared, all 3 continued path in formation, then they scattered...lost view for a bit, then saw them again, and more appeared around the sky,  all scattered....lingered in thesky for sometime....way too high to be noticed by other people.....lucky me i spotted them....they all flashed white, turning to red, blue, and orange color.......</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105555.html](http://www.nuforc.org/webreports/reports/105/S105555.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Duluth (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>comet like ball of fire seen falling from sky in Gwinnet Co (GA)comet like ball of fire seen falling from the sky, at first I thought it was a shooting star but appeared more like a comet due to the size and it appeared to be falling towards the earth and then disappeared as if it had burnt out((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54199.html](http://www.nuforc.org/webreports/reports/054/S54199.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/161/S161338.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161351.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161356.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161355.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161371.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
