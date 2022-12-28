@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:24 on 28 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:33 on 28 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Culver City (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Singular  red lightI was in my car on my way way home from work.  As I turned right onto my street I noticed a red light to the west in the sky. It disappeared within a few seconds.  I continued to look where the light came from, thinking it might be a blinking plane, but it did not reappear...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116223.html](http://www.nuforc.org/webreports/reports/116/S116223.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Huntington Beach (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Diagnol Upward Moving Star Like UFO's"I was in my house and I looked out the window.  I saw this really bright star and I kept looking at it to remember if it was Venus or not.  All of a sudden it started to move in an upward diagnol way.  It made no sound.  There was some haze like stuff around it.  It had to be at least 10,000 fett in the air because I saw a plane pass by it 5 minutes before.  When it was almost out of my sight it went diagnolly down a little bit then shot off up again extremely fast, faster than a jet I have ever saw.  I was a little scared.  Then I saw another really bright star in the same location.  Then it started moving in a diagnol upward position again.  It followed the same procedure as the last one then shot off.  This happened three more times.  Then I got really freaked out so I went to my room.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54529.html](http://www.nuforc.org/webreports/reports/054/S54529.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/161/S161338.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161351.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161356.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161355.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161371.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
