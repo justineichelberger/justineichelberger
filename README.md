@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:26 on 28 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:30 on 28 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Birmingham (UK/England) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Sighting of spinning lights near Birmingham UK .   28/12/08 about 7:30pm on the motorway.Driving home on the motorway a round light seemed to be quite close to us so we started to film it, the light got bigger and closer and eventually we saw it was more of an spinning oval shape with a light that went round. It finally just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67773.html](http://www.nuforc.org/webreports/reports/067/S67773.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Modesto (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saw 4 red glowing spheres floating upward and then flying East until they disappeared.Observed 4 red glowing spheres ascend floating upwards in the Eastern night sky, then change direction and head east across the night sky until they disappeared.  The spheres were large and had a glowing red color they appeared to be floating straight up in the sky and then flying across the nigh sky.  Observers are male and female retired residents who live in Modesto, Ca.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105560.html](http://www.nuforc.org/webreports/reports/105/S105560.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/161/S161338.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161351.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161356.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161355.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161371.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
