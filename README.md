@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:30 on 28 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:24 on 28 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Modesto (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saw 4 red glowing spheres floating upward and then flying East until they disappeared.Observed 4 red glowing spheres ascend floating upwards in the Eastern night sky, then change direction and head east across the night sky until they disappeared.  The spheres were large and had a glowing red color they appeared to be floating straight up in the sky and then flying across the nigh sky.  Observers are male and female retired residents who live in Modesto, Ca.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105560.html](http://www.nuforc.org/webreports/reports/105/S105560.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Culver City (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Singular  red lightI was in my car on my way way home from work.  As I turned right onto my street I noticed a red light to the west in the sky. It disappeared within a few seconds.  I continued to look where the light came from, thinking it might be a blinking plane, but it did not reappear...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116223.html](http://www.nuforc.org/webreports/reports/116/S116223.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/161/S161338.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161351.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161356.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161355.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161371.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
