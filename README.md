@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:31 on 27 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:46 on 28 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Largo (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Many orbs in sky over Largo FL 12/27/13, 7 PMIt was dusk and I was walking dogs, the sky had lights swirling, like searchlights, but there were many many coming from all directions, not as bright as lights and some were behind the clouds.  People came out of their homes and I said, Look up, they stood in awe as orbs swirled around overhead, then they moved to different parts of the sky.  When I got home they were still swirling, some bigger than others.  Like angels flying around fast, many many of them.  They are still there, over an hour later, still moving in all directions, they are like a clan, they all move together in the group although they each swirl individually.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105608.html](http://www.nuforc.org/webreports/reports/105/S105608.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Nassau (Bahamas) () reported seeing craft that fit the description of some 'Formation' over a period of approximately don't know - don't know minutes.</sub><blockquote><sub>Six objects over Nassau, BahamasThe picture was taken on 12/28/2007 at 11:23 Bahamas time (10:23 CT, Canon Powershot S410 camera's time wasn't adjusted)from the ship MS Zuiderdam (Holland America Line) while ship was coming into port of Nassau, Bahamas. No sound was noticed.My focus was on the beautiful old yachts, and the six shiny objects in the upper right corner of the picture were noticed when pictures were transfered into the computer.Picture will be send via e-mail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60696.html](http://www.nuforc.org/webreports/reports/060/S60696.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
