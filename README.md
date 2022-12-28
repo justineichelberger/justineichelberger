@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:28 on 28 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:28 on 28 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Seattle (Fremont District) (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Standing in Fremont one street up from the Canal as I came out of my store I noticed an orange glowing object in the sky over Queen Anne Hill.  At first I noticed it and pointed it out to my friend and thought that it must be Mars.  5 minutes later I looked again and noticed that the one object had been joined by 5 other spheres of a similar orange glowing nature.  The objects just hung in the sky without making any noise.  Then the objects began to take off one by one and disappearing into the sky. The last one stayed behind for an extra 10 minutes and then left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99103.html](http://www.nuforc.org/webreports/reports/099/S99103.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Palm Beach (MA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 13:00-now - 13:00-now minutes.</sub><blockquote><sub>far out in the ocean w/ binoculars I saw 2 stationary but drifting rectangles, and 2 or 3 white orbs stationary but drifting.So I saw a bunch of boats far out in the water, and wanted to see them up close so I busted out the binoculars. then I noticed that there were 2 red rectangles floating behind a boat in the sky. I thought they were attached until I saw the boat move away without them. you could see only see one most of the time but the second one popped up every now and then.  no weird erratic movements though just floated there and if they moved they moved slow.  Also to the left there was a big ship maybe navy or something but it was huge and dark. and above that there was a floating white orb, I noticed another orb later on.  The orbs also stayed stationary while the ships moved on. but they would change their height in the sky slowly and over the hour or so I watched it had moved pretty far to the left but nowhere near the boat it started with. the other witnesses were my mom, brother and sister, and some random people I brought my binoculars over too on the beach to get th! eir opinions. Hey I checked the box that said I wanted to be contacted by an investigator, but if you guys want a clearer description or something I'd be glad too. but otherwise I just wanted to be contacted if someone else posts this sighting. thanks!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79401.html](http://www.nuforc.org/webreports/reports/079/S79401.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/161/S161338.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161351.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161356.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161355.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161371.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
