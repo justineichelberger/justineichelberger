@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:25 on 28 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:27 on 28 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Hyas (Canada) (SK) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>It was a clear night just after christmas time when I was walking home from my cuzins who lives about a block down from where I live. I seen two lights hovering in the sky just above me. The two crafts were moving in a triangle shape very fast they did that for about 20 to thirty minutes. The next two night after that they did the same thing over and over. The last night it just disapeared into the Unkown.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35930.html](http://www.nuforc.org/webreports/reports/035/S35930.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Mount Cobb (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>my grandson and i were going home on the exspressway route 84 we were east bound.  we were almost at the mt cobb exit 8 when we saw this bright light coming towards us.  I thought it might be a plane about to crash so I slowed down.  We thught it might be on the bridge but it wasn't on the bridge. it was a round light about six inches radius with a yellow orangeand red outer area with a white center.  it went across the west bound hwy which is a couple of lanes and it was about four feet above the metal dividers and it was moving across into to the east bound in a north to south direction.  we watched as it went towards the woods. it was about 25 feet in front of us at one time. it took about 12 secounds. I'm still shaking. i did not know if i should call the police. my daughter told me to search the web. I hope this is what i was suppose to do.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73850.html](http://www.nuforc.org/webreports/reports/073/S73850.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/161/S161338.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161351.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161356.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161355.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161371.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
