@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:33 on 29 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:32 on 29 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Cullman (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately idk - idk minutes.</sub><blockquote><sub>Four lights going in a circle and rotating in the sky.There are 4 circle-shaped lights in the sky, which keep circling and rotating.  They a kind of blue in color.  First, they bunch up together, and then they separate from each other.   Afterwards they rotate and then bunch up again not quite sure what it is, other than lights moving in a continuous circle as described above.((NUFORC Note:  Advertising lights?  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124795.html](http://www.nuforc.org/webreports/reports/124/S124795.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Altoona (IA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>strange pulsing light over Altoona IowaI was leaving work when i noticed a strange pulsing light I started the car and followed it then suddenly it just vanished it was moving very slow so I don't know how it disappeared from my sight so fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60560.html](http://www.nuforc.org/webreports/reports/060/S60560.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161572.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161364.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161366.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161392.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
