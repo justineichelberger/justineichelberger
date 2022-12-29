@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:18:50 on 29 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:25 on 29 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ballston Lake (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately very brief - very brief minutes.</sub><blockquote><sub>Two large very bright, circular, white lights appeared in a linear pattern for a brief moment then disappeared.  Very clear night sky.  Looking from driveway, away from house, southward.  Three of us saw the lights in a cloudless sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116205.html](http://www.nuforc.org/webreports/reports/116/S116205.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in UK/England () reported seeing craft that fit the description of some 'Other' over a period of approximately 2.716666666666667 - 2.716666666666667 minutes.</sub><blockquote><sub>i was telling my friend to look but he could not hear me ,it would not let me look awayi was walking down the main hill near wast cumberland hospital i felt rain i looked up and saw a ufo ,i am certain about that,there were 2 ufo s parallell to eachother pyramid shape with yellow light</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34318.html](http://www.nuforc.org/webreports/reports/034/S34318.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161572.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161364.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161366.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161392.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
