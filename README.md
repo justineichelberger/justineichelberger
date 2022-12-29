@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:41 on 29 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:13 on 29 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Bastrop (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>SUMMARY:  due south of bastropA bright light was seen in the sky, and was thought to be a star until it started moving.  It moved back and forth, and up and down.  Sometimes it climbed in a diagonal course. The object also changed colors.  It went from blue to redto green. Later, WE briefly saw the same object again, but in a different part of sky.  I often look for such objects, but I've never seen anything quiet like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01915.html](http://www.nuforc.org/webreports/reports/001/S01915.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Lee's Summit (MO) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Yellow/Gold Orbs over Kansas CityMy fiance and I saw a bright star like shape in the sky.  With binoculars, we were able to note it was a grouping of orbs that seemed to be changing color from orange/gold to white, and lastly a green color as it disappeared from view.  We are located in Lee's Summit, MO.  The object looked fairly far away, and from our vantage point in the western part of the sky.  It seemed to follow the glide path south of the city but north of the former Richards-Gebauer AFB.((NUFORC Note:  Source of report does not indicate a date, a time, of duration for the sighting.  We have assigned an artificial time and date for the sighting, and we have sent a note to the source, requesting clarification.  Possible sighting of Sirius?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67727.html](http://www.nuforc.org/webreports/reports/067/S67727.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161572.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161364.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161366.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161392.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
