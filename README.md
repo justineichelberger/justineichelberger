@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:27 on 29 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 29 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Dillon (SC) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>The UFO's were flying all over Dillon, SC.  I saw eight of them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131939.html](http://www.nuforc.org/webreports/reports/131/S131939.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Port Angeles (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Hugh black object(s) in skyMy husband and I were outside at about 16:30 on 12/29/01, overcast conditions (although a pretty thin cloud cover).  We witnessed an object which appeared quite large in the sky above us.  It was hard to see a shape, it seemed to be moving in and out of the cloud cover, or changing shape.  It was black and had no visible lights.  This lasted for about 2-3 minutes.  Then about 1 minute later, we saw a black, disc-shaped object fall like a leaf out of the sky, above some trees approximately 1/2 mile away.  After this was seen, we noticed more movement in the same area of the falling object.  The first thing I thought was, oh, they're hang gliding!  So, it almost looked like 2 objects in the clouds at this point, maybe triangular shaped.  They seemed to be moving playfully, but it was very hard to tell because they (or it) were in and out of the cloud cover like before.  We never noticed the falling object coming back up or actually landing.I was able to watch the movement in the clouds for about 10 seconds then they (or it) disappeared, seemingly flying into heavier cloud cover.These objects or object appeared to be floating or hovering and actually changing shape with the clouds - it's quite hard to describe. There was absolutely no wind, or sound at all.  We thought of kites, hang gliders, planes, weather balloons, none of which seem to fit what we witnessed. We continued to watch the sky for the next 20 minutes, but saw nothing else unusual.((NUFORC Note:  Report submitted to MUFON by same witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21094.html](http://www.nuforc.org/webreports/reports/021/S21094.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161572.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161364.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161366.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161392.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
