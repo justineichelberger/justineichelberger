@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:07 on 29 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:23 on 29 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.025 - 0.025 minutes.</sub><blockquote><sub>Large emerald green orb shaped light appearing suddenly seen in NW sky travelling initially in a northern direction, then suddenlDriving west on Hwy 1 North, Vancouver BC Canada.  At 12:50 am on Saturday morning Dec 29 2007.  I observed a large emerald green orb appear in the distant North West sky travelling in a Northernly direction and suddenly dropping to its dissapearence.The orb was quite large although it appeared to be distant in the Earths atmosphere. The road I was travelling on was quite dark which gave a quality sighting. The orb had a small trail of its own light following it that look or appeared as a smudge of light no more than 1/8 to 3/8 its original size.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60567.html](http://www.nuforc.org/webreports/reports/060/S60567.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Summerville (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>While driving down Dorchester Road just before Old Orangeburg Rd. my son pointed out strange lights in the sky. As i looked up i thought it was a satelite, but as i looked closer I could see the lights were on an object which was stationary in the sky just to the south of our location. We rushed home and grabbed my video camera and headed back to the spot where we had spotted the object but it was no where to be seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48542.html](http://www.nuforc.org/webreports/reports/048/S48542.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161572.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161364.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161366.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161392.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
