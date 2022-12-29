@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:26 on 29 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:41 on 29 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Mobile (AL) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node  63</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152235.html](http://www.nuforc.org/webreports/reports/152/S152235.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Tustin (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Very bright red objects, round, in formation one behind the other travelling upwards at a greater speed than any commercial aircraftI saw round red glowing objects that rose up from behind my house, I was out front walking our dogs, that seemed to have taken off one after the other and each followed the path of the first "exactly".  All five seemed to rise into the sky heading South West and gained altitude very quickly before disappearing into the night sky one after the other at precisely the same spot in the night sky.  I live directly beneath the flight path for John Wayne airport in Santa Ana and planes were landing, these objects were above the landing planes shooting upwards into the sky and nothing like what I have ever seen before.  The formation of one following the other was precise and tight, I believe the objects were moving far too fast to be commercial aircraft and the altitude was far too high. I know the flight paths for most flights flying over our house and these crafts took a flight path upwards that I have never seen before.  These were not your ordinary crafts; these were definitely something different, and the glow of red light from them was brighter, not flashing, than anything I have witnessed before.  Has anyone else reported seeing these crafts?  Can someone explain what they were?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116239.html](http://www.nuforc.org/webreports/reports/116/S116239.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161572.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161364.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161366.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161392.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
