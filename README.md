@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:24 on 29 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:29 on 29 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Templeton (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>A flying circuit boardI was in my bedroom at 12:54 and I heard a strange noise outside, so I look out my blinds and I see a rectangle with strange light on it like a circuit board, not that long from this event I heard some kind of air crafts and I saw a military titan plane from my window.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131846.html](http://www.nuforc.org/webreports/reports/131/S131846.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Michigan City (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Cluster of large triange lights drops from the skyReturning from Chicago we were on the boarder of Indiana and Michigan. It was a rural area. It was a dark clear night with sveral stars. I was watching the stars when I saw an uncommonly bright "cluster" of lights in a triangle shape hover and dip quickly. At first I thought it might have been a falling star but they were in a formation and they dropped slower than a shooting star and it dropped straight down.  I waited to see if there was a crash on the ground but there was nothing</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54333.html](http://www.nuforc.org/webreports/reports/054/S54333.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161572.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161364.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161366.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161392.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
