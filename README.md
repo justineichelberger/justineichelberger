@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:30 on 28 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:41 on 29 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Seattle (Fremont District) (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Standing in Fremont one street up from the Canal as I came out of my store I noticed an orange glowing object in the sky over Queen Anne Hill.  At first I noticed it and pointed it out to my friend and thought that it must be Mars.  5 minutes later I looked again and noticed that the one object had been joined by 5 other spheres of a similar orange glowing nature.  The objects just hung in the sky without making any noise.  Then the objects began to take off one by one and disappearing into the sky. The last one stayed behind for an extra 10 minutes and then left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99103.html](http://www.nuforc.org/webreports/reports/099/S99103.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Bastrop (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>SUMMARY:  due south of bastropA bright light was seen in the sky, and was thought to be a star until it started moving.  It moved back and forth, and up and down.  Sometimes it climbed in a diagonal course. The object also changed colors.  It went from blue to redto green. Later, WE briefly saw the same object again, but in a different part of sky.  I often look for such objects, but I've never seen anything quiet like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01915.html](http://www.nuforc.org/webreports/reports/001/S01915.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/161/S161338.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161351.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161356.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161355.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161371.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
