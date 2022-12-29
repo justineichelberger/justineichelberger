@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:27 on 29 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:24 on 29 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Raleigh (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I saw a large solid black circle next to a cloud parking my car. It was perfectly still and did not move. I continued to stare at it and then it started to appear to shrink into itself and completely disappearing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161335.html](http://www.nuforc.org/webreports/reports/161/S161335.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Price (UT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Mars like object traverses night skyA red orb that I first mistook for Mars appeared directly over head.  it seemed to be mars, but I knew mars was not in that part of the sky.  I watched it move very slowly and I actually had to find a stationary object in the foreground to verify its movement and direction.  I assumed it to be a very bright satellite or even the ISS, however it continued on an approximate magnetic heading of 160 or south by southeast.  it traversed the entire sky until it was seemingly gone over the horizon.  no detectible change in speed or heading was observed.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105731.html](http://www.nuforc.org/webreports/reports/105/S105731.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161572.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161364.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161366.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161392.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
