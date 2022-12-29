@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:27 on 29 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:01:07 on 29 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Orcutt (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>While at work a red and yellow fire ball dancing from here and there directly over head.  And tben zipped off east over the mountains</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95685.html](http://www.nuforc.org/webreports/reports/095/S95685.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in North Coventry (PA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 75.0 - 75.0 minutes.</sub><blockquote><sub>bright star-like object hovered over wooded area for at least 45 minutesFirst sighted object while driving westbound on PA route 422-it was surrounded by 7 or 8 aircraft which appeared to be helicopters, south of the highway. The object got my attention due to its odd attitude (vertical and slightly tilted to one side, illuminated, and just odd and non-aircraft looking)as well as the number of aircraft moving with it.  Object and aircraft continued west and seemed to pause near Limerick Nuclear power station, and I passed them at this point.  After exiting at PA Route 100 south I regained sight of object and followed it. The object came to rest over wooded area between French Creek State Park (which lies in both Berks and Chester Counties) and Camp Nueva Esperanza area in North Coventry Township, Chester County. Remained brightly lit and stationary for at least 25 minutes. Meanwhile, a series of 3-4 jets (probably military, seemed to have dual horizontal tail fins and lights )alternately made slow wide turns around the object's location during the entire time (I had first mistaken these jets for commercial aircraft on approach to Philadelphia International Airport, and in fact spotted at least one commercial aircraft heading that way).  One of the aircraft made a closer approach to the object than the others.  Eventually the object moved slowly westward toward the French Creek park area, as did the aircraft circling it. I lost sight because it got further west and I do not know the back roads in the Northern Chester / Berks area. Was still brightly lit when I departed. Object's shape looked like a helicopter hanging from its front end , i.e. cockpit at top and tail at bottom. Light was much brighter and a bit yellower than the surrounding stars. Although the aircraft engines were audible as they circled the object had no discernable sound at all. I will add that someone I mentioned this to stated that he had seen a large, illuminated non-moving object in the sky when departing the Philadelphia waterfront area at approximately 5:45 that evening. I felt nothing pa! rticular ly threatening about this object, but definitely felt it was not a conventional craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67740.html](http://www.nuforc.org/webreports/reports/067/S67740.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161572.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161364.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161366.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161392.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
