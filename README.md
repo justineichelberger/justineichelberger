@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:23 on 29 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:27 on 29 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Hampton Roads (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Traveling on I 95 to I 64 when I spotted 2 object in the sky.  The object had at least four light on each object.  The lights appeared green and white in color.  Thought they were planes at first, but they never moved.  Once I hit I 295. , the two objects were still in the sky.  Finally, when I hit I 64 after have traveled for two hours noticed the tectangular lights were actually round in shape and was becoming more prominent in shape.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105726.html](http://www.nuforc.org/webreports/reports/105/S105726.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Dillon (SC) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>The UFO's were flying all over Dillon, SC.  I saw eight of them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131939.html](http://www.nuforc.org/webreports/reports/131/S131939.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161572.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161364.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161366.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161392.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
