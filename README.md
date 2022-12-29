@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:37 on 29 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:27 on 29 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Studio City (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>3 Orange round spheres, with hot white looking centers with what appeared to be a shutter,  they flew in triangular formation.strange lights I saw earlier; They got very close. too low and too close. they were orange, round and in the formation of a triangle, with white hot lights in the middle of each sphere. they were moving steadily, at a low speed-no noise. I stopped people on the street and made them look as well..they were dumbfounded. then they gained altitude rapidly and were gone.I called the LAPD, AND ABC news, both said they have heard nothing and were not interested in my pic.  I went to the link below and found exact matches to what Ive seen, all over the country-orange, triangular formation..spheres..  ALL in December.  Even more interesting...tons in the San Fernando Valley (where I live). In my pic, they only appear white..but in person they were bright orange. think I'm nuts?  I bet you'll see them too- Im not saying they were driven by aliens, they could be military drones..honestly I dont know what they were..but I saw them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86160.html](http://www.nuforc.org/webreports/reports/086/S86160.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Orcutt (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>While at work a red and yellow fire ball dancing from here and there directly over head.  And tben zipped off east over the mountains</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95685.html](http://www.nuforc.org/webreports/reports/095/S95685.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161572.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161364.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161366.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161392.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
