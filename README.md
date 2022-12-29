@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:32 on 29 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:32 on 29 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Altoona (IA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>strange pulsing light over Altoona IowaI was leaving work when i noticed a strange pulsing light I started the car and followed it then suddenly it just vanished it was moving very slow so I don't know how it disappeared from my sight so fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60560.html](http://www.nuforc.org/webreports/reports/060/S60560.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ellicott City (outside of) (MD) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large Triangle UFO seen on Interstate 95 in Maryland.On the Morning of Monday, December, 29th, 2014, my mother and I were driving back to Pennsylvania from a trip to Florida.  As we drove through the state of Maryland, at approximately 3:55 AM, according to the dash board clock, I noticed a large bright light glide over interstate 95, almost directly over our car, just enough to get my attention.  I was driving about 70 mph and pressed my face against the front windshield to get a better look at it, and to my amazement, I saw a triangle craft with two oval lights on the back corners of the craft and a large red light in the center.  I could also make out a very dark point on the craft which I thought to be the front of it, or the tip of the triangle.  It stopped and hovered over a group of trees as I drove down the highway.  I quickly screamed to my sleeping mother in the passenger’s seat to look out her window.  She woke up and immediately saw what I was yelling about.  She was mesmerized.  I was trying to look at the craft and the road at the same time and that was when I noticed that the edges of the craft were more rounded, almost like a popsicle stick.  It had two layers, on the bottom was the color of the cloudy night sky, and the top was a very brilliant black color.  I fumbled for my phone that had a camera attached to it and my mom watched as it hovered over a group of trees.  It hovered only about five to ten feet over the tree tops.  She got a better view of the craft and said that the red light in the center of the “V” was very “unusual” and very large and red.  When I took out the camera to take the picture, I aimed the camera towards it, but it went from a stationary position above the tree line, to completely disappearing out of view and I couldn’t get the picture taken.  She told me that when I took out the camera and aimed it, it was almost as if “the UFO knew I was about to take a picture and took off”.  We both became very excited from what we just saw and then I took notice! of the time and it read, 3:55 AM.  The approaching exit that ! was then seen was for the Ellicott City off ramp.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116182.html](http://www.nuforc.org/webreports/reports/116/S116182.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161572.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161364.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161366.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161392.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
