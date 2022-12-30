@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:25 on 30 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:26 on 30 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Pueblo (CO) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 83</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152687.html](http://www.nuforc.org/webreports/reports/152/S152687.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Castle Rock (CO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately &lt;10s - &lt;10s minutes.</sub><blockquote><sub>It was a silentl spherical orb of a dark color or transparently distorting the clouds behind it.As I was observing what appeared to be 3 red flares dissapating in the distant night sky, a blur caught my attention. It appeared to be, at first, a small flock of birds lit by the city glow. It was too perfectly spherical to be anything flying naturally. As it silently crossed the sky above, I ran into the yard to get a better view. It reminded me of the old Windows 98 screensaver, the one with the rolling ball that distorted the desktop underneath. It was as though the flying sphere was distorting the hazy clouds behind it. I can't explain it in a way that makes sense because what I was seeing still doesn't make sense to me. It silently blurred across the entire sky in under ten seconds and disappeared just as quickly as it appeared. Whether or not the supposed flares have anything to do with all this is not clear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161407.html](http://www.nuforc.org/webreports/reports/161/S161407.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/161/S161519.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161407.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161372.html)
-- [226](http://www.nuforc.org/webreports/reports/161/S161404.html)
-- [225](http://www.nuforc.org/webreports/reports/152/S152125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
