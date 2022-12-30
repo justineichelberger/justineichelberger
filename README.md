@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:24 on 29 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:27 on 30 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Price (UT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Mars like object traverses night skyA red orb that I first mistook for Mars appeared directly over head.  it seemed to be mars, but I knew mars was not in that part of the sky.  I watched it move very slowly and I actually had to find a stationary object in the foreground to verify its movement and direction.  I assumed it to be a very bright satellite or even the ISS, however it continued on an approximate magnetic heading of 160 or south by southeast.  it traversed the entire sky until it was seemingly gone over the horizon.  no detectible change in speed or heading was observed.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105731.html](http://www.nuforc.org/webreports/reports/105/S105731.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Springfield (OR) reported seeing craft that fit the description of some 'Changing' over a period of approximately 300.0 - 300.0 minutes.</sub><blockquote><sub>Shape changing UFO's in Springfield, OregonI was walking back from my niece's house back to my sisters house.  When I looked up at the clear night, I saw what I thought appeared to be an UFO.  I looked around and saw more, anywhere from 7 to 15 craft.  It looked like an airplane but was not moving.  There were red, green, blue lights around a white ball in the middle.  There were lots of stars around the UFO, which is what drew my attention to it in the first place.  It just stayed in one spot.  I kept going outside and checking on it for the next 5 hours.  At around 12:30 pm, it was gone.The smaller ones were gone also.  Observers were a female age 45 and her nephew age 25.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125017.html](http://www.nuforc.org/webreports/reports/125/S125017.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161572.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161364.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161366.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161392.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
