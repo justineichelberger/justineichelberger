@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:22 on 30 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:31 on 30 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sarasota (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Fireball, bright green fast descent</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95653.html](http://www.nuforc.org/webreports/reports/095/S95653.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Hamilton (MS) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>While leaving work I was walking to my vehicle.  I was looking up into the dark morning sky about 6:00am and l noticed 3 bright lights that were in a straight line pattern in the sky. What I thought at first was a airplane of some sort but the lights didn't flash like an airplane lights, just 3 white lights moving.  I then got the attention of a co worker and he started watching  By this time the object started to change direction moving more towards higher altitude faster then When I first seen it.  In a matter of seconds the white lights had turned in direction and seemed to be fading out of site.  This is when i realized that this was not an airplane nor helicopter because i could see the stars in the sky and these lights were fading fast like leaving the atmosphere.  Then it was gone.  As i drove home i continued to watch the sky for it again, but no such luck but i did see a few airplanes and their blinking lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151908.html](http://www.nuforc.org/webreports/reports/151/S151908.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/161/S161519.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161407.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161372.html)
-- [226](http://www.nuforc.org/webreports/reports/161/S161404.html)
-- [225](http://www.nuforc.org/webreports/reports/152/S152125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
