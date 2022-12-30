@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:22 on 30 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:31 on 30 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Brooksville (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>It was crazy and at first I didnt know it was real but it was!!Me and three friends were at like a forestry area playing man hunt when a big disk like object goes by in the air. It wasnt an airplane because as soon as it got right above us three lights lit the ground up. It wasnt no helicopter or anything it was very quite. The only lights were the ones shining down on us. like usually a plane would have those flashing lights this didnt.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60929.html](http://www.nuforc.org/webreports/reports/060/S60929.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Saugus (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Noiseless triangular craft with orange glow seen flying at extremely high speed at night - the silence was weird.I am a 48-year-old licensed mechanical engineer.  My 13-year-old son and I were sitting in our Jacuzzi this evening looking at Orion’s belt when my son suddenly pointed up at the sky.  He had spotted something flying and asked me to identify it.  The object was flying overhead coming in our direction from the east and heading westward in a straight line.  It was triangular in shape and had a relative size of about one quarter of a full moon (if you cut the moon up like a pie).  I would estimate its altitude to have been about that of a conventional, single engine propeller plane, or perhaps even as low as a helicopter.The object had a dim but solid orange glow to it and there were no blinking lights (red or green) as most aircraft have when in flight.  Although I cannot estimate its speed with much accuracy I can say that from the time it entered our field of vision from the east to when it disappeared to the west took no more than three to four seconds.  Thus, I would say that it appeared to be traveling quite fast.  What astonished both myself and my son, however, was the fact that the object made no sound whatsoever.  No buzz of props, no rumble of jet engines-nothing-not even after it had passed.It was a bizarre and surreal feeling watching it seemingly "glide" at such a speed over us.   The absolute silence of the craft and its flight is what got us to report it.  From the time we first saw the craft in the east to the time it left our field of vision in the west the craft had traveled approximately 110 degrees (180 degrees being from one horizon to the other on a perfectly flat plane).((NUFORC Note:  We spoke with the father, and he seemed to us to be unusually serious-minded and credible.  We suspect that the two reports, from father and son, probably are quite accurate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67746.html](http://www.nuforc.org/webreports/reports/067/S67746.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/161/S161519.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161407.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161372.html)
-- [226](http://www.nuforc.org/webreports/reports/161/S161404.html)
-- [225](http://www.nuforc.org/webreports/reports/152/S152125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
