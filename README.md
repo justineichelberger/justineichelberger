@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:14 on 30 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:19:00 on 30 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Mary Esther (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Large bright light high in the sky.  The light was very bright it was hovering then started to drop at a fast rate.  The bright was hovering over the Gulf very low.  All of the sudden it bursted into high rate of speed light disappeared but a very loud noise afterwards</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152129.html](http://www.nuforc.org/webreports/reports/152/S152129.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Littlehampton (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange light seen 'taking off' and disapearing over sea into distanceWe were driving along Littlehampton seafront in the early evening and I was sitting in the passenger seat whilst my Dad was driving.  Then, I saw a bright orange light ascend from the ground in the distance, as if a firework, prompting me to say, "Dad, look, there is a firework."  However, this ‘firework’ did not set of, but continued to rise, prompting me once again to say, "Maybe it is a flare instead?" However, the light quickly diverted to the left, towards the sea and continued to gain in height and in distance. We stopped and I opened the door hoping for a noise of some sort, only to hear a nearby plane, to which this light had increased its speed and quite possibly travelling up to, if not faster than the speed of light.  Another surprising issue was how bright the light was in comparison to stars and lights from planes nearby.  No sooner had 3 minutes past, when the light faded and disappeared in the distance.   Seeing it the air alone was weird, therefore, seeing it ‘take-off’ from land or somewhere below skyline and then continue to fly away seemed even more of an intriguing suspicion of it being a UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67736.html](http://www.nuforc.org/webreports/reports/067/S67736.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/161/S161519.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161407.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161372.html)
-- [226](http://www.nuforc.org/webreports/reports/161/S161404.html)
-- [225](http://www.nuforc.org/webreports/reports/152/S152125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
