@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:44 on 30 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:14 on 30 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Matagorda (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately on going - on going minutes.</sub><blockquote><sub>Some definite activity off Texas coast ,, have friend with 11 full minutes of activity,, doesnt look earthly,, but national securityWe knew we saw something coming out of the gulf horizon in a hurry,, then sit and move alittle ,, hard to describe,, but then my best friend was in her hot tub the other morning and got 15 min,, only 3 min of no action. Now we are hearing it from friends,, oh yea so and so said it came right up out of the gulf,, and sat, tries to hide among the stars, to avoid passing planes,,  by acting like a star, I know this sounds crazy, my husband and I both think so to,, but its real ,, there is a reference point star through the whole activity.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67994.html](http://www.nuforc.org/webreports/reports/067/S67994.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Odon (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately still happening - still happening minutes.</sub><blockquote><sub>it was a light pulsating across the sky like a light house on the water gives of a spot light across the sky i lived here for 20 years and never seen this type of light in the sky like a beam of a spot light across the sky it is 7pm and i have been watching it for an hour still goin on</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79428.html](http://www.nuforc.org/webreports/reports/079/S79428.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/161/S161519.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161407.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161372.html)
-- [226](http://www.nuforc.org/webreports/reports/161/S161404.html)
-- [225](http://www.nuforc.org/webreports/reports/152/S152125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
