@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:40 on 30 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:23 on 30 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Olathe (KS) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>12-30-08  At 2:20 pm I was in my car on the 119th overpass above I-35 and I was waiting for the stoplight to change to green.  I had felt an urge or suggestion from I’m not sure, to open the sunroof. When I opened the sunroof my eyes were facing forward and then it was suggested to me to look straight up and I saw the UFO.   The UFO was moving to the East and I was facing West.  It seemed to slow down and then moved in the direction of the arrow again.  It looked similar and yet different then your usual saucer shape for it was three connected saucer shapes. Now picture in your minds eye the three saucer shapes and 1 was double in size and picture it was at 12:00 on a clock.  The 2nd saucer shape was at 3:00 and the 3rd saucer shape was at 5:00 and they were connected with connectors that where half the width of a saucer.  Now follow me on this one. 1st one connected coming out at 5:00 and connecting to the second one at 10:00 and 2nd one coming out at 7:00 and connected to the 3rd one at 12:00.  I knew immediately that it was an alien craft of some sort for it was not emitting an exhaust like from a jet and because of the way it looked.  What came to me next was that this is the real deal! I remember thinking that it was way up there for I did a finger and thumb crazy measuring (like kids in the hall- Crushing your head sequence) and it was about a half of an inch.  I know that sounds crazy but I wanted to put some sort of perspective on and then it disappeared and I was yelling and laughing and saying I got to call D, J, and H!!!!! This is awesome!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67810.html](http://www.nuforc.org/webreports/reports/067/S67810.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Westport (MA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I GOT UP TO LET MY DOGS OUT AS I DO EVERY NIGHT.. I ALWAYS CHECK THE WINDOWS. I GLANCED OUT MY KITCHEN WINDOW ( THAT FACES  WEST ) AND NOTICED TOWARDS THE NORTHWEST  A BIG BRIGHT ORANGE CIRCLE IN THE DARK SKY. I TOLD MY HUSBAND TO COME AND SEE IT FOR PROOF OF WHAT I WAS, BUT HE SAID IT WAS THE MOON. I WENT BACK TO THE WINDOW , IT WAS STILL THERE.I WENT OUT ON MY DECK TO SEE IT I COULD SEE ANYTHING ELSE. THER WAS NOTHING BUT THE ORANGE CIRCLE. I WENT BACK TO SEE IF I COULD GET MY HUSBAND TO COME AND SEE IT BUT HE WOULDN'T. WHEN I WENT BACK TO THE WINDOW IT WAS GONE.ON TUESDAY 01/02/06, WHILE AT WORK I DECIDED TO CALL TALK RADIO, WSAR - 1400 IN SOMERSET, MA. I SPOKE WITH MIKE MIRAN,THE DJ. AFTER I CALLED IN , A GENTLEMAN CALLED AND SAID HE SAW THE SAME ORANGE CIRCLE, BUT IT DID NOT STAY, AS SOON AS HE SAW IT, IT WAS GONE. HE MENTIONED TO SOMEONE, THE PERSON TOLD HIM HE HAD SEEN THE SAME CIRCLE IN 1976 OVER MIDDLEBORO OR ATTLEBORO I'M NOT SURE. THEY HAD MENTIONED SOMETHING ABOUT WATER, WELL COME TO THINK OF IT, THERE IS THE NORTH WATUPPA POND ABOUT A MILE FROM MY HOUSE THAT SUPPLIES FALL RIVER WITH WATER AND TAUNTON RIVER ABOUT DOUR MILES,THAT IS ALSO IN THE SAME DIRECTION AS THE CIRCLE. I THOUGHT OF TAKING A PICTURE BUT I DID NOT HAVE FILM IN MY CAMERA, THAT'S WHY I WANTED MY HUSBAND TO SEE IT, SO I WOULD HAVE PROOF.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54300.html](http://www.nuforc.org/webreports/reports/054/S54300.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/161/S161519.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161407.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161372.html)
-- [226](http://www.nuforc.org/webreports/reports/161/S161404.html)
-- [225](http://www.nuforc.org/webreports/reports/152/S152125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
