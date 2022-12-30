@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:18 on 30 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:22 on 30 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Las Vegas/Truth or Consequences (between) (NM) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>small black disk flying fast in sunny NM skyI was the passenger in the back of a car travelling from Denver to El Paso on Sunday afternoon.  I wrote down this information but cannot find it, so the time is approximate, but everything else is quite accurate.  I was watching the skies as I always do, and it was a mostly sunny day (having driven beyond the mostly cloudy skies nearer Albuquerque), and noticed a black shape in the sky which I first guessed was a bird gliding over the beautiful desert landscape.  But it was quite high and it did appear to be approaching relatively quickly from the East/Southeast, flying to the North/Northwest.  As I watched, I saw that it was appeared to be a small, black disk, flying VERY rapidly, and as it passed just to the east of me I examined it as closely as possible, determining there were no wings or other appendages.  So it could have been a cigar-shaped object, except that as it crossed the highway behind the car (perhaps 2 miles north of the car, which was travelling south, continuing to the North/Northwest, I saw that it did not change shape, therefore it appeared to be a solid disk-shaped (or round) vehicle.  I judged it as travelling several hundred miles per hour, and while it is very hard to judge the size, it must have been between about 20 to 50 feet in diameter.  I did manage to grab my binoculars but due to being in the car and it moving so quickly, could not bring it entirely into perfect focus, but can confirm it was a solid, black, apparently round object (seen from the side).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21582.html](http://www.nuforc.org/webreports/reports/021/S21582.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Brooksville (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>It was crazy and at first I didnt know it was real but it was!!Me and three friends were at like a forestry area playing man hunt when a big disk like object goes by in the air. It wasnt an airplane because as soon as it got right above us three lights lit the ground up. It wasnt no helicopter or anything it was very quite. The only lights were the ones shining down on us. like usually a plane would have those flashing lights this didnt.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60929.html](http://www.nuforc.org/webreports/reports/060/S60929.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/161/S161519.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161407.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161372.html)
-- [226](http://www.nuforc.org/webreports/reports/161/S161404.html)
-- [225](http://www.nuforc.org/webreports/reports/152/S152125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
