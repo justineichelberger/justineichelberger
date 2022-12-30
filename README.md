@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:23 on 30 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:38 on 30 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Westport (MA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I GOT UP TO LET MY DOGS OUT AS I DO EVERY NIGHT.. I ALWAYS CHECK THE WINDOWS. I GLANCED OUT MY KITCHEN WINDOW ( THAT FACES  WEST ) AND NOTICED TOWARDS THE NORTHWEST  A BIG BRIGHT ORANGE CIRCLE IN THE DARK SKY. I TOLD MY HUSBAND TO COME AND SEE IT FOR PROOF OF WHAT I WAS, BUT HE SAID IT WAS THE MOON. I WENT BACK TO THE WINDOW , IT WAS STILL THERE.I WENT OUT ON MY DECK TO SEE IT I COULD SEE ANYTHING ELSE. THER WAS NOTHING BUT THE ORANGE CIRCLE. I WENT BACK TO SEE IF I COULD GET MY HUSBAND TO COME AND SEE IT BUT HE WOULDN'T. WHEN I WENT BACK TO THE WINDOW IT WAS GONE.ON TUESDAY 01/02/06, WHILE AT WORK I DECIDED TO CALL TALK RADIO, WSAR - 1400 IN SOMERSET, MA. I SPOKE WITH MIKE MIRAN,THE DJ. AFTER I CALLED IN , A GENTLEMAN CALLED AND SAID HE SAW THE SAME ORANGE CIRCLE, BUT IT DID NOT STAY, AS SOON AS HE SAW IT, IT WAS GONE. HE MENTIONED TO SOMEONE, THE PERSON TOLD HIM HE HAD SEEN THE SAME CIRCLE IN 1976 OVER MIDDLEBORO OR ATTLEBORO I'M NOT SURE. THEY HAD MENTIONED SOMETHING ABOUT WATER, WELL COME TO THINK OF IT, THERE IS THE NORTH WATUPPA POND ABOUT A MILE FROM MY HOUSE THAT SUPPLIES FALL RIVER WITH WATER AND TAUNTON RIVER ABOUT DOUR MILES,THAT IS ALSO IN THE SAME DIRECTION AS THE CIRCLE. I THOUGHT OF TAKING A PICTURE BUT I DID NOT HAVE FILM IN MY CAMERA, THAT'S WHY I WANTED MY HUSBAND TO SEE IT, SO I WOULD HAVE PROOF.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54300.html](http://www.nuforc.org/webreports/reports/054/S54300.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Wellington (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>numerous objects heading southeast in staggered formation of 2-3 each with as many as 6 within 60 degree arc traversing sky from northwest to southeast at over 25K ft</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161372.html](http://www.nuforc.org/webreports/reports/161/S161372.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/161/S161519.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161407.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161372.html)
-- [226](http://www.nuforc.org/webreports/reports/161/S161404.html)
-- [225](http://www.nuforc.org/webreports/reports/152/S152125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
