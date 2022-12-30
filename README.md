@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:30 on 30 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:27 on 30 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Morongo Valley (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>A big bright ball of fire traveling at low altitude in the mid-evening.I do not even recall the exact month, but it was recently. I live in the high desert where the city lights do not interrupt the cosmos at night.  I was out on the front porch (facing south)smoking a cigarette. I happened to look to my left (east)and in the immediate hill range of the valley, I saw a fireball that was very big considering how close it was.  It shot behind the local hill within a second. I don't know what on earth it was, however, it was bizarre!!!  It was the color of fire with definite layers of color.  From what I recall, from center to outward, the colors went from the hues of red, orange, yellow then a bright blue aura.  There was no tail following the object and it was large, very large.  It was very close as it appeared to be in the Morongo Valley itself which is only a stretch of about 7 or so miles. It looked like a star, only amplified in size to where it looked like the size of a small cabin on top of a hill.  The object was round and was ! definitely traveling north.  I just now came to this website, and that is my story.  My father in law called out on the local HAM radio channel to see if anyone seen it, but there was only one response who did not see it.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87976.html](http://www.nuforc.org/webreports/reports/087/S87976.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Fallbrook (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately We left - We left minutes.</sub><blockquote><sub>We spotted a ufo the day after my birthday in California (sandiego county)At 6:30 p.m. I witnessed something that I would only dream about.  I witnessed a bright white light moving passed other stars.  It was just as big as another star.  The only difference is that it did not flicker like a star.  I was the first to witness this, then my brother and finally my dad.  I lost contact when i got my dad to see it.  They say it zig zagged and was changing colors to a brilliant green and pink.  I didnt see it after i got my dad outside, but they both saw it.  We left because it was too cold.  This was witnessed when i stepped outside my porch to look at the stars looking for ufo's.  I should have at least taped this, but i guess i was too excited at the time...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26896.html](http://www.nuforc.org/webreports/reports/026/S26896.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/161/S161519.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161407.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161372.html)
-- [226](http://www.nuforc.org/webreports/reports/161/S161404.html)
-- [225](http://www.nuforc.org/webreports/reports/152/S152125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
