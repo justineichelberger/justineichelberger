@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:26 on 30 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:25 on 30 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Castle Rock (CO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately &lt;10s - &lt;10s minutes.</sub><blockquote><sub>It was a silentl spherical orb of a dark color or transparently distorting the clouds behind it.As I was observing what appeared to be 3 red flares dissapating in the distant night sky, a blur caught my attention. It appeared to be, at first, a small flock of birds lit by the city glow. It was too perfectly spherical to be anything flying naturally. As it silently crossed the sky above, I ran into the yard to get a better view. It reminded me of the old Windows 98 screensaver, the one with the rolling ball that distorted the desktop underneath. It was as though the flying sphere was distorting the hazy clouds behind it. I can't explain it in a way that makes sense because what I was seeing still doesn't make sense to me. It silently blurred across the entire sky in under ten seconds and disappeared just as quickly as it appeared. Whether or not the supposed flares have anything to do with all this is not clear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161407.html](http://www.nuforc.org/webreports/reports/161/S161407.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Western Queensland (QLD, Australia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Two bright lights hovering one had a flashing red lightI woke up approx 1 am and we have a large sliding door in our bedroom on the northern side of the house. I noticed a bright light low in the sky just above the tree line The light seemed to have a flashing red light as well. This really bright light seemed to hover and move around in the same area for 15 mins. I repeatedly looked at this light not believing my eyes. There was no explanation for this thing to be there as I often wake up during the night and look at the stars and usually see planes in the sky with flashing red lights going past but this thing was definately not a plane. I was pretty scared and hid under my doona for a while and had to check this thing out again so I sat up in bed and rubbed my eyes to get a better look at this thing but the light was to bright. I then tried to go to sleep again but decided to have another look at this thing and this time there was another bright light high in the sky but appeared bigger than the one lower to the ground and never had a flashing red light and it was just hovering there in the one spot. I tried to go to sleep again but had to check it out again as I couldn't believe what I was seeing and this time they had both gone and there was just the usual distant stars in the sky. I live on a property 30kms from town and there is nothing to explain these lights it definately was not a reflection or a plane. I just hope it don't come back again.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34245.html](http://www.nuforc.org/webreports/reports/034/S34245.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/161/S161519.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161407.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161372.html)
-- [226](http://www.nuforc.org/webreports/reports/161/S161404.html)
-- [225](http://www.nuforc.org/webreports/reports/152/S152125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
