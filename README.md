@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:26 on 30 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:44 on 30 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Stanhope (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Pair of lights seen hovering, or slowly cruising, over Route 80 West.My wife and I were traveling West on Route 80 and drove underneath 2 hovering lights; blue/green-ish. The light placement was similar to an airplane. However, the object did not move but remained stationary, or cruised at such a slow crawl that it appeared to be hovering.We considered it might be radio-tower lights (of which there are many on the mountains in that stretch of road) but the lights were above us and the road. Our next thought was that it could be a helicopter, but there was no detectable blade noise and the distance between the lights was closer to an airplane wingspan; it would have had to have been a bigger helicopter than I'm aware of in existence. I can't think of anything else that can hover or travel at such slow speeds besides a blimp...but how often are blimps even flown?...especially after dark and over a highway, rather than a sporting event?  It remained in our line of sight as we drove for approximately 30 seconds to under a minute before the road curvature obscured our view behind the treeline.I've waited this long to report it because I've periodically been checking this site, and similar reporting sites, to see if anyone else collaborated this sighting, to no avail. So, I guess I'll be the first to report it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75408.html](http://www.nuforc.org/webreports/reports/075/S75408.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Matagorda (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately on going - on going minutes.</sub><blockquote><sub>Some definite activity off Texas coast ,, have friend with 11 full minutes of activity,, doesnt look earthly,, but national securityWe knew we saw something coming out of the gulf horizon in a hurry,, then sit and move alittle ,, hard to describe,, but then my best friend was in her hot tub the other morning and got 15 min,, only 3 min of no action. Now we are hearing it from friends,, oh yea so and so said it came right up out of the gulf,, and sat, tries to hide among the stars, to avoid passing planes,,  by acting like a star, I know this sounds crazy, my husband and I both think so to,, but its real ,, there is a reference point star through the whole activity.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67994.html](http://www.nuforc.org/webreports/reports/067/S67994.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/161/S161519.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161407.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161372.html)
-- [226](http://www.nuforc.org/webreports/reports/161/S161404.html)
-- [225](http://www.nuforc.org/webreports/reports/152/S152125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
