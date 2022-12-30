@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:25 on 30 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:22 on 30 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Western Queensland (QLD, Australia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Two bright lights hovering one had a flashing red lightI woke up approx 1 am and we have a large sliding door in our bedroom on the northern side of the house. I noticed a bright light low in the sky just above the tree line The light seemed to have a flashing red light as well. This really bright light seemed to hover and move around in the same area for 15 mins. I repeatedly looked at this light not believing my eyes. There was no explanation for this thing to be there as I often wake up during the night and look at the stars and usually see planes in the sky with flashing red lights going past but this thing was definately not a plane. I was pretty scared and hid under my doona for a while and had to check this thing out again so I sat up in bed and rubbed my eyes to get a better look at this thing but the light was to bright. I then tried to go to sleep again but decided to have another look at this thing and this time there was another bright light high in the sky but appeared bigger than the one lower to the ground and never had a flashing red light and it was just hovering there in the one spot. I tried to go to sleep again but had to check it out again as I couldn't believe what I was seeing and this time they had both gone and there was just the usual distant stars in the sky. I live on a property 30kms from town and there is nothing to explain these lights it definately was not a reflection or a plane. I just hope it don't come back again.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34245.html](http://www.nuforc.org/webreports/reports/034/S34245.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sarasota (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Fireball, bright green fast descent</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95653.html](http://www.nuforc.org/webreports/reports/095/S95653.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/161/S161519.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161407.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161372.html)
-- [226](http://www.nuforc.org/webreports/reports/161/S161404.html)
-- [225](http://www.nuforc.org/webreports/reports/152/S152125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
