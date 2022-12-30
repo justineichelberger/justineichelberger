@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:32 on 30 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:35 on 30 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in North Pole (AK) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Triangle shaped, orange and yellow light. moving in erratic behavior for about  8 min.Very Dark sky, many stars shining. one large triange out of context to the sky. moving slowly but in eratic behavior.  Also not only was large at first but move up in the sky further away and then back down. then hovered at a far distance without moving for about 2 minutes before disappearing completely.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86337.html](http://www.nuforc.org/webreports/reports/086/S86337.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Prince Albert (Canada) (SA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>it looked like a satellite . same brightness and size travelling across the eastern sky. It then changed direction and increased speed and travelled north covering the sky in about 3seconds. It was'nt a gradual increase in speed but jerky and quite remarkable</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26843.html](http://www.nuforc.org/webreports/reports/026/S26843.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/161/S161519.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161407.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161372.html)
-- [226](http://www.nuforc.org/webreports/reports/161/S161404.html)
-- [225](http://www.nuforc.org/webreports/reports/152/S152125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
