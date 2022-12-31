@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:35 on 31 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:27 on 31 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Olive Branch (MS) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A disk shaped copper colored object passed overhead as we were watching hawks flying above. The craft slowly flew past seemingly eratic at times like a bird might fly.It was mid day clear skies however there seemed to be a haze around the craft. We watched the craft fly at a low altitude for a mile or more then ascend into the upper atmosphere until out of sight.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51655.html](http://www.nuforc.org/webreports/reports/051/S51655.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Carson (NV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Hovering Craft looked like it had two levels. 3/4 lightsI have video from a cell phone.  I am not sure what to make of this.  Looks like the craft has two levels. It is dark out so hard to see this craft well.  Looks like it its round.  The person that filmed this said they saw 2 crafts only one was caught on tape.  When he first started filming he walks away to go get his wife, then films the craft a second time.  Craft seemed to be hovering.  Not sure if experts can tell if it is really a UFO or not.  He said this craft went straight up then was gone.  I will give my name as contact info.  Not sure if he wants to be known.  I would like to know if this is real or if anyone can even tell if it is real or fake.  I have the video posted on my facebook.  I am not sure how to send it to you.  I have the video on my phone also.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105913.html](http://www.nuforc.org/webreports/reports/105/S105913.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [669](http://www.nuforc.org/webreports/reports/161/S161409.html)
-- [668](http://www.nuforc.org/webreports/reports/161/S161478.html)
-- [667](http://www.nuforc.org/webreports/reports/161/S161397.html)
-- [666](http://www.nuforc.org/webreports/reports/161/S161399.html)
-- [665](http://www.nuforc.org/webreports/reports/161/S161388.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
