@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:25 on 31 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:23 on 31 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1986, an anonymous witness in Mt. Airy (near) (NC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Summary : We were driving south on Hwy. 52 when we saw 3 white lights in a triangular shape ascend from the trees to the left of the highway and hover momentarily before "swirling" out of sight.I was 19 years old and my best friend, also, was 19.  We had just bought a 74 Pinto from a welder on the job we worked at.  We rode home with him and drove the car back from N. of Mount Airy,  NC on Dec 31, 1986.  Andy was driving S. on Hwy. 52 when I saw 3 lights in a triangular formation ascend from the trees on the left side of the highway.  I pointed in amazement at which time Andy hunched over the wheel and saw the lights also.  They were about a hundred yards away and rotating as they ascended.  Andy slowed down and we stared at the lights for about 10 seconds.  The lights then moved rapidly east, kind of swirlinga bit before zipping almost straight up and completely out of sight.  At the rate the lights accelerated, it left us in a total state of shock. Since this occured on New Years Eve, we've had a hard time convincing anyone that we really saw it and I never heard of any other sightings.  We used to talk about it a lot but people think we're crazy and heated arguments would ensue.  What's confusing to me is that no sonic boom or any kind of noise for that matter was heard or felt.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02176.html](http://www.nuforc.org/webreports/reports/002/S02176.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Whately (MA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 67</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152691.html](http://www.nuforc.org/webreports/reports/152/S152691.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [669](http://www.nuforc.org/webreports/reports/161/S161409.html)
-- [668](http://www.nuforc.org/webreports/reports/161/S161478.html)
-- [667](http://www.nuforc.org/webreports/reports/161/S161397.html)
-- [666](http://www.nuforc.org/webreports/reports/161/S161399.html)
-- [665](http://www.nuforc.org/webreports/reports/161/S161388.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
