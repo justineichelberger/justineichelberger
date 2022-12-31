@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:32 on 31 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:30 on 31 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Large number of red-orange spheres over Miami.There was a pulsating green light in the northern sky that lasted approximately 10 minutes, before quickly descending and disappearing in the horizon.  Then a perfect formation of approximately 14 of very bright red-orange spheres starting coming out of the eastern sky heading over to the northwest, some disappearing, some heading west and keeping a firm position for approximately 5 minutes.  A brief pause of about three minutes, before the rest of the spheres made same route, but this time in an ascending mode.  All spheres made very quick ascent and descent moves.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125011.html](http://www.nuforc.org/webreports/reports/125/S125011.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was standing on top of Parking Garage, looked up at sky, so.east, and saw to look like 12-15 disk, silver in color, and perfectly circled.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09837.html](http://www.nuforc.org/webreports/reports/009/S09837.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [669](http://www.nuforc.org/webreports/reports/161/S161409.html)
-- [668](http://www.nuforc.org/webreports/reports/161/S161478.html)
-- [667](http://www.nuforc.org/webreports/reports/161/S161397.html)
-- [666](http://www.nuforc.org/webreports/reports/161/S161399.html)
-- [665](http://www.nuforc.org/webreports/reports/161/S161388.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
