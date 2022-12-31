@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:29 on 31 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:33 on 31 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Crown Point (IN) reported seeing craft that fit the description of some 'Changing' over a period of approximately all night - all night minutes.</sub><blockquote><sub>unidentified flying objectMy fiancee was looking through the telescope trying to see Saturn when he came running in the house telling me to come and look at something he found. This thing was round like a small orb but it was all different colors like reds and greens and yellows. and the middle of this circular thing was swirling around and changing colors like some kind of prism thing. I dont know what it is but i would like to know if anyone else has spotted something like it. It didnt move around in circles or zig zag in the sky like people say but it did move and I know it wasnt a star it was way to low. Whatever it was it was weird. could you possibly give me some info on what this thing could have been</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34267.html](http://www.nuforc.org/webreports/reports/034/S34267.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Buena Park (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I observed a silvery/opulesant colored disk hovering in an upwards position -  leveled out and moved quickly south-eastLooking up into the sky i observed this silvery/opulesant colored disk hovering in an upwards position, then it started moving upwards - leveled out and moved quickly south-east and then veered to the south.  There was no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26845.html](http://www.nuforc.org/webreports/reports/026/S26845.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [669](http://www.nuforc.org/webreports/reports/161/S161409.html)
-- [668](http://www.nuforc.org/webreports/reports/161/S161478.html)
-- [667](http://www.nuforc.org/webreports/reports/161/S161397.html)
-- [666](http://www.nuforc.org/webreports/reports/161/S161399.html)
-- [665](http://www.nuforc.org/webreports/reports/161/S161388.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
