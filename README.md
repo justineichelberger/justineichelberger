@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:23 on 31 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:26 on 31 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Magna (UT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Amber light, moving in wierd waysAt 23:15 I was driving to my job as I work a grave yard shift. I live in the west side of the Salt Lake valley near the mountain.  I only live about a five minute drive to my place of employment, while driving I noticed what I thought was an airplane in the distance out over the mountain. It was a different colored light than what is the normal green and red, it was a dark amber color almost orange.  I didn’t think much of it until I realized it was on my side of the Oquirrh Mountains (less than two miles away) and could not have been an airplane, so I pulled into a church parking lot to watch it.  My second guess was it could have been a helicopter, but I couldn’t hear it make any sound.  The strange light went lower behind a mountain called hogs back losing sight of it so off to work I went. I have a co-worker that lives near where I do and she called me asking if I saw the strange orange light up against the mountain that was leaving a lit up trail in the nig! ht sky, I confirmed that I did.  I left the building I work in to go look for the strange light. It was midnight and all the New Years Eve fireworks lit up the sky.  I could see the amber light again near the mountain now moving in a weird circular pattern, my co-worker confirmed this as we were still on the phone with each other I asked her if it could have been fireworks, she told me she had been watching it for a while and it wasn’t. I decided to call a family member who lived in an apartment building in the same area asking her if she could see a strange amber light up against the mountain.  She was skeptical in asking me “is this another one of you weird UFO things”.  I just ask her to look for it and tell me what it was doing, she got silent for few seconds as she confirmed by saying “yea that’s weird its up by your house against the mountain moving sporadically, yea that’s cool”.  She confirmed that it made no sound.  When I got off the phone, I noticed that it was now sitting still (hovering) in the sky after a minute or so it drop! ped down out of sight behind some trees in the distance, my family member later confirmed when we discussed it the next day.  Whatever it was, was about the size of a small car, and looked to be covered in light.  From when I first noticed it until I couldn’t see it anymore was approx 45 minutes, it came in intervals that were sporadic.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106620.html](http://www.nuforc.org/webreports/reports/106/S106620.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Grants Pass (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright orange light hovering in the sky.There was a very bright orange light hovering in the middle of the sky. It stayed stationary and over the course of a few minutes became brighter and then faded completely.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116428.html](http://www.nuforc.org/webreports/reports/116/S116428.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [669](http://www.nuforc.org/webreports/reports/161/S161409.html)
-- [668](http://www.nuforc.org/webreports/reports/161/S161478.html)
-- [667](http://www.nuforc.org/webreports/reports/161/S161397.html)
-- [666](http://www.nuforc.org/webreports/reports/161/S161399.html)
-- [665](http://www.nuforc.org/webreports/reports/161/S161388.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
