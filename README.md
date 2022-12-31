@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:22 on 31 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:32 on 31 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Queen Creek (AZ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>oval object, fast moving with a light green tail. also radiating a white halo, came from the eastern sky and flew westwardNew years night, my son,my sons father,his brother, his brothers friend and I were all outside lighting off small firecrackers. Then out of the east came a large ball of light.  It had a long tail on it and was moving very fast in a straight line.  It was about the size of my thumb nail and had a width of my thumb and pointer finger span.The tail was a deep turqouise closest to the oval and faded as it went down.  It also seemed to be radiating a halo around the entire object.It lasted a total of 3-4 seconds and was moving faster than I could take a picture, I had my camera by my side too and wish I could have captured it.  It was like nothing I seen before and I've seen my share of metors and metor showers.  The direction and speed also ruled out the possibility of it being a firework.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86236.html](http://www.nuforc.org/webreports/reports/086/S86236.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Casper (WY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I was on my back deck looking up at the stars as I often do. I noticed a cluster of three stars, 1 brighter than the other two.  It was a cluster of stars I had not seen before.  I looked away to see where the big dipper was in corrolation to this cluster.  When I looked back at what I believed to be a three star cluster they were no longer there.  I continued to search the sky for the next 10 or so minutes but did not see them again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152140.html](http://www.nuforc.org/webreports/reports/152/S152140.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [669](http://www.nuforc.org/webreports/reports/161/S161409.html)
-- [668](http://www.nuforc.org/webreports/reports/161/S161478.html)
-- [667](http://www.nuforc.org/webreports/reports/161/S161397.html)
-- [666](http://www.nuforc.org/webreports/reports/161/S161399.html)
-- [665](http://www.nuforc.org/webreports/reports/161/S161388.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
