@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:28 on 31 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:22 on 31 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Moore (SC) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright glowing object appearing as if it was on fire moving slowly and very low in the skyStrange Sighting (12/31/11) sometime around 7:45  I live in Moore, SC and was going outside to move my car into the garage and noticed a very bright, glowing object in the sky.  My house faces North and the object was traveling very slowly primarily towards the East and moving away from me in a slightly Northward direction.  It was low; about the altitude you would see a helicopter or small engine plane.The best way to describe it is that it appeared the object was on fire (bright orangish-red) on the top surface in a dome shape and the glow extended very slightly downward.  It also appeared that the bright lights extended towards the front and the rear but in more of a pointed shape.  It was visible to me for about 2 or so minutes until it slowly faded out as it moved away from me.  It never seemed to change speeds and never seemed to change altitude.I usually do not do this (i.e. send out this type of thing), but I was very intrigued by it.  After checking this website, I read someone else’s account (Greer 11/8/11) and it sounds almost exactly like what I saw tonight so I decided to send this in.  My family thought I was fooling around with them until I read the Greer sighting to them after I tried to explain what I saw.  Even though this is New Year’s Eve, I have only been drinking diet coke so my account is about as genuine as it can be.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86179.html](http://www.nuforc.org/webreports/reports/086/S86179.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Mooresville (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Four lights traveling south with two lights flying between them.Four lights traveled south in a straight line.  Two additional, smaller lights rotated around the second and fourth lights before zigzagging between the four lights.  They continued southbound until out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97236.html](http://www.nuforc.org/webreports/reports/097/S97236.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [669](http://www.nuforc.org/webreports/reports/161/S161409.html)
-- [668](http://www.nuforc.org/webreports/reports/161/S161478.html)
-- [667](http://www.nuforc.org/webreports/reports/161/S161397.html)
-- [666](http://www.nuforc.org/webreports/reports/161/S161399.html)
-- [665](http://www.nuforc.org/webreports/reports/161/S161388.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
