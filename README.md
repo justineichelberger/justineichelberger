@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:27 on 31 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:16:18 on 31 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Carson (NV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Hovering Craft looked like it had two levels. 3/4 lightsI have video from a cell phone.  I am not sure what to make of this.  Looks like the craft has two levels. It is dark out so hard to see this craft well.  Looks like it its round.  The person that filmed this said they saw 2 crafts only one was caught on tape.  When he first started filming he walks away to go get his wife, then films the craft a second time.  Craft seemed to be hovering.  Not sure if experts can tell if it is really a UFO or not.  He said this craft went straight up then was gone.  I will give my name as contact info.  Not sure if he wants to be known.  I would like to know if this is real or if anyone can even tell if it is real or fake.  I have the video posted on my facebook.  I am not sure how to send it to you.  I have the video on my phone also.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105913.html](http://www.nuforc.org/webreports/reports/105/S105913.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Taos (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately Several minutes - Several minutes minutes.</sub><blockquote><sub>Large ball of orange/yellow light in Taos, NMA friend and I were driving in the southwestern part of the city when she pointed out a light in the sky.I was the passenger and ducked my head and looked to the upper left area and noticed a large orange light that appeared to be traveling west at a relatively slow pace.The light changed colors slowly from orange to yellow to white.  It had the look of a ball of plasma or electricity, sort of undulating and almost pulsing but with very erratic edges rather than a defined circle.I asked her to pull over and as she did so I got out of the car intending to take cell phone video of the object.  There was a very thin cloud cover you could see the stars thru. I would estimate the clouds at around 5,000 feet.  As I walked up a rocky driveway to get a higher perspective and prepared my phone to capture some video, the object suddenly changed direction from west to east, rose above the thin cloud cover and shot out of sight.  The object was so bright it would have been easily seen through the thin, see-through clouds, but once it changed direction and elevated it was simply gone.Due to the elevation and how large it appeared from our perspective I believe this was a rather large object.  Far larger than any modern aircraft would appear at that distance.  My best guess is that it was several times larger than a hot air balloon and made no sound at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116484.html](http://www.nuforc.org/webreports/reports/116/S116484.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [669](http://www.nuforc.org/webreports/reports/161/S161409.html)
-- [668](http://www.nuforc.org/webreports/reports/161/S161478.html)
-- [667](http://www.nuforc.org/webreports/reports/161/S161397.html)
-- [666](http://www.nuforc.org/webreports/reports/161/S161399.html)
-- [665](http://www.nuforc.org/webreports/reports/161/S161388.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
