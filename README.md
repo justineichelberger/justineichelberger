@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:22 on 31 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:20 on 31 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Mooresville (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Four lights traveling south with two lights flying between them.Four lights traveled south in a straight line.  Two additional, smaller lights rotated around the second and fourth lights before zigzagging between the four lights.  They continued southbound until out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97236.html](http://www.nuforc.org/webreports/reports/097/S97236.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A group of tiny fiery red star-sized lights.I go on nightly walks to look at stars from the top of the hill I live near.  Tonight as I was admiring the clear night and getting ready for NYE cheers echoing the city, I noticed there were 3-4 of these tiny little fireballs that looked the same size as most stars and especially similar in color to the planet Mars but a brighter lumens than the planet.  Their color was flaming and flickering, whilst they glided in a diagonal-like ascension.  One by one they were out of sight, gliding slowly until they disappeared.  It was hard to see how far they were from me, but they looked like they were quite far up in the sky, thus their size was so tiny.  I've never seen anything like them before, and I assume there could have been more before I got to that viewpoint and started my gazing...I skygaze at the night sky quite a bit, and have never seen anything like these before.  It made me feel both calm and curious, I didn't feel a threat just a sort of inner peace and surreal amazement.  Our elevation in San Francisco is at sea level, so not sure what these may have looked like from higher altitudes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105855.html](http://www.nuforc.org/webreports/reports/105/S105855.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [669](http://www.nuforc.org/webreports/reports/161/S161409.html)
-- [668](http://www.nuforc.org/webreports/reports/161/S161478.html)
-- [667](http://www.nuforc.org/webreports/reports/161/S161397.html)
-- [666](http://www.nuforc.org/webreports/reports/161/S161399.html)
-- [665](http://www.nuforc.org/webreports/reports/161/S161388.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
