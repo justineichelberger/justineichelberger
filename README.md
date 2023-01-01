@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:28 on 1 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:23 on 1 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Red orb  i was smoking outside and seen a orb with a reddish glow on top.  i went in and asked for anyone to get a camara and come video.  one video was taking using an Apple Ipod, and the other using an Iphone.  when the thang was almost over our heads it got smaller and bright, stopped and went verdictal up theres more to say but i leave it at that 4 now.  I seen the same object friday 13th 2012, with 7 other people but no video from the 13th.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86618.html](http://www.nuforc.org/webreports/reports/086/S86618.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Philadelphia (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>solid black pyramid-like object seen in NE philadelphia sky.at the time,i had been a security guard at a warehouse in the NE section of philly.there was usually absolutely nothing to do but pace the yard and watch the skies.usually cloud formations, birds, planes, helicopters, stars. this day i had just started my shift, i began my routine pacing. ihad walked toward the warehouse, turned around, and saw what looked like two airplanes flying dangerously close to each other. then i realized that only one of them was a plane. the other "thing" was just sitting there motionless in the sky. i'm not good with judging distance or size in terms of numbers, but this was close enough that i could almost read the name of the airlines on the side(usair maybe). i watched this object while it slowly started to move and tried to figure out what it could be.it looked like an upside down pyramid except it was three sided. it was solid black,no lights, no markings, no windows, no openings, no visible means of sustained flight; jets,nothing. no vapor trail, nothing. i thought maybe a weird balloon maybe, but its speed, altitude and direction remained constant with as much wind as there was.unfortunately there was noone around due to this being a holiday,so i couln't ask anyone if they were seeing this too. i continued to watch this thing, it started to spin while it moved. the spinning got faster. eventually it just vanished. i looked around to see if it shot up into the sky or any other direction.nothing.so i'm left standing there with a million quetions and no answers, one question, was i losing my mind?this was the first in 5 sightings of various unidentifiable objects from that same place. i just want answers.((NUFORC Note:  Date may be approximate, although that is a guess on our part.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32237.html](http://www.nuforc.org/webreports/reports/032/S32237.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1076](http://www.nuforc.org/webreports/reports/161/S161380.html)
-- [1075](http://www.nuforc.org/webreports/reports/161/S161408.html)
-- [1074](http://www.nuforc.org/webreports/reports/161/S161527.html)
-- [1073](http://www.nuforc.org/webreports/reports/161/S161557.html)
-- [1072](http://www.nuforc.org/webreports/reports/161/S161748.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
