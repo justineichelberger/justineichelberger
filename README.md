@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:26 on 1 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:28 on 1 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Route 202 (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Cluster of lights fade then disappearI was driving north on Rt 202 in New Jersey at about 5:20 PM on Jan. 1st, when a cluster of lights (3 to 5) NE of us caught my attention. At first I mistook it for a plane flying towards us but it was a bit brighter and maybe a bit larger (lower?) than the other planes in the area at the time, and it was missing the usual red and green blinking marker ligthts. Besides, it should have grown larger and eventually flown overhead if it really were moving in our direction. This object was apparently stationary.  I brought it to my boyfriend's attention and as we were watching it, the lights quickly dimmed (within approximately  a second)and the object seemed to disappear. There were very few light clouds and it was still light out and the object was definitely no longer there.  My boyfriend said that he could see a dark patch against the sky where it was for a couple of seconds before that also disapeared completely but I can't confirm this because I had to revert my attention to the road ahead. I did look up again a minute later there was still nothing where it should have been or around that area. I was wondering if anyone else in the area saw anything.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41375.html](http://www.nuforc.org/webreports/reports/041/S41375.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Red orb  i was smoking outside and seen a orb with a reddish glow on top.  i went in and asked for anyone to get a camara and come video.  one video was taking using an Apple Ipod, and the other using an Iphone.  when the thang was almost over our heads it got smaller and bright, stopped and went verdictal up theres more to say but i leave it at that 4 now.  I seen the same object friday 13th 2012, with 7 other people but no video from the 13th.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86618.html](http://www.nuforc.org/webreports/reports/086/S86618.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1076](http://www.nuforc.org/webreports/reports/161/S161380.html)
-- [1075](http://www.nuforc.org/webreports/reports/161/S161408.html)
-- [1074](http://www.nuforc.org/webreports/reports/161/S161527.html)
-- [1073](http://www.nuforc.org/webreports/reports/161/S161557.html)
-- [1072](http://www.nuforc.org/webreports/reports/161/S161748.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
