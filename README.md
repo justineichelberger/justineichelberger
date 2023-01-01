@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:34 on 1 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:58 on 1 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Indianapolis (IN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Fireballs over Indianapolis on New Years Eve.Balls of fire went from a spot on the horizon and came up into the sky in a straight line.  One after another, a small gap between a couple of times.  Four in the sky in a line at once.  Went to a specific point in the sky and then disappeared one after the other.  Fireworks were going off and that was what we were watching.  After the started this event started to happen and coninued several minutes after the end of the fireworks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131998.html](http://www.nuforc.org/webreports/reports/131/S131998.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bangkok (Thailand) () reported seeing craft that fit the description of some 'Light' over a period of approximately continuous - continuous minutes.</sub><blockquote><sub>Bright, stationary object in orbit above Bangkok, Thailand, on New Year's day.The object never moved an inch from its current location  on the right hand side of the currently visible moon in the night sky on the left side of the moon.  The light from the object could be reflective as the intensity stays consistent and does not flash or disappear.  Object continues to  be visible in the night sky, no indication of movement, seems to be in a stationary or geosynchronous orbit above Bangkok, Thailand.  Maybe a satellite or other orbital space equipment.  Checked the ISS location and is no where near Bangkok airspace currently.  I have checked the position and visually measured using a ruler the distance from the moon and has not changed position there.((NUFORC Note:  Planet or star near Moon?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124977.html](http://www.nuforc.org/webreports/reports/124/S124977.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1076](http://www.nuforc.org/webreports/reports/161/S161380.html)
-- [1075](http://www.nuforc.org/webreports/reports/161/S161408.html)
-- [1074](http://www.nuforc.org/webreports/reports/161/S161527.html)
-- [1073](http://www.nuforc.org/webreports/reports/161/S161557.html)
-- [1072](http://www.nuforc.org/webreports/reports/161/S161748.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
