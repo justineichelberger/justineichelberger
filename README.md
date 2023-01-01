@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:20 on 1 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:22 on 1 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Kakabeka Falls (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Orange/red objects hovering in the moonlit night sky in rural Thunder Bay.My wife awoke me to witness three flying objects in the sky south east of our home.  They were flying at around 500 ft +/_  , flying at first in formation then one branched off while the other two sort of hovered in a general area of the night sky.  These objects were red and slightly orange in colour.  They began to move east away from our home towards Thunder Bay and all at once just vanished into thin air, one minute I was watching them, and I turned to my wife for a split second, and when I looked back out to the sky they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116394.html](http://www.nuforc.org/webreports/reports/116/S116394.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Bozeman (MT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Two orange-red lights moving independently in southern skyTwo objects were moving erratically in the southern sky.  They were much brighter than any star and were orange-red in color with slightly pulsating brightness.  The objects were about 1 to 3 degrees apart but did not remain at a fixed distance apart.  They did not move like airplanes and did not make any noise.  After a few minutes they appeared to move rapidly away as the brightness dimmed very quickly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138193.html](http://www.nuforc.org/webreports/reports/138/S138193.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1076](http://www.nuforc.org/webreports/reports/161/S161380.html)
-- [1075](http://www.nuforc.org/webreports/reports/161/S161408.html)
-- [1074](http://www.nuforc.org/webreports/reports/161/S161527.html)
-- [1073](http://www.nuforc.org/webreports/reports/161/S161557.html)
-- [1072](http://www.nuforc.org/webreports/reports/161/S161748.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
