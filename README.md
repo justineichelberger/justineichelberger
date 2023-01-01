@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:28 on 1 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:31 on 1 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in League City (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>bright  light hovering  in south east sky just south of houston txI was driving home from north side of Houston,TX back towards my home in league city,TX at about 5am when I saw a bright light pretty far in the distance. I watched the light while I was driving on the freeway thinking it was a planes headlights, but by the time I pulled into my driveway 25 minutes later it was still there almost as though it was just hovering high enough where you could see it from anywhere. I got out of my car and lined a tree up in front of the light to judge if the light was moving or still. I stood there for an addition 10 min. and realized it was staying in basically the same spot not getting closer or farther nor did the light fade. I finally went inside and I have not been able explain what it was. unless there was a star that was very bright on this particular night. It was just a bright light towards the south east that seemed to be to close and to bright for a star but couldn't have been an airplane because the position stayed the! same.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79489.html](http://www.nuforc.org/webreports/reports/079/S79489.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Alton (Hampshire)(UK/England) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>7 glowing orbs moved slowly in a perfect line but some distance from each other and then disappeared7 glowing orange orbs moved slowly in a perfect line but some distance from each other and then disappeared.  10 mins later another orb appeared, this time on its own and travelling in a slightly different direction.  They were all crossing a field behind my parents house. My parents and I have seen them before but not in such quantity.  They move slowly but have the ability to suddenly change direction and move very quickly.  On this occasion there appeared to be two red lights with them which I assumed was a conventional aircraft.  I am convinced these were not lanterns as the objects were too large.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95678.html](http://www.nuforc.org/webreports/reports/095/S95678.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1076](http://www.nuforc.org/webreports/reports/161/S161380.html)
-- [1075](http://www.nuforc.org/webreports/reports/161/S161408.html)
-- [1074](http://www.nuforc.org/webreports/reports/161/S161527.html)
-- [1073](http://www.nuforc.org/webreports/reports/161/S161557.html)
-- [1072](http://www.nuforc.org/webreports/reports/161/S161748.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
