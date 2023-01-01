@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:29 on 1 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:26 on 1 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Wilmington Island (Savannah) (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Bright light paces commercial airlinerI was standing in my yard looking at all the commercial flights passing over the house.I thought it was a wonderful sight at dusk.It was a clear evening and I took notice to this one flight which was not as high up so as to see only the white exhaust trails.Usually that is all i see.This flight was a little lower and i could make out perfectly the size of the plane.It had 4 jets and the exhaust was thick.I noticed about 4 plane lengths away a light going the same speed as the airliner.It had no exhaust and was perfectly pacing from the left wing.I noticed other flights in other directions leaving heavy trails.But not the light.It looked the size of a pencil point.But bright.Also the object made no noise but you could hear the flights plain as day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07617.html](http://www.nuforc.org/webreports/reports/007/S07617.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Rozet (WY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A round bright green meteor fell slowly for 5 seconds and burnt out very close to ground.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116367.html](http://www.nuforc.org/webreports/reports/116/S116367.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1076](http://www.nuforc.org/webreports/reports/161/S161380.html)
-- [1075](http://www.nuforc.org/webreports/reports/161/S161408.html)
-- [1074](http://www.nuforc.org/webreports/reports/161/S161527.html)
-- [1073](http://www.nuforc.org/webreports/reports/161/S161557.html)
-- [1072](http://www.nuforc.org/webreports/reports/161/S161748.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
