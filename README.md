@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:25 on 1 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:28 on 1 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in East Stroudsburg (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>My wife saw lights outside the house, she told me it might be the garage truck, I went to the door and I saw several lights red,white,orange,yellow.It looked like a plane but it change it shape and lts color became pitch black but the lights were still there when it came out of the woods it was big still changing shape, then it went up the road it did a zigzag and it took off fast.there were to white lights behind it which follow it.  No sounds were heard.Note, when I try to walk my dog about an hour before this happen, she did not move at all.  She was looking at that part of the woods.  So I went back inside with her.There are new homes being built their.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116437.html](http://www.nuforc.org/webreports/reports/116/S116437.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in League City (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>bright  light hovering  in south east sky just south of houston txI was driving home from north side of Houston,TX back towards my home in league city,TX at about 5am when I saw a bright light pretty far in the distance. I watched the light while I was driving on the freeway thinking it was a planes headlights, but by the time I pulled into my driveway 25 minutes later it was still there almost as though it was just hovering high enough where you could see it from anywhere. I got out of my car and lined a tree up in front of the light to judge if the light was moving or still. I stood there for an addition 10 min. and realized it was staying in basically the same spot not getting closer or farther nor did the light fade. I finally went inside and I have not been able explain what it was. unless there was a star that was very bright on this particular night. It was just a bright light towards the south east that seemed to be to close and to bright for a star but couldn't have been an airplane because the position stayed the! same.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79489.html](http://www.nuforc.org/webreports/reports/079/S79489.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1076](http://www.nuforc.org/webreports/reports/161/S161380.html)
-- [1075](http://www.nuforc.org/webreports/reports/161/S161408.html)
-- [1074](http://www.nuforc.org/webreports/reports/161/S161527.html)
-- [1073](http://www.nuforc.org/webreports/reports/161/S161557.html)
-- [1072](http://www.nuforc.org/webreports/reports/161/S161748.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
