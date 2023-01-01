@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:20 on 31 December 2022 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:32 on 1 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A group of tiny fiery red star-sized lights.I go on nightly walks to look at stars from the top of the hill I live near.  Tonight as I was admiring the clear night and getting ready for NYE cheers echoing the city, I noticed there were 3-4 of these tiny little fireballs that looked the same size as most stars and especially similar in color to the planet Mars but a brighter lumens than the planet.  Their color was flaming and flickering, whilst they glided in a diagonal-like ascension.  One by one they were out of sight, gliding slowly until they disappeared.  It was hard to see how far they were from me, but they looked like they were quite far up in the sky, thus their size was so tiny.  I've never seen anything like them before, and I assume there could have been more before I got to that viewpoint and started my gazing...I skygaze at the night sky quite a bit, and have never seen anything like these before.  It made me feel both calm and curious, I didn't feel a threat just a sort of inner peace and surreal amazement.  Our elevation in San Francisco is at sea level, so not sure what these may have looked like from higher altitudes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105855.html](http://www.nuforc.org/webreports/reports/105/S105855.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Rye (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Took a photo of a UFO by accident, good photo.On New Year's Day 1997 my ex-wife and her children went to Playland Park in Rye, N.Y. located on Long Island Sound.  The park was closed for the season, we simply went to walk the boardwalk and beach.  I took a photo of my step-children.  At the time I did not notice anything, but when the photos were developed I saw a strange, silver, "hat-like" object over the trees in the distance.  I have looked at this photo hundreds of times, even under a microscope, and I do not believe it is a bird, plane, balloon, or any other object. I have shown others, and they agree.  I lost this photo for years, and just recently found it, thought I would share it with you.  The second photo is simply a crop to get a closeup. I used my Iphone to simply take a photo of the original, but they came out pretty clear.  I lost the negatives long ago, but this was not due to a defect in the negative, I studied it carefully.  Anyway, I hope you find this photo interesting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137867.html](http://www.nuforc.org/webreports/reports/137/S137867.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [669](http://www.nuforc.org/webreports/reports/161/S161409.html)
-- [668](http://www.nuforc.org/webreports/reports/161/S161478.html)
-- [667](http://www.nuforc.org/webreports/reports/161/S161397.html)
-- [666](http://www.nuforc.org/webreports/reports/161/S161399.html)
-- [665](http://www.nuforc.org/webreports/reports/161/S161388.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
