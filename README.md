@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:31 on 1 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:27 on 1 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lewiston (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately On going - On going minutes.</sub><blockquote><sub>It left after I came on your site to report it.flashing Red, blue and white lights.  From 1:15am to 1:37am to the south/east of Lewiston, Maine, 04240.  The object never moved until it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152196.html](http://www.nuforc.org/webreports/reports/152/S152196.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Myself and a friend were driving east on Loop 610 South in Houston near I-45.  As we drove up the elevated roadway, our eyes were naturally directed up towards the sky when we saw a red ball of light suddenly appear, then become elongated in a slightly inclined horizontal position, then disappear towards the north, after returning to the size of a small red ball of light.A red ball of light appeared in the dark horizon as I was driving with a friend on Loop 610 South near I-45 in Houston.  The light suddenly appeared in the far distance, became elongated as if moving to the north, then returned to the size of a small red ball before disappearing.  It was almost as if the object were moving so quickly that it was in more than one place at one time, a sort of optical illusion.  Both of the observers are honors students at a private university in Houston, one being president of the student council, the other vice-president of the Houston area Model United Nations.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11549.html](http://www.nuforc.org/webreports/reports/011/S11549.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1076](http://www.nuforc.org/webreports/reports/161/S161380.html)
-- [1075](http://www.nuforc.org/webreports/reports/161/S161408.html)
-- [1074](http://www.nuforc.org/webreports/reports/161/S161527.html)
-- [1073](http://www.nuforc.org/webreports/reports/161/S161557.html)
-- [1072](http://www.nuforc.org/webreports/reports/161/S161748.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
