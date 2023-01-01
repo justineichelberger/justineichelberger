@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:27 on 1 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:25 on 1 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in DeWitt (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>observerd in east low in sky moveing slow. thought was star @ first.i had gone outside for something,was comeing back inside when i saw the object.i observed the light for a short time then ask my cousin to come look at this. there was only 1 object,orange color, low in the east moveing slowly south w. we watched for about 5 mins. and went back in side, after about 10 mins i went back out to see where the object had gone, it was almost overhead at this time somewhat south,it was very high in the sky about the size of a star, or planet still moveing in the same direction.i don't know of any satellites that travel in this direction. i am in law enforcement, have lived in this area all my life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07713.html](http://www.nuforc.org/webreports/reports/007/S07713.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in East Stroudsburg (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>My wife saw lights outside the house, she told me it might be the garage truck, I went to the door and I saw several lights red,white,orange,yellow.It looked like a plane but it change it shape and lts color became pitch black but the lights were still there when it came out of the woods it was big still changing shape, then it went up the road it did a zigzag and it took off fast.there were to white lights behind it which follow it.  No sounds were heard.Note, when I try to walk my dog about an hour before this happen, she did not move at all.  She was looking at that part of the woods.  So I went back inside with her.There are new homes being built their.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116437.html](http://www.nuforc.org/webreports/reports/116/S116437.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1076](http://www.nuforc.org/webreports/reports/161/S161380.html)
-- [1075](http://www.nuforc.org/webreports/reports/161/S161408.html)
-- [1074](http://www.nuforc.org/webreports/reports/161/S161527.html)
-- [1073](http://www.nuforc.org/webreports/reports/161/S161557.html)
-- [1072](http://www.nuforc.org/webreports/reports/161/S161748.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
