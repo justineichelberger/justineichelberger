@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:58 on 1 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:20 on 1 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bangkok (Thailand) () reported seeing craft that fit the description of some 'Light' over a period of approximately continuous - continuous minutes.</sub><blockquote><sub>Bright, stationary object in orbit above Bangkok, Thailand, on New Year's day.The object never moved an inch from its current location  on the right hand side of the currently visible moon in the night sky on the left side of the moon.  The light from the object could be reflective as the intensity stays consistent and does not flash or disappear.  Object continues to  be visible in the night sky, no indication of movement, seems to be in a stationary or geosynchronous orbit above Bangkok, Thailand.  Maybe a satellite or other orbital space equipment.  Checked the ISS location and is no where near Bangkok airspace currently.  I have checked the position and visually measured using a ruler the distance from the moon and has not changed position there.((NUFORC Note:  Planet or star near Moon?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124977.html](http://www.nuforc.org/webreports/reports/124/S124977.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Kakabeka Falls (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Orange/red objects hovering in the moonlit night sky in rural Thunder Bay.My wife awoke me to witness three flying objects in the sky south east of our home.  They were flying at around 500 ft +/_  , flying at first in formation then one branched off while the other two sort of hovered in a general area of the night sky.  These objects were red and slightly orange in colour.  They began to move east away from our home towards Thunder Bay and all at once just vanished into thin air, one minute I was watching them, and I turned to my wife for a split second, and when I looked back out to the sky they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116394.html](http://www.nuforc.org/webreports/reports/116/S116394.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1076](http://www.nuforc.org/webreports/reports/161/S161380.html)
-- [1075](http://www.nuforc.org/webreports/reports/161/S161408.html)
-- [1074](http://www.nuforc.org/webreports/reports/161/S161527.html)
-- [1073](http://www.nuforc.org/webreports/reports/161/S161557.html)
-- [1072](http://www.nuforc.org/webreports/reports/161/S161748.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
