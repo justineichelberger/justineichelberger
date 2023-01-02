@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:25 on 2 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:22 on 2 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Manat (Puerto Rico) (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 80.0 - 80.0 minutes.</sub><blockquote><sub>Puerto Rico UFO:  bright glow, pulsating motion.It was a Sunday of 2005 at ten to five am, when my mother, ((name deleted)) woke me up to tell me there’s a U.F.O in front of our house in Manat, Puerto Rico.  The U.F.O had a bright glow, with lights in the middle that had a pulsating motion.  The colors were amber, green, red, and yellow.  In addition it had a soft beam of light, with a mist inside.  We saw the U.F.O at an distance of 40’ away.  For at least 40 minutes after it moved east, another 25’ it stopped for 10 minutes.  Still with the beam on.  At this time we could see the sun rising there no mistake of identity.  Then it took off from the shore line to horizon at am incredible speed.  It disappeared in flight all we saw was the slow at the end. Sincerely, ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127921.html](http://www.nuforc.org/webreports/reports/127/S127921.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Point of light moving quicklyWhile looking out 22nd floor window, notice point of light, high above a very tall building. Color was orange/red, twinkling, unusually large. Point of light was travelling "what-seemed-to-be" north to south. Just to the left of ORION, (if that helps...). It was inside our atmosphere..that I know!! After one sec of spotting it...it decended at a very high rate for approx 1.5 secs at downward slope. Point of light blinked out, before it moved behind the building. The building DID NOT block the light blinking out...it went out before it passed behind the building..my husband...sits in his office...like you I'm sure..in front of his computer EVERYDAY...his window looks east. He is very aware of the light patterens that blink in the night, on an everyday basis. He claims he saw a point of light, 45 min prior in a totally different place, matching the same description. This orange/red twinkling point of light, was unusualy large, to be suspended in mid air for 4-5 sec's. It was something he claims he has NEVER seen before in differentiation to fixed winged aircraft and helicopters flying in the vicinity. He says you mentioned something about a fireball. He says....SORRY...NO FIREBALL...FIREBALLS dont hover for 4-5 sec's..then just blink out....or maybe they do...who knows. This is our report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11550.html](http://www.nuforc.org/webreports/reports/011/S11550.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/161/S161428.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161429.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161460.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161417.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
