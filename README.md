@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:25 on 2 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:27 on 2 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Yuma (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>It happened while waiting for the school bus to arrive.  The sun had not come up yet, and it was still fairly dark.  I noticed an amber light that looked similar to a military flair.  Then in an instant there were two more lights (all of which were flickering or unsteady light).  They were positioned above a mountain known as pilot knob, they couldn't have been more than a mile or so from me.  The silhouette of the mountain was visible enough to realize they weren't falling like a flare.As I'm watching these they began to go out one by one.  As the last light goes out, a similar light appears above a friend's house.  This shift was in an instant.The lights began to re-appear above my friends house in the same type of pattern as seen with the Phoenix lights several years later (only a little tighter of a circular pattern).  The lights stayed above the house until about when I was being picked up by the bus.  Then, they began to go off one by one in no particular pattern.  Again, as the last light goes off, a light appears over Ave D (about a half mile away) in an instant.I remember the bus driving undrneath the lights, they glowed bright enough to see a glow on the ground.  I don't remember seeing anything structurally between the lights nor do I remember any noises.  I do remember it did move from when we went under it to when we turned around and drove back out to were we had originally past under it.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127132.html](http://www.nuforc.org/webreports/reports/127/S127132.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Ann Arbor (MI) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>5 ufos, silent black objects, moving slowlyat first we saw six light reflecting off the clouds. The six lights were grouped into pairs, which at first, traveled together but then moved about eachother in random movements.  they were traveling from east to west.  One of the lights slowly began to fade away as if it were disappearing into the clouds.  Another set followed and eventually the last pair disappeared over our building.  all were silent, and no actual object was seen, only lights.  At that time I looked back to the east and notice a silent black object moving slowly just below the clouds.  Above this craft you cloud see a round light reflecting off the clouds.  at one point it appeared to stop and hover, but it eventually began to move on slowly. Again I looked to the east and seen a larger black object with the same reflecting light above, moving slowly. As we watched both, the first eventually disappeared on the over our roof, and the larger second followed.((NUFORC Note:  Probable hoax.  Witness elects to remain totally anonymous; provides no contact information.  Note flawed date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52294.html](http://www.nuforc.org/webreports/reports/052/S52294.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/161/S161428.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161429.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161460.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161417.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
