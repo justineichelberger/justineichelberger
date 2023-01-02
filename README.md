@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:09 on 2 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:18:45 on 2 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Colorado City (CO) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Disappearing rocketsDriving home from pueblo I saw what appeared to be 3 rockets coming over the mountain and three more coming up on the side slightly behind them and then they vanished.  They looked like large fire work rockets gold in color.  I asked others if they saw on facebook and they also said they saw this.  One person described it before I even described.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138218.html](http://www.nuforc.org/webreports/reports/138/S138218.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lynnwood (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>At the start time of this sighting, my husband and son noticed a bright light in the far distant sky from my son's bedroom window.  We documented seeing the same bright light, same location 1 month ago with eyes and binocular's.This time, my husband moved our telescope to his room and took 10 minutes or so to focus in on the bright round light.  He compared it to the moon focus which could not totally fit in the scope but when focusing on the bright light it became clearly centered in the middle of the scope and was distinctly a link of round lights making up two seperate rings.In the middle of the inner ring, it appears to be straight lights/beams of light toward the center of the circle.  Kinda of like wedges formed in the center of the ring.  At one point, three lights equally became brighter than the rest.We all witnessed the sighting through the telescope and at first I would say it was the bottom of a huge space craft but not sure if the beams were lights all towards the center of the ring like a gateway.Additionally, for a breif moment towards the end of the sighting, small white dots appeared to be darting to and from the main object.Clouds started to obscure the sighting and I saw a blue flash behind the clouds and when then the object was gone.Tonight, returning from dinner, the bright light was seen from the front of our home and when we went to use our telescope, the clouds blocked the vision again.  During our ride towards the home, the clouds did not appear to be the same thickness ((NUFORC Note:  Given that the object was seen on two nights, we suspect Venus. PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67834.html](http://www.nuforc.org/webreports/reports/067/S67834.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/161/S161428.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161429.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161460.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161417.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
