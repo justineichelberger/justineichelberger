@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:31 on 2 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:25 on 2 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Two objects with pulsating lights in Seattle over Puget Sound.I woke up at 3:40 AM and looked out my downtown apartment window to the Southwest. My apartment is on the 13th floor. Between the tall buildings, over the Puget Sound, I saw a stationary, pulsating light that changed color from blue-white to red, yellow, and green. I awoke my partner and she also saw the object. At one point a smaller white light seemed to emerge from the bottom of the craft, but it disappeared immediately. With binoculars we could make out the colors better, but could not discern a shape to the object. I took several pictures with both digital and film cameras. If the photos show anything I will submit them to this site. After watching the lights for about 20 minutes, I noticed a second craft to the west of the original one. It was identical in appearance, with pulsating blue-white, red, yellow, and green lights. The lights on the two objects did not appear to pulse in unison. The second craft also appeared to hover without motion over the Sound, perhaps a mile or so from the first. The first craft was lower in the sky than the second, not very high in the air. At 4:24 AM, the first craft slowly disappeared behind a building after arcing downward toward the west. The other craft remained stationary and I finally fell asleep. My partner and I are professional women in our 30s.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41355.html](http://www.nuforc.org/webreports/reports/041/S41355.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Yuma (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>It happened while waiting for the school bus to arrive.  The sun had not come up yet, and it was still fairly dark.  I noticed an amber light that looked similar to a military flair.  Then in an instant there were two more lights (all of which were flickering or unsteady light).  They were positioned above a mountain known as pilot knob, they couldn't have been more than a mile or so from me.  The silhouette of the mountain was visible enough to realize they weren't falling like a flare.As I'm watching these they began to go out one by one.  As the last light goes out, a similar light appears above a friend's house.  This shift was in an instant.The lights began to re-appear above my friends house in the same type of pattern as seen with the Phoenix lights several years later (only a little tighter of a circular pattern).  The lights stayed above the house until about when I was being picked up by the bus.  Then, they began to go off one by one in no particular pattern.  Again, as the last light goes off, a light appears over Ave D (about a half mile away) in an instant.I remember the bus driving undrneath the lights, they glowed bright enough to see a glow on the ground.  I don't remember seeing anything structurally between the lights nor do I remember any noises.  I do remember it did move from when we went under it to when we turned around and drove back out to were we had originally past under it.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127132.html](http://www.nuforc.org/webreports/reports/127/S127132.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/161/S161428.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161429.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161460.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161417.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
