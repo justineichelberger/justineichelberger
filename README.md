@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:23 on 2 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:40 on 2 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Entiat (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My friends and I stepped outside to smoke a cigarette when we observed a light that was floating across the sky.  We thought it might be an airplane but it moved to slow.  The light was constant and steady.  It moved from the east to the west, then disappered.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54331.html](http://www.nuforc.org/webreports/reports/054/S54331.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in La Quinta (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>4 lights in diamond shape formationIt was about 23:35 PST I was sitting in my living room and just happened to look out the window and saw 4 lights in diamond shape formation.  They were kinda large to the fact that I would hear something if they were planes or helicopters.  They kinda lingered for a second or two the last light went out of formation and them went back in formation and sped off very fast leaving only a light trail with dissapeared very quickly. I got up and ran outsite and they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11555.html](http://www.nuforc.org/webreports/reports/011/S11555.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/161/S161428.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161429.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161460.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161417.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
