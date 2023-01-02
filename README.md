@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:26 on 2 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:25 on 2 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Arlington (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>While driving home, we saw a low flying triangular shaped aircraft, with lights that hovered, changed directions, and moved silently.My name is ((name deleted)). I am 47 years old and worked in Law Enforcement for 6 years. I was driving home to Portage, Wisconsin from Madison, Wisconsin. I was driving north on State Highway 51 approaching Johnson Auto Sales (N1255 US Highway 51, Arlington, WI). My Son (14 years old) was in the front passenger seat, my wife was in the back seat.I saw an extremely low flying aircraft in the sky just northwest of Johnson sales.  The object appeared to be moving very slowly to the south, toward my vehicle.  Hwy 51 was busy with traffic, vehicles were northbound behind me and in front of me.  There were also several vehicles passing me southbound.I pointed to the aircraft and asked my son what he thought it was.  My son said he thought it might be a helicopter.  My wife, a Nurse, said that maybe it was a med-flight helicopter.The aircraft continued to move southeast and began hovering just west of my car, right over the Johnson Sales retail store. I slowed way down and could immediately see that the aircraft was not a helicopter or a conventional airplane.  It was hovering approximately 1000 ft above Johnson sales.  My son and I both saw that the aircraft had two distinct white headlamps.  The headlamps had approximately 20 feet of separation.  We also saw a third white headlamp toward the rear of the aircraft... and all three headlamps formed a triangle).  There were two blue lights on the right triangular wing, and two red lights on the left triangular wing. The body shape of the aircraft closely resembled that of a thin triangular spur. I rolled my window down expecting to hear an aircraft engine or rotor blades, but the aircraft was completely silent.I pulled into the Johnson Sales parking lot.  The aircraft immediately moved silently and slowly to the south, almost as though it knew we were trying to observe it more closely.  My wife was afraid and asked me not to try to follow it.  The aircraft continued to move south and I drove my family home.  My son, 14 years old, drew a sketch of the aircraft and we just can't seem to stop talking and thinking about this remarkable event. There were many vehicles on Hwy 51 at the time, and I was just wondering if anyone else may have reported seeing this strange aircraft.  If so, I would be interested to know.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79502.html](http://www.nuforc.org/webreports/reports/079/S79502.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Helena (AL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>craft traveling VERY VERY FAST. Red flashing lights. Tried to track with telescope,craft much to fast to do so.Red blinking lights moving(1)east and curving north and,(2)Moving north straight south.Incredble speed!!!!!! _</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41361.html](http://www.nuforc.org/webreports/reports/041/S41361.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/161/S161428.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161429.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161460.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161417.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
