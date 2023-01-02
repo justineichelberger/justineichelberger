@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:22 on 2 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:26 on 2 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Vista (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>We saw a disk from the side so it appeared like a cigar. It was bright, "neon" green with a bright orange, firey trail running behind it.We saw a disk from the side so it appeared like a cigar but we are sure it was a disk. It was bright, "neon" green with a bright orange, firey trail running behind it. It had brighter lights along the sides. It was flying in an arc as if it was about to crash but we did not hear a crash or see any explosion. It was not "falling" but was flying under power. I could not determine whether the flames were "normal" or were a sign of distress. We only observed it for 3 seconds and it did not change direction during that time. It only continued in a downward arc and went behind the trees where we couldn't see it. When we saw it, we were traveling along Sunset Drive in a northern direction. It was directly ahead of us, not high in the sky and arcing down as it went. After it went behind the trees, we continued to scan the sky for about 7 minutes as we drove but we didn't see anything else.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11558.html](http://www.nuforc.org/webreports/reports/011/S11558.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Billings (MT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I saw a bright neon green fireball with a tail like a comet streak through the sky north toward the Billings Logan International Airport for about 3 seconds until it appeared to burn out and crash in the sky at which time it appeared to be falling.  It went from neon green to orange, like something on fire, then smokey grey, and then black, at which point you could no longer see it.  My dad had just returned from the Holiday gas station where the cashier there had said to my dad "what was that" and then explained to him what he saw so when I was explaining it to him, he knew what I was talking about.((NUFORC Note:  Possible meteor from the Quadrantid Meteor shower?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125070.html](http://www.nuforc.org/webreports/reports/125/S125070.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/161/S161428.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161429.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161460.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161417.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
