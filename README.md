@@ -212,7 +212,7 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:43 on 2 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:27 on 2 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
 ![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Oroville (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>These lights(egg shape)put on a dazzling show they would go in a long oval circle probably a football field in length the egg shape lights were going around in pairs of two they would go around about three to four times then they would all join in as one in the center of what use to be the circle I'm here to tell you it was a brillant show in the sky these lights kept spinning and twirling we(my family) pulled over twice on highway 70 to watch these lights do there thing I even was going to stop to ask a CHP officer who was stoped on the side of the highway if he was seeing the same thing we were but my wife was to overwelmed to talk to a police officer at the time this was something that my family and I will never forget i've never seen anything like this on any tv program it was definitley a rush watching the lights in the sky over Oroville California that evening one more thing these lights were in perfect order not one was out of sync it was like a rehersed coreographed dance that was fit to be on broadwaysee summary description((NUFORC Note:  Sounds like a 4-light, articulating advertising light.  No report received from the CHP officer.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11575.html](http://www.nuforc.org/webreports/reports/011/S11575.html)</i></sub></sub></sub><br>
 <h5><details open>
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/161/S161428.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161429.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161460.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161417.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
