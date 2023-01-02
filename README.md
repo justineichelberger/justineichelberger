@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:23 on 2 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:25 on 2 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Newalla (OK) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Blue-Green Fireball spotted, oklahoma city area.I was driving south on Peebly road, about 10-15 miles south of I-40.  Out of the corner of my eye I caught the object coming across the horizon from the east.  When it reached over about my 2 o'clock, it slowed to a stop in a very short distance.  It was stopped just enough time for me to take a glance up at it, and get a look. While it was traveling, it was a blue-green fireball with a good tail that faded fast.  When it stopped, it kept its blue-green color around it, in a circular shape, then proceeed on a western course.  It had to have been in the upper stratosphere, it had no noise to it.Not even 3 minutes after the object leaves, an aircraft was out circling the area where I had seen it.  At first I thought, well maybe its  just a student pilot, or an aircraft shooting an approach out at Tinker AFB. The aircraft was some sort of jet, i could hear it from the car, and it was more than likley a fighter (f-16's and f-15's are at tinker) because of the high angle banks it was making.  Also, that area where the jet was flying around is not an authorized training point for fighter jets, so all I can think is that this object was picked up on radar and a jet was sent to go check it out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60651.html](http://www.nuforc.org/webreports/reports/060/S60651.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Manat (Puerto Rico) (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 80.0 - 80.0 minutes.</sub><blockquote><sub>Puerto Rico UFO:  bright glow, pulsating motion.It was a Sunday of 2005 at ten to five am, when my mother, ((name deleted)) woke me up to tell me there’s a U.F.O in front of our house in Manat, Puerto Rico.  The U.F.O had a bright glow, with lights in the middle that had a pulsating motion.  The colors were amber, green, red, and yellow.  In addition it had a soft beam of light, with a mist inside.  We saw the U.F.O at an distance of 40’ away.  For at least 40 minutes after it moved east, another 25’ it stopped for 10 minutes.  Still with the beam on.  At this time we could see the sun rising there no mistake of identity.  Then it took off from the shore line to horizon at am incredible speed.  It disappeared in flight all we saw was the slow at the end. Sincerely, ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127921.html](http://www.nuforc.org/webreports/reports/127/S127921.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/161/S161428.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161429.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161460.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161417.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
