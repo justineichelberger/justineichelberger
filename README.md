@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:40 on 2 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:47 on 2 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in La Quinta (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>4 lights in diamond shape formationIt was about 23:35 PST I was sitting in my living room and just happened to look out the window and saw 4 lights in diamond shape formation.  They were kinda large to the fact that I would hear something if they were planes or helicopters.  They kinda lingered for a second or two the last light went out of formation and them went back in formation and sped off very fast leaving only a light trail with dissapeared very quickly. I got up and ran outsite and they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11555.html](http://www.nuforc.org/webreports/reports/011/S11555.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Annapolis (MD) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright objects witnessed in the western sky near Annapolis.We watched three bright objects slowly move across the western sky, one was significantly larger than the others.  The objects were glowing bright yellow/gold in the setting sun.  We could not tell the shape of the objects until a picture was examined to show a saucer shape.  The larger object had two metallic looking orbs appear to the right of the object.  The orbs moved along with the larger object then disappear after about 15 seconds.  All the objects continued west and were observed until out of site.  This observation lasted about 15 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125059.html](http://www.nuforc.org/webreports/reports/125/S125059.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/161/S161428.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161429.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161460.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161417.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
