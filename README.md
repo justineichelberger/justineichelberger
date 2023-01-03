@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:16 on 3 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:17:52 on 3 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Cambridge (UK/England) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>grey boomerang almost tye same colour as the skyIt was just getting dark and I had just passes a place called R.A.F. Duxford when I saw what I thought was a flock of birds flying in a V shape. I wasnt too far away, maybie 2 or 3 hundred yards. Then I noticed that it wasnt birds but a solid object. It was grey in colour almost the same colour as the sky and boomerang shaped. I pulled over into the slow lane and watched it fly over a field to my left. Then it stopped and spun around very quickly like helicopter blades and just vanished. I travel on the same road every day and have never seen anything before. The road is called the M11. I have never seen anything like it before and I keep trying to convince myself that I imagined it or it was a plane or something, but I keep remembering that at the time I kept looking at it for those 30 or 40 secs and saying to myself, "I am really seeing this and I dont know what it is!" Please belive me I have always laughed at storys about UFO's and I don't really belive in them even now but I really dont know what I saw. The road was quite busy so maybie some otther people saw it as well. Anothjer thing is that it was weired to look at. Although it was quite clear and very sharply defined it was a bit like looking at one of those magic eye pictures. I got a feeling that if I took my eyes of it for a second I wouldnt be able to see it again but when I did take my eyes of it to check the road it was still there when I looked again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16685.html](http://www.nuforc.org/webreports/reports/016/S16685.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Whiterock (CO) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Driving on route 10 East bound I saw a  silver colored teardrop shape UFO in a horizontal position, appear over route 10, lasted about 6 sec and disappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152326.html](http://www.nuforc.org/webreports/reports/152/S152326.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [302](http://www.nuforc.org/webreports/reports/161/S161452.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161639.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161431.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161653.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161459.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
