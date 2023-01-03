@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:46 on 3 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:52 on 3 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Fairless Hills (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>1 Bright white dot, eventually ended up being 6 in 2 same shaped trianglesMe and a buddy were heading west on Lincoln Hwy. in Fairless Hills when I noticed a large white dot in the sky.  My friend told me it was a planet but I refused to believe it and kept staring at it. It looked like it was moving and starting to form a sort of trail, I do not know if it was or was not moving though. As I was staring at another dot to the right of it, same description, but it was not as bright. Pretty soon there were six of these dots in the sky forming two triangles.  They were both an obtuse shape and both were the same exact shape.  They were not in any sort of formation though. The lights sat there for about 5 minutes.  We had stoppped at the Pep Boys on Lincoln highway and there were several people that had noticed the lights also and were also looking.  Nobody seemed frantic but everybody was very curious.  I have no background in any of this but I was told they were likely meteors.  I do not believe they were but that is the beauty of it.  I saw something that I can not explain.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79546.html](http://www.nuforc.org/webreports/reports/079/S79546.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in West Manchester (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Flashing white light approx. tree top level.Returning home from work on night of the 3rd saw a bright flasing light about tree top level 2 $1/2 to 3 miles east of West Manchester. Light was very bright and was durring a heavy rain storm. Light flashed at regular intervals on 1 second off 2 seconds approx. Saw light just above tree tops and as I approached it seemes to drop below the tree line and was bright enough to back light the trees. I didn't really think anything about it at the time other than it was kind of unusual. Then I recieved this site location from a friend who didn't know of the sighting and thought it might warrent a report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11579.html](http://www.nuforc.org/webreports/reports/011/S11579.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [302](http://www.nuforc.org/webreports/reports/161/S161452.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161639.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161431.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161653.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161459.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
