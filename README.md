@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:31 on 3 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:27 on 3 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in University Place (WA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>4 bright white lights chevron shaped patternWhile me and my wife are returning home this evening, driving south on Bridgeport Way, we see in the southwest sky, above the skyline, 4 bright white lights in a chevron pattern must be at least a mile wide from our angle!  Does anyone else see these??</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132023.html](http://www.nuforc.org/webreports/reports/132/S132023.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in dont know (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately driving - driving minutes.</sub><blockquote><sub>Well we driving down the road and my mom was listening to her music and my brother i were relaxing because we where going to san antonio from houston. And my mom said guys look there is something in the sky we all looked and it was a bright pinkish redish light and the light was fadeing in and out like kinda blinking. And as it was moving we saw it was the shape of a triangle. And it was not that fast it was glideing. And my brother looked back to get another look and it was gone. There where about 3 other cars by us and we a slowed down to see it and i would assume they saw it too. It was so weard and im not lieing at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48587.html](http://www.nuforc.org/webreports/reports/048/S48587.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [302](http://www.nuforc.org/webreports/reports/161/S161452.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161639.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161431.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161653.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161459.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
