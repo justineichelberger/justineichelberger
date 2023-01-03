@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:17:52 on 3 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:31 on 3 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Whiterock (CO) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Driving on route 10 East bound I saw a  silver colored teardrop shape UFO in a horizontal position, appear over route 10, lasted about 6 sec and disappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152326.html](http://www.nuforc.org/webreports/reports/152/S152326.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in University Place (WA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>4 bright white lights chevron shaped patternWhile me and my wife are returning home this evening, driving south on Bridgeport Way, we see in the southwest sky, above the skyline, 4 bright white lights in a chevron pattern must be at least a mile wide from our angle!  Does anyone else see these??</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132023.html](http://www.nuforc.org/webreports/reports/132/S132023.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [302](http://www.nuforc.org/webreports/reports/161/S161452.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161639.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161431.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161653.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161459.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
