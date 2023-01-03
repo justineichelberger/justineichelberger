@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:47 on 3 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:22 on 3 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Bloomsburg (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I saw a set of lights in the sky that hovered above the road and then dissapearedI was going to work around 2:08 am. I pulled into the parking lot and I happened to look up at the sky. About a half a mile down the road was a pair of bright white lights about 50 to 75 feet apart. Between the two white lights were four yellowish-brown square shaped lights. What ever this was hovered above the road about 100 feet off of the ground for about 10 minutes. It didn't make any noise. After about 10 minutes the lights just went off. It might be helpful to know that this happened about a mile from the bloomsburg airport which is a small airport where small single propeller planes and helicopters land. This object I saw in the sky didn't look like and aircraft I have ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60657.html](http://www.nuforc.org/webreports/reports/060/S60657.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Alpine (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>cluster of 5 circular white lightsTwo of us traveling east bound on highway at 12:35am. First sighted white hovering light clusters to the south of highway above hills. Freeway was dark, few cars present. As we continued eastward spheres countinued to move north easterly. We noticed a large circle of light in the upper center of the formation with 4 circles breaking away and then moving toward the center becoming one sphere, repeatedly. As we moved toward our destination the formation seemed to follow us and hover above our vechicle. At this point, we felt as if we were being followed. We entered our garage and looked out the window viewing it above our neighbors home which still had exterior lights on. At this point we shut off all our lights and contiued to watch this unidentified object hovering in the same location.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41398.html](http://www.nuforc.org/webreports/reports/041/S41398.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [302](http://www.nuforc.org/webreports/reports/161/S161452.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161639.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161431.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161653.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161459.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
