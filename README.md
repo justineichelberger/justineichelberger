@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:01:01 on 3 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:45 on 3 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Charlotte Court House (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange light moved slowly across sky and then disappearedObject looked like a large orange star moving slowly to the east.  The light moved slowly for 3 minutes and then disappeared.  The object did not make a sound.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95791.html](http://www.nuforc.org/webreports/reports/095/S95791.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>As my daughter and I were headed home from the store it was dark, cloudy, and raining hard. We turned a corner and right ahead but not to far up were 2 large white globes. There wasn't much traffic and I stoped. My daughter say " oh my gosh what's that?". I said it looks like UFO's. We sat there for a few seconds watching then they both rose together like they were connected (but they weren't). We watched them get right to the edge of the bottom side of the cloud cover. They took on a translusent apperance and kinda of like electical lightning bolt through them and disappeared. I only told a coulple of people at work becouse of the jokeing. Well the next night one of the fellows was watching the news and one of the broadcasters seen it too. (channel 8 kgw) Anyway he called me and said it was the exact time and the discrption I gave matched exactly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16039.html](http://www.nuforc.org/webreports/reports/016/S16039.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [302](http://www.nuforc.org/webreports/reports/161/S161452.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161639.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161431.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161653.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161459.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
