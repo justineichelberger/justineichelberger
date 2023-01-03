@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:43 on 3 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:33 on 3 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Jenks (OK) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Fire-orange orb flying over Jenks faster than a jet and stopping before disappearing.I witnessed a round orange object with some sort of flame or tail.  It travelled very fast across the sky, and then almost completely stopped.   It then seemed to change trajectory and disappear into a higher altitude.  I then witnessed an airplane flying a similar coarse, and it was much slower.  The object was the color of fire, but seemed to be being piloted.  I called my friend after and noticed all the names in my iPhone were changed.   This has never happened before!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105994.html](http://www.nuforc.org/webreports/reports/105/S105994.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Davie (Shenandoah area) (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Three dark orange or reddish colored objects flying in a triangular pattern over DavieI was traveling North down 136th avenue passing Western High School with my girlfriend and 2 friends when we noticed three dark orange or reddish colored objects flying in a triangular pattern above what I believe would have been the front portion of Shenandoah. I turned down Appalachian trail and noted that the objects were not still standing but were moving in a South West direction towards Weston, FL. At first the objects looked to be a one object with a light in each corner of the triangle, but suddenly they began to move irregularly and one jetted away, this left two. I viewed this event for under a minute and viewed the last two until they were no longer visable over the houses, they were moving at a fast but steady pace due Southwest. These lights were contained they didnt emit any stream or glare but were very deep in color and bright at the same time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67828.html](http://www.nuforc.org/webreports/reports/067/S67828.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [302](http://www.nuforc.org/webreports/reports/161/S161452.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161639.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161431.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161653.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161459.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
