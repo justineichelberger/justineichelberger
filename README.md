@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:28 on 3 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:30 on 3 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Fort Smith (AR) reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Caller was taking out trash, when he observed three greenish-yellow balls of light that dipped down out of the clouds.  They hovered for approximately 1 minute, then they went back up into the clouds.He telephoned the local police, the local airport, and the local television station(s).  There had been several other observers to the phenomenon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01177.html](http://www.nuforc.org/webreports/reports/001/S01177.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Cerritos/Buena Park area (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>The star-like object  traveled at a tremendous rate of speed across the moon lit sky.I commute over 50 miles each way to work.  My commute home generally takes 2 hours because of the stop-and-go traffic on the 91 freeway, therefore I have plenty of time to observe more than just the back bumper of the car in front of me.  At 5:45 p.m. (dusk) the sun had just set and the full moon was rising just over the north east horizon.  It was crystal clear sky.  The direction of the freeway is due east.  I was watching the lights in the sky of many planes/helicopters, some reporting on traffic conditions and others in a typical landing approach for near by airports, when a bright light (distant, but bright) caught my attention to the north, or out my driver's side window.  I know the difference between aircraft landing and strobe lights and a star.  This was more like a star in the sense that its light was consistent and its intensity. To the left of me it traveled from as high as I could see (top of my window), to what seemed to be straight down towards the earth, but more like it was traveling beyond the horizon moving away from me and disappearing as it followed the curvature of the earth.  No trail was following it.  I immediately question myself as to what I had just seen and tried to apply earthly logic to explain it away, but I came to the same conclusion.  It was not a plane, meteor, or star.  I did consider that perhaps it was a falling star.  I have seen falling stars on many occasions and the light seems to fizzle out as it is traveling and they appear (obviously) very high in the atmosphere.  It was not dark enough at that time to see stars.  Also, this seemed to propel itself across the sky at a tremendous rate of speed as opposed to "falling".  It was way to far away to see a shape, as I mentioned it was star-like, but there is something deep inside of me that knows it was either not of this world or a vehicle that is not known to the general public (if it is of this world). Back in the late 80's I saw the "three orange lights" type of UFO.  I can tell that story to if you care to know about it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54490.html](http://www.nuforc.org/webreports/reports/054/S54490.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [302](http://www.nuforc.org/webreports/reports/161/S161452.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161639.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161431.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161653.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161459.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
