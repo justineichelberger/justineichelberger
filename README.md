@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:30 on 3 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:43 on 3 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Cerritos/Buena Park area (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>The star-like object  traveled at a tremendous rate of speed across the moon lit sky.I commute over 50 miles each way to work.  My commute home generally takes 2 hours because of the stop-and-go traffic on the 91 freeway, therefore I have plenty of time to observe more than just the back bumper of the car in front of me.  At 5:45 p.m. (dusk) the sun had just set and the full moon was rising just over the north east horizon.  It was crystal clear sky.  The direction of the freeway is due east.  I was watching the lights in the sky of many planes/helicopters, some reporting on traffic conditions and others in a typical landing approach for near by airports, when a bright light (distant, but bright) caught my attention to the north, or out my driver's side window.  I know the difference between aircraft landing and strobe lights and a star.  This was more like a star in the sense that its light was consistent and its intensity. To the left of me it traveled from as high as I could see (top of my window), to what seemed to be straight down towards the earth, but more like it was traveling beyond the horizon moving away from me and disappearing as it followed the curvature of the earth.  No trail was following it.  I immediately question myself as to what I had just seen and tried to apply earthly logic to explain it away, but I came to the same conclusion.  It was not a plane, meteor, or star.  I did consider that perhaps it was a falling star.  I have seen falling stars on many occasions and the light seems to fizzle out as it is traveling and they appear (obviously) very high in the atmosphere.  It was not dark enough at that time to see stars.  Also, this seemed to propel itself across the sky at a tremendous rate of speed as opposed to "falling".  It was way to far away to see a shape, as I mentioned it was star-like, but there is something deep inside of me that knows it was either not of this world or a vehicle that is not known to the general public (if it is of this world). Back in the late 80's I saw the "three orange lights" type of UFO.  I can tell that story to if you care to know about it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54490.html](http://www.nuforc.org/webreports/reports/054/S54490.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Jenks (OK) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Fire-orange orb flying over Jenks faster than a jet and stopping before disappearing.I witnessed a round orange object with some sort of flame or tail.  It travelled very fast across the sky, and then almost completely stopped.   It then seemed to change trajectory and disappear into a higher altitude.  I then witnessed an airplane flying a similar coarse, and it was much slower.  The object was the color of fire, but seemed to be being piloted.  I called my friend after and noticed all the names in my iPhone were changed.   This has never happened before!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105994.html](http://www.nuforc.org/webreports/reports/105/S105994.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [302](http://www.nuforc.org/webreports/reports/161/S161452.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161639.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161431.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161653.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161459.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
