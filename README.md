@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:12 on 4 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:20:59 on 4 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Chula Vista (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright object moved slowly across the sky in clear daylight and in formation with at least 10 other objects.At approximately 2:30 p.m., on a very clear day, I looked up and noticed a long contrail that had gone across most of the sky; Southeast to northwest.  I also noticed a very bright object high in the sky.  It was so bright that it looked like a very large star, except that it also appeared somewhat elongated, and this was in full daylight.  It was moving very slowly high in the sky so I decided to quickly grab my binoculars from my truck.  Using my binoculars I was totally surprised to see that there were actually a total of 10 to 11 circle shaped objects within the background of the brighter and larger object.  These other objects were also moving with the bright object in a formation-like manner (triangular and diamond shaped formation).  I could see these smaller objects only with the binoculars and were not at all visible with the naked eye.  These smaller objects appeared like white faded spots around the bright object and they did not reflect much light.  My fifty-six year old sister also saw the objects with me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26908.html](http://www.nuforc.org/webreports/reports/026/S26908.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Campbell (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was outside smokeing and looked up and seen 4 lights in the sky that were moving/hoovering in the sky, the 1 was on the left of the other 3 that were in a triangular shape,  I ran inside upstairs to have my wife look out the window so she could see what I was seeing, by the time that I made it down the steps to outside they were pretty far off away....  Be4 you knew it they were gone with in a flash.  They were like a fire orange type color!!!  It was crazy never seen anything like that!!!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106024.html](http://www.nuforc.org/webreports/reports/106/S106024.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/161/S161471.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161473.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161462.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161475.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161457.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
