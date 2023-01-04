@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:22 on 3 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:41 on 4 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Alpine (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>cluster of 5 circular white lightsTwo of us traveling east bound on highway at 12:35am. First sighted white hovering light clusters to the south of highway above hills. Freeway was dark, few cars present. As we continued eastward spheres countinued to move north easterly. We noticed a large circle of light in the upper center of the formation with 4 circles breaking away and then moving toward the center becoming one sphere, repeatedly. As we moved toward our destination the formation seemed to follow us and hover above our vechicle. At this point, we felt as if we were being followed. We entered our garage and looked out the window viewing it above our neighbors home which still had exterior lights on. At this point we shut off all our lights and contiued to watch this unidentified object hovering in the same location.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41398.html](http://www.nuforc.org/webreports/reports/041/S41398.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Yankee Hill (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Thought it was a bright star at first.  Then the light moved down close to the trees.  It moved around the mountains for about 4 to 5 minutes.  We recently had a forest fire so you can see for a distance through a once dence forest.  It move right over my property.  I waved and then it was gone.  It has a circular shape but was a very bright light as well.  I was not sure who to report it to until I found your website.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67843.html](http://www.nuforc.org/webreports/reports/067/S67843.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [302](http://www.nuforc.org/webreports/reports/161/S161452.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161639.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161431.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161653.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161459.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
