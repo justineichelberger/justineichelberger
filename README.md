@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:29 on 4 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:27 on 4 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Sand Springs (west of) (OK) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Orange glowing  round object seen in the sky just 2 miles of Lake Keystone, Sand Springs, OklahomaI live around 2 miles east of Keystone Lake.  At 00:30, my son and I observed a round glowing object just above my house off from highway 51.  It didn't make any sounds; no red; blue or white lights and appeared to hover in the same place.  I ran into the house to get my camera but when I returned it had already disappeared.  My son told me that it just stayed there in the same spot then it went straight up into the sky and disappeared.  I am a 49yr old registered nurse and my son is a 26yr old college student.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79545.html](http://www.nuforc.org/webreports/reports/079/S79545.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Simonstown (South Africa) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>unlike anything  i had ever seenI am so pleased to finally be able to tell someone about this experiance In those days we were at war in angola and alot was top secret I was picking up a friend to go to the airport for a conferance, this is our summer time, in those days i new a lot about aircraft as i was amember of the local historical aviation society and had, had to give up flying in1974 because of the fuel crisis. If you look at a map of the cape peninsula, thats at the botom of africa I was standing at a place called froggy farm, south of simonstown, where the railway ends looking across a bay known as false bay towards the hottentots holland mountains the craft flew from left to right. in those days the airports opend at 0700((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18142.html](http://www.nuforc.org/webreports/reports/018/S18142.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/161/S161471.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161473.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161462.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161475.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161457.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
