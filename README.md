@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:31 on 4 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:26 on 4 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Bullhead City (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>emtying the trash  looking west over our western mountain range i saw what  i thought was  a jet departing from laughlin  airport. as i am 7 miles and 2 000 feet  above the port. on the east  but  the yellow round light  just  went  slowy vertical. i walked  to my room to get my binoculars and returned to my porch and found that the light was gone . 1 min later the  yellow sphere was even closer  it  approached id say within 2 miles of me coming east and in a moment it s bright glow was gone</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68475.html](http://www.nuforc.org/webreports/reports/068/S68475.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Aliso Viejo (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Aliso Viejo, CA 1/6/06 10:50pm square shape in sky w/ dim lights in corners flying erratically  all directions above neighborhoods.On top of a hill near my home while driving I saw a square shape in the sky with 4 lights each in corner flying towards me maybe a thousand feet in the air. It went over my car where I couldn't see it so I pulled over and turned the car so I could roll down my window and confirm what I saw. I then saw it go over another neighborhood and move erratically  and stopping a couple times. All this time I could see airplanes in the sky up above which had flashing lights and were miles higher. This object only had 4 dim lights- no flashing. It seemed to go any direction it wanted.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48609.html](http://www.nuforc.org/webreports/reports/048/S48609.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/161/S161471.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161473.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161462.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161475.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161457.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
