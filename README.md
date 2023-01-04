@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:31 on 4 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:39 on 4 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Parkland (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Tonight 1\4\17, is the third consecutive night that I have seen these round objects.  The first night 1\2\17 that I noticed them there were about 9 to 10.  The second night there were more probably 30.  They just kept coming.  My grandson went to school the nrxt morning at 8:00 am and he saw 2 that morning.  The third night, tonight, there were fewer maybe 6 or 7 and there were a lot of planes circling them.  I assume that this was the Air Force because I live next to McChord AFB and Ft. Lewis Army base.  I just came in from outside and there are still 7 or 8 out there.  They just keep coming.  These things are round with white and red flashing lights.  There is no sound coming from them.  The first day one of them was close enough for me to see it  pretty well it was dark so I could see the lights blinking and I heard nothing.. no sound.  It flew directly into my parking lot.  In the beginning I thought that it might be a drone but it was round...drones aren't round.  Also, the other ones were flying at a very high altitude.  Tonight, they were up there with the planes.  I know that I cannot be the only eyes that see these things and I've heard nothing on the news or on the internet.  This activity is far from normal.  Something is not right here.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132038.html](http://www.nuforc.org/webreports/reports/132/S132038.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Woodward (IA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange/gold lights that seemed to "leap frog" across the north western Iowa sky.While driving home from work I watched very bright orange/gold lights seeming to play in the sky.It was fairly early in the evening.  Only 5:15pm central time so it wasn’t extremely dark yet.These lights caught and held my attention since there is pretty much nothing but farm fields in the area of these lights.  I was watching them trying to remember if there is anything new in the area.  There is not.While I was watching, these lights seemed to be moving  in a leap frog type fashion across the sky.  I have never seen anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79705.html](http://www.nuforc.org/webreports/reports/079/S79705.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/161/S161471.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161473.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161462.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161475.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161457.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
