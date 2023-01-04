@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:40 on 4 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:52 on 4 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Spring (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>3 red glowing lights fireball objects moving north to south in Houston area moving about 2 minutes apart in same flight path.It's dark outside around 6-7pm on Sunday night, Jan. 4, 2015.  Spouse comes in from the back patio and a little excited tells me he saw an object moving pretty low from the north across the sky over the recently cleared property behind our house.  Here's his description:  A big ball of fire with ropes moving in the wind and hanging down with balls of fire!  First thought was: meteor.  No, maybe a weather balloon on fire and falling?  We live very close to the big intercontinental airport and there were lots of aircraft landing at the time; they are low and you can see the entire plane with blinking lights.I go to the front yard facing south.  I see a glowing red object like it was on fire and in the same flight path as the first object which spouse saw flying north to south.  About 2 to 4 minutes later I saw the third object.  These objects were not the average aircraft like I saw flying to land at the airport.  These objects were not on a path to land like the other aircraft.  The 3 objects all followed the same path and same speed.  These objects were not ordinary but appeared strange.  Pics on my I phone were blurry.  Thought about the Bible stories of the 'chariots of fire'.  No idea what they were.  Anyone else see them?   My digital panel on the back of my stove has been out for several weeks and several hours after incident the digital clock on the panel was working.My husband has worked in construction for about 40 years and is in supervision. I am a homemaker and we have raised 3 children and we have 6 grandchldren.  We have been married 40 years and are both in our late 50's.  We are Christians and I really don't believe in extra terrestrials.  I have never seen anything like this before!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116505.html](http://www.nuforc.org/webreports/reports/116/S116505.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Santa Rosa (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>SUMMARY:  A brief encounter with a circular looking object that appeared to be on fire...A neighbors house down the street a circular looking object hovered at about 200 yards above ground level moving back and forth with a light the appeared to be fire but could have been anything... As the people who lived in the house left to run down the street the object followed slowly. Then when they got to my house the object than slowly went straight up eventually so that we could not see it anymore. Then after talking to other neighbors we found out that the prevous night there weret wo of the same objects hovering in the same area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01926.html](http://www.nuforc.org/webreports/reports/001/S01926.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/161/S161471.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161473.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161462.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161475.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161457.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
