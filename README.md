@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:52 on 4 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:42 on 4 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Santa Rosa (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>SUMMARY:  A brief encounter with a circular looking object that appeared to be on fire...A neighbors house down the street a circular looking object hovered at about 200 yards above ground level moving back and forth with a light the appeared to be fire but could have been anything... As the people who lived in the house left to run down the street the object followed slowly. Then when they got to my house the object than slowly went straight up eventually so that we could not see it anymore. Then after talking to other neighbors we found out that the prevous night there weret wo of the same objects hovering in the same area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01926.html](http://www.nuforc.org/webreports/reports/001/S01926.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Taylorsville (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>blinking white lights and moved out of sight in a half second with no soundmoving from south to north i thought it was an airplane at first, it had blinking white lights, but all of a sudden it turned around and took off and was out of sight in half a second with no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54470.html](http://www.nuforc.org/webreports/reports/054/S54470.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/161/S161471.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161473.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161462.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161475.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161457.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
