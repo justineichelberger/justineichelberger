@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:30 on 4 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:31 on 4 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Castro Valley (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Object moving across CA sky Jan 4th 2005 7:10PMAs me and my wife were driving down the road.  I saw a light moving across the sky,  I pointed it out to my wife.  She saw it.  Said " Big deal, it's a plane."  I said, "It has no blinking lights". We live in the Bay Area and have many planes in the sky.  But this didn't look like a plane.  It moved in what I think was westerly direction.  And reminded of a missle launch from Vandenberg that a saw back in 96 or 97. So I like to know if anyone else saw it too.  I've seen satelites and shooting stars move across the sky; and this was neither.  I suspect that it was man-made.  If some knows for sure. Please let me know.((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41404.html](http://www.nuforc.org/webreports/reports/041/S41404.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Bullhead City (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>emtying the trash  looking west over our western mountain range i saw what  i thought was  a jet departing from laughlin  airport. as i am 7 miles and 2 000 feet  above the port. on the east  but  the yellow round light  just  went  slowy vertical. i walked  to my room to get my binoculars and returned to my porch and found that the light was gone . 1 min later the  yellow sphere was even closer  it  approached id say within 2 miles of me coming east and in a moment it s bright glow was gone</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68475.html](http://www.nuforc.org/webreports/reports/068/S68475.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/161/S161471.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161473.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161462.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161475.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161457.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
