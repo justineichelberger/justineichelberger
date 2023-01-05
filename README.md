@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:35 on 5 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:23 on 5 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Mammoth Lakes (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Large & shiny tic tac hovers and then flies off.While on a ski trip to Mammoth, we witnessed what we first thought was a drone hovering above us.  We couldn’t get a handle on its size or distance for several minutes as it didn’t make any sense to what we knew was possible.  It was shaped like a very shiny Tic Tac, perhaps 10 feet long.  It was hovering then would drop and ascend very rapidly.  My 14 year old step daughter became quite afraid, while I assured her it had to be some sort of drone, but I don’t think any of us was buying my story.  We watched it for the duration of the chair lift, the group behind us seeing it as well.  After about 8 minutes it flew off into the interior of Yosemite.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146571.html](http://www.nuforc.org/webreports/reports/146/S146571.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Seattle (North) (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>single very bright light green colored fireball traverses 40 degrees of the sky on south, downward-slanted trajectory, moved quite fast, but slower than meteors.  Unusual shade of green.  Object below fairly high broken overcast.At 0631 Hrs PST today, as I was traveling south on I-5 (in the Shoreline area), I observed a single very bright light green colored object traverse about 40 degrees of the sky.  The object  became visible to me as it came out from behind the roof of my car and hence became visible through the windshield.  It was traveling southward at what appeared to be a straight, downward course.  A rough estimate would be 20-30 deg below the horizontal. This clear very bight object moved quite fast, but slower than meteors I've observed in the past.  neither have I seen anything quite this shade of green, although I have seen green fireballs or meteors before.  A fairly high broken overcast was made obvious by the Moon, and I believe this green object to have been below that overcast.  I did observe the normal air traffic in the sky such as airliners approaching Sea-Tac and traffic helicopter, etc.  These all were below the overcast.  When the green light from the object went out, it went out as often described: "like a lightbulb being turned off." The things that distinguish this sighting in my mind are the clarity and exceptional brightness of the light from this object, the fact that it did not appear as a 'streak' as other meteors I have seen did, but appeared as a clear, very bright object  (no discernable diameter), and that it seemingly was quite close tot he ground, - a couple of thousand feet at the most I would guess, (based on the cloud cover) and the sense was that it was quite lower than that.  And that it did not "smear" in my vision, but remained a clear single source of light with no trail, and that it moved at a speed that I preceived to be faster than aircraft, but slower than other meteors I've observed. While I expect that what I saw was a meteor, and believe what I saw to be within the normal range of behaviors for such objects, it was nonetheless an unusual sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07663.html](http://www.nuforc.org/webreports/reports/007/S07663.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/161/S161498.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161503.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161474.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161488.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161508.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
