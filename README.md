@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:50 on 5 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:30 on 5 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Wytheville (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>low flying object with alot of lights.We were driving on route 52 when my girlfriend looked up and saw something flying really low, like low enough to hit a tall tree, we thought it may have been a plane but there were so many lights that were different colors and it was going slow, it looked like a jet but it was going to slow, i was driving so i couldnt stop to really look at it or get a picture.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86364.html](http://www.nuforc.org/webreports/reports/086/S86364.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in Gering (NE) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Fast moving light, darting then hovering in sky; emitted beam of light.A friend and I were driving out of Gering, NE southbound approximately 3 - 5 miles south of the Wildcat Hills in the winter of 1972.  There may still be a windmill on the east side of the road that marks the place where this sighting occured.  We were on our way to a get-together out in the "boonies" at a friend's parents' ranch.  It was very cold & there were clouds of an impending snowstorm in the area. As we drove south, we saw a very bright light moving at a very rapid pace from south east toward the west. At first we thought it might be a low flying jet, (under the level of the clouds)but then noted there weren't any blinking "airplane lights".  I pulled the car over on the side of the road to watch. In an instant the craft stopped in the sky (west of highway) & remained stationary for maybe 10 seconds.  It then streaked eastward, moving faster than when we originally spotted it, hovered momentarily again & then streaked back to the general area it first hovered in. After again hovering for maybe 10 seconds, a bright and wide beam of light shot down from the object toward the ground.  We could not see where the beam hit the ground because there are hills toward that direction at that point of the highway. We were pretty alarmed.  Then the beam shut off and just a few seconds later the object disappeared, reducing in size until gone, as if it had accelerated toward space (didn't move left or right/up or down). My reaction as driver was to get the H out of there.  I looked down as I put the car in gear & the instrument panel on the dash indicated my car was overheated.  I turned the engine off & popped the hood to check the radiator, with intentions of going to the windmill's stock tank for water. Upon inspection, there was no indication the radiator was overheating; I loosened the radiator cap to check.  Got back in the car & the gauge was reading normal.  The entire event was very disconcerting.  By the way, it may be unrelated but the stretch of road between Gering & Kimball had a number of underground nuclear missle silos located there. My employment background includes technical/science training in the area of OSHA and EPA regulation. I have a bachelors degree & graduated magna cum laude.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43027.html](http://www.nuforc.org/webreports/reports/043/S43027.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/161/S161498.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161503.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161474.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161488.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161508.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
