@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:27 on 5 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:36 on 5 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Caseyville (IL) reported seeing craft that fit the description of some 'Other' over a period of approximately 1:00-02:00- - 1:00-02:00- minutes.</sub><blockquote><sub>high altitude glitering streak-too red orange 40' high ball lookig like jap riseing son of ww2,tree high .In lieu of story told on Art Bell show, 10 February 2000, sighting near Bellevlle and Fairview Heights, Illnois, and previously sightings around Cahokia Mounds and Granite City are suspect to be related to earlier civizilations that inhabted these areas. Personal sighting experienced by myself and frend occurred directly over these historic "mound" inhabitants.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11983.html](http://www.nuforc.org/webreports/reports/011/S11983.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Mammoth Lakes (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Large & shiny tic tac hovers and then flies off.While on a ski trip to Mammoth, we witnessed what we first thought was a drone hovering above us.  We couldn’t get a handle on its size or distance for several minutes as it didn’t make any sense to what we knew was possible.  It was shaped like a very shiny Tic Tac, perhaps 10 feet long.  It was hovering then would drop and ascend very rapidly.  My 14 year old step daughter became quite afraid, while I assured her it had to be some sort of drone, but I don’t think any of us was buying my story.  We watched it for the duration of the chair lift, the group behind us seeing it as well.  After about 8 minutes it flew off into the interior of Yosemite.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146571.html](http://www.nuforc.org/webreports/reports/146/S146571.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/161/S161498.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161503.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161474.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161488.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161508.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
