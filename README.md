@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:41 on 5 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:38 on 5 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Poway (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Two bright objects floating in the sky, all of the sudden dim and fly away.At around 9:30 p.m. me and my girlfriend were in a parking lot at a local park just sitting and up in the sky I saw a bright, yellow light. At first I thought it was a really bright star or maybe a planet and I commented on how bright it was because barely any other stars were visible. About 15 minutes later another one of these 'stars' that looked exactly the same appeared above and to the right of the first object, at about a 45 degree angle from it. Now, we thought it was really weird and after about 5 minutes of both of the objects staying in place the second object started to dim and all of the sudden flew to the left and shortly after the first object did the same. It dimmed and flew to the left. We watched them until they disappeared behind some trees. I know it couldn't be a helicoptor or plane because the lights stayed motionless for so long and the glowing of them looked like stars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48633.html](http://www.nuforc.org/webreports/reports/048/S48633.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in St. Louis (MO)/Columbia (IL) (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>jan 5 dupo lightssorry i cant add much to this i worked a walmart in waterloo il overnight.  had a late lunch 330-430. crossing the jb bridge going east saw lights over dupo il it was far away 5+ miles  noticed large brite and low---- did not know what i saw untill next day  you wanted to know</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60432.html](http://www.nuforc.org/webreports/reports/060/S60432.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/161/S161498.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161503.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161474.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161488.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161508.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
