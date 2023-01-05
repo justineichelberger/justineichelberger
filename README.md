@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:18 on 5 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:25 on 5 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in North Pole (AK) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>It was dark and we noticed six circular lights in a triangular formation pretty high up in the sky moving pretty slow from the south west towards the north east.  It took about 5 minutes for it to disappear. there was also no sound what so ever.  after the  first one disappeared a second UFO with the exact same characterizations appeared from the south west moving towards the north east.there is an air force base about 15 miles south west and an army airfield about 20 miles north west from our location. but the object was just to high and traveling from and to the wrong direction. even if it was a military Aircraft, its nothing I've ever seen before.  it couldn't have been a b-2 stealth bomber which have previously been flying above my house in the summer because they are loud as hell and didnt have that rounded boomerang shape. and and it wasn't a regular airplane because it didn't have the red blinking light. and fighter jets which fly over my house all the time are just to fast to fly like that((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86750.html](http://www.nuforc.org/webreports/reports/086/S86750.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Compton () reported seeing craft that fit the description of some 'Diamond' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>12 diamond shaped black craft in the sky.I was standing on my back porch with my family, all 30 of us, along with 6 neighbors who were at our home for a small get together. As I stood on my porch I noticed a diamond shaped craft fly over the sky. My entire family noticed them then. They were definately diamond shaped, probably 30m in length. They seemed to be black but the color kept changing tint, from dark black to light black to a more metallic black etc. We counted a total of 12 of these craft, and they continued flying in the air where we could clearly see them for at least an hour. It was amazing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61256.html](http://www.nuforc.org/webreports/reports/061/S61256.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/161/S161498.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161503.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161474.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161488.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161508.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
