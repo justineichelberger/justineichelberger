@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:26 on 5 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:27 on 5 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Overland Park (KS) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange/Amber fireball that periodically "flares up"I was walking out to my car when I saw what appeared to be a giant, orange/amber star pulsing on-and-off, low on the eastern horizon. It actually seemed to flare up, like a huge fireball, and then dim out again, over and over. I would say that each time it flared up, it was about the size of one of the street lights across the streets. After about 30 seconds it dimmed into what appeared to be a small, stationary star. It was flickering between a white and orangish color at this time. After another minute or two, it slowly started moving northward and became completely white in color. I noticed lights blinking on it at an extremely rapid pace (like a police car) that were red, blue, and green in appearance. I soon lost track of it. As I was leaving the parking lot, I noticed what appeared to be four low-flying planes flying around the area where I had seen it pulsing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34315.html](http://www.nuforc.org/webreports/reports/034/S34315.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Douglas (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Walking out to the peir on Oval beach north.Its about 8/10 a mile from the parking lot to the peir.  Full moon very clear.  The big dipper was due north and the ladel was down.  Looking up about half down the beach saw what looked like the star only bigger than any star i've seen.  It was north of the moon and south of the dipper.  It was very bright even more than the moon.  I kept walking and until I heard a fant buzzing noise.  I looked back up at the star and what looked like a pin light came out of the star.   It was going back forth with quick speed.  It was headed south and crossed the moon 3 or four times.  As it was heading south.  I looked back toward the star and it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54675.html](http://www.nuforc.org/webreports/reports/054/S54675.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/161/S161498.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161503.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161474.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161488.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161508.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
