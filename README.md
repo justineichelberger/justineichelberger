@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:32 on 4 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:38 on 5 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in San Isidro (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 75.0 - 75.0 minutes.</sub><blockquote><sub>The oval shaped objects number 12 and they moved in the sky for well over an hour.As I opened the gate to the ranch we noticed a light in a oval shape moving across the clear sky at an extremely fast rate. We proceded to our deer blinds and while there continued to see a lot of activity. These objects kept moving and follwing each other, at 6:10am we noticed that one of them had come down enough to where we could see that it had many color almost chrome like. The sunrise came up and we were unable to the the activity anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26938.html](http://www.nuforc.org/webreports/reports/026/S26938.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Fountain Valley (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>cluster of glowing ufos in formation over Fountain valley at 5:45 PM Jan 5 2013I and my wife took pictures and video from our cell phones they appeared over the schools first credit union in fountain valley calif near brookhurst ave and ellis looks like they were coming from the direction of the ocean near huntington beach calif they were circular and looked almost like they were on fire but they were not they were glowing with a redish orange glow with a yellow center and floating upward, at first I wondered if we were witnessing a missle launch but their were no trails behind them and they were quite , moving on what appeared the same general direction.  Their were many of them probably over sixty in all , they came up in waves of about twenty at a time they continued upward and then changed to complete red when they were high up and then they took off real fast upward and vanished   I will send you what i was able to capture on my cell phones</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95832.html](http://www.nuforc.org/webreports/reports/095/S95832.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/161/S161471.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161473.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161462.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161475.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161457.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
