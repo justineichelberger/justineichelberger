@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:25 on 5 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:40 on 5 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Compton () reported seeing craft that fit the description of some 'Diamond' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>12 diamond shaped black craft in the sky.I was standing on my back porch with my family, all 30 of us, along with 6 neighbors who were at our home for a small get together. As I stood on my porch I noticed a diamond shaped craft fly over the sky. My entire family noticed them then. They were definately diamond shaped, probably 30m in length. They seemed to be black but the color kept changing tint, from dark black to light black to a more metallic black etc. We counted a total of 12 of these craft, and they continued flying in the air where we could clearly see them for at least an hour. It was amazing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61256.html](http://www.nuforc.org/webreports/reports/061/S61256.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in  () reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>I just submitted a report about an hour or so ago, and I decided to leaf through posted material on your page, specifically listings in Arizona featuring red/orange lights in the sky, and I'm shocked. The very things I saw with my two friends just two nights ago have had amazingly similar sightings posted on this page for months if not years, and I can't understand why there are still no answers. It shouldn't have to come from private ufo investigators, either. Either the government is involved or at the very least aware; and damn it I want answers. A car with 3 kids of college jr/sr age, all born and raised in an affluent suburb in upstate NY, attending highly ranked 4 year institutions... (and extreemly sober, might I add) felt helpless, scared and shocked by what they viewed in the dusk hours off of some stupid highway in the desert, like a bad sci fi movie. These people reporting stuff from thier trailers in the desert were just funny steriotypes to us; characters in movies. But instead we found ourselves in thier shoes- out alone with the wide open sky making you feel good about life, untill suddenly a "what the hell is that" gets blurted out, redirecting the focus of the evening drive. Although I have been a 'legal' adult for some time now, I worried at first that  my age would affect my credibility... until I read those other earlier reports. Now I'm just mad. I'm still conditioned to think that we are a great, powerful and fair country; concerned for it's citizens because we are benevolent in nature. Why hasn't the governmnet 1. investigated this or 2. released a statement/issued a security warning/expose a hoax that is obviosly being noticed by and making more than several people feel uncomfortable. For every extreemly random person such as myself that viewed an incident and happened to fall upon your web page, there must be at least 10 more who eiter tried to dismiss what they saw or do not have access to or knowledge of the existence of this forum. I am freaked out with a capitol F.  ((initals deleted))((NUFORC Note:  We suspect that many of the unexplained lights seen over Arizona, and elsewhere in the U. S., probably have prosaic answers as to what they are caused by.  In the case of Arizona, SOME of the lights may be artificial illumination used during military exercises.  Some of the events, we believe,  may be the result of sightings of genuine UFO's.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34330.html](http://www.nuforc.org/webreports/reports/034/S34330.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/161/S161498.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161503.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161474.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161488.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161508.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
