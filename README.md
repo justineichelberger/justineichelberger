@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:22 on 5 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:50 on 5 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Conyers (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Object seen flying over interstate, increasing in brightness, then vanishing into thin air.Object seen under the moon flying from north to south towards the observers over interstate.It was moving quickly and growing in size.  It seemed to turn in a slight half circle then briefly appeared to increase in size and intensity of brightness for roughly 3 seconds.  The object then vanished into thin air.Planes could be seen in the same field of vision but were not similar in aircraft lighting.  Clouds and air conditions did not play a factor in visibility.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116508.html](http://www.nuforc.org/webreports/reports/116/S116508.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Wytheville (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>low flying object with alot of lights.We were driving on route 52 when my girlfriend looked up and saw something flying really low, like low enough to hit a tall tree, we thought it may have been a plane but there were so many lights that were different colors and it was going slow, it looked like a jet but it was going to slow, i was driving so i couldnt stop to really look at it or get a picture.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86364.html](http://www.nuforc.org/webreports/reports/086/S86364.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/161/S161498.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161503.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161474.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161488.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161508.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
