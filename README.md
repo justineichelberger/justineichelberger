@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:34 on 5 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:27 on 5 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Mexico (offshore waters) () reported seeing craft that fit the description of some 'Light' over a period of approximately 3.5 - 3.5 minutes.</sub><blockquote><sub>1 White Light that Looked Like Moving Star. 2nd White Light Same but disappeared a few seconds later.January 5th 2012   05:53 AM Position 24* 08.65 N, 095* 40.59 W   Offshore Mexico  I looked at the Stars, Familiar with the Night Sky.I saw what looked just like a Star. My First thought was it's an Airplane. I seen many Airplanes in the Sky before sometimes you can't tell it is an Airplane until you look at it with Binoculars then you see the Blinking Strobe Red and Green Light.Anyway I thought it might be a meteorite, not a meteorite.I watched it through the Binoculars for about 2 Minutes in this time frame it was Straight Overhead. There were no clouds above but there was one on the Horizon. the Object went across the Sky and Disappeared beyond the Clouds at the Horizon.The Object was Overhead and was Moving 130* SE Direction the whole time.Immediately after at 05:55 AM I saw another Light in the Sky. It was Almost Overhead just Slightly in front of me. I Looked at it with Binoculars Saw only 1 Bright Light, no Strobe Red or Green lights either. I watched it Travel in the Opposite Direction about 310* NW Direction. There were no Clouds Overhead only on the Horizon.This Object appeared to be moving Faster in the Sky than the 1st Object.I only Say this Object for about 15 Seconds, then the Object Disappeared into thin air. I kept watching for the Object to reappear but it did not.I don't know what either of these Objects were but I cannot say they were Airplanes, Helicopters but they were UFO's by Definition "Unidentified Flying Objects"((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86499.html](http://www.nuforc.org/webreports/reports/086/S86499.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Caseyville (IL) reported seeing craft that fit the description of some 'Other' over a period of approximately 1:00-02:00- - 1:00-02:00- minutes.</sub><blockquote><sub>high altitude glitering streak-too red orange 40' high ball lookig like jap riseing son of ww2,tree high .In lieu of story told on Art Bell show, 10 February 2000, sighting near Bellevlle and Fairview Heights, Illnois, and previously sightings around Cahokia Mounds and Granite City are suspect to be related to earlier civizilations that inhabted these areas. Personal sighting experienced by myself and frend occurred directly over these historic "mound" inhabitants.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11983.html](http://www.nuforc.org/webreports/reports/011/S11983.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/161/S161498.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161503.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161474.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161488.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161508.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
