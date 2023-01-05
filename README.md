@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:23 on 5 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:38 on 5 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Seattle (North) (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>single very bright light green colored fireball traverses 40 degrees of the sky on south, downward-slanted trajectory, moved quite fast, but slower than meteors.  Unusual shade of green.  Object below fairly high broken overcast.At 0631 Hrs PST today, as I was traveling south on I-5 (in the Shoreline area), I observed a single very bright light green colored object traverse about 40 degrees of the sky.  The object  became visible to me as it came out from behind the roof of my car and hence became visible through the windshield.  It was traveling southward at what appeared to be a straight, downward course.  A rough estimate would be 20-30 deg below the horizontal. This clear very bight object moved quite fast, but slower than meteors I've observed in the past.  neither have I seen anything quite this shade of green, although I have seen green fireballs or meteors before.  A fairly high broken overcast was made obvious by the Moon, and I believe this green object to have been below that overcast.  I did observe the normal air traffic in the sky such as airliners approaching Sea-Tac and traffic helicopter, etc.  These all were below the overcast.  When the green light from the object went out, it went out as often described: "like a lightbulb being turned off." The things that distinguish this sighting in my mind are the clarity and exceptional brightness of the light from this object, the fact that it did not appear as a 'streak' as other meteors I have seen did, but appeared as a clear, very bright object  (no discernable diameter), and that it seemingly was quite close tot he ground, - a couple of thousand feet at the most I would guess, (based on the cloud cover) and the sense was that it was quite lower than that.  And that it did not "smear" in my vision, but remained a clear single source of light with no trail, and that it moved at a speed that I preceived to be faster than aircraft, but slower than other meteors I've observed. While I expect that what I saw was a meteor, and believe what I saw to be within the normal range of behaviors for such objects, it was nonetheless an unusual sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07663.html](http://www.nuforc.org/webreports/reports/007/S07663.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Compton () reported seeing craft that fit the description of some 'Diamond' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>12 diamond shaped black craft in the sky.I was standing on my back porch with my family, all 30 of us, along with 6 neighbors who were at our home for a small get together. As I stood on my porch I noticed a diamond shaped craft fly over the sky. My entire family noticed them then. They were definately diamond shaped, probably 30m in length. They seemed to be black but the color kept changing tint, from dark black to light black to a more metallic black etc. We counted a total of 12 of these craft, and they continued flying in the air where we could clearly see them for at least an hour. It was amazing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61256.html](http://www.nuforc.org/webreports/reports/061/S61256.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/161/S161498.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161503.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161474.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161488.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161508.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
