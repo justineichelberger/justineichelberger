@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:38 on 5 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:41 on 5 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Compton () reported seeing craft that fit the description of some 'Diamond' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>12 diamond shaped black craft in the sky.I was standing on my back porch with my family, all 30 of us, along with 6 neighbors who were at our home for a small get together. As I stood on my porch I noticed a diamond shaped craft fly over the sky. My entire family noticed them then. They were definately diamond shaped, probably 30m in length. They seemed to be black but the color kept changing tint, from dark black to light black to a more metallic black etc. We counted a total of 12 of these craft, and they continued flying in the air where we could clearly see them for at least an hour. It was amazing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61256.html](http://www.nuforc.org/webreports/reports/061/S61256.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Poway (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Two bright objects floating in the sky, all of the sudden dim and fly away.At around 9:30 p.m. me and my girlfriend were in a parking lot at a local park just sitting and up in the sky I saw a bright, yellow light. At first I thought it was a really bright star or maybe a planet and I commented on how bright it was because barely any other stars were visible. About 15 minutes later another one of these 'stars' that looked exactly the same appeared above and to the right of the first object, at about a 45 degree angle from it. Now, we thought it was really weird and after about 5 minutes of both of the objects staying in place the second object started to dim and all of the sudden flew to the left and shortly after the first object did the same. It dimmed and flew to the left. We watched them until they disappeared behind some trees. I know it couldn't be a helicoptor or plane because the lights stayed motionless for so long and the glowing of them looked like stars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48633.html](http://www.nuforc.org/webreports/reports/048/S48633.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/161/S161498.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161503.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161474.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161488.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161508.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
