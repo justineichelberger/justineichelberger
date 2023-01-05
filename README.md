@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:27 on 5 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:31 on 5 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Douglas (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Walking out to the peir on Oval beach north.Its about 8/10 a mile from the parking lot to the peir.  Full moon very clear.  The big dipper was due north and the ladel was down.  Looking up about half down the beach saw what looked like the star only bigger than any star i've seen.  It was north of the moon and south of the dipper.  It was very bright even more than the moon.  I kept walking and until I heard a fant buzzing noise.  I looked back up at the star and what looked like a pin light came out of the star.   It was going back forth with quick speed.  It was headed south and crossed the moon 3 or four times.  As it was heading south.  I looked back toward the star and it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54675.html](http://www.nuforc.org/webreports/reports/054/S54675.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Single hat shaped disk sighted at 8:40 a.m. for 15 seconds in sky towards the eastI was riding on the Utica Avenue #46 bus at 8:40 a.m. when the bus stopped at Church avenue as the light turned red.  I was looking out the window at the sky towards the west when I saw a silver disk hovering stationary in the sky and reflecting the morning sun.  It didn't move or wobble at any time but just hovered in one spot.  It was very high up, I would guess above 10,000 feet or more because there were passenger jets above it to the left and right (southwest & northwest).  It looked like it was part of the sky.  It was hovering without any movement in the same spot.  After watching it for about 15 seconds as it hovered, and without looking away, it disappeared.  Just like that.  It was no where to be seen.  It looked about the size of an air rifle pellet held at arms length.  The reflection on its surface from the morning sun made it stand out against the white clouds behind it.  (I've seen jets at night approaching and facing me that look like one big light head on, until they turn into their landing pattern and you see the landing lights).  Again this sighting was at 8:40 a.m. in the morning with the back drop of the sky full of white clouds and other air traffic in the vicinity.  It resembled the Mexico city OVNI's and looked sort of hat shaped.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21765.html](http://www.nuforc.org/webreports/reports/021/S21765.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/161/S161498.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161503.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161474.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161488.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161508.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
