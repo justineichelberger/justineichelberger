@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:28 on 6 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:30 on 6 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Bellingham (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Triangle of glowing lights, what initially looked like a plane started heading over the Western arboretum, then slowed down and hovered, before again heading north. background:  a skeptical scientist interested in psychedelics and the human over-soul((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132080.html](http://www.nuforc.org/webreports/reports/132/S132080.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Hubertus (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>On my deck pre-dawn (dark) 6am 1/6/2016 observed planet-sized bright light quickly moving overhead and out of line of sight (house)At 6:00am Wednesday, Jan 6, 2016, I observed what I thought to be a planet (perhaps Venus) it was very large and very bright in the pre-dawn (dark) sky.  After gazing at it for a moment or two (it was stationary), it began to move quickly in a north-easterly direction; I stood on my deck and watched as it move directly overhead and then out of my line of sight (over my rooftop)  It very large, the size of a planet.  I thought I'd seen the ISS perhaps catching the pre-dawn sun to the east.  I've since checked the location of the ISS on that date and time in the ISS visibility chart for my area - it was not listed as visible for my area at that time.It was not a regular communication satellite (even one visible with Iridium flare as I have seen this often) as this was 100 times larger; again, it appeared to be planet-sized to my observation.I am a 55-year old woman with a BS degree and a three-year graduate degree.  I am employed full-time and of sound mind.  I frequently look to the skies as many people do and I am not known for over-reacting or making any odd claims.  This is the first report I have ever completed, though not my first strange experience when observing the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125147.html](http://www.nuforc.org/webreports/reports/125/S125147.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
