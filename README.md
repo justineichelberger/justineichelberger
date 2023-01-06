@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:32 on 6 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:40 on 6 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Unusual silent, orange glowing light stopping changing direction and discharging sudstance.At close to 1:00 am on jan.6 2010 I saw a bright glowing orange light to the west as I pulled up to my house near mission bay in sandiego, CA.  It was traveling south south east through and past orion not in a straight line.It wasn't a point of light, more of a large glow making no sound.It stopped, stayed stationary for a moment and started moving north.At this point I sprinted inside and awoke a family member.We rushed outside and It was still there moving north.It sudenly discharged a glowing orange substance with a trail of sparks toward the ground.It did this three times changed brightness and vanished.It definetely wasn't a helicopter or airplane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74001.html](http://www.nuforc.org/webreports/reports/074/S74001.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Payette (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Flashing light moving erratically for sustained period of time.For the last two evenings and this morning, observed a point-source of light, strobing red/green/white rapidly.  Object exhibited random and fairly rapid motions in all directions around a central point.  Object approx. NW of Payette @ ~ 30 deg. inclination.  Object too far too discern any shape, even w/ binoculars.  Definite random motion in all planes observed by both myself and wife.((NUFORC Note:  We note that the report is not inconsistent with a "twinkling" star.  However, we do not know what the witnesses observed.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15794.html](http://www.nuforc.org/webreports/reports/015/S15794.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
