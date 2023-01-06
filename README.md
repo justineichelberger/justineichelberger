@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:40 on 6 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:38 on 6 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Payette (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Flashing light moving erratically for sustained period of time.For the last two evenings and this morning, observed a point-source of light, strobing red/green/white rapidly.  Object exhibited random and fairly rapid motions in all directions around a central point.  Object approx. NW of Payette @ ~ 30 deg. inclination.  Object too far too discern any shape, even w/ binoculars.  Definite random motion in all planes observed by both myself and wife.((NUFORC Note:  We note that the report is not inconsistent with a "twinkling" star.  However, we do not know what the witnesses observed.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15794.html](http://www.nuforc.org/webreports/reports/015/S15794.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Germania (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>UFO lands in Pa. Slowly tipping side to side manuvers under power lines & around a pine tree & gone.I went to the bathroom at 3:00hrs. My shades were open.I only have a few steps to the bathroom. I saw nothing at either window at this time.My husband was sleeping soundly.Sky was clear with bright stars.I sat on the edge of the bed & saw lights in my field.It was very cold -0?? 2-4ft snow drifts with 6" ice crust on top.Snow was shinny.I got off the bed found my glasses on the dresser. I am now frozen in place as I have my nose pressed against the window. I didn't want it to know I was watching it. I didn't awake my husband as he would of turned on the light.It is now moving tipping side to side. It moves about a ft. off the ground under the power lines which I didn't see just the pole against the snow. It started to turn to the left as if it had feelers to go around a pine tree. it aligned it self turned to the left & started to rise higher like 6ft. I could see the top of the tree. It was half the size of the pine tree high. I move to the right of my window to get a better look as it is moving now into a patch of woods with higher Maple & Beech trees. It was going very slow. I wanted to reach around the corner to get my camera but no it might flash? I see now it is black in the middle with s triangle shape &  amber lights all around the craft. Amber as in a car? I blink my eyes & poof it is gone.Next day I told my husband & 2 neighbors. Within 2 days I hear of a UFO sighting in Texas. The lights were red & big as a football field.  To get the exact date would be 2 days before the Texas 2008 sightings. Larry King had the people on his show who saw them in Texas.I tried to put this out of mind & sight. But no longer as something was seen only 4mi. from here a few wks. ago. 3 people saw it. I tried to email to fox news I doubt it worked is why I am typing this now. I feel something is going on up here in Gods Country  of Potter County,Pa. Thanks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66987.html](http://www.nuforc.org/webreports/reports/066/S66987.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
