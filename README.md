@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:27 on 6 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:32 on 6 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Dracut (MA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Several minutes - Several minutes minutes.</sub><blockquote><sub>Two lights (from ground 6-7 inches apart), making me assume object was large and low. Could only see the lights not the object.  Light at rear was brighter than light in front.  Both moving in synch as on one object.  Moved slowly and silently across sky from West to  east overhead over several minutes.  In distance was plane with three lights, one red, appearing very tiny (centremeter in size from ground view) travelled north, but could definitely tell and hear that, that was a plane.  I have no idea what first object was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152502.html](http://www.nuforc.org/webreports/reports/152/S152502.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Unusual silent, orange glowing light stopping changing direction and discharging sudstance.At close to 1:00 am on jan.6 2010 I saw a bright glowing orange light to the west as I pulled up to my house near mission bay in sandiego, CA.  It was traveling south south east through and past orion not in a straight line.It wasn't a point of light, more of a large glow making no sound.It stopped, stayed stationary for a moment and started moving north.At this point I sprinted inside and awoke a family member.We rushed outside and It was still there moving north.It sudenly discharged a glowing orange substance with a trail of sparks toward the ground.It did this three times changed brightness and vanished.It definetely wasn't a helicopter or airplane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74001.html](http://www.nuforc.org/webreports/reports/074/S74001.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
