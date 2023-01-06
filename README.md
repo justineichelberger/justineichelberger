@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:24 on 6 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:28 on 6 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>2 diamond shaped craft, each with 6 glowing red "lights" on the bottom of the craft were viewed for approx. 20 secondsThe two caft were diamnod shaped and were flying in a northwesterly direction toward the ocen. They appearred to have six red lights or red glowing power sources on the bottom of the craft. Initially they flew in a horizontal pattern with the red glowing portion parallel to the ground similar to what one would see with a military aircraft with afterburners on. The craft then stopped abruptly and turned 90 degrees so the the "afterburners" were facing downward toward the ground. The craft were lost from view when the went behind a hill.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15827.html](http://www.nuforc.org/webreports/reports/015/S15827.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Bellingham (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Triangle of glowing lights, what initially looked like a plane started heading over the Western arboretum, then slowed down and hovered, before again heading north. background:  a skeptical scientist interested in psychedelics and the human over-soul((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132080.html](http://www.nuforc.org/webreports/reports/132/S132080.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
