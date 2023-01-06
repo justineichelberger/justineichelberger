@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:29 on 6 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:22 on 6 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Iowa City (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Triangular aircraft with white and red lightsI am a full-time college student and a nanny.  I was driving home from work when something caught my attention.  I saw a triangular aircraft slowly flying very low to the ground and appeared to be just above the tree line.  The aircraft appeared to be dark in color and triangular shaped.  The aircraft was decorated with a lot of white lights and a few red lights.  I turned the corner and when I looked back I could no longer see the aircraft.  This aircraft was definitely not an airplane or helicopter.  I have never seen anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79562.html](http://www.nuforc.org/webreports/reports/079/S79562.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Rancho Cucamonga (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 23.0 - 23.0 minutes.</sub><blockquote><sub>Two star like bright lights moving in oppostie directions and one changing directions in the clear morning skies of  Rancho CucamongaAt around 10:15 am on Tuesday Jan 6th 2009, my two year old daughter said look Mom it’s an airplane and I looked up and saw the air plan.  Then I noticed a very bright light that looked like a star way above the air plan.  As I thought in my head, this cant be a star, it started to move slowly to the east. Then I saw another light or star blink on in the same path as the first one but it was moving towards the west.  I was blown away at what I was witnessing, There were no wings or any airplane or helicopter features and no sound coming from the lights.  The only way I can describe them is they looked like stars or very bright points of light. The one moving to the west suddenly disappeared.  The one moving to the east was still moving slowly and then just stopped.  It stayed still for a few minutes and then started to move to the west.  I kept my eye on it as it kept going to the west until I could no longer see it past the horizon.((NUFORC Note:  One of four sightings submitted recently by same witness.  We have spoken with the witness via telephone, and she sounds to us to be serious-minded and credible.  We do not know what she has witnessed.  The photos are blurry, and the object(s) she has captured with her camera are ambiguous, we believe.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67886.html](http://www.nuforc.org/webreports/reports/067/S67886.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
