@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:31 on 6 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:24 on 6 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Moab (UT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>2 fireball objects followed by U.S aircrafti was driving down to lake powell to get there by morning to go fishing when my friend said hey look at that i looked up to see two bright fireball shaped objects "dancing" in the northern sky then about 1 minute later I heard what sounded like fighters zooming past our position</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27068.html](http://www.nuforc.org/webreports/reports/027/S27068.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>2 diamond shaped craft, each with 6 glowing red "lights" on the bottom of the craft were viewed for approx. 20 secondsThe two caft were diamnod shaped and were flying in a northwesterly direction toward the ocen. They appearred to have six red lights or red glowing power sources on the bottom of the craft. Initially they flew in a horizontal pattern with the red glowing portion parallel to the ground similar to what one would see with a military aircraft with afterburners on. The craft then stopped abruptly and turned 90 degrees so the the "afterburners" were facing downward toward the ground. The craft were lost from view when the went behind a hill.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15827.html](http://www.nuforc.org/webreports/reports/015/S15827.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
