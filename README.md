@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:29 on 6 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:46 on 6 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lansdale (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Silver sphere following plane two occasions in 5 minutes, broad daylight, obviously a structure of sortI was driving to a local retailer in daylight hours.  Temperature outside was very cold. As we were driving down a local street, I looked up to notice many long un-dispersed trails from airplanes all heading in the same direction.  As I looked around, I noticed one plane flying directly ahead/overhead with leaving a "cloud" trail.  I watched for about 3 or 4 seconds when I noticed a sphere shape silver ball, at my guess from where I was, a football field or so trailing behind it, seemingly at the same speed as the plane.  The silver sphere was obviously tangible.  It was reflecting the sunlight as it was beginning to set and did not seem to be spinning, but could have just been the reflection off the sphere.  It followed the plane for a minute or two, this whole time, i am showing my brother who is driving. He pulled over and we watched it follow the plane for another minute or so as it goes off into a large cloud covering the horizon.  While looking arou! nd for anything else, I notice another plane coming from the same general direction as the last at a slightly different angle.  Once again, this plane was also leaving a cloud trail, and once again there was surely a silver sphere following the plane.  I kept thinking, don't these planes see these orbs??? they are so close to them!  Neither the silver orbs or the planes were blinking or showing any lights.  All objects were close enough to make direct shape and design out of.  So as this one goes off into the horizon also, the sphere NEVER blinking out of sight, surely a physical object, a fighter jet swoops in, no cloud trail, very fast, coming from more from the side of me, not the same exact direction as the previous planes.  This jet plane had an extremely bright yellowish white light beaming out of the bottom of it. Ive never seen a light this bright on a plane, a fighter plane.  The jet plane soars off into the horizon, the same location the other planes flew in.  I watched t! he skies for another 10 minutes, nothing. another plane flew by several minutes after the sightings, also giving off cloud trails, but no spheres were noticed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106159.html](http://www.nuforc.org/webreports/reports/106/S106159.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Rydal (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Low flying triangle over Valley Road in Rydal, PA.A low flying black triangular or V shaped craft emerged over the tree line at the intersection of Susquehanna and Rydal Roads moving eastward over the retirement facility. It continued over the intersection following Valley Road heading towards Philmont Avenue in Meadowbrook. The craft was about 50-75 feet in length and had two small yellow/white lights on the forward corner and two larger lights, one on each of the two rear corners. It did not exhibit any strobes, blinking or colored, lights. It appeared to be traveling at about 15 mph less than 100 feet above the tree line.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95865.html](http://www.nuforc.org/webreports/reports/095/S95865.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
