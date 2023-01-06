@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:27 on 5 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:40 on 6 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Milton (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1:30 m - 1:30 m minutes.</sub><blockquote><sub>I noticed a very bright light in the western sky at 5 AM, while taking in my morning paper.  At first, I thought it might be a star, but it moved, then disappeared behind the roof line of my neighbor's house, reappeared and continued on a south westerly to north easterly course.  It appeared to be about 2 miles high with very bright white lights in the front and three red lights in the rear and with other bright lights on the side.  It moved steadily, but was not in the normal air traffic pattern for the Boston area approach or departure.  I called the FAA in Nashua, N.H., to ask if they had any aircraft to report in the area at 5 AM and they said no.I noticed a very bright light in the western sky at 5 AM while taking in my morning paper.  At first, I thought it might be a star, but it moved, then disappeared behind the roof line of my neighbor's house, reappeared and continued on a south westerly to north easterly course.  It appeared to be about 2 miles high with very bright white lights in the front and three red lights in the rear and with other bright lights on the side.  It moved steadily, but was not in the normal air traffic pattern for the Boston area approach or departure.  I called the FAA in Nashua N.H., to ask if they had any aircraft to report in the area at 5 AM and they said no.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11769.html](http://www.nuforc.org/webreports/reports/011/S11769.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in St. George (UT) reported seeing craft that fit the description of some 'Other' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Lights followed by massive, round silhouette.On Friday, January 06, 2012, at approximately 5:10 pm, my brother, my two sons (14 &10), and I were moving a bed for my mom in Las Palmas (Green Valley Spa).  My 14 year old son looked up and noticed a bright light moving west to east over Utah Hill - just  to the west of Saint George.  It appeared to be an orange-colored landing light but its altitude was quite high.  At first I laughed because they often think airplane and jet lights are something out of the ordinary.  But then it stopped and stayed in one place for 30 seconds or so, then changed its direction of travel to east to west. It then stopped for maybe two seconds and changed directions again.  This time raising in altitude then vanishing completely.  Just a few seconds after that, another very dim object appeared and flew in an intersecting path from south to north, then vanished.  At this point in the evening the sun had just set below the mountains leaving the sky overhead dark, while the horizon was still bright with a nice sunset.We started to return to our task when my brother then saw a dark, almost translucent "ball" drop behind the mountain (Utah Hill to the direct west).  Three other people who were walking to their car stopped and watched.  I had missed that one, but only a few moments later, I saw the same thing dropping from the darker part of the sky into the horizon that was still orange with the last bit of sunlight.  It was a massive, round object that looked like a silhouette floating steadily but slowly downward.  We all watched it for approximately 45 seconds until it vanished behind the mountain-line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86422.html](http://www.nuforc.org/webreports/reports/086/S86422.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/161/S161498.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161503.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161474.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161488.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161508.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
