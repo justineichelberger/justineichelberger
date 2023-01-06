@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:40 on 6 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:20 on 6 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in St. George (UT) reported seeing craft that fit the description of some 'Other' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Lights followed by massive, round silhouette.On Friday, January 06, 2012, at approximately 5:10 pm, my brother, my two sons (14 &10), and I were moving a bed for my mom in Las Palmas (Green Valley Spa).  My 14 year old son looked up and noticed a bright light moving west to east over Utah Hill - just  to the west of Saint George.  It appeared to be an orange-colored landing light but its altitude was quite high.  At first I laughed because they often think airplane and jet lights are something out of the ordinary.  But then it stopped and stayed in one place for 30 seconds or so, then changed its direction of travel to east to west. It then stopped for maybe two seconds and changed directions again.  This time raising in altitude then vanishing completely.  Just a few seconds after that, another very dim object appeared and flew in an intersecting path from south to north, then vanished.  At this point in the evening the sun had just set below the mountains leaving the sky overhead dark, while the horizon was still bright with a nice sunset.We started to return to our task when my brother then saw a dark, almost translucent "ball" drop behind the mountain (Utah Hill to the direct west).  Three other people who were walking to their car stopped and watched.  I had missed that one, but only a few moments later, I saw the same thing dropping from the darker part of the sky into the horizon that was still orange with the last bit of sunlight.  It was a massive, round object that looked like a silhouette floating steadily but slowly downward.  We all watched it for approximately 45 seconds until it vanished behind the mountain-line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86422.html](http://www.nuforc.org/webreports/reports/086/S86422.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Sturbridge (MA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>It shot up into the sky and was gone in seconds.I'm a 17  year old kid with fairly ok grades and who is much more itelegent then they reflecf. I have always seen stuff through teloscopes, and i have always looked at the skys. I have always told people what they see if a airplane, or a planet or stars. But every once in a while i see something i can't explain. Like January 6 2007. I never said anything on this site because i just found it today. On this day in question i saw a flying object about afew hundred feet in the sky. It was round and seemed to be bigger then a plane, had red and purple lights, and it seemed to be giving or something because i got a headach looking at it. I watched it go back and froth in the sky(like it was looking for something) for 15-20minutes. I was amazed.  Finally after that time it shot up into the atospehere out of site in seconds. . . Explain that as a aircarft and I'll call you as liar because not even i could explain it.((NUFORC Note:  Student report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72311.html](http://www.nuforc.org/webreports/reports/072/S72311.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
