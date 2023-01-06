@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:34 on 6 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:22 on 6 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Sand Springs (OK) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>It was about 8:30 in the evening when I went to take my dog out to use the bathroom.  As she was doing her business, (I star gaze every night and am very aware of the stars/planes that are in my area) I noticed the skies were UNUSUALLY dark and couldn't make out a single star.  As I searched the sky for for any visible stars, I spotted an extremely bright light in the northeast, somewhat low in the horizon.  It seemed to change shapes (if that makes any sense) and blink erratically.  It was changing shape from a circle to a horizontal dumbbell-like shape and seemed to blink from yellow to a whitish like light.  At first I thought it was stationary, so I positioned myself near a tree so the branches would could be in the line of vision so I could gauge any movement. It seemed to slowly move to the east, and be at least a mile out, so I couldn't tell the size.  Then, after observing it for about 30 seconds, it just blinked out.  I walked to the backyard to see if I c! ould find it, but it was definitely gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138294.html](http://www.nuforc.org/webreports/reports/138/S138294.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Williamstown (Colling Lakes) (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>My husband smoked in our back yard, when he opened the back door and exitment in his voice said; hurry up come outside look. We saw first a big red star like thing traveled from west to east in the dark sky, then a minute later the second came cross in our back yard.  Turn our head to west and again saw two big red stars side by side buckled down closer to earth and to us.  No sound.   My husband mouth was open and i was hiding behind the grill.  We felt they were powerful and fearless or that is OK to come here. Unfortunaetly my phone  wasn't charged and we couldn't take a picture. Later saw the 5th. came and closed this cruise.  This event happened in January 6. 2012. 9:30pm-9:40pm. Next day i found out some guys saw the same as we did.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86441.html](http://www.nuforc.org/webreports/reports/086/S86441.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
