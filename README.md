@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:28 on 6 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:31 on 6 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Warm Beach (WA) reported seeing craft that fit the description of some '' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Two women returned home after an all-day photography session.  They observe a bright flash from across the street, which draws their attention.  They then witness what appears to be a "rope of light" with a ball of light attached to the bottom of it.  The ball of light appeared  orange yellow.  The "rope" blinked out, and the ball continued gliding SSE over the trees.  Photographed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00247.html](http://www.nuforc.org/webreports/reports/000/S00247.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Moab (UT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>2 fireball objects followed by U.S aircrafti was driving down to lake powell to get there by morning to go fishing when my friend said hey look at that i looked up to see two bright fireball shaped objects "dancing" in the northern sky then about 1 minute later I heard what sounded like fighters zooming past our position</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27068.html](http://www.nuforc.org/webreports/reports/027/S27068.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
