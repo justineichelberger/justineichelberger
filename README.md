@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:46 on 6 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:45 on 6 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Rydal (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Low flying triangle over Valley Road in Rydal, PA.A low flying black triangular or V shaped craft emerged over the tree line at the intersection of Susquehanna and Rydal Roads moving eastward over the retirement facility. It continued over the intersection following Valley Road heading towards Philmont Avenue in Meadowbrook. The craft was about 50-75 feet in length and had two small yellow/white lights on the forward corner and two larger lights, one on each of the two rear corners. It did not exhibit any strobes, blinking or colored, lights. It appeared to be traveling at about 15 mph less than 100 feet above the tree line.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95865.html](http://www.nuforc.org/webreports/reports/095/S95865.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Edinburg (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>A single strange redish-orange light in the sky.At 5:27 AM EST I went outside to start the car for my fiance whilst he was getting ready for work.  I looked up as I was unlocking the car and above the treeline to the southeast of my location I saw a reddish orange light in the sky.  It looked about the size of a golf ball from where I stood.  The light was a bit dimmed due to cloud cover.I watched it for about a minute, it appeared to go back and forth between wobbling and ascending and descending.  I went back in the house to grab my digital camera to attempt to take video but the cloud cover made it too dim to register on the camera.A bit after my fiance left I decided to go back out and try again to record it if it were still there.  This was at 6:02AM. It was still hovering in the sky around the same area as before but the clouds were still too thick to get a video of it.  When I went back out at 7:55 AM to take my son to the bus nothing appeared in that area.There is an army base about 6 miles from my home, they do not have aircraft there so I do not think it was from there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79555.html](http://www.nuforc.org/webreports/reports/079/S79555.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
