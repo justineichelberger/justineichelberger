@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:30 on 7 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:23 on 7 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in League City (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>It was bright line of light. You would think it was a shooting stat but it wasn’t moving just hovering. It was a large line that stayed in place for a long time. I took a video of it and it doesn’t do it justice but definitely noticeable. It was in between a cluster of stars so I know it was far and within the stars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152353.html](http://www.nuforc.org/webreports/reports/152/S152353.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Grand Rapids (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.21666666666666667 - 0.21666666666666667 minutes.</sub><blockquote><sub>Unusual craft flying and wobbling fast, and a big red trapezoid-like light.I was taking my dog outside to go to the bathroom, and was watching the night sky.  Seconds after I looked up, I saw this large craft hovering across the sky very quickly.  It wobbled slightly, and had red and white lights.  One of the red ones was large and had a sort of trapezoid shape.  Within seconds, the craft traveled from the east side of the sky to the west, and lowered itself very quicky.  Because there were homes and trees in the way, it vanished from my sight. Seconds later, a plane flew over.  I do not know if the plane had anything thing to do with the ufo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116547.html](http://www.nuforc.org/webreports/reports/116/S116547.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
