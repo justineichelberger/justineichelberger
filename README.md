@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:23 on 7 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:29 on 7 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Arlington (VA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Bright green light seen through cloudcover which lasted only a second or two, with no sound or sonic boom.I was runnning with my grilfriend a little after dark on a cloudy night. I looked up to notice a bright green light behind some low lying clouds. No noise and traveling at incredible rate of speed, I expected to hear a sonic boom. Looked as though it was a meteor entering the atmopshere, but too cloudy to absolutely tell. Heading south. Parrallel flight path to Reagan National airport. Dissapeared over horizon. I had forgotten the exact date and time, but I noticed other reports of green fireball seen through cloudcover in Richmond and Baltimore.((NUFORC Note:  Date is indicated as being approximate.  However, please see other reports from the east coast for this date.  We suspect the date is accurate  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24464.html](http://www.nuforc.org/webreports/reports/024/S24464.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Richmond (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>My coworker saw the blueish light too!!!I posted the previous description of the light seen on Midlothian Tnpk last night and found out today that my coworker (Alice W.)was telling the following story: She had left work and was at the light at Hull st and Hicks Rd and saw a fast moving blueish light higher than the treetops but lower than an airplane and much faster moving. She also saw what may have been a second stationary blueish light off to the right. Her description matched mine and I felt SO MUCH BETTER that someone else had seen the same thing. I called my husband immediately since he had been ribbing me about little green men. I don't know what it was but I know what I saw and now someone else saw it too!!!((NUFORC Note:  Please see other reports from the east coast for this date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21138.html](http://www.nuforc.org/webreports/reports/021/S21138.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
