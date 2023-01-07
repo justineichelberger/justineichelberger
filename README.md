@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:26 on 7 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:36 on 7 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Evansville (IN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Saw a white orb disappear and reappear possibly using a stealth technologyWas taking my dog outside as I normally do.  I was looking at the ground checking on the dog when I see a white orb flash and suddenly disappear.  I begin searching for the craft but I can’t see it.  Then it reappears in the distance.  This craft was blinking in and out of sight suggesting it was using some kind of stealth cloaking technology.  I see it go into the distance reappearing and disappearing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152429.html](http://www.nuforc.org/webreports/reports/152/S152429.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Prince Frederick (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Bright green light seen in sky for few seconds moving to the South in the southern maryland / chesepeake bay region.On Jan 7, 2002, approximately 5-10 minutes before 6pm EST that night, while driving home from work with my wife, I noticed out of my driver's side window (i.e., to the East), a bright green light that traveled, from my perspective, approximately North to South.  The light moved smoothly and in a manner similar to how I've seen a meteor travel through the sky.  It seemed like a point source, and had absolutely no trail whatsoever, ruling out, in my mind, it being a meteor.  The location of the light as it moved was to the east of my vantage point, and I would estimate it's location, based on where I was and where it was, as being perhaps somewhere over the mouth of the Chesapeake Bay.  I heard no sound, although I was in a moving car travelling approximately 55mph to the South.  It was of very short duration, visible for no more than a couple of seconds.  My wife was unable to see it from her location in the passenger seat.I know this entry is late, but I feel it's worthwhile to do so as I recently found this site, and when I checked its archives to see if there were any other reports of what I saw, I was very suprised (and relieved) to see many other sightings that clearly were of what I saw that night.((NUFORC Note:  Witness describes self as professional, with considerable technical experience.  We suspect he is an excellent witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26039.html](http://www.nuforc.org/webreports/reports/026/S26039.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
