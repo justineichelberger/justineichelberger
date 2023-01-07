@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:36 on 7 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:23 on 7 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Prince Frederick (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Bright green light seen in sky for few seconds moving to the South in the southern maryland / chesepeake bay region.On Jan 7, 2002, approximately 5-10 minutes before 6pm EST that night, while driving home from work with my wife, I noticed out of my driver's side window (i.e., to the East), a bright green light that traveled, from my perspective, approximately North to South.  The light moved smoothly and in a manner similar to how I've seen a meteor travel through the sky.  It seemed like a point source, and had absolutely no trail whatsoever, ruling out, in my mind, it being a meteor.  The location of the light as it moved was to the east of my vantage point, and I would estimate it's location, based on where I was and where it was, as being perhaps somewhere over the mouth of the Chesapeake Bay.  I heard no sound, although I was in a moving car travelling approximately 55mph to the South.  It was of very short duration, visible for no more than a couple of seconds.  My wife was unable to see it from her location in the passenger seat.I know this entry is late, but I feel it's worthwhile to do so as I recently found this site, and when I checked its archives to see if there were any other reports of what I saw, I was very suprised (and relieved) to see many other sightings that clearly were of what I saw that night.((NUFORC Note:  Witness describes self as professional, with considerable technical experience.  We suspect he is an excellent witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26039.html](http://www.nuforc.org/webreports/reports/026/S26039.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Arlington (VA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Bright green light seen through cloudcover which lasted only a second or two, with no sound or sonic boom.I was runnning with my grilfriend a little after dark on a cloudy night. I looked up to notice a bright green light behind some low lying clouds. No noise and traveling at incredible rate of speed, I expected to hear a sonic boom. Looked as though it was a meteor entering the atmopshere, but too cloudy to absolutely tell. Heading south. Parrallel flight path to Reagan National airport. Dissapeared over horizon. I had forgotten the exact date and time, but I noticed other reports of green fireball seen through cloudcover in Richmond and Baltimore.((NUFORC Note:  Date is indicated as being approximate.  However, please see other reports from the east coast for this date.  We suspect the date is accurate  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24464.html](http://www.nuforc.org/webreports/reports/024/S24464.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
