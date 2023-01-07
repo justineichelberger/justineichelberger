@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:21 on 7 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:24 on 7 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cayolargo del Sur Island (Cuba) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>I took a picture of a dome shaped metallic, semitransparent object with lights on its lower part.Once editing pictures taken I noticed UFO on one of them. UFO appeared in a form of dome or saucer, kind of metallic, but at the same time seemingly transparent upper part with some orange lights on the lower part. the whole object seems to emit light as it is well lit on the background of the dark skies.Pictures were taken just to test different camera applications, therefore at the time of taking them I was not paying much of an attention to the field of observation.Picture with UFO was taken on the island of Cayolargo del Sur, coordinates: latitude=21.59948, longitude=-81.519236, it was capturing sky above the small bay with hotel Pelicano (lights on the ground).I'm consultant working in the field of personal development, I was in Cuba with my girlfriend on vacation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96036.html](http://www.nuforc.org/webreports/reports/096/S96036.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Bellingham (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Moving, unblinking, fading from very bright to dull silvery-white light (about three times a planet's size)On my way to the school bus stop in the morning at about 7:00 AM, I looked up in the sky and saw a silvery-white moving light, almost like a moving planet, but a lot brighter. The size of the light was about three time that of a planet's viewed from earth (like Venus). The object faded from very bright intensity to dull (like how bright a star is) about 2-3 times as I watched it. It made no sound at all, so I doubt it was a helicopter, and there were no blinking lights, so I don't think it was an airplane. At first I thought it might be a satellite, but it was not traveling in a straight line. First, it was moving to the north-west, and as I watched it it changed direction and came towards me in an east direction. It continued at a steady speed, which was faster then an airplane could go, passed almost directly over me, and continued on in an easterly direction, until I couldn't see it anymore because a house blocked my view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60733.html](http://www.nuforc.org/webreports/reports/060/S60733.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
