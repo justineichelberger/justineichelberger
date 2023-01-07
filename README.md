@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:26 on 7 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:21 on 7 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in New Berlin (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Very large, bright white light seen raidly descending to the northwest.I was walking west at 8:10 ((sic.  p.m.) cst when I observed a very bright, round white light in the northwest sky rapidly descending from 30 degrees above the horizon to disappearing behind the horizon.  The white light was very much brighter than the many stars visible on this clear, crisp night.  The light was also very much brighter than an airplane passing by in the west sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132067.html](http://www.nuforc.org/webreports/reports/132/S132067.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Bristol (TN) reported seeing craft that fit the description of some '' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright White LightI was lying in my bed to be woken up by barking dogs and an intense, white light pulsating through my bedroom window. I lived in the mountains and there are no lights in that area. I was too terrified to look out the window, somehow I knew it was a UFO. I pulled the blanket over my head and apparently passed out. I wouldn't of remembered the light if it wasn't for a TV news report that 2 cops saw a UFO over State Street. When I heard that, the memory of the light came back and I was dumbfounded that I had forgotten and suprised I had fallen back asleep, espesially since I was so terrified. A couple nights later I dreamed that I had gotten out of bed that night and encountered 4 small, big-eyed, big-headed grey aliens in my kitchen. They transported me into a huge ship, and escorted me through a hall to an another alien who was much taller, but identical in appearance. I thought the tall one was going to take me into a door on the left, but instead he took me to a glass room at the top of the craft. I saw 2 tall, beautiful, angelic-looking entities, male and female, with long, blondish-white hair, wearing glowing white robes. I asked them what they were doing here on earth. They said they were from a dying planet and took me there. I saw a dark, ancient city at the foot of a huge, craggy mountain, and realized it was built with technology unknown on earth. They explained that earth will one day be their home, and to accomplish this they have to mix their dna with ours in an attempt to fully adapt to earth's environment. The man told me that "they are us and we are them." I asked the entities if there was a God. The answer was Yes. I asked them if they knew who God was and if they were connected to God. They answered that they didn't know everything about God, but that they did know more about God than humans did and they could teach us about God and other marvelous things. Then I was asked if I wanted to stay with them or go back. By this time I'am prostrate on the floor with fear, and an! swered t hat I wanted to go back to what I know and to be with those I love, that I'am not ready to handle the reality they have shown me. Since this event I have spoken with 3 other people who saw a UFO that night and also heard the report about the 2 cops who saw the UFO, too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53132.html](http://www.nuforc.org/webreports/reports/053/S53132.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
