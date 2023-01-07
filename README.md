@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:34 on 7 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:25 on 7 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Parrish (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Redish Orange light floating over Parrish FL. Changes from Orange to Grey and floats in one spot.I was driving West on Golf Course Road, close to Fort Hammer Road in Parrish FL when I saw an Orange/ Red light right in front of me.  At first, it looked like a Planet like Mars, but then I noticed that it was way too big to be a planet. I would say it was about a 5th the size of the moon. As I drove closer, I could see the stars behind it moving at a different speed. This is when I realized that this object was probably only a couple hundred feet above ground. It seemed to stay in one place, then it's glow went away, and it was just a dark grey color. I stopped my car and kept my eye on it. I opened my sunroof to watch it more closely. It slowly flew right over me, but I could barely see it. I couldn't hear any engines or propellers, but my car was running still.  I was watching the constellations for a reference to it's speed and hight, and it went right in front of a star, so I knew it was there. I lost track of it and drove off. My wife was driving in he! r own car 2 minutes behind me. I called her and told her to look, as we were both driving home. She saw it too, and it turned Redish Orange again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86410.html](http://www.nuforc.org/webreports/reports/086/S86410.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>hypersonic arcraft entering Nevada Test Site airspaceOn friday January 7 at about 4:20 I was in my back yard about 1 mile south of Nellis AFB.  When I saw a bright object ascending rapidly towards the Nevada Test Site, it looked like a rocket being lanched, except it was going straight down.  It next made a vertical allignment and started to slow down and head north to the Nevada Test Site.  The cloud it left behind was very dark and it was thick.  The cloud stayed in the sky for over an hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11625.html](http://www.nuforc.org/webreports/reports/011/S11625.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
