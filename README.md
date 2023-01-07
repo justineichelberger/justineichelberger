@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:39 on 7 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:19:44 on 7 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Miamisburg (OH) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>QUIET, LIGHTED, TRIANGULAR SHAPED OBJECTMY HUSBAND AND I WERE RETURNING FROM THE GAS STATION.  WE WERE ON A RESIDENTIAL STREET WHEN I SAW AN OBJECT IN THE SKY AND MENTIONED IT TO MY HUSBAND.  I PULLED OVER TO THE SIDE OF THE ROAD AND STOPPED.  I OBSERVED A TRIANGULAR SHAPED OBJECT WITH LIGHTS IN EACH CORNER OF THE TRIANGLE.  IN THE CENTER OF THE OBJECT WAS ANOTHER LIGHT AND FROM THIS MIDDLE, IT APPEARED TO BE DROPPING ANOTHER BALL OF LIGHT.  THIS OBJECT APPEARED TO BE HOVERING VERY LOW AND MADE NO NOISE THAT COULD BE HEARD OVER NORMAL STREET NOISE.  THE OBJECT WAS VISIBLE FOR APPROXIMATELY THREE MINUTES AND THEN VANISHED.  IT APPEARED TO BE GRAYISH IN COLOR. MY HUSBAND IS NOW TYPING HIS OBSERVATION.  I ALSO OBSERVED THE TRIANGULAR OBJECT WHEN MY WIFE PARKED THE VEHICLE.  TO ME IT APPEARED NOT BE A PERFECT TRIANGLE.  THE "SIDES" APPEARED LONGER THAN THE "FRONT TO BACK".  I AM BASING THIS ON THE LOCATION OF THE LIGHTS.  TO ME THE LIGHTS ON EACH CORNER APPEARED TO BE ARRANGED IN A RECTANGLE FASHION.  THE MIDDLE LIGHT WAS ROUND.  COMBINED THESE LIGHTS WERE BRIGHT WHICH MADE THE EXACT SHAPE AND COLOR DIFFICULT FOR ME TO DISTINGUISH.  I WOULD ESTIMATE THE COLOR TO BE DIRTY GREY TO BLACK.  THE OBJECT APPEARED LOW TO THE GROUND, QUIET - NO EXPECTED AIRCRAFT SOUNDS - AND SOMEWHAT STATIONERY.  TO ME, THE OBJECT APPEARED TO BE "BANKING" CAUSING IT TO DISAPPEAR AND REAPPEARED.  I BASE THIS ON THE MOVEMENT OF THE LIGHTS ON THE "SIDES".  I OBSERVED THE OBJECT FOR ALMOST THREE MINUTES.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49084.html](http://www.nuforc.org/webreports/reports/049/S49084.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Warminster (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Ufo chased by military over Warminster PaMy roommate and I heard a low flying plane. It was very loud and echoing off the buildings in our complex, As we looked to the sky to observe, a few seconds later appeared a dark shape with 3 green lights. It came into view from the west and went out of view to the East. Flying very fast behind it was what appeared to be military planes. For over an hour after this first sight we counted 18 military planes coming through in the same direction, only much higher in the sky as time went on. The objects shape is unclear. It looked like a boomerang type shape with three solid green lights. The object was very clearly larger and longer than the plane that followed behind it. And it was very silent with no noise that we could hear. The military plane however was very loud. It was flying very low and clearly being chased. 10 minutes after the sighting our power flickered multiple times before going out completely due to “undetermined causes”. It was not restored til! l 03:03 am. Whether the power going out was simply coincidence or not, is undetermined.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161537.html](http://www.nuforc.org/webreports/reports/161/S161537.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
