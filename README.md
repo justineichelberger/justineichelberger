@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:25 on 7 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:24 on 7 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>hypersonic arcraft entering Nevada Test Site airspaceOn friday January 7 at about 4:20 I was in my back yard about 1 mile south of Nellis AFB.  When I saw a bright object ascending rapidly towards the Nevada Test Site, it looked like a rocket being lanched, except it was going straight down.  It next made a vertical allignment and started to slow down and head north to the Nevada Test Site.  The cloud it left behind was very dark and it was thick.  The cloud stayed in the sky for over an hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11625.html](http://www.nuforc.org/webreports/reports/011/S11625.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1982, an anonymous witness in London (UK/England) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>SPHERICAL UFO sighted 20 METERS away IN BROAD DAYLIGHT for 15 minIt was the beginning of July in 1982, a clear bright summers day in Wembley (London, England) without a trace of cloud in the sky, and my brother and I, aged 10 and 7 respectively, were playing in our bedroom (The front bedroom on the 1st floor of your usual 3-Bed semi) when I noticed a dull metallic sphere hovering above the fir tree of our neighbours across the road (approx 20 meters away). I called my brother over to the window to have a look as I couldn't believe my eyes; even at that age I could tell it was a UFO immediately. We had a very clear view with no restrictions in the way so my brother was able to confirm what I saw. The object was completely spherical and approx 1m in diameter (without any creases, bumps, folds, depressions or protrusions) and had no lights, emissions, or sounds coming from it, it was completely seamless. It was a non-reflective dull metal colour which remained constant throughout the experience. We watched the object from our bedroom window for approx 15 mins; it was motionless and remained hovering over the fir tree (approx 1m above it) without touching it or anything else for the whole time. We watched it for so long, I guess we were hoping it might move, but it didn't. We then decided to go out and see it, so we rushed out the bedroom down the stairs and out the front door, which must have taken 5-7 seconds as I remember running as fast as I could. As soon as I opened the door I could see the fir tree and the sphere was gone. To this day its one of the most vivid things I can remember, which can be best described as a "Seamless Non-reflective giant ball bearing 1 meter in diameter" hovering for 15mins. I don’t know if anyone else has seen anything similar but I know what I saw and it was definitely a UFO and probably of alien origin???????((NUFORC Note:  Date in July 1982 is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29506.html](http://www.nuforc.org/webreports/reports/029/S29506.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
