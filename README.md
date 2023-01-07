@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:53 on 7 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:39 on 7 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Greenville (SC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Object appeared to fall straight down through overcast skies, growing brighter green before falling out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125154.html](http://www.nuforc.org/webreports/reports/125/S125154.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Miamisburg (OH) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>QUIET, LIGHTED, TRIANGULAR SHAPED OBJECTMY HUSBAND AND I WERE RETURNING FROM THE GAS STATION.  WE WERE ON A RESIDENTIAL STREET WHEN I SAW AN OBJECT IN THE SKY AND MENTIONED IT TO MY HUSBAND.  I PULLED OVER TO THE SIDE OF THE ROAD AND STOPPED.  I OBSERVED A TRIANGULAR SHAPED OBJECT WITH LIGHTS IN EACH CORNER OF THE TRIANGLE.  IN THE CENTER OF THE OBJECT WAS ANOTHER LIGHT AND FROM THIS MIDDLE, IT APPEARED TO BE DROPPING ANOTHER BALL OF LIGHT.  THIS OBJECT APPEARED TO BE HOVERING VERY LOW AND MADE NO NOISE THAT COULD BE HEARD OVER NORMAL STREET NOISE.  THE OBJECT WAS VISIBLE FOR APPROXIMATELY THREE MINUTES AND THEN VANISHED.  IT APPEARED TO BE GRAYISH IN COLOR. MY HUSBAND IS NOW TYPING HIS OBSERVATION.  I ALSO OBSERVED THE TRIANGULAR OBJECT WHEN MY WIFE PARKED THE VEHICLE.  TO ME IT APPEARED NOT BE A PERFECT TRIANGLE.  THE "SIDES" APPEARED LONGER THAN THE "FRONT TO BACK".  I AM BASING THIS ON THE LOCATION OF THE LIGHTS.  TO ME THE LIGHTS ON EACH CORNER APPEARED TO BE ARRANGED IN A RECTANGLE FASHION.  THE MIDDLE LIGHT WAS ROUND.  COMBINED THESE LIGHTS WERE BRIGHT WHICH MADE THE EXACT SHAPE AND COLOR DIFFICULT FOR ME TO DISTINGUISH.  I WOULD ESTIMATE THE COLOR TO BE DIRTY GREY TO BLACK.  THE OBJECT APPEARED LOW TO THE GROUND, QUIET - NO EXPECTED AIRCRAFT SOUNDS - AND SOMEWHAT STATIONERY.  TO ME, THE OBJECT APPEARED TO BE "BANKING" CAUSING IT TO DISAPPEAR AND REAPPEARED.  I BASE THIS ON THE MOVEMENT OF THE LIGHTS ON THE "SIDES".  I OBSERVED THE OBJECT FOR ALMOST THREE MINUTES.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49084.html](http://www.nuforc.org/webreports/reports/049/S49084.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
