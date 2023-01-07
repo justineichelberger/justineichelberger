@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:27 on 7 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:26 on 7 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Richmond (TX) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>We witnessed a massive dark greyish object that was cylinder or cigar shape and traveling from West to East at Dusk at a rapid speed.On Tuesday(1/7/2020) at 6:15PM CT, I was driving with my Daughter to Target (45mph),traveling North bound on Harlem Road (between Plantation Drive and Toll Road 99)It was dusk, so the sun had set, but still plenty of light to the west, but dark to the east of us.  As I looked ahead, I noticed a long, greyish, cylindrical object traveling from due west to east.  It appeared to be far way (maybe 10-15 miles or more), but the length seemed way to long for the distance away from us.  The object was smoothly traveling the sky at a rapid pace with no lights at all.  I quickly asked my daughter (9 years old) if she saw it...Yes, she said and then we marveled that there were no lights and was so big. We continued watching it as we turned east on West Airport Road, but it quickly vanished as it passed to the east, as it was already dark.  I first saw the object at my 10 o'clock and lost sight of it about my 2 o'clock. (If the front of my car was 12 o'clock)  The entire event ! was only around 30 seconds and I was not able to take any pictures.  Just shocking 1/2 minute. When we arrived to Target, we sat in the parking lot and watched several planes in the night sky, both Commercial Airliners and Private planes… All had blinking lights and all were traveling at a snail's pace in comparison to what we just witnessed.  When we got into the store, my daughter asked me if we were dreaming possibly.  It certainly felt quite strange, as both of our brains could not process what we just saw.  Since the event just happened last night, it is still very fresh. All details regarding time and place are100% accurate... What we saw and the description above is as good as I can do for the rapid nature of the event.Hopefully I can get feedback on what we may have seen... I will post my daughter's written report also and have her illustrate what she saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152458.html](http://www.nuforc.org/webreports/reports/152/S152458.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Evansville (IN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Saw a white orb disappear and reappear possibly using a stealth technologyWas taking my dog outside as I normally do.  I was looking at the ground checking on the dog when I see a white orb flash and suddenly disappear.  I begin searching for the craft but I can’t see it.  Then it reappears in the distance.  This craft was blinking in and out of sight suggesting it was using some kind of stealth cloaking technology.  I see it go into the distance reappearing and disappearing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152429.html](http://www.nuforc.org/webreports/reports/152/S152429.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
