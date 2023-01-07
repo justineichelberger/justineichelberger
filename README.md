@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:27 on 7 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:26 on 7 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Callahan (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Seen it out towards the Southeast as me and a buddy were driving to work around 5:15 a.m. It was crystal clear with 8-10 rounded lights not extremely bright or overwhelming.  It was huge, the lights had an etching around them in the form of a paperclip style.  The left side was tilted up more than the right side. It stood out like a sore thumb</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152520.html](http://www.nuforc.org/webreports/reports/152/S152520.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in New Berlin (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Very large, bright white light seen raidly descending to the northwest.I was walking west at 8:10 ((sic.  p.m.) cst when I observed a very bright, round white light in the northwest sky rapidly descending from 30 degrees above the horizon to disappearing behind the horizon.  The white light was very much brighter than the many stars visible on this clear, crisp night.  The light was also very much brighter than an airplane passing by in the west sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132067.html](http://www.nuforc.org/webreports/reports/132/S132067.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
