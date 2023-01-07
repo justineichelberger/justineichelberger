@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:29 on 7 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:06 on 7 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Newcastle (DE) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>The object appeared to be elongated tear drop shape and seemed, to be shooting across the sky from the east to west.  Lights went from white to blue and yellow in color and seemed to have disappeared in thin air.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132103.html](http://www.nuforc.org/webreports/reports/132/S132103.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Yarmouth (ME) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>hundreds of tiny non-blinking lights, following in perfect line It was a formation of tiny, pinprick-like lights very high up in the sky.  They looked like stars, but were moving in a perfectly straight line.  There were hundreds of them all following each other across the sky.  They were not blinking but were alight.  Imagine hundreds of small stars following each other in a perfect line.  I, my sister, and our two friends saw this on a beach at night.  The lights moved into our field of vision, across the sky, and out of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156612.html](http://www.nuforc.org/webreports/reports/156/S156612.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
