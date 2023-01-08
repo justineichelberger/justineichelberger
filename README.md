@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:30 on 8 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:21 on 8 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cambridge (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately Few Min. - Few Min. minutes.</sub><blockquote><sub>Three lights in a triangular formationI was coming home from my brothers house, and was a couple of miles outside of Cambridge, MN, on highway 95 heading east.  The sky was clear, with a big full moon illuminating the sky.  All of a sudden, I saw a flash of light in the sky to my left.  I looked up and saw 3 lights in a triangular shape.  It was maybe 150 to 200 feet in the air.  In between the lights I could see a solid metal shape.  It was moving slowly, and floated across the road just in front of me.  There was no sound. After it had passed across the road I looked to my right and could see it for a short period of time. There was a vehicle behind me on the road that must have seen it too.  Wish I had pulled over and watched it further.  I guess I was kind of afraid, so I just kept driving.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86635.html](http://www.nuforc.org/webreports/reports/086/S86635.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Funston (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Orange lights suspended in the skyI was at my father-in-laws house talking with his neighbor’s wife and her son in the yard shortly after dusk.  As she was talking to me I noticed a bright orange-ish light in the sky to the east.  My initial thought was that it was the planet Mars as it has a similar color to it when observed through a telescope.  As I was thinking to myself, Wow, Mars is really bright tonight”, the object disappeared.  I interrupted the neighbor as she was talking saying “What the hell was that?”  The conversation stopped as the three of us looked in the direction the light had been in.  Seconds later, two similar bright orange lights appeared in the distance simultaniously.  They were fairly far apart and did not appear to be a single object.  As we all collectively started guessing what they could be one of the items did what appeared to be a J-hook and then both of them simultaneously disappeared.  My initial thought was that they may have been flares but other than the horizontal J-hook by one of them, they both appeared to be sitting perfectly still, unlike a flare that would be either rising from it being shot or sailing downward on its parachute.  We kept our eyes on the sky for hours after that but didn’t see anything else.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95886.html](http://www.nuforc.org/webreports/reports/095/S95886.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/161/S161573.html)
-- [303](http://www.nuforc.org/webreports/reports/161/S161562.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161546.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161563.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161559.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
