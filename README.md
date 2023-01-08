@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:33 on 8 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:21 on 8 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Clio (MI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Was bizarre, like nothing I've ever witnessed.My mom was leaving my house walking to her house next door. S he saw the objects and knocked loudly on my patio window.  I went outside saw the formation and jogged in the general direction to get a better look.  The objects were moving slowly given the impression that it was one enormous ship.  Bright  red orbs follow ed behind.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86439.html](http://www.nuforc.org/webreports/reports/086/S86439.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lincoln (NH) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Four green lights appeared over the new construction behind the grocery store as we were driving home from dinner.  They were in line with each other and appeared to be maybe 1 mile above ground.  They began to slowly disappear starting from the right side to the left until they all faded away.My daughter and I were together and didn't say anything to each other about what we saw until the last light started to fade out and as we shared what we had seen, it was exactly the same.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116570.html](http://www.nuforc.org/webreports/reports/116/S116570.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/161/S161573.html)
-- [303](http://www.nuforc.org/webreports/reports/161/S161562.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161546.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161563.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161559.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
