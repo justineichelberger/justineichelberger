@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:24 on 7 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:30 on 8 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Bellingham (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Moving, unblinking, fading from very bright to dull silvery-white light (about three times a planet's size)On my way to the school bus stop in the morning at about 7:00 AM, I looked up in the sky and saw a silvery-white moving light, almost like a moving planet, but a lot brighter. The size of the light was about three time that of a planet's viewed from earth (like Venus). The object faded from very bright intensity to dull (like how bright a star is) about 2-3 times as I watched it. It made no sound at all, so I doubt it was a helicopter, and there were no blinking lights, so I don't think it was an airplane. At first I thought it might be a satellite, but it was not traveling in a straight line. First, it was moving to the north-west, and as I watched it it changed direction and came towards me in an east direction. It continued at a steady speed, which was faster then an airplane could go, passed almost directly over me, and continued on in an easterly direction, until I couldn't see it anymore because a house blocked my view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60733.html](http://www.nuforc.org/webreports/reports/060/S60733.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Pendleton (KY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately  -  minutes.</sub><blockquote><sub>It is now 21:00 and the event is still going on. I thought the object was a very bright star. I got my binoculars and it is a sphere shaped object, with blue and red lights moving around it. Sometimes it looks like the object is turning over and over like it is having problems. Then the lights will come shooting out from it so very very bright. There seems to be an unusual amount of regular airplanes flying by and around it. It is in the path we always see planes coming from Cincinnati to Louisville. But I have never seen anything like this. It is hovering and not moving. It only looks like at times it will get smaller then get big in the same spot like it is trying to leave the atmosphere. This is amazing. We live in the country and there are no city lights at all.((NUFORC Note:  We suspect that the witness may have been looking at a celestial body, probably the star, Sirius.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26961.html](http://www.nuforc.org/webreports/reports/026/S26961.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
