@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:30 on 8 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:34 on 8 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Pendleton (KY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately  -  minutes.</sub><blockquote><sub>It is now 21:00 and the event is still going on. I thought the object was a very bright star. I got my binoculars and it is a sphere shaped object, with blue and red lights moving around it. Sometimes it looks like the object is turning over and over like it is having problems. Then the lights will come shooting out from it so very very bright. There seems to be an unusual amount of regular airplanes flying by and around it. It is in the path we always see planes coming from Cincinnati to Louisville. But I have never seen anything like this. It is hovering and not moving. It only looks like at times it will get smaller then get big in the same spot like it is trying to leave the atmosphere. This is amazing. We live in the country and there are no city lights at all.((NUFORC Note:  We suspect that the witness may have been looking at a celestial body, probably the star, Sirius.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26961.html](http://www.nuforc.org/webreports/reports/026/S26961.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Rotterdam (Netherlands) () reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright lights near Rotterdam AirportI live in a penthouse apartment with tall windows.  Excellent view all over.  This Sunday morning I saw three bright lights hanging in the sky.  Normally I would take them for airplanes as we live near an approach of Rotterdam airport.  However they did not move. J ust hung there.  At different heights.   Hard to determine what heights. After 15 minutes one by one the lights started moving west (I think) and they became smaller, less bright.  Then I saw flashing lights going around in circular motion.  Then they disappeared altogether.  There can be explanations: blimps. But we don’t have those here.  Or helicopters.  But what would three helicopters with huge lights be doing here hanging on different heights?   Not likely.  That is all. Regards from Holland.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86417.html](http://www.nuforc.org/webreports/reports/086/S86417.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/161/S161573.html)
-- [303](http://www.nuforc.org/webreports/reports/161/S161562.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161546.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161563.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161559.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
