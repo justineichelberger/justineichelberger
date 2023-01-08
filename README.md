@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:24:02 on 8 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:01:24 on 8 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Clinton (NJ) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>dark black, cigar shape object, only thing visible were several small lights...could not make out what it wasLow flying, a blue and red light up front, with a small row of white lights..length was about the size of 4 helicopters, all the way at the end, was one small green light.  ade a low humming noise, continued low along tree line</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106126.html](http://www.nuforc.org/webreports/reports/106/S106126.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Pembroke Pines (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>triangular object with flashing red, blue and white lights.I  was taking out the garbage last night when I happened to notice a triangular object with blue, red, and white blinking lights in the southwest sky. I called my two young daughters out to see it and we watched it for approximately 10 minutes. I went into the house to grab a pair of binoculars and returned to discover that it was joined by another similar object. The two objects were visible for an additional 30 minutes. They remained in the same general area over the everglades and were not moving the entire time. Then they just dissapeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48664.html](http://www.nuforc.org/webreports/reports/048/S48664.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/161/S161573.html)
-- [303](http://www.nuforc.org/webreports/reports/161/S161562.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161546.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161563.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161559.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
