@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:24 on 8 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:27 on 8 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Longs (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three bright red lights seen moving together.My brother was outside and noticed strange clouds in the sky that resembled writing.  Like a P shape, and an O shape, not typical clouds.  As he was looking at it, 3 red lights emerged, in the shape of a semi-circle.  The back 2 crafts were blinking a bright white light, while the front craft was a solid red.  We were in discussion as to if it was one large craft or 3 small crafts.  We could not tell.  The craft(s) moved from south to north slowly, in which time my brother came to my house next door, and stated that there were UFOs outside.  At this time my daughter and I ran outside to witness and they started moving towards the east (towards the ocean).  We watched them move in the same speed and stay in the exact shaped, not wavering from their semi-circle shape, until it went over the treeline and we couldn't see them any longer.  My brother tried to take picture with a camera and they weren't showing up in the screen.  My daughter took out her iphone an! d they were also not showing up on her screen!  After this, we noticed cloud trails in the sky and NO air crafts for the next hour.  When we noticed the trails leaving, we then noticed the air crafts coming back into the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95884.html](http://www.nuforc.org/webreports/reports/095/S95884.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Boston, Lincolnshire (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Simply noticed a green circular light 2,000 ft in the sky stationary over some houses a quarter of a mile away.  Simply looked like a bubble of green light.  After 3 minutes the green light stopped, revealing a small dark rectangular object.  Doubt it was a helicopter as it seemed too small.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74023.html](http://www.nuforc.org/webreports/reports/074/S74023.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/161/S161573.html)
-- [303](http://www.nuforc.org/webreports/reports/161/S161562.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161546.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161563.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161559.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
