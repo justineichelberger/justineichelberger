@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:51 on 8 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:25 on 8 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Worsley, Manchester (UK/England) () reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>SUMMARY:  Tear drop shape, emitting dull gold glow at around 7000 feet. Moving at same speed as airliners in landing pattern in same vicinity.One object, tear drop shape, blunt end forward, travelling roughly north to south at around 7000 feet, appeared to brighten slightly at one point. Dull golden glow. Airliners were in immediate vicinity in landing pattern for Manchester International Airport (UK). Appeared to be moving at roughly same speed as airliners. Travelled across the sky until it was no longer visible through haze, mostly clear blue sky.Observed by two persons, both technicians for a college.No sounds apart from that from the airliners.Both observers have seen many flying objects before which they subsequently identified. Both used to seeing aircraft in the sky. This object definitely aroused interest as to it's nature.Both observers have also had one other occasion of a similiar experience previously but at seperate locations and times.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01939.html](http://www.nuforc.org/webreports/reports/001/S01939.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Newton (IA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Going eastbound on 4th ave after picking my son up a silver glowing object.  It looked like a bright star in daylight, but noticed it qas moving.  Light turned off and watched a white object drop straight down and head NW picking up speed as elevating upward.  My son and I followed it until it was no longer visible.  This is my 3rd sighimg in three months</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144353.html](http://www.nuforc.org/webreports/reports/144/S144353.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/161/S161573.html)
-- [303](http://www.nuforc.org/webreports/reports/161/S161562.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161546.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161563.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161559.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
