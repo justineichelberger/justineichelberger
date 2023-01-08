@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:23 on 8 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:23 on 8 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Mena (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>MENA ARKANSAS LOTS OF SIGHTINGS. SOMEONE NEEDS TO START TALKING ABOUT WHAT IS GOING ON HERE.ORANGE BALL OF LIGHT FOR 30 SEC..  THEN SOMETHING VERY LARGE CAUSED A SHADOW TO COVER THE ROAD IN FRONT OF MY HOUSE AND SURROUNDING AREA. THE BACKGROUND IS A MOUNTAIN WITH PINE TREES. 3 OF US SAW THE EVENTS. ONE WEEK AGO I SAW A CRAFT THAT HAD A BLACK INTERIOR WITH A RED EDGE AROUND IT. I REPORTED IT.  THERE R SO MANY PEOPLE IN THIS SMALL TOWN WHO R SEEING THESE THINGS ON A REGULAR BASIS.  I AM TELLING U THAT SOMEONE NEEDS TO START TALKING ABOUT WHAT IS GOING ON. ONE MAN HAS COVERED HIS HOUSE WITH FOIL. THIS MAN IS NOT CRAZY AND WORKED FOR THE GOVERNMENT IN THE PAST ON SUCH THINGS AND IF HE IS THAT SCARED THEN SOMEONE NEEDS TO TAKE THIS SERIOUS. I AM 61 YEARS OLD AND I HAVE SEEN THINGS IN THE PAST WHEN I WAS YOUNGER AND IT NEVER SCARED ME EVEN AFTER IT WAS ON THE NEWS.  I CAN'T SLEEP AT NIGHT.  WHY WOULD IT COME BACK TO THE SAME AREA OVER AND OVER. WE R A VERY SMALL TOWN SURROUNDED BY MOUNTAINS. HELP PLEASE. NOW</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86416.html](http://www.nuforc.org/webreports/reports/086/S86416.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cocoa (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two glowing orange orbs moving east to west.I went outside at around 7pm to have a cigarette in the backyard.  I was looking up, and out of the corner of my eye i saw two orange glowing orbs moving east to west.  At first, they were both moving about the same speed, then one slowed down, and the other kept going.  I called my wife out to see, and by the time she came out, the faster one was almost out of view.  She got the binoculars, but couldn't make out any distinguishing features.  We watched for a few minutes, as the fast one moved behind a tree, and the slower one seemed to just hover and then slowly move away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86519.html](http://www.nuforc.org/webreports/reports/086/S86519.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/161/S161573.html)
-- [303](http://www.nuforc.org/webreports/reports/161/S161562.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161546.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161563.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161559.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
