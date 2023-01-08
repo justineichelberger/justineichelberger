@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:22 on 8 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:41 on 8 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Beech Hill, Berkshire (UK/England) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Metallic sphere spotted in the sky, object was reflective, didn't move, after a minute it had vanished from sight...I have recently come to another conclusion to a sighting I had in the year 2000, and decided to submit it to you. It happened one morning on the way to work when I was driving I noticed a reflection from something in the sky that caught my attention. As I observed it closer I noticed it was a metallic sphere of some sort which was absolutely dead still in the sky it didn't move whatsoever. I only saw this object for like 1 min at least, it was difficult keeping on eye on it as I was driving, but I looked back up again to where I had saw it and it had vanished from sight. After I had noticed it had vanished I saw what I believe was a kind of haze or even a heat wave left in the sky. It seemed at first like it had left really quickley and left a mark in the sky, but I had come to the conclusion that it might well of become invisible or even transparent. I know what I saw wasn't a plane or a blimp, all I know was it left very quickly almost like it had sensed it had been seen. As many witnesses do I wish I had a camera at the time, but now I keep a camera handy just in case it happens again...((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37145.html](http://www.nuforc.org/webreports/reports/037/S37145.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Rancho Cucamonga (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Third sighting of a bright star like light changing colors blue and white moving across the morning sky in Rancho cucamongaOn January 8, 2009 at 9:30 am I saw a bright star like light up in the sky.  This is my third sighting of this strange light in the skies above our park.  It traveled from East to West very slowly with no sound.   I watched and took pictures of it for 30 minutes as it passed over my head and out of view into the distance.  My Dad was with me this time and brought his binoculars.  Looking through the binoculars I could see some type of light around something moving.  It appeared to change colors from blue to white.  In the photos you can only see a small point of light.  I tried to zoom in on the photos to see if I could see more details, no luck.   One of the pictures surprised me, it shows at least 7 lights or orb’s.  This picture was taken when the light was above my head and I was under a tree.  I remembered that moment because when I looked at the light with my eyes it appeared to change color and shape or something.  It was so high up and you really couldn’t see a lot of details, but something was different.   Then to see the picture and see 7 lights or orb’s, that’s really scary.((NUFORC Note:  The witness has forwarded four photographs, but none of them appears to us to illustrate the appearance of the object, as described above.  It looks somewhat like a bird, possibly a parrot, or maybe a hummingbird.  We do not know what the person witnessed.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67923.html](http://www.nuforc.org/webreports/reports/067/S67923.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/161/S161573.html)
-- [303](http://www.nuforc.org/webreports/reports/161/S161562.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161546.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161563.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161559.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
