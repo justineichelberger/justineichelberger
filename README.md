@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:01:24 on 8 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:35 on 8 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Pembroke Pines (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>triangular object with flashing red, blue and white lights.I  was taking out the garbage last night when I happened to notice a triangular object with blue, red, and white blinking lights in the southwest sky. I called my two young daughters out to see it and we watched it for approximately 10 minutes. I went into the house to grab a pair of binoculars and returned to discover that it was joined by another similar object. The two objects were visible for an additional 30 minutes. They remained in the same general area over the everglades and were not moving the entire time. Then they just dissapeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48664.html](http://www.nuforc.org/webreports/reports/048/S48664.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Aurora (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>An aircraft that is so close and no noise?As I was heading South on this particular road, I noticed in the sky four lights, horizontally arranged. I got closer and had to stop at the intersection light, I noticed that this object was no more than a few hundred feet in the air. I found it odd that any aircraft I have noticed in the air before was considerably higher( enless near an airport)and made some type of noise. Neither one was the case. It seemed to remain in one particular area for about 5-10 seconds. The object then took about a 45 degree turn to fly directly above my vehicle and appeared to disappear soon after that. I completely questioned myself about this, it was unbelievable.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48687.html](http://www.nuforc.org/webreports/reports/048/S48687.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/161/S161573.html)
-- [303](http://www.nuforc.org/webreports/reports/161/S161562.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161546.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161563.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161559.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
