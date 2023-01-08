@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:23 on 8 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:32 on 8 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cocoa (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two glowing orange orbs moving east to west.I went outside at around 7pm to have a cigarette in the backyard.  I was looking up, and out of the corner of my eye i saw two orange glowing orbs moving east to west.  At first, they were both moving about the same speed, then one slowed down, and the other kept going.  I called my wife out to see, and by the time she came out, the faster one was almost out of view.  She got the binoculars, but couldn't make out any distinguishing features.  We watched for a few minutes, as the fast one moved behind a tree, and the slower one seemed to just hover and then slowly move away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86519.html](http://www.nuforc.org/webreports/reports/086/S86519.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Doylestown (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>5 yellow lights flash in sky then disappear with 3 reappearing approx. 4.5 miles later moving NE.I was driving North on County A in Columbia County.  Just as I was crossing over Hwy 16 I noticed a flash of 5 Yellow lights all in a row in the sky to the Northwest.  Lights were low in the sky.  They flashed for just a couple seconds and then disappeared.  Approximately 4.5 miles up the road 3 of the yellow lights reappeared and were slowly moving in a Northeast direction.  As the lights reappeared, I noticed 2 other aircraft in the sky with the typical red & white lights.  One aircraft was travelling Southwest almost directly above the yellow lights, the other traveling Northeast below the yellow lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106254.html](http://www.nuforc.org/webreports/reports/106/S106254.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/161/S161573.html)
-- [303](http://www.nuforc.org/webreports/reports/161/S161562.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161546.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161563.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161559.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
