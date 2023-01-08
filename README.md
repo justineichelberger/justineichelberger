@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:25 on 8 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:23 on 8 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Newton (IA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Going eastbound on 4th ave after picking my son up a silver glowing object.  It looked like a bright star in daylight, but noticed it qas moving.  Light turned off and watched a white object drop straight down and head NW picking up speed as elevating upward.  My son and I followed it until it was no longer visible.  This is my 3rd sighimg in three months</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144353.html](http://www.nuforc.org/webreports/reports/144/S144353.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Holland (OH) reported seeing craft that fit the description of some '' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>About 12 objects streaked across the sky in perfect straight line formation, with perfect distance between them.I saw at least 12 objects in a straight line formation streak across the sky from northwest to southeast. At first I thought it was a sattilite but then there were more behind it in perfect distance from each other. They went across the sky about the same timeframe as the spacestation goes across the sky. From zip code 43528 traveling northwest to southeast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152473.html](http://www.nuforc.org/webreports/reports/152/S152473.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/161/S161573.html)
-- [303](http://www.nuforc.org/webreports/reports/161/S161562.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161546.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161563.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161559.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
