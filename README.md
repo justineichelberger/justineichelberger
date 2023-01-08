@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:44 on 8 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:51 on 8 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Rotterdam (Netherlands) () reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright lights near Rotterdam AirportI live in a penthouse apartment with tall windows.  Excellent view all over.  This Sunday morning I saw three bright lights hanging in the sky.  Normally I would take them for airplanes as we live near an approach of Rotterdam airport.  However they did not move. J ust hung there.  At different heights.   Hard to determine what heights. After 15 minutes one by one the lights started moving west (I think) and they became smaller, less bright.  Then I saw flashing lights going around in circular motion.  Then they disappeared altogether.  There can be explanations: blimps. But we don’t have those here.  Or helicopters.  But what would three helicopters with huge lights be doing here hanging on different heights?   Not likely.  That is all. Regards from Holland.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86417.html](http://www.nuforc.org/webreports/reports/086/S86417.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Worsley, Manchester (UK/England) () reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>SUMMARY:  Tear drop shape, emitting dull gold glow at around 7000 feet. Moving at same speed as airliners in landing pattern in same vicinity.One object, tear drop shape, blunt end forward, travelling roughly north to south at around 7000 feet, appeared to brighten slightly at one point. Dull golden glow. Airliners were in immediate vicinity in landing pattern for Manchester International Airport (UK). Appeared to be moving at roughly same speed as airliners. Travelled across the sky until it was no longer visible through haze, mostly clear blue sky.Observed by two persons, both technicians for a college.No sounds apart from that from the airliners.Both observers have seen many flying objects before which they subsequently identified. Both used to seeing aircraft in the sky. This object definitely aroused interest as to it's nature.Both observers have also had one other occasion of a similiar experience previously but at seperate locations and times.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01939.html](http://www.nuforc.org/webreports/reports/001/S01939.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/161/S161573.html)
-- [303](http://www.nuforc.org/webreports/reports/161/S161562.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161546.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161563.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161559.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
