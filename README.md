@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:23 on 8 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:31 on 9 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Holland (OH) reported seeing craft that fit the description of some '' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>About 12 objects streaked across the sky in perfect straight line formation, with perfect distance between them.I saw at least 12 objects in a straight line formation streak across the sky from northwest to southeast. At first I thought it was a sattilite but then there were more behind it in perfect distance from each other. They went across the sky about the same timeframe as the spacestation goes across the sky. From zip code 43528 traveling northwest to southeast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152473.html](http://www.nuforc.org/webreports/reports/152/S152473.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Torrington (CT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Wow, I finally saw one of those triangular objectsI am one of those persons who has seen UFOs numerous times.  I have literally seen UFOs probably at least a dozen times, but I had never seen one of these triangular objects until last night.I live in a 2nd floor apartment that faces east toward Hartford.  I get a nice unobstructed view of the sky and I constantly see planes coming from Bradley Airport about 20 miles away, or I see planes going in for a landing there.  So, I am VERY familiar with airliners. But tonight I just happened to look out and saw this BEAUTIFUL perfect triangle object.  It had many very bright white lights on it and was flying very slowly.I don't know how high it was, maybe 3-5000 feet at most.  It looked quite large, I got the impression it was probably twice the size of an average airliner.  I wish I would have had time to count the lights, but I am sure I saw probably 7 or 8 large white lights, and one very small blinking red light near the center.  But the entire craft was outlined by the white lights and was a perfect equilateral triangle 60/60/60.  It was really a very pretty sight.  It seemed to be going quite slow, much slower than the airliners I see every night.  If I had to guess, I would say it was going maybe 200 mph at most.  It was flying from northeast toward the southeast, which is the regular path many planes from Bradley follow.Anyway, I was only able to see it for about 10 seconds before it flew over my building, but I had time to put on a coat, grab a pair of binoculars and run downstairs which probably took about 15-20 seconds.  It was going so slow that it was still there and I got to look at it for about another 15 seconds before it went behind another building and I lost sight of it.  I am not completely sure, but I think I MIGHT have heard it, if so, it sounded like a normal airliner, but I might have been hearing another plane that I saw in the same part of the sky.That's it, very simple sighting, but a very beautiful object.  It was probably one of ours, but I don't care, I have always wanted to see one of these triangular objects, and now I have.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116618.html](http://www.nuforc.org/webreports/reports/116/S116618.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/161/S161573.html)
-- [303](http://www.nuforc.org/webreports/reports/161/S161562.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161546.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161563.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161559.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
