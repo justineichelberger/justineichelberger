@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:28 on 9 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:34 on 9 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in North Miami Beach (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>red star streaked through the sky coming from the atlantic ocean  which is east towards the west then headed upwards in a nw direction and disappeared  it looked like a red fireball with a star shape  my neighbors thought it was a meteor  it made no sound  I called channel 10  news but was told there were no other reports.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106259.html](http://www.nuforc.org/webreports/reports/106/S106259.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Three bright, large, orange orbs over ScottsdaleI was walking down my driveway looking to the south east (I was north of the lights), and I witnessed three orange lights in the sky.  They were larger and brighter than aircraft lights.  They were quite a distance away, yet they were as large as the light on a helicopter that flew over my head at around the same time (the helicopter had nothing to do with the sighting, its just a size comparison).  The lights were a minimum of 10 miles away, so they were large and bright enough to clearly see.  They were mostly stationary and they formed a non-equilateral triangle.  The right-most light then started to head to the right (west) and it went out after about 10 seconds.  The middle light did the same thing about 30 seconds later.  The third light remained stationary in the sky for about 2 minutes, and then it faded out, but as it did, another bright orange light appeared to the left of it.  The fourth and final light remained stationary in the sky for another f! ew minutes, and then it faded out.I have an iPhone 5 video of the event that I'd like to upload, but it may take me a few days.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106227.html](http://www.nuforc.org/webreports/reports/106/S106227.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/161/S161558.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161574.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161554.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161580.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161578.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
