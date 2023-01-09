@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:35 on 9 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:27 on 9 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Pageland (SC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Observation was on hwy 9 going east about 10 miles from Pageland SC. Area is very rural. First thought  was a low flying jet  fighter, but object was not same shape. Object was  bright glowing with some detale moving at high rate speed to the south on a mostly sunny day.This my first observation never believed they existed before today</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27018.html](http://www.nuforc.org/webreports/reports/027/S27018.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Birmingham (AL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Heard low rumbling sound, saw a big ?? In the sky before it disappeared.I was asleep in bed with my girlfriend, having a random simple normal dream about a supermarket, when the dream abruptly switched to an empty white room where men in blue hoods were rushing toward me, I awoke with a gasp for air and a balled fist.  I then noticed a low rumble sound coming from outside.  I opened the window to see a large black and purple amoeba-like object in the sky. It looked as if it were made of gel or some type of thick liquid.  It stayed for about five minutes before completely fading away and the sound shortly followed.It didn't fly away, it's like it simply became invisible.Tried to take a picture but my battery died as soon as I opened my phone.I feel like I should also note that our cat was running around the room which is not normal for him at all.I am a 25 year old male, and I've never seen anything like this before.  It has been over two and a half years since my last experiment with psychedelic drugs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132096.html](http://www.nuforc.org/webreports/reports/132/S132096.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/161/S161558.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161574.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161554.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161580.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161578.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
