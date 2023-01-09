@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:29 on 9 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:30 on 9 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Varna (Bulgaria) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO varna bulgariaThe ufo we spotted was recorded by many people.  There were three UFOs flying in formation and staying still 200 meters above ground.  The UFO did not move for a minute and than rapidly excelerated, people were fleeing in terror and screaming.http://www.youtube.com/watch?v=xCvzMftFyHU</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106156.html](http://www.nuforc.org/webreports/reports/106/S106156.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Kapolei (HI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Re Submitted per Mr. Davenport request to detail the light description of objects.01.09.2010  While watering my grass at about 2135 hrs in Kapolei Hawaii, I witnessed two bright orb’s swarming acrobatic like around one another over the SW part of the Island.The Blue and Green lights were like someone pointing a bright flashlight at you from a distance.  The color and intensity resembled laser light.  It was neither incandescent nor florescent but very bright light like a high intensity LED.  The lights both gave out two small sharp rays of light from the orb’s body at a 45 degree angle towards the ground.  The trail of light  were small but visible. I thought it was someone pointing a laser light into the air but it was very bright and showed no trail from the laser’s origin.I stared at the two lights for about 30 seconds in shock trying to make out what it could be, initially I thought it was a hovering helicopter or a UAV but they moved way to fast and in different directions for it to be any aircraft I have ever seen.  At one time the blue orb shot straight upwards into a low cloud and then regrouped with the green orb.I got my video camera but couldn’t get a focus on the objects in time before they disappeared into the horizon.Both orbs are assumed to be at a estimated 5 to 10 thousand feet or more off my line of sight above the horizon.  My estimated of its location is off shore of the Chevron Oil processing plant in West Oahu, about 3 miles north of the Barbers Point Light House.I can not tell if it was over land or not but seemed to be just off shore.  It was impossible to get a scale size of the objects but that they seemed close to land.I called my friend who works at the ATC tower in Honolulu Airport but he called back and stated no reports from the tower.  I also contact a friend on the west side of the island but stated that he saw nothing.  The news had no reports as well.I am sure someone else saw it too.  It is possible for someone that was driving West on H1 Freeway towards Makakilo, HI at about 2130 - 2135 hrs.I hesitated to report this but there is no denying what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74047.html](http://www.nuforc.org/webreports/reports/074/S74047.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/161/S161558.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161574.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161554.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161580.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161578.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
