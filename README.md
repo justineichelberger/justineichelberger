@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:18 on 9 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:38 on 9 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fairborn (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Strange fireball floated into sky and shot up and dissapeard near wpafb in fairbornWas looking out my bay window while closing the curtains when I noticed this big bright orange ball of light lift into the sky slowly and went above my house.  I ran to the other side of my house and out the back door to watch it as it climbed some distance into the sky and hovered for about 30 seconds.  It suddenly shot up into the air and the light got dimmer and dimmer until it was a pin point into the sky.  There was no noise coming from the object so I defiantly know it could have not been a helicopter or airplane.  Freaked me out.  I live right by wright pat air force base here in Dayton.   I am hoping that there is some explanation for what I saw tonight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106144.html](http://www.nuforc.org/webreports/reports/106/S106144.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Paducah (KY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>I went outside for nightly smoke break and to gaze at the night sky.  I noticed something that seemed like an out of place star only to realize that it was not.  Did not look round even though it was spinning in place.  Lights were flashing in a straight line gold-red-blue colors which made it look rectangular shaped, but it wasn't.  It was a crystal clear night sky and the object could be clearly seen.  I got my relatives to come out and bear witness that they saw what I saw.  I observed the object for at least 45 minutes and it was still hovering over my house when I went in.  The object appeared to be closer than it was far off in the sky.  I know that this was not a satellite because I've never seen one this close.  I truly believe that we witnessed an unidentified flying object, which is why I feel compelled to submit this report.  I gave as much detail as I could.  I'm still bewildered...((NUFORC Note:  Possible sighting of Sirius?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74037.html](http://www.nuforc.org/webreports/reports/074/S74037.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/161/S161558.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161574.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161554.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161580.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161578.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
