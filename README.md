@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:38 on 9 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:42 on 9 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Paducah (KY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>I went outside for nightly smoke break and to gaze at the night sky.  I noticed something that seemed like an out of place star only to realize that it was not.  Did not look round even though it was spinning in place.  Lights were flashing in a straight line gold-red-blue colors which made it look rectangular shaped, but it wasn't.  It was a crystal clear night sky and the object could be clearly seen.  I got my relatives to come out and bear witness that they saw what I saw.  I observed the object for at least 45 minutes and it was still hovering over my house when I went in.  The object appeared to be closer than it was far off in the sky.  I know that this was not a satellite because I've never seen one this close.  I truly believe that we witnessed an unidentified flying object, which is why I feel compelled to submit this report.  I gave as much detail as I could.  I'm still bewildered...((NUFORC Note:  Possible sighting of Sirius?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74037.html](http://www.nuforc.org/webreports/reports/074/S74037.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Freeport (north of) (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Orange lights in stephenson co. IllinoisI was driving north on a country road and looked over to my right, just above the horizon were 3 orangish/white lights,  they weren't blinking and seemed to be still,  I turned right on the next road keeping my eye on them the best that I could, after I turned the one blinked out and the 2 remained,  they were so close and bright it seemed I could easily catch up to them and see what they were for sure.  No matter how fast I went I couldn't get close.  I noticed the one up ahead of me looking as if it was going to cross over the road ahead of me, so I thought I'd be able to see it just over the next hill because it was a clear view of the sky for miles around, well I get over the hill and it is totally gone, no where to be seen, the next time I caught sight of one of them it looked as if it was all the way over Rockford Il. so I gave up my chase and came home.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21151.html](http://www.nuforc.org/webreports/reports/021/S21151.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/161/S161558.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161574.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161554.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161580.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161578.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
