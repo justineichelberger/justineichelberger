@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:16:00 on 9 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:37 on 9 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Butte (MT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright red, blue, & yellow lighted objects, viewed over Butte, MT.Red blue yellow lights moving south.  After watching about 10 minutes a second object descended momentarily then joined the first.  After watching for about an hour the slow moving lights were too hard to see through 10 power binoculars.((NUFORC Note:  Probable sighting of Sirius.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116592.html](http://www.nuforc.org/webreports/reports/116/S116592.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Clackmannanshire (Forth Valley) (UK/Scotland) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>I have pictures of aliens please read, help neededSeen an oval shaped craft in the skies over Devonside, Scotland, it was alternatively elongated at sides whilst watching (this may be due to the craft entering light speed) and flickered between vivid colours of red, blue, green and white.  Observed first for 12 minutes at 23:43 then due to tasks needed to be done watch had to be discontinued, once free (after approximately 40 minutes) went to check to see if it was still visible and it was, it moved at an extremely slow pace which made all question whether or not it was in fact moving and although were stoned at time conclusion came to once regain of observation that it had moved.This evenings sighting was observed by my friends.  As soon as they told me of the observation; I immediately exclaimed that I had in fact seen this shape craft the previous month in the same area and regarding the same description of colour, shape and time of sighting.Not the usual sightings over this quiet area and for it to happening in the same time period a month apart seemed to much of a coincidence.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95883.html](http://www.nuforc.org/webreports/reports/095/S95883.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/161/S161558.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161574.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161554.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161580.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161578.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
