@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:38 on 9 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:27 on 9 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Florissant (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Not an Aircraft, very large, leading edge firy bright , irregular shape, duration of observation -three minutes.A very bright and very fast moving object was observed entering the atmosphere arriving from the south-south west quadrant at approximately 09:20AM Mountain Standard Time on the Morning of January 09,2008.The object descended towards the western slope of Pikes Peak and visually passed over the Peak in the direction of Colorado Springs,Colorado. It produced no noise. However it created a contrail which was approximately five(5)Miles in length and approximately 5ive(5)Miles in width which suggested to the two witnesses that it was not an aircraft of any known type and that it was unusually large. It did not appear to have wing nor engines. Guess: Approximate size/about the size of a small town.Both observers are ex-Military, and one is a retired Commercial Pilot with more than twenty twenty years flying experience, and holds an Airframe and Power Plant Mechanics License from the Federal Aviation Administration(FAA). Perhaps this was a large fragment of a Meteorite that skipped off Earth's atmosphere upon entry (because it left a contrail) and then continued back into space on a new trajectory. The closest description(from the retired Pilot) is that the leading edge was extremely bright equal to kooking at the sun. it was more flattened in appearance than any other aspect of shape and wa irregular in shape. The mass of the object behind its leading edges was also very bright but  not as bright ad the leading edges.It appeared to have an entry path of approximately 25Degrees of angle in descent. After it passed over Pikes Peak in an Easterly direction it suddenly changed direction towards the Southeast and its contrail indicated a change of direction toward the Gulf Of Mexico and the it was completely gone from the observers sight. There have been no news reports that the observers are aware of frommany local sources but is likely that  some unit of the Military tracked it via RADAR.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60763.html](http://www.nuforc.org/webreports/reports/060/S60763.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Commerce (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 white UFO'SThey were low to the ground and in the shape of a triangle.  they had one big light in the middle of it.  It was slow to move but if the light went out it would apper some were else.  There was two of them.  And the light was white.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161558.html](http://www.nuforc.org/webreports/reports/161/S161558.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/161/S161558.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161574.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161554.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161580.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161578.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
