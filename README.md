@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:21 on 9 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:29 on 9 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Reviewing my photos I came across a suspicious object in the upper right corner and it way flying at an odd angle.  Too steep for a plane, since my father works for Boeing he told me it was too steep to be a plane.  My other photos with planes a night had more lights on them this one only had three.  Also a tiny bit to the left of the UFO there is 2 floating blue dots which I assume could be another UFO. Here is the photo like for you thanks for your time I hope this helps.http://i808.photobucket.com/albums/zz6/mackenzie_Wisdom/IMG_8551.jpg((NUFORC Note:  Photo is of an aircraft, flying south toward Boeing Field or Sea-Tac International Airport, displaying strobe lights.  Just a guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74049.html](http://www.nuforc.org/webreports/reports/074/S74049.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Sedona (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.5 - 2.5 minutes.</sub><blockquote><sub>the circle shaped cloud sat still for about 2.5 minutes then dissapperedMe and my friend were driving home from school and his mom saw a perfectly circle cloud that seemed to hover for 2 and a half minutes then jus dissappered</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41444.html](http://www.nuforc.org/webreports/reports/041/S41444.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/161/S161558.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161574.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161554.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161580.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161578.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
