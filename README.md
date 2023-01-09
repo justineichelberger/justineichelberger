@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:20 on 9 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:35 on 9 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Newark (OH) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large Cigar shaped object (newark Ohio)I was driving down I-70 east just short of the newark exit. Off to the left there was a cellphone/radio tower. about a half mile northwest of the tower aprox. 150 ft in the air I observed a cigar shaped craft hoviering in place. It did not move a inch for the time W was on the side of the road. I had to get moveing because there was not much of a  berm on the roadway and people were honking at me. I have no clue what it could of been. it was too big to be a small aircraft stuck in high winds(and it wasn't a windy day). it appeared to be the size of a medium sized plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21432.html](http://www.nuforc.org/webreports/reports/021/S21432.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Pageland (SC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Observation was on hwy 9 going east about 10 miles from Pageland SC. Area is very rural. First thought  was a low flying jet  fighter, but object was not same shape. Object was  bright glowing with some detale moving at high rate speed to the south on a mostly sunny day.This my first observation never believed they existed before today</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27018.html](http://www.nuforc.org/webreports/reports/027/S27018.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/161/S161558.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161574.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161554.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161580.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161578.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
