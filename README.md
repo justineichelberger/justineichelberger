@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:01:08 on 10 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:26 on 10 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Plymouth (MN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Possible sighting in Plymouth, MNWife woke up to a bright "almost purple white light" outside of 1st level apartment.  Looked like a helicoptor search light, but stationary and brighter.  Children in 3rd floor apartment woke up screaming and ran into parents bedroom screaming of aliens and to shut the door.  Child is 2 years old and hasn't watched anything regarding aliens or UFO's.  Wife saw light closed eyes thinking it was a plow, but there was no snow on the street to be plowed, no cars on the street either.  Opened eyes again to see it was still there, got out of bed and it "disappeared".  There was no sound when it disappeared or when it was visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48680.html](http://www.nuforc.org/webreports/reports/048/S48680.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Montgomery (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Small metalic sphere that changes into a larger sphere of light.I was pointing south at 12:20pm when a small metal sphere appeared in my view that 2 seconds later changed into a larger sphere of yellow light about a quarter size of the sun that after 5 or 6 seconds disappeared with a blink of an eye to the left passed the trees I tried to race to an opening to see if I could see it again but it was gone.  I immediately called a friend to discuss what I saw when I found a picture on a social website that friend of mine had taken a few miles from my location that looked Identical to what I saw that was taken just around the same time I witnessed it.((NUFORC Note:  We spoke via telephone with this witness, and we found him to be quite sober-minded and sincere.  We suspect that he is a very good witness.  We would welcome a second, corroborating report from the other witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95915.html](http://www.nuforc.org/webreports/reports/095/S95915.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/161/S161598.html)
-- [340](http://www.nuforc.org/webreports/reports/161/S161584.html)
-- [339](http://www.nuforc.org/webreports/reports/161/S161595.html)
-- [338](http://www.nuforc.org/webreports/reports/161/S161586.html)
-- [337](http://www.nuforc.org/webreports/reports/161/S161804.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
