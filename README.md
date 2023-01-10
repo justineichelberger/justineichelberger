@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:29 on 10 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:32 on 10 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Victoria (Canada) (BC) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>I've been meaning to write this for sometime.  I believe the date was Jan 10, 2003 - might have been the week before.  4 of us were sitting in a house over looking the Gorge waterway in Victoria.  2 of us were facing the window.  Out of nowehere came a VERY bright illuminescent comet-like object moving fairly slowly downward toward the treeline.  What I saw was a blueish colour and what the other person saw was more red.  It came down, paused at the treeline, then disappeared.  It was NOT a firework or space junk.  The way it moved was too irrational.  We have never seen nor experienced anything like this previously so we prompty called the Marine-Air-Rescue department.  The person answering the phone had numerous other calls and had never heard of this kind of thing either.  He had worked there for 30 years and couldn't explain it.  He said there was no passing satellites or aircraft at the time.  He also said there were reports from Esquimalt, Oak Bay, and even over in Delta of the same thing.  Some reported the object(s) ascending as well.  I still have no idea or explanation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28641.html](http://www.nuforc.org/webreports/reports/028/S28641.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Nordmaling (Sweden) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Me and my brothers saw a flying object in the sky.As i was walking to school with my brothers, i looked up at the sky and saw something. It looked like one of the stars, but it was a bit bigger. At first i thaught it was just a plane or something, but it was too big for a plane. We stopped and looked at it, and suddenly it turned and went the other way. It was going really fast for a while, but suddenly it slowed down, we saw a bright white flash, and it dissapeared. I wish i had a camera. Then you would know that i am not lying. Me and my brothers are sure it was a UFO. What else could it have been...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13556.html](http://www.nuforc.org/webreports/reports/013/S13556.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/161/S161598.html)
-- [340](http://www.nuforc.org/webreports/reports/161/S161584.html)
-- [339](http://www.nuforc.org/webreports/reports/161/S161595.html)
-- [338](http://www.nuforc.org/webreports/reports/161/S161586.html)
-- [337](http://www.nuforc.org/webreports/reports/161/S161804.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
