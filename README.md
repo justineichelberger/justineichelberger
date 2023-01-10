@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:50 on 10 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:32 on 10 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Pendle (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>A light hovered down the hill at a ridiculous speed.We was walking back down Pendle Hill, we turned around at the bottom to look back up and saw a light at the top.  This light then continued to move down the hill.  It was a circle like light that hovered over the hill moving rapidly down towards us.  It took us 50 minutes to get down the hill, yet the light moved half way down the hill in about a minute.  This ruled out it being a human, also vehicles are not permitted on the hill which ruled out a car etc.  We would like to here any plausible explanations please.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106175.html](http://www.nuforc.org/webreports/reports/106/S106175.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Bergenfield (NJ) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Three "stars" in a perfect "v" formation, one drops slowly out of the sky.I was getting ready for work on the second floor of my house in the early morning, and I looked out of the bathroom window as I often do to see what the weather was. I was looking due west over the rooftop of the neighboring house. I saw the moon on the left (full moon) and to the right of the moon I saw three "stars" that were blinking. All three were twinkling blue/white. They all appeared equally bright. As I was looking at the three "stars" (which were lined up in a "v" or "isosceles triangular" formation, and two of them were exactly lined up from north to south), I noticed that the "star" lowest to the ground somehow was moving in a downward motion. It slowly dropped straight down until it was behind my neighbor's roof and I could not see it any more. The other two remained stationary, and as I had to hurry to work, I could not stay longer to watch. Interestingly, another member of my household saw a larger group of very similar UFOs on 7/15/01 (see reference in database) in the exact same spot over the neighbor's rooftop, but at a different time of the day and exhibiting different behavior.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34407.html](http://www.nuforc.org/webreports/reports/034/S34407.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/161/S161598.html)
-- [340](http://www.nuforc.org/webreports/reports/161/S161584.html)
-- [339](http://www.nuforc.org/webreports/reports/161/S161595.html)
-- [338](http://www.nuforc.org/webreports/reports/161/S161586.html)
-- [337](http://www.nuforc.org/webreports/reports/161/S161804.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
