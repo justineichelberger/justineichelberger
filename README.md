@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:24:28 on 10 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:01:44 on 10 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Ludington (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>UFO in Ludington MI - Large white Light went straight upOne object, 5 times the size of venus.  White light.  Hovered for a few minutes, and went straight up.  At first I thought it was going north, but it went straight up until it was a pinprick.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54662.html](http://www.nuforc.org/webreports/reports/054/S54662.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Eagle Rock (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>1/10/01 6:20 PM. Saw a large elongated tube cigar like object. Dark outside. Several long stream blinking lights. I was bewilderedFrom my living room window which overlooks terrific views of San Gabriel Mountains, 6;20pm. I noticed a helicopter hovering in a still position in front of the house clsoer towards the 134 West freeway are. AAttempting to shine its spot light upward into the sky at something. Then noticed an object approaching helicopter it appeared to be very elongated/ tubular/ cigar shapped with one long stream of white strobe blinking lights from front end to back end. Moving right towards helicopter/ helicopter fled and flew away extremely quickly. I maintained my visual sight of this craft for about 2-3 more minutes until it got so far away, i couldn't see it anymore.It flew in an up and down position as it wa fyling away. I saw the color of some of it. Dark Grey. No Wings, No extra lights, no other colors of light except one small red light on back end of the tube shaped object.((NUFORC Note:  We spoke at length with this witness, and we found her to be extremely credible and convincing.  We contacted the Pasadena Police Air Unit, whose jurisdiction this area is in, and, due to bad weather on this date,  they had helicopters in the air for only 26 minutes.  The illustration submitted by the witness is reminiscent of a Hughes 500 helicopter, which has a distinctive egg-shaped fuselage.  We would like to talk to the crew of the helicopter.  A similar sighting was reported from Woodland, CA, several days earlier, we understand from the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15872.html](http://www.nuforc.org/webreports/reports/015/S15872.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/161/S161598.html)
-- [340](http://www.nuforc.org/webreports/reports/161/S161584.html)
-- [339](http://www.nuforc.org/webreports/reports/161/S161595.html)
-- [338](http://www.nuforc.org/webreports/reports/161/S161586.html)
-- [337](http://www.nuforc.org/webreports/reports/161/S161804.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
