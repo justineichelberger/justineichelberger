@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:34 on 10 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:24:28 on 10 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sydney (Canada) (NS) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Strange Tumbling Lights in SkyI was outside around 6:30 pm December 10, 2015, and  a bright flash caught my perrifferal vision.  When I looked up, I saw 2 lights over top of each other, and were a distance apart. Then they started to roll or tumble in the sky, all the while staying exactly the same distance apart.  I best discribe it as a baton with a light on either end.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116639.html](http://www.nuforc.org/webreports/reports/116/S116639.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Ludington (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>UFO in Ludington MI - Large white Light went straight upOne object, 5 times the size of venus.  White light.  Hovered for a few minutes, and went straight up.  At first I thought it was going north, but it went straight up until it was a pinprick.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54662.html](http://www.nuforc.org/webreports/reports/054/S54662.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/161/S161598.html)
-- [340](http://www.nuforc.org/webreports/reports/161/S161584.html)
-- [339](http://www.nuforc.org/webreports/reports/161/S161595.html)
-- [338](http://www.nuforc.org/webreports/reports/161/S161586.html)
-- [337](http://www.nuforc.org/webreports/reports/161/S161804.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
