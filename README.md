@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:55 on 10 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:50 on 10 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Adelaide (South Australia) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Several people  witnessed positive UFO on clear day.I am a fifty two year old builder, married with three adult children. I was at a cricket match with friends. It was a fine day with blue sky and no clouds. If I had to estimate the size of it I would say it was about the size of a car, a small car.  We were standing in the shelter at one end of the oval looking straight out towards the other end of the oval. The object came over the top of the pine trees to our right and stopped right in front of us.There was enough time for me to gesture to my friend by touching his arm and pointing. I couldn't speak. I was renderred speachless. Not by the object but just by the shock of seeing it. It sounds so cliche that it was saucer in shape but it was and it was a distinct black on the underside and the silver of a wine bladder on top. The was no noise but if there was any we couln't hear it from where we were at the other end of the oval, and it didn't get the attention of people on the oval, that I know of. As it moved away it seemed to move in about before it went towards Para Hills at incredible speed and agian making no sound. During the time it was in front of us it was about 50 feet off the ground, and as it moved away it rose up to several hundred feet. When it sped off it did so in a straight line, then it disappeared out of sight in a split second, as though it had vanished. We expected to see reports in the paper about others who had seen it, but there was no mention of it. To this day, when we talk about it, the hair stands up on the back of my neck. I had always scoffed at other reports and they are lights in the night sky, I still do. But this was a clear day. It was about 26 years ago, but I can still see it. We have relived it dozens of times. I wish I had a camera, but I didn't and it's gone. It hasn't affected my life, and we haven't kept it a secret, and I don't expect this report will be any different to dozens just like it. I'm glad I did see it though, because it confirms to me, that there is more than just this world, Iv'e seen proof.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31995.html](http://www.nuforc.org/webreports/reports/031/S31995.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Pendle (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>A light hovered down the hill at a ridiculous speed.We was walking back down Pendle Hill, we turned around at the bottom to look back up and saw a light at the top.  This light then continued to move down the hill.  It was a circle like light that hovered over the hill moving rapidly down towards us.  It took us 50 minutes to get down the hill, yet the light moved half way down the hill in about a minute.  This ruled out it being a human, also vehicles are not permitted on the hill which ruled out a car etc.  We would like to here any plausible explanations please.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106175.html](http://www.nuforc.org/webreports/reports/106/S106175.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/161/S161598.html)
-- [340](http://www.nuforc.org/webreports/reports/161/S161584.html)
-- [339](http://www.nuforc.org/webreports/reports/161/S161595.html)
-- [338](http://www.nuforc.org/webreports/reports/161/S161586.html)
-- [337](http://www.nuforc.org/webreports/reports/161/S161804.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
