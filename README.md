@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:29 on 10 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:32 on 10 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lake Wales/Winter Haven (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Appeared like a solid rocket booster traveling horizontally then disappearedfor a minute showing up far away with a halo training it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116608.html](http://www.nuforc.org/webreports/reports/116/S116608.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Yauco (Puerto Rico) () reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Lights over Puerto Rico after earthquakehttps://www.facebook.com/mecanico01/videos/2958246177532435/</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152518.html](http://www.nuforc.org/webreports/reports/152/S152518.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/161/S161598.html)
-- [340](http://www.nuforc.org/webreports/reports/161/S161584.html)
-- [339](http://www.nuforc.org/webreports/reports/161/S161595.html)
-- [338](http://www.nuforc.org/webreports/reports/161/S161586.html)
-- [337](http://www.nuforc.org/webreports/reports/161/S161804.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
