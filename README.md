@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:30 on 10 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:15 on 10 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Winter Springs (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Looked like plane was going to crash behind one of the buildings in my community.I live in an apartment complex, I was sitting on the porch around 12:00 PM, when I noticed what looked like a plane flying right above the building, going in a downward motion behind one of the buildings. There is no Airport in the direction in which it was going down, and it went down extremely fast. I thought for sure that I would hear a plane crashing, but there was nothing. It just disappeared. Also, the object made barely any noise, Had it been a plane I am sure it would have made more noise than what I was hearing. Baffling!!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67967.html](http://www.nuforc.org/webreports/reports/067/S67967.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Katy (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Circular light seen  possible close by and then further away during morning.Witness age 12 was sitting at breakfast table and observed a light through the window blinds. This was in a East direction. She had sat there many times before without seeing lights. On this occasion, the light caught her attention.  Light appeared as a Yellow White light that was stationary.  Witness moved head while sitting to get a better view throught the window blinds. The blinds were about 1/3 to 1/2 open at the time.  The witness said the object was above the one story building next door.  It sat stationary for 15 seconds then it took off in northernly direction in a diagonal upward direction.  It was gone within 1 sec and the observer stated the light left a visual trail during that departure.  Possible visual after-effect.  Witness claims no head movement during this departure sequence as best as she could remember.  The witness reported no change in the size or shape during the entire visual encounter.  Object remained circular in shape and witness describes as a "light shinning at you" appearance.  This description was further clarified by the witness as a briht center with rays of light all around it.  Her impression was that this object was close and it was estimated to be about 300 feet away and about 25 ft above the ground and about 2 ft in diameter based on similar size objects like a fan on a trailer nearby at the same distance but only 8 ft off the ground.  The witness then went up to the window to open the blinds futher and then looked and saw nothing more for one minute. The same color light was seen again toward the southeast but appeared smaller (about a bbsize at arms length) and assumed to be further away and still above the building. This light was stationary for two seconds and then just blinked out.  No other objects seen after this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54680.html](http://www.nuforc.org/webreports/reports/054/S54680.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/161/S161598.html)
-- [340](http://www.nuforc.org/webreports/reports/161/S161584.html)
-- [339](http://www.nuforc.org/webreports/reports/161/S161595.html)
-- [338](http://www.nuforc.org/webreports/reports/161/S161586.html)
-- [337](http://www.nuforc.org/webreports/reports/161/S161804.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
