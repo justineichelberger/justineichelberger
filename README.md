@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:32 on 10 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:01:08 on 10 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Bergenfield (NJ) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Three "stars" in a perfect "v" formation, one drops slowly out of the sky.I was getting ready for work on the second floor of my house in the early morning, and I looked out of the bathroom window as I often do to see what the weather was. I was looking due west over the rooftop of the neighboring house. I saw the moon on the left (full moon) and to the right of the moon I saw three "stars" that were blinking. All three were twinkling blue/white. They all appeared equally bright. As I was looking at the three "stars" (which were lined up in a "v" or "isosceles triangular" formation, and two of them were exactly lined up from north to south), I noticed that the "star" lowest to the ground somehow was moving in a downward motion. It slowly dropped straight down until it was behind my neighbor's roof and I could not see it any more. The other two remained stationary, and as I had to hurry to work, I could not stay longer to watch. Interestingly, another member of my household saw a larger group of very similar UFOs on 7/15/01 (see reference in database) in the exact same spot over the neighbor's rooftop, but at a different time of the day and exhibiting different behavior.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34407.html](http://www.nuforc.org/webreports/reports/034/S34407.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Plymouth (MN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Possible sighting in Plymouth, MNWife woke up to a bright "almost purple white light" outside of 1st level apartment.  Looked like a helicoptor search light, but stationary and brighter.  Children in 3rd floor apartment woke up screaming and ran into parents bedroom screaming of aliens and to shut the door.  Child is 2 years old and hasn't watched anything regarding aliens or UFO's.  Wife saw light closed eyes thinking it was a plow, but there was no snow on the street to be plowed, no cars on the street either.  Opened eyes again to see it was still there, got out of bed and it "disappeared".  There was no sound when it disappeared or when it was visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48680.html](http://www.nuforc.org/webreports/reports/048/S48680.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/161/S161598.html)
-- [340](http://www.nuforc.org/webreports/reports/161/S161584.html)
-- [339](http://www.nuforc.org/webreports/reports/161/S161595.html)
-- [338](http://www.nuforc.org/webreports/reports/161/S161586.html)
-- [337](http://www.nuforc.org/webreports/reports/161/S161804.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
