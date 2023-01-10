@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:31 on 9 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:01:11 on 10 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Kapolei (HI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Re Submitted per Mr. Davenport request to detail the light description of objects.01.09.2010  While watering my grass at about 2135 hrs in Kapolei Hawaii, I witnessed two bright orb’s swarming acrobatic like around one another over the SW part of the Island.The Blue and Green lights were like someone pointing a bright flashlight at you from a distance.  The color and intensity resembled laser light.  It was neither incandescent nor florescent but very bright light like a high intensity LED.  The lights both gave out two small sharp rays of light from the orb’s body at a 45 degree angle towards the ground.  The trail of light  were small but visible. I thought it was someone pointing a laser light into the air but it was very bright and showed no trail from the laser’s origin.I stared at the two lights for about 30 seconds in shock trying to make out what it could be, initially I thought it was a hovering helicopter or a UAV but they moved way to fast and in different directions for it to be any aircraft I have ever seen.  At one time the blue orb shot straight upwards into a low cloud and then regrouped with the green orb.I got my video camera but couldn’t get a focus on the objects in time before they disappeared into the horizon.Both orbs are assumed to be at a estimated 5 to 10 thousand feet or more off my line of sight above the horizon.  My estimated of its location is off shore of the Chevron Oil processing plant in West Oahu, about 3 miles north of the Barbers Point Light House.I can not tell if it was over land or not but seemed to be just off shore.  It was impossible to get a scale size of the objects but that they seemed close to land.I called my friend who works at the ATC tower in Honolulu Airport but he called back and stated no reports from the tower.  I also contact a friend on the west side of the island but stated that he saw nothing.  The news had no reports as well.I am sure someone else saw it too.  It is possible for someone that was driving West on H1 Freeway towards Makakilo, HI at about 2130 - 2135 hrs.I hesitated to report this but there is no denying what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74047.html](http://www.nuforc.org/webreports/reports/074/S74047.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Rancho Cucamonga (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Fourth sighting of bright star like light moving in clear morning skies of Rancho Cucamonga, caThis morning at around 10:19am I saw a bright star like light moving toward the south up high in the sky.  It moved really slowly and it appeared to be changing color blue and white.  This is my fourth sighting of this thing.  It’s up high in the sky, higher then the airplanes.  It looks just like a star or small point of light.((NUFORC Note:  One of four sightings submitted recently by same witness.  We have spoken with the witness via telephone, and she sounds to us to be serious-minded and credible.  We do not know what she has witnessed.  The photos are blurry, and the object(s) she has captured with her camera are ambiguous, we believe.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67935.html](http://www.nuforc.org/webreports/reports/067/S67935.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/161/S161558.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161574.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161554.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161580.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161578.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
