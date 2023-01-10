@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:01:11 on 10 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:34 on 10 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Rancho Cucamonga (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Fourth sighting of bright star like light moving in clear morning skies of Rancho Cucamonga, caThis morning at around 10:19am I saw a bright star like light moving toward the south up high in the sky.  It moved really slowly and it appeared to be changing color blue and white.  This is my fourth sighting of this thing.  It’s up high in the sky, higher then the airplanes.  It looks just like a star or small point of light.((NUFORC Note:  One of four sightings submitted recently by same witness.  We have spoken with the witness via telephone, and she sounds to us to be serious-minded and credible.  We do not know what she has witnessed.  The photos are blurry, and the object(s) she has captured with her camera are ambiguous, we believe.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67935.html](http://www.nuforc.org/webreports/reports/067/S67935.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sydney (Canada) (NS) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Strange Tumbling Lights in SkyI was outside around 6:30 pm December 10, 2015, and  a bright flash caught my perrifferal vision.  When I looked up, I saw 2 lights over top of each other, and were a distance apart. Then they started to roll or tumble in the sky, all the while staying exactly the same distance apart.  I best discribe it as a baton with a light on either end.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116639.html](http://www.nuforc.org/webreports/reports/116/S116639.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/161/S161598.html)
-- [340](http://www.nuforc.org/webreports/reports/161/S161584.html)
-- [339](http://www.nuforc.org/webreports/reports/161/S161595.html)
-- [338](http://www.nuforc.org/webreports/reports/161/S161586.html)
-- [337](http://www.nuforc.org/webreports/reports/161/S161804.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
