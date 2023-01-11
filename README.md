@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:25 on 11 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:23 on 11 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Vero Beach (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>A single fireball traveling rather quickly from southeast to northwest where it disappeared into the clouds.I was walking my dog at approximately 9:30 p.m. this evening.  I was talking to my neighbor on the phone.  I was walking east and saw a light in the sky.  The light looked orange, but  thought maybe it was just a plane and because of  the clouds appeared orange.  The closer it came, it appeared to be fire.  I told my neighbor to hurry and come outside and see what I was seeing.  I was scared for a moment, thinking it was a plane on fire about to crash.  When it went over us, it appeared to be a ball of flames.  I could actually see what appeared to be flames.  It was mostly orange, a lighter color of orange. It is hard to determine the shape, but if I had to choose, I would say round.  The fireball traveled to the northwest fairly quickly.  I would say was traveling faster than I see most small planes travel, and seemed to just disappear.  The background was scattered clouds till heading towards the west where it became very cloudy.  I also heard no noise whatsoever.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116655.html](http://www.nuforc.org/webreports/reports/116/S116655.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Manteca (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately Almost daily - Almost daily minutes.</sub><blockquote><sub>Red transparent orb comes down from shipI've been watching the sky's since 12/16/17, when I first started noticing something in the sky that looked like a star but it had white and red lights twinkling.  But when I realized there were others who looked somewhat identical.  They've even come down and posed for photos on another night.  2 nights ago I put my tablet up in sky cuz I noticed they were up there posted just hovering  when I saw one moving west, I aimed tablet at it trying to record it when this report like object came down to me again but I can't see it in plain site only through Tablet camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138381.html](http://www.nuforc.org/webreports/reports/138/S138381.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/161/S161588.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161611.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161607.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161592.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
