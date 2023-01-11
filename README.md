@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:01:46 on 11 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:03:45 on 11 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Bayville (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Strange loud booming noises unknown origin.A series of very loud booms heard, 15 evenly spaced noises that I could not identify.  Not gunshots or construction.  Never heard anything like that.  Called Berkeley Twp. PD,  they said I was the 1st to call but as he was taking the info down a bunch of other calls started coming in.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106192.html](http://www.nuforc.org/webreports/reports/106/S106192.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 orange lights ascending and moving North over East Orlando 11/2013On a boat in Lake Maitland, witnessed 3 orange lights ascending from the OIA area (15 miles away) against air traffic.  Equal distance between them.  Moved pretty rapidly (like a plane).  Continual orange light.  Went out one after another, in order front to back.  All other air traffic moved opposite direction, except 1 high speed plane that followed the same path a couple minutes later.They looked like flares, but instead of falling, were going up and moving North pretty rapidly. Way too fast to be flying lanterns.  Covered many miles in a matter of just a few minutes.  Basically the same speed as a small plane.  Looked like planes taking off in formation for an air show, but no sound, and a steady orange glow.  Seen by others on the lake that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96132.html](http://www.nuforc.org/webreports/reports/096/S96132.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/161/S161588.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161611.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161607.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161592.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
