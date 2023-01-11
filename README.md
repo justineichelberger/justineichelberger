@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:24 on 11 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:51 on 11 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Richfield (WI) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A hovering craft was seen over a farm field with blinking lights.  The lights had a pattern.At 4:55 AM, in Richfield, Wisconsin, a cigar shape craft was seen hovering above a farm.  The craft had big, bright lights.  The lights seemed to be flashing or blinking in a pattern.  The light pattern continued for a minute and a half and then the lights and craft were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116650.html](http://www.nuforc.org/webreports/reports/116/S116650.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Independence (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>2 lights, 1 craft flying slowly, covered by clouds.My friend and I were outside when I noticed 2 lights go across the sky at the same time/speed/distance apart, leading us to believe it was coming from one huge craft.  It appeared to be right above the clouds so the shape was hard to see, but the lights were visible.The lights were a yellow/white.  The object was moving pretty slowly going from north to south.  The closest sound I can compare it to, would be a distorted helicopter.  It definitely was not a helicopter tho.  It was low enough to hear but high enough that it was concealed by clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153218.html](http://www.nuforc.org/webreports/reports/153/S153218.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/161/S161588.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161611.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161607.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161592.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
