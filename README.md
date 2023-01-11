@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:23 on 11 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:29 on 11 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Manteca (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately Almost daily - Almost daily minutes.</sub><blockquote><sub>Red transparent orb comes down from shipI've been watching the sky's since 12/16/17, when I first started noticing something in the sky that looked like a star but it had white and red lights twinkling.  But when I realized there were others who looked somewhat identical.  They've even come down and posed for photos on another night.  2 nights ago I put my tablet up in sky cuz I noticed they were up there posted just hovering  when I saw one moving west, I aimed tablet at it trying to record it when this report like object came down to me again but I can't see it in plain site only through Tablet camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138381.html](http://www.nuforc.org/webreports/reports/138/S138381.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Middletown (NJ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>3sec fireball flies over me.While driving North on GSP at Approximately mile marker 123-4 looking in my rearview mirror, I noitice a light that suddenly was growing larger very rapidly.  Next thing I realized it passed over me at about 600 feet.  It looked like a fireball skating across at the same height following the contour of the ground.  I noticed that because of the angle and location.  (I could see the curve of the horizon in my mirror)  From the time I spotted it to the time it was gone had to be 3 seconds at the most..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114745.html](http://www.nuforc.org/webreports/reports/114/S114745.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/161/S161588.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161611.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161607.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161592.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
