@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:51 on 11 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:33 on 11 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in North Myrtle Beach (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>Triangular shaped object, with three extremely bright lights, with 2 parallel lights on each back corner.  Object literally hovered over the area and then proceeded to very slowly move in a northern direction before exiting witnesses view.  Shortly thereafter, what sounded like a jet took off in direction of the unidentifiable object.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125215.html](http://www.nuforc.org/webreports/reports/125/S125215.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Fort Morgan (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Rounded ball of light seen S/SE in the early night sky, solid white, bluish edge with briefly visible reddish tail, falling downward.In between the hours of 20:30 and 21:50(unknown exactly) I stepped outside for a cigarette on my back porch. Naturally I gaze at the stars on my smoke breaks.  I turned my vision in the direction of S/SE for just a moment, and through the trees I noticed what appeared to be a shooting star.The event lasted at least 3 seconds.  Orion was almost directly above me to the south. I saw a small flash of light which appeared to be rounded in shape.  The size of it was at least ten times the size of a star visible from earth, or 1/10 the size of the moon as seen from earth.  It was going in a downward motion almost as if it were falling out of the sky. It was visible for ~3 seconds, white in color with some faint bluish tint on its edge with a brief faint tail of bright reddish color.I witnessed the full event in my peripheral vision and my first thought was 'shooting star'(which i have seen many of)  On my second thought, what I had seen had a flight path unlike a shooting star and a duration at least 3x that of a shooting star.  I spent the next ten minutes waiting to see it again and contemplating what it could have been.  It failed to appear again.My background or level of interest in anomalies such as this is purely a star gazing hobby with limited knowledge of constellations and cosmic activity.  My age range is 18-25, I am male.  Also I was not under the influence of any controlled substances or alcohol at the time.  My final assumption of the event was that it was a satellite falling from space (something I've not witnessed), but some part of me believes this to have been a UFO of some type. These statements are to the best of my memory and descriptive abilities.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86550.html](http://www.nuforc.org/webreports/reports/086/S86550.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/161/S161588.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161611.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161607.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161592.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
