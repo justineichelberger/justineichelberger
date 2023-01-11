@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:33 on 11 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:22 on 11 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in New Westminster (Canada) (BC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A flying cluster of white light orbs.About 8 orbs with white light inside flying at low level across the sky.  They were flying in a cluster heading East.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106213.html](http://www.nuforc.org/webreports/reports/106/S106213.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Hopkinton (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>orange-red lights above tree topsIt was Wednesday the 11th of January, 2012.I was in our house on the 2nd floor looking out the windows. My husband and I had been hearing these really loud jets in the sky for about a half an hour or so, so I went upstairs to see how close they were. I noticed the trails of the jets were all around the sky above our house.I went outside to get a look at these trails. The trails did loops directly above our house on all sides. There were a few jets with blinking lights, around 7 doing maneuvers all around the sky in view.. The trails were heavy and hanging for a long time so I stayed outside and looked for awhile.My husband had gone outside to the shed. I went back upstairs to check on the kids and looked out the window again, this time on the other side of the house (to the southwest). I saw 2 large orange-red orbs above the tree line. They were larger than the moon’s diameter . They were lined up at a 35% angle off the tree line. The craft made no sound.They looked as if they were going to fly right at our house, so I gathered the kids and took them downstairs. I actually thought at first it must be a really large plane that was going to crash into the house, I was assuming it was traveling at great speed. When nothing happened I went back upstairs to look and they were still the same distance away but parallel with the tree line, they hovered there for a minute before turning off for less than a second then reappearing. When they reappeared one was in between the spots they had been and the other was to the left of it, the same distance apart. After a minute or so the lights just disappeared.My husband was in the shed the whole time and saw the orange glow shining on the back wall, but was too low below the tree line to see the actual lights.Since then nothing until last night. We had been hearing the jets again and as I was putting our son to bed at around 9:00 I checked the sky (to the west) and saw an orange-red glow above the tree line. It was further away this time. I called my husband up to look and we watched it glow bright, change color, fade to a speck and glow again. This happened for a few minutes and then it lowered into the trees out of our view.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86726.html](http://www.nuforc.org/webreports/reports/086/S86726.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/161/S161588.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161611.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161607.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161592.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
