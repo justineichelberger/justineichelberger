@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:20 on 11 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:54 on 11 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sisseton (SD) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>light over south dakotaVery bright red light.. so bright you couldn't tell if it was just one.  Not a plane.. silent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118405.html](http://www.nuforc.org/webreports/reports/118/S118405.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Naples (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Triangular object rapidly crossing the sky with sideward movements.Around 11:35pm in Naples Fl. My wife and I were watching the stars from the lanai (unscreened) and observed a UFO crossing the sky at a very rapid speed, faster than any aircraft manmade.  The object had bright lights, three of them total, one that appeared to be in the middle and one on each side.  The object was moving so rapidly that the lights looked deim.  The object was triangle in shape with rear of the object perturding outward.  The object that one point made a unusal manuever that could not be completed by a manmade aircraft.  At the rate of speed it was traveling to make a sideward movement as it did would have been impossible with our aircrafts.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60790.html](http://www.nuforc.org/webreports/reports/060/S60790.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/161/S161588.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161611.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161607.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161592.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
