@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:29 on 11 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:01:46 on 11 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Falmouth (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large orange ball moves and hovers above house.-January 11, 2014I was sitting outside smoking a cigarette and I was looking at the sky, (mostly the clouds moving as it was a windy evening.)  I saw this large round orange ball and at first I thought it may be the full moon, although since the sighting, I've learned that we didn't have a full moon that night.  It was a little larger than a full moon would've been, and it was bright orange.  At first the clouds were moving in front of it, and then it started moving to my right across the sky.  Its movement was slow and steady unlike that of a shooting start or meteor.   It was much too large to be an airplane.   When it had moved to my right for some time it slowed and hovered in the sky.  Then it looked as if it rose up into the sky quickly and disappeared.  This disappearance was much quicker than the slow movement across the sky. I didn't hear any sounds during the event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106253.html](http://www.nuforc.org/webreports/reports/106/S106253.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Bayville (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Strange loud booming noises unknown origin.A series of very loud booms heard, 15 evenly spaced noises that I could not identify.  Not gunshots or construction.  Never heard anything like that.  Called Berkeley Twp. PD,  they said I was the 1st to call but as he was taking the info down a bunch of other calls started coming in.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106192.html](http://www.nuforc.org/webreports/reports/106/S106192.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/161/S161588.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161611.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161607.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161592.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
