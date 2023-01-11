@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:32 on 11 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:24 on 11 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Oviedo (town in Orlando) (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I was walking down the street to my neighborhood at 4 AM, and hovering what appeared to be maybe 150 feet from the ground (MUCH closer than a plane would fly) was a concentration spheres of light, with a blue beam coming from the center bottom of the object.  The blue beam seemed to be moving, and then the large lit up craft suddenly dissapeared.  The craft remained slightly in sight for about ten minutes, then lit back up to its original brightness, and in a split second flew backwards--it went from being relatively close to the ground to behind the cloud line in less than a second, the object traveled an immense distance in an unreasonable amount of time.  Then the object proceeded to get brighter and dimmer in the sky, get larger and smaller, and appear and reappear.  I got a good look at the bottom of the object in the sky, and it had 5 points, somewhat resembling a starfish shape. the whole ordeal took about 30 minutes, and I live in Florida; I have seen sh! uttles, planes, satalites, and choppers, this was unlike anything I have ever seen, it really didn't look like something human kind was capable of inventing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106195.html](http://www.nuforc.org/webreports/reports/106/S106195.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Richfield (WI) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A hovering craft was seen over a farm field with blinking lights.  The lights had a pattern.At 4:55 AM, in Richfield, Wisconsin, a cigar shape craft was seen hovering above a farm.  The craft had big, bright lights.  The lights seemed to be flashing or blinking in a pattern.  The light pattern continued for a minute and a half and then the lights and craft were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116650.html](http://www.nuforc.org/webreports/reports/116/S116650.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/161/S161588.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161611.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161607.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161592.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
