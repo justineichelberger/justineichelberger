@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:06:11 on 12 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:01:07 on 12 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Grass Valley (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>6 yellow orbs traveling west then turned south and went out.I was watching TV and looked out the window towards the east of my home.  I saw 6 yellow orbs that had the light and color of something burning.  I told my girlfriend and she saw them too.  I went outside to see what they were.  There was no sound what’s so ever.  The orbs continued west for a couple minutes and then two started to go around each other and then one of the them went out.  The rest continued south and then went out.  They went out and did not pass out of view, I have a view to the south for a long way and they were still within my view.  I called local sheriff’s office and they had no other calls.  I called local air force base, but they had no information.  My girlfriend found posting of similar/same sightings from the Sacramento area that occurred at the same time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95936.html](http://www.nuforc.org/webreports/reports/095/S95936.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Pinar del Rio (Cuba) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>the object was moving east at low speed and soundlessI was coming home aproxx 12:30 am walking, when i spotted lights coming from the west, first i thought it was a plane, then i realized it was approaching very slowly, i continued walking for a half block more, then i stopped to look up while the object was crossing the avenue some 100 mts over my head, there was not traffic at all, so i could clearly listen there was not a sound, the object seems to have triangular shape, with three white lights at each point and a red one in the center, it was heading east completely noiseless and very slowly, planes go much faster and you can hear the noise they make, i just look at it until it dissapeared behind the roof of the houses, as planes lights denotes the colour of the aircraft and sometimes the name of airline, this "thing" seems very dark colour.((NUFORC Note:  Witness indicates that the date of the incident may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46584.html](http://www.nuforc.org/webreports/reports/046/S46584.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
