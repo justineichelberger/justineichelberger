@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:01:02 on 12 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:42 on 12 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Sevierville (TN) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO seen in the night sky.While driving down the road at approximately 7:45 pm, we spotted an object about 20 feet above our vehicle.  The object was no certain form or shape, almost like a blob with no lights and absolutely no noise.  It moved very slowly, almost like it was gliding above us. The passenger stuck her head out of the window to try to view the object as it moved over the vehicle.  Within seconds, the object was gone and we could no longer find it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61033.html](http://www.nuforc.org/webreports/reports/061/S61033.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Granbury (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 11.0 - 11.0 minutes.</sub><blockquote><sub>Unusual object flying low at a slow speedOn January 12 on my way home from town as I was fixing to enter the community I live in something caught my attention. First, it was a flock of ducks flying southeast and as I looked at the ducks, another object caught my attention. It was a white object I thougt it was an airplane from one of the private airports around here but it didn't have an airplane shape nor did it make any sound.  I hurried home and grabbed my binoculars to have a better look at the object.  What I saw had no wings or propellers. Instead it had what appeared to be a black stripe of some sort or maybe a narrow window.  For a minute I thought it could've of been a remote control plane like the ones the airforce is using in Afghanistan, but I observed the object moving at a slow speed as if it were floating in place. I thought about calling the AFB to verify if they had picked up anything unusual flying around.  I watched it for about 11 minutes and then it diminished away...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21651.html](http://www.nuforc.org/webreports/reports/021/S21651.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
