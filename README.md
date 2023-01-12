@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:28 on 12 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:37 on 12 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Springfield (OR) reported seeing craft that fit the description of some 'Changing' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>black floating object with lightsstarted out as a black blurry car shape with a light pointing down.  appeared to be downward facing spot light.  split into two lights both pointing in the opposite directions.  floated in an easern direction then were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79661.html](http://www.nuforc.org/webreports/reports/079/S79661.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Stuart (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Few minutes - Few minutes minutes.</sub><blockquote><sub>Line of white lights over southeast FloridaLinear line of few dozen (aircraft) designated by only a bright white light, high altitude, moving from southwest to northeast. All followed same path, fairly uniform distance between them, with a few gaps.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152556.html](http://www.nuforc.org/webreports/reports/152/S152556.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
