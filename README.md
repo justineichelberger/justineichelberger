@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:01:02 on 12 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:06:11 on 12 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Tarpon Springs (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Tarpon Springs Small Triangle Craft.It was a clear sky. Object was the size of a Cessna plane and flew 200ft up.  We noticed it as I was driving on US 19 SB approaching alternate 19 to turn right.  Before I turned I got a good look at it.  It looked ominous and had no solid red or green FAA light.  It had 1 bright red light that pulsed up and down and I saw 3 tiny red lights in a row on the edge of the craft.  As I made the turn and drove away from US 19 on Alt 19, it flew by again was a little higher up and I lost sight of it driving.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132183.html](http://www.nuforc.org/webreports/reports/132/S132183.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Grass Valley (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>6 yellow orbs traveling west then turned south and went out.I was watching TV and looked out the window towards the east of my home.  I saw 6 yellow orbs that had the light and color of something burning.  I told my girlfriend and she saw them too.  I went outside to see what they were.  There was no sound what’s so ever.  The orbs continued west for a couple minutes and then two started to go around each other and then one of the them went out.  The rest continued south and then went out.  They went out and did not pass out of view, I have a view to the south for a long way and they were still within my view.  I called local sheriff’s office and they had no other calls.  I called local air force base, but they had no information.  My girlfriend found posting of similar/same sightings from the Sacramento area that occurred at the same time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95936.html](http://www.nuforc.org/webreports/reports/095/S95936.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
