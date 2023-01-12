@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:27 on 12 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:33 on 12 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Ceres (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Fireballs seen from Ceres, CaliforniaWe were driving West on Whitmore Ave. in Ceres, California.  I don't remember which night it was, but it was near the 12th of January.  We were just starting our incline as we were starting to cross the overpass and we saw a three flashes of light.  Each flash of light looked like a small orange fireball and they appeared and disappeared in three distinct spots.  It was almost as if someone had lit something on fire and put it out really quickly and it was too high in the sky to be a firework.  My partner who was driving asked if I had seen what he just did.  I confirmed with him that I did.  We entered the freeway and our view was blocked by trees.  We saw a few more flashes behind the trees and after the trees cleared, we saw one more of the objects flash and disappear.  I watched for more on the rest of the drive home and I did not see anything after that.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79716.html](http://www.nuforc.org/webreports/reports/079/S79716.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Monroe (LA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Unusually fast and triangular shaped craft with red and green flickering lights underneathOn Monday night, Jan. 19th my wife and I saw a triangular shaped craft flying unusally fast over our apartment complex.  The craft had a triangular shaped silhouette woth an unusual lighting pattern on the bottom and to the rear.  This pattern of lights were mostly red and green and flickered across as if they were blinking on in sequence.  This craft was also almost silent and did not make the usual jet or airline sounds I normally hear. This craft was probably about 10 to 15 thousand feet up and flew about two to three times the velocity of a normal airline jet.  I have never seen anything like it before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68024.html](http://www.nuforc.org/webreports/reports/068/S68024.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
