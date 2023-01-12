@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:23 on 12 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:36 on 12 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ridgeland (SC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>cigar shape slow moving above tree topsI was wide awake and walking out to my vehicle to respond to a structure fire at 1:23AM and noticed a very large slow moving cigar shaped craft that was moving very slow right above the tree tops, no more than 300 to 400 feet away from me and made no sound.  The sky was clear and the moon was almost full, so when i grabbed my night vision gen3 monocle it was hard to see the craft clearly, but i could see no wings only the fuselage.  The body of the craft or fuselage was abnormally long and appeared to be at least twice the length of any aircraft I've ever seen and I've dealt with many different aircraft as I was once in the USAF's Crash Rescue Team.  It did not have standard aircraft light markings, its lights seemed backwards... The red blinking/pulsating light was on the front and it had 2 white dimmer lights on the rear.  Within a minute it was across my yard and into a very large open field area and as I left my house en route to the emergency call i looked ! to my left across the field and it was gone.  It should have been very visible at the slow speed it traveled which was almost a hover or landing speed.I have seen many military aircraft over the years and Emergency Medical Life flights come over my house very low, but nothing like this and you can hear them for miles, this thing was silent.  Also, no other aircraft in the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86531.html](http://www.nuforc.org/webreports/reports/086/S86531.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Sharjah (United Arab Emirates) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>At the time just when sun rises looking towards sun rise vertical plane with ~45 degree (elevation) a bright oval body appeared including surrounding more brighter spots I try to bring my camera but unfortuntly batteries were empty when coming back to my balcony (5 minuits later) it wase dissappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27058.html](http://www.nuforc.org/webreports/reports/027/S27058.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
