@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:42 on 12 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:27 on 12 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Granbury (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 11.0 - 11.0 minutes.</sub><blockquote><sub>Unusual object flying low at a slow speedOn January 12 on my way home from town as I was fixing to enter the community I live in something caught my attention. First, it was a flock of ducks flying southeast and as I looked at the ducks, another object caught my attention. It was a white object I thougt it was an airplane from one of the private airports around here but it didn't have an airplane shape nor did it make any sound.  I hurried home and grabbed my binoculars to have a better look at the object.  What I saw had no wings or propellers. Instead it had what appeared to be a black stripe of some sort or maybe a narrow window.  For a minute I thought it could've of been a remote control plane like the ones the airforce is using in Afghanistan, but I observed the object moving at a slow speed as if it were floating in place. I thought about calling the AFB to verify if they had picked up anything unusual flying around.  I watched it for about 11 minutes and then it diminished away...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21651.html](http://www.nuforc.org/webreports/reports/021/S21651.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Ceres (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Fireballs seen from Ceres, CaliforniaWe were driving West on Whitmore Ave. in Ceres, California.  I don't remember which night it was, but it was near the 12th of January.  We were just starting our incline as we were starting to cross the overpass and we saw a three flashes of light.  Each flash of light looked like a small orange fireball and they appeared and disappeared in three distinct spots.  It was almost as if someone had lit something on fire and put it out really quickly and it was too high in the sky to be a firework.  My partner who was driving asked if I had seen what he just did.  I confirmed with him that I did.  We entered the freeway and our view was blocked by trees.  We saw a few more flashes behind the trees and after the trees cleared, we saw one more of the objects flash and disappear.  I watched for more on the rest of the drive home and I did not see anything after that.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79716.html](http://www.nuforc.org/webreports/reports/079/S79716.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
