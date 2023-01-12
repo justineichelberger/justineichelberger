@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:35 on 12 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:29 on 12 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Atlantic Ocean () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Groups of star-like objects following same path in sky.1/11/20.  Was on cruise ship between Cuba and Miami heading north/northeast.  Our room was on the starboard side of the ship facing east.  Was on the balcony at approximately 6:30 p.m. EST prior to the nearly full moon rising.  Was looking at Betelgeuse to see if there were any significant changes in magnitude that I might notice with the unaided eye.While l looking at Betelgeuse,  I saw what I at first thought was a satellite passing just above it.  It was just star-like light.  I tracked it to the north of Betelgeuse just a few degrees before it dimmed out.  Typical for a satellite.  Then I looked back at Betelgeuse and there were 3 more identical objects, each following the other.  In a straight line in a follow-the leader style.  They followed the same path as the first lone object I observed and disappeared.  At this time, I started yelling at my husband to come see because now there were two additional objects, followed my three to four more.  I counted a total of 17 objects before this stopped.  They were not evenly spaced and appeared in groups of 2 to 4 objects each.  My husband did not get outside in time to see them.  Total sighting lasted approximately a minute.  Objects moved at about the speed of an orbiting satellite.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152566.html](http://www.nuforc.org/webreports/reports/152/S152566.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Kapaa (HI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>2 objects seen by the naked eye by 3 different people at the same time.1st object was spinning towards the eastern part of the sky.  Moving sharply up, down, left, and right. Has green, blue, and red lights spinning in a clockwise motion. Moving in big circles and square formations. 2nd object was round and orange.  Moving in the same fashion as the 1st. The 2nd object was north east part of the sky.  Both were very obvious to the naked eye.  This is the second time spotting these in the past 3 months.Just a little info on our island, our airport closes every night by midnight.  Those planes can be heard and seen almost all over our island.  These objects had no noise and were close enough to see clearly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95926.html](http://www.nuforc.org/webreports/reports/095/S95926.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
