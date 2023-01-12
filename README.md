@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:29 on 12 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:21:46 on 12 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Kapaa (HI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>2 objects seen by the naked eye by 3 different people at the same time.1st object was spinning towards the eastern part of the sky.  Moving sharply up, down, left, and right. Has green, blue, and red lights spinning in a clockwise motion. Moving in big circles and square formations. 2nd object was round and orange.  Moving in the same fashion as the 1st. The 2nd object was north east part of the sky.  Both were very obvious to the naked eye.  This is the second time spotting these in the past 3 months.Just a little info on our island, our airport closes every night by midnight.  Those planes can be heard and seen almost all over our island.  These objects had no noise and were close enough to see clearly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95926.html](http://www.nuforc.org/webreports/reports/095/S95926.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lexington (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>15 to 25 orange round lights above Lexington in a formationWe saw about 15 to 25 orange round lights following each other in a formation in kind of a straight line..some of the lights fading out of the formation.  We guessed that the lights could be about 1500 feet up.  The strange thing no sound like you would expect from an aircraft.  This was witnessed in the night sky above Lexington/Columbia SC.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95934.html](http://www.nuforc.org/webreports/reports/095/S95934.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
