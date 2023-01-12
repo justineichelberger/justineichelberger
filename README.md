@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:36 on 12 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:26 on 12 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Sharjah (United Arab Emirates) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>At the time just when sun rises looking towards sun rise vertical plane with ~45 degree (elevation) a bright oval body appeared including surrounding more brighter spots I try to bring my camera but unfortuntly batteries were empty when coming back to my balcony (5 minuits later) it wase dissappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27058.html](http://www.nuforc.org/webreports/reports/027/S27058.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Ashtabula (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Triangular object followed by two other strange UFOsOn 1-12-05 about 7pm or few minutes after I was walking back from my brother's house (2 doors down) and I saw this big spotlight object flying from the west. (I live on West 13th St Ashtabula Ohio.)  I was thinking that it was probably "Life flight" coming into ACMC (Ashtabula County Medical Center) so I stayed at the bottom of my driveway to watch. When it got closer the white light diminished. By the time that this craft was over me I could swear I could see a black triangular shape with a series of different colored lights flashing rapidly on all three corners. No noise! Was listening for chopper sounds. Never heard them. Well,  I ran back down to my brother's house to have him come outside. When he got outside it was to far away. My brother didn't know what to think. All of a sudden my brother asked,"Whats that?" Another one (higher up; again no noise and flying from the west)lights flashing on and off but no distinctive shape. Just as we were about to discuss what we saw? A third one appeared ( A little lower than the second and you could make out just a little bit of a strange shape.) lights rapidly flashing. I went down to the Medical Center to see if a helicopter was on the pad to make sure. No signs of a helicopter there. Everything was quiet!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41500.html](http://www.nuforc.org/webreports/reports/041/S41500.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
