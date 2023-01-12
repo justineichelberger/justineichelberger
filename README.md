@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:23 on 12 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:23 on 12 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ventura (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Blue/red light seen 'dancing' above Ventura, CAWhile walking back to my car after visiting the bank, my girlfriend pointed out a light in the night sky, noting that it was unusual.  I looked up and saw a purple-colored light in the sky, heading away from us.  I commented that it was strange, as usually airplane lights are red or white, but didn't think very much of it.  A couple moments later, as we arrived back at my car, I looked up again at the object and saw that in the 30 seconds since it was last observed it had completely reversed direction and was heading vaguely towards us.Realizing that this light may actually be queer, we stopped to observe it.  As it got closer, I noticed that the light was not purple, but was made up of both blue and red lights.  The center of the object was a series of red lights, arranged horizontally.  Above and below the red lights were blue lights that almost looked halo-like. It was the sandwiching of these lights that initially made the object appear purple.As we watched, the object stopped moving towards us and began moving in circular motions.  The lights continually faded in and out while this was happening.  Its movement was not confined to simple circles, and was fairly erratic.  It would circle around in one direction, then stop, then rise up again and then seem to appear in another spot when its lights faded back in.  At one point, the entire object tilted on its side and seemed to dive towards the ground, only to reappear higher up again.We observed the object for around 6 minutes before it began moving away from us, towards the beach.  We decided to try to follow it, but we couldn't find it again after we left the parking lot.  We went to the beach to see if maybe it had made its way out to sea, but it did not show itself again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86546.html](http://www.nuforc.org/webreports/reports/086/S86546.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Bath (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>bright glowing light darting across the sky.pretty much what had happened was i was in the passanger seat when i looked out my side window and saw a light up in the sky similar to a star but larger than what a normal star would be, this is what caught my attention. we were making a left, at that point we were at a stop sign, the light disapeared for a moment and then reapeared about what looks like 4 feet from down here but up in space is probably miles away from the spot that it had been in just before that. i then tried to tell the driver to stop but we couldnt so i kept my eye on it, it disapeared again and at that point we got into our driveway so i got out and looked up and it had apeared again much much further to the east than it had been just before and then flashed across to my left, its right, at a fast pace that it looked like it had a tail for a moment, then a larger bit of a flash and then it was gone. i waited to see if it would come back for about an hour but that was all i saw of it. it was DEFINITLY some sort of craft, i didnt think of filing a report until i saw about that thing in texas though. maybe their starting to get curious out there!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61030.html](http://www.nuforc.org/webreports/reports/061/S61030.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
