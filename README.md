@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:04:22 on 12 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:09:35 on 12 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Burbank (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>It appeared to be cascading down the tree outside, a huge fir with a slanting shape. The object curled down in puff-like shapes of smoke(?) and then stopped, a round shaped appeared and glowed colors of blue and green then the glowing stopped and it seemed to disappear in a fast straight line away into the night. my reaction was simple, another UFO, oh, one of those...that's different from others that I've seen...esp. just right outside my window...I love it!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21064.html](http://www.nuforc.org/webreports/reports/021/S21064.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>L shaped lights.I went outside to get some air and looked up and saw hovering craft with weird light in like an "L" shape?  Moved fast then was gone heading toward Easton and 270.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125235.html](http://www.nuforc.org/webreports/reports/125/S125235.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
