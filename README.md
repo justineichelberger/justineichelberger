@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:29 on 11 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:35 on 12 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Middletown (NJ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>3sec fireball flies over me.While driving North on GSP at Approximately mile marker 123-4 looking in my rearview mirror, I noitice a light that suddenly was growing larger very rapidly.  Next thing I realized it passed over me at about 600 feet.  It looked like a fireball skating across at the same height following the contour of the ground.  I noticed that because of the angle and location.  (I could see the curve of the horizon in my mirror)  From the time I spotted it to the time it was gone had to be 3 seconds at the most..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114745.html](http://www.nuforc.org/webreports/reports/114/S114745.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Atlantic Ocean () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Groups of star-like objects following same path in sky.1/11/20.  Was on cruise ship between Cuba and Miami heading north/northeast.  Our room was on the starboard side of the ship facing east.  Was on the balcony at approximately 6:30 p.m. EST prior to the nearly full moon rising.  Was looking at Betelgeuse to see if there were any significant changes in magnitude that I might notice with the unaided eye.While l looking at Betelgeuse,  I saw what I at first thought was a satellite passing just above it.  It was just star-like light.  I tracked it to the north of Betelgeuse just a few degrees before it dimmed out.  Typical for a satellite.  Then I looked back at Betelgeuse and there were 3 more identical objects, each following the other.  In a straight line in a follow-the leader style.  They followed the same path as the first lone object I observed and disappeared.  At this time, I started yelling at my husband to come see because now there were two additional objects, followed my three to four more.  I counted a total of 17 objects before this stopped.  They were not evenly spaced and appeared in groups of 2 to 4 objects each.  My husband did not get outside in time to see them.  Total sighting lasted approximately a minute.  Objects moved at about the speed of an orbiting satellite.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152566.html](http://www.nuforc.org/webreports/reports/152/S152566.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/161/S161588.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161611.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161607.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161592.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
