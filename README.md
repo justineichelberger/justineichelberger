@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:37 on 12 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 12 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Stuart (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Few minutes - Few minutes minutes.</sub><blockquote><sub>Line of white lights over southeast FloridaLinear line of few dozen (aircraft) designated by only a bright white light, high altitude, moving from southwest to northeast. All followed same path, fairly uniform distance between them, with a few gaps.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152556.html](http://www.nuforc.org/webreports/reports/152/S152556.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Huntsville (AL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Daylight-Saucer with cloud and two other lights pI was on my way to work when I noticed something flying in the sky in the distance. I watched  it, the sky was bright blue and sunny outside.  I watched the whole drive to work and saw it did not fly in a straight line, it was saucer shaped and not a helicopter or airplane.  It was highly reflective, I tried to take picture while on my way to work- I could still see it after I got to work way in the distance because the sun was bouncing off it so brightly.When I got home and reviewed the picture I took, I noticed a cloud i had only slightly paid attention to before because it was the only cloud in the sky looked peculiar to AND--Next to the cloud in my picture there are two super bright lights with trails behind them.  My picture of the saucer is so off in the distance you can't really see it bit upon examination the other two lights that I did not see while taking the picture are far more interesting.I took a picture immediately after and the cloud is dissipating and the two bright lights are gone</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106276.html](http://www.nuforc.org/webreports/reports/106/S106276.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
