@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:21:46 on 12 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:23 on 12 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lexington (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>15 to 25 orange round lights above Lexington in a formationWe saw about 15 to 25 orange round lights following each other in a formation in kind of a straight line..some of the lights fading out of the formation.  We guessed that the lights could be about 1500 feet up.  The strange thing no sound like you would expect from an aircraft.  This was witnessed in the night sky above Lexington/Columbia SC.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95934.html](http://www.nuforc.org/webreports/reports/095/S95934.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ventura (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Blue/red light seen 'dancing' above Ventura, CAWhile walking back to my car after visiting the bank, my girlfriend pointed out a light in the night sky, noting that it was unusual.  I looked up and saw a purple-colored light in the sky, heading away from us.  I commented that it was strange, as usually airplane lights are red or white, but didn't think very much of it.  A couple moments later, as we arrived back at my car, I looked up again at the object and saw that in the 30 seconds since it was last observed it had completely reversed direction and was heading vaguely towards us.Realizing that this light may actually be queer, we stopped to observe it.  As it got closer, I noticed that the light was not purple, but was made up of both blue and red lights.  The center of the object was a series of red lights, arranged horizontally.  Above and below the red lights were blue lights that almost looked halo-like. It was the sandwiching of these lights that initially made the object appear purple.As we watched, the object stopped moving towards us and began moving in circular motions.  The lights continually faded in and out while this was happening.  Its movement was not confined to simple circles, and was fairly erratic.  It would circle around in one direction, then stop, then rise up again and then seem to appear in another spot when its lights faded back in.  At one point, the entire object tilted on its side and seemed to dive towards the ground, only to reappear higher up again.We observed the object for around 6 minutes before it began moving away from us, towards the beach.  We decided to try to follow it, but we couldn't find it again after we left the parking lot.  We went to the beach to see if maybe it had made its way out to sea, but it did not show itself again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86546.html](http://www.nuforc.org/webreports/reports/086/S86546.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
