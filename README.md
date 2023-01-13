@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:29 on 13 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:45 on 13 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Sumner (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Tiara shaped cluster of lights and a single light departing from it toward the ground.I was driving NW on 5th in Sumner WA toward the bridge over the Puyallup River when I noticed a group of lights in the sky above and slightly to the left of my position.  This group of lights were clustered in the shape I would describe as a tiara or crown.As i looked at this appearent object a single light departed from the object and descended toward the ground at a sharp angle, looking very much under control- moving steadily on in a straight line toward the Earth. I pulled over to the side of the road, afraid that I might lose sight of the object and rolled down my car window.  The object had been pulsing slowly brighter then dimmer at a slow but steady pace during my observation of it and seconds after I stopped it faded into the clouds.  I remained for a couple minutes to see if it might emerge again, but I saw nothing more.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41515.html](http://www.nuforc.org/webreports/reports/041/S41515.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Henderson/Thronton/Brighton (CO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>These lights were not normal aircraft.Cannot confirm these objects were of ET origin, could have been military.  What I am sure of is that it was not a normal aircraft.  My friend and I are driving back from the gym to see 3 bright lights in the sky.  Also in the sky at varied distances were a multitude of helicopters and aircraft, these 3 lights were much larger and brighter than any other light in the sky.  They were twinkling much as a star would.  But again much larger and brighter than any other star in sight.  They were equally spaced apart all at different altitudes, forming a slanted line if the dots were connected.  As we drove closer (still far in the distance) the lowest of the lights descended to the horizon line.  As we continued to drive and get a better view, the two lights that remained higher projected smaller lights from them.  The highest one projected a small light that hovered above it, while the second remaining light projected a light that seemed to shoot to the higher light much as a shooting star would.  It is fair to say that my view of the second projected light was obscured.  But I saw the first projection with no obscurity.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106294.html](http://www.nuforc.org/webreports/reports/106/S106294.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161619.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161974.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161618.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161625.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
