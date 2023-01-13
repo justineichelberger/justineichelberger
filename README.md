@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:24:54 on 13 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:02:06 on 13 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>ROW OF 4 MAGENTA LIGHTS LOW IN THE DARK SKY THAT SUDDENLY VANISHEDON SATURDAY EVENING IN NORTH CENTRAL TUCSON, ARIZONA ON 1-13-07 AT APPROXIMATELY 6:15 PM MY SPOUSE AND I WENT TO THE CAR IN THE PARKING AREA TO THE EAST OF THE HOUSE.  DIRECTLY TO THE EAST,  LOW,  BUT WELL ABOVE THE TREES AND HOUSES WE SAW A SLIGHTLY CURVED ROW OF 4 VERY BRIGHT MAGENTA LIGHTS LIKE THE LANDING LIGHTS ON AN AIR PLANE AND GETTING BRIGHTER AS IF THEY WERE COMING TOWARD US.  SUDDENLY THEY VANISHED.   AFTER THE MAGENTA LIGHTS VANISHED AND SLIGHTLY LOWER THAN WHERE THEY HAD BEEN,  WAS A FAINT ROW OF WHITE LIGHTS, MUCH SMALLER AND ALSO SLIGHTLY BOWED.  AFTER 2 OR 3 SECONDS, THOSE LIGHTS ALSO VANISHED.  NOTHING BUT DARKNESS.  I HAVE NEVER BELIEVED IN UFO'S, AND I DON'T BELIEVE IN MAGIC.  BUT I HAVE NO IDEA WHAT I SAW?????? I CONTACTED THE LOCAL PAPER, BUT APPARENTLY NO ONE ELSE HAD REPORTED ANYTHING.WE ARE A PROFESSIONAL COUPLE W/ LLB AND MS DEGREES.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54819.html](http://www.nuforc.org/webreports/reports/054/S54819.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Newark (NJ) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>UFO'S in Newark, NJ1/31/17 AT 1:00A.M.EST.  I heard a humming sound.  I thought it was my heating unit, but then a light shined in my bedroom.  I looked out the window and in the sky was 2 lights with a red light in between the 2 white light.  The white lights looked light 2 eyes with a red nose.  I thought it was a drone.  But then it started to head in the direction of my room.  As it got closer, the humming sound eased up.  All I said was this looks like eyes looking at me. It flew over my home, but then in a matter of seconds it reappeared in the original location, that I saw it in.  All of a sudden, the eyes split apart and this red like tail curved like a snake into one little red light.  At that point I told myself I'm not loosing my mind. I truly didn't sleep well.  At 10;00 a.m. est, I got online and started to read UP ON UFO SIGHTINGS.  I told a few people and they said I was crazy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132400.html](http://www.nuforc.org/webreports/reports/132/S132400.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161619.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161974.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161618.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161625.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
