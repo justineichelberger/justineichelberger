@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:45 on 13 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:53 on 13 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Henderson/Thronton/Brighton (CO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>These lights were not normal aircraft.Cannot confirm these objects were of ET origin, could have been military.  What I am sure of is that it was not a normal aircraft.  My friend and I are driving back from the gym to see 3 bright lights in the sky.  Also in the sky at varied distances were a multitude of helicopters and aircraft, these 3 lights were much larger and brighter than any other light in the sky.  They were twinkling much as a star would.  But again much larger and brighter than any other star in sight.  They were equally spaced apart all at different altitudes, forming a slanted line if the dots were connected.  As we drove closer (still far in the distance) the lowest of the lights descended to the horizon line.  As we continued to drive and get a better view, the two lights that remained higher projected smaller lights from them.  The highest one projected a small light that hovered above it, while the second remaining light projected a light that seemed to shoot to the higher light much as a shooting star would.  It is fair to say that my view of the second projected light was obscured.  But I saw the first projection with no obscurity.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106294.html](http://www.nuforc.org/webreports/reports/106/S106294.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Carlsbad (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>two hazy lights circling in the sky, joining, and disappearing.Late wednesday night around 11:00 pm, as I was closing the curtains to my bedroom which faces a clear sky, I saw, what I thought was two spotlights circling the somewhat clouded sky, after a few seconds of focus upon the strange lights, I noticed no usual beam which would characterize a spotlight from the ground. Then I watched as the two hazy lights flew in a perfect circle following each other in what seemed to be a game. One would catch up to the other while the other flew behind. This lasted roughly forty-five minutes. All the while dogs around the neighborhood barked loudly together (strange). Around 11:45 pm the two lights instantly joined as one while my mother and I watched as the one light circled by itself for roughly ten more minutes. The light then instantly disappeared, leaving no trace of its presence in the night sky. There was no sound whatsoever. The object/s was definitely above the clouds, because the light became brighter as it traveled through thinner areas of the cloud.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41558.html](http://www.nuforc.org/webreports/reports/041/S41558.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161619.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161974.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161618.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161625.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
