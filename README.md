@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:53 on 13 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:50 on 13 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Carlsbad (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>two hazy lights circling in the sky, joining, and disappearing.Late wednesday night around 11:00 pm, as I was closing the curtains to my bedroom which faces a clear sky, I saw, what I thought was two spotlights circling the somewhat clouded sky, after a few seconds of focus upon the strange lights, I noticed no usual beam which would characterize a spotlight from the ground. Then I watched as the two hazy lights flew in a perfect circle following each other in what seemed to be a game. One would catch up to the other while the other flew behind. This lasted roughly forty-five minutes. All the while dogs around the neighborhood barked loudly together (strange). Around 11:45 pm the two lights instantly joined as one while my mother and I watched as the one light circled by itself for roughly ten more minutes. The light then instantly disappeared, leaving no trace of its presence in the night sky. There was no sound whatsoever. The object/s was definitely above the clouds, because the light became brighter as it traveled through thinner areas of the cloud.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41558.html](http://www.nuforc.org/webreports/reports/041/S41558.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Thornton (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>Out of place contrailI was bringing my dog back from the park.when I pulled into my parking space I noticed an unusual contrail type thing in the skies out toward the east in the area of Denver International Airport.I am older and I don't see real well and could not make out a craft making this contrail.I am not sure how long it lasted I was called away to the phone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161623.html](http://www.nuforc.org/webreports/reports/161/S161623.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161619.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161974.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161618.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161625.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
