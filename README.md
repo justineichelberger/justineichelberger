@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:39 on 13 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:51 on 13 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Rapid traveling balloon-shaped object  travels up wind, and flies off after a 30-45 second show.My daughter was driving us to a drive-in fast food chain for dinner after we were moving her into an apartment on the east / northeast side of Louisville, Kentucky.I looked to my right from the passenger seat and viewed what i thought a balloon someone had just let loose. The sun had set and the sky was almost dark but still had a slight glow to the sky. The balloon object; no lights,  was flying away from my position like a knuckle ball at about the 2:00 o'clock position, but the wind was blowing into my face from the north. Than without a noise, the balloon object went straight up about 12:00 o'clock position, dove straight down to the left, came right at us over another fast food place and grew to about 10'-14' in diameter.I told my daughter to look at the object when i pointed over the buildings horizon. She saw the tear dropped balloon looking object and within a second it darted up and out to the left and was gone in 1 sec. It shrank in size as if traveling at a very very high rate of speed. Again no noise.If it were a balloon, how could the balloon travel seem to go against the wind about 1/4 mile and hover perfectly still, move again very quickly, hover, and take off like it was shot out of cannon?  I am not a true beliver in UFO's but this was a very curious encounter, and after watching your show for the first time this past Saturday, I thought I would pass this info to you. All the best. D.T. Louisville, KY</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68657.html](http://www.nuforc.org/webreports/reports/068/S68657.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Ogden (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately on my way to bed - on my way to bed minutes.</sub><blockquote><sub>light that you could not moveme and my husban were laying in bed it was dark flashing bright light like a sparkler it was that bright with light blue in the center all i could do is say if you are not from God leave and then my  light came on . I could not move when the light was in my face. I just would like to no if that has ever happen to any on.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80235.html](http://www.nuforc.org/webreports/reports/080/S80235.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161619.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161974.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161618.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161625.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
