@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:50 on 13 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:31 on 13 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Thornton (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>Out of place contrailI was bringing my dog back from the park.when I pulled into my parking space I noticed an unusual contrail type thing in the skies out toward the east in the area of Denver International Airport.I am older and I don't see real well and could not make out a craft making this contrail.I am not sure how long it lasted I was called away to the phone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161623.html](http://www.nuforc.org/webreports/reports/161/S161623.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Kamloops (Canada) (BC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Massive dome shaped bright brilliant blue light, like a huge welding arc, spanning a massive distance on the horizon of crown land (rolling hills and forest at high elevation), that flashed several times, paused, then flashed several times again and stopped.  Others in the family have sited large red/orange spheres and lights that dart away coming from that same location usually around 23:00 hours.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125262.html](http://www.nuforc.org/webreports/reports/125/S125262.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161619.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161974.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161618.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161625.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
