@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:40 on 13 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:31 on 13 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Carson City (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>I know what I saw, technology well above usI only know the date because I found the post I wrote on Facebook the night this occurred. Time is estimated at 7pm PST, I'm probably within an hour. I remember this like it was yesterday and will never forget.To be frank I stepped outside my garage door to relieve myself and smoke a cig. Clear black valley sky, there wasn't much light here at the time, and there still isn't. I was facing North, when my peripheral caught a bright light approx. 20 degrees east off the ground floor. I may have thought it were a low flying airplane very close by, except what happened next. I only saw it in this state for 1/2 a second tops. The "craft" may have been stationary at the time. Maybe it was gaining power (light) before take-off which caught my attention. The craft looked very close by in that state, maybe 1/8th a mile away, but it could have been 3 miles away for all I know, hard to tell because it was dark. If I had to guess it was above the Carson river or pasture.Then the craft took off approx. 70-75 degrees north at unbelievable speed. One moment it looked like the low flying craft described, the next the light was as bright as a high altitude jet, the next like a satellite & gone. But it never changed course, always 70-75 degrees north on a straight line. I steadily watched every bit of it under that sky for a total of 6-7 seconds. Recognizing that kind of speed so to speak, IMO it entered space in perhaps 5 seconds, and I only lost site of it because of distance & space dust. Think of the speed better than a falling star, only in this case it was going up. There was no trail or sound.I thought perhaps if I added the record tonight it might match up with other reports for the same thing. Good luck, thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165802.html](http://www.nuforc.org/webreports/reports/165/S165802.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Brunswick (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Very beautiful light on ufo that was giantI was working at my cafe and around 8:25 pm i was outside taking a break when i saw the ufo in the sky. I then called my son outside to show him what i saw.  It lasted around 3 minutes. It was giant in size and had multi colored lights that traveled around the spaceship.  It was quiet and made no sound. It traveled from the sight that i saw it tothe next sight that was probably 10 miles away in the blink of an eye.  This is the secong sighting i've seen in the same location. The first sightingwa about 8 years ago. This was amazing as i felt paralized. Very beautiful and breath taking.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68006.html](http://www.nuforc.org/webreports/reports/068/S68006.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161619.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161974.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161618.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161625.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
