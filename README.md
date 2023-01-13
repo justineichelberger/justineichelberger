@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:29 on 13 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:28 on 13 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Show Low (AZ) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 74</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161805.html](http://www.nuforc.org/webreports/reports/161/S161805.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in San Rafael (NM) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Giant ship seen over western New Mexico tonight.Returned home from dropping my wife to work. Got out of the car and heard what sounded like a commercial airliner at normal altitude coming my direction.  (from W to E) the clouds are split up a bit and I saw a normal blinking light, then I saw another set of lights to the North of it.  They were not blinking. I noticed it was all one flying machine, like a large triangle.  If it was a 30 or so thousand feet it had to be as big as a city.  If it was lower it seems it would have to be much louder, but was still would have to be bigger than anything I know to exist.  My dog also seemed scared of it.  I haven't heard yet but I'm sure I am not the only one who saw this.  There are several strange things going on here in this part of New Mexico, and I am willing to report it to someone directly.  Not on this site.I never thought I would be saying this but we are really not alone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132162.html](http://www.nuforc.org/webreports/reports/132/S132162.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161619.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161974.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161618.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161625.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
