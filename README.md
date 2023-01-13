@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:40 on 13 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:29 on 13 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Ocean (NJ) reported seeing craft that fit the description of some 'Flash' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Flashing, star like image in red and green.  Looked at through binoculars as image seemed to be moving rapidly.  Object not close enough to see detail other than green and red flashing.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))((NUFORC Note: Sirius?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79670.html](http://www.nuforc.org/webreports/reports/079/S79670.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Sumner (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Tiara shaped cluster of lights and a single light departing from it toward the ground.I was driving NW on 5th in Sumner WA toward the bridge over the Puyallup River when I noticed a group of lights in the sky above and slightly to the left of my position.  This group of lights were clustered in the shape I would describe as a tiara or crown.As i looked at this appearent object a single light departed from the object and descended toward the ground at a sharp angle, looking very much under control- moving steadily on in a straight line toward the Earth. I pulled over to the side of the road, afraid that I might lose sight of the object and rolled down my car window.  The object had been pulsing slowly brighter then dimmer at a slow but steady pace during my observation of it and seconds after I stopped it faded into the clouds.  I remained for a couple minutes to see if it might emerge again, but I saw nothing more.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41515.html](http://www.nuforc.org/webreports/reports/041/S41515.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161619.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161974.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161618.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161625.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
