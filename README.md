@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:26 on 13 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:23 on 13 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Farmington Hills (MI) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 144</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161797.html](http://www.nuforc.org/webreports/reports/161/S161797.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Rio Piedras () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10080.0 - 10080.0 minutes.</sub><blockquote><sub>Yacimiento cientifico de madre e hijos encontrados en Rio PiedraTrasmaschine es un alien de otra galaxia.  Su hallazgo ocurrio en la decada de 2000, al principio del año 2007 en las afueras de la zona centrica del pueblo de Rio Piedras.  Este yacimiento cientifico fue encontrado en una casa fabricacion arquitectonica.  Su habitat es de un clima tropical y su fauna silvestre.  Los hijos aparecieron en el mismo lugar de los hechos. Por eso no cabe la menor duda de que su muerte fue la causa de un parto prematuro. Esta formula es una corporacion y se acoje al premio Nobel de sciencia.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67622.html](http://www.nuforc.org/webreports/reports/067/S67622.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161619.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161974.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161618.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161625.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
