@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:01:01 on 13 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:29 on 13 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Rio Piedras () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10080.0 - 10080.0 minutes.</sub><blockquote><sub>Yacimiento cientifico de madre e hijos encontrados en Rio PiedraTrasmaschine es un alien de otra galaxia.  Su hallazgo ocurrio en la decada de 2000, al principio del año 2007 en las afueras de la zona centrica del pueblo de Rio Piedras.  Este yacimiento cientifico fue encontrado en una casa fabricacion arquitectonica.  Su habitat es de un clima tropical y su fauna silvestre.  Los hijos aparecieron en el mismo lugar de los hechos. Por eso no cabe la menor duda de que su muerte fue la causa de un parto prematuro. Esta formula es una corporacion y se acoje al premio Nobel de sciencia.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67622.html](http://www.nuforc.org/webreports/reports/067/S67622.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Brilliant chartreuse green flashing beam, within a ring of bright red lights in Puget Sound  morning of 1/13/07.Saturday morning 1/13/07 around 3:00am  looking due west from the beach in West Seattle toward Blake Island, I noticed something emitting bright red and green lights through some amount of cloud cover, that I assumed to be an approaching aircraft.   But the red/green lights didn't advance, so  I noted the position in the sky, lining it up between a white flashing marine beacon and other lights on Blake Island.  It seemed stationary.  With binoculars I could see that the body of the light was chartreuse green, surrounded by red lights.  It may have been round.  It seemed to emit green flashes of light, reminding me of a 4th of July firework, where separate streams of light shoot out geyser-like, all at once, arcing in different directions. The red lights didn't seem to flash like the center chartreuse green light.   The object seemed located much above and beyond Blake Island, at a position of about one o'clock from the center of the island.  I noticed another similar stationary red/green light at a position of about three o'clock in the sky, that wasn't irridescent or flashing.   I watched these lights for about 45 minutes before going to bed.  What with the unusually cold temperatures, I thought it might have been a phenomenon caused by ice in the air - although the stars visible that morning were unremarkable.  The next morning (Sunday 1/14/07) at 2:00am I checked to see if the two objects were still there, but they were not.((NUFORC Note:  Sirius??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54793.html](http://www.nuforc.org/webreports/reports/054/S54793.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161619.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161974.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161618.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161625.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
