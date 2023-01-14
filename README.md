@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 14 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:28 on 14 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Acworth (GA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>viewed for one minute in acworth ga above treeline from bedroom window.Aproximatley 3am. My girlfriend woke me up and we both witnessed a bright white/yellow object moving relatively slow from south to north from our bedroom window.The best we could tell the object was silent. It was visible above the tree line .It would seem that if it had been an airplane or helicopter , It would have been close enough to hear.However , Conventional aircraft do not appear as large bright objects in the night sky. The marker and landing lights are usally only visible as green or blue blinking lights. And flashing.This object was a large solid white/yellow oval or triangle shape.Interestingly enough, About one minute later. After the sighting we heard jets flying over. Which we do not usually hear since we are not near any airports. But there is a airforce base 15 miles from where we are.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79683.html](http://www.nuforc.org/webreports/reports/079/S79683.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Wirral (Merseyside)(UK/Wales) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>a group of red lights over north wales and merseysidei saw 6 or seven red lights very very high in the sky but with distance between them in a uneven line heading south/west over the river dee.  at the height there were they must have been about 500 meters apart. the light seemed to make the area around them darker rather than lite. i watched for about 30 seconds then they faded away. it was very clear with no cloud</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79696.html](http://www.nuforc.org/webreports/reports/079/S79696.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/161/S161656.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161627.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161807.html)
-- [274](http://www.nuforc.org/webreports/reports/161/S161675.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161649.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
