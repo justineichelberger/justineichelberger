@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:31 on 14 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 14 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Melbourne (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Irregular, white light sitting low inthe SW sky over Melbourne, FL.Bright irregular shaped, bright light visible  in the S W sky.  I was driving west on hey 192, the low, white light was not moving.  It was still very light as it was approximately 5:30 pm.  It was irregular in shape leaning toward anjagged oval.  It was not a plane or star it was large and sat there as long as I drove, then stopped to watch it for over 30 min.  It was still visible when I stopped watching.  I would like to learn what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132180.html](http://www.nuforc.org/webreports/reports/132/S132180.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Acworth (GA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>viewed for one minute in acworth ga above treeline from bedroom window.Aproximatley 3am. My girlfriend woke me up and we both witnessed a bright white/yellow object moving relatively slow from south to north from our bedroom window.The best we could tell the object was silent. It was visible above the tree line .It would seem that if it had been an airplane or helicopter , It would have been close enough to hear.However , Conventional aircraft do not appear as large bright objects in the night sky. The marker and landing lights are usally only visible as green or blue blinking lights. And flashing.This object was a large solid white/yellow oval or triangle shape.Interestingly enough, About one minute later. After the sighting we heard jets flying over. Which we do not usually hear since we are not near any airports. But there is a airforce base 15 miles from where we are.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79683.html](http://www.nuforc.org/webreports/reports/079/S79683.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/161/S161656.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161627.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161807.html)
-- [274](http://www.nuforc.org/webreports/reports/161/S161675.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161649.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
