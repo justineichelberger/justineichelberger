@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:33 on 14 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:56 on 14 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Wellston (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Group of unknown lights over Jackson county OhioWhile driving south on SR 93 heading out of Wellston I noticed the bright star/planet in the sw sky. Just to the west of the star/planet there were 5 dim yellow lights hovering. It was a strange sight. I rolled down the side window to rule out any reflections and soon after the lights started disappearing.  I looked for a place to pull over and stop but they were gone before I could get to a safe stopping place.  The lights were arranged from left to right, two close together and three more further to the right.  The three on the right disappeared first then the last two disappeared one then the other. I am familiar with aircraft both military and civilian there were no sounds or FAA lights to be seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152613.html](http://www.nuforc.org/webreports/reports/152/S152613.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Quebeck (TN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Clear sky daytime sighting of black triangle moving at extreme speed with loud sound and no contrail.Daytime Sighting, Clear Skies. Black Triangle was spotted flying East to West at extreme speed.  No contrail.  No Exhaust.  Altitude and size impossible to estimate because of lack of reference points.  However the object was clear enough to clearly discern triangular shape.  Triangle was not equilateral but more of a Isosceles triangle, longer front to back than wide.  One or two vertical tails might have been present, but due to shortness of sighting this can not be confirmed.Additional details:  Walked outside to have smoke.   Heard strange loud sound filling the air that is very hard to describe.  Sounded like a very low pitched droning sound.  Similar to a tornado warning siren winding down, but much lower pitched.  Sound had no directionality at all.  Looked up trying to discern source of sound and spotted triangle.Triangle was moving at extreme speed and was over horizon in less than 5 seconds.  Called for son who was inside house, but triangle was long gone before he made it out the door.   However the droning sound was still very noticeable.  He heard the sound before it dissipated, but never saw the object.Apparent course of object from my perspective appeared to be about 275-290 degrees true.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86576.html](http://www.nuforc.org/webreports/reports/086/S86576.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/161/S161656.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161627.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161807.html)
-- [274](http://www.nuforc.org/webreports/reports/161/S161675.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161649.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
