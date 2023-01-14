@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:28 on 13 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:43 on 14 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Santa Rosa (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright orange lights hovering around the moon and horizon, then rising up and disappearingWhen I was coming home from the store, I saw bright orange lights, almost like stars, floating in the sky.Six of them were near the horizon almost behind the mountains and dimmer than the others, seven were to the right of the moon and almost looked like the little dipper but when two of them drifted further away it was very apparent that they were not stars.  Three were to the left of the moon, one faded before the rest did but one was flashing faintly. Five more were directly above in the sky.After about 5 minutes, they all began to rise and eventually drifted up and faded until they were no longer visible.When I got home, several of my neighbors said they saw the lights too and couldn't make out what they were.  I also called a friend in another part of town and she said she saw them as well, but further north meaning they were fairly close to the ground.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132161.html](http://www.nuforc.org/webreports/reports/132/S132161.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Collinsville (IL) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Young woman driving west on Highway 70 witnesses large ball of light in the night sky at 2100 hours.  She pulls off the highway, and drives in its direction, going north on Highway 203.  In the course of following it, the caller saw "shadows" pass over her car.  When she got home, her Omega watch had lost 24 minutes, allegedly. The date of the sighting was unclear in her message, but she said that she had it written down.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01178.html](http://www.nuforc.org/webreports/reports/001/S01178.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161619.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161974.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161618.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161625.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
