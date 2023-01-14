@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:34 on 14 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:39 on 14 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Grand rapids (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Husband and wife catch a craft on video while driving.We were driving to town to go shopping and I seen something in the sky that was really bright that seemed to continue to be up to my right no madder which road I turned on and we make about 5 turns into town my husband seen it as well and when we were coming up in a stop sign it became brighter an closer I told him to get out his phone and we recorded and took several pictures.  We continued to see it until we reached the center of town and it just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153195.html](http://www.nuforc.org/webreports/reports/153/S153195.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bradenton (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Unexplained Sighting Over BRADENTON, FL *January 14th, 2016  7:20 a.m *I was driving from Clearwater to Cape Coral for business, early on the morning of January 14th, 2016, and headed southbound on Interstate 75.  It was a particularly clear sky that morning, I recall, as I had been on the road before the sun had even begun to rise.   About 10 minutes after getting over the Sunshine Skyway, I kept thinking I noticed something out of the corner of my eye, to the SW of my present position.  Because the Tampa airport is so close, MacDill AFB, and many private air fields, I normally wouldn't think twice about anything in the sky; but it seemed unusual.  The road took a slight bend, and the treeline disappeared, allowing for a much more clear view towards where I was noticing something.  I then saw what I would have to assume was 2 lights?  It was too far from me to decipher much, and I was going 70 mph, but it seemed stationary.  Considering that perhaps my rate of travel was off-setting the stationary appearance of the object, I moved into the right lane so I could slow down to see it more clearly.  The object moved in a pattern that formed a small vertical circle, but did so very quickly.  Judging by the distance, it was atypical for anything I have seen to date.  It did this several more times, while intermittently flashing light(s) so bright, it seemed difficult to tell if it was so bright that it appeared blue, or was alternating more than one light with various hues.  It then moved about 25 degrees to the south in what seemed like the blink of an eye, before vanishing so fast that it left a silver hazy streak behind.  The streak disappeared within a second or so, but as a first time observer of an object such as this, all I could do was close my mouth.  I have never experienced anything remotely close to this, nor have I been aware of any manned/unmanned craft capable of such precise movement, at such a high rate of speed.  I am more than happy to come forward, answering any further questions with regard to the subject.  Thank you for your time and attention towards this matter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125495.html](http://www.nuforc.org/webreports/reports/125/S125495.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/161/S161656.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161627.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161807.html)
-- [274](http://www.nuforc.org/webreports/reports/161/S161675.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161649.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
