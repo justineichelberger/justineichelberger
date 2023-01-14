@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:16:37 on 14 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:36 on 14 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Racine (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Intense, stationary  light in western sky, then disappears.As I left to go to the store, I noticed an extremely bright light at 1030 on the western horizon.  At first, I thought it might be Jupiter, but it was in the wrong place and even brighter.  The more I gazed intently, the more it seemed like two very intense lights side by side very high in the sky.  I checked for any movement and found none.  Then, it seemed like a low-intensity red light appeared on it's right side.  I observed carefully once again to determine if it might be an aircraft (helicopter).  The red glow was NOT blinking, but was constant.  It was cold, so I drove west and continued to observe.  I had to turn left, then right again, a manuver that took approximately 15-20 seconds.  Upon returning to a westerly course I resumed my observation, only to discover that the stationary, intense light in the western sky had disappeared completely!   I stopped and got out of my car in disbelief.  It was completely gone.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60963.html](http://www.nuforc.org/webreports/reports/060/S60963.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Thomaston (CT) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright metallic, oval object.The object was oval in shape.  Had a mirror like exterior, very bright.  Appeared out of the blue sky above a passing jet that as travelling south. I was in vehicle traveling west.  Then the object went vertical, straight down under the jet.  Then it  went horizontal in back of the jet. Then vertically above the jet again, hovered about a min then it disappeared back into the blue sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95967.html](http://www.nuforc.org/webreports/reports/095/S95967.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/161/S161656.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161627.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161807.html)
-- [274](http://www.nuforc.org/webreports/reports/161/S161675.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161649.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
