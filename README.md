@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:26 on 14 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:25 on 14 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Plymouth (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>strange round lights in the sky, amazingly bright even in daylight.In the last few weeks both me and my husband, on 3 seperate occasions have sited strange lights in the sky, they were seen in daylight and seemed unaturally bright, like an artifical light, they could also be seen through clouds. They were completley staionery and seemed too large to be any type of aircraft.  The 3 events only lasted for around 30 seconds to a minute and the objects were then gone.  This happened at very busy times and it would be intresting to know if other people have seen anything.  Or are we just losing the plot?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27082.html](http://www.nuforc.org/webreports/reports/027/S27082.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Peoria (AZ) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Quick moving ball of light in NW Phoenix ValleyThough our front (south facing) window, we saw a ball of light fly though the sky.  It moved almost at the speed of a shooting star, but was EXTREMELY bright.  Additionally, it was no more than 5000 feet in the air.  There was no sound.  We ran outside immediately after seeing the object, and there was no sign of a vapor trail or the craft.Again, this was FAR too bright and large to be a shooting star.  The light was not a "fireball" light, like a meteor, but was more so a self-contained light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79686.html](http://www.nuforc.org/webreports/reports/079/S79686.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/161/S161656.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161627.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161807.html)
-- [274](http://www.nuforc.org/webreports/reports/161/S161675.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161649.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
