@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:39 on 14 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:22 on 14 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bradenton (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Unexplained Sighting Over BRADENTON, FL *January 14th, 2016  7:20 a.m *I was driving from Clearwater to Cape Coral for business, early on the morning of January 14th, 2016, and headed southbound on Interstate 75.  It was a particularly clear sky that morning, I recall, as I had been on the road before the sun had even begun to rise.   About 10 minutes after getting over the Sunshine Skyway, I kept thinking I noticed something out of the corner of my eye, to the SW of my present position.  Because the Tampa airport is so close, MacDill AFB, and many private air fields, I normally wouldn't think twice about anything in the sky; but it seemed unusual.  The road took a slight bend, and the treeline disappeared, allowing for a much more clear view towards where I was noticing something.  I then saw what I would have to assume was 2 lights?  It was too far from me to decipher much, and I was going 70 mph, but it seemed stationary.  Considering that perhaps my rate of travel was off-setting the stationary appearance of the object, I moved into the right lane so I could slow down to see it more clearly.  The object moved in a pattern that formed a small vertical circle, but did so very quickly.  Judging by the distance, it was atypical for anything I have seen to date.  It did this several more times, while intermittently flashing light(s) so bright, it seemed difficult to tell if it was so bright that it appeared blue, or was alternating more than one light with various hues.  It then moved about 25 degrees to the south in what seemed like the blink of an eye, before vanishing so fast that it left a silver hazy streak behind.  The streak disappeared within a second or so, but as a first time observer of an object such as this, all I could do was close my mouth.  I have never experienced anything remotely close to this, nor have I been aware of any manned/unmanned craft capable of such precise movement, at such a high rate of speed.  I am more than happy to come forward, answering any further questions with regard to the subject.  Thank you for your time and attention towards this matter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125495.html](http://www.nuforc.org/webreports/reports/125/S125495.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Collinsville (IL) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Young woman driving west on Highway 70 witnesses large ball of light in the night sky at 2100 hours.  She pulls off the highway, and drives in its direction, going north on Highway 203.  In the course of following it, the caller saw "shadows" pass over her car.  When she got home, her Omega watch had lost 24 minutes, allegedly. The date of the sighting was unclear in her message, but she said that she had it written down.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01178.html](http://www.nuforc.org/webreports/reports/001/S01178.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/161/S161656.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161627.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161807.html)
-- [274](http://www.nuforc.org/webreports/reports/161/S161675.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161649.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
