@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:58 on 14 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:24 on 14 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in El Paso (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright light deep in space moving very fastNot sure time & date I was in  bootcamp in a fox hole looking up I watched a light come in site from the right moving to the left it was deep in space there was a lots of stars in the sky this light was deep in space, I fires thouth it was a sattel light I watched for 10=15 mintes It went out of site. Then some time later It came back In site this time it came from the left moveing to the right. Please let me know If this was reported by any-one eals((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67658.html](http://www.nuforc.org/webreports/reports/067/S67658.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1966, an anonymous witness in Keene (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright lights changing color and meandering around the night skyWe watched a very bright light, high in the sky, which changed colors from red to blue to green to orange, and which moved slowly in various patterns, up, down, sideways, zig zagging in a fairly tight radius, then was joined by another similar light that appeared out of nowhere, with the two lights circling around each other until one of them emitted what appeared to be an arch of light at the other, which then disappeared.  One of the lights continued its lazy meandering and changing color until it finally disappeared below the tree line.  No sounds at all.  The sky was totally clear, don't recall seeing a moon that night. These lights were the brightest things in the sky.The exact date might not be right, but it was a Friday in October, 1966.  I was 7 years old, and was with my parents, in our back yard, but remember all of this very clearly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144855.html](http://www.nuforc.org/webreports/reports/144/S144855.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/161/S161656.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161627.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161807.html)
-- [274](http://www.nuforc.org/webreports/reports/161/S161675.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161649.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
