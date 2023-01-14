@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:24 on 14 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:26 on 14 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1966, an anonymous witness in Keene (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright lights changing color and meandering around the night skyWe watched a very bright light, high in the sky, which changed colors from red to blue to green to orange, and which moved slowly in various patterns, up, down, sideways, zig zagging in a fairly tight radius, then was joined by another similar light that appeared out of nowhere, with the two lights circling around each other until one of them emitted what appeared to be an arch of light at the other, which then disappeared.  One of the lights continued its lazy meandering and changing color until it finally disappeared below the tree line.  No sounds at all.  The sky was totally clear, don't recall seeing a moon that night. These lights were the brightest things in the sky.The exact date might not be right, but it was a Friday in October, 1966.  I was 7 years old, and was with my parents, in our back yard, but remember all of this very clearly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144855.html](http://www.nuforc.org/webreports/reports/144/S144855.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Plymouth (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>strange round lights in the sky, amazingly bright even in daylight.In the last few weeks both me and my husband, on 3 seperate occasions have sited strange lights in the sky, they were seen in daylight and seemed unaturally bright, like an artifical light, they could also be seen through clouds. They were completley staionery and seemed too large to be any type of aircraft.  The 3 events only lasted for around 30 seconds to a minute and the objects were then gone.  This happened at very busy times and it would be intresting to know if other people have seen anything.  Or are we just losing the plot?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27082.html](http://www.nuforc.org/webreports/reports/027/S27082.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/161/S161656.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161627.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161807.html)
-- [274](http://www.nuforc.org/webreports/reports/161/S161675.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161649.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
