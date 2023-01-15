@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:28 on 15 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:53 on 15 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Searchlight (NV) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Odd looking Nevada daylight sighting.Driving back to Las Vegas from Searchlight(north bound) around 10 a.m. on US 95 at about 65 mph when I noticed a strange looking craft aproaching from the north and about a half mile to the east of the highway.Sighting took place about half the distance between Searchlight and the Nelson cutoff. Craft passed me to the east going in the opposite direction(heading south) and was fully set against the blue morning sky. Object was about two hundred feet obove the desert. Craft was about the size(length) of three railroad cars,being three segments each the length of a railroad car,the front segment higher than the last and the front segment being narrower than the last.From front to back the craft dropped and got wider. Overall size was long and narrow.Color appeared to be charcol gray and was smooth.No visible props,engines vents etc. I have been around and have seen many types of aircraft in my life but nothing like this.Looked more water worthy than aero dynamic.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50942.html](http://www.nuforc.org/webreports/reports/050/S50942.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in San Bernardino (CA) reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The alien in my roomActually I was only about 2 to 3 years old when this happened. My mom and I where in her room watching the talk show of Sally. Then my mom and I went to the kitchen so she could iron her clothes. When I came back to my room, there was no Sally. Nobody was in the house but my mom and I. The T.V screen had like planets and comets flying around. And then, as I turned around, something was sleeping under the covers of my bed. I touched it, and then I went running back to the kitchen. I think this was some type of alien or UFO experience. I will never forget that day. Everything was back to normal when my mom returned to the bedroom.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15974.html](http://www.nuforc.org/webreports/reports/015/S15974.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [465](http://www.nuforc.org/webreports/reports/161/S161640.html)
-- [464](http://www.nuforc.org/webreports/reports/161/S161638.html)
-- [463](http://www.nuforc.org/webreports/reports/161/S161637.html)
-- [462](http://www.nuforc.org/webreports/reports/161/S161634.html)
-- [461](http://www.nuforc.org/webreports/reports/161/S161633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
