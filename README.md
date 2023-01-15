@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:43 on 15 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:24 on 15 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Brule (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>4 Yellow lights that suddenly disappearI was driving back to Duluth MN from Ashland WI. I make this trip almost daily. If you have ever been on this drive during the night you know that the only light comes from the little towns you drive by. I drove past the town of Brule WI, and not a car in sight. I notice an object just above the trees.  It had 4 dark yellow lights and had a glow as if you were approaching a city with a lot of light pollution.  The lights were in place but I could see a black figure that was rotating in the dark. T he object moved across the sky for about 20 seconds, not super speed just slowly moving along, like it was checking out the ground. Then out of no where the figure just disappeared, as if the figure put up a cloaking shield. The winds were about 20MPH on my drive last night. No drone could handle that amount of wind, and no plane would fly that low to the trees. Every hair stood on my body. This was my first UFO sighting, I had speculations before, but now am a firm b! eliever.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152644.html](http://www.nuforc.org/webreports/reports/152/S152644.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Peachland (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Saw flashing colored lights hovering in the night skyThe objects were white cicles with colors all around them, different sizes though. They appear to be revolving around in cicular motion.  They alomost look like stars with colors of green, blue red, and yellow. Some are bigger than others, and one seemed to move at a high rate of speed, zig zagging around.  Covering a great distance in a short period of time, one jetted up and down.  The objects look like they're spinning.  They hung around for a long time, so long we went to bed.  We have seen these spinning lights again, just 3 nights ago,(Jan.15th)  Can anyone explain??((NUFORC Note:  We suspect Sirius.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34548.html](http://www.nuforc.org/webreports/reports/034/S34548.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [465](http://www.nuforc.org/webreports/reports/161/S161640.html)
-- [464](http://www.nuforc.org/webreports/reports/161/S161638.html)
-- [463](http://www.nuforc.org/webreports/reports/161/S161637.html)
-- [462](http://www.nuforc.org/webreports/reports/161/S161634.html)
-- [461](http://www.nuforc.org/webreports/reports/161/S161633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
