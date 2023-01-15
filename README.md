@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:32 on 15 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:25 on 15 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Lake Charles (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>There was a UFO in Lake Charles, Louisiana, in 2000.On a winter night in 2000, I stepped outside my house and saw in the neighbor's goat pasture a lighted object that hovered up, down, and up again. I called to my wife who came immediately and saw the object just as it began moving east toward Lake Charles Municipal Airport. We got into our car and followed the object, which had to have been moving close to 100 miles per hour. I distinctly remember the object passing in front of an airplane descending onto the runway. Afterward, the object moved too quickly out of our range to keep up with it. The local television station, KPLC, reported that there had been multiple sightings. The next day, our newspaper, "The American Press," reported that what people were seeing was a blimp with lights inside of the inflated part that was illuminating it. I was within three miles of the object and got no impression that it was a blimp, but I cannot say for certain what the object was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67651.html](http://www.nuforc.org/webreports/reports/067/S67651.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Deleon Springs (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Tons of white floating objects in formation, during night.I was working out and then suddenly my dad came running into the room, and he hurried me outside.  Once I had arrived outside I looked into the sky and I saw more then 40 floating objects. These objects looked like stars to me, but you can easily tell they were moving. They kind of formed a triangle form all together, as I ran in to get my jacket most of them had disappeared.  They looked like they went into the stars or something.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106325.html](http://www.nuforc.org/webreports/reports/106/S106325.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [465](http://www.nuforc.org/webreports/reports/161/S161640.html)
-- [464](http://www.nuforc.org/webreports/reports/161/S161638.html)
-- [463](http://www.nuforc.org/webreports/reports/161/S161637.html)
-- [462](http://www.nuforc.org/webreports/reports/161/S161634.html)
-- [461](http://www.nuforc.org/webreports/reports/161/S161633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
