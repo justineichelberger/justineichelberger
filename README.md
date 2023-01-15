@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:07 on 15 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:23:21 on 15 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Millville (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>well, it was about 1am,i waslooking southeast,when i seen a bright light in the sky.i dont think we have planes that can go as fast,?i dont know how high it was,but it was up there !then it got real bright and was gone!!!!i've been looking ,but not seen it again..…((NUFORC Note:  Witness is disabled veteran.  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27960.html](http://www.nuforc.org/webreports/reports/027/S27960.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Lake Charles (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>There was a UFO in Lake Charles, Louisiana, in 2000.On a winter night in 2000, I stepped outside my house and saw in the neighbor's goat pasture a lighted object that hovered up, down, and up again. I called to my wife who came immediately and saw the object just as it began moving east toward Lake Charles Municipal Airport. We got into our car and followed the object, which had to have been moving close to 100 miles per hour. I distinctly remember the object passing in front of an airplane descending onto the runway. Afterward, the object moved too quickly out of our range to keep up with it. The local television station, KPLC, reported that there had been multiple sightings. The next day, our newspaper, "The American Press," reported that what people were seeing was a blimp with lights inside of the inflated part that was illuminating it. I was within three miles of the object and got no impression that it was a blimp, but I cannot say for certain what the object was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67651.html](http://www.nuforc.org/webreports/reports/067/S67651.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [465](http://www.nuforc.org/webreports/reports/161/S161640.html)
-- [464](http://www.nuforc.org/webreports/reports/161/S161638.html)
-- [463](http://www.nuforc.org/webreports/reports/161/S161637.html)
-- [462](http://www.nuforc.org/webreports/reports/161/S161634.html)
-- [461](http://www.nuforc.org/webreports/reports/161/S161633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
