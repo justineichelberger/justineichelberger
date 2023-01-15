@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:33 on 15 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:07 on 15 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Gilbert (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Four orange objects move across the sky in Gilbert, Arizona before disappearing one by one.Me and my kids were driving and four round bright orange/red lights swiftly moving across the sky caught my eye.  I was amazed and my kids looked up to see what I was looking at and they were also amazed.  There were four bright lights, which seemed to be round.  They traveled across they sky in a group and then they came to a stop.  They stayed in the sky for about a minute or less then gradually, one by one, they started to dim until each one disappeared.  I have a picture but it was much clearer in person.  When I zoom in on the picture, they look like orange upside down question marks without the dot.  One of them looks white because it is disappearing but it is the same shape as the other three.  It was night time and they seemed to be as high up in the sky as stars but they were bigger than stars.((NUFORC Note:  We spoke via telephone with this witness, and she seemed to us to be a quite sober-minded person.  Please see other reports from Illinois and Minnesota, for the same date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79693.html](http://www.nuforc.org/webreports/reports/079/S79693.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Millville (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>well, it was about 1am,i waslooking southeast,when i seen a bright light in the sky.i dont think we have planes that can go as fast,?i dont know how high it was,but it was up there !then it got real bright and was gone!!!!i've been looking ,but not seen it again..…((NUFORC Note:  Witness is disabled veteran.  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27960.html](http://www.nuforc.org/webreports/reports/027/S27960.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [465](http://www.nuforc.org/webreports/reports/161/S161640.html)
-- [464](http://www.nuforc.org/webreports/reports/161/S161638.html)
-- [463](http://www.nuforc.org/webreports/reports/161/S161637.html)
-- [462](http://www.nuforc.org/webreports/reports/161/S161634.html)
-- [461](http://www.nuforc.org/webreports/reports/161/S161633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
