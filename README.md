@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:29 on 15 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:28 on 15 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>triangle object bearly moving,then almost disappears,then dozens of aircraft start appearing and circling skywhat i am reporting is from my wife who has a closed mind of ufo's and the like.it was about 8p.m.this night and the sky was clear.we see some aircraft that approuch bush inter.along one the the fight paths.I was outside playing with my son and getting ready to come in.my wife was inside and came out to tell us it was time to come in.I entered our house and assumed they were behind me,then not more then 10 or 15 seconds my wife rushes in streaming that she can't believe what she just saw.her face was pale and her voice was screached.she said come out right now and see this thing .by the time which i got outside{seconds}it was gone .she described it as being triangular in shape with bright yellow and/or orange lights.this caught her attention because she said it was still in the air and then took off {disappeared}"very fast"and no noise.ofcourse i was all eyes wanting to see this that my wife saw ,so i stayed outside looking at the sky for a few minutes then i start two see about a dozen aircraft in the sky travelling in all directions very close.this caught my attention because i have never seen anything like that before.so many aircraft flying slowly in every dirertion.this last about 15-20 minutes.then no planes .nothing at all in the sky for at least 20 more minutes after.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12564.html](http://www.nuforc.org/webreports/reports/012/S12564.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in Vandalia (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>The shape was a dark sharp triangle that made no noise and seemed transparent from directly below.Very large black triangle against a clear night sky with a new moon. Looked like a large bird soaring over refractory palnt with lights on it. As it got closer it was a large, black triangle.Against the sky it was black, darker than the sky and looked see through as though it were glass. It had stars in it but not quite the same as the sky. Made no noise headed straight north over a corn feild. Moved very slow. It looked over 200 feet wide. as it went noth it seemed to look more solid and not see through again. Saw no flashing lights or any other markings just looked dark at a distance and see through from below.  Back then I thought it was a Stealth Bomber but since then I have seen a Stealth bomber, they are not squared off like what I saw and are very noisey.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32401.html](http://www.nuforc.org/webreports/reports/032/S32401.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [465](http://www.nuforc.org/webreports/reports/161/S161640.html)
-- [464](http://www.nuforc.org/webreports/reports/161/S161638.html)
-- [463](http://www.nuforc.org/webreports/reports/161/S161637.html)
-- [462](http://www.nuforc.org/webreports/reports/161/S161634.html)
-- [461](http://www.nuforc.org/webreports/reports/161/S161633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
