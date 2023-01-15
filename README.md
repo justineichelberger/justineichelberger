@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:26 on 14 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:33 on 15 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Prospect (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange bright pulsating light in the skyI saw some strange lights last night on my way home from the basketball game. It looked like one flashing beacon light on a tower at first but it then it tracked across the sky like there was five of the same flashing light in a row. Then in an instant it was one again just pulsating in the same spot. Then in a quick instant it was on the other side of the highway far from where it was the first time in a stationary position not moving. It was so fast I didn't even see it move to its new location. It was just there. It was to fast to be any type of aircraft. Very strange and not sure what It was. I got off the ramp and looked back and it was still there in its new spot just flashing away. It was around 11 PM. I might add that it was on a night where the temps were below 10 degrees and we were getting a light snow so the sky was cloud covered. The object was very bright and constantly pulsating. When I first saw it I thought it was a beacon light on a cell tower but I drive this way every day and there is no towers where I saw the light which is why I watched it so close. It was so bright it stood out on a snowy night. This all happened over Moraine State park. It was so odd to see I was asking myself did it really just do what I thought it did?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68042.html](http://www.nuforc.org/webreports/reports/068/S68042.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Gilbert (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Four orange objects move across the sky in Gilbert, Arizona before disappearing one by one.Me and my kids were driving and four round bright orange/red lights swiftly moving across the sky caught my eye.  I was amazed and my kids looked up to see what I was looking at and they were also amazed.  There were four bright lights, which seemed to be round.  They traveled across they sky in a group and then they came to a stop.  They stayed in the sky for about a minute or less then gradually, one by one, they started to dim until each one disappeared.  I have a picture but it was much clearer in person.  When I zoom in on the picture, they look like orange upside down question marks without the dot.  One of them looks white because it is disappearing but it is the same shape as the other three.  It was night time and they seemed to be as high up in the sky as stars but they were bigger than stars.((NUFORC Note:  We spoke via telephone with this witness, and she seemed to us to be a quite sober-minded person.  Please see other reports from Illinois and Minnesota, for the same date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79693.html](http://www.nuforc.org/webreports/reports/079/S79693.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/161/S161656.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161627.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161807.html)
-- [274](http://www.nuforc.org/webreports/reports/161/S161675.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161649.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
