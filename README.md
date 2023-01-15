@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:28 on 15 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:28 on 15 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in Vandalia (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>The shape was a dark sharp triangle that made no noise and seemed transparent from directly below.Very large black triangle against a clear night sky with a new moon. Looked like a large bird soaring over refractory palnt with lights on it. As it got closer it was a large, black triangle.Against the sky it was black, darker than the sky and looked see through as though it were glass. It had stars in it but not quite the same as the sky. Made no noise headed straight north over a corn feild. Moved very slow. It looked over 200 feet wide. as it went noth it seemed to look more solid and not see through again. Saw no flashing lights or any other markings just looked dark at a distance and see through from below.  Back then I thought it was a Stealth Bomber but since then I have seen a Stealth bomber, they are not squared off like what I saw and are very noisey.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32401.html](http://www.nuforc.org/webreports/reports/032/S32401.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Yuma (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Three white round lights morphed into two, changed colors and then disappeared in the sky near Yuma, AZ.We were driving north to south on 95 perhaps 10-12 miles north of Yuma but just south of the Proving Ground.  My wife was driving and this is what she saw:  I saw three white rounds lights in synchronized formation traveling low about the same height maybe slightly higher as the phone lines along the highway.  They were flying in swooping and rapid movements.  I was trying to figure out what it was and finally woke my husband, and said, ‘Hey, I think it is a UFO.’   I then concentrated on driving while he watched.  This is what he saw.  I saw the same three lights and immediately they changed directions away from us, very low to the ground and the 3 morphed into 2 lights changing colors and disappeared out of sight.  I am not sure, if it totally disappeared or if it was hidden by the small hillsides as we traveled away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74099.html](http://www.nuforc.org/webreports/reports/074/S74099.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [465](http://www.nuforc.org/webreports/reports/161/S161640.html)
-- [464](http://www.nuforc.org/webreports/reports/161/S161638.html)
-- [463](http://www.nuforc.org/webreports/reports/161/S161637.html)
-- [462](http://www.nuforc.org/webreports/reports/161/S161634.html)
-- [461](http://www.nuforc.org/webreports/reports/161/S161633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
