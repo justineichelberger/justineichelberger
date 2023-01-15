@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:23:21 on 15 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:59 on 15 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Lake Charles (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>There was a UFO in Lake Charles, Louisiana, in 2000.On a winter night in 2000, I stepped outside my house and saw in the neighbor's goat pasture a lighted object that hovered up, down, and up again. I called to my wife who came immediately and saw the object just as it began moving east toward Lake Charles Municipal Airport. We got into our car and followed the object, which had to have been moving close to 100 miles per hour. I distinctly remember the object passing in front of an airplane descending onto the runway. Afterward, the object moved too quickly out of our range to keep up with it. The local television station, KPLC, reported that there had been multiple sightings. The next day, our newspaper, "The American Press," reported that what people were seeing was a blimp with lights inside of the inflated part that was illuminating it. I was within three miles of the object and got no impression that it was a blimp, but I cannot say for certain what the object was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67651.html](http://www.nuforc.org/webreports/reports/067/S67651.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>flashing hot pink lights, no particular pattern, shooting across the sky, up and down, side to side just above the interstate. glowing white circle of light (donut shaped) in the middle appeared about 10 seconds-drowing out the flashing pink lights, revealing a cone shaped front. flying and darting quickly back and forth and up and down the sky with seemingly no rhyme or reason. disappeared behind a building as I exited the highway. hwy 270 N was at a standstill, worst traffic i'd seen at 6pm after leaving work. i figure other must have seen it. cannot guess as to the size--it was visible from 1-2miles away. other airplane were flying far high overhead and were very distinguishable from this craft. it flew no higher at times than the tops of bldgs and trees. i waited for the news to report something that night or next day, they did not. a small blurb was in the Post Dispatch paper, but i was only told about it, I did not see it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12114.html](http://www.nuforc.org/webreports/reports/012/S12114.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [465](http://www.nuforc.org/webreports/reports/161/S161640.html)
-- [464](http://www.nuforc.org/webreports/reports/161/S161638.html)
-- [463](http://www.nuforc.org/webreports/reports/161/S161637.html)
-- [462](http://www.nuforc.org/webreports/reports/161/S161634.html)
-- [461](http://www.nuforc.org/webreports/reports/161/S161633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
