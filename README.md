@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 15 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:48 on 15 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Dillon (CO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 300.0 - 300.0 minutes.</sub><blockquote><sub>ufo activity at lake dillon,coloradoover lake dillon,co what appeared to be a bright light formed high on the mountain my friend thought it was lights at keystone mt untill it started to flare dim bright dim bright  it would dim then shoot a couple smaller lights out of itself or maybe it seperated it self then would get brighter and do the same thing again untill eventually it would shoot out a half blue half red sphere over the lake (it is hard to tell if it was exactly over the lake because it was the dead of night) the sphere would disappear,a police officer was called to the scene (holiday inn parking lot in dillon,co)  he left after about an hour af watching i need answers any info would help  police report would be key((NUFORC Note:  Date is approximate.  It is very difficult to investigate such a report some 7 years after the incident.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15022.html](http://www.nuforc.org/webreports/reports/015/S15022.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Rome (GA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Object circled flipped and jolted side to side for the entire time I watched.((NUFORC Note:  Venus??  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132175.html](http://www.nuforc.org/webreports/reports/132/S132175.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [465](http://www.nuforc.org/webreports/reports/161/S161640.html)
-- [464](http://www.nuforc.org/webreports/reports/161/S161638.html)
-- [463](http://www.nuforc.org/webreports/reports/161/S161637.html)
-- [462](http://www.nuforc.org/webreports/reports/161/S161634.html)
-- [461](http://www.nuforc.org/webreports/reports/161/S161633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
