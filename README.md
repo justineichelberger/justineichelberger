@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:28 on 16 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:28 on 16 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Baltimore (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Saw one orange-colored light making abrupt turn abrupt turn then two more suddenly appear side by side of each other with the first one up ahead then all three vanish</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132210.html](http://www.nuforc.org/webreports/reports/132/S132210.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Wareham (MA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>UFO fleet?  Hundreds of sparkling lightsMy husband and I were on our way to the gym at 5:25 in the morning.  A flash of light in the eastern sky caught my eye.  When I looked up there were what looked like hundreds of flashing lights, almost twinkling, white and yellow. We stood in the gym parking lot and watched it for about 10 minutes as they continued moving east and faded away.  It looked like hundreds of lights, flashing on and off.  Like a swarm.  I don't know if it was all lights coming on and off on one giant vehicle or hundreds of seperate vehicles traveling together. It was east of us and over the cape.  There is an Air Force base there, but there jets are currently not flying.  This is definitely not jets.  We don't know what we saw, but it was huge. I know we can't possibly be the only one to see this.  495 runs by here and anyone heading south on 495 at 5:20-5:30 am had to have seen it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61677.html](http://www.nuforc.org/webreports/reports/061/S61677.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
