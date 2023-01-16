@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:58 on 16 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:30 on 16 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Two sets of falling object fell over the north part of San Antonio, seemed like two sets of car headlights racing towards the surfaceAs me and several friends were out on a patio, these two pairs of of lights fell from the sky, it was unusual, since i saw it from the corner of my eye, and quickly turned to see it fall from the sky.  They were two sets of two lights falling quickly, falling out of sync, together, perhaps best described as two sets of car lights moving fast.  Me and mmy friends and several others saw something..very beautiful.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41562.html](http://www.nuforc.org/webreports/reports/041/S41562.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Hagerstown (sww of,  on I81, Intersect.I70 & I81) (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>In west, brilliant point of light (larger than star or planet) & streak fell nearly vertical from sky.Almost due west, a very bright point of light leaving a streak, not a tail, fell from the sky toward the ground, in a distance that seemed to be only a mile or two ahead.  It seemed to be traveling not as faast as a meteor but faster than a free fall object.  It appeaared to disappear at treetop level.  I think that it was in front of the mountains +/- 10 miles ahead.   It appeaared to land just north of Williamsport, Md., perhaps in the Potomac River.  No reports of any sightings weere made to any local radio stations, T.V. station, newspapers, or police.  Perhaps it was an object further away & just mistaken for something closer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11756.html](http://www.nuforc.org/webreports/reports/011/S11756.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
