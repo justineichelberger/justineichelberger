@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:39 on 16 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:24 on 16 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Woman opens curtains on 2nd floor of home, sees multiple bizarre designs, or "letters" pressed precisely into layer of snow on deck.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01114.html](http://www.nuforc.org/webreports/reports/001/S01114.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Southwick (MA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Octagon shaped object with bright red and white lightsI was outside at approximately 10:15pm smoking a cigarett and looking up at the sky towards the south(it was a very clear night) when I heard what I assumed was an airplane as they often fly this way.  However, when it got closer I noticed that there were only red and white lights (typically the planes that fly over here also have green lights and thats why this caught my attention).  The lights were very bright and as the object got closer I saw that it was not a plane at all but an object that was shaped very much like an octagon with bright red and white lights.  I watched as the object headed east. The lights were so bright that I could see the object for several minutes a long way off.  I called my sister in Springfield (which is approximately 20 miles from here) and told her to go outside to see if she could see a UFO.  I could still see the bright lights with my naked eyes when she told me that she saw the object but she thought that it was a plane.  When I asked her if she saw any wings on the plane she said that from the angle that she saw it she couldn't see any wings.  Then she said she saw another aircraft heading her way.  What seemed very strange was that both of the aircraft seemed to turn and they flew back this way (West). I watched until the object finally disappeared heading South. (The second aircraft was still in sight when the octagon shaped object disappeared).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21459.html](http://www.nuforc.org/webreports/reports/021/S21459.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
