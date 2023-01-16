@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:26 on 16 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:28 on 16 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Albany (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>9 orangeish (or a single object) in the sky during the day.I was walking across the street in downtown Albany, NY and was looking at the building architectures. I saw a sign that I thought was interesting against the blue sky. That’s when I noticed an odd formation in the sky. It was a number of orangish dots, eight in a circle and one in the center (after looking at my photo). I couldn’t tell if it was a single object or nine objects together in unison. There wasn’t a lot of clouds in the sky, a few. So the formation (or object) didn’t stand out like a plane in the sky, but you could definitely see it against the blue sky. The dots were a tad faint, almost like they were glowing, but very lightly. I don’t want to say they were pulsating, but they did come across as glowing. It had some rotation. Again, not sure if it was a single object in the sky or nine individual objects, but they seemed to move in unison. The rotation was very slow, but it was enough to notice that there was movement. I quickly pulled out my camera and managed to take a single photo. I tried to take a video, but as I switched over to video on my phone, the object(s) quickly moved to the upward towards the left and then was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152714.html](http://www.nuforc.org/webreports/reports/152/S152714.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Baltimore (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Saw one orange-colored light making abrupt turn abrupt turn then two more suddenly appear side by side of each other with the first one up ahead then all three vanish</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132210.html](http://www.nuforc.org/webreports/reports/132/S132210.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
