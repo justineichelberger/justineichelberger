@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:30 on 16 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:45 on 16 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Menifee (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>spere light ball dimming out then pulsating an tranforming to plane lights an moving north west when noticed. same thing i saw on jan 1Stepped outside to look in the sky, been interested in ufos since I saw one on new years same one tonight I pulsighting light sphere looks way smaller an farther awway on camera, but it was bright an big then dimmed out an small.  Going back an forth dimming out.  Then turned into a planes lights to fool me while taking pictures</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106392.html](http://www.nuforc.org/webreports/reports/106/S106392.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Fort McCoy (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Triangle craft escorted by unknown military jetsWas standing on my back porch having a cigarette, I heard 5 really loud popping sounds like that of a really big electric arc, happened in quick succession, crack crack crack crack crack and then witnessed a military jet flying very low about 100 feet off the deck and flying at damn near stall speed traveling East to west, then a black triangle shaped craft approximately 50 FT in length traveling from the east to west.  I would estimate the air speed to be 100 knots and the height 75 FT from the deck, flying EXTREMELY LOW, followed by another jet going the same heading and speed. All happened within less than a 1 second of one another, the 2 jets and triangle craft were flying so low I couldn’t watch them once they past the tree line. Could not tell if the triangle craft made noise because of the ungodly noise the 2 jets made flying so low and slow. It did seem to me it was being escorted by the jets and not being chased by them because they were flying so sl! ow and in singular formation. Knowing aviation, what shook me more than anything was the speed of the jets flying so slow shocked me more than the damn triangle craft, I didn’t know jets were even capable of flying that slow and so low to the ground. Was very bizarre. Could not identify the type of jet or any markings on the jets or triangle craft, I could see the pilots in the jets though. If these jets are part of our military inventory then I haven’t heard about it. Did not see any visible means of proportion on triangle craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152637.html](http://www.nuforc.org/webreports/reports/152/S152637.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
