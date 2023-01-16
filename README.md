@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:24 on 16 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:25 on 16 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Ridgefield (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Intensely flashing light stationary at first for 30 or 40 seconds then began to move south/west at a steady pace then blinked out.I was standing on the platform facing roughly west/northwest in the Copps Hill plaza on route 35 and observed an intensely flashing light hovering over the hill at about the height of what could be an airplane beacon.  There is a nearby municipal airport and so such a light might easily be overlooked. As I watched the light for 30 or 40 seconds(it was flashing an intense array of red, green, white, silvery, and blue) it eventually dimmed over the course of about 3 seconds and began to flash just reddish-yellow, and after another 2 or 3 seconds began to move at a steady pace towards what I assume to be the south or southwest of its position, eventually disappearing behind a far hill in the distance in Westchester County, New York State. I have observed many such lights over the years, always in the west over the hills of Westchester and Putnum counties and always with a similar pattern.  The lights will always be completely stationary and intensely flashing man! y colors, then either blink out of existence abruptly or after glowing just one color(usually red), or over the course of perhaps half a second the light will suddenly zoom off and disappear in a short arc in the shape of a parabola (like x squared from the origin to like x=4, that shape) and I stress they are always relatively low over the western hills where someone that isn't watching could easily overlook.((ADDENDUM FROM SOURCE OF REPORT))Yes I realized afterward that the date I posted that was the 18th and not the 24th. The date on my friend's computer was about a week off for some odd reason. The date of the sighting was the Sunday, January 16, 2011, the most recent Sunday. Thank you for inquiring and not simply disregarding the posting.((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79726.html](http://www.nuforc.org/webreports/reports/079/S79726.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Reston (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 01/13/09 - 01/13/09 minutes.</sub><blockquote><sub>I was watch the TV then when sooner i go to sleep... something disturb me, a very bright light move so fast! I knew it not an airplane!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68061.html](http://www.nuforc.org/webreports/reports/068/S68061.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
