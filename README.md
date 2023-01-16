@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:50 on 16 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:36 on 16 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Gaithersburg (MD) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2 miuntes - 2 miuntes minutes.</sub><blockquote><sub>I was in the back seat of a moving vehicle in Gaithersburg, Maryland when I saw a bright, gold, circular object to the eastI was in the backseat of a moving vehicle. It was about 20:12 when I saw a Bright, gold, circular object to the east. It was no reflection coming from the windshield; it was not a star because it appeared to move and it was too bright. To add on, it was not an airplane because it had  only one light, not a bunch of lights like airplanes do have and lastly, this object moved like no aircraft.Then, at about 20:13, the object moved slowly towards the north and then back south to the point where it was directly overhead. After looking straight up at this Bright object for about a minute, my neck started to hurt. I only observed one object. Suddenly, I was amazed to see that the object started to dim in brightness to the point where it wasn't bright anymore and eventually to the point where it faded into the night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79703.html](http://www.nuforc.org/webreports/reports/079/S79703.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Fayetteville (NC) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>it was v shaped /  white blue lights going accross i was sure that it wasnt a stealth bomber it slowed down then sped up i took my hunting binoculars and there were no wind sheilds didnt make a sound it flew away pretty fast</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96008.html](http://www.nuforc.org/webreports/reports/096/S96008.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
