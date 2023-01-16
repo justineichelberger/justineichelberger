@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:30 on 16 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:50 on 16 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Porterville (CA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>This was not a craft, but we believe it to be an alien, at least it was unidentifiable to us. Driving down the road an unidentified thing darted across the road in two strides from one side to the other of the road.  Two of us witnessed this, the only description we can give is that it walked on two legs, that were very skinny & kind of transparent & was not very tall.  No jack rabbit or any other animal can take two strides & be from one side of the rode to the other, or be upright on two feet.  By the time we got to where it darted across it was gone.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  We have no idea what the time and date of the alleged sighting were, and we cannot contact the source for confirmation.  Possible hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86632.html](http://www.nuforc.org/webreports/reports/086/S86632.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Gaithersburg (MD) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2 miuntes - 2 miuntes minutes.</sub><blockquote><sub>I was in the back seat of a moving vehicle in Gaithersburg, Maryland when I saw a bright, gold, circular object to the eastI was in the backseat of a moving vehicle. It was about 20:12 when I saw a Bright, gold, circular object to the east. It was no reflection coming from the windshield; it was not a star because it appeared to move and it was too bright. To add on, it was not an airplane because it had  only one light, not a bunch of lights like airplanes do have and lastly, this object moved like no aircraft.Then, at about 20:13, the object moved slowly towards the north and then back south to the point where it was directly overhead. After looking straight up at this Bright object for about a minute, my neck started to hurt. I only observed one object. Suddenly, I was amazed to see that the object started to dim in brightness to the point where it wasn't bright anymore and eventually to the point where it faded into the night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79703.html](http://www.nuforc.org/webreports/reports/079/S79703.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
