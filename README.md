@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:48 on 17 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:32 on 17 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in North Charleston (SC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Object with very large bright light chased by jet with rapid flashing red and green wing lights.Late one night last month (January) my teenage son called me to go outside. He was standing in our front yard staring at the night sky. I looked up to see an object being chased by an aircraft, a jet. The object being chased had what seemed to be a circular shape of very bright light or lights. The light appeared to be one mass from our distance and point of view. The shape of the whole craft could not be made out. We recognized the jet by the wings lights, one red, one green, and a center light. The lights on the jet were flashing in rapid procession. I commented that it looked like the air police. The jet was gaining in distance between it and the object, and just when it got close the object accelerated and began and incredible acsent as it was circling back toward the Charleston Air Force Base. We live only a few blocks from the AFB main gate.I went into my house to find a pair of binoculars. My son ran in to get the phone to call a friend that lives in the neighborhood. My son's friend saw the 'chase'. I recall the chill in the air and wishing I had something on my feet.The sky was not very cloudy, or atleast there was no cloud coverage to obstruct our view. The crafts were flying SE to NW. Looped around the Air Base and then continued WNW.My son has studied aircraft since the age of 3. His goal is to become a pilot, but what he saw was difficult to explain with all his knowledge of aircraft, old, new, and experimental. Because of my son's interest we have for years looked to the sky. He is somewhat expert in recognizing types of aircraft from sight and/or sound. He, nor I, have any knowledge of what American craft uses such lighting. The object was so large and bright that it was highly noticeable.We thought that something would have been broadcasted on the news. There was illness in the family which did not permit me to do an online search until now. I was very happy to see that atleast one other person in the area could confirm our sighting.One explaination was that the USAF was testing out a new aircraft, but that gave rise to why it was pursued by a jet with rapid flashing lights. I would have thought such a test would have been more discreet.I am suggesting to my son and his friend that they add their own discription and comments to this site.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27837.html](http://www.nuforc.org/webreports/reports/027/S27837.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Nehalem (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright white ";light" performs extreme maneuvers at OR coast.Bright white light moved frimWSW (fm ocean) toward NNE, very rapidly.  Changed direction at an extreme angle, accelerating  vertically to pinpoint in a flash.  The object was too bright and too large for any known device-and too fast to be a conventional aircraft.  Our dog Louis also watched and growled at the "light.".</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96009.html](http://www.nuforc.org/webreports/reports/096/S96009.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [263](http://www.nuforc.org/webreports/reports/161/S161676.html)
-- [262](http://www.nuforc.org/webreports/reports/161/S161662.html)
-- [261](http://www.nuforc.org/webreports/reports/161/S161665.html)
-- [260](http://www.nuforc.org/webreports/reports/161/S161663.html)
-- [259](http://www.nuforc.org/webreports/reports/161/S161658.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
