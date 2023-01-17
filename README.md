@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:23 on 17 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:31 on 17 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Yucca Valley (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Sideways classic saucer shape, silvery white, possibly 4 white lights falling straight down.  The object appeared to be quite far away, possibly over the mountain between Morongo and Desert Hot Springs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132217.html](http://www.nuforc.org/webreports/reports/132/S132217.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Costa Mesa (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>At 3:45 pm 1/17/15, I was at work in Costa Mesa, CA.  Just happened to look up a what appeared to be 5 objects, one brighter and bigger then the rest, moving along all together.  At first, I thought looks to be balloons, but I've seen balloons, and this was not any type of balloon or balloons I've seen before.  There were 5 surrounding the bigger brighter one and moving around and away from the bigger one and at times the smaller ones would move closer the chase the other ones away and move above the a 7th one came right through the middle as if they were playing they would move into a triangle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116766.html](http://www.nuforc.org/webreports/reports/116/S116766.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [263](http://www.nuforc.org/webreports/reports/161/S161676.html)
-- [262](http://www.nuforc.org/webreports/reports/161/S161662.html)
-- [261](http://www.nuforc.org/webreports/reports/161/S161665.html)
-- [260](http://www.nuforc.org/webreports/reports/161/S161663.html)
-- [259](http://www.nuforc.org/webreports/reports/161/S161658.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
