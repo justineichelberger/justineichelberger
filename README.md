@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:42 on 17 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:28 on 17 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Wanham (Canada) (AB) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MY HUSBAND CALLED ME FROM A RIG SITE. HE AND ANOTHER FELLOW HEARD THIS ON THE NES OUT OF GRANDE PRARIE, ALBERTA ABOUT 7 A.M. THERE WERE 3 CALLS PLACED. THE NEAREST R.C.M.P. DETACHMENT WOULD BE IN SPIRIT RIVER, HALF AN HOURS DRIVE AWAY. THE CALLERS SAID THEY SAW 5 CRAFT. THE NAME OF THE RADIO STATION THEY THINK IS SUN-F.M. -((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15962.html](http://www.nuforc.org/webreports/reports/015/S15962.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Ukiah (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>We saw a big saucer coming down towards us and it went away fast.It was around 12:00am to 1am and my cousin and I went to the park to look up at the stars like always.  We were laying on the grass at a school near my house, about a few minutes later- we saw something coming at us in the sky, it was oval shaped, and looked like a disk or saucer.  It  had yellowish windows that seemed to change  color to an orange-red.   It had tons of little windows the whole thing looked like a cartoon.  It came right at us and became 20 feet away.   We were so scared and ran off- we started to scream and cry.  We had left our phone so we went back for it, but we found it in our pocket.  By that time it had left, but we ran home.  When we got home we told my sister and my other cousins.  They didn’t believe us at first, but we looked so scared that they did.  It seemed like we were almost abducted.  We have seen many of these crafts before in the sky in a great distance, but this time it was coming towards us.  We have probably seen about 20 UFO's i! n the years 2008 and 2009 all together.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74363.html](http://www.nuforc.org/webreports/reports/074/S74363.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [263](http://www.nuforc.org/webreports/reports/161/S161676.html)
-- [262](http://www.nuforc.org/webreports/reports/161/S161662.html)
-- [261](http://www.nuforc.org/webreports/reports/161/S161665.html)
-- [260](http://www.nuforc.org/webreports/reports/161/S161663.html)
-- [259](http://www.nuforc.org/webreports/reports/161/S161658.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
