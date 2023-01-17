@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:37 on 17 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:42 on 17 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Philadelphia (south) (PA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>I was visiting my mother. It was bitterly cold (approx. 15 degrees Far) And very windy. At appox.6: 02 PM I went out back into her small yard to have a cigarette (she doesn't like the smoking inside). About a minute or two passed when I thought I saw movement in the sky (It was mostly dark with indirect distant light from further down the street, the sky was devoid of any clouds, only stars were visible) I looked up quickly I moved further into the yard to see what it was when I saw these three rectangular objects moving in tandem. They were not like anything I ever saw in my entire lifetime. They were moving at a quicker pace (based on their approximate altitude I would estimate much faster than any commercial or non-commercial aircraft I have ever seen. They glowed with a subtle consistent amber color, rectangular in shape but with smooth edges. I followed them without a blink for about 6 seconds before they went out of view over the rooftop. When I first saw them they were in tandem, before they went out of view the were going out of tandem. Needless to say i was stunned but excited. Before I went back into the house I just reaffirmed to my self that I really saw this and did not imagine it. That only took about a second.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11717.html](http://www.nuforc.org/webreports/reports/011/S11717.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Wanham (Canada) (AB) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MY HUSBAND CALLED ME FROM A RIG SITE. HE AND ANOTHER FELLOW HEARD THIS ON THE NES OUT OF GRANDE PRARIE, ALBERTA ABOUT 7 A.M. THERE WERE 3 CALLS PLACED. THE NEAREST R.C.M.P. DETACHMENT WOULD BE IN SPIRIT RIVER, HALF AN HOURS DRIVE AWAY. THE CALLERS SAID THEY SAW 5 CRAFT. THE NAME OF THE RADIO STATION THEY THINK IS SUN-F.M. -((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15962.html](http://www.nuforc.org/webreports/reports/015/S15962.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [263](http://www.nuforc.org/webreports/reports/161/S161676.html)
-- [262](http://www.nuforc.org/webreports/reports/161/S161662.html)
-- [261](http://www.nuforc.org/webreports/reports/161/S161665.html)
-- [260](http://www.nuforc.org/webreports/reports/161/S161663.html)
-- [259](http://www.nuforc.org/webreports/reports/161/S161658.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
