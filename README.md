@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:25 on 17 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:49 on 17 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Gila Bend (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>On the night of January 17th 2007 I was traveling west bound on Highway 8 just east of Gila Bend Arizona. Approximate time was 9:00 pm.Up in the sky in front of me and to the south, up above what appeared to be an airport were 3 glowing slightly flashing objects white/orange in color they appeared for about ten to twenty seconds. When the 3 large objects became 5 objects and appeared and disappeared back into the 3 objects.  This lasted for an additional ten to twenty second.From where I was I would say they were one thousand to two thousand feet above the airport.  Very large larger than a house. I pulled off the road to see if what ever I saw would reappear. I waited for a few minutes enough time to get a little spooked. I got back on the road to San Diego. I do not know what I saw but I know it was not any thing I had seen before at night.On the way back to San Diego just out side of Gila Bend I saw a lot of aircraft flying towards the direction I just had come from. I got off the highway one more time and notice they were about 4 helicopters and to the west and south and 4 jet aircraft to the north heading in an easterly direction. I could not tell if they were military or not.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54906.html](http://www.nuforc.org/webreports/reports/054/S54906.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Mount Pleasant (SC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I was having a fire drill at my school and I saw a formation of ufos by the moon</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152695.html](http://www.nuforc.org/webreports/reports/152/S152695.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [263](http://www.nuforc.org/webreports/reports/161/S161676.html)
-- [262](http://www.nuforc.org/webreports/reports/161/S161662.html)
-- [261](http://www.nuforc.org/webreports/reports/161/S161665.html)
-- [260](http://www.nuforc.org/webreports/reports/161/S161663.html)
-- [259](http://www.nuforc.org/webreports/reports/161/S161658.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
