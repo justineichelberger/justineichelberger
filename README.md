@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:31 on 17 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:30 on 17 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in High View (WV) reported seeing craft that fit the description of some 'Disk' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Two ufos, one had a red light, the other blue, hovering over the mountains.2 UFO'S.  ONE HAS A RED LIGHT THE OTHER HAS BLUE.  BEEN SIGHTED MORE THAN TWICE,  ALWAYS IN THE SAME SPOTS.  USUALLY HOVER IN THE SAME AREA EACH TIME.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116780.html](http://www.nuforc.org/webreports/reports/116/S116780.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Takaka/Golden Bay (New Zealand) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>White light un- naturally shifting across sky in Takaka NZTrying to find an active information call in center, I have no solid evidence of this claim but I wanted to let someone know what we had seen. Me and two friends were watching a very clear sky at around 4.30am on Friday morning in Takaka NZ,  Amongst a torrent of shooting stars we all witnessing a small star shaped light moving across the sky in an erratic and unsettling nature, I pointed at it quickly to my two friends who also claimed it to be un-identifiable to them.It moved like this from north to east across the sky for about 30 seconds with erratic movements speeding up and down, fluctuating in speed, direction and even seemed to blink from spot to another randomly.Other dim star like figures seemed to move around and dart from vision and back around the same area of the sky.The main object we saw was nothing like I have ever seen before in the sky,  Astronomy and cosmology are two of my biggest passions and with music, Iooking up and having good judgment of what i am seeing is important.The difference between this and other objects such as satellites or planes is that the object constantly staggered its flight path like no other earth bound space craft could.If any other inquiries like this come through I would like to know,  if I can help with any questions please feel free to email me.Kind regards    ((name and telephone number deleted))  Wellington nz</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132402.html](http://www.nuforc.org/webreports/reports/132/S132402.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [263](http://www.nuforc.org/webreports/reports/161/S161676.html)
-- [262](http://www.nuforc.org/webreports/reports/161/S161662.html)
-- [261](http://www.nuforc.org/webreports/reports/161/S161665.html)
-- [260](http://www.nuforc.org/webreports/reports/161/S161663.html)
-- [259](http://www.nuforc.org/webreports/reports/161/S161658.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
