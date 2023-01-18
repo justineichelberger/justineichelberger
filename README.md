@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:27 on 18 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:30 on 18 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Ione (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.025 - 0.025 minutes.</sub><blockquote><sub>Redish-Orange object falling ne to sw in souther sky south of Sullivan Lake, Ione, WaOn 20110118 at approximately 22:07 (Pacific Time) while looking south-south west from a location just south of Sullivan Lake (NE of the town of Ione, WA) I observed what most likely was a Meteor passing from the north east to the south west.  The object went just below the three stars on Orion's belt downward at about a 45 degree angle.  The object was left a reddish-orange streak in the sky.  I make this report even though it probably was a meteor just to help document this "UFO".</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79727.html](http://www.nuforc.org/webreports/reports/079/S79727.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Flamingo (Costa Rica) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>100% realMy sister and I are vacationing along the Pacific coast in Costa Rica.  Out of the corner of my eye a glowing bright, bright orange shape appeared.  Approaching out from the north sky, slowly, silently gliding to the west.  Changing from a large watermelon circle to a star-like size, and repeating from larger to smaller, then instantly disappearing directly out to the west.  I have never, in my life witnessed such a sight.  I have alway believed in such events but this is my first sighting that I feel was 100% legit.  I went to google "UFO sightings in Costa Rica" with surprise to see numerous video recording the exact same image I witnessed.  I was stunned. I wish I could have captured this event.  I could not take my eyes off what I was seeing to grab my phone to even find the camera.  This morning, I also saw 4 helicopters along the coast, unlike tourism helicopters......Completely breath taking.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116755.html](http://www.nuforc.org/webreports/reports/116/S116755.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [279](http://www.nuforc.org/webreports/reports/161/S161680.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161677.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161672.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161819.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161673.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
