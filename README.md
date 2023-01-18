@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:27 on 18 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:27 on 18 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Springtown (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Military helicopters escort UFO off to Fort Worth Miliary Base.we have had several sightings in Springtown Texas and Azle Texas back in Jan 18th. It was all over the news. I know for a fact because one happened right above my roof top. I live in Springtown. The military even had 6 helicopters surrounding it. It was round and had three rolls of white lights. The ufo was hovering. The military knew that I had heard the choppers and they were out there about 15 minutes before I stepped out on my back porch. We live on this country road an I was out watching the event. One helicopter shot a tracer off directly in front of the ufo to scare it into moving. When it did the choppers surrounded it and herded it off toward the military base in Fort Worth. So you can add that to the map. I also saw one back in Dec 05 again right above my roof top. That was my first sighting. It was scarey. This place I am told is a hot spot magnet for the darn sightings.((NUFORC Note:  The sighting the witness refers to may have been the events over Stephenville, TX.  That sighting occurred on January 08, 2008.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62300.html](http://www.nuforc.org/webreports/reports/062/S62300.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Ione (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.025 - 0.025 minutes.</sub><blockquote><sub>Redish-Orange object falling ne to sw in souther sky south of Sullivan Lake, Ione, WaOn 20110118 at approximately 22:07 (Pacific Time) while looking south-south west from a location just south of Sullivan Lake (NE of the town of Ione, WA) I observed what most likely was a Meteor passing from the north east to the south west.  The object went just below the three stars on Orion's belt downward at about a 45 degree angle.  The object was left a reddish-orange streak in the sky.  I make this report even though it probably was a meteor just to help document this "UFO".</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79727.html](http://www.nuforc.org/webreports/reports/079/S79727.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [279](http://www.nuforc.org/webreports/reports/161/S161680.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161677.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161672.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161819.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161673.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
