@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:32 on 18 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:27 on 18 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sidney (MT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>One red light in the shape of circle moved half way across the sky and disappeared very quickly.Went outside around 8 pm and caught something moving in the distant with my eyes.  It was a very bright red light moving from almost ground level to directly above my head.  That was when it disappeared.  It moved roughly half of the sky in the three seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116821.html](http://www.nuforc.org/webreports/reports/116/S116821.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Maple Glen (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Spotlight like light seen in the skyI do not want to immediately classify this as a UFO sighting, but I cannot explain it.  Friday the 18th I was driving home from skiing and was about a mile from my house when I spotted a white light in the sky.  I followed it for a few minutes and then headed home.  When I arrived home I noticed the light was exactly like a spotlight, but there was no beam coming from the ground, and this light was going in a perfect circle.  After arriving home, I called my dad out to take a look and he was bewildered as well.  It was a bright white light in the sky moving in a perfect circular motion moving towards us.  I might add we live a few miles away from Willow Grove Air Base, but this was not in that direction.  You could also not see the beam, which is very peculair because on such a cloudy night it would have been visible.  It was as if this light was coming from above the clouds shining down.  It lasted for about 20 minutes that I saw and then disappeared a little after midnight.  I kept looking until about 1:00 AM to see if it came back and it never did.  I really don't know what to make of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61086.html](http://www.nuforc.org/webreports/reports/061/S61086.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [279](http://www.nuforc.org/webreports/reports/161/S161680.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161677.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161672.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161819.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161673.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
