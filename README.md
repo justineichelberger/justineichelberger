@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:31 on 18 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:48 on 18 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Baldwin Hills Estates (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Cloned StarsI have been observing for some time weird flicking lights that appear to be stars over our house. After taken some photos and made the images larger you can distinctively see that they are orbs lights.  And when dawn sets in you can see them dispersing away in the horizon.  I live in Baldwin Hills Estates, CA located at Latitude: 34.01 North, Longitude: 118.34 West, Altitude: 980.00m/3215.22ft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152752.html](http://www.nuforc.org/webreports/reports/152/S152752.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Grangeville (ID) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Woman calls to report a dramatic "meteor shower"  over northern Idaho.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00272.html](http://www.nuforc.org/webreports/reports/000/S00272.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [279](http://www.nuforc.org/webreports/reports/161/S161680.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161677.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161672.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161819.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161673.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
