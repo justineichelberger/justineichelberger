@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:48 on 18 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:38 on 18 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hickory (NC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Outside on Sunday evening.  Completely clear sky.  Saw bright lights shining through trees. Walked through yard for better view.  White and yellow lights.  Tight grouping.  Unknown whether this was one large objects with lights, or several smaller objects in a tight group.  It moved slow, in unison.  Then disappeared.((NUFORC Note:  We have amended the time of the sighting, to reflect an evening event, and have assigned an arbitrary date, reflecting "Sunday."  The source of the report elects to remain anonymous, and provides no contact information, so we are unable to contact the witness, in order to confirms the time and date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116750.html](http://www.nuforc.org/webreports/reports/116/S116750.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Goshen (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>orange ball of light moving fast - 1 hour north of NYC - lasted only 1-2 secs before it disappeared - no engine noise !ok guys, I'm not exactly sure what this was since it was kind of fast, and took me by surprise, but here it goes: About 10:30pm coming home from home depot, was standing in my driveway taking in the quietness and the clear, cold night. I looked down my street ( I live in a small village about 1 hr north of NYC at the foot of the catskill mountains). All of a sudden I saw an orangish(?) ball of light go from left to right across my street. It was pretty fast, but from what I can recall it seemed to be about 100 feet over the rooftops and I would guess about 200 feet away, but the distance could have been deceptive. It seemed to be about the size of a basketball. It vanished about 1-2 secs later behind the house on the other side of the street. There DEFINATELY was no sound of engines. I'm not really sure if I want to call the police and ask if anyone else had seen anything. They'll think I'm nuts ! I would love to know if anyone else had seen anything. I'm not sure if it was Fri or Sat night , but it was before the recent snowstorm.((NUFORC Note:  Witness indicates a date of January 26, which is not possible.  We have requested clarification.  We assume he may have in mind the dramatic fireball event seen on January 20, 2002.  We have amended the date here.  PD))((FOLLOW-UP COMMUNICATION FROM WITNESS))This is from the guy who posted a sighting in Goshen, NY. Again, I am sorry about the mixup of the dates. I checked several sources and the date was DEFINATELY the 18th of January!  I know you said dates were very important, so I checked with several people as to the date of the storm over the long Martin Luther King weekend. It occured approximately 10:30 the previous night- the sky was clear and it hadn't snowed yet, so that would definately would have been the 18th. If you have any questions, you may e-mail me back at this address.Sincerly,  ((name deleted))((END))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21509.html](http://www.nuforc.org/webreports/reports/021/S21509.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [279](http://www.nuforc.org/webreports/reports/161/S161680.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161677.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161672.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161819.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161673.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
