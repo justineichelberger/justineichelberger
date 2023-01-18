@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:48 on 18 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:23:45 on 18 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Grangeville (ID) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Woman calls to report a dramatic "meteor shower"  over northern Idaho.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00272.html](http://www.nuforc.org/webreports/reports/000/S00272.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Oakwood (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately PEROSONAL - PEROSONAL minutes.</sub><blockquote><sub>I JUST WANT TOO  KNOW IF IN AUG OF 89 IF ANY ONE ELSE SAW THE OBJECT IN THE SKYWHEN I WAS A CHILD IS WHEN I SAW THE OBJECT IT WAS LIKE A LIGTH BULB IT HOVERD IN THE SKY AND FLASHED WILDLEY AND THEN AS MYSELF FRIENDS WATCHED IT FLEW OFF AND TIME HAD ALSO PASSED ALMOST 2 HRS THIS WAS THE FRIST ONE THERE HAVE BEEN OTHERS AS WELL</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41564.html](http://www.nuforc.org/webreports/reports/041/S41564.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [279](http://www.nuforc.org/webreports/reports/161/S161680.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161677.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161672.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161819.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161673.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
