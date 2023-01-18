@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:01:28 on 18 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:28 on 18 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Heber City (UT) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Five oranges lights in a formation slowly moving east and fading away.Driving north, we saw 5 orange lights hovering in a kind of diamond shaped formation.  The formation seemed to be slowly moving to the east, and as it moved the lights would fade away starting with the light farthest east.  It was a foggy night and it was kind of snowing and raining, so I doesn't seem likely that they were drones.((NUFORC Note:  Witness elects to remain anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125347.html](http://www.nuforc.org/webreports/reports/125/S125347.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Mullica Hill (NJ) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I saw what I thought was a plane flying straight with headlights on, evolve into a bowtie shape of light and shoot down to the ground.I was driving along the main road in town when I saw to my right in the sky what looked like a far away plane with its headlights on.  It was moving very slowly in a straight-ahead direction, straight across the sky.  Then, all the sudden, it shot down at I’d say a 75-80% angle and the lights grew much more intense as it fell to the earth.  It looked like a bow tie shape where the inside had a straight, large black line and on both sides was a triangle of bright light.  The triangle was fuzzy on the sides and looked “jagged” on the outside edge, almost like sunrays.  It shot down past the top of the trees, and I could no longer see it.  It left behind a small smoke trail.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74121.html](http://www.nuforc.org/webreports/reports/074/S74121.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [279](http://www.nuforc.org/webreports/reports/161/S161680.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161677.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161672.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161819.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161673.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
