@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:44 on 19 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:24:45 on 19 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Maseru (Lesotho) () reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>30 minute display over Maser, Lesotho (Southern Africa)Observed a large light with trailing tail for nearly thirty minutes over Maseru, Lesotho. Appeared at dusk in the western sky and continued to descend in that direction until it dissappeared from sight. Several photos were taken using a Canon Digital SLR and 200mm lens. Photo on the way.((NUFORC Note:</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54849.html](http://www.nuforc.org/webreports/reports/054/S54849.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Eagle Mountain (UT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Saw 2 glowing balls of orange/red  floating to the west of the Holiday in Eagle Mountain.Walked out of the Holiday/Chevron gas station in Eagle Mountain (the ranches) when my friend and I saw 2 glowing orange/red balls of light in the sky to the west of where we were standing.  Possibly about a mile or so distance between us and the lights not really sure it was hard to gauge the distance.  The floating light's were moving upwards and slightly north but after a few minutes we started to drive away from the Holiday and we lost sight of the glowing balls of light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96032.html](http://www.nuforc.org/webreports/reports/096/S96032.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/161/S161692.html)
-- [237](http://www.nuforc.org/webreports/reports/161/S161961.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161695.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161693.html)
-- [234](http://www.nuforc.org/webreports/reports/161/S161694.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
