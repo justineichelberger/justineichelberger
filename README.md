@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:31 on 19 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:44 on 19 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Aberdeen (UK/Scotland) () reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was trully Amzing but frightening at the same time i would like nothing more than to find out what they were.Me and my Mum smoke but not in the house so we go outside and as we go outside we usually look at the sky because my mum and i love to look at the star's. One night we were looking up and we could see that there were a lot more star's than usual and after a while they started to move and they all seemed to make a pattern but they all kept moving. The pattern looked like the star of David but it was'nt. We have seen it a few times and also my dad has seen it and still they are there sometimes but only a few at a time. It was an amazing site to see and i was wondering if you would be able to tell me what it was that was up there them two night's. Thank you. ((name deleted))  Aberdeen Scotland</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16013.html](http://www.nuforc.org/webreports/reports/016/S16013.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Maseru (Lesotho) () reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>30 minute display over Maser, Lesotho (Southern Africa)Observed a large light with trailing tail for nearly thirty minutes over Maseru, Lesotho. Appeared at dusk in the western sky and continued to descend in that direction until it dissappeared from sight. Several photos were taken using a Canon Digital SLR and 200mm lens. Photo on the way.((NUFORC Note:</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54849.html](http://www.nuforc.org/webreports/reports/054/S54849.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/161/S161692.html)
-- [237](http://www.nuforc.org/webreports/reports/161/S161961.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161695.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161693.html)
-- [234](http://www.nuforc.org/webreports/reports/161/S161694.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
