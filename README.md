@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:28 on 19 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:42 on 19 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Burbank (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>A falshing red light.S blinking red light on top of the hill.   Stayed still for entire duration while eating at Bob's restaurant.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61014.html](http://www.nuforc.org/webreports/reports/061/S61014.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sandy (UT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 to 4 red spheres at a time, flying, hovering, and disappearing over 10 minute span.Driving to my current lodging in Sandy, Utah, around sunset, I noticed 3 red spheres in the south eastern sky, maybe close to Spanish Fork Utah, around 20 or 30 miles from my location.  They moved slowly west, and disappeared one by one.Then, just like gigantic Roman Candles, three more red spheres shot up in an instant, and stopped at what appeared to be around 4 or 5,000 feet. They also hovered in random patterns and disappeared.  This same action continued for at least 5 minutes.  I recorded as much as I could on my phone.  Did anyone else see this?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106515.html](http://www.nuforc.org/webreports/reports/106/S106515.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/161/S161692.html)
-- [237](http://www.nuforc.org/webreports/reports/161/S161961.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161695.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161693.html)
-- [234](http://www.nuforc.org/webreports/reports/161/S161694.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
