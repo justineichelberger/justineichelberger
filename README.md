@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:36 on 19 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:32 on 19 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in North Port (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A large ship slowly flew over my car.I'm now a believer after what I've witnessed a few days ago. It just started getting dark in the sky, I don't remember the time though.  But I'm driving towards the high way to go under the over pass for the high way, when I see 2 VERY bright yellowish lights in the sky.  They looked almost like car head lights but a lot brighter.  They appear stationary for awhile so I start thinking it's a cell phone tower or those tall street lamps we have in that area.  But as I drive closer, it vanished.  So I look forward and continue driving maybe about 10 seconds, and then this huge ship appears right over the tree line, and slowly moves over my car. It was going maybe 10-30mph but I couldn't tell because it was so large and so low to the ground.  When it flew over I couldn't really make out the shape, the bottom of the ship was so dark that I couldn't make out any type of patterns or designs under it as it appeared to be a reflective black paint or something.  But when it flew over it had 2 bluish lights under it. It looked like they were on the tip of each wing thing, and the lights were coming from a square window-like enclosure.  The blue lights did flash, but not in any type of pattern, it was almost like looking at metal in a microwave, but with all blue sparks.  It made no noise which confused me the most, there was also no rumbling or shaking.  I could see some of the wing where the lights would flash.  The lights that lit up around the wing did let me see some of the wing shape though and color.  From the little I saw, the ship's shape looked similar to that atlantis space shuttle.  The ship looked like it was following the highway, but next to it.  I'll provide a picture/map of the course I saw it flying on.  Sadly I do not own a cell phone, and the other people in the car were too in shock to respond quick enough to record it.  I usually hear stories of strange red lights in the sky in this area, but this goes way beyond that…((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116886.html](http://www.nuforc.org/webreports/reports/116/S116886.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Ocean Springs (MS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>On or about 19 January of 2011, I was at my home in Ocean Springs, Ms.  At close to 8:30 pm, I looked out the window and saw a disc-shaped object with lights (making no sound) come by my back yard at about tree top level.  I have never believed in these things before, however, now I am a full believer.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79964.html](http://www.nuforc.org/webreports/reports/079/S79964.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/161/S161692.html)
-- [237](http://www.nuforc.org/webreports/reports/161/S161961.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161695.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161693.html)
-- [234](http://www.nuforc.org/webreports/reports/161/S161694.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
