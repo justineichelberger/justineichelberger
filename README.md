@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 19 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:28 on 19 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Paso Robles (CA) reported seeing craft that fit the description of some '' over a period of approximately 0.5833333333333334 - 0.5833333333333334 minutes.</sub><blockquote><sub>On the evening of January 19, 2018, while driving Southbound on U.S. Highway 101 into Paso Robles California my passenger and I observed a yellow and green fireball, headed towards the Pacific Coast.  The sighting lasted approximately 35 seconds as the fireball lost its yellow and green glow.  Later that night an unusual amount of military aircraft were sighted in the area coming from the U. S. Army Base Camp Roberts.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138491.html](http://www.nuforc.org/webreports/reports/138/S138491.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Burbank (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>A falshing red light.S blinking red light on top of the hill.   Stayed still for entire duration while eating at Bob's restaurant.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61014.html](http://www.nuforc.org/webreports/reports/061/S61014.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/161/S161692.html)
-- [237](http://www.nuforc.org/webreports/reports/161/S161961.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161695.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161693.html)
-- [234](http://www.nuforc.org/webreports/reports/161/S161694.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
