@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:37 on 19 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:01:14 on 19 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lansdale (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange lights in the sky with aircraft flying around themMy daughter and I were driving down Valley Forge Rd. at 7:20. She pointed out two white large lights in the sky. one was directly above the other.  They would move closer to each other until almost touching and then move apart again. They did this about five times and then the lower one flew away.  Then, up the road where the trees thin out and much more of the sky is visible there were about 10 orange orbs floating in different places just hovering. I pulled over to watch them and then we noticed places flying all around the lights.  They weren't normal passenger planes they were triangular in shape and loud.  There were probably at least 20 planes flying all around the hovering lights.  I wanted to stay and watch because it was so pretty but we were going to an appointment. When we came out of the appointment everything was gone.  I have never seen anything like that before and while I was watching it I was in awe.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86698.html](http://www.nuforc.org/webreports/reports/086/S86698.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Melbourne (FL) reported seeing craft that fit the description of some 'Egg' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO on fireSaw ufo on the way home from Orlando to Melbourne, Florida, on highway 95.  On the left-hand side, there was something on fire in the sky.  I thought it was a meteor or space junk, until it dropped and stopped.  It disappeared then it re-appeared probably a couple hundred feet above the ground.  It flashed.  It looked like there were light beams coming out of the side of it. It was also smoky around it.  It was probably an egg shape and white ish with a red/orange/yellow light surrounding it.  It then vanished and re appeared 3 times until it completely vanished.  Then further down the road there was this giant triangle in the sky. 3 light very bright.  One vanished and the other was flashing (not an airplane or helicopter) then suddenly this one appears that is low that is 3 lights on top and 3 lights on bottom on red and green and it was just flying around.  I was trying to take a photo/video and my phone was malfunctioning.  I called my mom and was freaking out about it to her on the phone.  It was crazy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138478.html](http://www.nuforc.org/webreports/reports/138/S138478.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/161/S161692.html)
-- [237](http://www.nuforc.org/webreports/reports/161/S161961.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161695.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161693.html)
-- [234](http://www.nuforc.org/webreports/reports/161/S161694.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
