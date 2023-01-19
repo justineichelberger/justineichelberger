@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:31 on 19 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:15 on 19 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Avondale (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>I first noticed 2 red lights moving in perfect formation in the south/western sky moving east to west.  The 2 red lights were tiny in comparison to aircraft, they were comparable to the night stars size.  As I walked out of the streetlights glare I then noticed the blue light at the top completing the triangle shape.  I immediately got overwhelmed with emotions and cried a bit cause I knew deep down it wasn't from this planet due to the sheer size of it, it was gigantic.  It was so silent and still cant wrap my head around if it was in our atmosphere or in our orbit. It's been 3 days and I still cannot get over what I experienced, I feel lucky and incomplete at the same time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152830.html](http://www.nuforc.org/webreports/reports/152/S152830.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Felton (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two bright lights moved in spurts then changed shape, color and direction.My name is ((deleted)) and I work at the local ((private financial institution)).  I'd never seen anything unusual in the sky before today.  I was driving to work this morning when I noticed out of the corner of my eye a bright light at a little bit above the horizon line and off to the right of the direction I was facing.  I didn't pay much attention to it at first and just thought to myself that it was a big star.  When I looked at it a few seconds later I noticed that it was actually two lights signifigantly larger than the other stars and also that it seemed to be moving slowly, horizontally across the sky.   So then I thought it might be a plane.  I kept my eye on it and observed that it seemed to be moving slowly then pausing then moving again.  I thought it was wierd but still maybe a plane.  I was eager to arrive at work and park so I could get a good look at it.  I tried to keep my eye on it while I was driving and arrived at work about 45 seconds later.  When I got out of my car and looked up at the object(s) the two lights seemed to shift into a vertical position like stacked on top of each other and then I noticed a red blinking light between the two lights.  Then it started to move vertically straight down towards the ground.  I observed it for about thirty seconds while it slowly descended towards the ground and finally fell out of view behind a building.  It couldn't have been a plane because during the time that I was watching it, it moved in spurts then changed shape, color and direction  What the #%$&^!!!???((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54835.html](http://www.nuforc.org/webreports/reports/054/S54835.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/161/S161692.html)
-- [237](http://www.nuforc.org/webreports/reports/161/S161961.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161695.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161693.html)
-- [234](http://www.nuforc.org/webreports/reports/161/S161694.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
