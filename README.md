@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:57 on 19 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:52 on 19 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Franklinton (LA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saw two red lights with lights projected upward to make a triangular shape.  Was positioned in the sky at top of trees in a stationary position for approximately 5 minutes.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132242.html](http://www.nuforc.org/webreports/reports/132/S132242.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Dalzell (SC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>In Dalzell, in the area where 441/521 crosses there appeared to be a large Spot Light above my house. I got out my camera and witness a large circular object with 3 distinct spot lights shining in a row downward. I watch a helicopter and 2 planes, one of them being a cargo plane fly directly under this object, and this object never flinched. At one point it actually jumped in what appeared to be a backwards notion from where I was at, because my camera lost focus of it when it moved and was unable to zoom in as far as previously.I watched this object for at least 45 minutes move south thru Sumter.  I got in my car at one point and watched it sitting in open sky in what looked like an open field area towards AFB. The spot lights never dimmed they only seem to change direction.I don’t know what this was. I’ve never seen anything like it. I’ve been in the military all my life, I’ve lived near military bases all my life. I’ve NEVER seen ANYTHING like this. I have no explanation, I’m truly stumped.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152740.html](http://www.nuforc.org/webreports/reports/152/S152740.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/161/S161692.html)
-- [237](http://www.nuforc.org/webreports/reports/161/S161961.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161695.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161693.html)
-- [234](http://www.nuforc.org/webreports/reports/161/S161694.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
