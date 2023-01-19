@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:29 on 18 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:31 on 19 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Sun Valley (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I saw a large black triangular shaped object hovering over my back yard.On January 18 2009 @ 8:30 pm I walked to my backyard and noticed three white lights very low over my back yard. I noticed them because the clouds in the sky were very unusual, they were low and wispy. As I was looking at the lights they began to rotate in a clockwise direction. It was at this time I realized that the three lights were connected to one large object. This object was triangle in shape and seemed to be black in color. The white lights were fixed on each corner of the object. The object was very low, slightly higher than the tree tops. It was hovering in the same spot as it rotated. As it hovered I noticed a very faint hum. Other than this slight hum it was silent. After the object rotated one time it slowly began to move South/Southwest. As it began to move is when I yelled for my partner who was still in the house. He came out in time to see the lights pass over our house. The three lights did not blink and seemed to be on the bottom of the object. As the object flew away it began to gain speed and altitude. The object turned and banked several times.  It seemed to move effortlessly almost like it was in water. We live right next to the Burbank Airport so we are used to seeing airplanes and helicopters. This object was like nothing I have ever seen. It was larger than my house just hovering with virtually no sound and no wind. I have been searching for more reports on that night but have had no luck. I have always been a skeptic but I know what I saw and this event has changed my perspective.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68224.html](http://www.nuforc.org/webreports/reports/068/S68224.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Aberdeen (UK/Scotland) () reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was trully Amzing but frightening at the same time i would like nothing more than to find out what they were.Me and my Mum smoke but not in the house so we go outside and as we go outside we usually look at the sky because my mum and i love to look at the star's. One night we were looking up and we could see that there were a lot more star's than usual and after a while they started to move and they all seemed to make a pattern but they all kept moving. The pattern looked like the star of David but it was'nt. We have seen it a few times and also my dad has seen it and still they are there sometimes but only a few at a time. It was an amazing site to see and i was wondering if you would be able to tell me what it was that was up there them two night's. Thank you. ((name deleted))  Aberdeen Scotland</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16013.html](http://www.nuforc.org/webreports/reports/016/S16013.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [279](http://www.nuforc.org/webreports/reports/161/S161680.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161677.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161672.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161819.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161673.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
