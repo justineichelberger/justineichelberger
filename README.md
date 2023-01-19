@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:31 on 19 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:31 on 19 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Walton (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Saucer shaped craft with green lights flies across highwayMy fiance and I were driving into town on Route 10 in Walton, NY. As I was driving I glanced into my rear view mirror and saw a saucer shaped craft with green lights fly across the highway very fast. I didnt want to tell my fiance what I saw because I couldnt really believe it myself, but I wanted to see if she saw it too. She didnt. What I saw that night was very strange. Just to clarify, I am in the medical field and do not use any illegal substances of any sort. What I saw was unbelievable, but definately something.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41905.html](http://www.nuforc.org/webreports/reports/041/S41905.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Avondale (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>I first noticed 2 red lights moving in perfect formation in the south/western sky moving east to west.  The 2 red lights were tiny in comparison to aircraft, they were comparable to the night stars size.  As I walked out of the streetlights glare I then noticed the blue light at the top completing the triangle shape.  I immediately got overwhelmed with emotions and cried a bit cause I knew deep down it wasn't from this planet due to the sheer size of it, it was gigantic.  It was so silent and still cant wrap my head around if it was in our atmosphere or in our orbit. It's been 3 days and I still cannot get over what I experienced, I feel lucky and incomplete at the same time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152830.html](http://www.nuforc.org/webreports/reports/152/S152830.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/161/S161692.html)
-- [237](http://www.nuforc.org/webreports/reports/161/S161961.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161695.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161693.html)
-- [234](http://www.nuforc.org/webreports/reports/161/S161694.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
