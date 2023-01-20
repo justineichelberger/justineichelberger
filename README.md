@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:28 on 20 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:22 on 20 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Oakland Park (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>blinking light over fort lauderdale  http://www.youtube.com/watch?v=rN9bMl0OyKAWe saw a bright light in the ne sky over Fort Lauderdale area, lights changed colors.Went in to check on baby and when I came back out, the light was gone.http://www.youtube.com/watch?v=rN9bMl0OyKA</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86782.html](http://www.nuforc.org/webreports/reports/086/S86782.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Tirana (Albania) () reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Many strange lights (roughly 40 of them) following each other in the night sky.I have seen 30-40 lights in the sky in a weird way. They were crossing the night sky following each other, in a straight path, almost equally separated in distance. They were coming from the same area in the night sky and the event took place for about 4-5 minutes. They were like a sort of train, following each other and maintaining the same distance (almost).They couldn’t have been airplanes because, frankly speaking, I might have seen (rarely) two airplanes in line with each other, even though I know that airplanes follow different paths in the sky for security reasons.But these lights were like 40 of them and they looked like they were never going to end. They just crossed the night sky following a certain order.  I don’t know what to add more.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153049.html](http://www.nuforc.org/webreports/reports/153/S153049.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/161/S161711.html)
-- [323](http://www.nuforc.org/webreports/reports/161/S161708.html)
-- [322](http://www.nuforc.org/webreports/reports/161/S161709.html)
-- [321](http://www.nuforc.org/webreports/reports/161/S161710.html)
-- [320](http://www.nuforc.org/webreports/reports/161/S161720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
