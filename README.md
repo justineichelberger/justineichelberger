@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:30 on 20 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:30 on 20 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Kankakee (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Me and friend see a meteor-like UFO in the sky.Me and my friend were taking a road trip to Chicago last night, and we decided to take the back way instead of the expressway.  As we were driving down IL-49 N, we saw what seemed to be a meteor.  It was round, with an orange/yellow tint, and had a short faint tail. At first I expected it to be an extremely big shooting star, but there was no way.The UFO came down in the sky in a downward angle, stopped and hovered, then shot off and faded away extremely fast.  What my friend and I saw was definitely in this atmosphere, but was very far away.  Although it was farther away, I could tell it was a massive and circular object.  I had never seen anything like it in my entire life and full-heartedly believe that we saw an actual UFO last night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86727.html](http://www.nuforc.org/webreports/reports/086/S86727.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Knoxville (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Round, white light in sky moving back and forth very rapidly.Light in sky moving back and forth very quickly.  Moving up down and left to right.  White in color and round.  Only one light visible.  Visible above interstate 40 as I was driving.  Lasted about 2 minutes and seemed to follow the route I was driving then dissipated.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152777.html](http://www.nuforc.org/webreports/reports/152/S152777.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/161/S161711.html)
-- [323](http://www.nuforc.org/webreports/reports/161/S161708.html)
-- [322](http://www.nuforc.org/webreports/reports/161/S161709.html)
-- [321](http://www.nuforc.org/webreports/reports/161/S161710.html)
-- [320](http://www.nuforc.org/webreports/reports/161/S161720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
