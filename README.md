@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:51 on 20 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:53 on 20 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Millis (MA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Crashed UFO in Ma?I don't know if you guys are interested in this tid-bit...When I was in college, I was working my way through at a warehouse in Millis Ma on Rt.109 One morning in the dead of winter (a week end)  There was talk of something falling from the sky and landing in a pond on one of the farms and melting the ice.  I said to my co-workers, "lets go over there and view the area were the event happened."  I was told you could not get in there because the millitary had closed the area off.  I thought it would make interresting reading in the local paper that evening but nothing was ever said about it.  So as a result folks kind of put it out of thier minds. However, later that spring, there were reports of a small strange being in the local paper dubbed "the creature" sighted and reported to the Millis and I think Dover Police by some High School students.  the drawings looked very much like our little friends that everybody sketches today. It has been a long time since this incident but I bet you could get more info from the town locals there. I would be more than happy to speak with any investigatore of this sort of thing.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42417.html](http://www.nuforc.org/webreports/reports/042/S42417.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Yellow light in Colorado SpringsI was driving south on powers heading to work when I saw a yellow light in the distance.  At first I thought it was an aircraft but I work at the airport and know where the runway is and it was way off  from the runway and it did not have any red or blue flashing strobes.  But then I thought it could have been a helicopter because I see them coming from that way all the time but still no flashing strobes, it was moving to slow, and I have seen no aircraft all yellow either.  I was still driving trying to get a good look at it when I made a left turn into work and still looking at it when it moved to the east and then it just disappeared.  I stopped my truck then and stepped outside trying to see where it went or what happened to it but like I said it disappeared.  If it was an aircraft of some sort it must of crashed but there were no reports of any aircraft crashing the next day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79847.html](http://www.nuforc.org/webreports/reports/079/S79847.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/161/S161711.html)
-- [323](http://www.nuforc.org/webreports/reports/161/S161708.html)
-- [322](http://www.nuforc.org/webreports/reports/161/S161709.html)
-- [321](http://www.nuforc.org/webreports/reports/161/S161710.html)
-- [320](http://www.nuforc.org/webreports/reports/161/S161720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
