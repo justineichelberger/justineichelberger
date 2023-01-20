@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:24:44 on 20 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:02:26 on 20 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Alton (Hampshire)(UK/England) () reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Somewhat large particularly bright light that became two lights appeared to be stationary/not moving.upon leaving my flat and walking over to my mum's house It was dark and I had just almost got to her door when my attention was drawn to a particularly suspicious prominent looking bright light/s in the night sky less than half a mile away i stood and watched it and strangely it didn't appear to be moving.  it must have been about 900-1,000 feet above the ground then I noticed that there was a second light that was round and as big next to it and(the first light was now round as well)the lights on the craft where still pretty bright it then decided to move and went in a different direction somewhat quicker but not very fast or rapidly there where two lights on it that looked to be on either side of the craft both going on/off(i.e they where not on at the same time as each other)as it moved along heading in one direction somewhat faster a light on it flickered/flashed like a star or torch light on/off on/off i.e on one second and then off the next it then d! issappeared out of my line of vision and I could'nt see it any longer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144585.html](http://www.nuforc.org/webreports/reports/144/S144585.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Gilbert (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>At 1920 p.m. I witnessed a green circle light with a red light attached flying from west to east.  It made no sound.  Suddenly it stopped abruptly.  Immediately, it flew perpendicularly straight up.  Then immediately traveled in a Southern Direction.  Curved gently around to head West.  Flew West for approximately 3 seconds and then stopped and flu abruptly perpendicularly up again.  It then flew off quickly to the South where I could no longer see it.  My husband said perhaps it was a drone.  I just thought I should report it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152754.html](http://www.nuforc.org/webreports/reports/152/S152754.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/161/S161711.html)
-- [323](http://www.nuforc.org/webreports/reports/161/S161708.html)
-- [322](http://www.nuforc.org/webreports/reports/161/S161709.html)
-- [321](http://www.nuforc.org/webreports/reports/161/S161710.html)
-- [320](http://www.nuforc.org/webreports/reports/161/S161720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
