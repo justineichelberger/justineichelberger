@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:02:26 on 20 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:36 on 20 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Gilbert (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>At 1920 p.m. I witnessed a green circle light with a red light attached flying from west to east.  It made no sound.  Suddenly it stopped abruptly.  Immediately, it flew perpendicularly straight up.  Then immediately traveled in a Southern Direction.  Curved gently around to head West.  Flew West for approximately 3 seconds and then stopped and flu abruptly perpendicularly up again.  It then flew off quickly to the South where I could no longer see it.  My husband said perhaps it was a drone.  I just thought I should report it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152754.html](http://www.nuforc.org/webreports/reports/152/S152754.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>on a pasenger plane over pheonix arizona on 1-20-2013, the pilot made the announcement about the  descend,  I looked out the window and saw a silver basketball shape ball with a rectangular window  .this was   face to face at 70 feet away from my window just moving really slowly  the opposite direction going behind the plane. my first impression was that  I thought somebody was flying a remote control toy, but then i realized we were at around 25 thousand feet up,I saw a UFO((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96125.html](http://www.nuforc.org/webreports/reports/096/S96125.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/161/S161711.html)
-- [323](http://www.nuforc.org/webreports/reports/161/S161708.html)
-- [322](http://www.nuforc.org/webreports/reports/161/S161709.html)
-- [321](http://www.nuforc.org/webreports/reports/161/S161710.html)
-- [320](http://www.nuforc.org/webreports/reports/161/S161720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
