@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:42 on 19 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:30 on 20 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sandy (UT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 to 4 red spheres at a time, flying, hovering, and disappearing over 10 minute span.Driving to my current lodging in Sandy, Utah, around sunset, I noticed 3 red spheres in the south eastern sky, maybe close to Spanish Fork Utah, around 20 or 30 miles from my location.  They moved slowly west, and disappeared one by one.Then, just like gigantic Roman Candles, three more red spheres shot up in an instant, and stopped at what appeared to be around 4 or 5,000 feet. They also hovered in random patterns and disappeared.  This same action continued for at least 5 minutes.  I recorded as much as I could on my phone.  Did anyone else see this?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106515.html](http://www.nuforc.org/webreports/reports/106/S106515.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1969, an anonymous witness in Lake Wales (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The ufo used simulated police lights to pull me over and then just sat there apparently observing me.I will never forget the winter of 1969.  That's when I saw my first ufo or rather I should say it saw me and I'd like to add that I'm not prone to hallucinations nor strong drink. I think my sighting is very unique in that I was pulled over by a ufo. Let me elaborate. I left my house to go to my dads one evening about dark. I didn't have far to go as he only lived about 5 miles from me. As I was about halfway there, I saw revolving blue lights in my rearview mirrow. As I was in the city limits of town, I thought naturally that it was the local police pulling me over for a traffic violation, so I pulled  over and stopped. I looked rearward and was shocked to find no one there. No police car, nothing. I then looked to my immediate right and saw an immense object just sitting there over a citrus grove. I had the distinct impression that it was observing me and I felt like they wanted me to see it. To say that I was apprehensive is a bit of an understatment. Yet, I was fascinated. It was an absolutely beautiful craft. It was huge. (I estimated it to about 50 to 75 yards in diameter.) It was well enveloped in light which didn't seem to radiate outward much if at all.  It appeared to be made of a metal similiar to aluminum.(bright and shiny) There was absolutely no sound whatever. Having read of numerous abductions as I've always had an interest in the ufo enigma, I felt that my best recourse would be to leave. (I was scared stiff) After I left, I looked back and it was gone. I don't know why, but for a long time after that, I couldn't seem to tell anyone about it. Like it wasn't important or something. I didn't have any missing time so I'm quite sure that I wasn't abducted. Another strange thing about this is that the ufo or whatever it was didn't arrive and leave in the conventional matter. It just appeared and then dissapeared. Poof, gone. It was the most vivid scene I've ever saw.I shall never forget it and sometimes I wish I could see it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15050.html](http://www.nuforc.org/webreports/reports/015/S15050.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/161/S161692.html)
-- [237](http://www.nuforc.org/webreports/reports/161/S161961.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161695.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161693.html)
-- [234](http://www.nuforc.org/webreports/reports/161/S161694.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
