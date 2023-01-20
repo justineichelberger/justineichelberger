@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:21 on 20 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:27 on 20 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Oneida (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Green, Red and Blue Ball of Light Seen in the Sky above Oneida, NYI was driving home from work this evening and took a right onto the street our house is on.  When almost to my driveway I caught something out of the corner of my eye.  I looked up and saw a ball of green light moving through the sky, following what seemed to be the same path as the road but above me way up in the sky.  It turned from green to red and then from red to a light blue.  The object then darted left and then took of right and disappeared.  This is the first time I had ever seen such a thing in the sky.  There is no doubt in my mind that this object was something not of this world.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54872.html](http://www.nuforc.org/webreports/reports/054/S54872.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Yesterday, 1/20/00 at exactly 6:00p.m., I observed a "green meteor"? falling from north to south in Columbus, Ohio.  My wife and son and I were traveling west on Powell Rd. in north Columbus when I noticed the "object" at about 40 degrees elevation in the northwest sky falling south at a very rapid rate (faster than other "shooting stars" i've seen) to about 30 degrees elevation in the southern sky.  The size of the object was x3 the size of Jupiter and was twinkling the color of the green light in a stoplight. It was probably just a meteor but it was a very cool meteor.see above.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11760.html](http://www.nuforc.org/webreports/reports/011/S11760.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/161/S161711.html)
-- [323](http://www.nuforc.org/webreports/reports/161/S161708.html)
-- [322](http://www.nuforc.org/webreports/reports/161/S161709.html)
-- [321](http://www.nuforc.org/webreports/reports/161/S161710.html)
-- [320](http://www.nuforc.org/webreports/reports/161/S161720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
