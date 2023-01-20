@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:28 on 20 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:26 on 20 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two UFO sighted over Tacoma's Commencement BayI am submitting a report of a UFO sighting which occurred on Saturday January 20, 2007 at 12:35 pm. I am a construction worker, and I was working in Tacoma Washington at the Simpson Pulp Mill at the mouth of the Puyallup River on the edge of Commencement Bay.I was working what is called a shutdown on the mill, this is when the Boiler is taken off line and is repaired, my boss was setting me up on a job to replace the hanger rods on the primary exhaust which feeds directly into the smokestack which is at a height of fifty to sixty feet. Scaffolding had been erected around the duct as to give us access to work. The sky at that time was partially cloudy with a 30% to 40% cloud cover. My lead man and I were climbing one of the ladders on the scaffolding when I noticed a round brilliant white object at a high altitude moving across the sky it looked somewhat like a weather balloon and I pointed it out to my lead when he reached the top of the ladder. My lead man asked me what I though it was, and I told him I wasn’t sure but it looked similar to a weather balloon, and it was moving slowly from west to the east, and we watched it for thirty seconds or so, my lead man then said common I want to show you something else which pertained to the job.We stepped out of direct sight, but I kept looking back into the sky at the object. The object continued to slowly move to the east at almost a 12 o’clock position in the sky. I then noticed a second object which looked identical to the other it was positioned directly in the path of the first at the same high altitude, but it was stationary both objects appeared to be about a quarter the diameter of the sun or slightly less. The first object then stopped and held position close to the second both not moving, I then summoned my lead man and said check this out, there are two of them now. My lead man then asked what do you think they are, and said “I am not sure what they are! but they are UFO’s.” My lead man then stated that I must be smoking something if I think they’re UFO’s, to which I replied “it must be the same thing your smoking because you’re seeing them too,” but neither one of was smoking anything, and they were real. The boss said common I’ve got to show you something else and we moved out of visual contact and when I came back they were gone.The whole encounter didn’t last five minutes, but I remember looking at my watch several times to confirm the time, it read 12:35 pm. One other thing that was kind of strange is that I kept thinking, to myself that they must be surveying our industrial progress, and I am not sure why I was thinking that, but they were directly over the heavy industrialized area of Commencement Bay.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55061.html](http://www.nuforc.org/webreports/reports/055/S55061.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Newtown (CT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately still there - still there minutes.</sub><blockquote><sub>Object is still there, it moves up and down appears to be turning around can only see with our eyes dont have any equipment for closer inspection.. Thank you((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54864.html](http://www.nuforc.org/webreports/reports/054/S54864.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/161/S161711.html)
-- [323](http://www.nuforc.org/webreports/reports/161/S161708.html)
-- [322](http://www.nuforc.org/webreports/reports/161/S161709.html)
-- [321](http://www.nuforc.org/webreports/reports/161/S161710.html)
-- [320](http://www.nuforc.org/webreports/reports/161/S161720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
