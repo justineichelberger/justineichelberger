@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:31 on 20 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:30 on 20 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lake Geneva (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright light in Lake Genva sky-not a star or plane.Getting off Hwy. 43 heading on to 120 towards Lake Geneva, WI approx. 7pm I noticed a bright light in the sky to the right of my vehicle. First thought was it was possibly the north star, but I realized it wasn't in the north, it was actually west of Hwy. 120, seeing it through the passenger window. It appeared to not be moving like a plane would. It was just sitting in midair, bright white light. I kept watching it until I got near Lake Geneva and parked up on the hill before the golf course. Watched it outside my window, heard no noise from it. I then proceeded home, as I was close to Hwy. 12 I saw it again on the right side as if it moved quickly to stay with me. I followed it in the sky all the way to my home, where it sat as I called my wife and daughter to come out and look at it. It lasted for another 10 min. From my vantage point, I seemed to have a greenish tint with a reddish tint bottom. I watched the light shrink to a speck of light, disappeared and came back, almost immediately, but not as bright as earlier. Then the light shrank again until it slowly flickered out. Noticed quick like shaky circular movement at times, but it did not seem to move much. I have seen this same light before in New Berlin, maybe 20 years ago.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  If the witness was looking west, the object was Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68166.html](http://www.nuforc.org/webreports/reports/068/S68166.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Kankakee (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Me and friend see a meteor-like UFO in the sky.Me and my friend were taking a road trip to Chicago last night, and we decided to take the back way instead of the expressway.  As we were driving down IL-49 N, we saw what seemed to be a meteor.  It was round, with an orange/yellow tint, and had a short faint tail. At first I expected it to be an extremely big shooting star, but there was no way.The UFO came down in the sky in a downward angle, stopped and hovered, then shot off and faded away extremely fast.  What my friend and I saw was definitely in this atmosphere, but was very far away.  Although it was farther away, I could tell it was a massive and circular object.  I had never seen anything like it in my entire life and full-heartedly believe that we saw an actual UFO last night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86727.html](http://www.nuforc.org/webreports/reports/086/S86727.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/161/S161711.html)
-- [323](http://www.nuforc.org/webreports/reports/161/S161708.html)
-- [322](http://www.nuforc.org/webreports/reports/161/S161709.html)
-- [321](http://www.nuforc.org/webreports/reports/161/S161710.html)
-- [320](http://www.nuforc.org/webreports/reports/161/S161720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
