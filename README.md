@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:27 on 20 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:51 on 20 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Yesterday, 1/20/00 at exactly 6:00p.m., I observed a "green meteor"? falling from north to south in Columbus, Ohio.  My wife and son and I were traveling west on Powell Rd. in north Columbus when I noticed the "object" at about 40 degrees elevation in the northwest sky falling south at a very rapid rate (faster than other "shooting stars" i've seen) to about 30 degrees elevation in the southern sky.  The size of the object was x3 the size of Jupiter and was twinkling the color of the green light in a stoplight. It was probably just a meteor but it was a very cool meteor.see above.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11760.html](http://www.nuforc.org/webreports/reports/011/S11760.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Millis (MA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Crashed UFO in Ma?I don't know if you guys are interested in this tid-bit...When I was in college, I was working my way through at a warehouse in Millis Ma on Rt.109 One morning in the dead of winter (a week end)  There was talk of something falling from the sky and landing in a pond on one of the farms and melting the ice.  I said to my co-workers, "lets go over there and view the area were the event happened."  I was told you could not get in there because the millitary had closed the area off.  I thought it would make interresting reading in the local paper that evening but nothing was ever said about it.  So as a result folks kind of put it out of thier minds. However, later that spring, there were reports of a small strange being in the local paper dubbed "the creature" sighted and reported to the Millis and I think Dover Police by some High School students.  the drawings looked very much like our little friends that everybody sketches today. It has been a long time since this incident but I bet you could get more info from the town locals there. I would be more than happy to speak with any investigatore of this sort of thing.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42417.html](http://www.nuforc.org/webreports/reports/042/S42417.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/161/S161711.html)
-- [323](http://www.nuforc.org/webreports/reports/161/S161708.html)
-- [322](http://www.nuforc.org/webreports/reports/161/S161709.html)
-- [321](http://www.nuforc.org/webreports/reports/161/S161710.html)
-- [320](http://www.nuforc.org/webreports/reports/161/S161720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
