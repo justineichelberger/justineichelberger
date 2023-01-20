@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:32 on 20 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:24:44 on 20 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in West Bend (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Was followed home by a bright object in the skyAfter picking up food from a drive through, my mother and I were driving home.  As we drove, I had noticed a light high up in the sky, a few miles away.  It was a beautiful white light, with hues of green and red around the edges.  At first I thought it was a star, and I pointed it out to my mother.  The sky was very clear, and it was a cold night.  There didn't seem to be many cars on the road as we drove home.  When I looked up again, I noticed that the object had moved some distance ahead of us.  Keeping my eye on it, we turned down another road.  The object slowly moved from left to right, then flew behind us, and then in front of us.  It seemed to follow us like this all the way home.  It flew very smoothly, yet seemed to be able to travel many miles relatively quickly.  Later that night as we were watching the nightly news, they reported that many others, including a police officer reported seeing the same mysterious object in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11710.html](http://www.nuforc.org/webreports/reports/011/S11710.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Alton (Hampshire)(UK/England) () reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Somewhat large particularly bright light that became two lights appeared to be stationary/not moving.upon leaving my flat and walking over to my mum's house It was dark and I had just almost got to her door when my attention was drawn to a particularly suspicious prominent looking bright light/s in the night sky less than half a mile away i stood and watched it and strangely it didn't appear to be moving.  it must have been about 900-1,000 feet above the ground then I noticed that there was a second light that was round and as big next to it and(the first light was now round as well)the lights on the craft where still pretty bright it then decided to move and went in a different direction somewhat quicker but not very fast or rapidly there where two lights on it that looked to be on either side of the craft both going on/off(i.e they where not on at the same time as each other)as it moved along heading in one direction somewhat faster a light on it flickered/flashed like a star or torch light on/off on/off i.e on one second and then off the next it then d! issappeared out of my line of vision and I could'nt see it any longer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144585.html](http://www.nuforc.org/webreports/reports/144/S144585.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/161/S161711.html)
-- [323](http://www.nuforc.org/webreports/reports/161/S161708.html)
-- [322](http://www.nuforc.org/webreports/reports/161/S161709.html)
-- [321](http://www.nuforc.org/webreports/reports/161/S161710.html)
-- [320](http://www.nuforc.org/webreports/reports/161/S161720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
