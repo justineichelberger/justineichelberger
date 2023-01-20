@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:53 on 20 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:30 on 20 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Yellow light in Colorado SpringsI was driving south on powers heading to work when I saw a yellow light in the distance.  At first I thought it was an aircraft but I work at the airport and know where the runway is and it was way off  from the runway and it did not have any red or blue flashing strobes.  But then I thought it could have been a helicopter because I see them coming from that way all the time but still no flashing strobes, it was moving to slow, and I have seen no aircraft all yellow either.  I was still driving trying to get a good look at it when I made a left turn into work and still looking at it when it moved to the east and then it just disappeared.  I stopped my truck then and stepped outside trying to see where it went or what happened to it but like I said it disappeared.  If it was an aircraft of some sort it must of crashed but there were no reports of any aircraft crashing the next day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79847.html](http://www.nuforc.org/webreports/reports/079/S79847.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Levittown (PA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large, low-flying boomerang-shaped object moving very slowly over Levittown, PA, 1/20/16.I viewed what I think might have been a drone in the shape of an airplane.  It was going so slow at one point.  My car passed it on Rte 13 going southbound and it surprised me as my car was going 55 mph and I was pulling away from it at one point as it was traveling southbound as I was.  Then it gained speed and proceeded southbound towards Philadelphia ahead of me.  I later saw the object flying over Penn Valley Rd and headed towards Trenton.  This time I was outside with another person and I could hear that it made noise like a very quiet airplane, but it was much larger than a Piper Cub.  It had red flashing lights at times.  It was weird that it was so low.  Nothing about it appeared extraordinary other than the slow speed at which it traveled next to my car going southbound on Rte 13.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125390.html](http://www.nuforc.org/webreports/reports/125/S125390.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/161/S161711.html)
-- [323](http://www.nuforc.org/webreports/reports/161/S161708.html)
-- [322](http://www.nuforc.org/webreports/reports/161/S161709.html)
-- [321](http://www.nuforc.org/webreports/reports/161/S161710.html)
-- [320](http://www.nuforc.org/webreports/reports/161/S161720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
