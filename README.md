@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:30 on 20 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:36 on 20 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Levittown (PA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large, low-flying boomerang-shaped object moving very slowly over Levittown, PA, 1/20/16.I viewed what I think might have been a drone in the shape of an airplane.  It was going so slow at one point.  My car passed it on Rte 13 going southbound and it surprised me as my car was going 55 mph and I was pulling away from it at one point as it was traveling southbound as I was.  Then it gained speed and proceeded southbound towards Philadelphia ahead of me.  I later saw the object flying over Penn Valley Rd and headed towards Trenton.  This time I was outside with another person and I could hear that it made noise like a very quiet airplane, but it was much larger than a Piper Cub.  It had red flashing lights at times.  It was weird that it was so low.  Nothing about it appeared extraordinary other than the slow speed at which it traveled next to my car going southbound on Rte 13.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125390.html](http://www.nuforc.org/webreports/reports/125/S125390.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Batesville (AR) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Craft Hovering extremly quite; could have easily been inches above our hear unless we looked we would have had no ideaBack in January 2008 my son and I were out walking bates street when about 50 yard or less an object about the size of a car was floating near a telephone poll.  Was shaped like a gray saucer  I moved quickly  as to chase it then it moved toward me.  It was coming so fast that I turned back grabbed my son and shot toward a house then as I looked back  it retreated.  UFO was so silent that it could have been inches above our head and we would not have not known it was there without looking up.   As it floated away it used remarkable movement and agility as it missed all the power lines and trees; then just floated over a house.   Just me and my son were out very cold night everything was quite but in a populated housing area.  I never believed in UFO's but now I just have to wonder what this object was. Updated 1/20/2010</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80362.html](http://www.nuforc.org/webreports/reports/080/S80362.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/161/S161711.html)
-- [323](http://www.nuforc.org/webreports/reports/161/S161708.html)
-- [322](http://www.nuforc.org/webreports/reports/161/S161709.html)
-- [321](http://www.nuforc.org/webreports/reports/161/S161710.html)
-- [320](http://www.nuforc.org/webreports/reports/161/S161720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
