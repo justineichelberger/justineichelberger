@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:30 on 20 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:26 on 20 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Knoxville (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Round, white light in sky moving back and forth very rapidly.Light in sky moving back and forth very quickly.  Moving up down and left to right.  White in color and round.  Only one light visible.  Visible above interstate 40 as I was driving.  Lasted about 2 minutes and seemed to follow the route I was driving then dissipated.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152777.html](http://www.nuforc.org/webreports/reports/152/S152777.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Triangular object flying over south Austin and I have it on my car cameraOn January 20, 2018, I was driving westbound on Slaughter lane west of Interstate 35 on my way home from visiting a friend.  I noticed something out of the corner of my left eye and looked at the time.  It was approximately 9:20 p.m. It was dark out and I was having a hard time trying to understand what I saw.  There was a triangular object in the sky moving north northeast.  It had lights and that is what caught my attention.  It moved at a decent pace and I lost sight of it when it went over a shopping center.I have a video of the object and have uploaded onto my YouTube account.  I also reported it to Mufon.  Their case manager told me there was another sighting the same evening with video northeast and a little later of my video.  They said the second video was quite impressive and had more detail of the object.  I've never seen the report or the other video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142522.html](http://www.nuforc.org/webreports/reports/142/S142522.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/161/S161711.html)
-- [323](http://www.nuforc.org/webreports/reports/161/S161708.html)
-- [322](http://www.nuforc.org/webreports/reports/161/S161709.html)
-- [321](http://www.nuforc.org/webreports/reports/161/S161710.html)
-- [320](http://www.nuforc.org/webreports/reports/161/S161720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
