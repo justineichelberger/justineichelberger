@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:32 on 21 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:19 on 21 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Kirkland (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>white lite moving over lake washington making red laser like flashesMy girlfriend and I were located in a condo on Lake Washington BLVD in a room that the window was facing southwest. My girlfriend spoted a oval shaped object about the size of a fist to arm length was the size with scaderd white lites on the parmentier with one flashing white lite on the right side of the object moving west towards seattle  and entering over Lake Washington moving at a very smooth and quick rate making no sounds. My girlfriend and I moved from that room to the deck of the condo over looking west towards Lake Washington and Seattle by the time we got there it was half way across the lake and was now a solid white color it came to a stop did not move maybe 15 to 30 seconds then a fast dim red laser like flash heading south towards SR520 Bridge then a second one straght down into the water then move towards seattle moving up and down, side to side, making 90 degre turns queickly and smooth motions then moved across the Union Square building halfway to the top of the building then headed over puget sound and gone.((NUFORC Note:  We spoke with this witness via telephone, and he sounded quite sincere in reporting the incident.  We do not know what they witnessed, and we would welcome other reports from anyone who may have witnessed the same object.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54883.html](http://www.nuforc.org/webreports/reports/054/S54883.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Robertsville (MO) reported seeing craft that fit the description of some 'Disk' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>2 different shaped UFO’s in photoI took 4 pictures of odd looking cloud formations and later, when I zoomed in to look at details, I discovered 2 UFO’s.  Clearly visible in the 3rd picture.  First and largest is toward center of photo and is round.  Second is lower towards tree line in the picture and it is saucer shaped.I took the photo in “ live” mode and you can see distinct movement of the large round UFO from the first to last frame in the “live” photo series.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161699.html](http://www.nuforc.org/webreports/reports/161/S161699.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/161/S161951.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161721.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161872.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161699.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161704.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
