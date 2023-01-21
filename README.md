@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:21 on 21 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:25 on 21 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Santa Maria (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>GLOWING GREEN PULSATING ROUND OBJECT IN SKY TONIGHT.At about 6:51 PM tonight I stopped to get a pizza on E.Main St at little ((deleted--a restaurant)) in Santa Maria, Calif..  As I walked to the building, I saw this bright green glowing object in the sky to the east from where I was standing.  I didn't have my camera with me or my phone.  I went in to get my pizzas, and when I came out, the object was pulsating still glowing fluorescent green it was so bright it was eye catching.  I continued to watch it moving to the left and then to the right sideways.  Two other women in the parking lot were watching it too.  One said out loud, "Can you see that?"  I said yes I see that.  Another girl was standing watching and she said look at the color.  I said ya that is a UFO. As we all continued watching it, suddenly it stopped moving it was still and it dropped straight down so fast and it was gone.  I think it might have landed somewhere off of highway 166.  I didn't chase it but was lucky enough to view it.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125387.html](http://www.nuforc.org/webreports/reports/125/S125387.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Vacaville (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I saw 5 red lights hoovering/moving slowly in the sky that I'm convinced were not normal air crafts.I was driving through a residential neighborhood and turned to my right to see 5 strange red circular lights hoovering about 0.5-1 mile away.  They were too far apart to make up one gigantic object, so I would say they were 5 individual crafts either moving slowly or hoovering in one spot.  They seemed to be observing and had no sudden movements.  They made a noise that wasn't quite like an aircraft, but a strange hum as I opened the window. I also saw another car with two people stopped and look at the objects.  As I began driving and got onto another street, I saw another car parked observing the objects.  The red circular lights went from five, to three, to one, then vanished completely 2 minutes after I encountered them.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106554.html](http://www.nuforc.org/webreports/reports/106/S106554.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/161/S161951.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161721.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161872.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161699.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161704.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
