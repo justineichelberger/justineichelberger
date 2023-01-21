@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:26 on 21 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:26 on 21 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Parkland (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>UnidentifiedTwo male adults ages 23 and 31 went out to smoke a cigarette.  31 year old noticed the ufo and 23 year old instantly noticed they were UFOs, definitly believes they were out of world like.7 moving from side to side, non airplane like. once 23 year old male subject notified others the objects camouflaged they just disappeared.  It's like the light just turned off! We will report further on the issue.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86756.html](http://www.nuforc.org/webreports/reports/086/S86756.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Maple Ridge (Canada) (BC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 16.0 - 16.0 minutes.</sub><blockquote><sub>MULTI COLORED  OBJECT  CHASED BY CHOPPERAT 12:10 am jan 21/07 just finishing a walk with my dog on this very clear night.we just got to my driveway when i noticed very bright flashes like a camera, yet with bright yellow,red,blue and some greenish orange.i was stunned trying to think how a plane was so low,...too low. it was a circular shape that seemed to change shape to a square over and over again, but very slowly , with no sound. It was heading east slowly at about 600ft apprx. i watched this for about 3 mins as its flashes were so bright so fast. i changed direction instantly, now it was heading south west and it began to rise up,a couple of times it just stopped completely then moved to the south west again while rising higher. it cruised higher to about 1000 ft and seemed to get even brighter by this time i,d say i was watching it for about 10-12 mins. as the object passed over my block, now it was heading away from me about 2-4 miles just over 1000 ft high. still very bright heading more west  than east toward the port mann bridge new westminister ot surrey area.the last bit i could see was brighter blue flashes along with lesser colors...it was just small lights when i lost track of it...very cool...made me amazed and freaked out a bit.wait,...theres more...i came in the house after this event about 15-20 mins long.no more than 6-8 mins i heard the buzz of a low fast helicopter...magnum p.i. type(bumblebee)...i went out on the deck and this chopper with a samll white light and a very bright green light buzzed over my area LOUGHEED HWY/207TH MAPLERIDGE,BC...he quickly buzzed the area making a quick circle and just full throttled it south/west in the path of the lights...he was really quick...defenitly looking for something.like i said the object came from the east maperidge area and turned south west then more westerly. if anyone knows what it was ...i would love to find out.seems like someone knew about it before i saw it.thanks ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54892.html](http://www.nuforc.org/webreports/reports/054/S54892.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/161/S161951.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161721.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161872.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161699.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161704.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
