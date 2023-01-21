@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:21 on 21 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:23 on 21 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in West Danville (VT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Unexplained lights on otherwise dark roadI was driving on Route 15 in West Danville, VT, headed east going between 45-55 mph due to road conditions.  I have driven this road thousands of times, so I know it pretty well.  I noticed some large yellow lights just over the tops of the trees (it was hard to say how close or far they were from me due to the darkness) and thought it strange as there are no street lights or tall towers in this area that would warrant lights on the tops.  I passed to a section of the road where the trees were a bit thinner and saw three lights with another blinking on.  The three lights were in a rough triangular arrangement, with the fourth slightly lower and to the left of the group.  I drove by another clump of trees and could not see them any more.  The section of the road that I was on does not curve significantly enough for me to lose the lights due to the road.  I have no explanation for these lights.  The sky tonight was relatively clear (I could see stars) and the moon is almost full.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125382.html](http://www.nuforc.org/webreports/reports/125/S125382.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Chester (VA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>I was driving home from work on 95 south at mm 59 at 11:30pm on 1/21/19. I saw a large object that I thought was a plane or helicopter about 1 mile ahead just west of the highway. It appeared to be hovering. I knew it wasn't a drone because it was too big. I first only saw the top and bottom lights. The top was pulsating between red and orange and the bottom was pulsating between blue and green. After about 10 seconds it slowly moved east towards the highway. It stayed at about 100-200 ft Altitude. The two side lights appeared as it moved over I95. They were yellow/white. They did not pulsate. There was no sound as it passed almost directly overhead. I slowed to nearly 20mph.the surface of the craft became visible. It was a dull dark gray or black and was smooth. As it moved east past the highway, the full diamond shape was visible. Red light on top, blue/green on bottom, and white on the sides. It continued east until it disappeared below the tree line. Thi! s was no normal plane, helicopter or drone. I estimated it was 30-50 ft long. Very odd.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156502.html](http://www.nuforc.org/webreports/reports/156/S156502.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/161/S161951.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161721.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161872.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161699.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161704.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
