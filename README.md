@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:29 on 21 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:20:11 on 21 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mariposa (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two mulicolored Ufo's over Madera, CaliforniaI live in Mariposa, and last night, Jan. 21 2014, I saw two lights in the direction of Madera.  They looked like those stars that shine blue, red and white.  The one on the left was higher than the one on the right.  I ran into the house and grabbed my binoculars.  The one on the right was higher in the sky, they were moving very slowly.  I watched some more and the one on the left started heading south at a fast rate of speed.  The other one was slowly lowering and then took off in the same direction, also very quickly.I live on a mountain and this is one of many weird things I've seen in the sky, along with the commercial jets and other conventional aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106559.html](http://www.nuforc.org/webreports/reports/106/S106559.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Bayonne (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright Light Over New JerseyOn the night of Jan. 21, 2001, I was on the Staten Island Ferry to Manhattan. From the window I noticed a bright, white light low in the sky over New Jersey. I went to the rear deck of the boat to get a better look. It appeared to be brighter than any planet I've ever seen in the night sky, and too low on the horizon to be a planet of such brightness. I got to the Manhattan side, and noticed the light had moved North and was now somewhere near Newark. It then changed in color to bright red, pulsed periodically, and moved Westward eventually fading. I returned the next nigh, at the same time, to the same vantage point at Battery Park, and It was clear it was not any planet, as there was nothing in that part of the sky and at the time and the weather was quite clear. Anyone else see this?  ((URL deleted))((NUFORC Note:  We think there is a possibility the witness may have been observing a planet or a twinkling star.  However, our theory is wrong if in fact the object moved as described.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16028.html](http://www.nuforc.org/webreports/reports/016/S16028.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/161/S161951.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161721.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161872.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161699.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161704.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
