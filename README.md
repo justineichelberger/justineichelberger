@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:25 on 21 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:27 on 21 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Vacaville (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I saw 5 red lights hoovering/moving slowly in the sky that I'm convinced were not normal air crafts.I was driving through a residential neighborhood and turned to my right to see 5 strange red circular lights hoovering about 0.5-1 mile away.  They were too far apart to make up one gigantic object, so I would say they were 5 individual crafts either moving slowly or hoovering in one spot.  They seemed to be observing and had no sudden movements.  They made a noise that wasn't quite like an aircraft, but a strange hum as I opened the window. I also saw another car with two people stopped and look at the objects.  As I began driving and got onto another street, I saw another car parked observing the objects.  The red circular lights went from five, to three, to one, then vanished completely 2 minutes after I encountered them.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106554.html](http://www.nuforc.org/webreports/reports/106/S106554.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Westport (MA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>huge object comes out of water at horseneck beach then disappears orange circleWas at horseneck beach when a huge circle craft which at first thought was the moon came out of the ocean and then proceeded to move up word but not fast but also not slow enough to be the earth spinning once it had rose I'd sag about 300 feet 2 bright blue flashes appeared and the object seemed to shrink in size and become like a cigar and began moving left and right  And seemed to be disappearing then I decided to leave by the time I reached the exit it was gone the object was a fire orange\((NUFORC Note:  Date in original report is flawed, and we have amended it, to reflect a sighting on Monday, January 20th, 2014.  Source of report provides no contact information.  In light of the fact that we received two identical reports from two different sources, we wonder whether they are serious reports.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106523.html](http://www.nuforc.org/webreports/reports/106/S106523.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/161/S161951.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161721.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161872.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161699.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161704.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
