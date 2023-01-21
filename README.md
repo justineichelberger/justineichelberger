@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:28 on 21 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:26 on 21 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Skokie (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately Still - Still minutes.</sub><blockquote><sub>As I'm driving to pick up my husband from work I notice everyone stopping their car to take pictures of this reddish orange sphere was darker In the center.  Started from afar then was getting closer, I left just for a minute or two and when I went back it was gone.((NUFORC Note:  Witness submits several very good photos.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125385.html](http://www.nuforc.org/webreports/reports/125/S125385.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Parkland (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>UnidentifiedTwo male adults ages 23 and 31 went out to smoke a cigarette.  31 year old noticed the ufo and 23 year old instantly noticed they were UFOs, definitly believes they were out of world like.7 moving from side to side, non airplane like. once 23 year old male subject notified others the objects camouflaged they just disappeared.  It's like the light just turned off! We will report further on the issue.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86756.html](http://www.nuforc.org/webreports/reports/086/S86756.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/161/S161951.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161721.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161872.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161699.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161704.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
