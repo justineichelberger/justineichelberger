@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:58 on 21 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:29 on 21 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Fresno (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>4 unknown flying crafts were following our car and another one hovered over our neighborhood when we got home.My husband and I for the last 2 1/2 months have been seeing strange hovering objects in the sky beginning Nov. 3rd 2008. The last sighting was last night around 6:45 pm. We were driving west on McKinley ave in Fresno CA on our way to a meeting. We noticed 4 hovering objects at a stand still on each side of our car about 3 miles up in the sky when we were at a red light. Once our car started moving they moved along side us, every time we stopped they stopped. They all looked alike and did not look like helicopters and not planes. Later on in the evening on the way back home we spotted another craft similar to the ones earlier just hovering at a stand still above the houses in our neighborhood. the object even brightened its lights from red to super bright white. it was still for about 3 minutes then slowly started to move to the right, then left then it either vanished or we just did not catch it take off. This is not the first time we have seen these objects in the sky. we seen larger ones the size of two commercial planes before. We just find it strange that the sightings have not stopped. Our children, my parents friends and my mother in law have all witnessed them. For some strange reason these objects have not gone away and seem to be growing by the numbers each day and showing themselves pretty boldly. If anyone has seen them also please post a report, we hope we are not just going crazy over here by ourselves.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68180.html](http://www.nuforc.org/webreports/reports/068/S68180.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mariposa (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two mulicolored Ufo's over Madera, CaliforniaI live in Mariposa, and last night, Jan. 21 2014, I saw two lights in the direction of Madera.  They looked like those stars that shine blue, red and white.  The one on the left was higher than the one on the right.  I ran into the house and grabbed my binoculars.  The one on the right was higher in the sky, they were moving very slowly.  I watched some more and the one on the left started heading south at a fast rate of speed.  The other one was slowly lowering and then took off in the same direction, also very quickly.I live on a mountain and this is one of many weird things I've seen in the sky, along with the commercial jets and other conventional aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106559.html](http://www.nuforc.org/webreports/reports/106/S106559.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/161/S161951.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161721.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161872.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161699.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161704.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
