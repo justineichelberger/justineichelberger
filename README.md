@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:25 on 21 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:23 on 21 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Bozeman/Gallatin Gateway (Hyalite Reservoir) (MT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange and red blinking triangle over a state park, where I was taking photographs.Went up to Hyalite Reservoir at night to take some Astrophotography.  I was taking photos when I saw it show up on my screen after I took the photo.  The photo is a long exposure, you can see it streak across the Sky but that's it.  The object slowly flew over the reservoir and toward the mountains where it disappeared over the ridge.  It had 3 orange/red lights that formed a pointed triangle, with all 3 emitting a slow blinking red light too.  My locations was out in the middle of deep mountains of a state park and I've never once seen a plane fly near it.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116889.html](http://www.nuforc.org/webreports/reports/116/S116889.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Dillsburg (PA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Formation of lights in a < shape that where visible for several minutes and then suddenly disappeared.Commerical airliners fly quite frequently into Harrisburg International Airport so the pattern was in the general vacinity.  As I watched one plane heading south to north I notice a formation of 4-5 lights flying north to south.  The altitude was higher then the commerical airlines fly if their about to land or have taken off and yet the lights where as bright as if much lower.  The sky was extremely clear as I live in the country.  This formation flew silently until it reached the Orion constellation at which point as it was crossing it (from my vantage point) the formation disappeared.  I stood there for 5-10 minutes looking for any tail lights of planes in that area and saw nothing. I saw a plane in the north and a small craft far south east but nothing of the formation. Unfortunately I was by myself and had no witnesses.  I spend a lot of time looking at the stars on winter nights and this was very unusual.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27203.html](http://www.nuforc.org/webreports/reports/027/S27203.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/161/S161951.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161721.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161872.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161699.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161704.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
