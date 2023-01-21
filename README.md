@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:27 on 21 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:30 on 21 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Westport (MA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>huge object comes out of water at horseneck beach then disappears orange circleWas at horseneck beach when a huge circle craft which at first thought was the moon came out of the ocean and then proceeded to move up word but not fast but also not slow enough to be the earth spinning once it had rose I'd sag about 300 feet 2 bright blue flashes appeared and the object seemed to shrink in size and become like a cigar and began moving left and right  And seemed to be disappearing then I decided to leave by the time I reached the exit it was gone the object was a fire orange\((NUFORC Note:  Date in original report is flawed, and we have amended it, to reflect a sighting on Monday, January 20th, 2014.  Source of report provides no contact information.  In light of the fact that we received two identical reports from two different sources, we wonder whether they are serious reports.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106523.html](http://www.nuforc.org/webreports/reports/106/S106523.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in New Castle (DE) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Fire in the Sky in New Castle Delaware if you seen this you will wonder if they are out there.It was about 9 pm it was snowing outside and my wife asked me to go to the store i walked out my front door and looked up to admire the snow fall and as i looked up i saw a funny shaped fire looking object look kind of like a hot air balloon at first i thought i was a plane on fire but it still was maintaining a western course i screamed to my wife to look out the window and i said look up at that and asked what the hell is it. we just stared at it and after a minute it made a funny humming sound and just vanished i looked on the news and internet to see if there was any type of emergency for planes but no report i strongly believe it was an U.F.O</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96049.html](http://www.nuforc.org/webreports/reports/096/S96049.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/161/S161951.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161721.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161872.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161699.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161704.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
