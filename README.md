@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:26 on 21 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:26 on 21 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Church Hill (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Flickericking red and green lights while hovering then quickly flew out of sight.I looked out my bedroom window to see the progress of the snowfall.  After looking for a couple minutes I seen light flickering in the sky that caught my attention.  As I kept looking at the object it stayed stationary for around 5 minutes while it was stationary I could see red and green flickering lights.  The object then began to fly side to side at a very slow pass for about 3 minutes after the side to side movement stopped it slowly started to fly toward my trailer.  After flying slowly toward where I was it accelerated very quickly out of my line of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79788.html](http://www.nuforc.org/webreports/reports/079/S79788.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in South Kingstown (RI) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Jet-like objects again over southern Rhode IslandThis event was a repeat of the previous night's sighting at almost the exact same time.  I heard the jet-like sound of the previous night, went outside to see the same or similar craft with the same loud jet-like noise in the same circular pattern around my house, that is, coming from the east, turning over my house and then heading back east toward the ocean.  I got a good look at the lights on the craft and they did not resemble at all the lights on a jet; the lights were two solid red non blinking circles.I call the South Kingstown police as I did the previous night, spoke with the officer/dispatcher who took my call seriously.  I told him that the craft resembled UFOs and not jets by the lighting pattern on them.  The second craft was only briefly seen as a red light and was to the north of the closer craft, which was almost directly over my house.  The dispatcher said he would call the state police to see what they knew.I didn't hear any more about it until the next night while watching the evening news at my mother's house some 30 miles away.   Apparently many calls came in to the news station (either WJAR-TV or WPRO-TV, both in Providence, as I can't remember which station I had on).  The TV reported said the 'mystery jets' were training runs by jets based on "Cape Cod."   He did not say where.  There is only one air base on Cape Cod, in Massachusetts, and that is at Otis Air Base in Mashpee.  They were quick with the report and merely flashed to an archive photo of jets lined up and they were not the "F-16s" that the news station mentioned as coming from Cape Cod.  It seemed like a cover-up story to me the way it was presented.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74197.html](http://www.nuforc.org/webreports/reports/074/S74197.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/161/S161951.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161721.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161872.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161699.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161704.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
