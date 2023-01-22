@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:32 on 22 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:21 on 22 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Oundle (UK/England) () reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>3 teardrop grey shapes, seen by boarding house, no noiceThree teardrop objects were seen by all occupants of a boarding house, they were grey with a tinge of pink, they had two sets of lights, one set brighter than the other. They were travelling NNW, at around 20km/hr, and were at about 500 feet. They was no noise, just an eeire silence, then the house dog started to bark and howl. We have 61 witnesses that all give similar accounts.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21515.html](http://www.nuforc.org/webreports/reports/021/S21515.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lakeville (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A flying object hovering VERY LOW over tree tops with 4 bright huge lights.  Rolled down window of truck and heard a low engine sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116879.html](http://www.nuforc.org/webreports/reports/116/S116879.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [218](http://www.nuforc.org/webreports/reports/161/S161745.html)
-- [217](http://www.nuforc.org/webreports/reports/161/S161733.html)
-- [216](http://www.nuforc.org/webreports/reports/161/S161725.html)
-- [215](http://www.nuforc.org/webreports/reports/161/S161729.html)
-- [214](http://www.nuforc.org/webreports/reports/161/S161728.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
