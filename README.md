@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:26 on 22 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:25 on 22 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Kennett Square (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Small red blinking sphereComing from a Dollar Store on my bike rode into town as I stopped to adjust I looked up,I thought at first a shooting star But its movement's were quick,and had one single red light that flashed quickly .It was silent , watched it travel about a 1/4 mile than 90 degree turn,one Its speed was far to quick to be a drone and the distance was overwhelming It was not a drone</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161729.html](http://www.nuforc.org/webreports/reports/161/S161729.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Labelle (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>UFO sighting ongoing in southeast texasapprox. 10 O'clock from our location east. it has been hovering over for almost an hour now that we have seen. it seems to be a triangle shape through binoculars and it moves quickly from side to side and back and forth it looks to the eye like a very large bright star but obvious it is not it makes zig zag movements that are very quick. it is still up there at this time. occasionally it seems to have a red color. have reported to local tv station((NUFORC Note:  We suspect that the witness may have been looking at a twinkling star, perhaps the star, "Sirius."  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34620.html](http://www.nuforc.org/webreports/reports/034/S34620.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [218](http://www.nuforc.org/webreports/reports/161/S161745.html)
-- [217](http://www.nuforc.org/webreports/reports/161/S161733.html)
-- [216](http://www.nuforc.org/webreports/reports/161/S161725.html)
-- [215](http://www.nuforc.org/webreports/reports/161/S161729.html)
-- [214](http://www.nuforc.org/webreports/reports/161/S161728.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
