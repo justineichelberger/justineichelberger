@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:26 on 22 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:32 on 22 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Deer Park (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A bright Globe obeserved in the south west sky would streak across making a contrial, then both disappear.Driving west bound on Long Island Expressway noticed a small redish globe glow between the horizon and venus.  Around 50-70000 feet up. It was a clear sky no clouds, the sun was going down and the sky was turning colors.  This globe would shine brightly, and streak across (not very far) the sky making a contrial and then stop. The globe that was glowing red to orange would disappear. The contrail that it had made would dissapate incredibly fast.  Then it appeared again, slightly over from where it disappeared. Made a glow drew a contrail and disappeared.  It was traveling northeast, all occurances lasted 2 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34699.html](http://www.nuforc.org/webreports/reports/034/S34699.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Chesnee (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Stood there did nothing o came outside they left3  triangular saucers were in my backyard and then they were standing there and then they took off in a blue flash</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144677.html](http://www.nuforc.org/webreports/reports/144/S144677.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [218](http://www.nuforc.org/webreports/reports/161/S161745.html)
-- [217](http://www.nuforc.org/webreports/reports/161/S161733.html)
-- [216](http://www.nuforc.org/webreports/reports/161/S161725.html)
-- [215](http://www.nuforc.org/webreports/reports/161/S161729.html)
-- [214](http://www.nuforc.org/webreports/reports/161/S161728.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
