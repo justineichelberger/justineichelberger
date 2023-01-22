@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:25 on 22 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:25 on 22 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Annandale (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>Observed two stationary bright lights which began moving very slowly upwardI woke early and looked out at the night sky to watch the early dawn arrive.  Instead, I saw two bright lights, one above and larger than the other.  The lights appeared to be stationary.  I watched for about 15 minutes, then left to make coffee.  I returned to the window and the lights had moved upward.  I returned to my computer to make a report, which I have never done before.  I returned to the window and the lights had again moved upward.  They are still present, but as the sky lightens, they are harder to see. The lights are South of my house, unobserved from the North.  The lights move together as if part of an object.  I did not see a physical object, just lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144617.html](http://www.nuforc.org/webreports/reports/144/S144617.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Chesnee (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Stood there did nothing o came outside they left3  triangular saucers were in my backyard and then they were standing there and then they took off in a blue flash</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144677.html](http://www.nuforc.org/webreports/reports/144/S144677.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [218](http://www.nuforc.org/webreports/reports/161/S161745.html)
-- [217](http://www.nuforc.org/webreports/reports/161/S161733.html)
-- [216](http://www.nuforc.org/webreports/reports/161/S161725.html)
-- [215](http://www.nuforc.org/webreports/reports/161/S161729.html)
-- [214](http://www.nuforc.org/webreports/reports/161/S161728.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
