@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:25 on 22 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:25 on 22 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Downers Grove (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Object decellerated, stopped, hovered, and then accellerated upward at fantastic rate of speed.On Thursday, 22 January 2004 at 1730 CST, (Clear skies, no clouds) as I stood on my deck at home, I observed a glowing white light, moving ENE at approximately 15,000 feet altitude. The size of the light was estimated as the size of a pencil eraser held at arms length. The light was similar to those I have seen in the past- We live underneath a major air corridor directly south of O'Hare and directly west of Midway airports in suburban Chicago. Southbound aircraft departing O'Hare were operating in the area at 5000-7500 feet, and westbound aircraft departing Midway were also in the area, flying over the O'Hare traffic.  The object was above both flight paths of the jets. At the time of this incident, the object flew high over an MD-80 aircraft departing O'Hare. The object had no red and green running lights, or white anti collision strobes, or landing lights normally seen on aircraft in this area. It entered my vision from above and decellerated and stopped moving, about two miles downrange of my position. Then, the object blinked out, and after a second, rapidly reappeared as a star-like object and accellerated upward at an angle similar, and resembling a curve ball thrown by a baseball pitcher, only upwards. I have seen this type of object in the Chicago area, several times in the past two years. It decellerates, hovers and accellerates at an angle with amazing speed. It was ABSOLUTELY NOT an aircraft, as I am quite familiar with aircraft, having worked as an airline executive.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34710.html](http://www.nuforc.org/webreports/reports/034/S34710.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Annandale (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>Observed two stationary bright lights which began moving very slowly upwardI woke early and looked out at the night sky to watch the early dawn arrive.  Instead, I saw two bright lights, one above and larger than the other.  The lights appeared to be stationary.  I watched for about 15 minutes, then left to make coffee.  I returned to the window and the lights had moved upward.  I returned to my computer to make a report, which I have never done before.  I returned to the window and the lights had again moved upward.  They are still present, but as the sky lightens, they are harder to see. The lights are South of my house, unobserved from the North.  The lights move together as if part of an object.  I did not see a physical object, just lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144617.html](http://www.nuforc.org/webreports/reports/144/S144617.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [218](http://www.nuforc.org/webreports/reports/161/S161745.html)
-- [217](http://www.nuforc.org/webreports/reports/161/S161733.html)
-- [216](http://www.nuforc.org/webreports/reports/161/S161725.html)
-- [215](http://www.nuforc.org/webreports/reports/161/S161729.html)
-- [214](http://www.nuforc.org/webreports/reports/161/S161728.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
