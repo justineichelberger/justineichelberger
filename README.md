@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:25 on 22 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:24 on 22 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Labelle (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>UFO sighting ongoing in southeast texasapprox. 10 O'clock from our location east. it has been hovering over for almost an hour now that we have seen. it seems to be a triangle shape through binoculars and it moves quickly from side to side and back and forth it looks to the eye like a very large bright star but obvious it is not it makes zig zag movements that are very quick. it is still up there at this time. occasionally it seems to have a red color. have reported to local tv station((NUFORC Note:  We suspect that the witness may have been looking at a twinkling star, perhaps the star, "Sirius."  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34620.html](http://www.nuforc.org/webreports/reports/034/S34620.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Battle Creek (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>1 sphere almost like a big star. moved from one side of the sky to the other in about 2 min. moving in all diretions and then dissapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48817.html](http://www.nuforc.org/webreports/reports/048/S48817.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [218](http://www.nuforc.org/webreports/reports/161/S161745.html)
-- [217](http://www.nuforc.org/webreports/reports/161/S161733.html)
-- [216](http://www.nuforc.org/webreports/reports/161/S161725.html)
-- [215](http://www.nuforc.org/webreports/reports/161/S161729.html)
-- [214](http://www.nuforc.org/webreports/reports/161/S161728.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
