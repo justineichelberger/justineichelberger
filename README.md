@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:22 on 22 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:26 on 22 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Crawfordsville (IN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 26.0 - 26.0 minutes.</sub><blockquote><sub>FOR 26 MINUTES I OBSERVED WHAT APPEARED TO BE A BELL WITH 4 LITESWHILE TRAVELING WEST ON INTERSTATE 74 I FIRST NOTICED THESE LIGHTS, 1 ABOVE 3 OTHER LIGHTS BELOW IT. THE LIGHTS SEEMED TO BE ON 1 OBJECT ABOUT 2 MILES NORTHWEST OF ME AND WAS TRAVELING AT A SPEED A BIT LESS THAN MINE, I WAS DRIVING ABOUT 65.THIS WAS AT MILE MARKER 41 AT 21:16. I OBSERVED THESE PRETTY MUCH CONTINIOUS TO MILE MARKER 29, AT THAT TIME THE LIGHTS WERE DIRECTLY NORTH OF ME AND BEGAN TRAVELING SOUTH AS I COULD SEE THEM IN THE UPPER THIRD OF MY PASSANGER SIDE WINDOW. THIS IS WHEN I COULD SEE A DARK FORM BETWEEN THE TOP LIGHT AND THE LOWER 3 LIGHTS, IT SEEM TO BE A BELL SHAPE. IT CONTINUED TOWARD MY TRUCK UNTIL IT WAS CLOSE ENOUGH THAT I COULD NOT SEE IT OUT MY WINDOW, LIKE IT WAS PASSING OVER ME, BUT I LOOKED AND NEVER SPOTTED IT TO THE SOUTH OR BEHIND ME, AS I DROVE ON TO THE WEST ABOUT 3 MILES LATER I NOTICED ANOTHER SET  OF LITES SIMILAR TO THE FIRST SET, THESE WERE ALSO TO THE NORTH AND SEEMED TO BE TRAVELING AWAY TO THE NORTHWEST, THEY WERE ALSO TRAVELING SLOWLY. I OBSERVED THEM FOR ABOUT 2 MINUTES, THEN THEY SEEMED TO REVERSE THEIR DIRECTION OF TRAVEL, NOT TURNING AROUND MORE LIKE BACKING UP. WHEN THESE LITES GOT LIKE FROM JUDGING FROM THE TREE LINES IN THE DISTANCE , I SAY ABOUT A HALF MILE NORTH OF ME AND LESS THAN 1000FEET OFF THE GROUND, ALL THEIR LITES WENT OUT FOR A SECOND OR 2, THEN ABOUT WHERE THE 3 BOTTOM LITES HAD BEEN THERE WAS A SEQUENCE OF 5 0R 6 STROBE LITES, FROM LEFT TO RIGHT, TWICE, THEN ONE BRIGHT FLASH FROM THE LEFT END AND RIGHT END LITES. THEN NOTHING, IT JUST WASNT THERE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27247.html](http://www.nuforc.org/webreports/reports/027/S27247.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Deer Park (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A bright Globe obeserved in the south west sky would streak across making a contrial, then both disappear.Driving west bound on Long Island Expressway noticed a small redish globe glow between the horizon and venus.  Around 50-70000 feet up. It was a clear sky no clouds, the sun was going down and the sky was turning colors.  This globe would shine brightly, and streak across (not very far) the sky making a contrial and then stop. The globe that was glowing red to orange would disappear. The contrail that it had made would dissapate incredibly fast.  Then it appeared again, slightly over from where it disappeared. Made a glow drew a contrail and disappeared.  It was traveling northeast, all occurances lasted 2 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34699.html](http://www.nuforc.org/webreports/reports/034/S34699.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [218](http://www.nuforc.org/webreports/reports/161/S161745.html)
-- [217](http://www.nuforc.org/webreports/reports/161/S161733.html)
-- [216](http://www.nuforc.org/webreports/reports/161/S161725.html)
-- [215](http://www.nuforc.org/webreports/reports/161/S161729.html)
-- [214](http://www.nuforc.org/webreports/reports/161/S161728.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
