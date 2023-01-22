@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:32 on 22 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:21 on 22 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Chesnee (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Stood there did nothing o came outside they left3  triangular saucers were in my backyard and then they were standing there and then they took off in a blue flash</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144677.html](http://www.nuforc.org/webreports/reports/144/S144677.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cincinnati (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>9 red fireball-like objects hovering in line formation up and down and at angles accelerating quickly and descending slowly.I was lying in bed next to my girlfriend and next to an east facing window at roughly 11:10pm EST 01/22/12, Downtown Cincinnati when I saw a flash of light from the left corner of my eyes.  I turned my head, looking southeast out the window and noticed a round orange/red globe/orb-like object floating along without sound traveling northwest toward my condo.  My girlfriend and I were astonished by its ability to drift, sometimes moving up or down unlike that of a helicopter or private jet! The object was coasting at a pretty good clip.  At this point I climbed higher into the window to get a better less inhibited view through the glass as opposed to through glass and outer screen.At that moment we noticed another object just like the first following a short distance behind approx ½ mi. Then came another and another.  Those that followed totaling 5 or 6 more were performing maneuvers unlike the first three and more peculiar.  My girlfriend again pointed out two more circling each other to our southeast while those behind them were hovering very close to the tops of the city skyscrapers around the corner of Seventh and Vine and then finally nearing the ground hovering straight down at roughly Race and 9th St. Downtown Cincinnati.  The one that initially appeared to land on a building top came slowly down at that junction and out of sight once again.I proceeded to film those closest to the downtown buildings rather than following those who were in a straight path out of sight north and west of my home.  The angle from my vantage point to the objects’ was somewhere between 20 and 45 degrees from the ground.  They were straight up halfway across the 8 or 9 Cincinnati City Blocks from east to west on a map.The remaining 2 objects exploring the downtown building tops eventually in just under a minute began to make their way due north up the I71 corridor and out of site.  The objects’ diameter appeared to be a car’s length maybe slightly longer.  I estimated by the size of the object that appeared to land on the building in relation to the size of the rooftop.  We were not sure what to do exactly however with a little research we found the NUFORC. We have 2:44secs of footage taken from my Droid Camcorder to accompany this report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86790.html](http://www.nuforc.org/webreports/reports/086/S86790.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [218](http://www.nuforc.org/webreports/reports/161/S161745.html)
-- [217](http://www.nuforc.org/webreports/reports/161/S161733.html)
-- [216](http://www.nuforc.org/webreports/reports/161/S161725.html)
-- [215](http://www.nuforc.org/webreports/reports/161/S161729.html)
-- [214](http://www.nuforc.org/webreports/reports/161/S161728.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
