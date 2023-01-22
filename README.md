@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:24 on 22 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:23:30 on 22 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Kennett Square (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Small red blinking sphereComing from a Dollar Store on my bike rode into town as I stopped to adjust I looked up,I thought at first a shooting star But its movement's were quick,and had one single red light that flashed quickly .It was silent , watched it travel about a 1/4 mile than 90 degree turn,one Its speed was far to quick to be a drone and the distance was overwhelming It was not a drone</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161729.html](http://www.nuforc.org/webreports/reports/161/S161729.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Chemainus (Canada) (BC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>A bright orange light over the Chemainus River, Vancouver Island lasting 15 minutes.We were driving down Crofton Road in a N W direction towards the junction of  Chemainus Road when we saw a bright large orange light in the sky  above the Chemainus River on our left side.  The light appeared to be burning slowly  in a downward tail of smoke. We then saw two small red flashing lights and we heard what seemed to be an engine flying above us in the direction of Crofton.  Then the light  reappeared in the same position just as bright.  All this happened over a period of ten minutes.  We took two photos with our cell phone, one at 7:31pm after watching for approximately five minutes then the second one was at 7:32pm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79806.html](http://www.nuforc.org/webreports/reports/079/S79806.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [218](http://www.nuforc.org/webreports/reports/161/S161745.html)
-- [217](http://www.nuforc.org/webreports/reports/161/S161733.html)
-- [216](http://www.nuforc.org/webreports/reports/161/S161725.html)
-- [215](http://www.nuforc.org/webreports/reports/161/S161729.html)
-- [214](http://www.nuforc.org/webreports/reports/161/S161728.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
