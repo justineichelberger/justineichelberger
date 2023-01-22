@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:23:30 on 22 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:01:17 on 22 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Chemainus (Canada) (BC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>A bright orange light over the Chemainus River, Vancouver Island lasting 15 minutes.We were driving down Crofton Road in a N W direction towards the junction of  Chemainus Road when we saw a bright large orange light in the sky  above the Chemainus River on our left side.  The light appeared to be burning slowly  in a downward tail of smoke. We then saw two small red flashing lights and we heard what seemed to be an engine flying above us in the direction of Crofton.  Then the light  reappeared in the same position just as bright.  All this happened over a period of ten minutes.  We took two photos with our cell phone, one at 7:31pm after watching for approximately five minutes then the second one was at 7:32pm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79806.html](http://www.nuforc.org/webreports/reports/079/S79806.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in South Whitley (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately minutes - minutes minutes.</sub><blockquote><sub>Green light in sky.It was on 1/22/15 around 7am, my husband and I were heading down IN 14 east towards Fort Wayne, Indiana.  Between the county line of Kosciusko and Whitley county.  I was watching the fields off to the right looking for deer.  I noticed a green light in the sky.  I didn't think nothing of it until we passed a large areas of trees and was wide open to some fields.  Not really moving fast just a steady moving.  It was above the large power line but lower than the clouds.  At first, I thought it was a plane but the longer I looked at it the less it had the attributes of a plane.  There was no blinking lights.  No red or white lights.  I thought how strange that a plane so low in the sky.  As my husband drove on, he asked what I was staring at.  I explained to him a green object in the sky.  He kinda poked down and looked over, as we kept driving down IN 14, I watched it slowly glide across the sky behind us.  A few hours later on the ride home we passed the same field and we looked around, thinking a tower of some sort or lights on top of the power lines, but we could see nothing. Just a house and power lines then open fields.  I'm not sure what we saw.  It just seemed a little odd to me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116887.html](http://www.nuforc.org/webreports/reports/116/S116887.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [218](http://www.nuforc.org/webreports/reports/161/S161745.html)
-- [217](http://www.nuforc.org/webreports/reports/161/S161733.html)
-- [216](http://www.nuforc.org/webreports/reports/161/S161725.html)
-- [215](http://www.nuforc.org/webreports/reports/161/S161729.html)
-- [214](http://www.nuforc.org/webreports/reports/161/S161728.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
