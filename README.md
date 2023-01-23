@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:33 on 23 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:23 on 23 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Was driving west on I-10 toward 1604 and saw 2 white lights that looked like wingtip lights, but they weren't flashing.  Also, i thought they were too far apart to be an airplane.  A bright red flashing light was following them about 1-2 miles behind.  Just thought it was very odd, because if it were a plane, its by far the biggest plane I've ever seen.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116919.html](http://www.nuforc.org/webreports/reports/116/S116919.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Boston (MA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Two cigar shaped craft spotted lowering object into the boston side of the charles river.I saw 2 large cigar shaped craft quickly enter an area over the Charles River basin. The first craft appeared to be glowing red and I would imagine, very hot. At 23:00 I could not get to bed, so I got up to hangout in the living room. Then all of the sudden, I heard an eerie droning sound. Scared, I got up to look out the window. There were 2 craft that seemed to be lowering a kind of large tray in to the river. This lasted for 30 minutes, and then the craft silently sped off to the west. After that period of 30 minutes, I started to feel nauseous and had a headache. I threw up and then went to bed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68247.html](http://www.nuforc.org/webreports/reports/068/S68247.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/161/S161737.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161735.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161847.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161736.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161746.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
