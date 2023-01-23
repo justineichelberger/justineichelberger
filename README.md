@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:29 on 23 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:30 on 23 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Swan Hills (Canada) (AB) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>UFO remains fixed in the sky as commercial jets fly above it.A very bright circle of white/silver light positioned in a stationary position. I was driving on the highway 5 Km north of Swan Hills, Alberta when a bright object in the sky caught my attention. This bright object remained stationary in the sky while directly above it a commercial jet aircraft flew over. I would estimate that the Bright object was halfway between the ground and the flight corridor of the jets. I continued to watch as the jet passed wwhile the "object" remained fixed in the same position in the sky. Many minutes elapsed and another commercial jet aircraft followed on the same flight path with a smaller jet following very closely behind. This in itself seemed very odd as the distances betweeen the two jets was very close. The bright object remained fixed in the sky while the two jets passed overhead and flew out of site. The UFO finally disappeared from the sky. I watched this episode for approximately 10 to 15 minutes.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24838.html](http://www.nuforc.org/webreports/reports/024/S24838.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Waimanalo (HI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 21:38 - 21:38 minutes.</sub><blockquote><sub>I saw a bright light outside, so I ran out to look at it, my roommate joined me.  It was a very bright light that was a ball of light like a bright star. It became a triangle.  Then there was a bright light that came down a few feet.  The end of that light flashed green a few times then it went up back to the main area of light.  Then it went up and stoped then after a bit it came toward us and it was lower than the tree line and it had more of a quiet vibration noise as it flew over us slowly.  Then when it was gone we heard a airplane and there was a airplane headed toward where the air craft just came from.  But the airplane was loud unlike the air craft we just saw.   Then we went inside and as I settled down I saw the light again and I ran back outside and the same light coming down with a flashing green and going back up thing happen.  Then it went in a straight line to the right And then it went up and then it came toward us.  This time it didn’t come directly above us but went over the farm in front of us and to the mountain and it was in a square shape.  It had the same quiet vibration noise. It went over my neighborhoods house and when I told her about it she said she didn’t hear anything.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152886.html](http://www.nuforc.org/webreports/reports/152/S152886.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/161/S161737.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161735.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161847.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161736.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161746.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
