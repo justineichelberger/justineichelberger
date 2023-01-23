@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:25 on 23 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:23 on 23 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Platsmouth (near; on Hwy S 29) (IA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>White saucer, blue lights, round, smooth looking material, exit on S 29 between Tabor and Platsmouth exits.  Was beautiful.l.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116926.html](http://www.nuforc.org/webreports/reports/116/S116926.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Los Lunas (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Lights south of Los Lunas, New Mexico.In the south sky.  A bright light had appeared after a while another light came out  it started to fade after about half an hour  I had my mother on the phone because she had seen it before so I shined my flashlight towards it and it got brighter so I did it a few more times it's seem to let me know that he could see me and it totally disappeared and I'd shine my light back at it and it would get bright again this went on all the way up to 8 o'clock</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132281.html](http://www.nuforc.org/webreports/reports/132/S132281.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/161/S161737.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161735.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161847.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161736.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161746.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
