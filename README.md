@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:31 on 23 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:31 on 23 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Phelan (CA) reported seeing craft that fit the description of some 'Cross' over a period of approximately still going on - still going on minutes.</sub><blockquote><sub>Object has been out by Mountain High Ski Resort for the past 4 days, then it finally disappears like it never existed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116917.html](http://www.nuforc.org/webreports/reports/116/S116917.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Oakland Park (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>Very small cluster of flashing lights.At exactly 8:35 pm, Jan. 23, 2012, I was looking at an airplane coming from the northern direction, heading S/SW when I noticed a very small, “stationary” sparkling light behind the aircraft, initially I thought it just another aircraft or helicopter, because the direction is just east of Fort Lauderdale Executive Airport, in N. Fort Lauderdale, Fla. but it was not normal in the way it was flashing so I grabbed my binoculars for a closer look, and what I observed was unlike any light source that I have ever seen before, what made this unusual was the way it was all over the place when it flashed, the pattern or timing of the flashes were very erratic, the pulses were in small groups of @ 2-5 pulses, and as it was doing this, is was slowly dropping lower to the horizon, it was already low in the sky from the start at @ 25 degrees, going down to @ 15 degrees, it descended at a slow speed, as if it was on a parachute, it could have been moving away from me and getting lower on the horizon for that reason as well, it was a very small cluster of flashing lights with all colors present, to the naked eye it looked like one very small light, with binoculars you could see it was many different lights, I will create an animation as best I can for an example. This animation has only 9 frames, so it does create a pattern, I watched this for exactly 5 minutes and there was no pattern, it was always different and erratic until it vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86792.html](http://www.nuforc.org/webreports/reports/086/S86792.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/161/S161737.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161735.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161847.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161736.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161746.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
