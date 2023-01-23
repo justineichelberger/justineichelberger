@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:28 on 23 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:31 on 23 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Lacey (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately current - current minutes.</sub><blockquote><sub>There is a bright reddish pulsing light, that floats around in the sky erratically.  On clear night I see it and it moves and other smaller lights appear near it and then disappear.  I have seen it zip, back and forth a faster than the eye lateral movement.I have been seeing this light in the sky for about 2 weeks.  It takes a similar path in the sky and when the sun sets and it is in different origin.  But a relatively near the same patch of sky.Here is a video link: https://www.youtube.com/watch?v=dpOARx7D2ws&t=3s((NUFORC Note:  Possibly a sighting of Venus??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132280.html](http://www.nuforc.org/webreports/reports/132/S132280.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Phelan (CA) reported seeing craft that fit the description of some 'Cross' over a period of approximately still going on - still going on minutes.</sub><blockquote><sub>Object has been out by Mountain High Ski Resort for the past 4 days, then it finally disappears like it never existed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116917.html](http://www.nuforc.org/webreports/reports/116/S116917.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/161/S161737.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161735.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161847.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161736.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161746.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
