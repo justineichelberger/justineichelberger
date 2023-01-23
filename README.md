@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:20:56 on 23 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:29 on 23 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Mims (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>lighted object(s) moved from north to south, southwest while in a vertical positionJanuary 23, 2008@7:17 p.m. EST I viewed a lighted object from the North coming  south. The object was flying vertical and its body was lit up solid yellowish with best as I can describe objects on either side (wing-like) they were also lit up but not solid it appeared to be individual lights outlining the entire wing structure.  The object did not have any other coloured lights or flashing lights.  The object continued south then changed direction to south west.  It disappeared or it was not visible from the back.  This abject did not have any sound whatsoever as it was a quiet peaceful night here.  Within a minute or so I observed two more of these objects flying in the same direction (one was flying before the other and the first one was not as bright as the original the third one was a little brighter than the second) they also followed what appeared to be the same path as the original object again no sound.  What I found extremely interesting is they were all vertical.  We are on a flight path of several jet planes and small prop planes none of which use this particular path I observed with these three objects</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61172.html](http://www.nuforc.org/webreports/reports/061/S61172.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Swan Hills (Canada) (AB) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>UFO remains fixed in the sky as commercial jets fly above it.A very bright circle of white/silver light positioned in a stationary position. I was driving on the highway 5 Km north of Swan Hills, Alberta when a bright object in the sky caught my attention. This bright object remained stationary in the sky while directly above it a commercial jet aircraft flew over. I would estimate that the Bright object was halfway between the ground and the flight corridor of the jets. I continued to watch as the jet passed wwhile the "object" remained fixed in the same position in the sky. Many minutes elapsed and another commercial jet aircraft followed on the same flight path with a smaller jet following very closely behind. This in itself seemed very odd as the distances betweeen the two jets was very close. The bright object remained fixed in the sky while the two jets passed overhead and flew out of site. The UFO finally disappeared from the sky. I watched this episode for approximately 10 to 15 minutes.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24838.html](http://www.nuforc.org/webreports/reports/024/S24838.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/161/S161737.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161735.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161847.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161736.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161746.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
