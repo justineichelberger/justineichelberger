@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:59 on 23 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:28 on 23 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Banning (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A structure of lights, resembling the Phoenix Lights, appeared near Banning & Morongo, California on 01/23/02 at 1910 hrs.I live up the hill on Bluff Street in Banning, California...coming down the hill in our truck, my wife pointed out a pattern of lights that resembled the Phoenix Lights. There were 6 to 7 lights in that similiar pattern, with the pattern tilted about 5 degrees from level. I could that this, whatever it was, was very low in altitude...approximately about 1,500 feet or so (using the mountains in the background as a guide to aiding altitude and distance). The object was approximately, based on diatnce with respect to the mountains (object in front of the mountains), looked about on the order of 1 mile across, perhaps, even bigger in size. It was enormous. After watching the object for some minutes, I decided to move down the hill to try and get a better look. The object may have, initially, been sighted near the Indian Casino off the 10 freeway...Morongo Casino is the name of the place it appeared to be closest...in morongo. Now in the time I took to drive a few hundred feet or so down the hill (which took me only approximately 10-15 seconds)...we saw that it had moved...very fast from where it was first sighted. It now appeared to be very close if not over the Palm Springs International Airport (they had to see whatever the hell this thing was...absolutely no mistake about it). We lost sight of it after this time. The lights were of a goldish, coppery color...very distinct...could not miss this object. Time of sighting was about 1910 to 1920 hours. The sky conditions were absolutely clear...unlimited visibility.I am a ((personal information deleted/public servant)). I am also able to distinguish between weather phenomena, different types of civilian and military aircraft...this resembled nothing we have...trust me! I have reported the facts as observed. Please do not use my name or mention the ((deleted))  where I ((deleted))...I am not looking for attention, but will assist in other means as possible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21526.html](http://www.nuforc.org/webreports/reports/021/S21526.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Lacey (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately current - current minutes.</sub><blockquote><sub>There is a bright reddish pulsing light, that floats around in the sky erratically.  On clear night I see it and it moves and other smaller lights appear near it and then disappear.  I have seen it zip, back and forth a faster than the eye lateral movement.I have been seeing this light in the sky for about 2 weeks.  It takes a similar path in the sky and when the sun sets and it is in different origin.  But a relatively near the same patch of sky.Here is a video link: https://www.youtube.com/watch?v=dpOARx7D2ws&t=3s((NUFORC Note:  Possibly a sighting of Venus??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132280.html](http://www.nuforc.org/webreports/reports/132/S132280.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/161/S161737.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161735.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161847.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161736.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161746.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
