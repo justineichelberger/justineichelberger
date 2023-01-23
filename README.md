@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:24 on 23 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:33 on 23 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Rahway (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Two stationary lights shone then faded out in the evening sky near Venus.During my daily fitness walk in a county park I looked up at the perfectly clear blue sky noticing that as evening approached the stars and planets were beginning to show. A short distance east of Venus I saw two lights close together about the width of my thumb held at arms length. The light to the right was brighter and faded slowly out. The light on the left faded and brightened a few times then went out. Both lights were stationary. Shortly after they vanished a commercial airliner flew over where they were. The lights were circular and had a pale yellow or golden hue. They were slightly less brilliant than Venus and had a softer definition with some haze around them. I am a fine art conservator with a keen sense of observation. I am also an avid skywatcher and have been interested in UFOs since my first sighting in 1967.((NUFORC Note:  Witness may have observed landing lights on approaching commercial airliners, but that is a guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16035.html](http://www.nuforc.org/webreports/reports/016/S16035.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Was driving west on I-10 toward 1604 and saw 2 white lights that looked like wingtip lights, but they weren't flashing.  Also, i thought they were too far apart to be an airplane.  A bright red flashing light was following them about 1-2 miles behind.  Just thought it was very odd, because if it were a plane, its by far the biggest plane I've ever seen.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116919.html](http://www.nuforc.org/webreports/reports/116/S116919.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/161/S161737.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161735.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161847.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161736.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161746.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
