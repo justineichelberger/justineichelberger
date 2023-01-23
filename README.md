@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:30 on 23 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:08 on 23 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Platsmouth (near; on Hwy S 29) (IA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>White saucer, blue lights, round, smooth looking material, exit on S 29 between Tabor and Platsmouth exits.  Was beautiful.l.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116926.html](http://www.nuforc.org/webreports/reports/116/S116926.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Ocean View (HI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Bright Color changing Erratically flying object in the Western Sky.I woke at 2:30am HST and was unable to go back to sleep.  I looked towards the West out of the sliding glass doors in our bedroom and noticed a brighter than usual "star" in the sky about where the Moon and Venus had been earlier in the evening.  As I watched, it appeared to move.  When it became obvious it was moving erratically in the sky I got out of bed and went outside to further observe the anomaly.I watched the object alone for approximately 30 minutes as it moved abruptly in random and jerky, up/down and back/forth movements.  It also appeared to strobe in the sky and change color throughout the spectrum.  I went back inside and woke my partner so he could corroborate what I thought I was seeing.  Together we watched the object continue to move about in random patterns for another 45 minutes.  We both agreed it was not a normal nighttime object.It eventually receded in the sky at approximately 4:15am and we went back to bed.((NUFORC Note:  Possibly a planet, or star??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116898.html](http://www.nuforc.org/webreports/reports/116/S116898.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/161/S161737.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161735.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161847.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161736.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161746.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
