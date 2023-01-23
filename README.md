@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:36 on 23 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:24 on 23 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Noblesville (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large Dark Triangular shape with lightsDriving north on I-69 between 116th street and state rd 238 I saw what appeared to be a hovering craft due east towards Hamilton Southeastern High School off Olio rd hovering in and out of the low lying clouds.  Large and triangular in size with lights that appeared to be red on the tips and brighter white lights in the middle.  As The road turned more north I saw a second identicale craft hovering above the Hamilton Town Center off of 146th and IN. 238 just west of I-69.  Hovering and low enough I could make out the shape.  Dark and triangular like a stealth fighter but massive with the same lighting scheme as the first ufo I spotted.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106606.html](http://www.nuforc.org/webreports/reports/106/S106606.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Rahway (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Two stationary lights shone then faded out in the evening sky near Venus.During my daily fitness walk in a county park I looked up at the perfectly clear blue sky noticing that as evening approached the stars and planets were beginning to show. A short distance east of Venus I saw two lights close together about the width of my thumb held at arms length. The light to the right was brighter and faded slowly out. The light on the left faded and brightened a few times then went out. Both lights were stationary. Shortly after they vanished a commercial airliner flew over where they were. The lights were circular and had a pale yellow or golden hue. They were slightly less brilliant than Venus and had a softer definition with some haze around them. I am a fine art conservator with a keen sense of observation. I am also an avid skywatcher and have been interested in UFOs since my first sighting in 1967.((NUFORC Note:  Witness may have observed landing lights on approaching commercial airliners, but that is a guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16035.html](http://www.nuforc.org/webreports/reports/016/S16035.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/161/S161737.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161735.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161847.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161736.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161746.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
