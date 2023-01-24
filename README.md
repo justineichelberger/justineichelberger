@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:32 on 24 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:23 on 24 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Washington (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>ufo I seen in washington pa.I was sitting on my patio at 8 pm getting some cold air when i looked back by my garage. I seen something in the sky. i got up and walked back there, it was dark but i could see it real good. it was about 20 feet off the ground . it was round , it had different colored lights down close to the bottom of it. they were flashing all around it, red, blue, yellow ,white, red, blue yellow white.in that order. there was no sound.i walked beside my garage , i was about  50 feet away from it.it was moving slow, i could have walked faster than it was moving.i was amazed at what i was seeing. i went to to get my girlfriend in the house. its about 10 feet from my garage. she didn't wanta see it i was in there for 2 minutes then i went back out. i looked where it was and now it was just a dot on the other side of town. about 6 or 7 miles away from where it was. i thought it moved away kinda fast. i know what i seen i seen one before when i was younger. it was moving north when i seen it.the night was very clear .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50017.html](http://www.nuforc.org/webreports/reports/050/S50017.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Damascus (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>When getting ready for bed, I noticed an object moving across the sky.  It was emitting a red and blue-green light.  Due to the blizzard, planes were grounded.  After watching it, it appeared to move too slow to be a satellite and had different lighting.  The object appeared to stop and move opposite directions.  It did this several times, as I got my binoculars out.  After several minutes of looking through the binoculars, the object stopped moving.  It was no longer red and blue-green, but was emitting white light.  Its look resembled that of a star.  I took a picture and downloaded it.  What really interested me was when I applied normal "filters", which would typically just increase the contrast, or fade the saturation of a photograph.  In pictures taken at 1am without flash, I did not expect a variation when applying the filters.  However, to my surprise the filters resulted in wild colors being shown in the background, while the object remained white.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125416.html](http://www.nuforc.org/webreports/reports/125/S125416.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
