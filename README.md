@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:32 on 24 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:38 on 24 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lake City (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 135.0 - 135.0 minutes.</sub><blockquote><sub>Bright light in sky that never moved for 75 minuted and then moved quickly.At 7:15 p.m., we noticed a very bright (about 10 times the brightest star I have ever seen) light in the western sky. We didn't know what it was. We called some friends in our same town, but not by our house. They saw it as well. I called my son (60 miles away) and he saw it. It did not move from 7:15 until 8:30. The shape looked round - like a bright round ball in the sky. I called a local weather man. He said it was Venus. It was emiting blue and red colors on the sides. Also a tail would come out sometimes on the top, sometimes on the bottom and sometimes on the sides. It never moved in those 75 minutes. It also looked like it had a huge search light beam that would occasionally point down. We got some great photos of it. The photos showed the blue and red lights. It also showed 2 triangles. One triangle was on the left. It was an upside down triangle. On the right there was another triangle that was right side up. They appeared to be connected. One of the photos show 3 dots in the center of it. Some photos were just totally bizarre. It was like hyroglifics. We took photos of the orange ball, and they came back as designs. At about 8:30 p.m. I was assuming it was Venus, as it had not moved. I also assumed that the colors and tails we saw were just gas in the sky. However at 8:30, it moved quickly; first down towards the earth - lower in the sky. Then it quickly moved to our right. It moved so quickly that we had to change windows to see it. Then finally, it took a hard left turn and gradually vanished from site in the distance. That made me a believer. I doubt a planet like Venus would do that. There were 2 people in our house and we both saw everything. Our two friends in a different part of town saw exactly the same thing. We made them describe it on the phone. I have no idea what it was; but it certainly was some kind of unidentified object.((NUFORC Note:  Venus??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68249.html](http://www.nuforc.org/webreports/reports/068/S68249.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Simsboro (LA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Multicolored lights seen in Eastern sky in North LouisianaIn the southwestern sky, I noticed a twinkling.  Too vivid to be a star/planet, too high in the air to be a cell tower, too many colors flashing to be an aircraft.  The only device I own that could be used to view more closely was the scope on my .22 rifle. I can only describe what I saw as a seemingly multi-colored array of sparks and/or electricity, but maintaining an almost nautical star shape. It was very difficult to see, even with the scope but actually appeared larger to the naked eye. I've never seen anything like that in all my 33 years, and my girlfriend saw it as well.  We are ufo cynics, so this sight was a bit unsettling.((NUFORC Note:  Possible sighting of Sirius, we would guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86799.html](http://www.nuforc.org/webreports/reports/086/S86799.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
