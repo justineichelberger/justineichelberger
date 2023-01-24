@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:25 on 24 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:30 on 24 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lubbock (TX) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.9166666666666666 - 0.9166666666666666 minutes.</sub><blockquote><sub>On Jan 24, 2013, @ 10:17 PM, I was aiming my mini camcorder, which I had purchased just days earlier, at the moon.  When I focused on the moon, at about 20X zoom, there was an object hovering in the lower left quadrant of the moon.  The length was about 1/8 to 1/6 of the moon diameter.I first thought it was a speck of dust in or on the lens.  Later inspection did not confirm that.The distance from my camcorder to the object was unknown.  If it  was close to the moon, the size must have been gigantic. If it was close to Earth, there would likely have been a greater relative movement to the moon, but not necessarily true.My video clip is 55 sec long.  Check out my two screen shots (still pics) from the clip.((NUFORC Note:  We will request a copy of the video.  The object appears to us to be some kind of foreign object in the lens assembly, but that is pure conjecture, at this stage.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127515.html](http://www.nuforc.org/webreports/reports/127/S127515.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Maui (HI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Bright spherical object seen on north side of MauiBright spherical object with vaguely identifiable contrail seen on north side of Maui, Hawaii at about 3:42 p.m. local time on Monday, January 24, 2005, about 15 or 20 miles north of Ka'anapali on State Highway 30.  Object appears to be headed into the ocean. I was stopped on the side of the road taking pictures, and only noticed the object in one of my pictures when I got home and downloaded them, so unfortunately I did not witness it with my own eyes.  I have previously sent a jpeg picture of the object to the www.nwlink.com website (ufocntr@nwlink.com) -- don't know if it's been posted on this website or not.  The picture was taken with a 5.0 megapixel camera set at 1/250 of a second, with an ISO of 50 and an 8.0 aperture. Not sure if the object is a crashing satellite or something else, but am interested in whether anyone else saw anything similar in the area that day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41834.html](http://www.nuforc.org/webreports/reports/041/S41834.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
