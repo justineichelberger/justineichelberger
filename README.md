@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:22 on 24 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:34 on 24 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Droitwich (UK/England) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>black triangle noiseless craft 100ft off ground went over me, lit with one static light each corneri was travelling from the Swan Pub, at the top of the lane, as i started down the lane towards the Copcut pub, I noticed a white static light come over the tree tops, and over the top of my car, thinking it was a shooting star,  i looked up to see a triangle jet black craft going over head, a light was at each corner,  it length was that of a large plane,,  i thought it was one, so i wound the window down to hear no engine noises, as it passed quietly over head, i slowed to watch it move at speed, about 100ft up...in a straight line, heading away towards Redditch… only seeing the rear corner light as it went...the others were not visible..... email ((e-address deleted))  i clearly saw the shape and its body was dense black....to blend in with the darkness....but the city lights showed its shape of, as it kept away from our town...travelling across country in the dark</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138581.html](http://www.nuforc.org/webreports/reports/138/S138581.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Olivet (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>i seen three white lights hovering in the sky going in a circular motion getting bigger and smaller in rotation.It was cloudy out but while i was driving home in the break of the clouds a glimpse of light caught my eye. so i pulled over and watched, i could see three white lights hovering in the sky going in a circular motion getting bigger and smaller in rotation, then it just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138580.html](http://www.nuforc.org/webreports/reports/138/S138580.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
