@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:34 on 24 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:25 on 24 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Olivet (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>i seen three white lights hovering in the sky going in a circular motion getting bigger and smaller in rotation.It was cloudy out but while i was driving home in the break of the clouds a glimpse of light caught my eye. so i pulled over and watched, i could see three white lights hovering in the sky going in a circular motion getting bigger and smaller in rotation, then it just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138580.html](http://www.nuforc.org/webreports/reports/138/S138580.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lubbock (TX) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.9166666666666666 - 0.9166666666666666 minutes.</sub><blockquote><sub>On Jan 24, 2013, @ 10:17 PM, I was aiming my mini camcorder, which I had purchased just days earlier, at the moon.  When I focused on the moon, at about 20X zoom, there was an object hovering in the lower left quadrant of the moon.  The length was about 1/8 to 1/6 of the moon diameter.I first thought it was a speck of dust in or on the lens.  Later inspection did not confirm that.The distance from my camcorder to the object was unknown.  If it  was close to the moon, the size must have been gigantic. If it was close to Earth, there would likely have been a greater relative movement to the moon, but not necessarily true.My video clip is 55 sec long.  Check out my two screen shots (still pics) from the clip.((NUFORC Note:  We will request a copy of the video.  The object appears to us to be some kind of foreign object in the lens assembly, but that is pure conjecture, at this stage.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127515.html](http://www.nuforc.org/webreports/reports/127/S127515.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
