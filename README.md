@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:25 on 24 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:25 on 24 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Victoria (Canada) (BC) reported seeing craft that fit the description of some 'Other' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Multple sightings of slow-moving colored lights in night sky with one descent of red arced light to groundI and other residents of the house have seen an odd light formation in the sky, to the south east of Portage Road (near Portage Inlet), north of Victoria, Vancouver Island, BC. First sighting was January 16, 2020, I think. Since then it's recurred on at least three occasions, most recently the 19th and 20th of February. Time was generally between 7.30 PM to just after 9 PM. Then again March 21 in the morning around 5.30 AM. It looked like a bright star to the naked eye, but lower then a star; it drifted back and forth slowly, from east to further south. It seemed to be some distance away; it was framed behind a tall pine tree's upper branches and gradually moved from one side of the tree to the other very slowly, often over about 30 minutes before moving out of view. It was not a star: Looking at it through binoculars, it seemed to resolve into a cluster of red, white and green lights spaced short distances apart, possibly in a triangular or oval shape. However, it was too far away to see details or estimate the actual distance of the object. No sounds were audible. The same area of sky, viewed in daylight, appears to be empty of buildings, utility poles or towers that might be illuminated at night. Another family member saw on Feb 20th what appeared to be a bright white light banded by a curving oval swath of red light detach from the main star-like shape and descend in an arc earthwards in a space of 10-15 seconds, at which point the descending curved light disappeared. (The cluster of other colored lights remained in the sky for another hour or so). The descent may have taken place in the Colquitz Creek / Admirals Road/Cuthbert Holmes Park area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156297.html](http://www.nuforc.org/webreports/reports/156/S156297.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in San Jose (Costa Rica) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>ufo in costa ricaI live in San Jose Costa Rica, i had seen an ufo on friday night, it was like a disk and with 4 lights, one red. It came from east trow northwest, it was high cause it pass thru some clouds. It make no sound and fly like 10-20 kmeters in about 30 seconds I lost it because it was far far away but didnt see it dissaper, just i lost the sight</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27320.html](http://www.nuforc.org/webreports/reports/027/S27320.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
