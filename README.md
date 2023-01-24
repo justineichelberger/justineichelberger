@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:40 on 24 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:33 on 24 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in North East/Bel Air (MD) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Red glowing object and Triangle -north east maryland	At approximately 21:00 I received a phone call from an associate about a first hand encounter of a craft hovering above his vehicle in Bel Air, Maryland. This was before the sighting I am reporting myself. He described the shape to be triangular but smoothed around the edges like a guitar pick and having 5 or 6 blue lights. It made no noise at all and just hovered about his vehicle then disappeared. Around 21:15, I spotted a figure in the sky, three lights in a row, a diagonal line. The line faded in and out twice and then completely disappeared. Ten minutes later, the object came around again but this time actually had more shape to it, its aura cigar like in shape. It first appeared as a small red dot-like shape in the sky then got increasingly bigger. It glowed red and looked as if it was spinning. I could kind of make out the shape of the central point, which was like an oval ring or halo. I started freaking out and telling someone about it and as soon as I started to it kind of just faded away, shifting into the sky to the left of me. Another in the same area, its position to the south, spotted this object, which is the general direction of the town of Bel Air where my associate spotted the object directly above him. The colors described were different so I decided to count them as two different sightings. I would rather submit little personal info as possible though I have included my email for further contact.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61186.html](http://www.nuforc.org/webreports/reports/061/S61186.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Bunn (NC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>large bright white, cigar shaped objected moving right to left while heading southeast on Old Halifax Road, near Bunn, NCwhile driving southeast at the intersection of Pearces Road and Old Halifax Road, I could not but help see a bright white cigar object ahead of me moving from right to left.  It was above the horizon and was very large.  Judging from how far away it was and how fast it moved across the sky, I believe it to be a large, bright white, cigar shaped object.  I am an ex-Coast Guardsman and have been trained to distinguish objects from normal aircraft.  This was not a plane nor any other flying machine I have ever seen.  I was leary in reporting it, but feel compelled to do so.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55230.html](http://www.nuforc.org/webreports/reports/055/S55230.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
