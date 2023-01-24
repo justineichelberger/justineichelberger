@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:33 on 24 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:33 on 24 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Bunn (NC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>large bright white, cigar shaped objected moving right to left while heading southeast on Old Halifax Road, near Bunn, NCwhile driving southeast at the intersection of Pearces Road and Old Halifax Road, I could not but help see a bright white cigar object ahead of me moving from right to left.  It was above the horizon and was very large.  Judging from how far away it was and how fast it moved across the sky, I believe it to be a large, bright white, cigar shaped object.  I am an ex-Coast Guardsman and have been trained to distinguish objects from normal aircraft.  This was not a plane nor any other flying machine I have ever seen.  I was leary in reporting it, but feel compelled to do so.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55230.html](http://www.nuforc.org/webreports/reports/055/S55230.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Jacksonville (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately Ongoing - Ongoing minutes.</sub><blockquote><sub>There is a bright light in the sky unmoving obviously not a helicopter the light seems to be circular no matter which side of it i drive to the light makes it impossible to see the object itself((NUFORC Note:  We suspect a celestial body, possibly Jupiter.  If the time indicated by the witness is p.m., then the object may be Venus.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132292.html](http://www.nuforc.org/webreports/reports/132/S132292.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
