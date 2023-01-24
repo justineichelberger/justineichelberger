@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:50 on 23 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:31 on 24 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Virginia Beach (VA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>A "cylinder [shaped] object” that had a “white light with a red dot”  and was “over roof top” and then “went behind the houses."The following report information is a transcribed extract from the UFO sighting report files of the Virginia Beach, Virginia, Police Department, taken from a chronology of Virginia Beach, Virginia UFO sighting reports on file with the Virginia Beach Police Department dating back to May 1976. All quotes are taken directly from the original report forms and some extrapolation is made for the description of the UFO(s) sighted, as not all of the report details were recorded in complete and full sentences by the dispatcher who received the report.Report 21: 1/23/80 at 22:30 -Description: This UFO was a "cylinder [shaped] object.  It had a “white light with a red dot.” The UFO was “over [the witness’s] roof top” and then “went behind the houses.” -How Many: 1 Sighted -Distance: "2 feet over [witness’s] roof top.” -Duration: 20 minutes Address: Fetsch Place -Witnesses: 1</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68590.html](http://www.nuforc.org/webreports/reports/068/S68590.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Eustis (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>This would have to be said and identified on all details of craft and lights seen by my Son and Daughter-n-Law only by them. I personally did not see this.  They did follow by car what they saw and video taped the event. I did see the actual video a few days later. Then I heard the next day from a fellow employee that she heard on a 104.4 I believe? FM Talk Show radio...Out of Fla.,... that people saw lights and shapes with lights in the sky in Altamonte Springs, Fla. and Orlando? Heard again from a co-worker...please contact us if need be or our Son for further questions or possible video to help in a possible investigation in what might have been seen with maybe alot of indiviuals that are not crazy, or nutts, or wanting any kind of publicity..  Sincerely, Diane B.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61422.html](http://www.nuforc.org/webreports/reports/061/S61422.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/161/S161737.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161735.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161847.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161736.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161746.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
