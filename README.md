@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:44 on 24 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:29 on 24 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Anacortes (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>14 yellowish circle of lights seen by 4 people east of Anacortes, WA.  For 5 minutes on 1-24-2015 at 23:30TO:  UFO REPORTING CENTER DATE:  SATURDAY, JANUARY 24. TIME: 23:30 PLACE:  2 MILES EAST OF THE CITY OF ANACORTES, WA, ON STATE HIGHWAY 20.  My wife and I were coming home from a play in Bellingham.  I was driving West on St Highway 20, 3 miles east of Anacortes.  As I was watching the next set of traffic lights, I noticed something that caught my eye above the traffic lights.  They seemed to be off the coast and over the water.  I drove through the intersection and they were still there.  There were about 8 yellowish colored lights in a circle about 25 degrees above the horizon.Down and to the left of the larger circle formation there was another formation.  It was smaller, maybe 5 lights.  The lights stayed in place, and did not change their relationship for a couple minutes.  We then pulled over on the highway near another car that had stopped and was also looking at the lights.  Then the lights started to change their spatial relationship with the other lights.  There was no audible noise.   The lights then started to just fade out one at a time.  It was cloudy and some fog outside.  My wife during this time had gotten out of the car and was attempting to photograph them with her phone.We live in Oak Harbor, which is home to Whidbey Naval Air Base.  We are very familiar with the Navy planes.  They usually fly in pairs and at most 3-4 planes in a formation.  I am a private pilot and very familiar with the airspace and the planes that fly in it.  It was hard to judge how far away the lights were, but they were not airplanes or helicopters.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116949.html](http://www.nuforc.org/webreports/reports/116/S116949.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Montevallo (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>It was 6:43 pm on spring creek road we were heading towards west when i look into the sky and saw at first one light that seemed between the colors of yellow and orange it soon disapeared and then three more appeared in a consecutive order perfectly one after another those all turned off and another appeared right under where the first one appeared then that one disappeared and the last one appeared where it first began and they all disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125431.html](http://www.nuforc.org/webreports/reports/125/S125431.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
