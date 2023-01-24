@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:31 on 24 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:30 on 24 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Eustis (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>This would have to be said and identified on all details of craft and lights seen by my Son and Daughter-n-Law only by them. I personally did not see this.  They did follow by car what they saw and video taped the event. I did see the actual video a few days later. Then I heard the next day from a fellow employee that she heard on a 104.4 I believe? FM Talk Show radio...Out of Fla.,... that people saw lights and shapes with lights in the sky in Altamonte Springs, Fla. and Orlando? Heard again from a co-worker...please contact us if need be or our Son for further questions or possible video to help in a possible investigation in what might have been seen with maybe alot of indiviuals that are not crazy, or nutts, or wanting any kind of publicity..  Sincerely, Diane B.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61422.html](http://www.nuforc.org/webreports/reports/061/S61422.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Leander (TX) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Day time UFO in Leander-TX seen by 5..My brother called me to the backyard. Wife,son, and daughter arrived. We observed the object moving in a northern direction. It was a metallic cylinder object, 100 - 150 feet tall, that stayed vertical without any rotation such as would occur if any part was, or acted as, an axis. Was observed through binoculars. It traveled at a constant speed, which was slow enough that when we followed it, we stayed with it easily without breaking the speed limit. We followed it on US Hwy 183 heading north to 2243 E. We then traveled on 2243 E. and pulled off the road. It passed over us. We used binoculars to again observe it. We then commenced east again intending to go to IH 35 and intercept it again. A dark helicopter was observed flying from the south at a high speed and at an altitude of about 500 feet (unknown if involved in incident). A small, low flying Cessna Skyhawk 150 was making signals to possibly a ground crew (not believed involved in incident). A jet fighter using afterburners was heading southwest at possibly 20,000 (unknown if involved). No military base close. We traveled to IH 35 and looked about but found nothing. We traveled west on Hwy 29. Observed (3) jet aircraft that appeared to be going vertical in v formation, in a flight path that would intercept the object, had it continued in the same direction of travel last seen by us.((NUFORC Note:  This report submitted by an individual who would be regarded as a responsible member of the community.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13506.html](http://www.nuforc.org/webreports/reports/013/S13506.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
