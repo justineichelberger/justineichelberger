@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:30 on 24 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:32 on 24 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Maui (HI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Bright spherical object seen on north side of MauiBright spherical object with vaguely identifiable contrail seen on north side of Maui, Hawaii at about 3:42 p.m. local time on Monday, January 24, 2005, about 15 or 20 miles north of Ka'anapali on State Highway 30.  Object appears to be headed into the ocean. I was stopped on the side of the road taking pictures, and only noticed the object in one of my pictures when I got home and downloaded them, so unfortunately I did not witness it with my own eyes.  I have previously sent a jpeg picture of the object to the www.nwlink.com website (ufocntr@nwlink.com) -- don't know if it's been posted on this website or not.  The picture was taken with a 5.0 megapixel camera set at 1/250 of a second, with an ISO of 50 and an 8.0 aperture. Not sure if the object is a crashing satellite or something else, but am interested in whether anyone else saw anything similar in the area that day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41834.html](http://www.nuforc.org/webreports/reports/041/S41834.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Washington (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>ufo I seen in washington pa.I was sitting on my patio at 8 pm getting some cold air when i looked back by my garage. I seen something in the sky. i got up and walked back there, it was dark but i could see it real good. it was about 20 feet off the ground . it was round , it had different colored lights down close to the bottom of it. they were flashing all around it, red, blue, yellow ,white, red, blue yellow white.in that order. there was no sound.i walked beside my garage , i was about  50 feet away from it.it was moving slow, i could have walked faster than it was moving.i was amazed at what i was seeing. i went to to get my girlfriend in the house. its about 10 feet from my garage. she didn't wanta see it i was in there for 2 minutes then i went back out. i looked where it was and now it was just a dot on the other side of town. about 6 or 7 miles away from where it was. i thought it moved away kinda fast. i know what i seen i seen one before when i was younger. it was moving north when i seen it.the night was very clear .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50017.html](http://www.nuforc.org/webreports/reports/050/S50017.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
