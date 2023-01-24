@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:47 on 24 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:32 on 24 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hernando (MS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I saw 3 oval bright white object go up and leave our atmosphere.  They left a trail like shootings stars going up instead of down.  It was pretty exciting.((NUFORC Note:  We suspect an evening sighting, but we cannot be certain.  The witness elects to remain anonymous, and provides no contact information.  We have amended the time above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106646.html](http://www.nuforc.org/webreports/reports/106/S106646.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in New York City (NY) reported seeing craft that fit the description of some '' over a period of approximately NA - NA minutes.</sub><blockquote><sub>Possible explanation for beams of light....A possible explanation for the beams of "laser" type light (horizon to sky) some people have witnessed could be an ongoing military project, which currently i believe is not classified. I have read extensively about this "project" online and in news sectors. Apparently the US military is developing a laser-based high energy beam system for disrupting/destroying satellites in orbit, they are also developing satellites with optic shields to prevent the same happening to our own. My guess is what people are seeing are tests being conducted on orbiting satellites and nothing more. Theoretically, a beam of concentrated light is fired at an orbiting satellite in the hopes of disrupting sensitive onboard navigation systems, thereby rendering it useless. By the same token, we are also protecting our own from the same possible fate by shielding any and all sensitive gear, including optical lenses, etc. It's just a guess...but seems likely. Any project requires some form of testing.((FOLLOW-UP CORRESPONDENCE TO WITNESS))Dear Mr. ((message deleted)), Thank you for your message and comment. I suspect our government is working on high-energy lasers, and other beam weapons.  However, I seriously doubt that they are testing them in public places, where the reflected light, if it struck a person on the ground or in the air, might blind the person. Thank you for your thoughts. Cordially, Peter Davenport((END CORRESPONDENCE))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27267.html](http://www.nuforc.org/webreports/reports/027/S27267.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
