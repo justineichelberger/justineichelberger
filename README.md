@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:30 on 25 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:45 on 25 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Reseda (San Fernando Valley) (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>object moving at great speed, stopping as if at the end of a pendulum, and then swung back, repeating the same movement many times.It was a clear night, the date above is an approximation. I saw an object, shape unkown, perform manouvers which seemed to defy the laws of physics. I saw a lighted object, perhaps eight lights in all. It seemed to be literally "tumbling" across the sky. It would go from the West end of the San Fernando Valley to the east end, and then back again. It did so very rapidly, and with no noise discernible to me. The strangest thing about its journeys, (even more strange than its speed an silence) was the fact that when it stopped, it stopped almost as if it was at the end of a pendulum swing, and then it swung back. I am a licensed private investigator, and a trained observer. I have above average intelligence, and am not prone to "seeing things."</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31625.html](http://www.nuforc.org/webreports/reports/031/S31625.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Petaling Jaya (Malaysia) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>triangle sheped craft threw out a stone which is glowingon the 25 of January 2011 at approximately 2.20 am my friend and i saw 2 strange craft in which the form of triangle howering around our place at petaling jaya.  the event lasted for 3 or 5 minits it its around 50 meters above us.  suddenly the craft threw out something like a stoned shape object and dissappered. when we approch the object it looks kike a glowing stone and it is hot we took the stone home. the stone was kind of smelly</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79832.html](http://www.nuforc.org/webreports/reports/079/S79832.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
