@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:32 on 25 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:30 on 25 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Machesney Park (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>COULD SEE HIGH INTENSITY LIGHTS (3) FROM 2 MILES.  TOO HIGH TO BE STREET LIGHTS AND TOO LOW TO BE AIRPLANE.  TRIANGLE  1 WHITE LIGHT ON EACH POINT, 1 ELONGATED RETANGLE RED LIGHT ON BACK CENTER ALMOST COVERING HALF OF OBJECT. OBJECT SEEMED TO BE STANDING STILL.  AS I GOT CLOSER IT WAS HOVERING OVER AREA AND SEEMED TO MOVE SLOWLY IN A SOUTH EASTERN DIRECTION. IT WAS WHEN I WAS TRAVELING IN THE SAME DIRECTION THAT I COULD SEE THE SHAPE.  IT WAS DARK IN COLOR BUT COULD ONLY SEE SHAPE.  THE LIGHTS WERE INTENSE.  I TURNED WEST AND TRAVELED ABOUT 1 MILE AND SAW #2 TRAVELING SOUTH WESTERN DIRECTION WITH THE SAME INTENSE LIGHTING, SAME HEIGTH IN SKY. I THEN TURNED NORTH AND #3 CAME OUT ABOVE MY SUB DIVISION SLOWLY AND HOVERED OVER MACHESNEY MALL WHICH WAS RIGHT NEXT TO ME.   I STOPPED AND WATCHED FOR A COUPLE MINUTES AND PROCEEDED AROUND THE CORNER TO MY HOME. WHILE STOPPED THE OBJECT SEEMED TO JUST STAND STILL IN THE SKY.  WATCHING FROM MY DRIVE I COULD SEE THE OBJECT SLOWLY MOVING SOUTH.  WHEN I WENT INTO MY HOME I COULD STILL SEE THE LIGHTS.  ALL 3 OBJECTS LOOKED IDENTICAL.  COULD NOT SEE ANY DETAIL ON OBJECT.  NOISE WAS LIKE A LOUD STEADY HUM LIKE FROM A HUGE ELECTRIC MOTOR.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16055.html](http://www.nuforc.org/webreports/reports/016/S16055.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Ripley (MS) reported seeing craft that fit the description of some 'Light' over a period of approximately 20:33 - 20:33 minutes.</sub><blockquote><sub>Looked like a star then started moving slowly. After a few minutes it streaked off as if it where the speed of light.My wife, her brother, and I were standing outside of our home when we saw what looked like a star. It was motionless at first and then it slowly started moving. I told my wife it was just a satellite or aircraft. After I said that the object took off. It streaked across the the sky faster than any man-made aircraft. Just guessing I would say it was going about 10 or 20 thousand miles per hour.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17618.html](http://www.nuforc.org/webreports/reports/017/S17618.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
