@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:25 on 25 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:27 on 25 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lake Oswego (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three large yellow/red lights travelling northeast at a rapid consistent rate.3 large yellow/red lights moving rapidly at same rate below cloud cover travelling in northeast direction, appearing to be gaining altitude until they either burnt out or went above cloud cover. Observers are a family of 4, mother, father and two sons.  The father of the family thinks that the final light appeared to be triangular in shape.  The mother did not notice this.bright flash in bellingham area.A flash of light lit my whole house. My dog freaked out.  At the same time a friend who lives 15 miles away witnessed this same light and his dog freaked out aswell.  I was wondering if anyone else noticed this.  I have never seen a UFO and don't nessasarly beleive in them, but I can not think of another explaination.  My girlfriend has witnessed a similar occurance.  Winter lighting???((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86838.html](http://www.nuforc.org/webreports/reports/086/S86838.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lake Oswego (OR) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright orange round in shape.Watched round orange ball traveling from south to northeast at speed of 100-200mph at elevation of maybe 2000ft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117005.html](http://www.nuforc.org/webreports/reports/117/S117005.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
