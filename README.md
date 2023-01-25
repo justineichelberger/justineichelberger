@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:28 on 25 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:23 on 25 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Acworth (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Fiery light, dog acting madWhen I was outside walking my dog before work, I saw a large flash of fiery type light. My dog started barking hysterically, and acting mad. He was showing his teeth and Growling. When I got home after work he was sitting in the corner of the den whining.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61276.html](http://www.nuforc.org/webreports/reports/061/S61276.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in Duluth (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>In the early morning on a winter day when I was younger, my friends and I had a sleep over, and one of my friends had a paper route, so we were out probally at 4:00 A.M. and this triangular object was suddenly noticed above us.In the early morning on a winter day when I was younger, my friends and I had a sleep over, and one of my friends had a paper route, so we were out probally at 4:00 A.M. and this triangular object was suddenly noticed above us. It was very hard to distinguish the border around the object, even though it was very low, and large. There were lights on each corner, or what looked to be the corners. and it was a bigger light like the color of the moon, and there was another light within the light that moved in a circle inside the big light. The friend with the paper route was the only one that didn't see it. becasue he was doing his route, but the other five of us saw it, and were very traumatized... and immediately ran back to the house.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04864.html](http://www.nuforc.org/webreports/reports/004/S04864.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
