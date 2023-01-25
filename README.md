@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:30 on 25 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:30 on 25 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Ripley (MS) reported seeing craft that fit the description of some 'Light' over a period of approximately 20:33 - 20:33 minutes.</sub><blockquote><sub>Looked like a star then started moving slowly. After a few minutes it streaked off as if it where the speed of light.My wife, her brother, and I were standing outside of our home when we saw what looked like a star. It was motionless at first and then it slowly started moving. I told my wife it was just a satellite or aircraft. After I said that the object took off. It streaked across the the sky faster than any man-made aircraft. Just guessing I would say it was going about 10 or 20 thousand miles per hour.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17618.html](http://www.nuforc.org/webreports/reports/017/S17618.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some '' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Young man and his mother were witness to approximately 4 objects overhead in a formation. His mother spoke with a pronounced German accent. They got our # by calling the local police, then the USAF.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01228.html](http://www.nuforc.org/webreports/reports/001/S01228.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
