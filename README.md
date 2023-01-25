@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:25 on 25 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:21:04 on 25 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Otterbein (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>bright orange circle of light that appeared and reappeared in a different location several timesI was traveling on US 52 heading toward West Lafayette and just coming into Otterbein.  I saw a bright, orange light in the sky that looked just a bit smaller than the lights on a plane usually look as it travels through the sky. Suddenly the light disappeared.  I thought perhaps it was a radio tower with a flashing light.  A few seconds later (probably between 10-15 seconds) the light reappeared to the left of where it originally was.  The light continued to do this five or six more times, moving left.  The last time I saw it was directly outside of my driver’s side window, and it seemed that it was as far off in the distance as originally.  One thing that struck me that was odd was that the light would disappear and reappear, but once it had reappeared it was almost as if I could still see a light or trace of where it had originally been, and then it would fade away. I never actually saw any trails or saw the light moving, it would just disappear completely and then reappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54948.html](http://www.nuforc.org/webreports/reports/054/S54948.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Begues (Catalonia, Spain) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>a total circle no ligths , only a litte ligth down of  blue i looked a circular plate around the sub power station spend 2 minutes and disappears((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74872.html](http://www.nuforc.org/webreports/reports/074/S74872.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
