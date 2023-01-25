@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:27 on 25 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:36 on 25 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lake Oswego (OR) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright orange round in shape.Watched round orange ball traveling from south to northeast at speed of 100-200mph at elevation of maybe 2000ft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117005.html](http://www.nuforc.org/webreports/reports/117/S117005.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Sidney (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Intense orange light, stationary for many minutes then moved up and was gone.Saw an extremely bright light close to the horizon.  It was orange in color and extremely bright.  Watched and it did not move.  Decided it must be a star or planet as it was stationary.  Kept driving and watching it.  It stayed in the same spot.  Then it seemed to start to move up.  Wasn't sure as I was driving, but it looked to just go straight up.  It did not change shape/get smaller or lose intensity of brightness like I think it would of it were moving away.  Looked to go up for a bit until we could not see it anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132299.html](http://www.nuforc.org/webreports/reports/132/S132299.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
