@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:33 on 24 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:29 on 25 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Jacksonville (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately Ongoing - Ongoing minutes.</sub><blockquote><sub>There is a bright light in the sky unmoving obviously not a helicopter the light seems to be circular no matter which side of it i drive to the light makes it impossible to see the object itself((NUFORC Note:  We suspect a celestial body, possibly Jupiter.  If the time indicated by the witness is p.m., then the object may be Venus.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132292.html](http://www.nuforc.org/webreports/reports/132/S132292.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Bricktown (NJ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A disk hoovered above the house I was staying at and then shot quickely out of sight.I was visiting an old roommate in New Jersey.  I had move out of state two years before.  She's the only one that knew about my reocurring nightmares.  I was discussing the fact that I hadn't had them since I left New Jersey.  It was my second day back since I moved.  I told her I hadn't even thought about them till last night when I had them again.  I use to dream of being in my crib and these small people would come right thru the walls and surround me.  I was unable to move.  As I was talking about it, we saw a bright light coming thru the livingroom window.  We went out side and looked up only to see a very large craft just hoovering above her house.We watched it for about 2 minuets before it began to move away very slowely, then it shot up and disappeared so fast.  We knew nothing on earth could move that quickely.I looked at her and said, "I didn't see anything, did you"?  She said, " me either".Neither one of us have talked about since.  I have never had the nightmares again.((NUFORC Note:  Date may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28151.html](http://www.nuforc.org/webreports/reports/028/S28151.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
