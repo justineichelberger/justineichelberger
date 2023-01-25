@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:23 on 25 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:32 on 25 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Kite (GA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Two huge rotating crafts seen over kite from a pond.On Thursday night on Jan 25, 2018, around the time 8:30 pm, my friend and I were around a fire in Meeks Community, Georgia, near a pond with a radio in the background and food on the fire my friend and I rushed towards lights in the sky, over Kite Georgia.  The lights looked like two separate objects it seemed as if the lights were spinning and almost communicating with each other.  The reason why I say that is because the lights swing left to right on both objects only to see two lights on each object until it went back to the left side to swing to the right again.  Again, there were two huge objects rotating with two lights apiece.  The lights in the rotation in both objects lasted 30 seconds.  The lights were yellow and white.  Separately on both objects, and both objects were BIG, had to be over Kite Georgia.  There in no doubt there were two objects.  There was no noise at all but the radio in the background.  This report is undisputed do to the facts there was two eyewitnesses.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138622.html](http://www.nuforc.org/webreports/reports/138/S138622.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Jupiter (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1:20 - 1:20 minutes.</sub><blockquote><sub>low altitude red glowing sphere, 500 feet overhead.  traveling from west to east at a rate of speed over 100mph.  No engine noise.  Clear night sky with little to no wind.  Watched sphere travel out over the ocean without a change in altitude or direction until it was no longer able to be seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106654.html](http://www.nuforc.org/webreports/reports/106/S106654.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
