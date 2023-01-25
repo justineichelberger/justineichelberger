@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:29 on 25 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:50 on 25 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Peterborough (Canada) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Circle of bright orange light moving across the sky and then suddenly disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152869.html](http://www.nuforc.org/webreports/reports/152/S152869.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Great Falls (14 miles north of) (MT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>falling star that exploded into green sparksOn January 25, 2005 at 6:25 p.m. I was driving north on Interstate 15 approximately 14 miles north of Great Falls, Montana when I saw  a "falling star" ahead of me through the windshield.  The object fell approximately at a 35-40 degree angle for about 2 seconds then exploded/fragmented and the sparks or fragments were of a green color.  It reminded me of an exploding fireworks.  The location in the night sky was to the N.E. of the place where the sun set.  In my windshield as I drove north it was in the top left part of my windshield.  There was a star in the sky nearest the horizon and the "falling star" was located between the star and the horizon.  I am guessing that what I saw was a fragmenting meteorite that hit the earth’s atmosphere.((NUFORC Note:  We spoke via telephone with this witness, and she seemed quite credible to us, and seemed to be a very objective, factual observer.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41635.html](http://www.nuforc.org/webreports/reports/041/S41635.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
