@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:23 on 26 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:29 on 26 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Phuket (Thailand) () reported seeing craft that fit the description of some '' over a period of approximately Continue - Continue minutes.</sub><blockquote><sub>Greetings from Thailand, coconut Island.  I have not seen UFO with my eyes but since last night very strange occurrences, strong feeling of presence and strange animal behavior.  On the sky Orion is shining, birds went quite since early this morning and seem to be hiding.  Strong visions of self healing using strange objects, in minds eye.  I do not believe in ET but I am spiritual.  Maybe all in head but it is scary.  Something has changed above since 12 January and knowing comes as 2 different race of ET began mass landing.  It feels that this time around this contact with our race will be conducted in unexpected matter.  Will sound very strange but I feel they took birds and left snakes.  I saw two and a small rat with a sore on the side.  It feels scary because it feels as if something is here above and they are landing more and more.  Maybe crazy.  Sorry to take your time.  Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152885.html](http://www.nuforc.org/webreports/reports/152/S152885.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Tulsa (OK) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was laying in bed trying to go to sleep and felt something slightly shaking my room and a very loud noise buzzing.  I looked out my window and couldn't see anything but it definitely sounded nothing like an airplane, car, helicopter.  It felt magnetic.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144656.html](http://www.nuforc.org/webreports/reports/144/S144656.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [211](http://www.nuforc.org/webreports/reports/161/S161774.html)
-- [210](http://www.nuforc.org/webreports/reports/161/S161770.html)
-- [209](http://www.nuforc.org/webreports/reports/161/S161788.html)
-- [208](http://www.nuforc.org/webreports/reports/162/S162083.html)
-- [207](http://www.nuforc.org/webreports/reports/161/S161782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
