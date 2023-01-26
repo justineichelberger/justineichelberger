@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:23 on 26 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:31 on 26 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>i heard an unknown and unhuman voice at 6 in the morningit was 6 in the morning and i was staightening my hair to get ready for school, all of a sudden my ears start hearing weird noises, i hadnt heard before, all of a sudden i hear the sariest voice ever i couldnt hear one word that could easily be heard as spanish or english it was an unkown lauguage and most important it didnt sound human. it sounded like an alien like in the movie the fourth kind.  I know i wasnt the only one that heard it my mother and so did other neighbors heard it too.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116968.html](http://www.nuforc.org/webreports/reports/116/S116968.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Hickory (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Object seem to be a unusually bright light, what I thought might be the north star.  Light was almost 3 times as bright.  Observing it for a few hours, it noticiably had a slow decend to it before it was no longer visible.  There were also other verified military aircraft or what seemed to be flying within it vicinity thoughout what seemed to be a decending craft or light of some sort.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132324.html](http://www.nuforc.org/webreports/reports/132/S132324.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [211](http://www.nuforc.org/webreports/reports/161/S161774.html)
-- [210](http://www.nuforc.org/webreports/reports/161/S161770.html)
-- [209](http://www.nuforc.org/webreports/reports/161/S161788.html)
-- [208](http://www.nuforc.org/webreports/reports/162/S162083.html)
-- [207](http://www.nuforc.org/webreports/reports/161/S161782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
