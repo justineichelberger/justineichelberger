@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 26 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:04 on 26 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Bright disc spotted over east Jacksonville near 295, with aircrafts following.Was outside taking out the trash and saw a strange light in the sky. I had my phone on me so I called my wife who was in the house and told her to get outside.  She was standing by the garage and I was walking back towards the house (about 90 feet).  My neighbor was also outside.  It appeared to be moving towards the ground, vertically towards the area where we live, then prior to it disappearing it moved back towards the sky.  It was bright and disk shaped, no sounds were present. It stayed in one place for a few seconds and then would move erratically in a chaotic pattern, but with no recognizable signature to identify it by any means.  It was not an aircraft, because immediately as this was happening we heard two jets (aircraft of jet-like origin) moving towards the object.  We tried to video tape this with the camera phone but it was too dark, and would not be sufficient for what we saw.  After we heard the jets coming towards the area of the object, it shot ac! ross the sky and disappeared.  The jets continued to make loud noise, but soon after were gone as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106687.html](http://www.nuforc.org/webreports/reports/106/S106687.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lehigh Valley (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>A triangle shape with bright lights in the front just above treeline.I was driving home with my friend and I was looking out the window to my right.  I saw what looked like stadium lights but there were no stadiums nearby nor did I see a pole to go with it.  We continued driving and when we turned a curve, we could see the side of it.  It looks like a triangle.  It stayed in one spot just above treeline.  There was nothing to explain what it was.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96106.html](http://www.nuforc.org/webreports/reports/096/S96106.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [211](http://www.nuforc.org/webreports/reports/161/S161774.html)
-- [210](http://www.nuforc.org/webreports/reports/161/S161770.html)
-- [209](http://www.nuforc.org/webreports/reports/161/S161788.html)
-- [208](http://www.nuforc.org/webreports/reports/162/S162083.html)
-- [207](http://www.nuforc.org/webreports/reports/161/S161782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
