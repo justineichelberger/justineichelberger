@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:25 on 25 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 26 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Otterbein (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>bright orange circle of light that appeared and reappeared in a different location several timesI was traveling on US 52 heading toward West Lafayette and just coming into Otterbein.  I saw a bright, orange light in the sky that looked just a bit smaller than the lights on a plane usually look as it travels through the sky. Suddenly the light disappeared.  I thought perhaps it was a radio tower with a flashing light.  A few seconds later (probably between 10-15 seconds) the light reappeared to the left of where it originally was.  The light continued to do this five or six more times, moving left.  The last time I saw it was directly outside of my driver’s side window, and it seemed that it was as far off in the distance as originally.  One thing that struck me that was odd was that the light would disappear and reappear, but once it had reappeared it was almost as if I could still see a light or trace of where it had originally been, and then it would fade away. I never actually saw any trails or saw the light moving, it would just disappear completely and then reappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54948.html](http://www.nuforc.org/webreports/reports/054/S54948.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Bright disc spotted over east Jacksonville near 295, with aircrafts following.Was outside taking out the trash and saw a strange light in the sky. I had my phone on me so I called my wife who was in the house and told her to get outside.  She was standing by the garage and I was walking back towards the house (about 90 feet).  My neighbor was also outside.  It appeared to be moving towards the ground, vertically towards the area where we live, then prior to it disappearing it moved back towards the sky.  It was bright and disk shaped, no sounds were present. It stayed in one place for a few seconds and then would move erratically in a chaotic pattern, but with no recognizable signature to identify it by any means.  It was not an aircraft, because immediately as this was happening we heard two jets (aircraft of jet-like origin) moving towards the object.  We tried to video tape this with the camera phone but it was too dark, and would not be sufficient for what we saw.  After we heard the jets coming towards the area of the object, it shot ac! ross the sky and disappeared.  The jets continued to make loud noise, but soon after were gone as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106687.html](http://www.nuforc.org/webreports/reports/106/S106687.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
