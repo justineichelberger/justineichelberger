@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:06:02 on 26 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:28 on 26 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Kahana Beach (HI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>A round or spherical light that was blue-green moved rapidly across the surface of the ocean.Early in the morning, before sunrise, I saw from my bed a round or spherical object moving rapidly in a northern direction across the surface (or just above the surface)of the ocean. It seemed identical to an object my wife and I had seen four mornings earlier at just about the same time. In this case, however, I saw the object for a somewhat longer period of time, since I leapt from my bed and went onto our waterfront deck, where I could observe it a bit longer and watched it grow faint and disappear as it apparently went away at a high rate of speed.((NUFORC Note:  Please see similar report from same witnesses for January 22, 2002.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21572.html](http://www.nuforc.org/webreports/reports/021/S21572.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Formation' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Diamond shape large object with 5 smaller objects duration 2 hrsOne very large object diamond shape in the sky SW.It moved horizontally, slightly while one smaller object to its left.  As the large object would move toward it it would back up.  This went on for an hour.  Then 1:00 am 4 other objects speared Below the large craft, quite a bit lower in an upside down T.  They were moving extremely slow.  I fell asleep around 2:00 am.  I was only awake because I have an Injury.  I got up to take an Advil.  I do not take drugs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116970.html](http://www.nuforc.org/webreports/reports/116/S116970.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [211](http://www.nuforc.org/webreports/reports/161/S161774.html)
-- [210](http://www.nuforc.org/webreports/reports/161/S161770.html)
-- [209](http://www.nuforc.org/webreports/reports/161/S161788.html)
-- [208](http://www.nuforc.org/webreports/reports/162/S162083.html)
-- [207](http://www.nuforc.org/webreports/reports/161/S161782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
