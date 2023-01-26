@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:25 on 26 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:40 on 26 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in San Clemente (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two bright orange/red orbs sighted over Pacific OceanSaw two orange/red orbs with consistent glow come off the horizon over the Pacific Ocean in perfect formation toward land at a slow rate of speed.  I went outside to see and listen there was no sound.  An airplane was flying by at same time and heard that.  Both orbs slowly came to a stop, one disappeared first then the other a few seconds later.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106700.html](http://www.nuforc.org/webreports/reports/106/S106700.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Marysville (WA) reported seeing craft that fit the description of some 'Cone' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Orange metallic aircraft that distorted photos near Marysville.The aircraft was an orange, metallic, oval shaped cone.  It was hovering near Marysville, and heading toward a mountain.  During the experience the aircraft shined brightly and was now white and harder to see.  It was not in the shape of a plane.  It wasn't a plane because it was hovering and slightly angled itself to go lower than went straight again.  I will still send pictures but I couldn't see the aircraft in the photo and the photos were distorted in some ways.  I was in the car ask it could be a car reflection but I will send it anyways.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116982.html](http://www.nuforc.org/webreports/reports/116/S116982.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [211](http://www.nuforc.org/webreports/reports/161/S161774.html)
-- [210](http://www.nuforc.org/webreports/reports/161/S161770.html)
-- [209](http://www.nuforc.org/webreports/reports/161/S161788.html)
-- [208](http://www.nuforc.org/webreports/reports/162/S162083.html)
-- [207](http://www.nuforc.org/webreports/reports/161/S161782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
