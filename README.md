@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:04 on 26 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:21:46 on 26 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lehigh Valley (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>A triangle shape with bright lights in the front just above treeline.I was driving home with my friend and I was looking out the window to my right.  I saw what looked like stadium lights but there were no stadiums nearby nor did I see a pole to go with it.  We continued driving and when we turned a curve, we could see the side of it.  It looks like a triangle.  It stayed in one spot just above treeline.  There was nothing to explain what it was.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96106.html](http://www.nuforc.org/webreports/reports/096/S96106.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Barnaul (Russia) () reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>I read the following in Ananova strange news: UFO closes Siberian airport A Siberian airport closed down after staff said a UFO was hovering over the runway. Pilots of planes trying to land and about to take off from the Barnaul airport also reported seeing the UFO. The lighted object stayed for an hour-and-a-half before disappearing as suddenly as it had arrived, the Interfax news agency reports. You would think they would have good pictures if it was there an hour and a half, so check it out please.((NUFORC Note:  We believe the alleged event occurred on 26JA01, Friday.  The incident has been reported widely in the international press, although with very few details.  We would like to know whether the investigators and reporters of the alleged incident had ruled out the possibility that the object observed might have been Venus in the southwestern sky.  The article does not say what time the alleged sighting occurred.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16067.html](http://www.nuforc.org/webreports/reports/016/S16067.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [211](http://www.nuforc.org/webreports/reports/161/S161774.html)
-- [210](http://www.nuforc.org/webreports/reports/161/S161770.html)
-- [209](http://www.nuforc.org/webreports/reports/161/S161788.html)
-- [208](http://www.nuforc.org/webreports/reports/162/S162083.html)
-- [207](http://www.nuforc.org/webreports/reports/161/S161782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
