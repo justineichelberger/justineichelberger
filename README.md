@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:32 on 26 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:27 on 26 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Manteca (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately ? - ? minutes.</sub><blockquote><sub>how interesting this triangle. about 10 - 11 years ago, it seemed to have been a dream yet my rememberance is like yesterday. after building a model which includes magnets in series,plastics, and a weird theory of propulsion .i still can't forget the sight of this vechicle.as far as triangular shape,a definitive 6 side pattern was relative throughout .the model i made is base upon what i experienced.and it creates warmth through the center drive hole . there are no batteries involved,yet,  each person i conduct a physical test with can feel the heat/warmth on their skin.each person has also told me where the object is in proportion of their body.(eyes closed and witnesses watching). i showed my folks the day after the "dream". my dad is a retired electrical engineer for the last 50 years.not any engineer.but one that works on military ships and submarines.after showing him my drawings and schematics of the vechicle and propulsion system on the day after my "dream". to this day he still tells me to be careful of whom i talk about this to. just recently i showed him the warmth i  found while playing around with some different shaped magnets. he was really surprised.i know i sound like i'm rambling, but hey, my buddies have heard, saw, felt this  for years now, so why not talk about it more openly.like the internet.in my personal opinion, the triangular shape is amazing important. mathmatics, locationally proportionate dimension, and in theory we must always triangulate  in order to come to a soultion. thanks for your time           inert particles in exact solution introduced into a field of positive or negative ions create ignition((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50823.html](http://www.nuforc.org/webreports/reports/050/S50823.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Chickasaw (AL) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>V shaped object witnessed in Chickasaw,Alabama ,4 very bright lights,very large in size,moving at different speeds and even standing stMy husband, myself,our children and a friend were driving home after a day out shopping.I looked up in the sky and saw lights,they were strange unlike a plane.My hubsband said it was a plane at first, but then saw it kept changing speeds.I told him it wasn`t a plane, he took a second look and said it looked as if it was falling.He then said it was a helicopter because it was so low. Then the object stood still in one spot for a few seconds and could watch it,and I got out of the car, the object was above me, it was in the shape of the letter "V" upside down.It had 4 big lights on it ,2 on each side.It turned in mid air and started to travel in the direction in which it came to begin with. It had no sound,it was extremely large in size,and very bright.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27319.html](http://www.nuforc.org/webreports/reports/027/S27319.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [211](http://www.nuforc.org/webreports/reports/161/S161774.html)
-- [210](http://www.nuforc.org/webreports/reports/161/S161770.html)
-- [209](http://www.nuforc.org/webreports/reports/161/S161788.html)
-- [208](http://www.nuforc.org/webreports/reports/162/S162083.html)
-- [207](http://www.nuforc.org/webreports/reports/161/S161782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
