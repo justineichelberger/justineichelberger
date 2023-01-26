@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:24 on 26 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:24 on 26 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Provo (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>White light, glides silently across the night sky...Family was returning home from dinner, and my husband and I looked up at the stars, because it had been a very hazy day, and it cleared up beautifully, when we both, almost simultaneously, noticed a white light, silently gliding across the sky.  We have seen the same thing before in Mesquite, NV, and Lancaster, CA, and quickly pointed it out to our children.  We were all watching it go across the sky, in a south-easterly direction, as it faded and disappeared.((NUFORC Note:  The description seems to us to be consistent with that of a satellite.  However, the ISS did not pass within sight of Provo on this date, according to www.heavens-above.com, so it may have been some other orbitting object.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54972.html](http://www.nuforc.org/webreports/reports/054/S54972.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Ashburn (GA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My husband and I witnessed a formation of lights above Ashburn, GA, a on I-75, headed south 01/26/15 at approximately 7 pm. There were six horizontal lights bright yellow orange lights that one by one turned off..it was gone for a few min then the lights were back and one by one shut off...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116988.html](http://www.nuforc.org/webreports/reports/116/S116988.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [211](http://www.nuforc.org/webreports/reports/161/S161774.html)
-- [210](http://www.nuforc.org/webreports/reports/161/S161770.html)
-- [209](http://www.nuforc.org/webreports/reports/161/S161788.html)
-- [208](http://www.nuforc.org/webreports/reports/162/S162083.html)
-- [207](http://www.nuforc.org/webreports/reports/161/S161782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
