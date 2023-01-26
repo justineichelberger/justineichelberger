@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:29 on 26 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:01:06 on 26 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Queen Creek (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Three of us were looking at Venus and Jupiter in the early morning sky, when we noticed a large ball of light, about the brightness of Venus, or a little brighter, just above Jupiter.  We looked back at Venus, then look back at Jupiter and the ball of light was gone.  We stared at it for a good 3 to 4 minutes wondering if it could be another planet, and remarking that it was in the wrong place for the planet alignment.  We looked away for only a second, look back and it was gone.  It had no movement nor did it have any flashing lights to represent an airplane or anything like that.  It just looked like a very bright planet just above Jupiter in the western sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125457.html](http://www.nuforc.org/webreports/reports/125/S125457.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Kelso (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Saw a fireball flyover Longview WA from Kelso WA.At about 1715 hours,  Me and a friend witnessed a streetlight colored fireball slowly flying from South to North over Longview WA, viewed from Kelso WA.  It continued on course until it faded under an observable star to the north, which star I have no idea, but it slowly faded away.  At the time we witnessed one plane to the south east, however it was too far away to of produced any flares, and it was on a descent course to Kelso Longview Regional Airport.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106696.html](http://www.nuforc.org/webreports/reports/106/S106696.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [211](http://www.nuforc.org/webreports/reports/161/S161774.html)
-- [210](http://www.nuforc.org/webreports/reports/161/S161770.html)
-- [209](http://www.nuforc.org/webreports/reports/161/S161788.html)
-- [208](http://www.nuforc.org/webreports/reports/162/S162083.html)
-- [207](http://www.nuforc.org/webreports/reports/161/S161782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
