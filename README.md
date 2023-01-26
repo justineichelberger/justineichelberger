@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:01:06 on 26 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:23 on 26 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Kelso (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Saw a fireball flyover Longview WA from Kelso WA.At about 1715 hours,  Me and a friend witnessed a streetlight colored fireball slowly flying from South to North over Longview WA, viewed from Kelso WA.  It continued on course until it faded under an observable star to the north, which star I have no idea, but it slowly faded away.  At the time we witnessed one plane to the south east, however it was too far away to of produced any flares, and it was on a descent course to Kelso Longview Regional Airport.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106696.html](http://www.nuforc.org/webreports/reports/106/S106696.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Phuket (Thailand) () reported seeing craft that fit the description of some '' over a period of approximately Continue - Continue minutes.</sub><blockquote><sub>Greetings from Thailand, coconut Island.  I have not seen UFO with my eyes but since last night very strange occurrences, strong feeling of presence and strange animal behavior.  On the sky Orion is shining, birds went quite since early this morning and seem to be hiding.  Strong visions of self healing using strange objects, in minds eye.  I do not believe in ET but I am spiritual.  Maybe all in head but it is scary.  Something has changed above since 12 January and knowing comes as 2 different race of ET began mass landing.  It feels that this time around this contact with our race will be conducted in unexpected matter.  Will sound very strange but I feel they took birds and left snakes.  I saw two and a small rat with a sore on the side.  It feels scary because it feels as if something is here above and they are landing more and more.  Maybe crazy.  Sorry to take your time.  Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152885.html](http://www.nuforc.org/webreports/reports/152/S152885.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [211](http://www.nuforc.org/webreports/reports/161/S161774.html)
-- [210](http://www.nuforc.org/webreports/reports/161/S161770.html)
-- [209](http://www.nuforc.org/webreports/reports/161/S161788.html)
-- [208](http://www.nuforc.org/webreports/reports/162/S162083.html)
-- [207](http://www.nuforc.org/webreports/reports/161/S161782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
