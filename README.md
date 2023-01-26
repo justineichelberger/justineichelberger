@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:27 on 26 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:31 on 26 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in  () reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>I followed an FAA regulation, and you went back on your word for me to remain anonymous. Now you've been removed from the 7110.65. HA!Peter, You seriously compromised my credability a few years ago... I havent forgot... just in case you forgot. You will no longer be listed in the 7110.65? Its because of what you did to me! If you'd been a real pilot you might have understood a real AC.((initials deleted))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  To the best of our knowledge, we have not revealed the name of anyone who has contacted our Center.  We have contacted the FAA offices in Washington, D.C., and they report that there has been no change in Regulation 7110.65, which invites Air Traffic Controllers, and Supervisors, to direct pilots and FAA personnel to contact NUFORC, or to other UFO investigative bodies, in the event that a suspected UFO sighting is reported to the FAA.  If the person who submitted this apparently bogus claim has a "beef" with NUFORC's operations, we would be happy to discuss the issue with him/her.  If NUFORC has erred, we would like to know about it, so that we can avoid a repeat of whatever transgression it is alleged we have committed.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68276.html](http://www.nuforc.org/webreports/reports/068/S68276.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Wheaton (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Big sphere blasts offTo start with.  I am not prone to making up stories.  I used to be in the military and was in air defense artillery, so I'm pretty sure I've seen most types of aircraft. Tonight, from my vantage point in a suburb of Chicago, I saw the most amazing thing I've ever seen.  In the southern sky at about a 45 degree angle, around 6:30, I saw a large, bright, globe shape.  To describe the size, take a 10 or 12 inch softball and hold it out at arms length, that’s about how big it appeared.  It seemed very far away.  My first reaction was, boy that’s an awful big star. Then I thought, it’s probably a planet, but they usually say something on the news.... About the time that thought passed, the sphere, started to get smaller; as if it were moving directly away from me.  Then it was out of sight.  This whole process took less than a few minutes.  I am amazed and stunned.  I have never seen anything like it.  Just amazing!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48868.html](http://www.nuforc.org/webreports/reports/048/S48868.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [211](http://www.nuforc.org/webreports/reports/161/S161774.html)
-- [210](http://www.nuforc.org/webreports/reports/161/S161770.html)
-- [209](http://www.nuforc.org/webreports/reports/161/S161788.html)
-- [208](http://www.nuforc.org/webreports/reports/162/S162083.html)
-- [207](http://www.nuforc.org/webreports/reports/161/S161782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
