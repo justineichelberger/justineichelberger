@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:29 on 26 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:29 on 26 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Tulsa (OK) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was laying in bed trying to go to sleep and felt something slightly shaking my room and a very loud noise buzzing.  I looked out my window and couldn't see anything but it definitely sounded nothing like an airplane, car, helicopter.  It felt magnetic.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144656.html](http://www.nuforc.org/webreports/reports/144/S144656.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in North Miami (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>Green ball shooting down to the earthI was driving on I-95 heading South towards Miami (between exit 12 and 14).  Something made me look up, and I saw a bright ball of green light.  The light was on my upper right side.  The ball of green light was not small, but very huge-like the moon size in the night sky.  As I caught this ball of light, I saw it literally shoot down, very fast, towards the ground of the city.  I didn't see anything afterwards.  It lasted only a few seconds, but it certainly was incredible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107194.html](http://www.nuforc.org/webreports/reports/107/S107194.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [211](http://www.nuforc.org/webreports/reports/161/S161774.html)
-- [210](http://www.nuforc.org/webreports/reports/161/S161770.html)
-- [209](http://www.nuforc.org/webreports/reports/161/S161788.html)
-- [208](http://www.nuforc.org/webreports/reports/162/S162083.html)
-- [207](http://www.nuforc.org/webreports/reports/161/S161782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
