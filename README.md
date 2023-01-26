@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:21:46 on 26 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:21 on 26 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Barnaul (Russia) () reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>I read the following in Ananova strange news: UFO closes Siberian airport A Siberian airport closed down after staff said a UFO was hovering over the runway. Pilots of planes trying to land and about to take off from the Barnaul airport also reported seeing the UFO. The lighted object stayed for an hour-and-a-half before disappearing as suddenly as it had arrived, the Interfax news agency reports. You would think they would have good pictures if it was there an hour and a half, so check it out please.((NUFORC Note:  We believe the alleged event occurred on 26JA01, Friday.  The incident has been reported widely in the international press, although with very few details.  We would like to know whether the investigators and reporters of the alleged incident had ruled out the possibility that the object observed might have been Venus in the southwestern sky.  The article does not say what time the alleged sighting occurred.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16067.html](http://www.nuforc.org/webreports/reports/016/S16067.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Summary : witnessed glowing bright green orb in the north west Las vegas sky. shot straight down at incredible speed and was gone.ON Monday 1/26/98 at 9:26pm I was sitting my computer and for no particular reason I decided to look out the window into the night sky. No higher than your average airliner I saw this glowing bright green orb. It was round like a ball.No more than 2 seconds after eye contact this thing shot straight down in a vertical line and it was gone... IT BLEW ME AWAY. I live 4 miles north west of the strip in Las Vegas.  I saw this over the North West sky.  Very strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03058.html](http://www.nuforc.org/webreports/reports/003/S03058.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [211](http://www.nuforc.org/webreports/reports/161/S161774.html)
-- [210](http://www.nuforc.org/webreports/reports/161/S161770.html)
-- [209](http://www.nuforc.org/webreports/reports/161/S161788.html)
-- [208](http://www.nuforc.org/webreports/reports/162/S162083.html)
-- [207](http://www.nuforc.org/webreports/reports/161/S161782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
