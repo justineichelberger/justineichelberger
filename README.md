@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:40 on 26 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:27 on 26 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Marysville (WA) reported seeing craft that fit the description of some 'Cone' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Orange metallic aircraft that distorted photos near Marysville.The aircraft was an orange, metallic, oval shaped cone.  It was hovering near Marysville, and heading toward a mountain.  During the experience the aircraft shined brightly and was now white and harder to see.  It was not in the shape of a plane.  It wasn't a plane because it was hovering and slightly angled itself to go lower than went straight again.  I will still send pictures but I couldn't see the aircraft in the photo and the photos were distorted in some ways.  I was in the car ask it could be a car reflection but I will send it anyways.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116982.html](http://www.nuforc.org/webreports/reports/116/S116982.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Westminster (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>I observed an unusually bright pure red light by itself, it was the size of a pea held at arms length. It was coming from the South West, a compass reading of 225 degrees and was headed North East, a compass reading of 45 degrees.It was January 26, 2000 at 7:10 PM (PST) when I observed an unusually bright pure red light by itself, it was the size of a pea held at arms length. It was coming from the South West, a compass reading of 225 degrees and was headed North East, a compass reading of 45 degrees. I was observing this unusually bright pure red light, waiting for it to turn or pass over me to see if it was an aircraft with the typical complement of flying lights. I watched this object for two minutes, then my daughter called to me and I looked down to her for two seconds. When I then looked back up at the red light, it was no longer there, instead there was a bright white cloud, it was the size of a silver dollar held at arms length. I ask my eight year old daughter to look up at this bright white cloud and I pointed where this bright white cloud was. After two minutes the white cloud had dissipated.  There was no sound of an explosion.  I live in Westminaster, California where I observed this red light.  To me this red light looked like it was coming from Long Beach, California and when it disappeared it was over Huntington Beach, California.  After the white cloud dissipated my daughter went in the house and I continued watching for another ten minutes, but the red light was no longer visible.  I live seven miles away from MacArthur airport and see airport traffic almost every day for the last fourteen years.  I was enlisted in the United State Air Force for five years, stationed on five different bases including one base over seas, been to several air shows and familiar with all types of aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11833.html](http://www.nuforc.org/webreports/reports/011/S11833.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [211](http://www.nuforc.org/webreports/reports/161/S161774.html)
-- [210](http://www.nuforc.org/webreports/reports/161/S161770.html)
-- [209](http://www.nuforc.org/webreports/reports/161/S161788.html)
-- [208](http://www.nuforc.org/webreports/reports/162/S162083.html)
-- [207](http://www.nuforc.org/webreports/reports/161/S161782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
