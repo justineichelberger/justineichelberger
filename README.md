@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:38 on 27 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:32 on 27 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Happy Valley-Goose Bay (Canada) (NF) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Star shaped,white,twice the size of Capella and slightly brighterI went outside just after 5AM Jan 27-2012 to let my dog out. It was clear, stars in abundance and the temperature in the -20's.   On the back patio facing North approximately 20 to 25 degrees above the horizon a bright object, star like but in an area where there shouldn't be a star.  It was the brightest object in a 180 degree arc from side to side.  The Constellation Cassiopeia was just to the right. Size wise it was about twice the size of the star Capella which was to my left.I am an amateur astronomer and it caught my eye immediately.  I observed it for 10 to 15 seconds and then it went out.  I say it this way as it was similar to a large spot light when turned off fading quickly to nothing.  The peculiar thing was that my eyes seemed to take a few seconds to adapt to the background where it had been before I could see the faint stars that are suppose to be there.  There was no missing time, the dog finished her job and I returned to the house.The light did not move. There was no sound.  I smelled nothing.  I have lived around an air base mostly all my life ( 53 years ) and it definitely was not an air craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86912.html](http://www.nuforc.org/webreports/reports/086/S86912.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Christiansburg (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Low flying triangle object  moving at a slow speedOn 1/27/09 I took my dogs out to do their business. I live in Christiansburg, Va. It was 6 am and fairly clear.  Sunrise wouldn’t be for almost an hour. I heard a funny noise above me, like a low rushing sound, and looked up and saw 3 steady white lights forming a perfect triangle. In the center was a flashing reddish light. It was very large and very low.  It moved slow, to slow for a jet. I’d say it was at about 500 ft. It was pitch black against the sky.  It was around 100ft between lights.I’m a airplane buff and my first thought was, it must be a B-2 on a training mission, But the more I thought about it, I knew it that couldn’t be as the triangle of lights was to large and perfect. Running lights on a B-2 wouldn’t form a perfect triangle. I did some research on navigation lights and haven’t found anything that would match up too what I saw. A jet would have been louder. I could barely hear it when it went almost right over my head moving off to the southeast.I’d like to know what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68438.html](http://www.nuforc.org/webreports/reports/068/S68438.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
