@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:53 on 27 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:26 on 27 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Elk City () reported seeing craft that fit the description of some 'Light' over a period of approximately 2880.0 - 2880.0 minutes.</sub><blockquote><sub>Singular white light in western sky . West of Elk City((NUFORC Note:  Venus.  Anonymous report.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132377.html](http://www.nuforc.org/webreports/reports/132/S132377.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Meridian (ID) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>My son was taking out the trash.  We saw a fireball a few years ago right down the street & talk about it all the time.  He started wondering if he actually saw what he thought because he was a few years younger.  He saw it small & I saw it as gigantic. Again,He saw a massive fireball craft traveling so slow above our shed he was sure he had time to run in the house to take us to the back. He ran in the house yelling come on, another fireball! He was shocked it already disappeared. Now he knows he has the gift to see them.  He has now seen them as much as his mother.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152960.html](http://www.nuforc.org/webreports/reports/152/S152960.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
