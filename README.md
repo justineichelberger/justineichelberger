@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:28 on 26 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:37 on 27 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Set of Orange Lights in the sky in San FranciscoLooked liked orange lights in the sky, could have been Chinese lanterns but did not move uniformly as I would expect them to if blown by the wind.  After conversing with several people on the street, I watched them fade one by one.  My daughter called later and said she saw 15 lights; I only saw 7.((NUFORC Note:  We spoke via telephone with this witness, and we found him to be well-spoken, serious-minded, and quite credible.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79854.html](http://www.nuforc.org/webreports/reports/079/S79854.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in San Gabriel Valley (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Craft was more or less in a holding pattern where it's path was none directional... and apered to rotate 180 degrees on its axis..or too much art bell.... which ever comes first.. or you want to belive! It changed course and headed west towards San Fernado Valley or about 35 miles untill oyut of sight...I cant believe that this might be what everybody is all talking about . I thought how nice....,it finally happened to me.............. ..but who knows....UFO  you bet ! What is it ? no idea.                                                                      I thought if somebody else saw what I did,, I would'nt look like one of those other Wacked out people somewhere in the mid-west or wherever! Let me know what's up!  ((e-address deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11806.html](http://www.nuforc.org/webreports/reports/011/S11806.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [211](http://www.nuforc.org/webreports/reports/161/S161774.html)
-- [210](http://www.nuforc.org/webreports/reports/161/S161770.html)
-- [209](http://www.nuforc.org/webreports/reports/161/S161788.html)
-- [208](http://www.nuforc.org/webreports/reports/162/S162083.html)
-- [207](http://www.nuforc.org/webreports/reports/161/S161782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
