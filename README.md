@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:37 on 27 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:35 on 27 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Camdenton (MO) reported seeing craft that fit the description of some 'Cone' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Brightly lit cone shaped object remained hours in same location making no sound.Just at dusk I was heading in from chores. I noticed a very unusual object high in the sky to the southeast of my home. It appeared to be a cone shaped object with bright red, blue and clear lights on it.  It appeared that the lights were blinking or revolving.  The object was stationary as I studied it in relation to the tree limbs.I first told my wife, who came out to observe it as well.  At 18:13 I placed a call to the Camden Co. Sheriff's Dept. and reported it.  A few minutes later, I called a friend from Lebanon, MO.  He went searched the sky, but could not see anything.  He stated he had seen something similar several times from his previous address, appearing to be over the Ft. Leonard Wood Area.I could not locate my field glasses to get a better look.  However, I took my rifle out and viewed  it through the scope.  Even at the distance it was away from me, the shape appeared to be cone shaped.  This way of viewing, it appeared to be spinning slowly, making the multi-colored lights appear to be blinking.  I did not hear any sound, even though I heard several jets pass by while viewing it.I returned outside at 21:00, observing it was still in the same place and still looks the same.  I hope others observed this and can explain what it was.((NUFORC Note:  Possible sighting of Sirius, we suspect??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125482.html](http://www.nuforc.org/webreports/reports/125/S125482.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Patur (India) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>It was on the last week of January, I don't recall the exact date that I was travelling from my home in Akola City towards Lonar Town in Buldana,  I was travelling (Driving ) alone as I had some work early on next day.  During the crossing of Patur Ghat (Valley), I noticed strange light something like Purple/Violet in colour flashing very briefly in the clouds which was unusual.  Even some of the vehicles (Truck Drivers) noticed this, as they also slowed their vehicle speed.  It was very brief, less than 10 seconds.  The Valley is a forest area.((NUFORC Note:  Source of report indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133004.html](http://www.nuforc.org/webreports/reports/133/S133004.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
