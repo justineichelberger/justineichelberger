@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:23 on 27 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:34 on 27 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Hudsonville (MI) reported seeing craft that fit the description of some '' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Blinding green flash of light about 2 seconds in duration.  Seen from inside home((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125480.html](http://www.nuforc.org/webreports/reports/125/S125480.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Laredo (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large object producing a large bright stream of light dissapear from the sky  like a flash !!!My daughter & I were driving home last night, 01/27/2009.  It was close to 10 pm in the north area of Laredo, TX.  As we turn south in one of the streets, we immediately noticed a very bright large stream of light ahead of us in the sky.  The stream of light was running horizontally illuminating the darkness east side of the sky.  We both looked trying to figure out what it was or where the light was coming from.  We realized that it was from a large object with dimmer light and haze floating in the sky.  The stream of light was like two huge lamps pointing east.  We can not precisely tell the form of the object producing the stream of light, but can definitely say it was moving and shortening the stream of light until both, object & light totally disappear instantly in front of our eyes like a flash!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68295.html](http://www.nuforc.org/webreports/reports/068/S68295.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
