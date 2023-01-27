@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:25 on 27 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:27 on 27 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Sackville (Canada) (NS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Bright-White round-shape in the sky for a couple of secondsSaw something that looked like a full moon, only bigger. It was very bright and only lasted for a couple of seconds. I was watching TV at the time with my father and we both saw it high in the sky through the patio window in our family room.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61261.html](http://www.nuforc.org/webreports/reports/061/S61261.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately Light - Light minutes.</sub><blockquote><sub>Very bright ball of light in skyWalked outside to smoke a cigerette with my husband before work and we seen 2 balls of light, one very bright and bigger than the other just hovering in the sky which seemed to be close to us you could see them moving around put staying in same spot a plane flew right passed them and they still stayed moving around in a circlular motion.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144682.html](http://www.nuforc.org/webreports/reports/144/S144682.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
