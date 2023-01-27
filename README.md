@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:27 on 27 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:27 on 27 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately Light - Light minutes.</sub><blockquote><sub>Very bright ball of light in skyWalked outside to smoke a cigerette with my husband before work and we seen 2 balls of light, one very bright and bigger than the other just hovering in the sky which seemed to be close to us you could see them moving around put staying in same spot a plane flew right passed them and they still stayed moving around in a circlular motion.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144682.html](http://www.nuforc.org/webreports/reports/144/S144682.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Garland (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Hazy light circling eradically overhead at 3:00 a.m. in an ever-changing mostly eliptical course, above the clouds.My friend and I went outside to smoke a cigarette around 11:00 PM 11/26 and witnessed a light circling around in the sky above my backyard. I also woke my mother up to see it, as well.  At first we thought it may be a spotlight (a new club opening up or something), but the center of the activity was in a strictly residential suburbian area and the light changed its course, moving eradically slow then fast and not in a perfect circle, sometimes a square or triangular course, and small then bigger ellipses, but always clockwise.  We could see no beams coming from the ground either, and the light seemed to be radiating parallel to the ground from an invisible object.  (It seems to beam out some at the right and left sides of the circumference, the course being mostly elliptical.)  It is now after 4:00 am 11/27, and the light is still there circling.  Last I checked I saw other light trailing it.  It was breaking in two at the middle of the course (bottom of ellipse) and then the smaller light followed it to the left and upward.  Kind of like the Atari game "Breakout" where it is guided.  Does that make sense?  It moved slow then fast like that.  And, the main light surged, too.  Like I said, it seemed to radiate from a center point above the clouds.  I also saw the light skip and appear further along the circumference immediately several times!  The light is not circular, but hazy (even inbetween the clouds where it is clear sky) and shapeless.  Not like any spotlight I’ve ever seen, and it’s in the middle of the night and has been going on for five hours.  Also, it held it’s position when we went to the front of the house, seemed to be circling over us at the same place as in the backyard.  So, it must have been pretty far away and high up over the clouds.  I hope this makes sense; I’ve tried to give as accurate of a description as possible.  I tried to capture it on camera, but it was too dark to pick anything up (maybe I just don't know how to use the thing!)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54973.html](http://www.nuforc.org/webreports/reports/054/S54973.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
