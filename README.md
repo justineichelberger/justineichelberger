@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:22 on 27 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:38 on 27 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Hudsonville (MI) reported seeing craft that fit the description of some '' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Blinding green flash of light about 2 seconds in duration.  Seen from inside home((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125480.html](http://www.nuforc.org/webreports/reports/125/S125480.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Happy Valley-Goose Bay (Canada) (NF) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Star shaped,white,twice the size of Capella and slightly brighterI went outside just after 5AM Jan 27-2012 to let my dog out. It was clear, stars in abundance and the temperature in the -20's.   On the back patio facing North approximately 20 to 25 degrees above the horizon a bright object, star like but in an area where there shouldn't be a star.  It was the brightest object in a 180 degree arc from side to side.  The Constellation Cassiopeia was just to the right. Size wise it was about twice the size of the star Capella which was to my left.I am an amateur astronomer and it caught my eye immediately.  I observed it for 10 to 15 seconds and then it went out.  I say it this way as it was similar to a large spot light when turned off fading quickly to nothing.  The peculiar thing was that my eyes seemed to take a few seconds to adapt to the background where it had been before I could see the faint stars that are suppose to be there.  There was no missing time, the dog finished her job and I returned to the house.The light did not move. There was no sound.  I smelled nothing.  I have lived around an air base mostly all my life ( 53 years ) and it definitely was not an air craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86912.html](http://www.nuforc.org/webreports/reports/086/S86912.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
