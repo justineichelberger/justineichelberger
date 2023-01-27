@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:24 on 27 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:29 on 27 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Fresno (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Numerous unknown objects flying in a cluster high over California.It had just rained in the morning and now in the afternoon the sky was clear and without haze.  The time was between 1600 and 1630 about an hour before the sun sets.  I was in my backyard working in the garden when I happened to look up and see some seagulls circling above.  Then further up in the sky a bright spot caught my eye.  Then another one and another until there was a bunch of them.  They were traveling northwest to southwest from my location.  At first I thought they might have been airplanes but I could not make out any wings.  They were very high in the sky so I thought maybe that might be why I could not see any.  The light I saw from them appeared to be reflection of the sun from something metallic. Most were not blinking but rather shown steady as a reflection.  However, there were a few in the center of the cluster that had a red glow that increased and decreased in intensity.  They were not in any formation.  They were scattered in an elongated bunch, some apart, some were close together.  After a minute or so I decided to try and count them. I got to ten but started to lose the front ones flying into the southwest.  I estimate that there were maybe 18 to 25.  They looked like stars.  Some brighter than others, but flying as a group.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117094.html](http://www.nuforc.org/webreports/reports/117/S117094.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in The Dalles (OR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>saw a large bright ball of light, low, fast and quiet,large bright white ball of light with what appeared to be a tail, traveling low in the horizon, south of The Dalles, from west to east, looked to be traveling about 3 times faster than an aircraft.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86873.html](http://www.nuforc.org/webreports/reports/086/S86873.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
