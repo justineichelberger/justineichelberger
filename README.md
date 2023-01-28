@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:24 on 28 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:24 on 28 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Wickliffe (KY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I viewed one elongated wide oval shape with a cloud-like color heading North at altitude 15-20K feet then stopping behind clouds.The first UFO I ever saw was in Kentucky just below the south tip of Illinois.  I was in a 20 ton waterfowl blind floating in 15 feet of rising waters of two connecting major Midwest rivers. I was looking up and duck hunters do that all the time.This sighting happened on January 28, 2006.  1,000 bobbing goose and duck decoys were at eye level.  In the Northwest blue sky there were two lanes of fluffy white clouds.  To the left of the first lane an object to stare at came into my view.  This oval shaped object was flying slowly like a big jet would at 30 thousand + or - feet in altitude.  There were clear edges to this oval.  There were no wings or tail structure at all.  A white cloudy texture was the only color.  Like it was using self administered camo just like the clouds ahead as it neared them. There was no shine at all.The UFO (with a white cloud-like camo) as an elongated but wide oval went behind the first lane of white clouds with the blue sky behind it.  The opening of the lane had a space about what your forefinger would have if you held it up.  This pill shaped object DID NOT come out of the first lane of clouds.  I stared for over a minute and it would not have taken but seconds for it to show in the blue lane between the clouds.  This UFO had actually stopped flying behind the first row of clouds!  Two men were on either side of me in the big floating blind.  The owner and his son.  There were two hunters in a boat coming over for a visit. I said nothing about that UFO to them.I caught a ride with the boat to change blinds as my long time friend had asked for me to move to another floating blind in a flooded corn field.  I told him what I had seen 20 minutes ago because he had seen a night time UFO event below a midwest ciy in the seventies.Two weeks later, after my waterfowl hunting trip.  A far western state resident, talking to the host of our nation's most listened to radio show, had seen a UFO's clone of my sighting!  It was an elongated oval shape with a cloud-like whitish color!   Yours truly, albeit an old report from Me!   _________________</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133636.html](http://www.nuforc.org/webreports/reports/133/S133636.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>6 objects Over TucsonThis evening outside looking NW  bright lights moving towards the southwest.  Change directions and altitude.  First appeared 1  bright round object orangelike fire.  Followed by the second of the same.  Two then appeared together and moved together and came close to each other,  The objects all moved straight down to the ground an disappeared.  A lone object of the same color appeared at the end of sighting event.  All objects lost intensity as the fell to the ground.  They moved in a general direction and them simply dived to the ground.  An amazing event.   A am sure many others also so this event including my wife</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86884.html](http://www.nuforc.org/webreports/reports/086/S86884.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161829.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161834.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161816.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161854.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161826.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
