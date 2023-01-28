@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:28 on 28 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 28 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Lanley (Canada) (BC) reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>i seen a bright light which look like one of the stars until i seen it wiggling and getting brighter and it shot up into space</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54998.html](http://www.nuforc.org/webreports/reports/054/S54998.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Woodland (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>As I was leaving work on Tuesday (1/28/2020), I looked to the night sky and saw about five (possibly more) orange orbs in the sky.  They were unlike anything I have ever seen.  They appeared as if they were hovering/floating in an upward, diagonal direction.  The orbs would float higher and higher until they disappeared one by one.  The entire event lasted about 5-7 minutes.I work in the middle of town near both residential and industrial areas.  I am not sure exactly how far the orbs  were from myself.  The Orbs did not make any noise that I could hear.  They were a glowing orange color and glowed at a consistent brightness.  As I said, I am not sure what I saw, I only know that I have never seen anything like it before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152939.html](http://www.nuforc.org/webreports/reports/152/S152939.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161829.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161834.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161816.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161854.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161826.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
