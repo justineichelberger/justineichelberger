@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:25 on 28 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:23 on 28 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Largo (FL) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 140</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144730.html](http://www.nuforc.org/webreports/reports/144/S144730.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1986, an anonymous witness in Clarkton (NC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Low flying, large cigar shaped craft close-up view the day of the Challenger disaster in 1986.On January 28th 1986 I viewed the Space Shuttle Challenger disaster on TV on a rare day off from commissioning a local power plant. After about an hour of watching it over and over again on TV, I was called-in to work.  I left around 1pm from Whiteville, NC to travel to Elizabethtown, NC.  I travelled Red Hill Road, a less used route, as I wanted to avoid lunch traffic in town.   Just a couple of miles from Clarkton, NC I started to pass through a wooded swamp area that had been heavily logged.From my right I caught a glimpse of something large through the open areas and remaining trees heading from my right to left (North to South). I slowed down as I was expecting to see some large Military aircraft travelling way to low or thought it could be a passenger jet about to crash.When it appeared in front of me over the open road I was shocked to see a craft that was metallic brown, cigar shaped, with either windows or squares and a ziz-zag pattern around them. The craft had no wings and there was no sound and was travelling too slowly for any aircraft I knew of to stay airborne.   I know this because this was not a distant sighting. The craft was right in front of me maybe 500 to 1000 yards away and I got the best and only view I have ever had of an unknown craft as it passed in front of me heading south.I had spent six years in the Navy and had been discharged only about 6 months prior. I had seen the Russian bear, migs, most of our jets and aircraft in Grenada, Lebanon, and all over the world.Later my wife and a friend brought food to the power plant for me.  When they arrived they were all excited about seeing dancing lights in the sky, the kind that dance around then join into one before travelling off at an astonishing speed. They witnessed this in the same area in the swamp on Red Hill Road just after sunset that day.It’s been 24 years since that sighting, and I don’t feel as uneasy talking about it now.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77851.html](http://www.nuforc.org/webreports/reports/077/S77851.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161829.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161834.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161816.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161854.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161826.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
