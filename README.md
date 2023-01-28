@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:38 on 27 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 28 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Easley (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Very bright white light, alarming speed and a change of direction.At 23:46 PM EST in Easley, SC I was located on the back deck facing the skies that Ursa Minor reside on the horizon and noticed a round, very bright light(I cannot state it as a craft) fly overhead closer than most planes that come out of the local airport fly by. It proceeded at a very alarming speed to the horizon, paused for not but a second and changed direction heading NW I believe. It was very agile in that its speed and turn were impeccable. The object appeared to move over miles easily, I've not seen any "shooting stars" or meteors in my time to stay on an even level as if it were in flight. The Light was very quiet and the event couldn't have lasted for more than 6-8 secs. I have heard rumors of a satellite that should be coming down and also of various fragments entering our atmosphere. The level of speed was simply astonishing and the way it changed direction was what made me contact you. I hope for my sake someone else reports seeing this. I left my contact info on your machine. Thank you for your time.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61250.html](http://www.nuforc.org/webreports/reports/061/S61250.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Little Elm (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>3 red lights moving slowly and making a humming sound.3 red lights moving slowly around 100 ft up.  It mad a low humming sound.  It also flashed white lights towards the ground for a brief moment.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106735.html](http://www.nuforc.org/webreports/reports/106/S106735.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
