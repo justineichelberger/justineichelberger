@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:25 on 28 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:27 on 28 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Santa Ana (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Two white spheres flying over anorange county freewayWhile at work as a receptionist in the lobby, I was admiring the blueness of the sky, when two very quickly  moving spheres caught my eye. I work one block away from the freeway; they would have been right over the freeway. They looked too spherical to be any other aircraft I know of. The UFOs were also moving with uncanny maneuverability and it was a weird mélange of white, and a clear metalic sheen. One was flying more erraticly with sharp quick turns as the ortherone was keeping pace but flying more smoothly. The crafts were too small to be helicopters and far too symetrical. Theydissapeared for about half second and reapeared for about 3 seconds and dissapeared compleatly. One last remark, the crafts were flying pretty low and wereclearly visible... If you happenned to be looking at the clear bluesky during those 5 seconds, I suppose.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74222.html](http://www.nuforc.org/webreports/reports/074/S74222.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Heflin (AL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Low flying angular object seen near Hollis Crossroads. Heflin, Alabama. Jan. 28 2006Me and three friends were on our way to Anniston, Alabama in two seperate vehicles. It was around 6 and it was dusk. There was still light in the sky and we could see an outline of the object we saw soon after. We had just turned at Hollis Crossroads and were driving down the road when we saw what was either a very low flying object, or an enormous object at a higher altitude. It was trianglular with a flashing green light on it. It moved slowly, or slower than a plane would, across our field of vision, which was the windshield since it was almost directly above us.  There were trees on either side of the road and it took up most of what part of the sky we could see. We called our friends in the other vehicle to ask them if they saw it, and they said they had and described it like we did. They were about 30 seconds in front of us and said they saw it going the other direction, as if it made a loop or a circle. There wasn't any airfield near by that we know about and it didn't look like any plane we had ever seen. If it was an airplane, it would have to be either landing, taking off, flying way too low, or gigantic. When we arrived at school the following Monday we found that 1 or 2 other people had seen the same thing at the same location. It was unlike anything we had ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48931.html](http://www.nuforc.org/webreports/reports/048/S48931.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161829.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161834.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161816.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161854.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161826.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
