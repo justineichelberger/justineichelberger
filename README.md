@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:27 on 28 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:33 on 28 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Puyallup (WA) reported seeing craft that fit the description of some '' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Telephoned Report: Two men telephoned NUFORC on their cell phone to report having witnessed and estimated 8-10 tiny white, metallic-appearing round objects following a gray, transport-type aircraft, as it approached their general location from the east. The men report that as the aircraft turned to the south, apparently turning south to land at McChord AFB, the objects suddenly accelerated, and quickly flew to the west out of the view of the witnesses. The sky was clear of clouds, at the time of the sighting. The witnesses telephoned the FAA Regional Headquarters to report the sighting, and the report was passed along to operations personnel in the FAA ARTCC in Auburn. The witnesses have not yet submitted a written report, despite two requests by NUFORC.  We will post their report at the next posting of newly received reports.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27528.html](http://www.nuforc.org/webreports/reports/027/S27528.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Morristown (TN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately most of the night - most of the night minutes.</sub><blockquote><sub>About an hour before my fiance had brought me out to see something… I noticed what felt like a small tremor or vibration that went through everything including myself.   We summed it up to be a train or something.  About an hour later, like I said, I followed my fiance outside to see 11 Bright beams of light coming up from the ground and straight up into the atmosphere.  One very strong large beam and ten smaller, then one separate large beam of light and smoky stuff about six yards in front of us forming and dissipating into the sky.  The others were seemingly very far away, but still very unusual, and had a definite hazy quality about the air that surrounded them.  They were very straight in nature, they were not conical.  Each end appeared the same width.  Though, as I said before, there was one larger, thicker, brighter, one.  I did consider that it could be weather-related.  I've lived in three states where it snowed, and I have never seen anything like this.  There was snow on the ground, but nothing coming down at that time.  Seemed very "rapture-like" in nature.  Almost cliche.  They remained in the sky until we stopped checking on them or later, which was sometime around 3am.  So over 6.5 hrs...  Sadly we could not get a photograph, as the lighting and distance were not suitable.  The lights ran NW to NE.  One witness was NE of us, but closer to the lights in relation.  He reported seeing the same thing.  I am a professional artist and if you would like a copy of the rendering, please email me at ((e-address deleted)).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106750.html](http://www.nuforc.org/webreports/reports/106/S106750.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161829.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161834.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161816.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161854.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161826.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
