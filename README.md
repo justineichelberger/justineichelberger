@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:26 on 28 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:22 on 28 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Chino (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orange lights over Pomona and Chino on 1-28-19I observed 3 orange lights traveling in a southeast direction three at a time.  They traveled over Pomona and over my house in Chino.  Aircraft from ONT were traveling West from ONT airport.  The first 3 orange lights traveled about a half mile apart and disappeared in the low clouds.  The next three traveled in the same path and the last one stopped overhead, hovered for about 10 seconds and disappeared in an upward motion.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144726.html](http://www.nuforc.org/webreports/reports/144/S144726.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Asheville (NC) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>dark pill shaped object over the black mountain rangeJan. 28th 2020  I drove into the golds gym parking lot because i was looking and taking pictures of the snow that fell on the black mountains.  I took multiple pictures from various vantage points within the same area of the mountain range that was visible after I parked the car and held my arm out of the window to get a better shot, I took multiple pictures in succession.Later planning to review them and find the best picture . I did not see this object when taking the pictures. I was holding my arm out of the car window because the front windshield is cracked and i didnt want those in the pictures .Later in the evening, I was scrolling through the pictures I had taken and noticed a black dot that i didn't see when taking them .I realized that the dot was no where in the other pictures that were taken merely seconds behind the previous ones. I realized that the black dot is not normal . The skies were clear no precipitation at all. The span of the mountain range I was taking pictures of is about 15 miles so any known aircraft would have shown up in a different picture but it did not .it was there then it was gone . While sitting there taking pictures over the course of 2 or 3 minutes i didn't witness any aircraft in the sky ,I didn't even notice this until I reviewed them later. I do not know how any craft we are familiar with would be there one second and gone the next.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152981.html](http://www.nuforc.org/webreports/reports/152/S152981.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161829.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161834.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161816.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161854.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161826.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
