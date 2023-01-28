@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:20 on 28 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:33 on 28 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Port St. Lucie (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Fiery orb traveled from north to south at a fast, but steady, speed.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117029.html](http://www.nuforc.org/webreports/reports/117/S117029.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Perris (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Large black triangle hovering between 1500-2500 high then slowly crept northward at 50-80mph.Date: Jan28, 2010 Time:  ~ 6:00 pm.I was driving southbound on the 215 from Redlands, CA towards Temecula.  I saw lights hovering for many minutes wondering what it was off in the distance.  Typically I see planes flying low along this stretch of highway because they are landing at March Air Reserve Base, but this was no jet.  I was just north of Ethanac exit when the object was directly overhead.  The object had caused many of the drivers on the freeway to slow and gaze upward.  I pretty much stopped and stared up at a huge black triangle.  There were 3 lights, white, not blinking at all at each apex.  The triangle was equilateral in shape.  It did not make any noise. The object was between 150-250 ft across, from tip to midpoint of opposite edge.I exited the freeway and made two rights to head north again.  I phoned home and told my girlfriend what happened.  I tried to catch up to the object but with recent rain and poor quality of roads as well as obeying traffic laws I could not get underneath it again.  Eventually I pulled over and watch it float northward directly over the base and continue going.Background of witness: •	College Graduate:  BS Geography •	31 year old male •	Long time resident of area where triangle observed •	Working professional for large geographic science software company •	20/20 vision – good health (mentally and physically) •	Familiarity with commercial and military aircraft shapes and sizes. Personally witnessed B2 stealth bomber flying over Chargers stadium during super bowl. What I saw was not a b2 bomber.  Lived just north of NAS Miramar for many years.•	Upon reading findings from The National Institute for Discovery Science regarding triangle sightings I decided to report what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74225.html](http://www.nuforc.org/webreports/reports/074/S74225.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161829.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161834.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161816.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161854.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161826.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
