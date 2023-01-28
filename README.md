@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:17 on 28 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:22:48 on 28 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Rowlett (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I saw what looked like an airplane with a large orange flame behind it and the engine roar was quite loud.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125543.html](http://www.nuforc.org/webreports/reports/125/S125543.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Pierre (SD) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>THE UFO RECOGNIZED SOMEBODY WAS WATCHING AND IT STOPPED, HOVERED FOR A MINUTE BEFORE BLASTING OFF TO SPACE.Monday at 9:00pm I witnessed a U.F.O that resembled a star.  It was bright and shiny, shaped like an elongated football; height from the ground was 200 feet.  It must of thought I wasn’t watching until I started chasing towards the U.F.O.  Then it started moving towards the east, going fast and it stopped abruptly, one bright fluorescent light shined bright, then two green lights came on which must have been it back.  The object made a shuttering noise, before leaven my sight towards a 45 degree departure to space.  I was scared because it recognized I was watching it, and reacted by slowing down and left my sight of vision. I hope the people of the world, start looking up every night.  Thank you for reading my U.F.O. experience.((NUFORC Note:  We spoke via telephone with the witness and found him to be sincere and serious-minded.  We have changed the data above, to reflect a sighting on Monday, January 28, 2013.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96172.html](http://www.nuforc.org/webreports/reports/096/S96172.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161829.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161834.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161816.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161854.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161826.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
