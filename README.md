@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:56 on 28 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:20 on 28 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Chandler (AZ) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>A very serious-minded sounding young woman called to report that she thought something had "happened" to her sometime during the previous day.  She had seen "aliens in her dreams," and had awakened with a sore throat, a crust around her nose, and other physical anomalies. She is a retired patrol sergeant, and she sounds to be a no-nonesense type person.  She sounded to be emotionally distraught, and was calling to seek help, most of all in the form of the name of a person, whom she could contact regarding her presumed interaction, perhaps, with something unexplained.  I gave her Bob and Cecilia Dean's telephone number in Tucson, AZ.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01231.html](http://www.nuforc.org/webreports/reports/001/S01231.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Port St. Lucie (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Fiery orb traveled from north to south at a fast, but steady, speed.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117029.html](http://www.nuforc.org/webreports/reports/117/S117029.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161829.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161834.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161816.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161854.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161826.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
