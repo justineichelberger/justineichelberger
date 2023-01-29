@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:10 on 29 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:24:39 on 29 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Hurricane (UT) reported seeing craft that fit the description of some '' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>It was a clear winter night with no clouds.  To the west/southwest of me I observed three (3) red/orange lights in the sky.  The lights were moving in a controlled manner and appeared to be following each other.  There were no other flashing or blinking lights on the red/orange lights.  The lights made a sweeping turn and one by one faded out and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86901.html](http://www.nuforc.org/webreports/reports/086/S86901.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Whittier (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Fast moving Fireball over Whittier, CAAt approximately 8:20 pm January 29,2009 my wife and I were taking a walk with our daughter when my wife saw a bright white light appear in the sky out of nowhere from the Northwest. The light was as bright as the evening star. We were walking near the corner of Citrustree and Santa Gertrudes in East Whittier. It then disappeared, but then reappeared very faint. It continued to travel at a high rate of speed getting larger as it came closer to us. The light traveled in a Southeast direction, but change color from white to orange to red then back to white. Each color lasting for for a few seconds. There were no trademark flashing lights like aircraft, and it was not in the typical flight pattern of this area. We have lived here in Whittier, CA our whole life right under the LAX final approach pattern and it looked nothing like an aircraft. It was traveling much too fast to be an airplane or helicopter. There was no sound. After watching this for about 3 to 4 minutes the the Fireball vanished into thin air. We continued to watch the area for another few minutes and nothing could be seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68336.html](http://www.nuforc.org/webreports/reports/068/S68336.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/162/S162188.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161828.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161831.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161830.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
