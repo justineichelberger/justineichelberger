@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:19 on 29 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:23 on 29 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Studio City (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two erratic bright white lights seen in Southern California daytime skyMy wife and I were having breakfast at a bagel shop at 12914 Ventura Blvd this morning. We were seated outside, and near the end of our meal, I glanced around the sky.  It was such a beautiful and clear Southern California day, especially after the recent storms in the area.  While looking around, I noticed a twinkling white light to the north, about the same height in the sky as the top of a street light pole on Ventura Blvd from where we were seated. I first thought that it was a very bright and early star, but the twinkling was too bright to the naked eye, and I immediately observed very slow movement.  My next thought was a potential satellite sighting, but no straight flight path existed — movement was somewhat erratic, though slow at times.  This was easily confirmed due to the light’s position just to the right of the street light pole, which allowed me a point of reference in the sky.The light was far too high, to my observation, to be commercial aircraft (best guess was 150,000ft or more) — it was too erratic and slow for a satellite path, and it also didn’t appear to be any type of rocket (to my knowledge) due to it’s start-stop movement.  The emitting of light (or glinting of sunlight off of the object, which was another thought) also had no pattern and seemed to be random, almost as if the object was spinning about — at times it became so dim to the point that I’d thought it disappeared, then it would randomly shine bright seconds later, as bright as a star in the early evening or early morning sky.  The level of brightness was observed changing drastically without obstruction as the light slowly pinged about the clear blue sky.A second white light holding the same characteristics was also observed momentarily, further up in the sky and to the left of the first light I fixated upon.  To confirm, my wife and I both observed these objects and all of the mentioned movements/lights.  The only further detail I observed on the main light was the emission of tiny, nearly invisible, red lights — these seemed to be ejected from the object and quickly disappeared into the blue of the sky.  This detail was very hard for me to see, but I know that I did observe this.I captured iPhone video of this sighting, and upon review later in the day, both white lights (along with their visual characteristics and movements) can be clearly seen in the footage.  This entire event lasted over 3 minutes.  I captured over 2 1/2 minutes of footage, but I did have to stop recording because we had to get going about our business.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132369.html](http://www.nuforc.org/webreports/reports/132/S132369.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Eads (TN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 32</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162084.html](http://www.nuforc.org/webreports/reports/162/S162084.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/162/S162188.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161828.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161831.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161830.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
