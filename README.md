@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:02:12 on 29 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:26 on 29 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Louisburg (NC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Dimly-lit objects seen racing over north carolina skyClear, star-filled sky. Was outside in the driveway smoking a cig, looking at Orion.  I observed two oval/rice-shaped objects moving at a high speed, south to north, in a straight and parallel formation.One of the objects accelerated a short distace ahead, and the other caught up immediately. When the second object "caught-up" with the other, the first again accelerated to what would appear to be the same distance ahead of the other.  The second object again "caught-up" to the first.  Both flight-paths were side-by-side and looked almost like they were on "rails".  This was all within a few short seconds and both objects were moving continuously fast the whole time.  Faster than a jet seen from the NE sky shortly thereafter.  They were last seen leaving over the northern horizon.Both objects were identical and had well-defined edges.  Silvery and white.  Not brilliant, almost "dim"  They had defined edges were to "perfect" to be a shooting star.  The intensity of the lights never changed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79875.html](http://www.nuforc.org/webreports/reports/079/S79875.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>5 red orange lights coming together, forming a circle, and rising up out of sight.Above LA, there were 5 red orange lights at high speed which appeared to come from 4 different directions and formed a perfect circle.  The circle of lights rose together higher and higher and within 5 seconds, the lights were no longer visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27507.html](http://www.nuforc.org/webreports/reports/027/S27507.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/162/S162188.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161828.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161831.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161830.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
