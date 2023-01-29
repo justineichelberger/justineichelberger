@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:23 on 29 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:25 on 29 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Hartford (CT) reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>2 very unusual possibly related events correspond  in time with no explanantion in Connecticut.there was a mysterious power blowout affecting thousands in the Manchester CT area last night. I, in Hartford, witnessed an arcing sensation outside and the lights/ tv and computer dimmed briefly/ a pop noise and appliances/lights kind of fizzled. It was exceptional in that I felt that something big had happened.That night on coast to coast, a caller from the another corner of the state(Westport, CT) related to George Noory on coast to coast that he witnessed an incredibly huge craft thousands of feet in the air with blinking lights and an antenna coming down from its underside. It was over US95 in Westport. the local utilities and newstation claim today they are puzzled byt the electrical failure.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34783.html](http://www.nuforc.org/webreports/reports/034/S34783.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Clermont (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Orange and white lights cruising eastward toward Orlando.I was heading east on Highway 50 in Clermont, Florida for work this morning, 1/29/2019 at 5:35 AM.,  Saw a pair of bright lights headed east at around 500’, moving at a speed of about 200 miles/hour.The lights were not flashing, and one was immediately above the other either on a single structure or in very tight formation.  Their relative position to one another did not deviate, and they did not turn.  They drove directly eastward in a straight path into the clouds above Orlando.When it was overhead, I could not see a structure against the black night sky.  I only saw the top light as bright orange, and the lower light as bright white.This structure/formation did not make any noise like a low flying jet on approach.  As I proceeded east from Hwy 50 to the Florida Turnpike, I saw the flashing lights of approaching aircraft from normal planes.  What I saw did not look like these.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144717.html](http://www.nuforc.org/webreports/reports/144/S144717.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/162/S162188.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161828.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161831.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161830.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
