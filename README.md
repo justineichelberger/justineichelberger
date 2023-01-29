@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:30 on 29 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:10 on 29 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Hillsboro (OR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Hollow sounding booms followed by bright white flashes from the sky one mile south of Hillsboro airport.Five loud, hollow sounding booms about three to five seconds apart.  Each boom was followed about 1/4 second later by a bright white flash (bright enough to reflect off the wall of an adjacent building).  Seemed to be coming from the sky about one mile south of the Hillsboro airport.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126104.html](http://www.nuforc.org/webreports/reports/126/S126104.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Hurricane (UT) reported seeing craft that fit the description of some '' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>It was a clear winter night with no clouds.  To the west/southwest of me I observed three (3) red/orange lights in the sky.  The lights were moving in a controlled manner and appeared to be following each other.  There were no other flashing or blinking lights on the red/orange lights.  The lights made a sweeping turn and one by one faded out and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86901.html](http://www.nuforc.org/webreports/reports/086/S86901.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/162/S162188.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161828.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161831.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161830.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
