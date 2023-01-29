@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:25 on 29 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:29 on 29 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Clermont (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Orange and white lights cruising eastward toward Orlando.I was heading east on Highway 50 in Clermont, Florida for work this morning, 1/29/2019 at 5:35 AM.,  Saw a pair of bright lights headed east at around 500’, moving at a speed of about 200 miles/hour.The lights were not flashing, and one was immediately above the other either on a single structure or in very tight formation.  Their relative position to one another did not deviate, and they did not turn.  They drove directly eastward in a straight path into the clouds above Orlando.When it was overhead, I could not see a structure against the black night sky.  I only saw the top light as bright orange, and the lower light as bright white.This structure/formation did not make any noise like a low flying jet on approach.  As I proceeded east from Hwy 50 to the Florida Turnpike, I saw the flashing lights of approaching aircraft from normal planes.  What I saw did not look like these.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144717.html](http://www.nuforc.org/webreports/reports/144/S144717.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Irvine (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Triangular shapeObject barely visible except for lighting in center and at rear of object.Was moving accross sky heading NW at slow pace then changed and went North East.  Could not see anymore because I was on the freeway.Never saw anything move that quick before in my life!((NUFORC Note:  We wonder whether the witness intended to indicate a date of January 29, 2003, not 2002.  We have amended the date here, until we hear otherwise.  We would contact him, but he provides no internet contact information.  We would like to correspond with him.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27380.html](http://www.nuforc.org/webreports/reports/027/S27380.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/162/S162188.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161828.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161831.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161830.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
