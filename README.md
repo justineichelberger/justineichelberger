@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:21 on 29 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:28 on 29 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Tewksbury (MA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>A loud pulsating sound of low tone/pitch woke me up at approximately 3:00AM EST.  The sound seemed to get closer and further away at random intervals.  I've never heard a sound like this before.  This did not sound like a combustion motor or any other motor I have heard.  I tried to see if I could see anything in the sky but could not.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132355.html](http://www.nuforc.org/webreports/reports/132/S132355.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>5 red orange lights coming together, forming a circle, and rising up out of sight.Above LA, there were 5 red orange lights at high speed which appeared to come from 4 different directions and formed a perfect circle.  The circle of lights rose together higher and higher and within 5 seconds, the lights were no longer visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27507.html](http://www.nuforc.org/webreports/reports/027/S27507.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/162/S162188.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161828.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161831.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161830.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
