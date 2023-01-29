@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:12 on 29 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:29 on 29 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Amboy (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>driving in the desert saw lights moving rapidly, and saw the craft on the ground.the caft was about 15ft high 20ft long, it had 6 wings, 6 legs or post, neon colors moving around on the craft rapidly going in ever direction and changing colors. The body was longer then it was wide it was flat on the bottom and the wings were either in the front or the back of the craft couldnt tell,  there was three going horizontly on one side and three on the other side, in the middle of the wings there was a half circle of the color pink that was not moving, the craft was on the ground the legs were, we were driving in the desert about 20 ft from it there was also another car in front of us who saw it after driving about 2 miles we both stop and decided to turn around but the craft was no longer there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48935.html](http://www.nuforc.org/webreports/reports/048/S48935.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Bakersfield (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately prolonged - prolonged minutes.</sub><blockquote><sub>Friend and I saw a planet or moon.  Reddish yellow and craters. Half showing in west,  20 times size of moon half showing with horizon.I could not cut and paste on my computer.  My friend and I were going about 6 blocks away to Lowes.  When we turned West on Panama Lane, I said, "Do you see what I see?" My friend said, "Yes."   It looked bright and reddish yellow with craters.  I thought it was Mars and then the moon.   It wasn't far from us.  It was about 30 times the size of the moon.  It seemed as though it would collide into Earth.  (It was that close)  We could see half as it was in the horizon like the sun going down.  I was so busy and figured that I would here about it from TV or radio or newspaper.   I was so busy that I didn't even try to here from the media the next day.   So many people were driving.  I should have flagged people down or ran back to get my camera.   It bothers me that I don't hear about anyone seeing this.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96729.html](http://www.nuforc.org/webreports/reports/096/S96729.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/162/S162188.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161828.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161831.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161830.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
