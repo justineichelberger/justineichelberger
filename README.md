@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:57 on 29 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:31 on 29 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Levittown (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>i was out driving around with my girlfriend when i noticed bright lights in the sky . i was watching them as i was driving so just so i didnt lose them i pulled into a section where theres a little open feild so i could watch them alittle better.up in the sky was 2 triangle objects with 4 very bright lights on the bottom of both of them. they were so close together i knew they couldnt be airplains. my girlfriend turned down my radio and told me to open my window to see if it made any noise. and it didnt.so we sat there watching it for about 20 min then the one turned enough so where u could see red and green lights along the sides of them. and they started moving slow...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34964.html](http://www.nuforc.org/webreports/reports/034/S34964.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Camano Island (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Object in the sky emitting light trail unaccompanied by jet.Last time, I wasn't sure if it was a UFO, but this time, I got a real picture.  I was burning some wood on the farm, and then I noticed a small contrail in the sky.  I thought, hmm, okay I will take a picture.  I took one, the trail was small.  Then I took another, then it was slightly bigger.  I watched it until it seemed to go away behind trees or leave the atmosphere, but I did see the aircraft seem to stop moving or slow down.  I couldn't see it for a long time.  When I looked at my phone and zoomed in, there seems to be a sphere aircraft of some kind at the end of the trail.  Can you guys examine it too see if it.((NUFORC Note:  We believe a contrail behind a jet.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117037.html](http://www.nuforc.org/webreports/reports/117/S117037.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/162/S162188.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161828.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161831.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161830.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
