@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:29 on 29 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:34 on 29 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Irvine (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Triangular shapeObject barely visible except for lighting in center and at rear of object.Was moving accross sky heading NW at slow pace then changed and went North East.  Could not see anymore because I was on the freeway.Never saw anything move that quick before in my life!((NUFORC Note:  We wonder whether the witness intended to indicate a date of January 29, 2003, not 2002.  We have amended the date here, until we hear otherwise.  We would contact him, but he provides no internet contact information.  We would like to correspond with him.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27380.html](http://www.nuforc.org/webreports/reports/027/S27380.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Wahiawa (HI) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Unique shaped object in Wahiawa sky...did anyone else see this thing?Object caught my eye as I got off a bus and was crossing the street. It first looked like 3 balloons together, but was moving oddly, like skipping in the sky, moving weirdly, but steady across the sky (not up like a balloon would do) and then it began to change shape or gave a different view and I noticed it was paper thin, and then realized it was not balloons and looked very foreign in the sky. Watched it slowly crossing the sky heading north west in a steady path, but the object was flexible or flexing. Very hard to describe, but watched for awhile and kept the object in view for a long time. It did not go up or down, no noise and I wish I took a photo. I'm hoping someone else saw this thing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16096.html](http://www.nuforc.org/webreports/reports/016/S16096.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/162/S162188.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161828.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161831.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161830.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
