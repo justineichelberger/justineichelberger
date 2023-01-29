@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:29 on 29 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:25 on 29 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Doral (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>Unusual flight patterns and missile like objects in Doral FloridaFrom:  ((name deleted)) Re: Unusual SightingOn January 29th 2011 at around 5:40 I observed an object descending from the sky in a vertical direction . My first thought was that a plane was coming down , then it continued to descend leaving a huge curved Contrail that made an unusual turn and then a vertical drop ,larger than any plane can make…I can not see an object ,just the path it took.. It was moving very fast and it came very low. I live on a fifth floor and my balcony faces west and south west.  It was at a distance but I can see that it made contact with another object and after a minutes I saw what appears to be a missile like object propel from the ground and shoot up to the sky where it continued traveling until it disappeared into the sky….I contacted the airport and was told that there were no unidentified objects on their radar….All this activity took about 12-15 min…</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79971.html](http://www.nuforc.org/webreports/reports/079/S79971.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Pennsauken (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>suspicious   moving lights no sounds  in the sky   to close to the groundin my way home we saw what appear to look six lights but what call my attention was that in that part of the sky is imposible to place lights that was when I told my friend junior to stop his truck and we jumped to the ground .personaly what I saw was 2 separate ufo very close to each other steady in the air (no movement)(no sound) like if they were watching something suddenly one of then turned off it lights for 3 seconds and then turned then back on 3 seconds later both of then started moving very slow getting lost.we sat down and discussed what we really saw and concluded that those things couldnt be planes or helicopters because of the proximity to the ground which was very very close and besides they didnt produce no sound at all. I knew from the begining of this situation when I saw the lights that they were not regular and that we were facing something unknown.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34793.html](http://www.nuforc.org/webreports/reports/034/S34793.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/162/S162188.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161828.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161831.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161830.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
