@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:22 on 29 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:12 on 29 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Palm Beach Gardens (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Located about ESE , about 3 miles distance from the ocean, obvious stationary  above the ocean.  Round bright whitish- not moving for a long time.  Enough time for me to get binoculars and see it much better, around static center has a moving very bright pulsating light going around clockwise. I try to record but only with iPhone, too small( though much, much bigger then any star). I got few photos also with IPhone.Waked up from my sleep by our dog who as never wanted to go outside.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106747.html](http://www.nuforc.org/webreports/reports/106/S106747.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Amboy (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>driving in the desert saw lights moving rapidly, and saw the craft on the ground.the caft was about 15ft high 20ft long, it had 6 wings, 6 legs or post, neon colors moving around on the craft rapidly going in ever direction and changing colors. The body was longer then it was wide it was flat on the bottom and the wings were either in the front or the back of the craft couldnt tell,  there was three going horizontly on one side and three on the other side, in the middle of the wings there was a half circle of the color pink that was not moving, the craft was on the ground the legs were, we were driving in the desert about 20 ft from it there was also another car in front of us who saw it after driving about 2 miles we both stop and decided to turn around but the craft was no longer there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48935.html](http://www.nuforc.org/webreports/reports/048/S48935.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/162/S162188.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161828.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161831.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161830.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
