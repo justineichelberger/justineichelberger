@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:25 on 29 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:57 on 29 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Pennsauken (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>suspicious   moving lights no sounds  in the sky   to close to the groundin my way home we saw what appear to look six lights but what call my attention was that in that part of the sky is imposible to place lights that was when I told my friend junior to stop his truck and we jumped to the ground .personaly what I saw was 2 separate ufo very close to each other steady in the air (no movement)(no sound) like if they were watching something suddenly one of then turned off it lights for 3 seconds and then turned then back on 3 seconds later both of then started moving very slow getting lost.we sat down and discussed what we really saw and concluded that those things couldnt be planes or helicopters because of the proximity to the ground which was very very close and besides they didnt produce no sound at all. I knew from the begining of this situation when I saw the lights that they were not regular and that we were facing something unknown.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34793.html](http://www.nuforc.org/webreports/reports/034/S34793.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Levittown (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>i was out driving around with my girlfriend when i noticed bright lights in the sky . i was watching them as i was driving so just so i didnt lose them i pulled into a section where theres a little open feild so i could watch them alittle better.up in the sky was 2 triangle objects with 4 very bright lights on the bottom of both of them. they were so close together i knew they couldnt be airplains. my girlfriend turned down my radio and told me to open my window to see if it made any noise. and it didnt.so we sat there watching it for about 20 min then the one turned enough so where u could see red and green lights along the sides of them. and they started moving slow...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34964.html](http://www.nuforc.org/webreports/reports/034/S34964.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/162/S162188.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161828.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161831.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161830.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
