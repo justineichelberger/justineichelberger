@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:23 on 29 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:27 on 29 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Bountiful (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright light - minimal movement.  Too high to be a helicopter. No known planes or stars in the area.In the dark of night we saw a light in the western region of the valley. We thought it was a helicopter.  However, it was too high and too stationary for it to be a helicopter.  We looked up flights in the area as well as star charts and could not find an explanation.  However, we do notice that it is moving minimally very minimally side to side.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132371.html](http://www.nuforc.org/webreports/reports/132/S132371.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in St. Augustine (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Low, orange, bright, fast, quiet, ambient, ufo.One very bright orange light that moved through space like there were no laws of gravity.  It appeared to be a shooting star with no tail, and flew about half as low as plane generally do but could glide up and down like paper in breeze.  I followed it to the water front where as my view was obscured for ten seconds as I ran by trees and the craft was gone. it's bright light will stay in my memory like it knew I could see.  Minutes after I hear the sound of a plane flying by with no plane close enough to be making that noise. while it was directly above me I heard no noise, saw no machinery (wings, flashing lights, no object itself.)  Only the light.  It had to be traveling at four or fives times the speed of any other plane I saw in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96140.html](http://www.nuforc.org/webreports/reports/096/S96140.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/162/S162188.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161828.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161831.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161830.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
