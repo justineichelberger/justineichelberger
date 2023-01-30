@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 30 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:44 on 30 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lafayette (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>I was outside this morning and my eye was caught by a moving light.  I then saw more lights and they joined up in a line formation and then hovered for about five seconds.  They just shot straight up fast.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86905.html](http://www.nuforc.org/webreports/reports/086/S86905.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately 45+ - 45+ minutes.</sub><blockquote><sub>Crescent shaped object with red, green, and white lights to the east of Denver.Me and my best friend went outside on my front porch (which faces east) to have a cigarette. He noticed an odd, bright light hovering in the sky. At first we thought it was just a planet or an exceptionally bright star, but it began blinking red, green and white lights. After about 20 minutes of watching, it began to move around in zigzag and circular patterns. As it moved around and came closer, we were able to discern the object was crescent shaped. It alternated between moving at a regular, steady pace and quickly darting around. We are two college students, both majoring in social sciences (I am an anthropology major, and he is a psychology major). We both pride ourselves on being highly rational. After discussing it in depth, we could find no logical explanation for what this object was other than a UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61307.html](http://www.nuforc.org/webreports/reports/061/S61307.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
