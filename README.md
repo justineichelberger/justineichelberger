@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:26 on 30 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:34 on 30 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Calabash (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>It first appeared to be a glittering star drifting left to right and then upward.January 30th, 2012 I was waiting for the coffee to brew on my couch at 5am this morning.  I noticed what appeared to be a large yellowish flickering star.  It appeared to be moving left to right. The movement was so slow I doubted myself.  I only became very interested in what I was seeing when I noticed the object move upward.  I called my wife and we both watch the object.  The object had a very noticeable red light and an occasional aqua light glimmering off one side.I retrieved my 8x30 Leupold optics which worked amazing.  As the object got closer it became almost transparent.  I would compare it to the look of a jelly fish, Translucent with a notable shape and appearance.I then noticed another object approach from under the first object.  It was the exact same in appearance.  The initial object casted a light which seemed to draw the second object toward it . There was an obvious line separating the two close objects.  This is when a black circle appeared (had a very perfect shape with a light outline) and went back and forth between the two objects.  I would say the black circle was 1/3 the size of the two object together.This went on for only a minute, then the two original objects where one.  I watched this entire event transpiring in amazement.  The now one large circle began to glow.  When it came close enough I was able to see into the shape.  It was almost like veins running throughout the inside.  There were light red and aqua flashes he whole time, some times more intense than others.  I would describe this like a lighting storm contained inside this sphere.This is when the object seemed to pick a path and started moving away and moving upward at a constant but slow pace.  I watched the object until 6am.  When my binoculars were not powerful enough to see detail in simply looked like a flickering yellow star.This was truly an unexplained sighting. I would love any information you may have in concluding what my wife and I saw.  I once witnessed an Aurora Borealis, I know science has explanations,  I’ve never read about anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86904.html](http://www.nuforc.org/webreports/reports/086/S86904.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Cumbernauld (UK/Scotland) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Green light flying from right to left stops then shoots upward and awayobject green in colour flew through the sky from left to right stopped then shot upwards and away we both saw it looked at each other my wife asked me did you just see that and i said yes we dont like speaking about it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61374.html](http://www.nuforc.org/webreports/reports/061/S61374.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
