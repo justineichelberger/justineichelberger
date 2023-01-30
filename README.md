@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:33 on 30 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:41 on 30 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Maryville (TN) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two bright red lights appeared from the west on a clear cold Thursday night just a couple of miles from my home.I was driving south on US Hwy 411 about 8 miles north of the town of Maryville at about 8:30 pm when something caught my eye in the sky.  Two bright red lights were just above the tree tops ahead and a little to the west of me.  As I watched, they moved slowly from west to east pretty much maintaining level.  I was traveling at about 40 mph and the road makes a slow arc to the east there and then a quick reverse S west and back due south.  This put me almost directly behind the lights overhead.The lights had disappeared behind the trees for a couple of seconds as I negotiated the curves going over a rise and into a dip before the road leveled out still heading south.  The lights were moving south, too, but faster than I was moving.  The sky was very dark, but I could just make out what appeared to be a dark boomerang shape with large red lights on each end.  The shadowy shape was much thicker in the middle, where the sweep back of the shape originated, and tapered as it got to the ends.  The lights were large, round, and intensely bright.The closer they got the brighter they appeared.  At the closest point to me, I would estimate the craft was about 100-120 yards long.  If it was that long, it would be 30-50 ft thick at the center.  As it continued south, I would estimate it to be couple of hundred feet off the ground as tree tops would obscure it as I would go into dips in the 2 lane highway.I lost sight of it when I made a right turn and dropped into a dip.  When I came out of the dip, I was able to catch sight of it only for a couple more seconds.  As close as the lights were together then, I would guess it to be about three miles away and still just a few hundred feet off the ground.  Another dip and I didn’t see it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106801.html](http://www.nuforc.org/webreports/reports/106/S106801.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Morgan Hill (12 mi. north of on 101) (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Stationary object off US 101, blinding lights flashing and then disappeared.Sunday night approximately around 8:15PM while driving on US 101, myself and 50-100 cars abruptly stopped on the freeway. Off to the right of the freeway was an intensly bright white/yellow light. The light was so blinding that I held my hand up to shield my eyes while trying to figure out what the object we were seeing was. A police officer was also on the freeway, he was out of his car also staring at the object. The object did not appear to be moving, it was flashing its lights in a three on-off pattern. The object remained for about two minutes, flashed three more times and then was gone. Freeway traffic began to pick up once again and I did not see the object anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41697.html](http://www.nuforc.org/webreports/reports/041/S41697.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
