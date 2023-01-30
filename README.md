@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:45 on 30 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:28 on 30 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Milton (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>It was dark(about 7pm) an I had just passed NAS Whiting Field on hwy 87 heading south towards Milton, alongside a few other vehicles.Right before hwy 89 came up on my right-hand side, 3 bright lights in a triangle shape caught my eye for about 8 or so seconds. Between 500ft to 2000ft in ele. moving southwest at 300-600 mph in a steady line. Lost sight because of tress after less than 10 seconds.Lights were moving in perfect unison so I assume it was one craft that was triangle shape but it was dark an only saw the lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161842.html](http://www.nuforc.org/webreports/reports/161/S161842.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Corte Madera (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Huge glowing red craft emerges from behind  Corte Madera hillside.I saw a huge red glowing object, shaped like a football with curved right and left sides, but way more circular and fat from top to bottom, literally rise straight up from behind a hill in Corte Madera, that sits on the Bay just east of Hwy. 101.  I have never seen anything quite like this in all my life.  This craft rapidly approached a cluster of yellow gold luminous objects that I had been watching for the last couple of minutes.  It started out as 2 or 3 lights, and then there were 5, and then 8, lights in a V-formation and in a straight line in front of this hill.  This glowing red object had no features except a sort of brim around the center, making it look like two inverted bowls held together and was strobing and pulsating in one color-a dark red.  It was huge compared to these other yellow gold lights and looked very solid and metallic.  It suddenly banked and headed to the south through San Francisco and kept going very fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117651.html](http://www.nuforc.org/webreports/reports/117/S117651.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
