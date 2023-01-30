@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:38 on 30 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:32 on 30 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Somersworth (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I went outside for a smoke at about 2:30 am on 1/30/17.  I was looking at the stars as usual and pointing out the planets to myself when I noticed what looked like a very bright star but it was flashing and remained very still, which led me to believe it was just a star.  After about 3 minutes I noticed it started to move, it stayed in the same general area but it zig zagged left and right, up and down for the next ten to fifteen minutes before I went inside.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132379.html](http://www.nuforc.org/webreports/reports/132/S132379.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lacey (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>silver shape object that moved then stayed in one spoti smoke outside because i have 2 young children and i always look to the sky espacially when its clear i was watching a comercial airliner traveling north to land at sea tac airport when i saw a silver round shaped object fly over the airliner at a much higher altitude traveling at a south east direction so i kept my eye on it and followed it trying to figure what it was then i lost it in the tree line so i adjusted my veiw and surched for the object and found it smaller in ,size but stationed in one spot . at that time, i called some one out of the house to make sure i wasnt going crazy and they saw it too we tried to film it but i dont think the lighting was good enough or our camera wouldnt zoom enough? ,it stayed in that spot for 40 min. but then it was time to go so tomorrow i will look at the same spot in the sky to see if it is there again i know what i saw im not crazy in broud day light wow weird stuff</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68373.html](http://www.nuforc.org/webreports/reports/068/S68373.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
