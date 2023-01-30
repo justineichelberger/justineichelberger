@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:28 on 30 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:33 on 30 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Corte Madera (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Huge glowing red craft emerges from behind  Corte Madera hillside.I saw a huge red glowing object, shaped like a football with curved right and left sides, but way more circular and fat from top to bottom, literally rise straight up from behind a hill in Corte Madera, that sits on the Bay just east of Hwy. 101.  I have never seen anything quite like this in all my life.  This craft rapidly approached a cluster of yellow gold luminous objects that I had been watching for the last couple of minutes.  It started out as 2 or 3 lights, and then there were 5, and then 8, lights in a V-formation and in a straight line in front of this hill.  This glowing red object had no features except a sort of brim around the center, making it look like two inverted bowls held together and was strobing and pulsating in one color-a dark red.  It was huge compared to these other yellow gold lights and looked very solid and metallic.  It suddenly banked and headed to the south through San Francisco and kept going very fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117651.html](http://www.nuforc.org/webreports/reports/117/S117651.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Maryville (TN) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two bright red lights appeared from the west on a clear cold Thursday night just a couple of miles from my home.I was driving south on US Hwy 411 about 8 miles north of the town of Maryville at about 8:30 pm when something caught my eye in the sky.  Two bright red lights were just above the tree tops ahead and a little to the west of me.  As I watched, they moved slowly from west to east pretty much maintaining level.  I was traveling at about 40 mph and the road makes a slow arc to the east there and then a quick reverse S west and back due south.  This put me almost directly behind the lights overhead.The lights had disappeared behind the trees for a couple of seconds as I negotiated the curves going over a rise and into a dip before the road leveled out still heading south.  The lights were moving south, too, but faster than I was moving.  The sky was very dark, but I could just make out what appeared to be a dark boomerang shape with large red lights on each end.  The shadowy shape was much thicker in the middle, where the sweep back of the shape originated, and tapered as it got to the ends.  The lights were large, round, and intensely bright.The closer they got the brighter they appeared.  At the closest point to me, I would estimate the craft was about 100-120 yards long.  If it was that long, it would be 30-50 ft thick at the center.  As it continued south, I would estimate it to be couple of hundred feet off the ground as tree tops would obscure it as I would go into dips in the 2 lane highway.I lost sight of it when I made a right turn and dropped into a dip.  When I came out of the dip, I was able to catch sight of it only for a couple more seconds.  As close as the lights were together then, I would guess it to be about three miles away and still just a few hundred feet off the ground.  Another dip and I didn’t see it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106801.html](http://www.nuforc.org/webreports/reports/106/S106801.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
