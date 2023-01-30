@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:46 on 30 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:38 on 30 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Olympia (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>A man calls to report that his 3-year old daughter is complaining about "the lizard men with red eyes" that have been outside her bedroom window.  He seeks help.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00302.html](http://www.nuforc.org/webreports/reports/000/S00302.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Somersworth (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I went outside for a smoke at about 2:30 am on 1/30/17.  I was looking at the stars as usual and pointing out the planets to myself when I noticed what looked like a very bright star but it was flashing and remained very still, which led me to believe it was just a star.  After about 3 minutes I noticed it started to move, it stayed in the same general area but it zig zagged left and right, up and down for the next ten to fifteen minutes before I went inside.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132379.html](http://www.nuforc.org/webreports/reports/132/S132379.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
