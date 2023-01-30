@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:34 on 30 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:46 on 30 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Madison (WI) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately  -  minutes.</sub><blockquote><sub>air force storymy firend works for the air force has been there 20 yrs and i was out with him one night at a place eating with a older man who retired from the air force i joking asked are there ufo's the old man got quite and looked at me and stated "no one will belive you anway so ill tell you ive seen them" them he later added the "grey" and talked about a peice of metal he personal held that was like tin foil thickness and when you crushed it the tin foil returned back to it normal shape.. this man eyes never left mine he spoke straight out not thinking just spoke. i was numb and freaked out.. then i asked about area 51 and he wouldnt admit to it and also changed the story very quick.. but assured me that all "things we have now came from them" and we still dont know everything yet.. i have no reason to lie on this site just wanted to share my story((NUFORC Note:  Witness elects to remain anonymous; provides no contact information.  Possible hoax, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68358.html](http://www.nuforc.org/webreports/reports/068/S68358.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Ketchikan (AK) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Explosive light over Alaska skiesI don't have pictures but am in search of someone who can tell me what's going on in the skies over Southeast Alaska. Not only have we <as well as many others in town> seen numerous times, unexplained bright lights in the sky that have flashing red and blue and move like a UFO, but tonight topped them all. While standing on the patio, for about 4 seconds I saw an extremely bright object flying in a downward motion with lights that looked like explosions that were so bright, they shone through the clouds. I've seen falling stars and meteors; this was definitely a UFO. I remember I saw a documentary once that showed pictures from the atmosphere of spaceships flying around Earth and then what looked like gunfire from Earth towards them, like we were shooting at them.This is exactly what it looked like. Just wondering who can tell me what's going on over our Alaska skies. Thanks...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34789.html](http://www.nuforc.org/webreports/reports/034/S34789.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
