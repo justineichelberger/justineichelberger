@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:19:50 on 30 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:25 on 30 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Henrico (VA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Eyewitness lights in the sky that hovered far above a house through my woods I have seen similar events on different days. This one did appear a bit different in shape. I was able to see airplanes going by as well it lasted for about 30 minutes I videotaped several videos and took photos.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161860.html](http://www.nuforc.org/webreports/reports/161/S161860.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Kenilworth (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>One star started doing figure 8's around the other starJanuary 30, 2019, 5:30 am.  I was in the driveway looking at the Moon, Jupiter, and Venus.  It was a very clear and cold morning.  I decided to look for constellations, if I could at least see a few stars in one since there is a lot of light pollution.I didn't see any constellations, just a few random stars, here and there.  Then I looked straight overhead and saw two stars close together and they looked very high up there.  I thought it was strange they were so close together.I wasn't looking at them too long when one star started to do figure 8's around the other star.  It did it a few times then it started moving to the right and away, at a speed that wasn't fast or slow.   The other star never moved at all.They looked like a flat white color.  Didn't have sparkle to them and they weren't as bright as the other stars in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144721.html](http://www.nuforc.org/webreports/reports/144/S144721.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
