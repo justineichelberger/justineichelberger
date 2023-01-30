@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:25 on 30 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:20 on 30 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Kenilworth (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>One star started doing figure 8's around the other starJanuary 30, 2019, 5:30 am.  I was in the driveway looking at the Moon, Jupiter, and Venus.  It was a very clear and cold morning.  I decided to look for constellations, if I could at least see a few stars in one since there is a lot of light pollution.I didn't see any constellations, just a few random stars, here and there.  Then I looked straight overhead and saw two stars close together and they looked very high up there.  I thought it was strange they were so close together.I wasn't looking at them too long when one star started to do figure 8's around the other star.  It did it a few times then it started moving to the right and away, at a speed that wasn't fast or slow.   The other star never moved at all.They looked like a flat white color.  Didn't have sparkle to them and they weren't as bright as the other stars in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144721.html](http://www.nuforc.org/webreports/reports/144/S144721.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Yelm (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Well My boyfriend (nathan) and I were driving on Yelm highway which is in the boonies. There are no street lights and the road is surrounded by forest. On a side note half of yelm (the forest) is owned by the military.. Fort Lewis. So nathan and I were rocking out to the music and all of sudden I see this aircraft hoovering above the trees right beside the highway. The aircraft was traingular and had two square lights at the bottom and there was no cockpit in sight. It was thick and it had a light at every corner. We were driving by it slowly but some dumbass was on our ass looking at the thing too, we almost get in a car accident. We manage to recover and just drive away. I kept looking at the aircraft trying to see if I could find any of resemblance to our aircrafts. The oddest thing was that it hoovered and there was no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41726.html](http://www.nuforc.org/webreports/reports/041/S41726.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
