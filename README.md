@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:20 on 30 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:34 on 30 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Yelm (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Well My boyfriend (nathan) and I were driving on Yelm highway which is in the boonies. There are no street lights and the road is surrounded by forest. On a side note half of yelm (the forest) is owned by the military.. Fort Lewis. So nathan and I were rocking out to the music and all of sudden I see this aircraft hoovering above the trees right beside the highway. The aircraft was traingular and had two square lights at the bottom and there was no cockpit in sight. It was thick and it had a light at every corner. We were driving by it slowly but some dumbass was on our ass looking at the thing too, we almost get in a car accident. We manage to recover and just drive away. I kept looking at the aircraft trying to see if I could find any of resemblance to our aircrafts. The oddest thing was that it hoovered and there was no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41726.html](http://www.nuforc.org/webreports/reports/041/S41726.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Madison (WI) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately  -  minutes.</sub><blockquote><sub>air force storymy firend works for the air force has been there 20 yrs and i was out with him one night at a place eating with a older man who retired from the air force i joking asked are there ufo's the old man got quite and looked at me and stated "no one will belive you anway so ill tell you ive seen them" them he later added the "grey" and talked about a peice of metal he personal held that was like tin foil thickness and when you crushed it the tin foil returned back to it normal shape.. this man eyes never left mine he spoke straight out not thinking just spoke. i was numb and freaked out.. then i asked about area 51 and he wouldnt admit to it and also changed the story very quick.. but assured me that all "things we have now came from them" and we still dont know everything yet.. i have no reason to lie on this site just wanted to share my story((NUFORC Note:  Witness elects to remain anonymous; provides no contact information.  Possible hoax, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68358.html](http://www.nuforc.org/webreports/reports/068/S68358.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
