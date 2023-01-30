@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:46 on 30 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:30 on 30 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Ketchikan (AK) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Explosive light over Alaska skiesI don't have pictures but am in search of someone who can tell me what's going on in the skies over Southeast Alaska. Not only have we <as well as many others in town> seen numerous times, unexplained bright lights in the sky that have flashing red and blue and move like a UFO, but tonight topped them all. While standing on the patio, for about 4 seconds I saw an extremely bright object flying in a downward motion with lights that looked like explosions that were so bright, they shone through the clouds. I've seen falling stars and meteors; this was definitely a UFO. I remember I saw a documentary once that showed pictures from the atmosphere of spaceships flying around Earth and then what looked like gunfire from Earth towards them, like we were shooting at them.This is exactly what it looked like. Just wondering who can tell me what's going on over our Alaska skies. Thanks...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34789.html](http://www.nuforc.org/webreports/reports/034/S34789.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in East Meadow (NY) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>ON 03/18/07 photos of a black ufo, that changed shape as it went from west to east, were taken by my webcam.While looking through photos that were taken by my webcam, during the day of 03/18/07 I came across 46 clear frames containing an unknown black object (1 object)  in the sky. There were actually about another 16 or so frames that I didn’t use because the webcam I use is wireless and subject to interference and these frames weren’t centered correctly or had many interference lines in them. The total amount of frames was about 64.  Each frame is 30 second between shots. The ufo would have had to be in view for 32 minutes. The camera is aimed at the eastern sky and the photos are sent to my website at http://aboutfacts.net .  The black object slowly moved from west to east at an upward angle until it was too far east for the camera to see since a wall blocked the view. I don’t know the exact time the photos were taken,  since they are not time stamped, but by their placement I can assume it was somewhere between 12:00 pm and 3:00 pm. The object looked almost like a completely black cloud, but it was the deepest black you would ever see, an unnatural black. As it moved across the field of vision it changed its shape. I am including photos of it from my webcam and a gif animation I made from the 46 clear frames. My Background: I am retired and the webmaster of http://aboutfacts.net. I have a degree in Behavioral Science from the New York Institute of Technology and I am a former Court Clerk for the New York State Supreme Court.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55828.html](http://www.nuforc.org/webreports/reports/055/S55828.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
