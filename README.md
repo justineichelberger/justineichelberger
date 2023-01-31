@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:40 on 31 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:29 on 31 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in State College (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange light looked like a small plane on fire moving slowing across the sky, a piece of the fire broke away, the main part continued.This evening at about 9:30PM EST saw an orange light that at first appeared like a small plane on fire.  After about 30 second of viewing it, it was almost overhead.  Then some parts broke away and burned out.  The orange fire looking piece continued moving from north toward the south about the speed of a small plane.As it continued to move along it started to dim.  It seemed to start to dim so much that it was ending its light.  But, we got into our car and left.We saw this as we were coming out of a restaurant in State College, PA, and going to our car in the parking lot.  Thought it was a kind of flare, but it appeared to be very high and was moving at a slow speed across the sky.  Speed of a small plane.Observers are: Psychologist in full time practice, and Urban Planner Real Estate Broker, Expert Witness for Real Estate Issues.  Engineer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106809.html](http://www.nuforc.org/webreports/reports/106/S106809.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Bristol (TN) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>dark oval object photographed in daytimeI was driving home from getting Preliminary site photo for another investigation, which is why I had my camera, I spotted a dark oval object near my home in the sky. I snapped one photo(attached) from my car and hurried home to get the object on video but it was no longer visible.((NUFORC Note:  We express our gratitude to Mr. Kim Shaffer, MUFON Assistant State Director for Tennessee, for this report with NUFORC.  Mr. Shaffer can be reached at <shaffer56@earthlink.net>.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34797.html](http://www.nuforc.org/webreports/reports/034/S34797.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [232](http://www.nuforc.org/webreports/reports/161/S161841.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161858.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161859.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161879.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161855.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
