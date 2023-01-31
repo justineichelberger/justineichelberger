@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:06:42 on 31 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:25 on 31 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Porte les Valence (France) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>A big cigar shaped craft over the highway.My partner and I were driving on the highway back from a trip to Switzerland; it was about 02:00 AM when we arrived at about 200 meters from the toll gate Porte-Lès-Valence direction south, I noticed 5 large yellow orange lights pulsing a few  meters above the toll gate. As we approached I saw that these lights where positioned on a dark cigar like craft.  Then after a few seconds, the craft gained altitude and disappeared into the clouds.  I reported what I saw to my girlfriend sitting on the passenger seat, but she didn’t have enough time to see it before it disappeared.At this time the Highway was empty and I didn’t notice any other car around.By searching on the net I found a video that looks a lot like what I saw and that could help you better visualize the object.https://www.youtube.com/watch?v=lS_Wa_TssOA&feature=youtu.be</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117413.html](http://www.nuforc.org/webreports/reports/117/S117413.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Moncton (Canada) (NB) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Green fireball meteorGreenish fireball meteor, almost vertical trajectory, looking northeast from Trans Canada Hwy near Caledonia Industrial Park.  Lasted ~2-3 seconds, greenish glow like a roman candle but bigger, and not as bright.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106800.html](http://www.nuforc.org/webreports/reports/106/S106800.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [232](http://www.nuforc.org/webreports/reports/161/S161841.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161858.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161859.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161879.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161855.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
