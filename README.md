@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:29 on 31 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:22 on 31 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Bristol (TN) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>dark oval object photographed in daytimeI was driving home from getting Preliminary site photo for another investigation, which is why I had my camera, I spotted a dark oval object near my home in the sky. I snapped one photo(attached) from my car and hurried home to get the object on video but it was no longer visible.((NUFORC Note:  We express our gratitude to Mr. Kim Shaffer, MUFON Assistant State Director for Tennessee, for this report with NUFORC.  Mr. Shaffer can be reached at <shaffer56@earthlink.net>.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34797.html](http://www.nuforc.org/webreports/reports/034/S34797.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Winterhaven (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Bright white round with white/orange sparks tail disapeared over the Yuma Proving Grounds airport.Thursday January 31, 2019, UFO sighting.  On 1-31-19 at 8:03 PM looking out my east facing window, I observed a bright white object moving from west to east at a very high speed.  It came into my view at about due north and traveled about 30 degrees west before blinking out in about 2 to 3 seconds.  It was about 25 degrees above my level eye site view and flying level (horizontally level).  It was larger than a pencil in diameter and smaller than a dime at my arm’s length.  The object had a white tail that was about 5 times as long as the diameter.  When the object got near the end of the flight the object disappeared and the tail is all the I could see, and it had turned to what appeared to be orange sparks.  My coordinates are N 32.861848 and W 114.503079.The object had to be at least an estimated 3 miles north of my position due to some mountains to my west that would have been in its path at the altitude it appeared to be.  The object looked like it would have been disappearing over the Yuma Proving Grounds Army airfield.My wife and I are Snow Birds and we live in a motor home full time.  We travel from the Northwest to the Yuma area for the winters.  She is a retired Accountant and I am a retired Engineer.  We are boondocking on a BLM Long Term Visitors Area that is on the California side of the Colorado River.  We can see the Yuma Proving Grounds Walker Gate and the Howard Gate areas from our campsite.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144924.html](http://www.nuforc.org/webreports/reports/144/S144924.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [232](http://www.nuforc.org/webreports/reports/161/S161841.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161858.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161859.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161879.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161855.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
