@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:44 on 30 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:42 on 31 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately 45+ - 45+ minutes.</sub><blockquote><sub>Crescent shaped object with red, green, and white lights to the east of Denver.Me and my best friend went outside on my front porch (which faces east) to have a cigarette. He noticed an odd, bright light hovering in the sky. At first we thought it was just a planet or an exceptionally bright star, but it began blinking red, green and white lights. After about 20 minutes of watching, it began to move around in zigzag and circular patterns. As it moved around and came closer, we were able to discern the object was crescent shaped. It alternated between moving at a regular, steady pace and quickly darting around. We are two college students, both majoring in social sciences (I am an anthropology major, and he is a psychology major). We both pride ourselves on being highly rational. After discussing it in depth, we could find no logical explanation for what this object was other than a UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61307.html](http://www.nuforc.org/webreports/reports/061/S61307.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Standish (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately still there - still there minutes.</sub><blockquote><sub>one bright round light with 4 moving fashing objectsComing home from dinner my wife noticed a bright light in the sky that she thought was a airplane. As we drove we noticed 4 other flashing objects moving in the sky and changing directions. The objects from the ground appeared to all be in the same area as the bright light. When we got home,about 3 miles later, the bright light was still in the same place and just one of the four flashing moving objects could be seen. It's almost 24:00 now and within the last half hour the bright light has moved west a long distance and is still visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34802.html](http://www.nuforc.org/webreports/reports/034/S34802.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
