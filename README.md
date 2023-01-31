@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:42 on 31 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:40 on 31 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Santa Rosa (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>It was 12:00 noon I was walking with my friend at lunch time. I was about a block away from the building I worked in when I notice  something flying above the building it was round and dark and moving very slowly sometimes stopping, when I got closer I relized the thing I saw was black and metallic.(it look like an eight ball) I did not say anything to my friend the whole time this was going on I wish I did. I was not sure of what I was looking at.The sun reflected off the craft as it did the cars in the parking lot,it was about forty feet above the building and the size of a car I think it was looking for something or somebody it kept going back and forth from over the building to parking lot and then after about four minutes it was gone.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36251.html](http://www.nuforc.org/webreports/reports/036/S36251.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ronkonkoma (NY) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>One big spot of white-fluorescent light flying from west to east: light faded while object made a U-turn.Witnessed an extremely bright circular shape of white-fluorescent light flying from west to east.  Object appeared to be as a big as a Kennedy-half-dollar while observing from the ground.  Object seems to appear extremely bright at first but dimmed out while flying away in a U-shaped pattern. Did not hear any sound (No engine sounds) when object was spotted.  Object later appeared stationed at one spot for at least 15 minutes.  Observed object with binoculars and witnessed bright light at the center with a surrounding reddish/orange light at the first circumference and a surrounding yellowish/soft-white light at the second circumference.Example of object’s luminescence: (yellowish/soft-white light (reddish/orange light (white-fluorescent light) reddish/orange light) yellowish/soft-white light)((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86942.html](http://www.nuforc.org/webreports/reports/086/S86942.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [232](http://www.nuforc.org/webreports/reports/161/S161841.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161858.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161859.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161879.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161855.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
