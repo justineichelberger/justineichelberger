@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:29 on 31 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:06:42 on 31 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Melbourne (Australia) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>in Australia Melbourne a triangular shaped sped in a large cirlce disapeared reapeared where i last saw it the vanishedI was looking straight up along the milky way with the Southern cross to the left of me and backwards a bit. i saw a speeding object that was in a bird formation that looked like a triangle with out a bottom that aimed the way it moved. there were 5 lights in perfect length and angle from each other it performed a wide circle movement then went towards the Saucepan and went below that and then went away in the distance i lost sigh of it then about 2 minutes later it reapeared were i last saw it, it went in a straight line turned aroud and shot off again from were i last saw it leave i did not see it again and the time was around 12:00 am and 1:00 am on the 31st((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79950.html](http://www.nuforc.org/webreports/reports/079/S79950.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Porte les Valence (France) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>A big cigar shaped craft over the highway.My partner and I were driving on the highway back from a trip to Switzerland; it was about 02:00 AM when we arrived at about 200 meters from the toll gate Porte-Lès-Valence direction south, I noticed 5 large yellow orange lights pulsing a few  meters above the toll gate. As we approached I saw that these lights where positioned on a dark cigar like craft.  Then after a few seconds, the craft gained altitude and disappeared into the clouds.  I reported what I saw to my girlfriend sitting on the passenger seat, but she didn’t have enough time to see it before it disappeared.At this time the Highway was empty and I didn’t notice any other car around.By searching on the net I found a video that looks a lot like what I saw and that could help you better visualize the object.https://www.youtube.com/watch?v=lS_Wa_TssOA&feature=youtu.be</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117413.html](http://www.nuforc.org/webreports/reports/117/S117413.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [232](http://www.nuforc.org/webreports/reports/161/S161841.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161858.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161859.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161879.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161855.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
