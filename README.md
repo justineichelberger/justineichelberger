@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:39 on 31 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:22 on 31 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Avilton (Frostburg) (MD) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Long strand of equally spaced red lights that disappear to the center, then come out again.Long strand of red lights equally spaced across the horizon. If I could estimate the length of the object(s) I would say about a half of a mile long. At first, there were about 30 red lights equally spaced, and then the lights would disappear, meeting at the center with only about 4 red lights remaining. This occurred about 3 times pretty fast. My friend got his phone out to take a picture, but by then, the lights went down to four, one more time, and then disappeared to the southeast. The direction we were facing was east. Reminder: this was spotted in Maryland but the location of the object could have easily been in West Virginia. This was very large and unexplainable. I explained it the best I can, but I just wanted to let everyone know.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68409.html](http://www.nuforc.org/webreports/reports/068/S68409.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Lake Havasu City (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright light moved moderate speed stoped and went oppsite directionBright light went west then almost stoped and went east turned on its side a little bit it was kind of flat((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61345.html](http://www.nuforc.org/webreports/reports/061/S61345.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [232](http://www.nuforc.org/webreports/reports/161/S161841.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161858.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161859.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161879.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161855.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
