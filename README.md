@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:24:49 on 31 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:02:12 on 31 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Arizona City (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Blinking unexplained lights that tilt and move.I witnessed these lights over a neighbors house. Not sure how far away they were. Once I saw them I went back into the house and got my phone. I started videoing the lights. I narrated the video. I caught other aircraft but they all had navigation lights. If you notice the angle of the lights change and I am in the same spot. There is a block fence in front of me that you can see at the bottom of the video. I have no idea what this is and MUFON said it was man made. Maybe but the explanation they gave was weak at best. I have over 40 years in aviation and I can't explain the lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153555.html](http://www.nuforc.org/webreports/reports/153/S153555.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Mission (SD) reported seeing craft that fit the description of some 'Disk' over a period of approximately 360.0 - 360.0 minutes.</sub><blockquote><sub>Very scary experience that ever happened to me.Well me and my sister was aunts in the country. And we where watching my cousins and we noticed this saucer. that had lights coming from it like red blue white. and this craft kept dipping. And i no for shore that it wasn't no helicopter or airplane. Because they just cant do that. And when they dipped they went back in the air so fast that i knew in my mind that no air craft that we have on this earth could do that. And just to let every body no i wasn't a believer until i seen that. And every night there in the sky. so yeah</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61412.html](http://www.nuforc.org/webreports/reports/061/S61412.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [232](http://www.nuforc.org/webreports/reports/161/S161841.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161858.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161859.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161879.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161855.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
