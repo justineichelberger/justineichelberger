@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:24 on 31 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:38 on 31 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Patterson (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Triangle shape object, followed by 2 lights, 1 very bright and the other about the brightness of a star.I was in my back yard in Patterson CA 95363, looking at the stars, clear night no clouds,I had my flash lite with me and would flash it in the sky every so often.   As I was looking up I saw what I thought was a star formation of a triangle, but then I notice it was moving very slow South-East, the point of the triangle was North-East and the other 2 light were South-West, it was very long and there was no noise, or blinking lights all I could see were the 3 lights, as it moved away it dim out, all the lights at ounce. I flashed my lite at it while it was lite up but I didn't get no response, and it was gone.  Then came 2 planes from the East and South-East, one was very loud and the other one was bigger, they made one past and were gone.  I keep flashing my light into the sky but nothing, in till about 6:46 pm, I look to the South-West and there were 2 lights in the sky one was lower then the other and was very bright and it looked like it was directed at me, the other light was higher and to the left of the brighter one and as bright as the stars if not more, there was no noise or blinking of lights. I t made me feel that it came from the triangle,  I flashed my light at both of them but I didn't get any response, I even used my flash lite and lite up my roof back and fourth with the light but nothing, they were both just hovering there, and there lights both went out at about the same time.  It lasted about 2 minutes.I looked at my phone and it showed 6:46 pm. I didn't see any outline of the objects when there lights went out. That's about it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96163.html](http://www.nuforc.org/webreports/reports/096/S96163.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I saw a grey rectangular patch against blue sky, thru binoculars.While watching an ultra light aircraft demonstration, using binoculars, I saw almost directly overhead a light grey rectangular shape against the blue sky. I was looking almost straight up. The rectangular shape had clearly defined edges. The long part of the rectangle was oriented east/west. I looked back at the shape several times in the next few minutes. I always located it quickly in the same spot. It looked like a patch on the sky. There were other spectators around, but none with binoculars. I didn't mention it to anyone, because the demonstration had everyone's attention. After a few minutes, I became very concerned that there was going to be a violent accident with the ultra light aircraft, because the pilot was trying aerobatics in the flimsy craft. I left in my vehicle. I have never mentioned this incident to anyone, nor have I ever again seen anything similar. I am a 69 year old retired banker, a former computer progammer and I was a control tower operator in the Air Force in the late 1940's.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03573.html](http://www.nuforc.org/webreports/reports/003/S03573.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [232](http://www.nuforc.org/webreports/reports/161/S161841.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161858.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161859.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161879.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161855.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
