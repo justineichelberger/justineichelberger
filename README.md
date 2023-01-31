@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:40 on 31 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:37 on 31 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ronkonkoma (NY) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>One big spot of white-fluorescent light flying from west to east: light faded while object made a U-turn.Witnessed an extremely bright circular shape of white-fluorescent light flying from west to east.  Object appeared to be as a big as a Kennedy-half-dollar while observing from the ground.  Object seems to appear extremely bright at first but dimmed out while flying away in a U-shaped pattern. Did not hear any sound (No engine sounds) when object was spotted.  Object later appeared stationed at one spot for at least 15 minutes.  Observed object with binoculars and witnessed bright light at the center with a surrounding reddish/orange light at the first circumference and a surrounding yellowish/soft-white light at the second circumference.Example of object’s luminescence: (yellowish/soft-white light (reddish/orange light (white-fluorescent light) reddish/orange light) yellowish/soft-white light)((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86942.html](http://www.nuforc.org/webreports/reports/086/S86942.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Eugene (OR) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Southern sky, heavy clouds. First one appeared to be a hang-glider, but too high never descended.  A silver-gray Stealth fighter jet shape, but fluid.  One "cloud" looked like a huge flock of birds, a spotty "wall".  It slightly brightened a large area of cloud before going out of sight behind the clouds.  Then something circular and black, but cloudy, then streamed away rapidly, leaving a black "jet" stream, not linear.  Two, small, black smoke-like "clouds" streamed down, then ascended back into the clouds.  All of this was difficult to visualize with the heavy clouds.  I have NEVER witnessed anything like this and I grew up in the midwest.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106836.html](http://www.nuforc.org/webreports/reports/106/S106836.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [232](http://www.nuforc.org/webreports/reports/161/S161841.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161858.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161859.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161879.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161855.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
