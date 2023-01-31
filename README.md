@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:28 on 31 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:52 on 31 January 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Eaton Rapids (MI) reported seeing craft that fit the description of some '' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Woman was returning with children from Boy Scout meting and witnessed gigantic "X-shaped" object flying toward them from over neighbor's house just above tree-top level.  They all witnessed it for 5-6 minutes.  They followed it toward the local school in their cars.  Object had "swivelling" lights on it, but they did not illuminate the ground.  It was going from east to west.  It was hugh and silent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00301.html](http://www.nuforc.org/webreports/reports/000/S00301.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lake Havasu City (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>What are these bright orange orbs in the sky here over Lake Havasu City, AZ????We saw four object, orange in color spaced out evenly coming across the lake.  Then there were two more coming from the west spaced out in the same way.  We looked to the east and there were two more of these objects.  They are a bright orange color, and only stay lit for about 5-10 minutes and then just suddenly go out.  Tonight is a full moon and we are wondering if that has any relation to these objects as we have now seen them for about the last three months.  No one is reporting this on our news, paper or radio and we want to know what these things are!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96156.html](http://www.nuforc.org/webreports/reports/096/S96156.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [232](http://www.nuforc.org/webreports/reports/161/S161841.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161858.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161859.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161879.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161855.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
