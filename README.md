@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:28:17 on 1 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:08:31 on 1 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Garden Grove (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright Turquoise light moving in the sky then completely disapearedWe had just exited the car when arriving home at my parent’s house. My mother stated look up in the sky, my father and I looked up and we saw a bright turquoise colored light, it at first looked as if like a missile going up at an angle into the sky very slowly, but then appeared quickly to be horizontal. It appeared as if 2 sets of lights one on top of the other, the light/ object moved to the right and then quickly back to the left and then again to the right. The light faded on one side and then completely disappeared. The sky was partly cloudy and the movement appeared as if behind a cloud part of the time, but you could still see the bright light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61383.html](http://www.nuforc.org/webreports/reports/061/S61383.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Hope (ID) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Few minutes - Few minutes minutes.</sub><blockquote><sub>Single object that gave off a changing red/orange/green light.  Very large object seen because it was far away over the hills to the southeast side of Sandpoint.  Was seen over the lake.  I have seen this light on multiple occasions and I can't figure it out.  It's mindboggling.  It's too big to be an airplane or heli and moves around and changes color too much to be a planet or star.((NUFORC Note:  Venus or Sirius?  If in the SE sky, probably Sirius.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132423.html](http://www.nuforc.org/webreports/reports/132/S132423.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/162/S162050.html)
-- [348](http://www.nuforc.org/webreports/reports/161/S161878.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162086.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162094.html)
-- [345](http://www.nuforc.org/webreports/reports/162/S162095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
