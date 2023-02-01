@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:30 on 1 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:40 on 1 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Canton (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>about five moving "stars", not a meteor shower no shooting stars, to slow, airplanes apeared afterward.Last Sunday, it was pretty nice weather outside so I decided to go out on the porch. We live in a house with a lot of trees around it so I had to position myself just right to see the stars. I had been looking up for about 30 seconds and then I saw something that caught my attention. It appeared to be a star slowly moving across the sky. I could tell it wasn't an airplane and it was moving to slow to be a shooting star.I blew it off for a few minutes thinking my mind was playing tricks on me until I saw another one.  After I watched this one slowly drift across the sky, I raced inside to get my sister to come see this.  She walked with me outside and we looked up at the sky.  I explained to her what I saw and she wanted to go back in.  I told her just stay a few more minutes.  Sure enough about a minute and 30 seconds later, we saw another one!  We watched as i behaved just as the other two and then it disappeared.As we sat there a few more minutes we watched a few more pass over us.  We finally grew tired of watching and went into the house.  About 5-10 minutes later we went back out side.  We began watching the sky again and saw a number of airplanes now circling above.  We saw no more "UFOs" after that so we went back inside.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68512.html](http://www.nuforc.org/webreports/reports/068/S68512.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1971, an anonymous witness in Waverly Hall (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>saw bright circular object almosr directly overhead and moving down to hover 200 yds to our right and about 100 ft above ground. Ist thought it was moon but crescent moon was just above horizon. Object paralleled us as we drove slowly, stopping when we stopped going when we started again.we drove about 5 miles slowly but took old Warm Springs Rd. instead of 4 lane into Columbus. As dusk was almost complete I got out and walked toward it and watched for some 10-15 minutes. Suddenly I had the feeling it was gone but the object simply faded slowly as if it left behind a mist. Within the haze red green and bluish lights could be seen moving but did not seem to be spot lights, more like flood lights. It was strange that it stayed with us for so long staying the same distance and height above the trees from us except when we turned off it crossed eaterly to the opposite side of the road. Although the timeframe was long neither my (now ex-)wife noticed any missing time. it was truly remarkable to us from when first seen it was so bright and moved rather rapidly but as it slowed and paralleled us through this little "speed-trap" town it got dimmer and changed from the bright full moon shape to the definite football shape. It seemed to us we were seeing it edge-on as it paralleled us. Numerous other cars behind us should have seen it also but noone stopped and watched but us. I had a camera with me but had used up the film. On a recent get together in Ga when my mother died, my ex-wife and I discussed this event and she seemed to remember it the same as I remember it. Later that month we moved to Texas.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03906.html](http://www.nuforc.org/webreports/reports/003/S03906.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/162/S162050.html)
-- [348](http://www.nuforc.org/webreports/reports/161/S161878.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162086.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162094.html)
-- [345](http://www.nuforc.org/webreports/reports/162/S162095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
