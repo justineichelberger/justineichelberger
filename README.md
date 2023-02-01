@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:40 on 1 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:24 on 1 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1971, an anonymous witness in Waverly Hall (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>saw bright circular object almosr directly overhead and moving down to hover 200 yds to our right and about 100 ft above ground. Ist thought it was moon but crescent moon was just above horizon. Object paralleled us as we drove slowly, stopping when we stopped going when we started again.we drove about 5 miles slowly but took old Warm Springs Rd. instead of 4 lane into Columbus. As dusk was almost complete I got out and walked toward it and watched for some 10-15 minutes. Suddenly I had the feeling it was gone but the object simply faded slowly as if it left behind a mist. Within the haze red green and bluish lights could be seen moving but did not seem to be spot lights, more like flood lights. It was strange that it stayed with us for so long staying the same distance and height above the trees from us except when we turned off it crossed eaterly to the opposite side of the road. Although the timeframe was long neither my (now ex-)wife noticed any missing time. it was truly remarkable to us from when first seen it was so bright and moved rather rapidly but as it slowed and paralleled us through this little "speed-trap" town it got dimmer and changed from the bright full moon shape to the definite football shape. It seemed to us we were seeing it edge-on as it paralleled us. Numerous other cars behind us should have seen it also but noone stopped and watched but us. I had a camera with me but had used up the film. On a recent get together in Ga when my mother died, my ex-wife and I discussed this event and she seemed to remember it the same as I remember it. Later that month we moved to Texas.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03906.html](http://www.nuforc.org/webreports/reports/003/S03906.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Sterling (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>30 to 40 lights foming a V shape flying at high speed, observed over Sterling VA on Super Bowl night 2009Clear night, went out to the deck, and looked up to see the stars.  A friend came out behind me for a cigarete smoke. Out of nowhere about 30 to 40 flying objects (lights)appeared.  The formation had a V shape, flying fast and close to each other.  My friend thought they were birds (geese) but I know they were not.  They were not airplanes or helicopters or jets.  As of right now (2/2/09) something tells me the we witnessed something that could be UFOs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68397.html](http://www.nuforc.org/webreports/reports/068/S68397.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/162/S162050.html)
-- [348](http://www.nuforc.org/webreports/reports/161/S161878.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162086.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162094.html)
-- [345](http://www.nuforc.org/webreports/reports/162/S162095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
