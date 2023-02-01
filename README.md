@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:29 on 1 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:32 on 1 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Santa Maria (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>the bright white star like object speed in an arch from east to west into the horizon in the black of night.I was driving on US 101 headed north when all of the sudden a bright star looking object fell towards the horizon. It only lasted a few seconds, but I know it wasn't a falling star. From where I was no stars were visible, the view from the drivers seat doesn't allow you to see overhead, without leaning forward as far as possible, and I was sitting back in my seat. When I got home I immeditly looked in to the sky to check what the stars were like, it's a clear night and several stars a visible, but none including the north star were nearly as bright white as this. The object I saw in the sky fell in an arch from east to west, I couldn't tell you what kind of a degree the was arch was.  The sky was black ahead of me, there were other cars around, in front, behind and going in the oppisite direction. There were also a few street lamps, I had just past an on ramp and feet away from an off ramp and on the south bound side of the highway there was an on ramp near by. There was considerable light around other than the few street lights, both sides of the highway have near by gas stations, the north bound side also has a small well lite hotel, and Burger King. The object didn't have a trail of anything behind it.I've witnessed shooting stars and meteriors before and this was nothing like it. it moved faster than a shooting star. I don't know what else to say about it, except that I've never seen anything quite like it before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27454.html](http://www.nuforc.org/webreports/reports/027/S27454.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1946, an anonymous witness in Merced (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Three luminescent chartreusse spheres moving "in trail" in a wide arc (34 mi) across the Valley sky.At Merced Air Corps Field, a big bomber training base in 1946, I was awaiting points for separation. O/A 4 PM, I left the barracks, started a shortcut across a field toward the main gate.  By chance, I looked west (left) and far away (35 miles or so), a motion in the sky caught my eye.  It was headed SE,and moving in an arc in my direction.  It curved east and approached the base.  The arc took it on a path toward me. By now, I could see three spheres, luminescent chartreusse.  They passed about 80 degrees westward over me, arced to the north and quickly disappeared. I looked around for someone that I could say "What the hell was that?" but there was no other person within sight.  The thing that struck me was the absence of any sound.  Also, it was still daylight. Never heard of UFO or "flying saucer" until 18 months later.  Then I wondered if that was similar to my sighting. I haven't talked much about the experience, and you probably know why.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46338.html](http://www.nuforc.org/webreports/reports/046/S46338.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/162/S162050.html)
-- [348](http://www.nuforc.org/webreports/reports/161/S161878.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162086.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162094.html)
-- [345](http://www.nuforc.org/webreports/reports/162/S162095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
