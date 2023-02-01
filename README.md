@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:40 on 1 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:23 on 1 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>orange hovering lights above salt lake cityIt looked like a flare in the sky (without any smoke trail) a bright orange glow around a bright red center.  There were two at first but I lost track of the second one.  They weren't falling like flares though, they were moving across the sky slowly, hovering in place and then slowly moving on before stopping again.  I watched it move very slowly across the sky from the south to the north east.  There was no perceivable engine noise like a jet or helicopter, it wasn't far from the ground... helicopters fly over the valley all the time but you can hear those for miles.  It was moving too slow to be a jet. I like to think I'm good at identifying aircraft, its been a hobby of mine since I was a kid and have been to over 50 airshows over the years.  After about two minutes observing from outside my car, the light went out and I lost it for a second, but found it again silhouetted against the clouds from the city lights...it was a dark, non-reflective oval shape that continued along NE towards the Wasatch mountains</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106867.html](http://www.nuforc.org/webreports/reports/106/S106867.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Garden Grove (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright Turquoise light moving in the sky then completely disapearedWe had just exited the car when arriving home at my parent’s house. My mother stated look up in the sky, my father and I looked up and we saw a bright turquoise colored light, it at first looked as if like a missile going up at an angle into the sky very slowly, but then appeared quickly to be horizontal. It appeared as if 2 sets of lights one on top of the other, the light/ object moved to the right and then quickly back to the left and then again to the right. The light faded on one side and then completely disappeared. The sky was partly cloudy and the movement appeared as if behind a cloud part of the time, but you could still see the bright light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61383.html](http://www.nuforc.org/webreports/reports/061/S61383.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/162/S162050.html)
-- [348](http://www.nuforc.org/webreports/reports/161/S161878.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162086.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162094.html)
-- [345](http://www.nuforc.org/webreports/reports/162/S162095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
