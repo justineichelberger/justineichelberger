@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:34 on 1 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:29 on 1 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Hilton Head (SC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>WHO'S FLYING AROUND HILTONHEAD, SC   IT'S CRAZY 2 TIMES SO FARHELLO,  FIRST I WITNESSED A EXPLOSION DEEP IN SPACE. I CALLED NASA , THEY CHECKED THE SPACE STATION AND THEY WERE OK. THEN  AROUND 3 MINS LATER IN THE SAME AREA , I SAW A WHITE LIGHT IT MOVED LIKE THIS.  O--- - - ----O, THEN IT WAS GONE.SECOND TIME 11/3/2008 AT 1:54 AM. I WAS LOOKING IN THE SAME AREA , THERE WAS A FLASHING WHITE LIGHT WOW. IT WAS BLINKING A WHITE LIGHT. OK, SO I GOT MY BINOCULARS I SAW THE FLASHING WHITE LIGHT THREE BLINKS, THEN GONE. 2 MINS LATER IT MOVED LIKE A YARD STICK AWAY. IT BLINKED 2 TIMES AND GONE. I AM LOOKING SOUTH IN THE SKY AND ON MY BACK PORCH. THIS IS CRAZY 2 TIMES , ITS CRAZY. THIS IS THE TRUTH, I WILL SIGN MY NAME TO IT!!!!!!!! THANK YOU((NUFORC Note:  Witness indicates that date of incident is approximate.  Possible intermittent flashes from a tumbling booster, or other satellite.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66702.html](http://www.nuforc.org/webreports/reports/066/S66702.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Santa Maria (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>the bright white star like object speed in an arch from east to west into the horizon in the black of night.I was driving on US 101 headed north when all of the sudden a bright star looking object fell towards the horizon. It only lasted a few seconds, but I know it wasn't a falling star. From where I was no stars were visible, the view from the drivers seat doesn't allow you to see overhead, without leaning forward as far as possible, and I was sitting back in my seat. When I got home I immeditly looked in to the sky to check what the stars were like, it's a clear night and several stars a visible, but none including the north star were nearly as bright white as this. The object I saw in the sky fell in an arch from east to west, I couldn't tell you what kind of a degree the was arch was.  The sky was black ahead of me, there were other cars around, in front, behind and going in the oppisite direction. There were also a few street lamps, I had just past an on ramp and feet away from an off ramp and on the south bound side of the highway there was an on ramp near by. There was considerable light around other than the few street lights, both sides of the highway have near by gas stations, the north bound side also has a small well lite hotel, and Burger King. The object didn't have a trail of anything behind it.I've witnessed shooting stars and meteriors before and this was nothing like it. it moved faster than a shooting star. I don't know what else to say about it, except that I've never seen anything quite like it before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27454.html](http://www.nuforc.org/webreports/reports/027/S27454.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/162/S162050.html)
-- [348](http://www.nuforc.org/webreports/reports/161/S161878.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162086.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162094.html)
-- [345](http://www.nuforc.org/webreports/reports/162/S162095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
