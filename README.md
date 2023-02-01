@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:36 on 1 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:28 on 1 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Calgary (Canada) (AB) reported seeing craft that fit the description of some 'Flash' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>triangle of white static with no solid form, the static image was like moving simular to a blank tv screeni was outside having a smoke on my patio it was a cold crisp night clear sky, me and my neibour were chatting he was on his patio with three of his friends, when i noticed from the east a star like glowing light moving from the east to the west, when i told my neibour he and his friends looked up at it as well, what caught our intrest was the speed of it, it was moving but very slow moving east to west, very high up, it looked like a star, but then the most intresting thing happened, it stoped. for like a minute. as if deciding which direction to go, then went south, at the same speed, then in a instant moved to us, north of which it was traveling, but really low almost just over our roof tops, the image appeared to look like white static like  between chanels on a tv, and was triangle in shape, and was moving so fast then just disapeared. it was so incredible and so awe struct. it made no noise, and appeared to have no soild form, and moved at speeds unkown to us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55141.html](http://www.nuforc.org/webreports/reports/055/S55141.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Oakland Park (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 9.0 - 9.0 minutes.</sub><blockquote><sub>"Armada" of Strange Lights Over Fort Lauderdale Area.I was walking home from the store, when I saw this seemingly endless parade of glowing lights.  They were orange-ish.  They had no blinking lights like planes, they were moving very slowly rising up from above the visible horizon, which was partly blocked by houses and trees so I only saw them when they rose above those.  They seemed to prefer flying in triangular formations, or something approximating a triangle.  They would fly a certain distance across the sky and then gradually fade out.  I am unaware of any normal explanation for these things: apart from their bizarre appearance, there were too many of them too quickly to be civilian, and there was no official military activity to explain them either.  They moved slowly but at times seemed to zig zag in a narrow area in a way that seemed unlike airplanes, but I can't prove that. I caught video of it on my smartphone, and when that failed to take video due to low battery (my Moto G refused to shoot video when the battery got too low), I switched to my tablet (Nexus 7 2013 edition rear-facing camera).  At some point one of my neighbors came out and was seeing it, but her English was imperfect so we had a hard time understanding each other.  I was on the phone with my fiancee at the time, so you can often hear my side of the conversation but not hers.I hesitated to even report this, but this was way too big.  The "armada" as I thought of them went on and on and on and I would really like to know, if possible, what it was I actually saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106861.html](http://www.nuforc.org/webreports/reports/106/S106861.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/162/S162050.html)
-- [348](http://www.nuforc.org/webreports/reports/161/S161878.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162086.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162094.html)
-- [345](http://www.nuforc.org/webreports/reports/162/S162095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
