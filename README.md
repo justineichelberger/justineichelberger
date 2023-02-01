@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:27 on 1 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:34 on 1 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Gillette (WY) reported seeing craft that fit the description of some 'Circle' over a period of approximately Hours - Hours minutes.</sub><blockquote><sub>Been watching this all night with binoculars.  Multi colored if you’ve ever seen fireworks  when they explode in the night sky and make a big round series of lights.  It looks like that only permanent.  Very, very odd.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144751.html](http://www.nuforc.org/webreports/reports/144/S144751.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Bright lava fireballs fell on outside and vanished.February of 2012, around 3am, my friend and I glance out at my bedroom window, just before we were going to get sleep, and we witnessed two circle fireballs from the sky fall fast down and they vanished by a tree.  They were just red bright looked like a ball of lava.  We opened the windows and did not see any fire or damage.  There wasn't even a sound made when the fireballs landed or appeared to land.  I was hoping someone else outside of us on the street saw it I even yelled to get attention but the streets were vacant.  They were bright red and the funny part is my friend has saw these fireballs land two times prior and I joked about it, until I witnessed it myself.  I've been trying to make sense of it for two years.  After a lot of research, I know what I witness was something of demonic/alien.  It wasn't normal and a relative has witnessed it too in another state.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117507.html](http://www.nuforc.org/webreports/reports/117/S117507.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/162/S162050.html)
-- [348](http://www.nuforc.org/webreports/reports/161/S161878.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162086.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162094.html)
-- [345](http://www.nuforc.org/webreports/reports/162/S162095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
