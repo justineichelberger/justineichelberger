@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:14 on 1 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:40 on 1 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Frisco (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>4 orange glowing lights flying in single row formationOn 2/1/2021 my daughter and I were driving west on Veneto Dr in Frisco TX when we saw 4 orange glowing lights in a single row formation in the sky coming from the NE. The lights were fast moving but also hovered at times. We pulled over on the residential street. I noticed a white suv had pulled over behind us. A man and his son were playing basketball outside their home and they had stopped and were also observing. The lights were low flying. There was a smaller airplane flying towards us coming from the SW in the distance but he was flying a much higher altitude than the unexplained lights. We got out of the car to view them. Just as the lights got directly in front of us, they begin to vanish one by one starting with the one in the lead, then the 2nd, 3rd and 4th. I yelled to the suv behind us “did you see that”? A woman yelled back “yes, there were 4 of them”. I asked her what was it and she replied UFO’s. I didn’t get to speak to the man and boy who were also watching. These were not planes, helicopters or anything I’ve ever seen in the sky. We are still trying to process what we saw. We did not record or take pictures because we were too stunned by what we were seeing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161878.html](http://www.nuforc.org/webreports/reports/161/S161878.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>orange hovering lights above salt lake cityIt looked like a flare in the sky (without any smoke trail) a bright orange glow around a bright red center.  There were two at first but I lost track of the second one.  They weren't falling like flares though, they were moving across the sky slowly, hovering in place and then slowly moving on before stopping again.  I watched it move very slowly across the sky from the south to the north east.  There was no perceivable engine noise like a jet or helicopter, it wasn't far from the ground... helicopters fly over the valley all the time but you can hear those for miles.  It was moving too slow to be a jet. I like to think I'm good at identifying aircraft, its been a hobby of mine since I was a kid and have been to over 50 airshows over the years.  After about two minutes observing from outside my car, the light went out and I lost it for a second, but found it again silhouetted against the clouds from the city lights...it was a dark, non-reflective oval shape that continued along NE towards the Wasatch mountains</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106867.html](http://www.nuforc.org/webreports/reports/106/S106867.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/162/S162050.html)
-- [348](http://www.nuforc.org/webreports/reports/161/S161878.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162086.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162094.html)
-- [345](http://www.nuforc.org/webreports/reports/162/S162095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
