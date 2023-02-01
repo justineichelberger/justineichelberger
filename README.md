@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:32 on 1 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:27 on 1 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1946, an anonymous witness in Merced (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Three luminescent chartreusse spheres moving "in trail" in a wide arc (34 mi) across the Valley sky.At Merced Air Corps Field, a big bomber training base in 1946, I was awaiting points for separation. O/A 4 PM, I left the barracks, started a shortcut across a field toward the main gate.  By chance, I looked west (left) and far away (35 miles or so), a motion in the sky caught my eye.  It was headed SE,and moving in an arc in my direction.  It curved east and approached the base.  The arc took it on a path toward me. By now, I could see three spheres, luminescent chartreusse.  They passed about 80 degrees westward over me, arced to the north and quickly disappeared. I looked around for someone that I could say "What the hell was that?" but there was no other person within sight.  The thing that struck me was the absence of any sound.  Also, it was still daylight. Never heard of UFO or "flying saucer" until 18 months later.  Then I wondered if that was similar to my sighting. I haven't talked much about the experience, and you probably know why.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46338.html](http://www.nuforc.org/webreports/reports/046/S46338.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Gillette (WY) reported seeing craft that fit the description of some 'Circle' over a period of approximately Hours - Hours minutes.</sub><blockquote><sub>Been watching this all night with binoculars.  Multi colored if you’ve ever seen fireworks  when they explode in the night sky and make a big round series of lights.  It looks like that only permanent.  Very, very odd.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144751.html](http://www.nuforc.org/webreports/reports/144/S144751.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/162/S162050.html)
-- [348](http://www.nuforc.org/webreports/reports/161/S161878.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162086.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162094.html)
-- [345](http://www.nuforc.org/webreports/reports/162/S162095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
