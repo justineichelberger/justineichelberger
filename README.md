@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:38 on 1 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:35 on 1 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>a very high, fast, orange UFO over Charlotte NCCharlotte, NC UFO  This happened around the middle of February. I was working and had to go outside. I looked up to my right, and saw a very, very fast orange object go over the horizon.I don't know what it was. It was very high in the nighttime sky. The only thing I know for sure is that it was faster than anything I have ever seen. It was so high, that is looked very small. As fast as you can snap your fingers, it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55854.html](http://www.nuforc.org/webreports/reports/055/S55854.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1946, an anonymous witness in Merced (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Three luminescent chartreusse spheres moving "in trail" in a wide arc (34 mi) across the Valley sky.At Merced Air Corps Field, a big bomber training base in 1946, I was awaiting points for separation. O/A 4 PM, I left the barracks, started a shortcut across a field toward the main gate.  By chance, I looked west (left) and far away (35 miles or so), a motion in the sky caught my eye.  It was headed SE,and moving in an arc in my direction.  It curved east and approached the base.  The arc took it on a path toward me. By now, I could see three spheres, luminescent chartreusse.  They passed about 80 degrees westward over me, arced to the north and quickly disappeared. I looked around for someone that I could say "What the hell was that?" but there was no other person within sight.  The thing that struck me was the absence of any sound.  Also, it was still daylight. Never heard of UFO or "flying saucer" until 18 months later.  Then I wondered if that was similar to my sighting. I haven't talked much about the experience, and you probably know why.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46338.html](http://www.nuforc.org/webreports/reports/046/S46338.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/162/S162050.html)
-- [348](http://www.nuforc.org/webreports/reports/161/S161878.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162086.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162094.html)
-- [345](http://www.nuforc.org/webreports/reports/162/S162095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
