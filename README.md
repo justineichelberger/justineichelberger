@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:23 on 1 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:36 on 1 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Garden Grove (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright Turquoise light moving in the sky then completely disapearedWe had just exited the car when arriving home at my parent’s house. My mother stated look up in the sky, my father and I looked up and we saw a bright turquoise colored light, it at first looked as if like a missile going up at an angle into the sky very slowly, but then appeared quickly to be horizontal. It appeared as if 2 sets of lights one on top of the other, the light/ object moved to the right and then quickly back to the left and then again to the right. The light faded on one side and then completely disappeared. The sky was partly cloudy and the movement appeared as if behind a cloud part of the time, but you could still see the bright light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61383.html](http://www.nuforc.org/webreports/reports/061/S61383.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Calgary (Canada) (AB) reported seeing craft that fit the description of some 'Flash' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>triangle of white static with no solid form, the static image was like moving simular to a blank tv screeni was outside having a smoke on my patio it was a cold crisp night clear sky, me and my neibour were chatting he was on his patio with three of his friends, when i noticed from the east a star like glowing light moving from the east to the west, when i told my neibour he and his friends looked up at it as well, what caught our intrest was the speed of it, it was moving but very slow moving east to west, very high up, it looked like a star, but then the most intresting thing happened, it stoped. for like a minute. as if deciding which direction to go, then went south, at the same speed, then in a instant moved to us, north of which it was traveling, but really low almost just over our roof tops, the image appeared to look like white static like  between chanels on a tv, and was triangle in shape, and was moving so fast then just disapeared. it was so incredible and so awe struct. it made no noise, and appeared to have no soild form, and moved at speeds unkown to us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55141.html](http://www.nuforc.org/webreports/reports/055/S55141.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/162/S162050.html)
-- [348](http://www.nuforc.org/webreports/reports/161/S161878.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162086.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162094.html)
-- [345](http://www.nuforc.org/webreports/reports/162/S162095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
