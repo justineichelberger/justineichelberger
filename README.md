@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:28 on 1 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:34 on 1 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>2 strange craft over downtown and greater los angeles basingot up to get a drink of water and looked out over the western skyline (from my house i have a view of the basin from downtown to santa monica ) and i saw what at first appered to be a very low flying plane then another appered next to it they were low on the horizon and moving very slow. The the two craft moved south west toward Downtown i follow outside my house now and watched the two craft basically follow the 110 south from the 101 area then bank West toward santa monica then turned quickly back striaght toward Silverlake area and out of my sight I have never seen anything move like that and after it was out of my sight i heard what sounded to be like a jet flying in the area but i never saw it.The object appered at first to be a kind of cigar shape at first but when it banked it was actually tranglular in shape with a kinda orange glow from the bottom with a greenish blue light comming from what i assume to be the bottom of the craft there was only 2 and was very low to the horizon that is why i noticed it seemed very low for any conventional air craft</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34817.html](http://www.nuforc.org/webreports/reports/034/S34817.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Hilton Head (SC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>WHO'S FLYING AROUND HILTONHEAD, SC   IT'S CRAZY 2 TIMES SO FARHELLO,  FIRST I WITNESSED A EXPLOSION DEEP IN SPACE. I CALLED NASA , THEY CHECKED THE SPACE STATION AND THEY WERE OK. THEN  AROUND 3 MINS LATER IN THE SAME AREA , I SAW A WHITE LIGHT IT MOVED LIKE THIS.  O--- - - ----O, THEN IT WAS GONE.SECOND TIME 11/3/2008 AT 1:54 AM. I WAS LOOKING IN THE SAME AREA , THERE WAS A FLASHING WHITE LIGHT WOW. IT WAS BLINKING A WHITE LIGHT. OK, SO I GOT MY BINOCULARS I SAW THE FLASHING WHITE LIGHT THREE BLINKS, THEN GONE. 2 MINS LATER IT MOVED LIKE A YARD STICK AWAY. IT BLINKED 2 TIMES AND GONE. I AM LOOKING SOUTH IN THE SKY AND ON MY BACK PORCH. THIS IS CRAZY 2 TIMES , ITS CRAZY. THIS IS THE TRUTH, I WILL SIGN MY NAME TO IT!!!!!!!! THANK YOU((NUFORC Note:  Witness indicates that date of incident is approximate.  Possible intermittent flashes from a tumbling booster, or other satellite.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66702.html](http://www.nuforc.org/webreports/reports/066/S66702.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/162/S162050.html)
-- [348](http://www.nuforc.org/webreports/reports/161/S161878.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162086.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162094.html)
-- [345](http://www.nuforc.org/webreports/reports/162/S162095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
