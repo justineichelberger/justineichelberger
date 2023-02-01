@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:35 on 1 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:36 on 1 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>orange hovering lights above salt lake cityIt looked like a flare in the sky (without any smoke trail) a bright orange glow around a bright red center.  There were two at first but I lost track of the second one.  They weren't falling like flares though, they were moving across the sky slowly, hovering in place and then slowly moving on before stopping again.  I watched it move very slowly across the sky from the south to the north east.  There was no perceivable engine noise like a jet or helicopter, it wasn't far from the ground... helicopters fly over the valley all the time but you can hear those for miles.  It was moving too slow to be a jet. I like to think I'm good at identifying aircraft, its been a hobby of mine since I was a kid and have been to over 50 airshows over the years.  After about two minutes observing from outside my car, the light went out and I lost it for a second, but found it again silhouetted against the clouds from the city lights...it was a dark, non-reflective oval shape that continued along NE towards the Wasatch mountains</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106867.html](http://www.nuforc.org/webreports/reports/106/S106867.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1971, an anonymous witness in Gorham (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright lite seen moving eraticaly over mountains with no noise.I was a child or about 6 or 8 years old and out scraping ice from the driveway.  I looked at a light moving over a mountain in front of the house and noticed no noise as well as very angular movements.  The light was steady and not blinking, it moved rather slowly but very erratic.  I watched for about five minutes and ran into the house.  I was with a friend and told him to go home - I don't really remember telling him to go, but I dont remember him being there when I ran into the house.  Its been on my mind my whole life and just wanted a place to let someone know.  Thank you.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45412.html](http://www.nuforc.org/webreports/reports/045/S45412.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/162/S162050.html)
-- [348](http://www.nuforc.org/webreports/reports/161/S161878.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162086.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162094.html)
-- [345](http://www.nuforc.org/webreports/reports/162/S162095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
