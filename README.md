@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:31 on 2 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:33 on 2 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Beacon (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 6PM  till after 7PM - 6PM  till after 7PM minutes.</sub><blockquote><sub>As I steped outside to the front of my house I saw what I thought was the radio tower of the mountain(Beacon MT.) it started to move slightly, then thought it was a helicopter. I saw a plain from a distance heading toward this object and it moved back in the air quite a distance above the plane as the plane headed toward it's direction. It then stayed above hovering I tried to look through binoculars on a steady point and this object just kept on moving around and I am unable to get a clear look, this is going on as I type this note</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41740.html](http://www.nuforc.org/webreports/reports/041/S41740.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Hesperia (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>((NUFORC:  A peculiar meteor was seen over California and Nevada at approximately 0604 hrs. on this date, as well.  Most likely a coincidence.))High Altitude partially luminescent rocket contrail. In the direction towards Lucerne Valley.I observed a partially luminescent rocket contrail just before sunrise in the eastern direction from Hesperia. Vandenburg is directly West of here approximately 100 miles. Normally when Vandenburg launches something like that it shows up above the far western horizon. It looked as though the contrail went into a complete 360 degree circle before disppearing. I've never seen anything like this to the east of here before and I never did see the actual object that left the trail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05731.html](http://www.nuforc.org/webreports/reports/005/S05731.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161950.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161883.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161875.html)
-- [283](http://www.nuforc.org/webreports/reports/153/S153047.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153028.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
