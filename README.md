@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:01:31 on 2 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:27 on 2 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Puerto Vallarta (Mexico) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Irreguelar "cloud" formations in sky above Bahia de Banderas.In addition to my report of last night, which I myself find UNBELIEVABLE.... I was sitting at a beachside cantina located within the Bahia de Banderas when I noticed over the far northern most point of the bay (Punta de Mita) a saucer shaped flucuating cloud.  This was a rapidally forming cloud that seemed to dissapate within about a sixty second time frame and than basically reform in a basic triangulation (or saucer type shape) in a two to seven minute context.  I witnessed two appearqnces before I notified my friends,  seeing as the experience the past evening was a little out of the ordinary for us. This "phenomenom" followed no exact time pattern and we were witness to it for over two hours.  As I explained in my report last evening (02-01-06), we had witnessed five different unidentifed sources.  Upon first noticing the "cloud" above Punta de Mita, there was one clear, distinct, but slowly and yet rapidly, changing SAUCER shaped cloud.  I will elaborate further, however I have lived in Puerto Vallarta for almost NINE years and I HAVE NEVER SEEN ANYTHING like this before.  This "cloud"continued to dissapate and reform multiple times before my eyes as wells many others all within the same approximate location.  When it had disaperred from this location for the second time, I began to look around and noticed that the same type of formations "clouds" were forming and dissapating in other locations  in the north bay (Bucerias, La Cruz de Huanaxcatle, Sayulita).  The primary(?) cloud source was an in and out over Punta de Mita.  There was one, and then two, and then three sources from my viewpoint above Bucerias which is north of the airport.  The ones located towards Bucerias maintsined shape for much longer than the PdM.  I do not know what to think , but the Pd M was primarily 1, and at times 2, faint flash points to largely growing and then disproportionate saucer shaped "clouds".  These "clouds" (as my friends kept referring to them) were all in the SAME location.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48975.html](http://www.nuforc.org/webreports/reports/048/S48975.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in New York City (Bronx) (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>During a thunderstorm I was watching out of my kitchen window which faces East, I noticed what I thought was a plane emerge from a cloud which had just had one of those inter-lightning flashes. I thought nothiing of it until the "plane" made a 90 degree turn and begin to rise straight into the air. I watched until it entered another cloud which, after the craft entered, had a inter-lighning flash. I waited for the "plane" to emerge but it never did.Appeared to be a plane. Emerged from a cloud after an inter-cloud lighting flash. flew for a short distance in a stragiht line. Made a 90 degree turn upwards and began to ascend straight up into another cloud which had the same type of flash but never emerged. Flashing lights just like a plane..but where did it go?!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08322.html](http://www.nuforc.org/webreports/reports/008/S08322.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161950.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161883.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161875.html)
-- [283](http://www.nuforc.org/webreports/reports/153/S153047.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153028.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
