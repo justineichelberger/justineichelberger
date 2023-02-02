@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:24:10 on 2 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:01:31 on 2 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Maysville (KY) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>UFO'S  SEEN  PATROLLING OHIO RIVER BETWEEN POWER PLANTS((NUFORC Note:  Source is anonymous.  Many other reports from across the U. S. for this date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21685.html](http://www.nuforc.org/webreports/reports/021/S21685.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Puerto Vallarta (Mexico) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Irreguelar "cloud" formations in sky above Bahia de Banderas.In addition to my report of last night, which I myself find UNBELIEVABLE.... I was sitting at a beachside cantina located within the Bahia de Banderas when I noticed over the far northern most point of the bay (Punta de Mita) a saucer shaped flucuating cloud.  This was a rapidally forming cloud that seemed to dissapate within about a sixty second time frame and than basically reform in a basic triangulation (or saucer type shape) in a two to seven minute context.  I witnessed two appearqnces before I notified my friends,  seeing as the experience the past evening was a little out of the ordinary for us. This "phenomenom" followed no exact time pattern and we were witness to it for over two hours.  As I explained in my report last evening (02-01-06), we had witnessed five different unidentifed sources.  Upon first noticing the "cloud" above Punta de Mita, there was one clear, distinct, but slowly and yet rapidly, changing SAUCER shaped cloud.  I will elaborate further, however I have lived in Puerto Vallarta for almost NINE years and I HAVE NEVER SEEN ANYTHING like this before.  This "cloud"continued to dissapate and reform multiple times before my eyes as wells many others all within the same approximate location.  When it had disaperred from this location for the second time, I began to look around and noticed that the same type of formations "clouds" were forming and dissapating in other locations  in the north bay (Bucerias, La Cruz de Huanaxcatle, Sayulita).  The primary(?) cloud source was an in and out over Punta de Mita.  There was one, and then two, and then three sources from my viewpoint above Bucerias which is north of the airport.  The ones located towards Bucerias maintsined shape for much longer than the PdM.  I do not know what to think , but the Pd M was primarily 1, and at times 2, faint flash points to largely growing and then disproportionate saucer shaped "clouds".  These "clouds" (as my friends kept referring to them) were all in the SAME location.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48975.html](http://www.nuforc.org/webreports/reports/048/S48975.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161950.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161883.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161875.html)
-- [283](http://www.nuforc.org/webreports/reports/153/S153047.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153028.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
