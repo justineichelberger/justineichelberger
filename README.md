@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:34 on 2 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:26 on 2 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Maysville (KY) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>UFO'S  SEEN  PATROLLING OHIO RIVER BETWEEN POWER PLANTS((NUFORC Note:  Source is anonymous.  Many other reports from across the U. S. for this date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21685.html](http://www.nuforc.org/webreports/reports/021/S21685.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Moore Haven (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Several bright glowing objects seen by four witnesses in night sky dimming and reappearing and moving at tremendious speed.Observed two glowing amber to orange objects at aprox 15 degrees on horizion directly north.  Objects hovered for several minutes then one sped off to the west.  The remaining object then dimmed and disappeared.  After several minutes (3-4)both objects returned further down on the horizion about tree top level but several miles distant.  Once again they disappeared. they returned aprox. 2 minutes later over the horizion and one by one six distince objects appeared just  above tree top level equally spaced apart over an aprox one mile area.  The objects dimmed from east to west and five of the objects regrouped just to the west of their orgional position.  They stayed this way for several minutes then one by one the dimmed out and disappaered.  They did not reappear.  This was witnessed by myself, my wife, daughter and mother-in-law.  After observing the two lights at the start, my wife thought it to be a launch of either the space shuttle (which can be seen from our ranch) or a missle launch.  She came into the house, called for me to come out and got our digital camera and we were able to obtain photos of the objects.Several years ago, I was working as the head of security for a major corporation.  Several workers brought my attention to a similar incident involving two glowing objects.  These were also witnessed by several drivers and workers at the plant.  The duration of this event was also several minutes (15-20), and the objects also dimmed and reappeared several times, and traveled at tremendious speeds.((NUFORC Note:  Please see other reports from across the U. S. at this time, and for this date.   However,  we also know that there is a military reserve and bombing range in the vicinity of Avon Park, FL, where yellow flares are observed at night.  Avon Park is to the north-northeast of Moore Haven, which sits on the western shoreline of Lake Okeechobee.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21653.html](http://www.nuforc.org/webreports/reports/021/S21653.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161950.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161883.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161875.html)
-- [283](http://www.nuforc.org/webreports/reports/153/S153047.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153028.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
