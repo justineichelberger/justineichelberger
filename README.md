@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:23 on 2 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:31 on 2 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Duarte (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two satellite-like objects both traveling towards mountains and then disappearingOne satellite-like object was traveling at a fast speed going north towards the mountains. A second identical object trailed behind going the same direction at a slightly faster speed. The second object seemed to catch up. Both lights disappeared in the night. Both were too high up to hear anything.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68411.html](http://www.nuforc.org/webreports/reports/068/S68411.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Beacon (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 6PM  till after 7PM - 6PM  till after 7PM minutes.</sub><blockquote><sub>As I steped outside to the front of my house I saw what I thought was the radio tower of the mountain(Beacon MT.) it started to move slightly, then thought it was a helicopter. I saw a plain from a distance heading toward this object and it moved back in the air quite a distance above the plane as the plane headed toward it's direction. It then stayed above hovering I tried to look through binoculars on a steady point and this object just kept on moving around and I am unable to get a clear look, this is going on as I type this note</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41740.html](http://www.nuforc.org/webreports/reports/041/S41740.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161950.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161883.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161875.html)
-- [283](http://www.nuforc.org/webreports/reports/153/S153047.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153028.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
