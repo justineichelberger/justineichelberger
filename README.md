@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:30 on 2 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:23 on 2 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Seattle (corner of Mercer and Queen Anne Avenues) (WA) reported seeing craft that fit the description of some '' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>((NUFORC Note:  Military C-17 transports, flying at approximatelty 1,500' altitude.  Confirmed with FAA Low Flight Complaint duty officer, who received more than 100 calls about the flight.))I heard a loud aircraft sound.Looked up and saw two very large unidenified aircraft. flying very slow, very low,and very close together.The airplanes flew overhead, and I could see normal wings,tail,and body. Unusual though were lights on the right side of both aircraft. There seemed to be band of lights on the body of the aircraft,not like a passenger plane. I could not make out any markings that would Identify the planes. They moved like airplanes we have seen at air shows, like B17s. They were flying from the south, along Elliot bay toward the north. From where I was standing they looked like they were slightly banking to the left toward the san juans. After looking up I looked around and notice someone acrose the street taking notice of the aircraft as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11842.html](http://www.nuforc.org/webreports/reports/011/S11842.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Duarte (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two satellite-like objects both traveling towards mountains and then disappearingOne satellite-like object was traveling at a fast speed going north towards the mountains. A second identical object trailed behind going the same direction at a slightly faster speed. The second object seemed to catch up. Both lights disappeared in the night. Both were too high up to hear anything.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68411.html](http://www.nuforc.org/webreports/reports/068/S68411.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161950.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161883.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161875.html)
-- [283](http://www.nuforc.org/webreports/reports/153/S153047.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153028.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
