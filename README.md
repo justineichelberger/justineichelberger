@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:33 on 2 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:28 on 2 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Hesperia (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>((NUFORC:  A peculiar meteor was seen over California and Nevada at approximately 0604 hrs. on this date, as well.  Most likely a coincidence.))High Altitude partially luminescent rocket contrail. In the direction towards Lucerne Valley.I observed a partially luminescent rocket contrail just before sunrise in the eastern direction from Hesperia. Vandenburg is directly West of here approximately 100 miles. Normally when Vandenburg launches something like that it shows up above the far western horizon. It looked as though the contrail went into a complete 360 degree circle before disppearing. I've never seen anything like this to the east of here before and I never did see the actual object that left the trail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05731.html](http://www.nuforc.org/webreports/reports/005/S05731.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Boynton Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>While looking at the stars I saw strange light activityIt was around 5 am and as I looked up at the sky I saw a bright light.  At first I thought it was a shooting star but shooting stars have a long tail as it enters the atmosphere.  The object that I was looking at was bright and all of the sudden this object split into two bright lights and dimmed at exactly the same time and seemed to have vanished but that wasnt it, there was another object that appeared as soon as the lights split.  It came from between the burst of light and traveled straight.  I doubt that it was a plane because I have never seen a plane travel that fast and I am for sure that this event did not occur in the earths atmosphere.  I've seen this object in the sky for many years and I've been following it but this is the first time I've seen it do this.  All I know about this object is a very light blue color and that it seems to flee from the sunlight and it moves faster than anything on earth and it's brightness is so dim that you can barely see it but if you look at the sky closely it's always there and I usually see this object between 4 and 5:30 before sunrise.  It seems that I can sense it for some reason because I can look at the night sky and tell you exactly where it's at.  Ive shown plenty of people but they havent been able to explain it either.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55476.html](http://www.nuforc.org/webreports/reports/055/S55476.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161950.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161883.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161875.html)
-- [283](http://www.nuforc.org/webreports/reports/153/S153047.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153028.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
