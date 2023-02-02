@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:41 on 2 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:37 on 2 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lewisville (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three flare red lights over the Lewisville, TX night sky.Three flare red lights in the sky to the east of Lewisville, TX moving south or southeast one above the other in a straight line. It lasted from the point of coming from behind one building and disappearing behind another, around five minutes. These lights were not planes and had no flashing lights that seemed like any aircraft from America. The lights turned off and the objects were still there.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96180.html](http://www.nuforc.org/webreports/reports/096/S96180.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Youngsville (LA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>On February 2, 2010, at approximately 8:05pm, I was driving south on Louisiana State Highway 89 at Glaser Drive, just south of LA Hwy 182 near Youngsville, Louisiana 70592), when I saw what at first appeared to be a radio tower beacon.Knowing that there are no towers in the area, I paid close attention to the object.This was when I realized that the object was moving, in a SSW direction.  The object first appeared to be glowing, but after a closer look, it seemed to be aflame.It did not appear to be moving quickly, and I did not see it leaving a ‘trail’.  I thought that it was an emergency flare, but I think that a flare is more of a ‘glow’ than a ‘flame’, and this looked more like a flame.The object seemed to be about 60 degrees up from the horizon when I first spotted it, and directly ahead of me (90 degrees) when I lost sight of it (or at the point it ‘flamed out’).  I hope that I am using the right terminology here.It seemed to have lost some elevation as it moved away from me, but without knowing the altitude of the object, there is no way to know how much elevation was lost.The object either ‘flamed out’ or moved behind clouds at approximately 8:09 pm.After arriving home, I called 911, but they had received no other reports of the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74266.html](http://www.nuforc.org/webreports/reports/074/S74266.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161950.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161883.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161875.html)
-- [283](http://www.nuforc.org/webreports/reports/153/S153047.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153028.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
