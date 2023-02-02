@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:29 on 2 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:29 on 2 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in St. Francis (WI) reported seeing craft that fit the description of some 'Changing' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>http://youtube.com/watch?v=vHE2_svuSjY((NUFORC Note:  We have not looked at the footage.  We find that most of the "UFO" footage on U-Tube is not very interesting or satisfying.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56064.html](http://www.nuforc.org/webreports/reports/056/S56064.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in London (UK/England) () reported seeing craft that fit the description of some 'Diamond' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Black diamond shaped UFO over north londonI have just seen a very large UFO over New Barnet in London England; I saw the UFO at around 2.40 pm GMT and watched it for around 25 minutes. The UFO was large bigger than a 747 aircraft, it was black diamond shape, and it did change into a tube shape, than back again. It just hovered from left to right at about 250 feet, no sound but many airliners flew near to it as this part of London has many air routes over it, they must have seen something. I’ve just looked on the internet for a number or website to report this in Britain, couldn’t find one, sorry to trouble you, but I just had to report this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61369.html](http://www.nuforc.org/webreports/reports/061/S61369.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161950.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161883.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161875.html)
-- [283](http://www.nuforc.org/webreports/reports/153/S153047.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153028.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
