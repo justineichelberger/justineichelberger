@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:34 on 3 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:29 on 3 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Summerville (SC) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>While driving down the road we noticed a funny shaped light in the sky.  I first thought it was a plane, but realized it was like no other plane I had ever seen.  It was in the shape of a teardrop with a light at the front, which seem to flash.  The teardrop shape could have been from an aura.  I am not sure about that.  We were trying to see it between trees.  We finally got to an open field and pulled over to get a better look.  It lasted for about a minute longer and just disapeared.My wife and I were driving down the road we noticed a funny shaped light in the sky.  I first thought it was a plane, but realized it was like no other plane I had ever seen.  I spent ten years in the Air Force and have seen all types of aircraft, none of which looked and acted like this.  It was in the shape of a teardrop with a light at the front, which seem to flash.  The teardrop shape could have been from an aura.  I am not sure about that.  At this time, I thought maybe it was something falling into the atmosphere and burning up and the outer shape was the heat from it burning up.  Either way we didn't know.  We were trying to see it between trees.  We finally got to an open field and pulled over to get a better look.  It lasted for about a minute longer and just disapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11868.html](http://www.nuforc.org/webreports/reports/011/S11868.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Kure Beach (NC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Appeared over ocean single at first.  Thought it was a Shrimp Boat.  The second appeared about a minute later beside the first.  Then a third appears about 30 seconds after second.  All three stayed hovering over ocean for about 5 more minutes.  Then all three went into water and made water glow same orange as spheres were right around them.  They then disappeared.  No sound at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161941.html](http://www.nuforc.org/webreports/reports/161/S161941.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/161/S161885.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161907.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161886.html)
-- [245](http://www.nuforc.org/webreports/reports/161/S161887.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161941.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
