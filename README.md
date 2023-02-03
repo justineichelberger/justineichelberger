@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 3 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:26 on 3 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Atlanta (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately Less than minute - Less than minute minutes.</sub><blockquote><sub>Light stationary in sky then ascends at incredible speed at abt 45 to 55 degree angleCan only give an approximation, but know it was before Feb 4, 1993, possibly on the 3rd.  Don't remember the exact time but it was early twilight so probably between 6 and 6:30 PM(?), the sun was below the horizon, no glare remaining, just a gradated deepening evening blue.  We were heading west on Ponce De Leon toward Midtown and I was a passenger in the car, front seat.  I was not on any medication, nor had I had any alcohol.  A bright white light appearing to hover near a Midtown skyscraper eventually caught my attention, about a mile distant.  Don't remember the light's  approximate elevation as far as stories go but it was to the right (north) of the skyscraper, several stories lower than the skyscraper's height but above any other buildings in the vicinity.  We were on a hill going toward Midtown and I was looking pretty much straight ahead at the light, not having to peer up into the sky.  I watched the light without thinking anything about it, then began to think about it and imagined it was the bright beam of a helicopter.  As I watched it struck me that it wasn't appearing to move.  By now I was curious because you expect the beam of a helicopter to waver as the vehicle moves and to grow brighter as it progresses, and imagining it a helicopter I had begun to watch for this as it hadn't happened yet.  I was still expecting it to be a helicopter, and so had  mentioned nothing to the driver  about it, when suddenly the light ascended at an incredible rate of speed into the sky, to the north, at about a 45 to 55 degree angle. Before you could snap your fingers it was gone, that fast, from what seemed an absolutely stationary position in the sky.  No trail.  No sound. There appeared to be no acceleration.    The amount of time I spent watching the light before it zipped off may have been as little as 30 seconds, probably no longer than a minute.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52504.html](http://www.nuforc.org/webreports/reports/052/S52504.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ritzville (WA) reported seeing craft that fit the description of some 'Cone' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>'cone-shaped mystery near Orion.My son (44 yrs. old) just called from Eastern Washington state to report a "cone-shaped" something with a "head" on it..  Enormous, above and to the right of Orion.  8 p.m.At 8:30 he called back to report this:  "out-gassing cometary fragment ? gas fluoresced into greenish gas thought it might be aurora, but didn't move"  He doesn't think now that it is/was a UFO.... but it was certainly a thrilling experience.A meteor would have been fiery.  Something blew up, or 'exhausted'?  We could not see it from Bellevue, WA, 200 miles west of him.Did anyone else see this?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109181.html](http://www.nuforc.org/webreports/reports/109/S109181.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/161/S161885.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161907.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161886.html)
-- [245](http://www.nuforc.org/webreports/reports/161/S161887.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161941.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
