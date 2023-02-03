@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:03:48 on 3 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:30 on 3 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Katoomba (Australia) () reported seeing craft that fit the description of some 'Cone' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright green cone shaped vibrating object.I was suprised to see such a large green cone shaped object coming my way as I drove home from work.  At first I noticed a shooting light coming towards me from nw skies, as it came closer it became larger and vivid in its bright green colour and the cone was changing shape on top like ripples or frequency change that gave a more squared of top as it descended downwards.  It was an amazing sight, so close, but so far I guess!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96202.html](http://www.nuforc.org/webreports/reports/096/S96202.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Federal Way (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>bright lights hovering over federal way waThere were two bright lights hovering in the north west sky.  They were both far brighter than any stars.  I watched them for nearly ten minutes and they never moved, although they both were changing colors.  I stopped watching them for a few minutes and when I returned, they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87000.html](http://www.nuforc.org/webreports/reports/087/S87000.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/161/S161885.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161907.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161886.html)
-- [245](http://www.nuforc.org/webreports/reports/161/S161887.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161941.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
