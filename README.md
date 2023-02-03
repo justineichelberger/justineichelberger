@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:38 on 3 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:26 on 3 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Goodyear (AZ) reported seeing craft that fit the description of some '' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>New sighting of Phoenix Lights. February 3, 2015.This sighting took place on February 3, 2015, at 9:16pm in Goodyear, Arizona.  We were turning right onto Estrella Blvd to head north, but saw something in the rearview mirror in the sky.  We immediately did a u-turn and saw what appeared to be a ufo. We began driving south on Estrella Blvd, towards the ufo.  It was moving south over the Estrella mountains.There were approximately 8 to 10 yellow-orange lights in a row moving together.  It was definitely moving and was very large in comparison to the mountains.  The lights kept moving south until they went over the mountain at an angle and we watched as there were less and less lights, until just one light was visible and then it was completely gone over the mountain.The entire sighting lasted 3-4 minutes.  We were able to get a few photos and a video as we were driving.  The link to the uploaded video is below and I will also try to email it along with the few photos. http://youtu.be/xQaf9rDuRTo</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117151.html](http://www.nuforc.org/webreports/reports/117/S117151.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Largo (FL) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 140</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144787.html](http://www.nuforc.org/webreports/reports/144/S144787.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/161/S161885.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161907.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161886.html)
-- [245](http://www.nuforc.org/webreports/reports/161/S161887.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161941.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
