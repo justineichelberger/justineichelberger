@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:48 on 3 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:06 on 3 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Roxboro (NC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Me and my friend were driving home from a party and we saw two spherical objects off to the west.  They were red/orange in color and they looked about the size of a tennis ball.  The things looked to be about 5-15 miles away.  They hovered where we fifirst saw them.  Since we wanted to know what they were we drove twoard them.  after about four or five minutes they dissapeard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34889.html](http://www.nuforc.org/webreports/reports/034/S34889.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Kure Beach (NC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Appeared over ocean single at first.  Thought it was a Shrimp Boat.  The second appeared about a minute later beside the first.  Then a third appears about 30 seconds after second.  All three stayed hovering over ocean for about 5 more minutes.  Then all three went into water and made water glow same orange as spheres were right around them.  They then disappeared.  No sound at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161941.html](http://www.nuforc.org/webreports/reports/161/S161941.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/161/S161885.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161907.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161886.html)
-- [245](http://www.nuforc.org/webreports/reports/161/S161887.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161941.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
