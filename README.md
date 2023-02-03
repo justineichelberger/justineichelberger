@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:29 on 3 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:48 on 3 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Kure Beach (NC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Appeared over ocean single at first.  Thought it was a Shrimp Boat.  The second appeared about a minute later beside the first.  Then a third appears about 30 seconds after second.  All three stayed hovering over ocean for about 5 more minutes.  Then all three went into water and made water glow same orange as spheres were right around them.  They then disappeared.  No sound at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161941.html](http://www.nuforc.org/webreports/reports/161/S161941.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Chattaroy (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 56.0 - 56.0 minutes.</sub><blockquote><sub>We saw a UFO on Thursday February 3, 2012, in the Southeastern sky.  It was a circular shape, and had red, blue, yellow and white flashing (strobing) lights on the bottom.  The lights came from the center of the UFO and strobed to the outside of the craft in a star pattern.  It rotated slowly, and proceeded to (dance) do figure 8's in the sky while staying in the same area.  It moved diagonally, left, and right, but very fast.  Faster than a plane or helicopter could fly.  Then suddenly the light dimmed and disappeared.  Then to the Southwestern sky we saw a very large white light that seemed to be suspended in the air.  It remained until the first one disappeared.((NUFORC Note:  We have changed the time above to reflect an evening sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87002.html](http://www.nuforc.org/webreports/reports/087/S87002.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/161/S161885.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161907.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161886.html)
-- [245](http://www.nuforc.org/webreports/reports/161/S161887.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161941.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
