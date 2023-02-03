@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:06 on 3 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:25:50 on 3 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Kure Beach (NC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Appeared over ocean single at first.  Thought it was a Shrimp Boat.  The second appeared about a minute later beside the first.  Then a third appears about 30 seconds after second.  All three stayed hovering over ocean for about 5 more minutes.  Then all three went into water and made water glow same orange as spheres were right around them.  They then disappeared.  No sound at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161941.html](http://www.nuforc.org/webreports/reports/161/S161941.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Derby (UK/England) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Disappearing line of Star-Like ObjectsI opened my bedroom curtains at approximately 06:10 today. It was still dark. I looked up into the night sky and saw a selection of stars which I began to focus on as it was a clear and calm night sky. As I looked up I suddenly got a strange feeling of movement in the sky which captured my attention and as I began to focus I observed one star moving slowly vertically into space. I was unsure whether it was just my imagination but then I saw another star moving along the same path behind the first and then several more. They were all following the same bearing of approximately 060 degrees and when I compared this movement with two brighter adjacent stars I got the sensation that the Earth was rotating towards me. This continued for at least 30 seconds with more star like objects following the same rotating line. Eventually, I could see the end of the line of moving stars until it finally disappeared leaving the original selection of stars first seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161896.html](http://www.nuforc.org/webreports/reports/161/S161896.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/161/S161885.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161907.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161886.html)
-- [245](http://www.nuforc.org/webreports/reports/161/S161887.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161941.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
