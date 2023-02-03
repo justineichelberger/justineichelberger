@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:26 on 3 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 3 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ritzville (WA) reported seeing craft that fit the description of some 'Cone' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>'cone-shaped mystery near Orion.My son (44 yrs. old) just called from Eastern Washington state to report a "cone-shaped" something with a "head" on it..  Enormous, above and to the right of Orion.  8 p.m.At 8:30 he called back to report this:  "out-gassing cometary fragment ? gas fluoresced into greenish gas thought it might be aurora, but didn't move"  He doesn't think now that it is/was a UFO.... but it was certainly a thrilling experience.A meteor would have been fiery.  Something blew up, or 'exhausted'?  We could not see it from Bellevue, WA, 200 miles west of him.Did anyone else see this?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109181.html](http://www.nuforc.org/webreports/reports/109/S109181.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Saint Cloud (FL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>i was watching tv and through the window i saw lights and thought it to be an airpline, it was moving to slow and stopped i thought it was a hellicopter,  but it was funny looking and had lights on both ends and on top of center.  it stood there and i ran to get my camera and gone for 1 second when i came back it was no where to be seen.  not a light in the sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55099.html](http://www.nuforc.org/webreports/reports/055/S55099.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/161/S161885.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161907.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161886.html)
-- [245](http://www.nuforc.org/webreports/reports/161/S161887.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161941.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
