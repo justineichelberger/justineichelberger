@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:25 on 3 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:32 on 3 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Nashville (TN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Metallic shapes circling overhead, then flying off to the northeast.While I was in my backyard, I noticed a leaking gutter.  When I looked up, I noticed a small metallic shape in the sky.  I, at first, thought it was a high flying plane, but then I saw it was traveling in a very tight clockwise circle.  Then I realized there was another flying in a counterclockwise circle next to it.  The flight paths never intersected but passed extremely close to one another.  I could not make out the exact shape of them because they were so high.  They did seem to be metallic.  Also, there were no flapping movements like birds.  If they were birds they would naturally fly with each other not in opposing circles.  After I observed this for about 5-10 minutes, one of them flew off to the north-east.  Soon afterwards the second one followed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117170.html](http://www.nuforc.org/webreports/reports/117/S117170.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Australia () reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>Google moon 22 34'56.06" N 142 40'54.30" E  Square shape same light arrangement of other UFO nearby to the left  My name is ((name deleted))Google moon 22 34'56.06"N 142 40'54.30"E Square shape same light arrangement of other UFO nearby to the left.My name is ((name deleted)) and feel free to call me ((number deleted)) (aussie mobile number)((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106889.html](http://www.nuforc.org/webreports/reports/106/S106889.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/161/S161885.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161907.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161886.html)
-- [245](http://www.nuforc.org/webreports/reports/161/S161887.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161941.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
