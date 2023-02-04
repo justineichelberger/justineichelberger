@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:28 on 4 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:14 on 4 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Three amber ovals quicly transited the sky above San Francisco in loose formation at high altitudeWitnessed three amber colored oval shapes move across the horizon from East to West directly above San Francisco. They appeared to be at very high altitude and so were two or three times as large as the biggest stars in the sky. They were amber in color but it was more of a glow than a direct light source. They moved very quickly, much faster than any conventional aircraft as they went from the edge of the eastern horizon to the western skyline in about one minute. The objects flew in formation, but were constantly moving around one another in erratic sideways and diagonal movements that conventional aircraft are incapable of. While the movements were erratic they did seem coordinated and with purpose.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61429.html](http://www.nuforc.org/webreports/reports/061/S61429.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Driving on freeway looked up and saw two steady white lights (like headlights) in the sky.  As we passed under the object a third light was visible marking the points of an equilateral triangle.My girlfriend and I were driving to meet some friends and were travelling on 610-Southbound about five miles north of the Ship Channel Bridge. While I was driving my girlfriend looked up at the sky where she noticed two non-flashing white lights in front of us and a little to the west. As we continued driving southbound we noticed that the two lights were not moving at all and were too bright to be a plane. After about two minutes of driving southbound we began to move to a vantage point that was beneath the stationary object and noticed a third light completing an equilateral traingle on the underside of the object.  The lights remained perfectly round from the side (headlights) view as well as the underside view. The object produced no sound and held its position as we left it behind us.  Afterward, we noticed a large amount of air traffic in the Houston area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11982.html](http://www.nuforc.org/webreports/reports/011/S11982.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/162/S162087.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161906.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161960.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161909.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161911.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
