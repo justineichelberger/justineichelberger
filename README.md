@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:26 on 4 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:24 on 4 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in New Paris (OH) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Insane lights and creepy high pitch noise omitting from diamond shaped objectI was getting ready to head to class and as I was entering my vehicle I noticed I funny looking object.  It was in the shape of a diamond and had an odd resemblace of a pig's head.  It was bouncing back and fourth so quickly that I could hardly keep my eye on it.  It release some type of super high pitch or frecquency that sounded quit disturbing.  It appeared to notice me!  I ran inside and called my friend.  I will refer to him as Sully.   Sully told me to contact the authorities at once but I decided not to after researching ufos and seeing that they like to cover up ligit reports.  I am scared and paranoid about what happened and it is not sitting well with me at all. I would really like to know what the heck it was!!!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68441.html](http://www.nuforc.org/webreports/reports/068/S68441.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Tulum (ancient city) (Mexioc) () reported seeing craft that fit the description of some 'Disk' over a period of approximately ? - ? minutes.</sub><blockquote><sub>Saucer over Tulum RuinsI have an Image of this craft. It seems to be stationary over the ruins of Tulum Mexico.((NUFORC Note:  We will invite the witness to forward a copy of the graphic.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41999.html](http://www.nuforc.org/webreports/reports/041/S41999.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/162/S162087.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161906.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161960.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161909.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161911.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
