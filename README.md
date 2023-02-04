@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:39 on 4 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:39 on 4 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Estes Park (CO) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright light with attached string of lights in Eastern sky of Estes ParkApproximately 21:00  on 2/3/2016, I was travelling west on CR43 from Estes Park to Glen Haven.  Saw a bright light in the Eastern sky which was not moving.  The object was at approximately a 30 degree angle above the horizon.   Was  a clear night.Looked like  O___    The O was a bright white light with the ___ attached to the O with varied colored lights which were not blinking.  Looked at object up to my home location lane.  Followed the object all the way up my lane.  Was not facing the object when exiting my auto; when turned around to obtain a better view of the object; it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125638.html](http://www.nuforc.org/webreports/reports/125/S125638.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Aberdeen (UK/Scotland) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>BRIGHT BLUE COMET LIKE STRUCTUREWHILE TRAVELLING ALONG QUEENS ROAD, HEADING TOWARD ABERDEEN CITY.I CLEARLY SAW WHAT I CAN ONLY DESCRIBE AS A COMET LIKE STRUCTURE FALLING TOWARD EARTH.IT WAS BURNING VICIOUSLY AND WAS LEAVING A TRAIL BEHIND THE MAIN BODY.THE MAIN BODY WAS BURNING BRIGHT BLUE AND THE TAIL WAS COMPLETELY BLUE BUT OF A PALER SHADE.I REALLY COULD NOT ESTIMATE THE SIZE OF THE OBJECT BUT SUFFICE TO SAY IT WAS EXTREMELY CLEAR AND I FELT OTHER PEOPLE MUST HAVE SEEN IT.AT THE ANGLE OF DESCENT I WOULD APPROXIMATE IT FELL INTO THE NORTH SEA JUST SOUTH OF ABERDEEN AND SOME MANY MILES FROM SHORE.I DID CONTACT ABERDEEN CITY POLICE ABOUT 30 MINS LATER BUT THEY HAD NO OTHER CALLS AT THAT TIME.SKY WAS CLEAR AND CLOUD FREE.SKY WAS DARK WITH ZERO DAYLIGHT.THE OBJECT WAS TRAVELLING FROM NORTH TO SOUTH..FROM MY LEFT TO MY RIGHT.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22315.html](http://www.nuforc.org/webreports/reports/022/S22315.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/162/S162087.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161906.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161960.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161909.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161911.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
