@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:19:05 on 4 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:25 on 4 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Irving (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Feb. 4 2021 Irving, Tx. 2 600 ft cigar shaped grey / transparent flying in formation 1000mph+ 10 planes near object by DFW airportTraveling north at altitude of 3000ft roughly 1000mph. Was watching the planes come in as i live southeast of dfw airport while smoking a cigarette. There was 8 to 10 planes in my line of sight getting ready to land and i saw 2 cigar shaped grey/ transparent flying close together in offset formation maybe 50 to 100ft apart at same altitude but maybe 5x speed and 6x to 7x bigger together so maybe each object was 3x bigger than 1 plane. They were very near to planes maybe less than a 1/2 mile in the air. Passengers had to have seen them. Was traveling north for about 15 seconds and instantly banked nnw directly headed toward airport for roughly 15 seconds until out of sight. It was scary and cool as they were cloaked but still visible. I wanted to call 911 for safety of passengers but dont want to be made fun of. Thats why i googled how to report sightings and found this sight. I want to say im 100% sure what it was it wasnt birds or planes or even trash. This! is not a hoax and no explanation can be given to this except for ufo. I think this here is all the information i can give also im not familiar with this site i hope someone sees this message and im not wasting my time. Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161911.html](http://www.nuforc.org/webreports/reports/161/S161911.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Downey (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>1 light, joined by two more form triangle and perform some formations, before disappearing and flying away in a pattern.First off..i was coming home from a friends house, when i saw, what i believed to be an extrememly bright star.  I looked at it for a while, since i am quite interested in the sky, and stars and the such, and after looking for a good minute or so, i noticed 2 more of the same circular lights form behind it seemingly out of nowhere.  They then moved into a triangular shape and began to move foward.  They then started performing some type of movements..where the back two objects would split apart from the formation, and the front object would come foward..afer doing this formation three times, the back two lights disappeared completely and suddenly, and the first one took off in a straight line at an alarming rate of speed.  It then turned left after going for a good 10 seconds..then 5 seconds later turned right, headed straight for another 20 seconds, then turned left again and kept going.  This all happened over a little culvasack street, at about 6 at night or so.  It really freaked me out</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21706.html](http://www.nuforc.org/webreports/reports/021/S21706.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/162/S162087.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161906.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161960.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161909.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161911.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
