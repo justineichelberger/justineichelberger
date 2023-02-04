@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:25 on 4 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:23 on 4 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Glenolden (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately Several Seconds - Several Seconds minutes.</sub><blockquote><sub>The sky lit up blue - there was a black figure within the light. (Distinct shape)My friend and I were sledding at approximately 12:00AM on February 5th, 2009.  It was a particularly beautiful night, snowing kind of heavily, so we went to the park.  Everything was completely normal, so we proceeded to sled with no strange thoughts or fears.  After about 15 minutes of sledding, we were both resting at the top of the hill.  Suddenly, we saw a giant flash of blue in the sky.  It was an intense blue-white light that lit up the whole sky.  I did not see anything but the light as I was looking down.  However, my friend claims to have seen a black, non-solid, ovaly-rectangular shape in the sky, omitting the light (unexplainable because she saw it so quickly.)  She says that the shape was not completely solid (picture an open black folding chair, upside down but more oval-shaped.  The sky was visible through a hole in the shape.)  The object flew over the horizon.  The event was about two or three seconds.  It scared the living hell out of us.  We quickly left, assuming the incident was some sort of terrorist attack.  When we returned home, we called the news (they said nothing else had yet been reported.)  We are terrified with no explanation of what happened.  This seems totally unnatural.  We were sober and drug-free during the period of this event.  No other notable events happened except the wind blew a bit more heavily and there was a plane that passed by (we did not see it, but we heard it.)  Also, no other noises accompanied the incident.((NUFORC Note:  Flaw in date.  We suspect that the event may have occurred at midnight on February 04, and we have amended the date above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68431.html](http://www.nuforc.org/webreports/reports/068/S68431.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Arlington (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Fighter planes chase light over Washington, DC, area.At 11 pm on Feb 4th I was awakened to a sound of fighter planes overhead. nI live right next to the Pentagon in a high rise.  I have not heard fighter planes since Sept 11th.  The noises were very loud rising and falling as the planes went overhead.I stepped out on my 16th floor balcony and could see two faint white lights moving in a circular pattern overhead.  I could not see the fighter plane or planes...but could see these lights.  One disappeared...but the other moved in a s shaped pattern and circled back...it did not happen any other lights on it.  Just a single white light.I called the local news station (radio) and reported what I had seen.  They said another man from Mclean, VA, had done the same.  (7 miles away maybe) I called a friend during the event..and he heard the noises as well..but did not see what i saw.Left a message with Washington Post.  Radio station said they would get to the bottom of it.  This was the State of the Union address night...so security was high...but the lights i saw were not moving in a normal pattern</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153080.html](http://www.nuforc.org/webreports/reports/153/S153080.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/162/S162087.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161906.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161960.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161909.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161911.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
