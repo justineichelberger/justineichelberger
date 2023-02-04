@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:25 on 4 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:23 on 4 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Olympia (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>light appeared far away in the sky, moved at same speed for about 1 min. then disapeared.My friend and I were walking to his house from my house, its not that far, but I have a long driveway and we were about halfway down it when I asked him if he wanted to sleep outside. He asked me if I was crazy since it was a cold night. I stopped him and said but look at all the stars, they are so cool. I was pointing out some constellations when all of the sudden he grabbed me and yelled "look", I turned and looked as he pointed to a light that looked like a star, but it was moving at a constant speed across the sky kind of fast. It went for about a minute then disappeared I was kid of freaky and cool at the same time. most of the people we told tonight have laughed it off, but I swear with what ever I can that this happened tonight, And it's not the first time neither. This happened on 2-4-00  approximately 7:30 p.m.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11882.html](http://www.nuforc.org/webreports/reports/011/S11882.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Puyallup (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red sphere moved across the sky in a straight line.  After like a minute it would shoot some sort of flares straight down.  For sure it didn't look like a plane.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106929.html](http://www.nuforc.org/webreports/reports/106/S106929.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/162/S162087.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161906.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161960.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161909.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161911.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
