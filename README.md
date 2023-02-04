@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:31 on 4 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:39 on 4 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Corpus Christi (TX) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>WHITE CYLINDER OBJECT MOVING ACROSS THE SKY, ZOOMING AWAY AT A 45 DEGREE ANGLEWHITE CYLINDER OBJECT MOVING ACROSS THE AFTERNOON SKY. MADE NO NOISE OR LEFT ANY TRAIL. MANAGED TO VIDEO TAPED THE OBJECT FOR ABOUT 20 SEC. BEFORE IT ZOOMED AWAY AT A 45 DEGREE ANGLE AT A HIGH RATE OF SPEED. FURTHER REVIEW OF THE TAPE AT A LOCAL T.V. STATION REVEILED THE INCIDENT AS BIZZARE AND UNEXPLAINABLE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19189.html](http://www.nuforc.org/webreports/reports/019/S19189.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Estes Park (CO) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright light with attached string of lights in Eastern sky of Estes ParkApproximately 21:00  on 2/3/2016, I was travelling west on CR43 from Estes Park to Glen Haven.  Saw a bright light in the Eastern sky which was not moving.  The object was at approximately a 30 degree angle above the horizon.   Was  a clear night.Looked like  O___    The O was a bright white light with the ___ attached to the O with varied colored lights which were not blinking.  Looked at object up to my home location lane.  Followed the object all the way up my lane.  Was not facing the object when exiting my auto; when turned around to obtain a better view of the object; it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125638.html](http://www.nuforc.org/webreports/reports/125/S125638.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/162/S162087.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161906.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161960.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161909.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161911.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
