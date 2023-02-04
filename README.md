@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 3 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:28 on 4 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Saint Cloud (FL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>i was watching tv and through the window i saw lights and thought it to be an airpline, it was moving to slow and stopped i thought it was a hellicopter,  but it was funny looking and had lights on both ends and on top of center.  it stood there and i ran to get my camera and gone for 1 second when i came back it was no where to be seen.  not a light in the sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55099.html](http://www.nuforc.org/webreports/reports/055/S55099.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Three amber ovals quicly transited the sky above San Francisco in loose formation at high altitudeWitnessed three amber colored oval shapes move across the horizon from East to West directly above San Francisco. They appeared to be at very high altitude and so were two or three times as large as the biggest stars in the sky. They were amber in color but it was more of a glow than a direct light source. They moved very quickly, much faster than any conventional aircraft as they went from the edge of the eastern horizon to the western skyline in about one minute. The objects flew in formation, but were constantly moving around one another in erratic sideways and diagonal movements that conventional aircraft are incapable of. While the movements were erratic they did seem coordinated and with purpose.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61429.html](http://www.nuforc.org/webreports/reports/061/S61429.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/161/S161885.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161907.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161886.html)
-- [245](http://www.nuforc.org/webreports/reports/161/S161887.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161941.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
