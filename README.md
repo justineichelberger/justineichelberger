@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:14 on 4 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:19:05 on 4 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Driving on freeway looked up and saw two steady white lights (like headlights) in the sky.  As we passed under the object a third light was visible marking the points of an equilateral triangle.My girlfriend and I were driving to meet some friends and were travelling on 610-Southbound about five miles north of the Ship Channel Bridge. While I was driving my girlfriend looked up at the sky where she noticed two non-flashing white lights in front of us and a little to the west. As we continued driving southbound we noticed that the two lights were not moving at all and were too bright to be a plane. After about two minutes of driving southbound we began to move to a vantage point that was beneath the stationary object and noticed a third light completing an equilateral traingle on the underside of the object.  The lights remained perfectly round from the side (headlights) view as well as the underside view. The object produced no sound and held its position as we left it behind us.  Afterward, we noticed a large amount of air traffic in the Houston area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11982.html](http://www.nuforc.org/webreports/reports/011/S11982.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Irving (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Feb. 4 2021 Irving, Tx. 2 600 ft cigar shaped grey / transparent flying in formation 1000mph+ 10 planes near object by DFW airportTraveling north at altitude of 3000ft roughly 1000mph. Was watching the planes come in as i live southeast of dfw airport while smoking a cigarette. There was 8 to 10 planes in my line of sight getting ready to land and i saw 2 cigar shaped grey/ transparent flying close together in offset formation maybe 50 to 100ft apart at same altitude but maybe 5x speed and 6x to 7x bigger together so maybe each object was 3x bigger than 1 plane. They were very near to planes maybe less than a 1/2 mile in the air. Passengers had to have seen them. Was traveling north for about 15 seconds and instantly banked nnw directly headed toward airport for roughly 15 seconds until out of sight. It was scary and cool as they were cloaked but still visible. I wanted to call 911 for safety of passengers but dont want to be made fun of. Thats why i googled how to report sightings and found this sight. I want to say im 100% sure what it was it wasnt birds or planes or even trash. This! is not a hoax and no explanation can be given to this except for ufo. I think this here is all the information i can give also im not familiar with this site i hope someone sees this message and im not wasting my time. Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161911.html](http://www.nuforc.org/webreports/reports/161/S161911.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/162/S162087.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161906.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161960.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161909.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161911.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
