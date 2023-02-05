@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:21 on 5 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:23 on 5 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Honolulu (HI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>At approximately 6:03 a.m. this morning I walked out into the driveway to put the trash receptacle by the street for pick up.  It was still dark out.  I looked up at the sky and saw round white lights going over the mountain range in a straight line with a space in between each light.  I noticed the two of the white lights were very close together but the rest were spaced out evenly.  I started to count how many I saw as I called for a witness to come out of the house and view this with me.  I counted approximately 25 of them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153082.html](http://www.nuforc.org/webreports/reports/153/S153082.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Burbank (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>V-shaped craft with 4-bright lights on it's front tow sides, traveled over the 101 Freeway in Los Angeles, CA.Entering the 134 Freeway heading west, I noticed a large dark craft with four bright lights (two lights on each side) moving at a slow speed above the freeway in the distance (1/2 of a mile) away. The 134 Freeway then turns into the 101 Freeway going north.  Once I was on the 101, I noticed the the craft was traveling at a very low speed (traffic below was moving at least 65mph) while the craft slowly moved east.  The four lights were very bright and the craft itself was black with no reflection to the solid (metal?) frame. As I came up to the side of the craft (my driver side), I noticed that the craft was in a trianular shape with a smaller triagular shape tail at it's end (like a whales fin - flat).  Once I passed the craft, from the back, you could barley see the it.  The lights that were bright from the front, where not visible from behind. Some how, the crafts metal frame was absorbing the light that it was giving off (four front lights were bright, but gave no reflection to the craft, unlike the lights on a car, once you get close enough, you can see the detail of the grill). Last night a good friend of mine told me that he saw the same craft on Sunday, Feb. 8th at 8:00pm over the 90 Freeway (Marina Del Rey Freeway). He gave me the same discript of craft and it's movement.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34993.html](http://www.nuforc.org/webreports/reports/034/S34993.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [269](http://www.nuforc.org/webreports/reports/161/S161897.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161930.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161947.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161956.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161929.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
