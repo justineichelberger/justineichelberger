@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:21 on 5 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:22 on 5 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Azle (TX) reported seeing craft that fit the description of some 'Cross' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>The "objects" flew directly over me about 50 feet in the air. The "objects" were redish orange in color and all but one were about 10 feet long. The one "small" object was about 5 or 6 feet long. The "objects" disapeared with out a trace headed East toward Lake Worth.((NUFORC Note:  Witness provides no contact information.  Possible hoax.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49043.html](http://www.nuforc.org/webreports/reports/049/S49043.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Auckland (New Zealand) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A long line of hundreds of lights moving North from low in the Western sky, quickly at 22.35 on 02/05/21 in Waiuku, Auckland, NZ.A very long straight line of lights that appeared to look the same height and size of the stars seen in the night sky were travelling from the West horizon straight up, reaching a length that took up a quarter of the skies length, and vanishing at the same point one after the other. It appeared to be hundreds if lights, all moving at the same speed quite quickly. When I saw the line of moving lights I called my partner outside to witness them as well. He got to see them for about 30 seconds while I ran to get my phone to film them, but they had all gone by the time I returned outside.I am a 50 year old mum of 3 boys, and my partner is a 46 year old  engineer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161956.html](http://www.nuforc.org/webreports/reports/161/S161956.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [269](http://www.nuforc.org/webreports/reports/161/S161897.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161930.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161947.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161956.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161929.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
