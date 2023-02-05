@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:28 on 5 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:25 on 5 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in Houma (LA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>walking home i saw a gray saucer in the sky!!!!!!i was twelve years old. i was coming home from school which was down my street.  i looked up at my neighbors house and between the roof and the tree i saw a gray saucer. i remember it like it was yesterday.  it had a dome top and dome bottom and completely gray.  i stood there for what seemed like eternity and watched it pass from the branch to the back of the house.  after it passed, i ran inside to grap a camera, and my mom said where have you been?  i told her i was outside and she said she had been calling my name for half an hour, but i never heard her.  it was complete silence.  after 18 years, i still can remember the cars on the street, the colors of the houses, and the sounds of the neighborhood.  i never told anyone till now because my sister was military intelligence in the army.  but sitting here at the age of 30 i know what i saw!((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50742.html](http://www.nuforc.org/webreports/reports/050/S50742.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Farmington (UT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Black orb moving across a bright patch of sky in the early morning.I was getting ready for the day, when I looked outside and saw a patch of sky on the western horizon that was bright as day, but the sun was still behind the mountains so it was dark everywhere else. Then I saw a black, perfectly round orb, about the size of a dime from my perspective move across the sky.  It was only visible for about 10 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117173.html](http://www.nuforc.org/webreports/reports/117/S117173.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [269](http://www.nuforc.org/webreports/reports/161/S161897.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161930.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161947.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161956.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161929.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
