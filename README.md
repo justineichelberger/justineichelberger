@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:24 on 5 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:21 on 5 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in South Barrington (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>5 circular UFO's were seen flying over The Glen of South Barrington.Multiple circular UFO's seen flying over The Glen of South Barrington in a matter of minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125659.html](http://www.nuforc.org/webreports/reports/125/S125659.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Honolulu (HI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>At approximately 6:03 a.m. this morning I walked out into the driveway to put the trash receptacle by the street for pick up.  It was still dark out.  I looked up at the sky and saw round white lights going over the mountain range in a straight line with a space in between each light.  I noticed the two of the white lights were very close together but the rest were spaced out evenly.  I started to count how many I saw as I called for a witness to come out of the house and view this with me.  I counted approximately 25 of them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153082.html](http://www.nuforc.org/webreports/reports/153/S153082.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [269](http://www.nuforc.org/webreports/reports/161/S161897.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161930.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161947.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161956.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161929.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
