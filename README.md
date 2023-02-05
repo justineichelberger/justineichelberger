@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:04:51 on 5 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:30 on 5 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in Hoppers Crossing (Australia) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>three u.f.o in triangular formation 500m apart moving slowly sidewards then rapidly then 90deg upward and goneone object slowly followed a group of people 30m above whilst walking down the road after disembarking a train they panicked and dropped possesions and ran my sister one of them greatly upset she pointed to the object i then jogged over to its location thinking it was a helicopter but once under the craft i made out its shape oval with strange retangular lights pulseing in a circular motion different colors whilst still moving sidewards slowly it travled over the top of a tree to my amazement the upper part of the tree shivered/vibrated the sound of an electrical transformer i my self retreated and looked out to see the other two craft all syncronized and drifting together in a triangular formation 500m apart 3 min later they speed off at great speed then did an abrupt upward turn through the cloads and gone i saw objects lit((NUFORC Note:  Time and date are approximate.  We would like to see other reports of the event.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20480.html](http://www.nuforc.org/webreports/reports/020/S20480.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Los Banos (near) (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>it was a flying circle that had two lights and one shining on the ground  near a light colered house.i was driving south on Interstate 5 near Los Banos when i looked to my left and saw two lights in the sky. I first thought it was a plane but it slowly did a u turn and i thought "that was wierd." I said to my friend, "look a ufo."  She was reading my On Star manual and didn't look at first.  When i said it a second time she was like, "oh my gosh, what is that." I should have pulled over because i was so amazed at this UFO that i wasn't keeping my eye on the road.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27567.html](http://www.nuforc.org/webreports/reports/027/S27567.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [269](http://www.nuforc.org/webreports/reports/161/S161897.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161930.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161947.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161956.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161929.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
