@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:26 on 5 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:27 on 5 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Monroeville (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I saw an object hovering high in the sky above my houseI went to my kitchen sink to wash my hands and felt like I should look up into the sky through my kitchen window above the sink.  I saw an object hovering very high in the sky above my property.  It looked like it could be an airplane but it was not moving.  It had a white light in the middle and two red lights on either side of it. I thought it was odd that it did not move naturally like an airplane as I continued to stare at it, it finally moved over my home and out of my sight.  My son thinks it is US government doing testing.  I agree.  We also live close to the Philadelphia airport.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42295.html](http://www.nuforc.org/webreports/reports/042/S42295.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Wahiawa (HI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.4 - 0.4 minutes.</sub><blockquote><sub>One Bright Red Fire Looking Round Light with Seven Smaller White Lights Following In Weird Pattern Moving West (Hawaii).05Feb, 2014, 21:12.  Just arrived home from having dinner with my wife.  As soon as I exited my vehicle I saw a small but very bright red fire looking sphere in the sky fluctuating in size.  I immediately told my wife “look babe what is that”.  We then noticed about 7 other smaller white lights behind it all moving west in the same direction but in a very weird pattern.  Some faster than others at first then the same ones slower than the others.  All of them started dimming at the same time until only about two of the small white ones were barely visible.  Amazing sight and still baffled at what they could have been.  Glad I got to see that with a witness, better yet, my wife.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106961.html](http://www.nuforc.org/webreports/reports/106/S106961.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [269](http://www.nuforc.org/webreports/reports/161/S161897.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161930.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161947.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161956.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161929.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
