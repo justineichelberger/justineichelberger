@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:27 on 4 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:29 on 5 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Goleta (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>shiny metal cluster of spheres over goletaI was intentionally looking in the sky for ufos and this was the first time I had seen these in the day time. I usually see them as lights at night, assuming they are the same ones...? At first I was watching a plane and then I notice a bright white dot behind it and I knew what it was. It started to move parallel to the mountains headed west I think, north bound if it was a car on the 101. It was so far away I could'nt really give you a distance but it was behind the plane and it was a small dot so I am assuming pretty far away, a mile maybe?? As I was watching that move across the sky from a stand still I saw another dot materialize in an area of the sky the first one had just crossed and started to watch the second one start to move west also. Then I noticed another one in a different part of the sky standing still. One of them dissapeared.... WOW!!!!!!!!! I called my mom over and she saw them too but barely... It was really hard to see them up there so unless you are looking for em or they get your attention they are very hard to see...  I frantically ran around looking for my cheap $20 binoculars. They magnify 10x25  so it wasn't much help but when I looked through them at one of the ufo's and it was close enough to see that it was definetly a very shiny metallic craft and it looked like a cluster of about three to five spheres!!!!!!!!!! this is truely amazing and I am so excited that they are coming here but for what reasons? I think we will all find out soon enough...........I hope... this world needs change!!! BADLY!!!!((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55133.html](http://www.nuforc.org/webreports/reports/055/S55133.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Billings (MT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>So I saw a grayish UFO looking thing, they have lights and was making really weird noises. Event lasted five minutes and I can barely stand the noises, but I Did</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144780.html](http://www.nuforc.org/webreports/reports/144/S144780.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/162/S162087.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161906.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161960.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161909.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161911.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
