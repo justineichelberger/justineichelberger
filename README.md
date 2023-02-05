@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:22 on 5 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:25 on 5 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Auckland (New Zealand) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A long line of hundreds of lights moving North from low in the Western sky, quickly at 22.35 on 02/05/21 in Waiuku, Auckland, NZ.A very long straight line of lights that appeared to look the same height and size of the stars seen in the night sky were travelling from the West horizon straight up, reaching a length that took up a quarter of the skies length, and vanishing at the same point one after the other. It appeared to be hundreds if lights, all moving at the same speed quite quickly. When I saw the line of moving lights I called my partner outside to witness them as well. He got to see them for about 30 seconds while I ran to get my phone to film them, but they had all gone by the time I returned outside.I am a 50 year old mum of 3 boys, and my partner is a 46 year old  engineer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161956.html](http://www.nuforc.org/webreports/reports/161/S161956.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Yucaipa (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orangish Light emitting flashes or sparksI saw this same event and have seen this same type UFO numerous times. See my description on 10/23/05 on this site. Someone tried to claim that what I have seen is some form of ballon using candles for lift? I don't buy that explaination. I don't know what it was that I've seen but the video sure doesn't appear to be a balloon. I have about 3 minutes of video footage of what I, my wife and two sons saw that night. It isn't the best footage but it clearly shows exactly what you have described and what I have seen numerous times over the last year or so in the Yucaipa area. It also shows one light turn it triangle shaped light pattern.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49407.html](http://www.nuforc.org/webreports/reports/049/S49407.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [269](http://www.nuforc.org/webreports/reports/161/S161897.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161930.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161947.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161956.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161929.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
