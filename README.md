@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:24 on 5 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:34 on 5 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Maple Valley (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Triangle shaped ufo in maple valey almost crasheswas driving on my way t work on wax road in maple valley, heading to kent. it was quite dark out but not dark enough to see the stars. i hd this sudden feeling to look up as i was drivingand when i looked up and out my wind shield their was a huge aircraft and it looked like it was going to crash on the street. i mean this thing was low at firsti thought a passenger plane was going to crash. the guy driving in front of me, and my self pulled over and thats when i realized it was not  jet it was a huge triangle shaped somthing. i wached as t slowed down almost to a hover but then took off so fast it was gone in about 15 seconds this thing was fast!!!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68498.html](http://www.nuforc.org/webreports/reports/068/S68498.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in  () reported seeing craft that fit the description of some 'Flash' over a period of approximately  -  minutes.</sub><blockquote><sub>2/5/2001 While I was walking home I saw a flash light in the sky and it dissapeared after 2 seconds.I was 12 years old, on my way home from my friend's house I looked at the sky and saw a white flash light, I couldnt look at it for a long time, it's like you can't look at the sun. And I looked again after two seconds and it dissapeared. I was so scared. I ran home as fast as I could. Parents wouldnt believe me ofcourse, they said my imagination is crazy, but I know what I've seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43050.html](http://www.nuforc.org/webreports/reports/043/S43050.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [269](http://www.nuforc.org/webreports/reports/161/S161897.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161930.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161947.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161956.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161929.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
