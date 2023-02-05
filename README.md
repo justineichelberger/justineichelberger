@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:28 on 5 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:26 on 5 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in Tallmadge (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>ufo lights seen in Tallmadge, Ohio ,beginning on 2-05-79(follow-up to 11/30/04 e-mail. 3 hemispheres (White) in each corner. One slow pulsing light in middle. Object went over in a slow-motion manner. No sound. Followed by 2 more in general area of 140 S. Thomas Rd.Tallmadge, Ohio. 02/25/79--ray brilliant mirror shiny copper color. Above power line in mobile home park ,where my father and I resided. He died 10/31/90. I was 23,and he was 55 at the time. Then March 4,1979. This last one seemed to co-related to day of century days and day since age indays since our birthdates --6-11-23---8562---9-24-55---20355 days added together 28917th day of century and age in days of father and son 28917. Look at Majestic 12 dates---Notice any dates ending in a 62 or 00. 36524 divided by 1/2 18262-Then go forward or bacwards every 100 days. Notice if you use a 1658 day algorithym added from 18262 you will eventually come to an even 36500 days! It is also strange that if you take 1658 day from the 1st wtc attack of 2-26-93 you will always come to 9-11 0f any year except  leap year years. 1658 days separated the Kennedy brothers death. Chech your ufo cases and see how many sightings occur with century dates ending in 62 0r 00. I would also look at century day dates ending in 04--adding this 1658 will land you on a date ending in a 62 for example 22762-Figure what the month day and year this corresponds to. This could be being used in time-series statistical calculations. These ufo sightings I reported--but not officially to the UFO Flying Saucer Investigating Committee,on 9-5-80. A ((name deleted)) was the main person. Then 6 days later an unmarked military green helicopter flew over low over the spot where the copper ray was over a power line at 12:15p.m. Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40965.html](http://www.nuforc.org/webreports/reports/040/S40965.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Yao (Japan) () reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>hundreds of UFOs in Japanese parkMy spouse and I were walking our dog, like we do every morning. We were passing by the park when the dog started barking. We looked at the field and there were little crafts flying over the grass. Every once in a while, a few would vertically fly up to the sky and new ones would come down. The sun gleamed off the surface of the crafts, and they made a metallic clinging when they would bump into each other. They made whirring noises and I knew they were not insects because when we approached them to see what kind of insect they were (my spouse is an entomologist, they backed away as one and seemed to join together to form a vertical column and drifted straight up into tht sky. We watched to see where they went, but they did not disperse, but remained in a straight column until they were too small to see.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55155.html](http://www.nuforc.org/webreports/reports/055/S55155.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [269](http://www.nuforc.org/webreports/reports/161/S161897.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161930.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161947.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161956.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161929.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
