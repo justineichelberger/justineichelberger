@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:26 on 5 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:22 on 5 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Yao (Japan) () reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>hundreds of UFOs in Japanese parkMy spouse and I were walking our dog, like we do every morning. We were passing by the park when the dog started barking. We looked at the field and there were little crafts flying over the grass. Every once in a while, a few would vertically fly up to the sky and new ones would come down. The sun gleamed off the surface of the crafts, and they made a metallic clinging when they would bump into each other. They made whirring noises and I knew they were not insects because when we approached them to see what kind of insect they were (my spouse is an entomologist, they backed away as one and seemed to join together to form a vertical column and drifted straight up into tht sky. We watched to see where they went, but they did not disperse, but remained in a straight column until they were too small to see.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55155.html](http://www.nuforc.org/webreports/reports/055/S55155.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Farmington (UT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Black orb moving across a bright patch of sky in the early morning.I was getting ready for the day, when I looked outside and saw a patch of sky on the western horizon that was bright as day, but the sun was still behind the mountains so it was dark everywhere else. Then I saw a black, perfectly round orb, about the size of a dime from my perspective move across the sky.  It was only visible for about 10 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117173.html](http://www.nuforc.org/webreports/reports/117/S117173.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [269](http://www.nuforc.org/webreports/reports/161/S161897.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161930.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161947.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161956.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161929.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
