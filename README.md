@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:20 on 5 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:21 on 5 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Kaanapali (HI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright red light moved in one direction stopped, changed directions, stopped again, then moved on and disappeared.A friend and I were walking along the beach one night in Maui, year 2011, when I spotted a red light moving through the sky.  I found it strange that the light was solid and did not flash like most aircraft and so I stopped to observe it.  As we watched the light move, it came to a complete stop.  After a brief moment, it changed directions completely and began what seemed like a new route before coming to a complete stop againow.  It then began to move in a different direction once more.  The entire route from the start of us watching to the end resembled somewhat of a Z movement, having stopped at the two points of the z before moving on.  While the sky was actually mostly quite clear, the light moved behind a very thin cloud.  The cloud dissipated shortly there after and the light was completely gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128312.html](http://www.nuforc.org/webreports/reports/128/S128312.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Azle (TX) reported seeing craft that fit the description of some 'Cross' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>The "objects" flew directly over me about 50 feet in the air. The "objects" were redish orange in color and all but one were about 10 feet long. The one "small" object was about 5 or 6 feet long. The "objects" disapeared with out a trace headed East toward Lake Worth.((NUFORC Note:  Witness provides no contact information.  Possible hoax.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49043.html](http://www.nuforc.org/webreports/reports/049/S49043.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [269](http://www.nuforc.org/webreports/reports/161/S161897.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161930.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161947.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161956.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161929.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
