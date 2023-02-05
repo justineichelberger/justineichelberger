@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:27 on 5 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:28 on 5 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Wahiawa (HI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.4 - 0.4 minutes.</sub><blockquote><sub>One Bright Red Fire Looking Round Light with Seven Smaller White Lights Following In Weird Pattern Moving West (Hawaii).05Feb, 2014, 21:12.  Just arrived home from having dinner with my wife.  As soon as I exited my vehicle I saw a small but very bright red fire looking sphere in the sky fluctuating in size.  I immediately told my wife “look babe what is that”.  We then noticed about 7 other smaller white lights behind it all moving west in the same direction but in a very weird pattern.  Some faster than others at first then the same ones slower than the others.  All of them started dimming at the same time until only about two of the small white ones were barely visible.  Amazing sight and still baffled at what they could have been.  Glad I got to see that with a witness, better yet, my wife.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106961.html](http://www.nuforc.org/webreports/reports/106/S106961.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in Tallmadge (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>ufo lights seen in Tallmadge, Ohio ,beginning on 2-05-79(follow-up to 11/30/04 e-mail. 3 hemispheres (White) in each corner. One slow pulsing light in middle. Object went over in a slow-motion manner. No sound. Followed by 2 more in general area of 140 S. Thomas Rd.Tallmadge, Ohio. 02/25/79--ray brilliant mirror shiny copper color. Above power line in mobile home park ,where my father and I resided. He died 10/31/90. I was 23,and he was 55 at the time. Then March 4,1979. This last one seemed to co-related to day of century days and day since age indays since our birthdates --6-11-23---8562---9-24-55---20355 days added together 28917th day of century and age in days of father and son 28917. Look at Majestic 12 dates---Notice any dates ending in a 62 or 00. 36524 divided by 1/2 18262-Then go forward or bacwards every 100 days. Notice if you use a 1658 day algorithym added from 18262 you will eventually come to an even 36500 days! It is also strange that if you take 1658 day from the 1st wtc attack of 2-26-93 you will always come to 9-11 0f any year except  leap year years. 1658 days separated the Kennedy brothers death. Chech your ufo cases and see how many sightings occur with century dates ending in 62 0r 00. I would also look at century day dates ending in 04--adding this 1658 will land you on a date ending in a 62 for example 22762-Figure what the month day and year this corresponds to. This could be being used in time-series statistical calculations. These ufo sightings I reported--but not officially to the UFO Flying Saucer Investigating Committee,on 9-5-80. A ((name deleted)) was the main person. Then 6 days later an unmarked military green helicopter flew over low over the spot where the copper ray was over a power line at 12:15p.m. Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40965.html](http://www.nuforc.org/webreports/reports/040/S40965.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [269](http://www.nuforc.org/webreports/reports/161/S161897.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161930.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161947.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161956.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161929.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
