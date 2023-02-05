@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:34 on 5 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:22 on 5 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in  () reported seeing craft that fit the description of some 'Flash' over a period of approximately  -  minutes.</sub><blockquote><sub>2/5/2001 While I was walking home I saw a flash light in the sky and it dissapeared after 2 seconds.I was 12 years old, on my way home from my friend's house I looked at the sky and saw a white flash light, I couldnt look at it for a long time, it's like you can't look at the sun. And I looked again after two seconds and it dissapeared. I was so scared. I ran home as fast as I could. Parents wouldnt believe me ofcourse, they said my imagination is crazy, but I know what I've seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43050.html](http://www.nuforc.org/webreports/reports/043/S43050.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately GASPBERILLA - GASPBERILLA minutes.</sub><blockquote><sub>THREE OVAL CRAFTS FLYING AT VEARIOUS ALTITUDES AT EXACT FORMATION ONE ABOVE THE OTHER. CRAFTS FLYING SLOWLY ACROSS SKY OVER TAMPA BAY OUT OVER THE GULF. THERE MUST BE MORE WHO SEEN THIS, THERE WAS NO JET EXHAUSTGOLD LAST SHIP 75 THOUSAND FEET</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11905.html](http://www.nuforc.org/webreports/reports/011/S11905.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [269](http://www.nuforc.org/webreports/reports/161/S161897.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161930.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161947.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161956.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161929.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
