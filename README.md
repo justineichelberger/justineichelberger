@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:25 on 5 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:25 on 5 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Farmington (UT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Black orb moving across a bright patch of sky in the early morning.I was getting ready for the day, when I looked outside and saw a patch of sky on the western horizon that was bright as day, but the sun was still behind the mountains so it was dark everywhere else. Then I saw a black, perfectly round orb, about the size of a dime from my perspective move across the sky.  It was only visible for about 10 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117173.html](http://www.nuforc.org/webreports/reports/117/S117173.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>light copper sphere floats over my condo .. no lights .. i think it was a drone or some sort of monitoring unitwhile looking up at the stars for 15 mins a sphere appeard to my 11 o'clock.passed right over my building about 35 feet up. to give an idea of the size if i hold up a tennis ball its just a little smaller ... so at 35 feet up ... hmm ... 6 feet round?.. i told my self "you got to be sh%^#ng me... " ran in the house got my cam ran out the back and it was gone. then i thought to myself did i really see what i saw or was it a supermarket plastic back floating in the air????   and if it was the dam bag was under intel controll... it was going from south east to north west ... i felt as if it slowed down and sped up ... in a straight path ... not like a plastic bag would float in the air with no control. it was a light copper color ... no glow ... no lights ... im not lying i know i saw something.. if anyone else saw it please update this page ..((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61522.html](http://www.nuforc.org/webreports/reports/061/S61522.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [269](http://www.nuforc.org/webreports/reports/161/S161897.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161930.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161947.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161956.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161929.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
