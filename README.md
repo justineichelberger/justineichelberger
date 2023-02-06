@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:25 on 5 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:33 on 6 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Yucaipa (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orangish Light emitting flashes or sparksI saw this same event and have seen this same type UFO numerous times. See my description on 10/23/05 on this site. Someone tried to claim that what I have seen is some form of ballon using candles for lift? I don't buy that explaination. I don't know what it was that I've seen but the video sure doesn't appear to be a balloon. I have about 3 minutes of video footage of what I, my wife and two sons saw that night. It isn't the best footage but it clearly shows exactly what you have described and what I have seen numerous times over the last year or so in the Yucaipa area. It also shows one light turn it triangle shaped light pattern.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49407.html](http://www.nuforc.org/webreports/reports/049/S49407.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Largre Cargo Plane HoveringI saw a very large military cargo jet over Oak Street not far from the old Pavilion site. It was extraordinarily low. But that was not the strange thing. It appeared not to be moving... at all! At first, I though this was just an optical illusion since it was likely just flight very slowly and I was in a moving car going in the opposite direction. However, when I stopped at a traffic light, I could clearly see the jet was actually motionless in the sky! I looked at it for at least 20 seconds while sitting still and it did not move at all in relation to the ground or my stationary car.  My thought was, "I can't believe this. It's like time has stopped!"  The people behind me at the light obviously also saw this as they were looking and pointing excitedly in that direction and talking to one another. When the light changed, I drove to Oak Street (via 9th) to get closer to where the jet was hovering. As I turned the corner onto Oak, I saw black smoke start to pour from the jet's engines (which had not been there before)  as if it was throttling up and it started to accelerate and move like a normal jet. In fact, it began to move very fast and made a rather sharp right turn and disappeared over the treetops.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153101.html](http://www.nuforc.org/webreports/reports/153/S153101.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [269](http://www.nuforc.org/webreports/reports/161/S161897.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161930.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161947.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161956.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161929.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
