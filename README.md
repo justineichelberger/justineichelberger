@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:25 on 6 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:31 on 6 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Gilbert (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Loud roaring sound and lightsFebruary 6, 2019. Gilbert, Ar 18:30 pm  Heard a loud roaring sound, like a jet engine over the top of our house.  It went on and on for approximately 30 minutes.  We did not see anything when we looked out due to the porch roof blocking the sky.  Neighbor said they saw 5 lights hovering over our house.  In Clinton, Ar, someone saw 6 lights, in Marshall, Ar, someone saw 3 lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144970.html](http://www.nuforc.org/webreports/reports/144/S144970.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>U-shaped snake-like objectIt was a U-shaped snake like object.  Imagine a horseshoe with the legs slightly pulled apart.  It just sat in the sky.  Every now and then, it would very slowly turn as if rotating.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42496.html](http://www.nuforc.org/webreports/reports/042/S42496.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/161/S161986.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162006.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162089.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161955.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161957.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
