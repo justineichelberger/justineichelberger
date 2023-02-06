@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:22 on 6 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:33 on 6 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Enterprise (WV) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>3 separate sightings: blue jellyfish and two red globesI was driving to 24 hr store at about 1am, and I saw a object glide down behind the treeline.  The fact that it disappeared behind the treeline, which was a good 1.5 2 miles away, and that it was still rather large told me it was very big.  The best way I can describe this thing was a glowing blue jellyfish with VERY short lash-like tentacles, or just a brighter glow underneath.  It wasn't bright flashing lights, it was a faint glow.  The closes thing I could find online, was a moon jellyfish, which of course isn't known to fly in the sky... and the view I had was from the side.  It had the swirling center just like the jellyfish, but I only saw two, instead of the clover pattern.No noises heard, but it was too far away to hear, even if it was.  I drove in that direction it went behind the treeline for another mile, and saw nothing.  After finding nothing online to explain what I saw, I told my mother the next day.  She said she had seen something also the day before.  On the 5th of February in the early morning as well, and she was a globe-like red object in the same area in the sky but a mile further way.  Then a few days later after our conversation, she saw it again, in another area of the sky, closer, and it just hovered for a little bit, then the dog distracted her for a second, so when she looked back up it was gone.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87150.html](http://www.nuforc.org/webreports/reports/087/S87150.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Trucksville (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I saw four brigh orange with red hugh lights going from west to east then turning norhteast. There was no sound I vidoe taped 2..Tonight on my way home from work around 10pm I spotted 4 UFO's in the PA sky's near Dallas PA. The first I saw while driving then two more followed.  I was able to video tape these.  Then a 4th came by but my smart phone was out of memory so I only have the video of the two.They were bright orange and round with deeper almost red highlights.  All four follow similar tracks through the sky. I have two other witnesses to the lights who stopped while I was taping them.Here is the video.https://www.dropbox.com/s/uob9w0leb5os78m/VID_20150206_215103218.mp4?dl=0     Thank you,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117201.html](http://www.nuforc.org/webreports/reports/117/S117201.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/161/S161986.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162006.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162089.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161955.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161957.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
