@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:25 on 6 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:21 on 6 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Formation' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>White shadowy lights flying in circular patternsThere were what looked like three or 4--possibly double this amount because the shapes were flying in a circular pattern-weaving in and out around the clouds above a Las Vegas Neighborhood.  They looked as though they were lights, like from those big lights that shoot out into the sky, going around and around (like reflections from Disco Ball in the sky).  An actual aircraft went by, and i used it to gauge my sighting and the light being emitted.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106970.html](http://www.nuforc.org/webreports/reports/106/S106970.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Fair Oaks (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately hour - hour minutes.</sub><blockquote><sub>strange flashing light hovering in the sky around 1 am in northern californiawe went on our patio to smoke a cigarette, and looked at the stars. That's when we noticed one was flashing. It was flashing blue red yellow and green.  It went from only one to two to three then back to one.  It would be really bright then dim,then really bright again.  It just hovered there and at time move up and down and side to side.  It was definately too high for an airplane or a helicopter.((NUFORC Note:  Sighting of Sirius??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79962.html](http://www.nuforc.org/webreports/reports/079/S79962.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/161/S161986.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162006.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162089.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161955.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161957.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
