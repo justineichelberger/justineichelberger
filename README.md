@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:23 on 6 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:29 on 6 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Livingston (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>It was a white flashing light then it turned green then the green light fell straight down Green to the ground almost and then just disappear that's it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138634.html](http://www.nuforc.org/webreports/reports/138/S138634.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Newnan (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Circling White Lights.While driving to work at 0510E on Feb 06 2016,  Two bright white lights were seen circling each other just above the tree line.The lights were too far away to observe any craft or structure beyond the glare or the light. They did not flicker or pulse….just a steady bright, pure white light. When first noticed, the lights appeared as if on approach to an airport but did not appear to move, just hovering.  Suddenly, what appeared to be the trailing light began to rise and circle above, what I’m referring to as, the front light; ending up to appear larger and leading the other but still no forward movement.  This all took place within a 30 second timeframe.  I was not able to stop and view longer but further down the road, I pulled over and looked in the direction where the lights were seen but they were gone.I have worked for a major airline for 26+ years at numerous major airports across the USA and have never seen aircraft perform or maneuver in this manner.  In the direction of the observed lights, there are no airports except for KATL at a distance of nearly 35 miles.Location; intersection of Westhill Dr and Fairway Drive, Newnan GA (30265).  Viewing direction NNE Estimated distance lights were from intersection – est 0.5 – 1.0 miles</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125666.html](http://www.nuforc.org/webreports/reports/125/S125666.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/161/S161986.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162006.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162089.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161955.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161957.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
