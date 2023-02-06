@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:39 on 6 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:25 on 6 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Montpelier (VT) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Large linear object, low flying banking west in washington county Vt  Very long structure, connecting 5-7 lights...  Perhaps 1km in size.  Flying to the north of montpelier, banking to the west, and dipped below the horizon/mountain.  Very long, very clear, distinct.   Slow moving.  My wife and 4 yr old child all stared mouths agape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96217.html](http://www.nuforc.org/webreports/reports/096/S96217.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Formation' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>White shadowy lights flying in circular patternsThere were what looked like three or 4--possibly double this amount because the shapes were flying in a circular pattern-weaving in and out around the clouds above a Las Vegas Neighborhood.  They looked as though they were lights, like from those big lights that shoot out into the sky, going around and around (like reflections from Disco Ball in the sky).  An actual aircraft went by, and i used it to gauge my sighting and the light being emitted.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106970.html](http://www.nuforc.org/webreports/reports/106/S106970.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/161/S161986.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162006.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162089.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161955.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161957.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
