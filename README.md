@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:31 on 6 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:22 on 6 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Placerville (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Was directly over my home.At 7:00 pm tonight there was a craft in the sky which was three balls of light in a type of triangle.  They disappeared one at a time. Lasted about 1/2 hr.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96226.html](http://www.nuforc.org/webreports/reports/096/S96226.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Enterprise (WV) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>3 separate sightings: blue jellyfish and two red globesI was driving to 24 hr store at about 1am, and I saw a object glide down behind the treeline.  The fact that it disappeared behind the treeline, which was a good 1.5 2 miles away, and that it was still rather large told me it was very big.  The best way I can describe this thing was a glowing blue jellyfish with VERY short lash-like tentacles, or just a brighter glow underneath.  It wasn't bright flashing lights, it was a faint glow.  The closes thing I could find online, was a moon jellyfish, which of course isn't known to fly in the sky... and the view I had was from the side.  It had the swirling center just like the jellyfish, but I only saw two, instead of the clover pattern.No noises heard, but it was too far away to hear, even if it was.  I drove in that direction it went behind the treeline for another mile, and saw nothing.  After finding nothing online to explain what I saw, I told my mother the next day.  She said she had seen something also the day before.  On the 5th of February in the early morning as well, and she was a globe-like red object in the same area in the sky but a mile further way.  Then a few days later after our conversation, she saw it again, in another area of the sky, closer, and it just hovered for a little bit, then the dog distracted her for a second, so when she looked back up it was gone.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87150.html](http://www.nuforc.org/webreports/reports/087/S87150.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/161/S161986.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162006.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162089.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161955.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161957.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
