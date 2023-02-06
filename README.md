@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 6 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:39 on 6 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Salisbury (MD) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Very Large "parentheses" shaped craft In Salisbur,y MD.Was driving on route 13 in Salisbury, MD, going over an artificial hill, when I saw a series of lights in the shape of a parentheses.  It was not moving to the best of my knowledge.  No sound. Very large.  Much smaller than the Phoenix Lights, but if it were an airplane it would be AT LEAST the size of an A380 Air France.  The craft was extremely low to the ground.  No color, no blinking lights.  Additionally the craft was tilted to the left slightly.  So this shape: ( tilted to the left slightly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132495.html](http://www.nuforc.org/webreports/reports/132/S132495.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Montpelier (VT) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Large linear object, low flying banking west in washington county Vt  Very long structure, connecting 5-7 lights...  Perhaps 1km in size.  Flying to the north of montpelier, banking to the west, and dipped below the horizon/mountain.  Very long, very clear, distinct.   Slow moving.  My wife and 4 yr old child all stared mouths agape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96217.html](http://www.nuforc.org/webreports/reports/096/S96217.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/161/S161986.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162006.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162089.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161955.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161957.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
