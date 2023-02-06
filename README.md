@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:33 on 6 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:26 on 6 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Largre Cargo Plane HoveringI saw a very large military cargo jet over Oak Street not far from the old Pavilion site. It was extraordinarily low. But that was not the strange thing. It appeared not to be moving... at all! At first, I though this was just an optical illusion since it was likely just flight very slowly and I was in a moving car going in the opposite direction. However, when I stopped at a traffic light, I could clearly see the jet was actually motionless in the sky! I looked at it for at least 20 seconds while sitting still and it did not move at all in relation to the ground or my stationary car.  My thought was, "I can't believe this. It's like time has stopped!"  The people behind me at the light obviously also saw this as they were looking and pointing excitedly in that direction and talking to one another. When the light changed, I drove to Oak Street (via 9th) to get closer to where the jet was hovering. As I turned the corner onto Oak, I saw black smoke start to pour from the jet's engines (which had not been there before)  as if it was throttling up and it started to accelerate and move like a normal jet. In fact, it began to move very fast and made a rather sharp right turn and disappeared over the treetops.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153101.html](http://www.nuforc.org/webreports/reports/153/S153101.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Castle Rock (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>One bright meteor like object leaves a trail, vanishes and reappears again in a fixed  and oscillating positionI saw a one white colored meteor-like streak in the sky to the west.  It disappeared for a fraction of a second and then reappeared on the same path, only to vanish again with bright flash of white light.  I then noticed a fainter, dimmer and less sharp white to red light in the same area as the earlier meteor.  This time it was staying in an almost fixed postition, but moving rapidly back and forth in a space as big as a half moon.  This lasted approximately 15 seconds.  I was driving to Napavine, WA from Kelso, WA to work at 7:00 AM.  The sun was almost up, so the sky was pretty bright.  I was a few hundred yards north of exit 49 on Interstate 5.  Others hit the brakes when the initial meteor like event happened.  Several other cars were parked one the shoulder, with the lights on.  I am a 34 year old male, and a heavy equipment operator on underground utilities projects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49040.html](http://www.nuforc.org/webreports/reports/049/S49040.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/161/S161986.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162006.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162089.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161955.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161957.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
