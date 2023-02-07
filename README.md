@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:26 on 7 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:30 on 7 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Upland (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Atypical bright light  much brighter than the sharp flashes of a jumbo jet.  The flashes were much smoother as they faded or blinked if you will.  The craft was flying EXTREMELY FAST ACROSS THE NIGHT SKY OVER cable airport.  There was a helicopter in the sky just hovering.....they mist have seen it too.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106987.html](http://www.nuforc.org/webreports/reports/106/S106987.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Westminster (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>6 lights in 1-3-1-1 pattern changing speed and position near Westminster, MD.6 lights came over treeline in a 1-3-1-1 formation.  No sound at all.  Lights were a bright, pale white, almost orange.  All were a single, spherical light, not a point of light, but round in appearance.  The three lights grouped together changed speed and position several times, came to a stop and shifted positions again.  All six faded and disappeared, but did not change position in the sky before vanishing (ie, did not disappear over horizon).  No clouds, completely clear out and plenty of stars visible.  Have short video clip of them showing shift in positions, but had hard time focusing due to it being dark out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106989.html](http://www.nuforc.org/webreports/reports/106/S106989.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162005.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161962.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162090.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161946.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161864.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
