@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:21 on 7 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:36 on 7 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>It glowed brighter than the stars and it emited two other objects.It glowed briter than the stars and it emited two other objects.  It looked like formed light in a sphere.((NUFORC Note:  Witness remains anonymous.  We do not know if this is a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27616.html](http://www.nuforc.org/webreports/reports/027/S27616.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Leicestershire (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red lights over Leicestershire EnglandWhilst standing outside smoking a number of people witnessed several strange lights that seemed to float above us at a very high altitude.  They seemed to be spaced at equal distances from each other, and glowed with a redish glow.  A few people managed to take photos and video on their telephones as they went over.  Once they had moved away a short space they then seemed to rise and disappear.  Although my daughter took pictures on her phone, we are unable to dowload them onto the computer as it is too old to take modern technology.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68502.html](http://www.nuforc.org/webreports/reports/068/S68502.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162005.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161962.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162090.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161946.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161864.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
