@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:24 on 7 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:31 on 7 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Garden Grove (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A green object was in the sky, moved at a high velocity, stopped, hovered, and moved in the opposite direction at a high velocity.There was a green light with a smaller light right near it in the sky moving about 25 mph, then it sped up to about 100 mph to the right, then stopped, hovered for about 10 seconds, then moved to the left at about the same fast speed, then it stopped for a little duration, then disappeared.  I'm a firm believer of UFO's, and this is my second time seeing a similar object in the sky.  The first time was in Fountain Valley, CA.  My friend has a neutral background with UFO's.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106992.html](http://www.nuforc.org/webreports/reports/106/S106992.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange lights in the southeast of Washington moving at high speed.I live in Spokane Valley, WA and I had just gone out to the street to move my car in the driveway for the night when I noticed a light moving quickly across the southeastern sky, from right to left. The light was unusual, multicolored, and seemed to be flashing in a rotating motion. My immediate thought was a meteor (I've seen meteors before) when all of a sudden it made an abrupt change of direction from left to right. That's when I noticed the second object, which seemed to be wavering in one position, the light pattern was the same on this object. The first object came within close proximity of the second object and stopped, then the first object started to move at a rapid speed straight up, then stop and move down towards the horizon very rapidly, almost like a figure 4, again it raised up, at an angle, and stopped. The other object did not move. At this time I noticed a prop driven aircraft approaching from the north, I could hear the sound of the engine in the distance and recognized the red flashing safety lights (Felts Field Aviation is just 2 miles from where I live and this sighting took place so I see aircraft on a regular basis.) As the aircraft got closer to the objects the first object that had been moving across the sky suddenly dropped to the horizon and I lost sight of it, I have to say I lost track of the second object since all of my attention was affixed on the first one that was doing all the strange maneuvers. I quickly ran in the house to call my girlfriend and brother to come and look, my girlfriend came out and witnessed the last of the event. She saw the erratic movement up and down, across left to right, she saw the lights move and actually go out then back on, then witnessed the object drop all the way to the horizon. The aircraft seemed to pass directly through the objects location and continued on, by then both objects had vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55209.html](http://www.nuforc.org/webreports/reports/055/S55209.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162005.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161962.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162090.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161946.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161864.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
