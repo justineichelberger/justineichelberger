@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:33 on 7 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:56 on 7 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Renton (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Was itI'm an amateur astronomer living in Renton, Wa. (a suburb of Seattle), and on the early evening (dusk) of Feb. 07th, 2003, I was wating for the sky to get dark enough so I could do some star gazing with my binocs and telescope.  At about 18:20 I went out side to check the sky's darkness.  We had clear weather that day, so the sky was cloudless. I could see several major planets like Jupiter and Saturn shinning through the darkening blue skys, but no stars were visible yet.  From the back yard I looked over the top of my house and a bright object was flying at a high declination in the sky over my house.  It looked like the ISS (International Space Station) flying by Seattle, which it was scheduled to due on Feb. 7th.  So I got my binocs and followed it across the sky until it set in the east.  It approached from the west.  But when I checked the NASA ISS sightings web site, it said that the ISS Seattle flyover was scheduled for 19:24 that night, an hour and 15 mnutes later.  The only other thing I can think that it was, was the Russian Supply Ship Progress, which had been docked with the ISS since the Tuesday before, or it was something unexplained.  I sent an e-mail inquiry to NASA about went the supply ship was due to return to earth, but have not yet received a response.   Another possibilty is that the posted times on the ISS Sightings web site was in error, but I never found that to be the case in terms of the times ISS flies over Seattle..  Just was wondering if any one had any infomation on this in terms of whether this was the Russian Supply Ship Progress or the ISS, and whether anyone may have seen what I saw.((NUFORC Note:  We do not know what the witness witnessed, but the Heavens-above.com website states that it does not indicate those events which occur during daylight hours, or close to daylight hours.  Hence, the object may have been the ISS, and the flyover was not shown as being "visible" during the earlier pass.  We saw the ISS on the same night.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27775.html](http://www.nuforc.org/webreports/reports/027/S27775.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Palmetto (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>I saw a zig-zagging light in the sky.I was with my friend at this place were we jump our bikes. We were filming a tape about us doing stupid things. I was looking at the sky at the sky with my camera and I saw this light  and it started zig-zagging. I kept filming until it disappeared. We  recorded it on his blank VCR tape and know he has the tape.((NUFORC Note:  We will request the video from these students.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27582.html](http://www.nuforc.org/webreports/reports/027/S27582.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162005.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161962.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162090.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161946.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161864.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
