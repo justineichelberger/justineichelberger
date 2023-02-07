@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:34 on 7 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:24 on 7 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>three horizontal lights and  at about one o'clock from the position of the lights was a larger light, which flickered like a planetMy view is of the the St. Johns Bridge and the Northwest Bluff of Forrest Park and have looked at that vista for years from my patio.  I was looking straight south last night I noticed three lights, horizontal, in the distance.  I've looked at this view for over three years and have never seen this before.  They were small and moved up and down very slowly, I had to measure the movement and it was faint.  The light on the right side moved the most.  It occurred to me that they were at a high altitude.   Also, at about one o'clock from the position of the lights was a larger light, which flickered like a planet.  I watched these lights for about 10 minutes and went inside.  I returned an hour later and they were gone.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  We suspect that the sighting occurred on February 07, and have amended the data above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87070.html](http://www.nuforc.org/webreports/reports/087/S87070.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Garden Grove (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A green object was in the sky, moved at a high velocity, stopped, hovered, and moved in the opposite direction at a high velocity.There was a green light with a smaller light right near it in the sky moving about 25 mph, then it sped up to about 100 mph to the right, then stopped, hovered for about 10 seconds, then moved to the left at about the same fast speed, then it stopped for a little duration, then disappeared.  I'm a firm believer of UFO's, and this is my second time seeing a similar object in the sky.  The first time was in Fountain Valley, CA.  My friend has a neutral background with UFO's.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106992.html](http://www.nuforc.org/webreports/reports/106/S106992.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162005.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161962.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162090.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161946.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161864.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
