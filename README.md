@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:36 on 7 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:20:36 on 7 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Channahon (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Triangle orange lights moving through low cloudsI looked up as I was driving and saw light orange lights in the sky, low to the ground, moving together in a triangle formation, and passing through the night clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49051.html](http://www.nuforc.org/webreports/reports/049/S49051.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Racine (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A triangular shaped aircraft with three lights and a red haze-like glow seen in southern Racine County.At approx. 8:00 pm (Central Time), on Thursday February 7, 2002, a triangular shaped object flew fairly low (only a few thousand feet up) over the south-eastern sky. It was flying south-east to north-west and was going at least twice the speed of normal aircraft I have seen in the area. As it traveled, it emmitted no sound at all. It had three lights, one at each "tip", that were flashing in an odd pattern. It also had a red "haze" along one side, so I could clearly see it was triangular in shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21898.html](http://www.nuforc.org/webreports/reports/021/S21898.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162005.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161962.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162090.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161946.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161864.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
