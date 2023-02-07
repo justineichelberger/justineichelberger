@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:25 on 7 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 7 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Garrett (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>after approximately 3 seconds of looking at it, it looked like it flipped upside down and shot straight up in the sky at the fastest raI was standing outside in front of my workplace at approximately 8:20PM. I was looking off towards the West when I heard a sound like something hit the ground to my right. The sound was that of when you drop a baseball on the ground. I turned to the North and thought that since nobody was around that maybe something fell from the sky. I then looked up and I saw a very large stationary ,round and bright light in the sky. It was a clean white light, like that of the moon. It seemed as though the light was focused on me but I didn't see a light beam like you would expect to see from such a bright light. Then after approximately 3 seconds of looking at it, it looked like it flipped upside down and shot straight up in the sky at the fastest rate I have ever seen anything move before, and disappeared from view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27584.html](http://www.nuforc.org/webreports/reports/027/S27584.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Cape Town (South Africa) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Our area of the city Cape Town loadshedded meaning electricity goes off for 2 hours which allowed for a clear view sky, there was a light blue light which travelled extremely fast. It moved from one point to another forming a triangular shape and then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161946.html](http://www.nuforc.org/webreports/reports/161/S161946.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162005.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161962.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162090.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161946.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161864.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
