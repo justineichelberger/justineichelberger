@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:30 on 7 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 7 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Westminster (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>6 lights in 1-3-1-1 pattern changing speed and position near Westminster, MD.6 lights came over treeline in a 1-3-1-1 formation.  No sound at all.  Lights were a bright, pale white, almost orange.  All were a single, spherical light, not a point of light, but round in appearance.  The three lights grouped together changed speed and position several times, came to a stop and shifted positions again.  All six faded and disappeared, but did not change position in the sky before vanishing (ie, did not disappear over horizon).  No clouds, completely clear out and plenty of stars visible.  Have short video clip of them showing shift in positions, but had hard time focusing due to it being dark out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106989.html](http://www.nuforc.org/webreports/reports/106/S106989.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>three horizontal lights and  at about one o'clock from the position of the lights was a larger light, which flickered like a planetMy view is of the the St. Johns Bridge and the Northwest Bluff of Forrest Park and have looked at that vista for years from my patio.  I was looking straight south last night I noticed three lights, horizontal, in the distance.  I've looked at this view for over three years and have never seen this before.  They were small and moved up and down very slowly, I had to measure the movement and it was faint.  The light on the right side moved the most.  It occurred to me that they were at a high altitude.   Also, at about one o'clock from the position of the lights was a larger light, which flickered like a planet.  I watched these lights for about 10 minutes and went inside.  I returned an hour later and they were gone.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  We suspect that the sighting occurred on February 07, and have amended the data above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87070.html](http://www.nuforc.org/webreports/reports/087/S87070.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162005.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161962.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162090.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161946.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161864.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
