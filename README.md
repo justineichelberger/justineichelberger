@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:28 on 7 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:33 on 7 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in Norwell (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>My friends and I believed we were being observed or monitored by someone and ran home, then we witnessed a very bright lightMy friends and I were walking through the woods at about 1:00 AM.  The three of us got a sudden feeling that we were being watched.  We began to trot home through the woods moving as quietly as we could, soon we became more afraid and began to run, eventually we flat out ran as if our lives depended on it.  When we arrived at my house we quietly entered and did not turn on any lights.  We sat in my living room and tried to catch our breath and waited, certain something was going to show up, hot on our tails.  Within a minute or less the sky light up like day.  The yard outside was bright as day the light filled the living room.  The light stayed on for about 2 seconds then went off, after 4-5 seconds, it flashed on again for 2 seconds, then off, then on again, then off for the last time.  We did not observe any objects.  At that time in 1987 we feared they were flashes of light from nuclear explosions and we braced ourselves for shockwaves, but they never came.  The next day, I called WBZ radio and asked if anyone had reported bright lights, and he said they had, but he had no more information than that.  To this day we believe the feeling that we were being observed or pursued was related to the lights we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133725.html](http://www.nuforc.org/webreports/reports/133/S133725.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Stockbridge (GA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Me and my wife were sitting on the porch when I noticed a slow moving aircraft.  This didn't look or move like a normal aircraft.  It had wings that that were somewhat at an acute angle with red non flashing lights on each wing.  It also had bright white lights on the bottom of it.  It made three very slow passes and we didn't see it for the rest of the night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132508.html](http://www.nuforc.org/webreports/reports/132/S132508.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162005.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161962.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162090.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161946.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161864.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
