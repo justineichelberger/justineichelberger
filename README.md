@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:03:20 on 8 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 8 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Mt. Carmel (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>super bright lights ,3 lights that flashed in turn,,then became really bright,,,then blue,,,,then really bright,,like a street lamp up close...then they dissappeared.these where not aircraft....me and my daughter seen this while at burger king....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55237.html](http://www.nuforc.org/webreports/reports/055/S55237.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Long Beach (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately second - second minutes.</sub><blockquote><sub>Green Flash seen during Long Beach Black Outthere was a black out tonight around 2:00am on thursday february 8 (just right now). The only problem was that only one side of the city or street I don't really know was blacked out. But the other side had light. The weird part was when I opened my blinds to see outside, I saw this green light in the sky just flash. Sort of like a lightning bolt but faster. It was pretty weird. Nothing like I have seen before. I thought it might have something to do with the blackout.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55212.html](http://www.nuforc.org/webreports/reports/055/S55212.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/163/S163648.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161995.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161972.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161971.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161973.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
