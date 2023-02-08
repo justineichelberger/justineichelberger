@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:25:06 on 8 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:03:20 on 8 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Burbank (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>5th sighting in burbankIt's the 5th sight within a month.  A fireball that shoots flares downward flickers dim to bright before disappearing. I actully saw one on two separate occassions this past saturday within about one hour of each other. They were  in the northeastern sky @ about a 45º angle and not really traveling across the sky. Just sort of drifting upward. The other sightings had much more active movements.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27627.html](http://www.nuforc.org/webreports/reports/027/S27627.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Mt. Carmel (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>super bright lights ,3 lights that flashed in turn,,then became really bright,,,then blue,,,,then really bright,,like a street lamp up close...then they dissappeared.these where not aircraft....me and my daughter seen this while at burger king....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55237.html](http://www.nuforc.org/webreports/reports/055/S55237.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/163/S163648.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161995.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161972.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161971.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161973.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
