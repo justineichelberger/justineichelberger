@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:41 on 8 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:28 on 8 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Waterloo (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Clear night. I saw a very bright light in the western sky. the object moved closer than farther away than just hovered there. It changed shape from round to oval then ablob shape than round again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68522.html](http://www.nuforc.org/webreports/reports/068/S68522.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Fresno (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Three bright lights forming a triangle staying stationary in sky then quickly flying off and disappearing.At about 10pm, my friend and I were on the way to my house and I noticed three bright lights in the sky making the shape of a triangle.  At first I thought it was lights for a tower like the ones you would see at a airport, but since I drive down that particular road at least 10-20 times a week it was not usually there and it was too far away from the town airport to be a tower for it. As we drove south more, I noticed that it seemed we were getting closer to it so it was staying still and I also noticed that I couldn't see any metal connecting below it so it had to be floating/flying in the sky.  It was kind of low like when a airplane is going to land, but it stood still in the same spot not moving side to side or up and down.  After looking at it for a couple minutes my friend driving finally saw it and asked what it was, he was intrigued and pulled over so we could get a better look, by the time he pulled over and turned to look it was quickly fading away and! then was gone.  It took off very quick.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117247.html](http://www.nuforc.org/webreports/reports/117/S117247.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/163/S163648.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161995.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161972.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161971.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161973.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
