@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:33 on 8 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:23 on 8 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Long Beach (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately second - second minutes.</sub><blockquote><sub>Green Flash seen during Long Beach Black Outthere was a black out tonight around 2:00am on thursday february 8 (just right now). The only problem was that only one side of the city or street I don't really know was blacked out. But the other side had light. The weird part was when I opened my blinds to see outside, I saw this green light in the sky just flash. Sort of like a lightning bolt but faster. It was pretty weird. Nothing like I have seen before. I thought it might have something to do with the blackout.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55212.html](http://www.nuforc.org/webreports/reports/055/S55212.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Haiku (HI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Formation of three amber in color until 90 degree turn then red in color and very high speed to horizonThe six craft came form the south from mount Haleakala in an amber color and then turned red color and headed west and disappeared into the horizon at a very fast rate of speed.  We viewed form the east.  They were not aircraft and did not flash.  The speed was very high compared to commercial aircraft.  They turned red in color as they turned at a 90 degree then disappeared in to the horizon in about 4 seconds.  They were flying in formations of three in a straight line. Both my wife and myself come from aviation families and my wife currently works in aviation industry.  I served 19 years in the federal govt and am very familiar with military aircraft.  These were not man made aircraft.  We are all of sound mind and very intelligent.  This is not a hoax this REAL WORLD.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107037.html](http://www.nuforc.org/webreports/reports/107/S107037.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/163/S163648.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161995.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161972.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161971.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161973.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
