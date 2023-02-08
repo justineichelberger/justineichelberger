@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:16 on 8 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:25 on 8 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Louisville (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Isn’t the first time we have seen these.  Moved West to East. Red/Orange colored lights.  They stopped and hover for a few minutes.  Then they always disappear when we take our eyes off of them.  We have seen them over 5 times since Summer of 2013.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106993.html](http://www.nuforc.org/webreports/reports/106/S106993.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Kitscoty (Canada) (AB) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright reddish stationary object sighted for approximately 20-25 minutes in Alberta Canada.I was south bound on Highway 897 on 08 Feb 2001 around 20:38 between Marwayne and kitscoty when I noticed the object to the South East of my position.  The object was bright and looked like a triangle with one side horizontal to the ground and the pointy end was part way into a circle.  The object was a reddish orange color.  The object was approximately 100 meters above the ground.  The object looked like it was about 1 cm through the side window of my vehicle.  I stopped on the high way just before Kitscoty, rolled down the window and looked at the object.  It was approximately 1 km directly West of Kitscoty.  It was too still to be a helicopter and had no flashing lights.  Then it made 4 to 5 horizontal circle motions (wobbled approximately half of its width) and stopped.  I made several of these motions in a 5 min time frame.  I got back onto the highway then went south on Highway 16 past Kitscoty.  I still saw the object, then it moved south west in a st! raight line keeping a constant altitude.  I estimate that it went approximately 10 km in about 1 minute before it was too far to see.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79996.html](http://www.nuforc.org/webreports/reports/079/S79996.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/163/S163648.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161995.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161972.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161971.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161973.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
