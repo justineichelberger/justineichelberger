@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:23 on 8 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:33 on 8 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Haiku (HI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Formation of three amber in color until 90 degree turn then red in color and very high speed to horizonThe six craft came form the south from mount Haleakala in an amber color and then turned red color and headed west and disappeared into the horizon at a very fast rate of speed.  We viewed form the east.  They were not aircraft and did not flash.  The speed was very high compared to commercial aircraft.  They turned red in color as they turned at a 90 degree then disappeared in to the horizon in about 4 seconds.  They were flying in formations of three in a straight line. Both my wife and myself come from aviation families and my wife currently works in aviation industry.  I served 19 years in the federal govt and am very familiar with military aircraft.  These were not man made aircraft.  We are all of sound mind and very intelligent.  This is not a hoax this REAL WORLD.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107037.html](http://www.nuforc.org/webreports/reports/107/S107037.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in Brooklyn Park (MN) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>In Brookyln Park MN, late at night, a silver matalic cylindrical object, floated past our window.I apologize if you are not interested in past sighting. It is just that it has never left my mind, but I had never reported it.I am not exact on the date and time ( I lived there from Jan-March of '88, and I just remember it being late at night.)  One of my roommates and I were in the living room, and we had no lights on in that area. We lived on the top floor of an apt. complex..  I believe 3rd or 4th.  I had seen something out the window in the sky.  I called my roommate over and we watched as a cylindrical/silver metallic object floated by for few minutes.  I wish I could give exact depth/measurements.. but that was difficult then and even more, since so much time has pasted.  My impression is that it was low, yet somewhat above the building, it didn't seem far off either, maybe 50 feet straight out yet we were looking up towards it. It was dark that night but clear, with street/city type lights present.To me, it only appeared about 3 feet tall and if I got a hold of it, as if I could just get my arms wrap around it.  I don't remember any lights, ignition source,exhaust emanating, sound, or distinguishing marks.  It FLOATED up right, like we walk.  No jerking or fast movements, just a steady float in a forward direction.  That is what was most bizarre, what made it float?  I remember trying to rationalize it..see if it was connected to something, like electrical wires, etc..asking my roommate the whole time if she sees what I do, and what does she think.  She said yes, but was speechless beyond that (even, was so freaked out after, that she never would make claim to it again.)  What kept coming to mind, was a probe of sorts, not a space ship with aliens, but who knows.  As it continued on that steady floating forward path, it cleared the corner of our building, making it so we couldn't see it anymore.  I ran down stairs in only a tee shirt, out the nearest door to our last sighting, into the winter cold, to find no trace of it.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48977.html](http://www.nuforc.org/webreports/reports/048/S48977.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/163/S163648.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161995.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161972.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161971.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161973.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
