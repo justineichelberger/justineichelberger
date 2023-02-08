@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:25 on 8 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:31 on 8 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Hyde Park (NY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Three star sized objects,thought it was Orion's belt until they were actually traversing in a North Eastern path from the Western side of the Valley here.  They were also in a linear formation approximately the same altitude as Jetliners, no blinking lights,sound or vapor trails.With my hand I gauged they were spaced the distance apart from my thumb tip to knuckle,about one and one half inches.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153166.html](http://www.nuforc.org/webreports/reports/153/S153166.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Darlington (UK/England) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 00:02 - 00:02 minutes.</sub><blockquote><sub>A flat grey to white saucer shaped craft moving on a slight angle in an easterly direction. North East UK.A lone, farley flat saucer shape craft, dark grey underside, lighter grey topside, with a slight white glow around the hole thing. It was in one spot in the sky one second another location in the sky the next and then moved off in an SSE direction at a modest speed. The sky had low thick weighty clouds. Above those clouds, it was clear thin clouds silhouetting the object. Above the object and to the west the clouds were of a light grey colour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57945.html](http://www.nuforc.org/webreports/reports/057/S57945.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/163/S163648.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161995.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161972.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161971.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161973.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
