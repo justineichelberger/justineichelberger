@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:27 on 8 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:08 on 8 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Guelph (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Craft had 3 bright circular white lights and flew WSW (against final approach pattern to Pearson International Airport) at roughly 2500-3000ft at a spd of ~200 knots.I was sitting at my computer looking out my window at the University of Guelph looking West. I watched as a craft flew over the residence bound West South West. The craft made no sound and proceded on a straight course at roughly 200 knots. The craft was triangular shaped with a bright circular light at each corner. No other lights were visible and the craft itself was dark (the triangular shape is a guess based on the position of the lights). Another interesting point is that the aircraft pattern to land at YYZ (Pearson International Airport) is ENE so this aircraft was headed against the commercial air traffic (I am an amatuer pilot).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05684.html](http://www.nuforc.org/webreports/reports/005/S05684.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Bluish Green diamond shaped coming in at a steep angle towards the earth, then it banked hard right and gained altitude as it headed S.Just dropped my Girlfriend off after seeing movie.  Was entering on the 101 Freeway heading south from Shea Rd Exit. At first I though it was a shooting star.  It had a blue/greenish color to it.  It looked like it was going to crash into the indian reservation (Talking Stick Casino) but before it hit, it changed directions and shot across the 101 Freeway toward Phoenix at an AMAZING SPEED and just disappeared as it gained altitude.   Other people on the Freeway saw this too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117229.html](http://www.nuforc.org/webreports/reports/117/S117229.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/163/S163648.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161995.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161972.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161971.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161973.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
