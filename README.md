@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:24 on 8 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:25 on 8 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Wesley Chapel (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>floating swaying and dropping.Not sure.  Had blinking lights...red, and some other.  Could not tell.  Was floating in air dropping and swaying and jolting left to right.((NUFORC Note:  Possible "twinkling" star??  We spoke via telephone with the witness, and have encouraged to look at the same area of the sky, at the same time of night, when they have a clear sky in that area of Florida.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117235.html](http://www.nuforc.org/webreports/reports/117/S117235.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO SIGHTING FEBRUARY 8TH 2012 2 PM SALEM OREGON  While driving to Salem on Wednesday the eighth of February on the Interstate 5 Southbound, my wife and I noticed about a mile ahead near the North bound side of Freeway approx. 15 miles outside of Salem Oregon, what looked like a balloon or blimp shaped object that would be tethered to a rope at maybe a car dealership (to announce a sale?)  But as we moved further south the thing quickly appear to both of us as a small hang glider or experimental aircraft.  My wife thought she saw the operator underneath but that was when the UFO made a deliberate left bank and from about 30-50 feet up in the sky, crossed over the top of the North bound freeway lanes to the Southbound lanes and came right towards us (and everyone behind us in heavy traffic).  It was then we both got an incredible close-up view of this thing as follows: only about 4 feet in length, and about two feet across, dark dull gray in color with kind of like a tear drop shape, the rear being much smaller than the front.  There was something hanging just under the body, like a camera mount but no markings on the craft.  I was stunned at the proximity to us and failed to turn on my camera phone function.  It was traveling about 50 mph…I say this because the speed limit was 70 in that area and it was coming from the North bound side of freeway but wasn’t quite a! s fast as the traffic.  Since my wife was driving, I turned in my seat and watched it fly right over a semi-tractor and make controlled right and then left banking, then into a completely straight path.  At that point my wife said, “ what the hell was that? “ I told her I think it’s some kind of new surveillance machine the state patrol was using, because I’d read that there are new technologies emerging for military and police applications, that this might be one of them.  I called my son in Nevada and asked him to look these things up on the computer.  He said there were some discussions abut a year ago that the Oregon department of agriculture was thinking about using drones.  Later that night, I got on the Internet myself and looked it up, only to find a ridiculous looking octopus shaped device with eight little helicopter blades which would be Oregon's drone.  What a laugh!  What we saw was actually sleek, quick and beautiful in a weird sort of way.  There was no visible means! of propulsion at all and as I said, no markings.  Please, I would love to have someone reading this correct me and tell me that what we saw can be easily explained.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87151.html](http://www.nuforc.org/webreports/reports/087/S87151.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/163/S163648.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161995.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161972.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161971.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161973.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
