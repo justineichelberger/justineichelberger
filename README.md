@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:33 on 8 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:48 on 8 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in Brooklyn Park (MN) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>In Brookyln Park MN, late at night, a silver matalic cylindrical object, floated past our window.I apologize if you are not interested in past sighting. It is just that it has never left my mind, but I had never reported it.I am not exact on the date and time ( I lived there from Jan-March of '88, and I just remember it being late at night.)  One of my roommates and I were in the living room, and we had no lights on in that area. We lived on the top floor of an apt. complex..  I believe 3rd or 4th.  I had seen something out the window in the sky.  I called my roommate over and we watched as a cylindrical/silver metallic object floated by for few minutes.  I wish I could give exact depth/measurements.. but that was difficult then and even more, since so much time has pasted.  My impression is that it was low, yet somewhat above the building, it didn't seem far off either, maybe 50 feet straight out yet we were looking up towards it. It was dark that night but clear, with street/city type lights present.To me, it only appeared about 3 feet tall and if I got a hold of it, as if I could just get my arms wrap around it.  I don't remember any lights, ignition source,exhaust emanating, sound, or distinguishing marks.  It FLOATED up right, like we walk.  No jerking or fast movements, just a steady float in a forward direction.  That is what was most bizarre, what made it float?  I remember trying to rationalize it..see if it was connected to something, like electrical wires, etc..asking my roommate the whole time if she sees what I do, and what does she think.  She said yes, but was speechless beyond that (even, was so freaked out after, that she never would make claim to it again.)  What kept coming to mind, was a probe of sorts, not a space ship with aliens, but who knows.  As it continued on that steady floating forward path, it cleared the corner of our building, making it so we couldn't see it anymore.  I ran down stairs in only a tee shirt, out the nearest door to our last sighting, into the winter cold, to find no trace of it.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48977.html](http://www.nuforc.org/webreports/reports/048/S48977.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Renton (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Green fireball over Renton, WAI was talking with my girlfriend when I walked outside.  I was looking at the stars as I usually do when I thought I saw a "shooting star".  It looked more like a probe but was moving alot faster.  Its color was almost light neon green.  From where I was standing it appeared over my left shoulder and relative to my position on the ground it seemed only about 200 meters up in the air.  There was no "bang" like that of fireworks, it did not make a sound at all.  I live in Renton and the object was moving east-southeast.  I lost it over the trees so I don't know if it vanished or kept on moving in that direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21745.html](http://www.nuforc.org/webreports/reports/021/S21745.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/163/S163648.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161995.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161972.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161971.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161973.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
