@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:22 on 8 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:35 on 8 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in North Hollywood (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>I was driving eastbound on the 101 freeway when a very bright object suddenly appeared on the horizon and began travelling east at approx. 35 mph, when it stopped and hovered over my apartment building as I began to exit at laurel canyon blvd, the object started moving east again moved at an extremely slow rate of speed.  I exited the ramp and noticed the object was hovering over the LA River at laurel canyon and moorpark. I watched it hover for a few minutes and went into my apartment.I was driving eastbound on the 101 freeway when a very large object with panels of white strips of light, encasing one bright panel of above which was a dome.  I light 35 mph, when it stopped and hovered over my apartment building as I closer to the object I  began to exit at laurel canyon blvd, the object started moving east again moved at an extremely slow rate of speed.  I exited the ramp and noticed the object was hovering over the LA River at laurel canyon and moorpark. I watched it hover for a few minutes and went into my apartment.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11906.html](http://www.nuforc.org/webreports/reports/011/S11906.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bothell (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I heard a very loud hellicopter and was looking for it behind the trees.  It appeared with a whiteball very close in front of it.  It looked like a star.  The hellicopter was very very close to the star like object.  They were going hellicopter speed (slow) and the hellicopter was staying right on its tail (weird close like when the blue angles fly close together).  They were going north to south.  It was not another helicopter or plane just a star looking object being escorted or chased.  The helliopter had all its lights on.   I have only heard a hellecopter  that loud once before during the day and they were huge hellicopters.  We don't usully get helicopter flying around here very often never at night.  My neighbor heard it to from her bedroom and thought it was weird.  It was a little overcast full moon but a bright sky.  Kinda light outside.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87092.html](http://www.nuforc.org/webreports/reports/087/S87092.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/163/S163648.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161995.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161972.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161971.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161973.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
