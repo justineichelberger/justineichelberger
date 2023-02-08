@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:28 on 8 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:24 on 8 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>cigar shape wingless aircraft seen over midday.It was a bright sunny afternoon with clear blue sky.  I saw a low angle large reflected metallic glint in the sky and looked at the glint.  Turned out to be a wingless cigar shaped aluminum colored craft moving northerly at about 5000 feet or less in altitude.  The sight is very close to a landing path to a local airport and this craft is too high for aircraft in this particular area.  As I started to focus on the glint, I realized the craft just went up in the air about 5000 more feet and then third second, it was gone.  The craft when it went up in altitude did not move forward to go up, it just went "backward" from me, meaning it just went up in the sky in unbelievable speed with no sound and within 2 seconds, it was gone.  It never moved forward another foot from where it was when it was when I first saw it.    there was no wings or tail or any marking except it was grey metallic color in a cigar long shape.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61993.html](http://www.nuforc.org/webreports/reports/061/S61993.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Wesley Chapel (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>floating swaying and dropping.Not sure.  Had blinking lights...red, and some other.  Could not tell.  Was floating in air dropping and swaying and jolting left to right.((NUFORC Note:  Possible "twinkling" star??  We spoke via telephone with the witness, and have encouraged to look at the same area of the sky, at the same time of night, when they have a clear sky in that area of Florida.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117235.html](http://www.nuforc.org/webreports/reports/117/S117235.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/163/S163648.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161995.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161972.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161971.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161973.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
