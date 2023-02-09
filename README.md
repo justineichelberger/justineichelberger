@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:29 on 9 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:27 on 9 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Federal Way (WA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright stationary silver cylindrical object seen in clear sky over Federal WayYesterday, Feb. 9, at about 3:30 PM, I was driving south on Southwest Campus Drive when I spotted a bright sharply-defined silver-colored cylindrical object sitting stationary, apparently at high altitude, towards the southeast, at approximately 70 degrees above horizon. One end of the object appeared a bit larger than the other.  I watched the object from a stationary position inside the car, after pulling briefly into a center turn lane. The sky was perfectly clear, ground winds were from the North, and gusting (perhaps 20-25 mph).  I watched the object sporadically as I continued driving (in heavy traffic), but then apparently it vanished. Estimated in sight for two minutes or better. It was about 1/4" in diameter at arm's length. I've seen many helicopters, small private planes, and commercial and military.  It was markedly different from these conventional craft.  No exhaust smoke or condensation trail.Strangely, in Sept. 1999, I was in the same approximate location when I saw a bronze-colored cylindrical object (with an orange appendage) in a clear blue sky at nearly the same time of day.  It remained stationary, and then apparently vanished. One other Federal Way resident confirmed the sighting on the NUFORC site.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49079.html](http://www.nuforc.org/webreports/reports/049/S49079.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright lights, three horizontal rows, maybe ten lights across each row, each light was bigger and brighter than any star.I was walking my dog at around 7:30 in the evening; my dog is old so we do a lot of standing not so much walking. I was looking up at the stars because it was a very clear night and to the east is the Oakland Airport, so there are always lots of planes to see. All of a sudden to the northeast, I saw bright lights, which seemed to appear from nowhere and made the few plans in the sky look like distant stars. As they got closer, which took only 20 seconds or so, It looked like it could possibly be round, there were three rows of horizontal lights, maybe ten across on each row, each light five times bigger than the brightest star. They were not flashing, but at one point it seemed to turn, so the lights appeared to rotate slightly and the shape of the object changed into a wide V shape,I called out to my husband but by the time he got outside it had disappeared behind a building and I didn’t see it again.In all it lasted about a minute.I was looking east,it apeared from the northeast and it traveled south. I have never personally seen a UFO, my husband has, and I’ve always laughed at his description and told him it was just a plane, or possibly a star. I have lived here for nine years and the 7:30 dog walk is a nightly routine, and I have never seen anything like this. My husband just came in and dragged me outside to look at another “UFO”…it was a star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61517.html](http://www.nuforc.org/webreports/reports/061/S61517.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
