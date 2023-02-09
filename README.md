@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:31 on 9 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:23 on 9 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Napa (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>White wingless object seen flying above Napa CaliforniaIt was a warm and cloudless day. The driver's side window was down while we were heading west through Napa.  A beautiful foothill was directly ahead of the city road we were traveling on.  I was thinking that the foothill was georgeous while trying to keep my eyes on the road.  Then I saw it! Hey, what is that in the sky?  It is straight ahead, noiseless, all white, and oh my, it does not have any wings.  My passenger is an amateur photog and never leaves home without his camera so of course, he started snapping photos of the object.  We were both puzzled.  No sound was coming through my open window, it had no wings, tail, window, no markings at all.  It looked like a cigar with rounded ends.  Actually, it had no end as the front and back were identical.  It was traveling to the right of my car, below the horizon of the foothill, in a steady direction. Noiselessy, effortlessly, smoothly. To me, it appeared to be traveling slowly.  My passenger felt it to be traveling rapidly.  From the first sighting to the end, we estimated the time of viewing to be about 15 seconds.  After looking at a map of the area it appears that it traveled 3 or 4 miles in this time span.((NUFORC Note:  We spoke with this witness, and he sounded both sincere, and convincing.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21755.html](http://www.nuforc.org/webreports/reports/021/S21755.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1986, an anonymous witness in Kemayan (Malaysia) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Sharp turning flying object with orange light in Malaysia. Year 1986 Feb 9th.I have been keeping this sighting story in my mind for so many years and it is glad to share with everyone here. That was in year 1986 during the well-known comet Halley flying close to our earth. By refering to the direction given by press, my siblings and i was outside the house looking at the stary skies, searching for the so called Halley Comet. We did not use any sophisticated equipment, just by naked eyes. The stary night was so beautiful without disturbance by cloud. Suddenly, i saw a light dot moving trememdous fast and make a sharp turning at about 120 degrees. Its latitud (height) was unknown. At first i thought that was a meteor and finally surprised when seeing it made a sharp turning. I immediately ask my brother to see. Unfortunately it was too late, the thing vanished in the dark.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35392.html](http://www.nuforc.org/webreports/reports/035/S35392.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
