@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:27 on 9 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:30 on 9 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Sarasota (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Glowing ball of light over West/Southwest sky. Did not move at all. Definitely not Venus.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153209.html](http://www.nuforc.org/webreports/reports/153/S153209.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Auburn (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Fiery large globe, no tail.  Direction of flight: 60 degrees, from south to north.  Two-second flight.This appeared more a celestial body than a vehicle or craft.  It entered at 60 degrees, north from south, one-quarter up from the horizon.  It was a fiery, golden globe, not as large as a full moon.  It had no tail.  As it reached what I would have assumed to have been impact (given the hilly terrain beyond the trees), there was the suggestion of flaring. I imagined that if it had indeed reached Earth, it would have set vegetation on fire or broken through a roof.  There were no such reports in the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49166.html](http://www.nuforc.org/webreports/reports/049/S49166.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
