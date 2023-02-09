@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:26 on 9 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:22 on 9 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Valdosta (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0:0:20 - 0:0:20 minutes.</sub><blockquote><sub>My friend and I saw the same orbs of lights from opposite ends of a entire city.At about 7:15-7:20 a friend and I saw what appeared to be an orange/golden orb.  When that orb disappeared, three more appeared and formed what could be best described as a "diagonal" shape.  All within a span of 15-20 seconds, before all lights disappeared at the same time.  NOTE:  My friend and I live on opposite ends of the city and live about 10-15 minutes of each other.  I called Moody Air Force base and they told me that it was a plane (we all know that's not true).  I couldn't hear anything coming out of the objects at the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132536.html](http://www.nuforc.org/webreports/reports/132/S132536.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Sewell (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Green and red light Pulsating, not flashing like an aircraft  It was just hovering then it would move at 90 degrees angles, then stop hover there,  I have a cellphone video, not the best but you can see this isn’t normal, wondering if anyone else seen it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144839.html](http://www.nuforc.org/webreports/reports/144/S144839.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
