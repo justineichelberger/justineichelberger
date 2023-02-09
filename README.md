@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:42 on 9 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:24 on 9 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Red Bank (NJ) reported seeing craft that fit the description of some 'Flash' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Ok i wake up and noticed one plane with flashing lights making away from me, so I watched it keep stopping and going to ot disappeared past the trees, so im like once i again i see this shit with out witnesses so i lay down mabe 1 min get up i see it again coming back but this time theres two identical to each other its almost like they were surveying the area mind you its feb 9 out first snow fall and its freezjng out with high winds on and off and this isnt the first time iv seen this.((NUFORC Note:  We suspect that this report may not be intended as a serious-minded account of a genuine sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132534.html](http://www.nuforc.org/webreports/reports/132/S132534.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Rochester Hills (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>3 amber-tan spheres spotted over skies in michiganI was walking home last night around 10pm. i looked to my left and i noticed 3 translucent, spherical, amber-tan colored objects rising in the skyline above my neighbor's house. They were in an up and down row but the 3rd one started to move in front of the other 2 just as i lost sight. I would say they were roughly about 50 feet in the air.  There was 3 of them moving up in the sky independently of each other.  I was able to track their slow, upward movement for about one minute until my view was obstructed. They were traveling upwards way too slow for them to be any kind of objects that were thrown up in the air.  I instantly got goose-bumps all over my body due to the fact that i could not explain what i was seeing.  They were translucent amber-tan colored spheres and the inner part of the sphere was less translucent than the outer edges.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87127.html](http://www.nuforc.org/webreports/reports/087/S87127.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
