@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:29 on 9 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:32 on 9 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in NYC (Brooklyn) (NY) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Saw an cylindrical object in Brooklyn, with a solid light in front streak across the sky	The object I saw was clearly lower than air traffic in my area, and also moving in the opposite direction of the air traffic flow of my area. I was walking up the block, and as I was nearing the end of the block, and object moved over my head, and disappeared over the buildings. I moved up the block to get a better view, but there was nothing in the trajectory in which the object was moving.	 My best description of the object is that it was cylindrical, and had a light in front, with almost like a fog in front like it was passing through clouds. It's a pretty clear night, and it looked lower than the cloud line. I can't remember any blinking lights, but I do remember seeing a trail behind it, sort of like a shooting star. I can barely see anything in the sky in Brooklyn, and I've seen my fair share of shooting stars. It was too discernable to be one. 	I'm a pretty skeptical person, but after an hour of thinking about the event, I have no rational explanation for it, other than it being some new type of drone or something I've never seen before. It didn't move like your traditional consumer drone. There's also a missile launch tonight in Florida but this was way too close to the ground and too fast to be a missile, even if it was visible from New York. </sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161987.html](http://www.nuforc.org/webreports/reports/161/S161987.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Butler (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>WHILE I WAS AT MY FARM PASTURE I SAW A STRANGE OBJECT IT WAS VERY STRANGE.I was out on my farm pasture on February 9, 2006 on a Thursday evening about at 7:40 P.M. in Butler, Missouri. I was out by my barn and I looked up and saw a strange light in the sky up above me.  Then I saw a strange object above me and it was round and wide on the top and it got narrower as you go to the bottom of the object it was orange lighted with red vertical lines around the sides of it and it had a blue light on the middle of the top and a blue light on the middle of the bottom.  I saw it over the nearby lake also. But as I was standing by the barn it hovered over the barn and went down by the nearby lake and it hovered over the lake.  So I walked down by the lake and I still saw the strange object. I was puzzled and I didn't understand where this object came from.  It wasn't a plane or a weather balloon and it wasn't a star that I was seeing. The object had no sound to it.  I watched it and it disappeard going towards the west I looked up and it was no where in sight and I didn't see it no more.  Then I got in my car and left my farm pasture and I didn't see it no more it was a strange object  I saw at my farm pasture.  It was party cloudy when I saw this object at my farm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49233.html](http://www.nuforc.org/webreports/reports/049/S49233.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
