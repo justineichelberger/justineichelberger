@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:58 on 9 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:23 on 9 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Eureka (CA) reported seeing craft that fit the description of some '' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>She called at 2307 hrs. on 09FE96 and left a message.  I called back at 1457 on 11FE96. The caller noticed a friend/neighbor standing in the street looking up.  She looked up and witnessed four lights very close together, with three more behind them, then three more still behind the first two groups.  The formation stretched across approximately one third the distance from horizon to horizon!!  They appeared to stop, start moving again, then speed up again in erratic fashions.  He friend noted that the flashing lights were "wavering."  It appeared to both the observers that there were three lights on each "vehicle," one quite bright, and two "weaker" ones. The formation passed directly above their heads, at which point three "objects" formed a triangle, and "three of them in back lagged off."  No sound was detectable.After the objects had disappeared from sight, the observers heard an aircraft sound coming from behind them.  It turned out to be a commercial jet aircraft, which appeared to be moving very slowly, relative to the (angular) velocity of the peculiar objects they had just witnessed.She received our telephone number from the Eureka Police.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01275.html](http://www.nuforc.org/webreports/reports/001/S01275.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Lake Forest (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Five circular white objects seen flying at extremely an extremely high speed above Lake Forest California at 1:30 p.m. on 2/9/03.About 1:30 p.m. Sunday 2/9/03, I took my son to ride his bike on a hill behind our home. I was gazing up at the sky and saw about 5 circular white objects at a very high altitude, flying in formation at extremely high speed. They were flying in a south west direction. My son was riding his bike and I did not mention to him what I observed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27611.html](http://www.nuforc.org/webreports/reports/027/S27611.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
