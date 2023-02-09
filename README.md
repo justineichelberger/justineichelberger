@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:27 on 9 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:27 on 9 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Rocklin (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Two Unidentified Objects Flying in Sky Over Sacramento County on February 9, 2013 at Approximately 6:25pmLooking out to the Southwest direction from of the Western-facing window of my condominium in Rocklin, California, I saw two circular shaped objects in the sky. I first saw the objects at approximately 6:25pm.  They were very bright and seemed bigger than any airplane, helicopter or other aircraft.  They were several miles from me and were definitely flying over an area in Sacramento County.  They could have possibly been flying over Citrus Heights, California, Fair Oaks, California or even Rancho Cordova, California, depending on their distance from my home.  The objects were very bright and were mostly yellow-colored, but they occasionally changed to a green color, and even red.  They move in all directions and change direction quickly.  They appeared to stay relatively low to the ground, but they would sometimes fly higher up in the sky. F rom my window, I saw two other people on my street who were outside witnessing these two objects flying in the sky.  They wer! e capturing video footage of the objects on a cell phone, smartphone, or a similar device.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96260.html](http://www.nuforc.org/webreports/reports/096/S96260.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Sarasota (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Glowing ball of light over West/Southwest sky. Did not move at all. Definitely not Venus.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153209.html](http://www.nuforc.org/webreports/reports/153/S153209.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
