@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:03:36 on 9 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:22 on 9 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Boston (MA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Green glowing disk changing to white light, streaking silently over the city of Boston, visible for less than 1 sec.I had just stepped out of Shaw's Market on Commonwealth Avenue in Boston and a bright object in the sky caught my attention. I looked up and saw a small disk glowing very bright green, just the color of a traffic light. It moved quickly across the sky in a westerly or slight southwesterly direction. As it moved away from me it appeared only as a white light. It streaked across the sky very quickly, being visible for only about a second, and then disappeared from sight. I was left rather stunned and wondering what it was. I would rule out any commercial or private aircraft. I would estimate its altitude at somewhere less than 10,000 feet. An aircrat at this altitude would move much more slowly. In fact  several minutes later I saw a plane cross the same area, and it was tiny and moving very slowly. The object I saw was also completely silent. The lights it displayed did not resemble those of a typical aircraft. I have observed military aircraft over Boston. They were extremely loud. If this was a stealth bomber why would it display the bright green light?  I would also rule out a low or high orbit satellite as I have seen them before and they look completely different. I am a graduate of the University of Maine at Orono with a B.S. degree in Biology and also a graduate of the Massachusetts School of Law with a J.D. I worked for about 10 years doing biomedical research and pharmaceutical development, and am now preparing for the Massachusetts bar examination. I am an avid outdoorsman and amateur naturalist and astronomer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41881.html](http://www.nuforc.org/webreports/reports/041/S41881.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>15 - 20 yellow orange object on straight line trajectoryWhile sitting in the back yard I looked to the east and saw a group of 15 to 20 yellow orange objects travelling from the south east to the north west.  They appeared to be travelling straight and level and made no noise that we could hear.  Continued for about 2 minutes and then began to fade out.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88410.html](http://www.nuforc.org/webreports/reports/088/S88410.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
