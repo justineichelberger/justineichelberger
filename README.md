@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:27 on 9 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:26 on 9 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright lights, three horizontal rows, maybe ten lights across each row, each light was bigger and brighter than any star.I was walking my dog at around 7:30 in the evening; my dog is old so we do a lot of standing not so much walking. I was looking up at the stars because it was a very clear night and to the east is the Oakland Airport, so there are always lots of planes to see. All of a sudden to the northeast, I saw bright lights, which seemed to appear from nowhere and made the few plans in the sky look like distant stars. As they got closer, which took only 20 seconds or so, It looked like it could possibly be round, there were three rows of horizontal lights, maybe ten across on each row, each light five times bigger than the brightest star. They were not flashing, but at one point it seemed to turn, so the lights appeared to rotate slightly and the shape of the object changed into a wide V shape,I called out to my husband but by the time he got outside it had disappeared behind a building and I didn’t see it again.In all it lasted about a minute.I was looking east,it apeared from the northeast and it traveled south. I have never personally seen a UFO, my husband has, and I’ve always laughed at his description and told him it was just a plane, or possibly a star. I have lived here for nine years and the 7:30 dog walk is a nightly routine, and I have never seen anything like this. My husband just came in and dragged me outside to look at another “UFO”…it was a star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61517.html](http://www.nuforc.org/webreports/reports/061/S61517.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Valdosta (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0:0:20 - 0:0:20 minutes.</sub><blockquote><sub>My friend and I saw the same orbs of lights from opposite ends of a entire city.At about 7:15-7:20 a friend and I saw what appeared to be an orange/golden orb.  When that orb disappeared, three more appeared and formed what could be best described as a "diagonal" shape.  All within a span of 15-20 seconds, before all lights disappeared at the same time.  NOTE:  My friend and I live on opposite ends of the city and live about 10-15 minutes of each other.  I called Moody Air Force base and they told me that it was a plane (we all know that's not true).  I couldn't hear anything coming out of the objects at the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132536.html](http://www.nuforc.org/webreports/reports/132/S132536.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
