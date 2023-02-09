@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:22 on 9 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:24 on 9 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Sewell (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Green and red light Pulsating, not flashing like an aircraft  It was just hovering then it would move at 90 degrees angles, then stop hover there,  I have a cellphone video, not the best but you can see this isn’t normal, wondering if anyone else seen it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144839.html](http://www.nuforc.org/webreports/reports/144/S144839.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Baltimore (MD) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Square and round UFO anomalies imaged over Baltimore MarylandWhile Taking pictures of a friend in Baltimore, directly by a Reservoir. I took several pictures..nothing flew by us at all, however in my pictures are square and round luminous objects.In one sample these abjects are together and moving, in the next image, the square object is stopped above us, and the round object is 100 feet above the center of the Reservoir. We both would have noticed if something had flown by? However; there are other images at this location which show orange streaks of light flying above the buildings in the distance, orange like that encountered http://www.nuforc.org/webreports/065/S65053.html http://www.nuforc.org/webreports/065/S65048.html Forensically sampled in HD 1080 i using D700 Nikon. Objects imaged were 100% silent, we would have seen them flyby? This is very unusual, imaged exceptionally well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68576.html](http://www.nuforc.org/webreports/reports/068/S68576.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
