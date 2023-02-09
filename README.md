@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:24 on 9 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:31 on 9 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Baltimore (MD) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Square and round UFO anomalies imaged over Baltimore MarylandWhile Taking pictures of a friend in Baltimore, directly by a Reservoir. I took several pictures..nothing flew by us at all, however in my pictures are square and round luminous objects.In one sample these abjects are together and moving, in the next image, the square object is stopped above us, and the round object is 100 feet above the center of the Reservoir. We both would have noticed if something had flown by? However; there are other images at this location which show orange streaks of light flying above the buildings in the distance, orange like that encountered http://www.nuforc.org/webreports/065/S65053.html http://www.nuforc.org/webreports/065/S65048.html Forensically sampled in HD 1080 i using D700 Nikon. Objects imaged were 100% silent, we would have seen them flyby? This is very unusual, imaged exceptionally well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68576.html](http://www.nuforc.org/webreports/reports/068/S68576.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Napa (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>White wingless object seen flying above Napa CaliforniaIt was a warm and cloudless day. The driver's side window was down while we were heading west through Napa.  A beautiful foothill was directly ahead of the city road we were traveling on.  I was thinking that the foothill was georgeous while trying to keep my eyes on the road.  Then I saw it! Hey, what is that in the sky?  It is straight ahead, noiseless, all white, and oh my, it does not have any wings.  My passenger is an amateur photog and never leaves home without his camera so of course, he started snapping photos of the object.  We were both puzzled.  No sound was coming through my open window, it had no wings, tail, window, no markings at all.  It looked like a cigar with rounded ends.  Actually, it had no end as the front and back were identical.  It was traveling to the right of my car, below the horizon of the foothill, in a steady direction. Noiselessy, effortlessly, smoothly. To me, it appeared to be traveling slowly.  My passenger felt it to be traveling rapidly.  From the first sighting to the end, we estimated the time of viewing to be about 15 seconds.  After looking at a map of the area it appears that it traveled 3 or 4 miles in this time span.((NUFORC Note:  We spoke with this witness, and he sounded both sincere, and convincing.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21755.html](http://www.nuforc.org/webreports/reports/021/S21755.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
