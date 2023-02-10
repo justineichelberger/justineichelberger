@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:27 on 10 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:37 on 10 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Airway Heights (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately Ongoin - Ongoin minutes.</sub><blockquote><sub>I went downstairs an was looking out the glass door when I saw 3 lights lined up moving the same speed across the sky.  The another, and another.... I woke my son to come and watch. They kept coming only further apart for 20 min. As if leaving.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153189.html](http://www.nuforc.org/webreports/reports/153/S153189.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Birmingham (UK/England) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three Orange/Red bright lights. Two together orbiting each other. the other some distance away.Three bright orange/red undefined round shapes. Two together the other a distance away.The two together were orbiting each other and all moving slowly.  Suddenly all three shot skywards at speed. No noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68547.html](http://www.nuforc.org/webreports/reports/068/S68547.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162347.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162023.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162015.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162186.html)
-- [269](http://www.nuforc.org/webreports/reports/153/S153207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
