@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:31 on 10 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:23 on 10 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Pedro (OH) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>two lights 300-500ft apart [you could fit a few football fields in between them] one was red and  one was blue, almost like the tips of a large plane yet it was only a few hundred feet above the tree tops, it was silent no noise at all. we first saw it in the southern sky, north bound then it turned toward east and just vanished out of sight. about 5 seconds later it was west bound on the western sky on the other side of the sky  north west bound then just like turning out a light it was gone then, it re- apeard a third time almost over us  then just no longer there. it was haunting it left me with a feeling of apprehention and fear. then i rationalized it as some kind of government project, i just cant figure it out. then on 2-10-11 around 22:00-22:30  very low in the eatern sky i saw a small ball of light pulsating red blue green colors i thought it was a star until it just vanished.((NUFORC Note:  Possible hoax.  We attempted to contact the source of the report, but the contact information provided did not allow us to confirm the report.  PD))((NUFORC Note #2:  Source of report called to assure us that the report is not a prank.  We apologize to the witness for our assumption that the report might have been hoaxed.  He will try to have the other witness submit a report, as well.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80045.html](http://www.nuforc.org/webreports/reports/080/S80045.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Rockford (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>9-11 orange-red lights in formation appear twice in 1 hour which can remain perfectly still  then travel exceedingly fast.At about 21:50, my 9 yr old son said "Wow, the little dipper sure is bright tonight!"  We looked out our W windows and looked NW. There we saw about 9-11 orange-red mostly motionless lights in the sky. They changed formation slightly.  About 2 then flew off and disappeared, then another 2 or so until there were only 2 left which then traveled directly S, at first close together and then more apart.  They were able to make pin point stops and continue.  We couldn't see them after they had traveled so far S. Then at about 22:30 they reappeared in the same spot in a diamond formation. I phoned a neighbor. A plane flew past and behind the formation.They disappeared as before but only 1 traveled S, stopped directly W, disappeared and I saw a white shooting star straight from sky to earth where the light was last.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16691.html](http://www.nuforc.org/webreports/reports/016/S16691.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162347.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162023.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162015.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162186.html)
-- [269](http://www.nuforc.org/webreports/reports/153/S153207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
