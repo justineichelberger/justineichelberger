@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:39 on 10 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:26 on 10 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Cone' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>White cone shaped object in the early morning sky over Reno, NV.At approximately 0520 hours, myself and a coworker observed a white dot in the sky with a noticeable white ring encircling it.  This was in the north west sky in the north west part of Reno and the dot appeared to be the size of a star.  As we watched, the dot slowly travelled south across the sky.  As the object moved, the encircling white ring disappeared and we could see what appeared to be a cone shaped white light under the original dot.  The cone looked almost like a spotlight under the dot similar to a lampshade.  The object appeared to be extremely high in the sky, did not blink, and made no sound.  The dot seemed to travel just in front of the cone as though the cone part was trailing.  We looked at the object through binoculars as it continued south and eventually out of sight.  The noticeable cone did not change shape and seemed to be an illuminated solid structure.My coworker and I work nightshift patrol as police officers.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125740.html](http://www.nuforc.org/webreports/reports/125/S125740.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in (Norway) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Hovering "Venus" then zig-zags for a couple mins.UFO was first taken for Venus (30 secs)- until it started zig-zagging across the field of vision (2 mins+), leaving a trail like when you swing a fire-cracker in the dark. The latter could have been an optical illusion, though. As it was mistaken for Venus, you can imagine that it was a long-distance sighting - and thus are there unfortunately few details to report. I think "Venus" will have to suffice for a description. Light pollusion and aurora borealis are out of the question.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14125.html](http://www.nuforc.org/webreports/reports/014/S14125.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162347.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162023.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162015.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162186.html)
-- [269](http://www.nuforc.org/webreports/reports/153/S153207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
