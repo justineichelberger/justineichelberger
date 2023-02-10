@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:09 on 10 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:26 on 10 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Maidenhead (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Synchronized red lights The sighting started with something that looked like large red stare. To be sure this was not  a plan for a piece of shrapnel so I carried on observing this object. About ten minutes after I saw the first  red light another one appeared 60 degrees south. A short time after that a third light appeared an equilateral triangle. This stars stayed there for an hour until a fourth light one appeared in the middle of the triangles and all four of them formed one light , then they disappeared.((NUFORC Note:  Student report.  Possible hoax, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61569.html](http://www.nuforc.org/webreports/reports/061/S61569.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Duluth (GA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I am a firefighter, while responding to a call, I glanced over to the full moon and the glow that it had around it.  I saw a long cylinder shaped object moving from below the moon's penumbral glow into the glow traveling vertically and along to the right side of the Moon and continued  upward out of the moon's glow.  It was a huge object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132553.html](http://www.nuforc.org/webreports/reports/132/S132553.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162347.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162023.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162015.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162186.html)
-- [269](http://www.nuforc.org/webreports/reports/153/S153207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
