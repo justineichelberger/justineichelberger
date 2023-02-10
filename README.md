@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:32 on 10 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:25 on 10 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 70.0 - 70.0 minutes.</sub><blockquote><sub>Bright white and blue light with red lights flashing around itAt 23:20 I went outside to take the dog to the bathroom, when I looked up into the sky above the Columbia River to look at the stars. Our house over looks the river and the West end of the Portland International Airport. When I looked up I saw a very bright light that was white and blue with red lights that flashed and moved around the object. I went back into the house and determined that it was at about 190 degrees on the compass dial from magnetic North. I turned on the television and watched tv for about 40 minutes, when I checked on the object again, it had moved approximately 2 degrees to the West. I went back to the tv and checked again 30 minutes later and it had moved approximately 15 degrees to the West. I fell asleep and when I awoke at 03:00, it was gone. When I was observing it, I never really saw it move, it seemed to hang in the sky with small gyrating motions. I know it was not an incoming airplane or helo because it was way above the normal flight patterns that come into PDX at that time of the night and it hung around too long. I always check the sky every night for anomalies during the last 1.5 weeks I have been here and this is the first time I have seen this object, as I report this on 2/11/04, it is not in the sky tonight (I checked before the clouds rolled in). ((NUFORC Note:  Possible sighting of Sirius, we suspect.  Sirius would be in the southern sky at the time indicated by the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41903.html](http://www.nuforc.org/webreports/reports/041/S41903.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Meridian (ID) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Triangle shaped bright white object with flashing green and red lights in a triangle form hovering in the sky then reappearing.Seen floating in the same spot one bright white light with flashing green and red lights in a triangle shape.  Seems to slowly fade away as if going very quickly directly away from me in the sky. About 30 seconds after fading away and becoming unseeable, it reappears again on the almost complete opposite side of the sky but this time about three times higher up from the ground, but instead of hovering in place it starts slowly moving slightly down to the left until it disappeared behind the roof of the house out of my window.  What makes things weirder is when I told my family member about it the next day they told me they kept having horrifying nightmares about aliens and waking up in a cold sweat, terrified to go back to sleep.  Planning on getting cameras to put in both of our rooms to try and capture more proof of extraterrestrials while we are asleep.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153200.html](http://www.nuforc.org/webreports/reports/153/S153200.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162347.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162023.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162015.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162186.html)
-- [269](http://www.nuforc.org/webreports/reports/153/S153207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
