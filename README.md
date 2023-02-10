@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:55 on 10 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:20 on 10 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Rio de Janeiro (Brazil) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I WAS IN BARRA DA TIJUCA IN A CAMPING SITE WITH 2 FRIENDS, SAW LIKE A PYRAMID IN THE AIR, STARTED TO RUN AWAY, THE GIRL RAN AWAY A FEW MOMENTS LATER</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27700.html](http://www.nuforc.org/webreports/reports/027/S27700.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Lancaster (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I went camping in the middle of the desert and in the middle of the night I decided to stargaze. After seeing many stars, I saw this bright yellow light just staying in one position. On the edges were blue and it just stayed in that same place. It looked like a scene from starwars going into light speed. The craft got really bright then zoomed off leaving a trail of yellow. It really reminded me of starwars because thats exactly how it looked. I was amazed and couldnt believe it. My friends wouldnt believe me either.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42599.html](http://www.nuforc.org/webreports/reports/042/S42599.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162347.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162023.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162015.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162186.html)
-- [269](http://www.nuforc.org/webreports/reports/153/S153207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
