@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:26:49 on 10 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:07:31 on 10 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Laguna Niguel (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>I witnessed a red object aprox 300-500 yards off a comercial airliners left wing, it kept the same speed for about 20 sec, then it vanished, it was very strange, because it was far enough away from the plane that you could clearly see that was much smaller than the airliner. I know it was a comercial airliner because the travel the same route every night. Anything that is that close to a big plane couldn't fly because it would be in the planes wake!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03109.html](http://www.nuforc.org/webreports/reports/003/S03109.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Rio de Janeiro (Brazil) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I WAS IN BARRA DA TIJUCA IN A CAMPING SITE WITH 2 FRIENDS, SAW LIKE A PYRAMID IN THE AIR, STARTED TO RUN AWAY, THE GIRL RAN AWAY A FEW MOMENTS LATER</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27700.html](http://www.nuforc.org/webreports/reports/027/S27700.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162347.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162023.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162015.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162186.html)
-- [269](http://www.nuforc.org/webreports/reports/153/S153207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
