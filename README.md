@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:29 on 10 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:26 on 10 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Scranton/Dickson (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately few miniutes - few miniutes minutes.</sub><blockquote><sub>THIS OBJECT very fast! ability to lift a car and spin it, shown! more! two or so + creatures,bigfoot ;gremlin+One group said craft flew Mountain top: first lenght, then up over too the other side like it was looking for? then back and over  Bigfoot n others One said was stalking HUNTER!  Bigfoot Kept POINTING TO THE TOYS R US PARKING LOT: like get out of here!  small Gremlin type creature spotted as well!   after we took Note...something Odd occured. a car traveling in front of US ON FREEWAY JUST LIFTED, SPUN AND SAT BACK DOWN!CRAFT SPOTTED OVER VIEW!  UFO OUT((NUFORC Note:  Witness elects to remain totally anonymous, provides only e-address.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45656.html](http://www.nuforc.org/webreports/reports/045/S45656.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Danbury (CT) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately hours - hours minutes.</sub><blockquote><sub>While taking an evening walk i saw what i thought was a shooting star. It stopped in the sky and just hovered there.  It was cylander shaped with lights all around. Then i noticed 4 others. These were just moving very slowly. I was wondering if there were any other reports.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03111.html](http://www.nuforc.org/webreports/reports/003/S03111.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162347.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162023.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162015.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162186.html)
-- [269](http://www.nuforc.org/webreports/reports/153/S153207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
