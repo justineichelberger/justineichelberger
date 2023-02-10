@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:23 on 9 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:33 on 10 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1986, an anonymous witness in Kemayan (Malaysia) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Sharp turning flying object with orange light in Malaysia. Year 1986 Feb 9th.I have been keeping this sighting story in my mind for so many years and it is glad to share with everyone here. That was in year 1986 during the well-known comet Halley flying close to our earth. By refering to the direction given by press, my siblings and i was outside the house looking at the stary skies, searching for the so called Halley Comet. We did not use any sophisticated equipment, just by naked eyes. The stary night was so beautiful without disturbance by cloud. Suddenly, i saw a light dot moving trememdous fast and make a sharp turning at about 120 degrees. Its latitud (height) was unknown. At first i thought that was a meteor and finally surprised when seeing it made a sharp turning. I immediately ask my brother to see. Unfortunately it was too late, the thing vanished in the dark.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35392.html](http://www.nuforc.org/webreports/reports/035/S35392.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Fortuna (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Fortuna lights.Two strange whitish-yellow lights hovered in the air like fireflies, floating slowly down to earth.  At first we thought they were parachuters.  I took a video with my phone, and upon a second viewing I realized the lights were also moving sideways!  About 5 minutes later we saw the same kind of light again, only this time is was purplish and there was only one.  It also meandered about the sky before floating to the ground in the distance.Drones? Aliens?  Parachuters?((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117262.html](http://www.nuforc.org/webreports/reports/117/S117262.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
