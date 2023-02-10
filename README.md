@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 10 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:09 on 10 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in North Pole (AK) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>At about 2040 AKST North Pole Alaska area toward the NorthEast my wife and I witnessed a bright "Orange Sphere" hovering low on horizon just to the east of where I viewed two similar objects on September 24th 1998.  The object disappeared after only a about 20 seconds after I saw it out the kitchen window of our cabin, and just after I called for my wife to come see it.  Then I saw it out another window just to the left of original location.  My wife saw it too this time, we both went outside and viewed it directly (it was behind some trees at times) and could notice rotation and also was disappearing and reappearing.  Overall we viewed it for about 20 minutes.  No sound whatsoever.   Maybe no more than 300-500 yeards away. We did not see movement, only disappearing and reappearing in same general location.  It was about 1/10 the size of a full moon.At about 2040 AKST North Pole Alaska area toward the NorthEast my wife and I witnessed a "Orange Sphere" hovering low on horizon just to the east of where I viewed and videotaped two similar objects on September 24th 1998.  I first saw it at the kitchen window of our cabin and  called for my wife, who was on the couch to come to the window, but, it was gone before she could get to the window,  I went to get my coat and go outside to get more firewood when I saw the object.  I then saw it again through another window, it appeared to be left of original location.  I called for my wife again and she watched it, saying oh that's probably a light from a house, I reminded her that no houses are over where the light was, she then said I am going out and stood at the kitchen window watching it as she put her coat on.  I went outside before her and watched it.  It was spinning and had bright orange fire encircling it, about 1/10 the size of a full moon, it then disappeared so I went back in and said it was gone.  My wife  said "No it's back" as she was still at kitchen window.  I looked out and saw it then she went out as I went upstairs to get the video camera.  She was at slough (overflow of the Chena River) and viewing it clearly (before it was behind some trees at times) while I was getting the camera, I turned on the camera as a walked out the door,  It disappeared as I walked out.  My wife was white as a sheet and speechless, after all she has viewed the videotape of the  September 24th sighting and now saw what was on the video in real life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05872.html](http://www.nuforc.org/webreports/reports/005/S05872.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Maidenhead (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Synchronized red lights The sighting started with something that looked like large red stare. To be sure this was not  a plan for a piece of shrapnel so I carried on observing this object. About ten minutes after I saw the first  red light another one appeared 60 degrees south. A short time after that a third light appeared an equilateral triangle. This stars stayed there for an hour until a fourth light one appeared in the middle of the triangles and all four of them formed one light , then they disappeared.((NUFORC Note:  Student report.  Possible hoax, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61569.html](http://www.nuforc.org/webreports/reports/061/S61569.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162347.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162023.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162015.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162186.html)
-- [269](http://www.nuforc.org/webreports/reports/153/S153207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
