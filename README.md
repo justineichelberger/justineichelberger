@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:25 on 10 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:31 on 10 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Meridian (ID) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Triangle shaped bright white object with flashing green and red lights in a triangle form hovering in the sky then reappearing.Seen floating in the same spot one bright white light with flashing green and red lights in a triangle shape.  Seems to slowly fade away as if going very quickly directly away from me in the sky. About 30 seconds after fading away and becoming unseeable, it reappears again on the almost complete opposite side of the sky but this time about three times higher up from the ground, but instead of hovering in place it starts slowly moving slightly down to the left until it disappeared behind the roof of the house out of my window.  What makes things weirder is when I told my family member about it the next day they told me they kept having horrifying nightmares about aliens and waking up in a cold sweat, terrified to go back to sleep.  Planning on getting cameras to put in both of our rooms to try and capture more proof of extraterrestrials while we are asleep.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153200.html](http://www.nuforc.org/webreports/reports/153/S153200.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Sevierville/Pigeon Forge (TN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Triangular shaped crafted flew over top of us.Need to file a correction on a report filed previously. The date was the 10th of February. I believe I reported the sighting to be on the 24th.  I had family plans on the 24th but the correct date was the 10th. I remember this correctly because we hiked to Abrams Falls earlier that day at Cade's Cove.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97820.html](http://www.nuforc.org/webreports/reports/097/S97820.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162347.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162023.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162015.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162186.html)
-- [269](http://www.nuforc.org/webreports/reports/153/S153207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
