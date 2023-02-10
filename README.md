@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:23 on 10 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:22 on 10 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Rockford (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>9-11 orange-red lights in formation appear twice in 1 hour which can remain perfectly still  then travel exceedingly fast.At about 21:50, my 9 yr old son said "Wow, the little dipper sure is bright tonight!"  We looked out our W windows and looked NW. There we saw about 9-11 orange-red mostly motionless lights in the sky. They changed formation slightly.  About 2 then flew off and disappeared, then another 2 or so until there were only 2 left which then traveled directly S, at first close together and then more apart.  They were able to make pin point stops and continue.  We couldn't see them after they had traveled so far S. Then at about 22:30 they reappeared in the same spot in a diamond formation. I phoned a neighbor. A plane flew past and behind the formation.They disappeared as before but only 1 traveled S, stopped directly W, disappeared and I saw a white shooting star straight from sky to earth where the light was last.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16691.html](http://www.nuforc.org/webreports/reports/016/S16691.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Arbroath (UK/Scotland) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>white lighted circular craft that moved at speed and was behind cloudswhen i was walking home from my partners house with my son we saw a circular motion in the sky that was made up of small squares but were in the shape of a circle, it was moving in and out and quite fast. unfortunatley i have no pictures of it as when i tried to take pictures and videao it from my mobile phone it would not show up. the whole experience for us lasted around 10 minutes and was at 12.40 am.((NUFORC Note:  Possible advertising lights.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46697.html](http://www.nuforc.org/webreports/reports/046/S46697.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162347.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162023.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162015.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162186.html)
-- [269](http://www.nuforc.org/webreports/reports/153/S153207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
