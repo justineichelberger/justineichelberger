@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:20 on 10 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:20 on 10 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Lancaster (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I went camping in the middle of the desert and in the middle of the night I decided to stargaze. After seeing many stars, I saw this bright yellow light just staying in one position. On the edges were blue and it just stayed in that same place. It looked like a scene from starwars going into light speed. The craft got really bright then zoomed off leaving a trail of yellow. It really reminded me of starwars because thats exactly how it looked. I was amazed and couldnt believe it. My friends wouldnt believe me either.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42599.html](http://www.nuforc.org/webreports/reports/042/S42599.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Fort Worth (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>We saw fireball like objects coming from the earth into the sky.Me and two friends were in the drive through of Whater burger waiting for our order. I was in the drivers seat. All of a sudden I noticed to orange lights rising up from behind some trees in the distance. My first reaction was someone must have set off a couple of flares. Then I watched to see if they were going to fall like flares do but they didn't. They slowly ascended up at an angle like planes do on take off. I then said oh shit and told my homeboys look at this shit. Then we all jumped out the truck to get a better look. I noticed that the two lights were independent of each other because of the irregular patterns that they were doing. They were definately flying with each other though. They made no noise at all. Sky was very clear. It seems like they got to a certain point in the sky and kind of stood there hovering. It seems that one of them was kind of bouncing and doing some out the ordinary movements. By this time, we were causing so much commotion that a couple of employess took notice. I remember two gentlemen sitting in a truck in front of Whater Burger as well watching this. Then they got smaller and eventually faded. They definately were not airplanes or helicopters because they didnt have the usual lights that those craft would have. There's no airport in that area in which it seems they arose from. Just neighborhoods. One of my homeboys described them as being like embers from a fire that kind of hovers as they get caught in the heat waves. This is definately something I probably wont forget. I dont  drink or smoke so I was in my right frame of mind.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21763.html](http://www.nuforc.org/webreports/reports/021/S21763.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162347.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162023.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162015.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162186.html)
-- [269](http://www.nuforc.org/webreports/reports/153/S153207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
