@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:07:31 on 10 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:32 on 10 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Rio de Janeiro (Brazil) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I WAS IN BARRA DA TIJUCA IN A CAMPING SITE WITH 2 FRIENDS, SAW LIKE A PYRAMID IN THE AIR, STARTED TO RUN AWAY, THE GIRL RAN AWAY A FEW MOMENTS LATER</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27700.html](http://www.nuforc.org/webreports/reports/027/S27700.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 70.0 - 70.0 minutes.</sub><blockquote><sub>Bright white and blue light with red lights flashing around itAt 23:20 I went outside to take the dog to the bathroom, when I looked up into the sky above the Columbia River to look at the stars. Our house over looks the river and the West end of the Portland International Airport. When I looked up I saw a very bright light that was white and blue with red lights that flashed and moved around the object. I went back into the house and determined that it was at about 190 degrees on the compass dial from magnetic North. I turned on the television and watched tv for about 40 minutes, when I checked on the object again, it had moved approximately 2 degrees to the West. I went back to the tv and checked again 30 minutes later and it had moved approximately 15 degrees to the West. I fell asleep and when I awoke at 03:00, it was gone. When I was observing it, I never really saw it move, it seemed to hang in the sky with small gyrating motions. I know it was not an incoming airplane or helo because it was way above the normal flight patterns that come into PDX at that time of the night and it hung around too long. I always check the sky every night for anomalies during the last 1.5 weeks I have been here and this is the first time I have seen this object, as I report this on 2/11/04, it is not in the sky tonight (I checked before the clouds rolled in). ((NUFORC Note:  Possible sighting of Sirius, we suspect.  Sirius would be in the southern sky at the time indicated by the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41903.html](http://www.nuforc.org/webreports/reports/041/S41903.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162347.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162023.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162015.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162186.html)
-- [269](http://www.nuforc.org/webreports/reports/153/S153207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
