@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:32 on 11 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:23 on 11 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Deming (NM) reported seeing craft that fit the description of some 'Changing' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Shape-shifting/color changing object.It looked like a round orb at first.  It was white, standing perfectly still in sky for about 30 minutes, then turned a dark color and started moving while changing shapes for about 5-10 minutes.  Then came to another stop above a mountain south of deming and just stood perfectly still until I lost sight from driving.  After it turned a dark color, it then looked bigger, like it had stretched out.  When it started to move at first, it appeared to shapeshift into a dumbell form, like an exercise weight.  Also, lots of commercial jets flying in the area.  About 20 at a time.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107078.html](http://www.nuforc.org/webreports/reports/107/S107078.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Escawtawpa (MS) reported seeing craft that fit the description of some 'Disk' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>This is a example of the way they get fuel for their craft.(UFO's)The craft appeared always around 3-400 am at the electric power plant that I worked as a security officer the electric generators were open bay over the top levels the UFO's would fly thru & come out the other side much brighter like it gased them up so to speak I know they wre not of this world. So it is likely they are still doing this ,I say seeing believing right?-((NUFORC Note:  Date of the event may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58482.html](http://www.nuforc.org/webreports/reports/058/S58482.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162022.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162019.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162009.html)
-- [254](http://www.nuforc.org/webreports/reports/163/S163604.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
