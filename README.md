@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:23 on 11 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:26 on 11 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Kelso (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>A bright white flash of light and a red then white light that vanished.Around 10:30pm, there was a large flash of white light, resembling a lightning flash.  My cousin and I were standing outside.  I was waiting to hear thunder and my cousin looked up a saw a distant red light that turned white and then it vanished.  He told me to look but I missed it.  He pointed out where he saw the light.  It was between the star Bellatrix, the west shoulder (on Orion), and the star (his hand) on the "shield".  We realized that the flash couldn't have been lightning since there were no clouds in the sky nd no thunder was heard. It was a very bright but brief flash of white light from above.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68596.html](http://www.nuforc.org/webreports/reports/068/S68596.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Tustin (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Lime green streak of light going from east to west at 6:45 a.m. on Wed 2/11/2016.Streak of light changed color from yelow to lime green going from West to East toward the rising sun.  I was traveling south on the 55 freeway near the 5 fwy overpass.It lasted about 10 seconds then disappeared.((NUFORC Note:  Video captured by a beach camera at Doheny Park, Dana Pt., CA.  Object appears to us to be a meteor, streaking from west to east.  Please see video on NUFORC homepage.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125807.html](http://www.nuforc.org/webreports/reports/125/S125807.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162022.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162019.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162009.html)
-- [254](http://www.nuforc.org/webreports/reports/163/S163604.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
