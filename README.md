@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:22 on 11 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:23 on 11 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Hugo (OK) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Three oval lights were seen in 45 degree angle line (NW Sky), displayed for about 10 seconds and vanished.Two witnesses in separate vehicles.  One large orange/yellow light appeared hovering in NW sky for aprox. 20 seconds, did not move, then vanished.  Too large to be landing lights or chopper lights.  Then aprox. 3 minutes later another was spotted and repeated same actions, but was in NE sky.  Then for the weird part, three oval lights (same attributes as others) were seen in 45 degree line (NW Sky), displayed for about 10 seconds and vanished.  All seen by two separate people in separate vehicles on HWY 271 North.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41901.html](http://www.nuforc.org/webreports/reports/041/S41901.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Brookston (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>traviling north to south very fast just above tree line no sound  orange blue lightstraviling north to south very fast orange and blue lights no sound was at night could not see shape  it was very low just above tree line seemed to be very large</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21769.html](http://www.nuforc.org/webreports/reports/021/S21769.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162022.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162019.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162009.html)
-- [254](http://www.nuforc.org/webreports/reports/163/S163604.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
