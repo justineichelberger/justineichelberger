@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:38 on 11 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:50 on 11 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Randle (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Siting received by 911This call was received by a 911 center: 3 triangle shaped objects with lights on them flying slow, helicopter speed, don't hear anything, same shape as hang glider, flying south</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41898.html](http://www.nuforc.org/webreports/reports/041/S41898.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in La Junta (CO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Flying object shoot out in the sky.I went to let my dog out, and when I looked up I saw what looked like falling stars or meteors.  When they finished entering our atmosphere, they seemed to separate, slow down and stop moving (just hover).  After around 30 seconds they appeared to start firing at each other.  I even saw them blowing up.  After around 25 minutes of watching this display, I figured that I had freaked myself out enough and went back to bed.  Later that day I saw nothing on the news or internet about it.  I thought I was going crazy, until I saw someone from FL posted a video of the exact same thing I had seen (only without the shooting).  Is there anyone else that saw this kind of show or behavior?((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126301.html](http://www.nuforc.org/webreports/reports/126/S126301.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162022.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162019.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162009.html)
-- [254](http://www.nuforc.org/webreports/reports/163/S163604.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
