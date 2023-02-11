@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:19 on 11 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:23 on 11 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in West Palm Beach (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>UFO here in florida. 4 witnesses no BS.Well, It was around 11:50 when they called me to the balcony to go see it. At first i thought it was a plane, Cause well were talking about a UFO here. So, i look out and it has a orange shade/glow. It was oval/plate shapped. The other witnesses told me before it came it was seriously really close to them. When i went it was about 4-5 miles away from me. Little by little it started to fade, Than when it did i kept staring at its location it had disappered. When it moved from one location to another in a quick flash. Leaving a lightening type fade from its movement it kept doing this for about 5 more minutes when it finally dispeared. Me and my house mates were amazed. Trying to sleep, but still a little shaken.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34970.html](http://www.nuforc.org/webreports/reports/034/S34970.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Kelso (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>A bright white flash of light and a red then white light that vanished.Around 10:30pm, there was a large flash of white light, resembling a lightning flash.  My cousin and I were standing outside.  I was waiting to hear thunder and my cousin looked up a saw a distant red light that turned white and then it vanished.  He told me to look but I missed it.  He pointed out where he saw the light.  It was between the star Bellatrix, the west shoulder (on Orion), and the star (his hand) on the "shield".  We realized that the flash couldn't have been lightning since there were no clouds in the sky nd no thunder was heard. It was a very bright but brief flash of white light from above.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68596.html](http://www.nuforc.org/webreports/reports/068/S68596.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162022.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162019.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162009.html)
-- [254](http://www.nuforc.org/webreports/reports/163/S163604.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
