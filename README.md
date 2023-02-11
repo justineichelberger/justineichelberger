@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:34 on 11 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:32 on 11 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>2/11/06 6:40am  NOW - UFO Sighting in eastern sky in Austin TexasALERT:  In eastern sky over Austin Texas moving south.  Object is bright white with a prism effect and is shaped circular but changes slightly flattening out.  Looks like objects are moving to and from the bright object and around it.  The objects are either bright or dark and are circular shaped.((NUFORC Note:  We are exploring whether this may be a sighting of Venus.  We have invited the witnesses to look again in the same area of the sky at the same time, to establish whether the object is there again.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49090.html](http://www.nuforc.org/webreports/reports/049/S49090.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Deming (NM) reported seeing craft that fit the description of some 'Changing' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Shape-shifting/color changing object.It looked like a round orb at first.  It was white, standing perfectly still in sky for about 30 minutes, then turned a dark color and started moving while changing shapes for about 5-10 minutes.  Then came to another stop above a mountain south of deming and just stood perfectly still until I lost sight from driving.  After it turned a dark color, it then looked bigger, like it had stretched out.  When it started to move at first, it appeared to shapeshift into a dumbell form, like an exercise weight.  Also, lots of commercial jets flying in the area.  About 20 at a time.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107078.html](http://www.nuforc.org/webreports/reports/107/S107078.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162022.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162019.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162009.html)
-- [254](http://www.nuforc.org/webreports/reports/163/S163604.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
