@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:32 on 11 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:25 on 11 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Portsmouth (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>reddish circular lights spaced equally apart in a line, slowly moved across the night sky.  Viewed looking towards church steeple in market square from restaurant on corner.  Another couple came into the restaurant and said they had seen some creepy red lights hovering in the sky as well with the same description.  They said they heard no sound and saw them while walking passed the mill pond.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87152.html](http://www.nuforc.org/webreports/reports/087/S87152.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Wiaheke Island (New Zealand) () reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>New Zealand 11/2/04   Blue object moving fast and chaning direction - 2 witnessesLocation 	= 	Wiaheke Island(off Auckland New Zealand) Date 		=	11/2/04 Time		=	10.45pm  Background  I was on my honeymoon, when my wife sighted a blue object in the sky, which was moving erratically and then stopped. At this point she raised the sighting with me and I grabbed my digital camera an Olympus 3.2 mega pixel camera and took 3 shots. A sky reference point was to the right of the big dipper. The object moved in a course right to left finishing just below the big dipper then disappeared,  before it disappeared it had changed direction and appeared to be heading away from us. We were standing outside our accommodation, which commanded extra ordinary views out to sea. (Giverny Inn)  When we looked later at the pictures, after arriving back in Australia they appeared to be just as blue specks, that is until we enlarged the pictures.Please examine the attachments , I have save the originals on my camera's ram card.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37032.html](http://www.nuforc.org/webreports/reports/037/S37032.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162022.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162019.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162009.html)
-- [254](http://www.nuforc.org/webreports/reports/163/S163604.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
