@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:28 on 11 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:26 on 11 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Temecula (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Sun glinted off a triangular shaped object going the speed of a shooting star then disappeared making no sound and leaving no trail.Walking west on Frogs Leap Road, Temecula, CA at 6:30 am looked up to see the sun glint off a triangular shaped object streaking through the sky.  It made no noise.  Left no trail.  Lasted only a second, like a shooting star.  Too low to be an airplane.  Too shiny to be a bird.((NUFORC Note:  Video captured by a beach camera at Doheny Park, Dana Pt., CA.  Object appears to us to be a meteor, streaking from west to east.  Please see video on NUFORC homepage.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125768.html](http://www.nuforc.org/webreports/reports/125/S125768.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Rock Round (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>An unidentifiable object that goes against today’s technology and physics that is a sphere with no wings in the sky above Denny’s sign.We were visiting Texas for a soccer tournament and decided to go to Denny’s because it was across the street from our hotel. I thought that the ice dripping from the Denny’s sign was super cool so I decided to take a picture.  When I reviewed the picture back at the hotel, I had seen that there was and unidentifiable object above the sign in the sky.  When I zoomed in to look at it, it looked like there was some sort of energy buzzing around the object that caused the planes/fields of the picture to become slightly distorted and pixelated.  The shape of the object was a half sphere (the top round and the bottom flat). It looked like it was flying forward, causing the object to lean forward which just doesn’t make technical sense to the technology provided today.  It also doesn’t make any sense according to physics because of gravity affecting how the object flys (hence there are no wings on the object).  I showed the picture to the people I was with and we all agreed on it being and unidentifiable object flying in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162022.html](http://www.nuforc.org/webreports/reports/162/S162022.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162022.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162019.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162009.html)
-- [254](http://www.nuforc.org/webreports/reports/163/S163604.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
