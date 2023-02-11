@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:21:37 on 11 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:32 on 11 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Cerritos (CA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>6:40  AM today in Cerritos, CA, bright glowing, blueish green ball (shaped like a fireball) spotted speeding  downward from the sky.This morning, approximately around 6:40 am, I was outside and noticed a reflection on my glass door of a greenish, blue and yellowish glowing ball (like a fireball) moving across the sky.   I turned around to face it and it was moving fast, headed for earth.  I saw it for maybe 35 second (includes the time I first spotted it as a reflection), before homes and trees blocked my view., I actually stayed quiet and still, waiting for a loud crash or a jolt, which I did not hear or feel. Note:  I was not sure about which shape to select, but it was between the fireball and the teardrop.  There was definitely a roundness to it, but had a tail like a fireball falling from the sky at great speed,  This ball was quite brightly glowing, considering the morning sky was fairly lit, and my glass door was  dusty,.((NUFORC Note:  Video captured by a beach camera at Doheny Park, Dana Pt., CA.  Object appears to us to be a meteor, streaking from west to east.  Please see video on NUFORC homepage.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125769.html](http://www.nuforc.org/webreports/reports/125/S125769.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Portsmouth (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>reddish circular lights spaced equally apart in a line, slowly moved across the night sky.  Viewed looking towards church steeple in market square from restaurant on corner.  Another couple came into the restaurant and said they had seen some creepy red lights hovering in the sky as well with the same description.  They said they heard no sound and saw them while walking passed the mill pond.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87152.html](http://www.nuforc.org/webreports/reports/087/S87152.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162022.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162019.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162009.html)
-- [254](http://www.nuforc.org/webreports/reports/163/S163604.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
