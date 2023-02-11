@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:26 on 11 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:31 on 11 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Lompoc (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I SEEN A GREEN FAST MOVING MACHINE, WITH A BRIGHT YELLOW LINE FOLLOWING IT. BEFORE I COULD REACH FOR MY CELL PHONE, IT DISAPPEARED BEHIND THE MOUNTAINS.((NUFORC Note:  Video captured by a beach camera at Doheny Park, Dana Pt., CA.  Object appears to us to be a meteor, streaking from west to east.  Please see video on NUFORC homepage.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125787.html](http://www.nuforc.org/webreports/reports/125/S125787.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>No sound and invisibleI was in my back yard when I heard a large coast guard plane, they go over our area frequently and I always look to the sky to locate them.  They are very large and fly low either coming to are leaving the local air base here.  I was looking to see where it was this was broad daylight around 11 a.m..While looking for the plane I saw four silver balls one on top of the other.  I saw them for a few seconds only.   I observed them change direction and then vanished the shine of the balls seemed to make them invisible.  On a clock dial 11 am to 1 pm was all I could see them they just vanished in the light.  I couldn’t tell how far away  they were nor could I tell the size of the balls they moved fast and changed direction</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81320.html](http://www.nuforc.org/webreports/reports/081/S81320.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162022.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162019.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162009.html)
-- [254](http://www.nuforc.org/webreports/reports/163/S163604.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
