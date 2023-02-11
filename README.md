@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:23 on 11 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:21 on 11 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Escawtawpa (MS) reported seeing craft that fit the description of some 'Disk' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>This is a example of the way they get fuel for their craft.(UFO's)The craft appeared always around 3-400 am at the electric power plant that I worked as a security officer the electric generators were open bay over the top levels the UFO's would fly thru & come out the other side much brighter like it gased them up so to speak I know they wre not of this world. So it is likely they are still doing this ,I say seeing believing right?-((NUFORC Note:  Date of the event may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58482.html](http://www.nuforc.org/webreports/reports/058/S58482.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Palm Desert (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Bright green fireball traveling (generally) west to east and about 1,000 feet above ground, it extinguished and was no longer visible.I believe the area where it extinguished was between Cook and Washington Streets, Hovley Lane E & Fred Waring Drive.((NUFORC Note:  We have amended the date above, to reflect a sighting on February 2nd, not January 2nd.  PD))((NUFORC Note:  Video captured by a beach camera at Doheny Park, Dana Pt., CA.  Object appears to us to be a meteor, streaking from west to east.  Please see video on NUFORC homepage.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125775.html](http://www.nuforc.org/webreports/reports/125/S125775.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162022.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162019.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162009.html)
-- [254](http://www.nuforc.org/webreports/reports/163/S163604.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
