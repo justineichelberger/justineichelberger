@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:31 on 11 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:19 on 11 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>No sound and invisibleI was in my back yard when I heard a large coast guard plane, they go over our area frequently and I always look to the sky to locate them.  They are very large and fly low either coming to are leaving the local air base here.  I was looking to see where it was this was broad daylight around 11 a.m..While looking for the plane I saw four silver balls one on top of the other.  I saw them for a few seconds only.   I observed them change direction and then vanished the shine of the balls seemed to make them invisible.  On a clock dial 11 am to 1 pm was all I could see them they just vanished in the light.  I couldn’t tell how far away  they were nor could I tell the size of the balls they moved fast and changed direction</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81320.html](http://www.nuforc.org/webreports/reports/081/S81320.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in West Palm Beach (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>UFO here in florida. 4 witnesses no BS.Well, It was around 11:50 when they called me to the balcony to go see it. At first i thought it was a plane, Cause well were talking about a UFO here. So, i look out and it has a orange shade/glow. It was oval/plate shapped. The other witnesses told me before it came it was seriously really close to them. When i went it was about 4-5 miles away from me. Little by little it started to fade, Than when it did i kept staring at its location it had disappered. When it moved from one location to another in a quick flash. Leaving a lightening type fade from its movement it kept doing this for about 5 more minutes when it finally dispeared. Me and my house mates were amazed. Trying to sleep, but still a little shaken.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34970.html](http://www.nuforc.org/webreports/reports/034/S34970.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162022.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162019.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162009.html)
-- [254](http://www.nuforc.org/webreports/reports/163/S163604.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
