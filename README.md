@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:28 on 12 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:25 on 12 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Palmyra (MO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright green sphere with red trailI drive a truck hauling US Mail.  While driving south on highway 61 about 3 miles north of Palmyra, MO, I saw a bright green colored sphere fall in an arc from the west to east and toward the ground. The object appeared very bright and as it fell it the color gradually dimmed until just before hitting the horizon it went black.  The object was followed by a bright red tail.  The object was about the size of a pea from my vantage point and the ending location was South-South-East of highway 61.  The sky was very clear.  I've seen falling stars before, and this was no falling star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05575.html](http://www.nuforc.org/webreports/reports/005/S05575.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Calcutta (India) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two shiny UFOS'It was a midnight of Feb, 2003 Me and my friend were sitting and chatting on the terrace.As there was a powercut so it was completely dark outside and our place is a bit deserted as it is located on the outskirt of the city.Suddenly we saw two stange oval shape object which was shining brighly and was moving in a slow pace.It was my friend who saw it first and later i saw it. First we thought maybe it is a survillence plane of the airforce however after looking it for a while it was very clear that it was not a airplane it was oval in shape and was shining brightly.It stayed there for almost ten minutes before it disappeared.Whatever it was one thing was for sure, it was not an aircraft of any type.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29398.html](http://www.nuforc.org/webreports/reports/029/S29398.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/162/S162042.html)
-- [267](http://www.nuforc.org/webreports/reports/164/S164162.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162056.html)
-- [265](http://www.nuforc.org/webreports/reports/162/S162032.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162013.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
