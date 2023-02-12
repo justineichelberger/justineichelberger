@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:17 on 12 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:22 on 12 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Lindsborg (KS) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Seven fiery craft seen in Kansas sky.This incident happened at Coronado Heights that is just off Winchester road which is the county line between McPherson and Saline County in Kansas. As the two young men arrived at the top of the hill, one saw a shooting star but it was very cloudy that night. Also there was a black mass was moving about on the hill in a northwest to southwest motion that was blocking out lights from below. When the young men got into the car, one of them shouted out that he noticed a UFO in the northwest sky. He could see what appeared to be glyphs on the underside of the craft, looking like a maze. Seven fiery craft came down and shot upward two times. The third time they came down the seven turned to one large craft and then split in two and vanished. The third time the craft changed was caught on camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162042.html](http://www.nuforc.org/webreports/reports/162/S162042.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Cape May (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>i fast moving red light, turned to blue, changed direction then turned white and it was gone!!!!  500 Lights On Object0: YesIt was around 1:55 am, I went out front to smoke a cig, I just happened to look into the sky in the south,  It was a clear night, with many stars in the sky,  I saw a red light at very high altitude, it was moving fast and with changes in course that NO MAN MADE aircraft could do,  it was first glowing red, then seemed to turn blue,  then make a 90 degree turn,  then turned into a white light and vanished.   the whole thing took place over maybe 5-10 seconds,  I have seen shooting stars and aircraft before,  IT WAS NONE OF THESE,  i am 100% sure..  something I have NEVER seen anything like this before,  the way it changed course,  changed speed and color,  I was left scratching my head...  please feel free to contact me for more info…</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80040.html](http://www.nuforc.org/webreports/reports/080/S80040.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/162/S162042.html)
-- [267](http://www.nuforc.org/webreports/reports/164/S164162.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162056.html)
-- [265](http://www.nuforc.org/webreports/reports/162/S162032.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162013.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
