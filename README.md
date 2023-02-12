@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:26 on 12 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:31 on 12 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Luton (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>small bright star like object hovering in the skyi was standing at the backdoor of my house. the sky was clear with no clouds. there were 3 aeroplanes in the sky at the time. when i noticed a small bright object moving slowly in the sky it stopped moving above my house and stayed there for approx 10 mins with no sound and i could see it was rotating because the sun was catching it. then it slowly moved away then dissapeared. it was not a aeroplane or helicopter as i see them flying over everyday. this is the second time i have seen the object in the space of 4 months.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61562.html](http://www.nuforc.org/webreports/reports/061/S61562.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Rodeo (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>I WAS SIITING AT HOME LOOKING AT THE ((name of anchor deleted)) NEWS ON ((station deleted)) NEWS CH..WHEN IT APPEARED IN THE BACK GROUND OF THE SHOW.PLEASE TAKE LOOK AT THAT TAPE.TELL ME WHAT WAS FLYING.ITS NOT AN AIRPLANE.((NUFORC Note:  We have encouraged the witness to pursue the matter with the local station.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37865.html](http://www.nuforc.org/webreports/reports/037/S37865.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/162/S162042.html)
-- [267](http://www.nuforc.org/webreports/reports/164/S164162.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162056.html)
-- [265](http://www.nuforc.org/webreports/reports/162/S162032.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162013.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
