@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:25:04 on 12 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:03:28 on 12 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Bristol (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Thought they were satellites but one kept appearing after another, perfect straight line and perfect distance between objects, they appeared to eneter atmosphere at certain point then trail across sky until out of view..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151233.html](http://www.nuforc.org/webreports/reports/151/S151233.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Washington, D.C. (DC) reported seeing craft that fit the description of some 'Light' over a period of approximately 50.0 - 50.0 minutes.</sub><blockquote><sub>I was watching web-cams in Washington DC as The Agency had notified forums members on the 10th of Feb that they would fly their craft over Washington DC on the 12th & 13th to prove that they exist.The craft hovered around the Capitol building to the Titanic memorial for nearly an hour.I captured the object on the W Washington Hotel web-cam.I will email the JPG to you.((NUFORC Note:  We have looked at the photo, and the object is just a tiny dot of light.  The photo does not provide nearly enough information for us to conclude that the light is a genuine UFO.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80106.html](http://www.nuforc.org/webreports/reports/080/S80106.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/162/S162042.html)
-- [267](http://www.nuforc.org/webreports/reports/164/S164162.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162056.html)
-- [265](http://www.nuforc.org/webreports/reports/162/S162032.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162013.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
