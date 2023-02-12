@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 12 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:36 on 12 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Orem (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Very bright white light, motionless in western Utah night sky, sat still for 15 minutes then vanished in a blink of an eye.My mother (who is a skeptic and doesn’t necessarily believe in UFO’s) called to inform me about a very bright white light she noticed while driving home, as I went outside, sure enough a large single bright white light was shining strongly through Utah’s thick smoggy air, no other stars or planets were visible in that portion of the western Utah sky due to the smog.  It seemed to be sitting stagnate, no changes, no movement, no pulsation, almost as if it was pretending to be a star but was noticeably too bright to be one... using a star chart I could not identify any star or planet in its location.  I looked down at my phone and when I looked up it was gone, only darkness remained with no sight of this mysterious light.  Vanished in a blink of an eye.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153246.html](http://www.nuforc.org/webreports/reports/153/S153246.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Fort Collins (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Triangle with 7 lights flying low altitude with low speed.((NUFORC Note:  We have requested a more detailed report.   PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117287.html](http://www.nuforc.org/webreports/reports/117/S117287.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/162/S162042.html)
-- [267](http://www.nuforc.org/webreports/reports/164/S164162.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162056.html)
-- [265](http://www.nuforc.org/webreports/reports/162/S162032.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162013.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
