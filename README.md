@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 12 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:17 on 12 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Santa Maria (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Three objects flew from one cloud to the other leaving a "c"ish opening where the cloud appeared to have been disturbed.Around the date posted cant rember exact date i was looking the sky at the clouds becuase we were getting strange weather latly and i was driving to work from Nipomo crossing the Santa Maria bridge. And i see a white with blusih almost tinged light fly from one cloud into a larger darker cloud moving horizontally from my postion and perspective.  Then i saw another fly into the same area.  I was amazed at this and was estatic when i saw a third but this one decided to drop below it appeared the entrance of the other two then stop jet back and then enter at the same place in an almost "z" like path.  I thought i might have been seeing things when i realized that the cloud that appeared to have been entered from had a "c" opening where it had been disturbed and it was at its opserved entrance of the UFO's.  My work was but a mile from where i had seen them driving on the highway so i decided to look up and noticed that from the cloud density and the lights from the city it was a blurred effect of redish glow of indesrnable mush.  Not unexpected or surprising of course but it was a bit convinint that the city i see the UFO's pace over was masked in a storm cloud.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42667.html](http://www.nuforc.org/webreports/reports/042/S42667.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Lindsborg (KS) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Seven fiery craft seen in Kansas sky.This incident happened at Coronado Heights that is just off Winchester road which is the county line between McPherson and Saline County in Kansas. As the two young men arrived at the top of the hill, one saw a shooting star but it was very cloudy that night. Also there was a black mass was moving about on the hill in a northwest to southwest motion that was blocking out lights from below. When the young men got into the car, one of them shouted out that he noticed a UFO in the northwest sky. He could see what appeared to be glyphs on the underside of the craft, looking like a maze. Seven fiery craft came down and shot upward two times. The third time they came down the seven turned to one large craft and then split in two and vanished. The third time the craft changed was caught on camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162042.html](http://www.nuforc.org/webreports/reports/162/S162042.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/162/S162042.html)
-- [267](http://www.nuforc.org/webreports/reports/164/S164162.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162056.html)
-- [265](http://www.nuforc.org/webreports/reports/162/S162032.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162013.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
