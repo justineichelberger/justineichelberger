@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:23 on 12 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:27 on 12 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Grenoble (France) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Formes pointues avec reflets violets.Je sortais pour mon jogging quotidien avec une amie raciste, quand un bruit sourd et aiguë à la fois est survenu.  On s'est retourné et on a brièvement aperçu ce qui ressemblait à 3 flèches extrêmement rapide très haut dans le ciel, elles ont rapidement disparus.  On les a vu tout les deux et on est sur de ce qu'on a vu.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115885.html](http://www.nuforc.org/webreports/reports/115/S115885.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Mandurah (east of) (Western Australia) () reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>Large half circular object with small orange dotted lights at the straight ends of the half circle, other small white and coloured lights around the circular part of object. Position is East of Mandurah WA.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55247.html](http://www.nuforc.org/webreports/reports/055/S55247.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/162/S162042.html)
-- [267](http://www.nuforc.org/webreports/reports/164/S164162.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162056.html)
-- [265](http://www.nuforc.org/webreports/reports/162/S162032.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162013.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
