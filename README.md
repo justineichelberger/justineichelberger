@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:29 on 12 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:26 on 12 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Wadsworth (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Red lights on a triangular object with 2 others hovering paralleOn Feb 12,2001, my family and I were reeturning from visiting family in Canton, OH.  We were traveliing state route 261 west, as we crested the top of a hill and I notice a triangular shape hovering over several houses.  At first thought it was a tower because of the light configuration and the height off the ground, approx 300 ft. high. Then my wife asked if I seen the lights.  She said, "I didn't know they put a tower up there."  I responed by saying there is no tower there, only houses.  As we got closer,  We could clearly see the triagle shape.  My wife looked to the north and notice a similar light configuation not to far away hovering.  I then looked the the south, I noticed the same thing to the south.  With out thinking, we came up to the road near to the lights, I turned down the road to get a better look.  We came about 500 ft from the object and could clearly see the object was grey and had three red lights on the corners with a white light in the middle.  It was completly silent.  When we got closer and object slowly moved to the east.  My wife noticed the other object to the north moved in a paralle line to the large object.  Then the radio went out.  As we went around the circle at the end of the road, the object began slowly moving west.  We past under the object.  My wife said we should go staight home.  We were only several min. from home.  My wife continued to watch the object until she could not see it any more.  We also noticed the other objects were also gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16511.html](http://www.nuforc.org/webreports/reports/016/S16511.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Luton (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>small bright star like object hovering in the skyi was standing at the backdoor of my house. the sky was clear with no clouds. there were 3 aeroplanes in the sky at the time. when i noticed a small bright object moving slowly in the sky it stopped moving above my house and stayed there for approx 10 mins with no sound and i could see it was rotating because the sun was catching it. then it slowly moved away then dissapeared. it was not a aeroplane or helicopter as i see them flying over everyday. this is the second time i have seen the object in the space of 4 months.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61562.html](http://www.nuforc.org/webreports/reports/061/S61562.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/162/S162042.html)
-- [267](http://www.nuforc.org/webreports/reports/164/S164162.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162056.html)
-- [265](http://www.nuforc.org/webreports/reports/162/S162032.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162013.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
