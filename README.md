@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:24 on 12 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:17 on 12 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Atlanta (GA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was driving home Feb 12th 2009 at around 14:35 (2:35PM) EST. While North on I-85 I noticed a craft in the sky. The best way that I can describe the craft is…if you hold out a coke bottle at arms length…that’s about the size it was. It was gray in color and did not move. I went to grab my phone to snap a picture of the craft. When I got my phone and looked back up it was still there. I drove under a sign that hangs over the interstate, once past this sign the object was gone. Never did see it again.The weather was perfect. No clouds in the sky, bright sunny day. Air temp around 60 degrees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68717.html](http://www.nuforc.org/webreports/reports/068/S68717.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Almont (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>2 objects observed traveling across one quarter of the sky past the position of Saturnsaw 2 small objects; 1. the size of a large hat pin head at arm's length 2. the size of a pin head was a finger's width to the west and a half finger's width south of primary.a. both objects were first noticed @ due East and at about 45 degrees up from the horizon.b. both objects were traveling ESE toward Saturn and passed the position of Saturn to the West of the planet.c. they maintained relative position throught the duration of observation.d. the primary object was as bright as Saturn and the secondary object was half as bright.e. there were no blinking lights associated with either object, nor was there any sound.f. the color of the objects appeared to be white.g. both objects faded out after they passed the position of Saturn.  the fading pro- cess lasted for 5 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41913.html](http://www.nuforc.org/webreports/reports/041/S41913.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/162/S162042.html)
-- [267](http://www.nuforc.org/webreports/reports/164/S164162.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162056.html)
-- [265](http://www.nuforc.org/webreports/reports/162/S162032.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162013.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
