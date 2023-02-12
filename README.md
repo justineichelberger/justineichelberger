@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:19 on 12 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:27 on 12 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Redway (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Super bright flashI was sitting on the porch staring up into the stars and a big flash caught my eye, i tried to follow the object but it was very faint at times. then a bigger flash and a very fast movement. It was changing its direction almost constantly. I have seen this similar thing probably 3 or 4 times in the last few years. Anyone else?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96351.html](http://www.nuforc.org/webreports/reports/096/S96351.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Johnson City (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Spotted a bright white light traveling east to west over Johnson City tonight.  It was a simple, bright white light that was moving faster than any plane or helicopter we've seen.  We saw it travel across an arc of ten or 15 degrees in the sky for about one second before it abruptly disappeared, like a light turning off.  I've seen helicopters and meteor showers and this just didn't fit what I've seen before. It moved exactly like a meteor, but there was no streak behind it, and it was as bright as Venus, and it caught our eye right in the middle of town among all the street lights.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87172.html](http://www.nuforc.org/webreports/reports/087/S87172.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/162/S162042.html)
-- [267](http://www.nuforc.org/webreports/reports/164/S164162.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162056.html)
-- [265](http://www.nuforc.org/webreports/reports/162/S162032.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162013.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
