@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:34 on 12 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:24 on 12 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Loveland (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A flame in the skyOn 2/12/21the 3 of us were on our way home. Noticed a bright flame in the sky. I was driving and noticed it first and pointed it out to my passengers. At first we thought it be could a meteorite coming down but it appeared to have directional control. We pulled over to observe the object. The passenger in the front passenger seat was the only one that could see the object because of how I was parked. They stated that the object shot straight up and disappeared in the clouds. We are in winter and that night there was cloud cover. The flame was bright and large. Looked cone shaped. We waited to see if it would reappear but it did not.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162056.html](http://www.nuforc.org/webreports/reports/162/S162056.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Atlanta (GA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was driving home Feb 12th 2009 at around 14:35 (2:35PM) EST. While North on I-85 I noticed a craft in the sky. The best way that I can describe the craft is…if you hold out a coke bottle at arms length…that’s about the size it was. It was gray in color and did not move. I went to grab my phone to snap a picture of the craft. When I got my phone and looked back up it was still there. I drove under a sign that hangs over the interstate, once past this sign the object was gone. Never did see it again.The weather was perfect. No clouds in the sky, bright sunny day. Air temp around 60 degrees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68717.html](http://www.nuforc.org/webreports/reports/068/S68717.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/162/S162042.html)
-- [267](http://www.nuforc.org/webreports/reports/164/S164162.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162056.html)
-- [265](http://www.nuforc.org/webreports/reports/162/S162032.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162013.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
