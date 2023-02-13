@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:26 on 13 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:29 on 13 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Sandy Springs (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright light with no FAA lights spotted over Sandy Springs area.My mother and I were driving down Abernathy road away from 400 towards Roswell road when we spotted what we thought was a helicopter just underneath the clouds on our left at about a 10 o'clock position.  I didn't see any FAA lights nor the standard Red rotating light that most helicopters use.   We did see one of those further up the street.  Just a red light on the bottom.  This object was stationary and not blinking, just a light.  We lost it when the clouds drew over the area.  As we parked the car and looked back at the stars, we noticed that Sirius A was very bright as well, but not at all the brightness nor color of the light we saw earlier.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55272.html](http://www.nuforc.org/webreports/reports/055/S55272.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Cape Coral (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>3 balls of light, moving in a weird triangle formation.I just reported a sighting earlier at around 21:07 PM EST., about a single ball of light. I was just again, outside smoking a cigarette, while I noticed 3 more balls of light, they were not flashing, just sold white light. The 3 were flying, very high, in a crooked triangle formation. Preceeding noticing them, I saw an aircraft, 757, most likely, flying towards Fort Meyers International Airport. There 3 balls of light, were flying away from it. I am not sure of what direction it is, I am new to the area and rather confused as to the layout. I have never in my life, seen anything like it. I had to constantly, look away and tell myself, I can not be just seeing things. Totally bizzare.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61586.html](http://www.nuforc.org/webreports/reports/061/S61586.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162045.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162044.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162041.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162067.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162043.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
