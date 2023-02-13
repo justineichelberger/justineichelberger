@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:24 on 13 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:25:04 on 13 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Whitehall (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I WAS STANDING IN OUR DRIVEWAY AND WAS LOOKING AT THE STARS NOTICING THE BIG DIPPER, SEVERAL CLUSTERS OF STARS AND WAS TRYING TO DETERMINE IF THEY WERE THE SEVEN SISTERS OR ORIENS BELT,  WHEN ALL OF THE SUDDEN THIS HUGE BLACK STING RAY SHAPED OBJECT WITH A VERY, VERY FAINT GLOW AROUND IT WAS MOVING ABOVE.   I AT FIRST THOUGHT WAS IT A CLOUD, BUT WHEN I LOOKED AGAIN, THIS DEFINTELY WAS NOT A CLOUD, IT WAS VERY LARGE, ABSBOLUTELY NO SOUND AND JUST GRACEFULLY GLIDED ALONG A VERY EVEN STEADY PACE.   WHEN IT WAS NO LONGER IN MY SIGHT I THEN NOTICED AN UNEVEN V-SHAPED FORMATION OF VERY BRIGHT LIGHTS.   I BROUGHT MY DOG IN AND WENT BACK OUTSIDE BUT TO THE FRONT OF MY HOUSE, AND I AGAIN SAW THE V-SHAPED LIGHTS (MAYBE 7 -9 OF THEM).  THEY KEPT GOING UP UNTIL I COULD NO LONGER SEE THEM. I AM A MARRIED WHITE FEMALE, AGE 50, RAISED 3 SONS, WORKED MY ENTIRE LIFE, HAVE A VERY CLOSE FAMILY, AND HAVE NEVER EVER SEEN ANYTHING UNUSUAL IN MY ENTIRE LIFE AND NEVER EVER THOUGHT I WOULD.  THIS HAS ME TOTALLY FREAKED OUT.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68616.html](http://www.nuforc.org/webreports/reports/068/S68616.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Wheeler AAF (HI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Seen 2 white orbs appeared to be bouncing off each other.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125816.html](http://www.nuforc.org/webreports/reports/125/S125816.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162045.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162044.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162041.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162067.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162043.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
