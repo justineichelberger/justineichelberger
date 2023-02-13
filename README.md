@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:29 on 13 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:34 on 13 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Cape Coral (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>3 balls of light, moving in a weird triangle formation.I just reported a sighting earlier at around 21:07 PM EST., about a single ball of light. I was just again, outside smoking a cigarette, while I noticed 3 more balls of light, they were not flashing, just sold white light. The 3 were flying, very high, in a crooked triangle formation. Preceeding noticing them, I saw an aircraft, 757, most likely, flying towards Fort Meyers International Airport. There 3 balls of light, were flying away from it. I am not sure of what direction it is, I am new to the area and rather confused as to the layout. I have never in my life, seen anything like it. I had to constantly, look away and tell myself, I can not be just seeing things. Totally bizzare.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61586.html](http://www.nuforc.org/webreports/reports/061/S61586.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in San Bernardino (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I saw three orange lights that came at different times and went out like a flame on a candle at different times.I stepped outside onto my back porch and looked up at the sky.  Emmediately I notice to balls of fire.  They were orange and they were moving.  They moved for a few minutes getting closer and then light started shooting out of them on the bottom and they disapeared, first one, then a minute later the other one. That was in the west.  The third one came from the north and looked like it was coming straight towards my direction.  It was big and bright. I had time to go and wake up my husband so he could come outside and see.  When he came out, it took what seemed like five minutes for it to shoot out light and then sputter out and disapear.  After that happened.  About five minutes later, what looked like a very big bag was floating down and it landed on the main street about seven houses down from my house.  I think that was just a bag, I could't tell because it was dark.  It made me want to go down the street though to look, but my husband wasn't willing to go because its cold and late, so I stayed in and got on the internet to see if anyone else saw it.  I have seen manys strange things in the sky, but never that.  I saw something once that looked like a battle happening in space.  I counted 14 total lights chasing each other.  I would have taken a picture of what i saw, but I don't have a camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74356.html](http://www.nuforc.org/webreports/reports/074/S74356.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162045.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162044.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162041.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162067.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162043.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
