@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:58 on 13 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:39 on 13 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Long Point (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>White light moveing fast and out of normal flight patterns.I was sitting in the car facing the east. I had seen a white light far away behind the clouds. It was like seeing a normal aircraft.  Except it was moveing fast especially for being so far away. I lost sight of it at times because of the clouds.  Then saw it in another spot in a completley wrong flight of path for any of our known aircraft.  It would move in another direction and it would jump around.  It wasn't because of the clouds.  The clouds were moving and not even there at some points.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107126.html](http://www.nuforc.org/webreports/reports/107/S107126.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Fairview (NC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>White light rose vertically from ground, oval craft hovered over trees then flew over house and ascended.My daughter, 15, and I observed the spacecraft from our house and then the yard.  Through the trees, a large white light slowly rose vertically from the ground.  It was probably rising from an open area or road on the other side of the trees, as opposed to being right in the woods.  We heard a faint engine sound.   It hesitated above the tree line and slowly headed over our house and mountain.  It was ascending at the same time.  Looking at it from underneath, it wasn’t a huge white light anymore.  It was oval with 2 sets of lights underneath, red and white.  There were fainter lights around the circumference, because we could see it was oval.  In 2001, when my daughter was 8, she saw another oval craft fly over our house.  It was more intricate with more lights and colors on it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68631.html](http://www.nuforc.org/webreports/reports/068/S68631.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162045.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162044.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162041.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162067.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162043.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
