@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:24 on 13 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:21 on 13 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Winlock (on Interstate 5) (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright oval shape moving faster than any plane, making erratic right angle turns in the clear morning sky.Riding the train between Seattle and Portland,somewhere near Winlock, observed a very bright oval light probably 3-5 miles away. Moved faster than any plane,it made erratic right angle turns, first going west and then east, straight up, then it disappeared.  The sky was clear and the sun was shining. The size was hard to determine at that distance, but may have been the size of a car or larger, oval or round.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61662.html](http://www.nuforc.org/webreports/reports/061/S61662.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Coggeshall (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright Orange light that slowly fadedClear Sky. Bright Orange light appeared in the Western sky.  Bright enough to make me and three other people take notice.  It moved slowly but then stopped.  There was no noise. I stood and watched the light for 2 or 3 minutes during which it slowly faded but did not change its position in the sky.  We get a lot of aircraft movement over this location every night and I am used to seeing these, but this was different.  This is why I am taking the time to report it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74365.html](http://www.nuforc.org/webreports/reports/074/S74365.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162045.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162044.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162041.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162067.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162043.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
