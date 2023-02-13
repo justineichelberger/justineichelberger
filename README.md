@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:48 on 13 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:24 on 13 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Beebe (AR) reported seeing craft that fit the description of some 'Flash' over a period of approximately  -  minutes.</sub><blockquote><sub>Moving orbs of lights surrounded by flickering smaller lights & green colored shooting stars near the orbs twice.I woke up at 2a.m. to smoke a cigarette outside and looked up to see orbs of light with flashing lights dancing around the orbs of light in multiple different areas of the night sky.   Two of the orbs surrounded by flickering lights dancing around were very close to two shooting stars that had a green hue to their color.These flashing lights could not have been satellites as they moved around the orbs of lights in ways satellites can not.The orbs of light that could be mistaken for starts would also move up, down sidways and around but many state fixated in one spot while the flashing lights danced around them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144870.html](http://www.nuforc.org/webreports/reports/144/S144870.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Winlock (on Interstate 5) (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright oval shape moving faster than any plane, making erratic right angle turns in the clear morning sky.Riding the train between Seattle and Portland,somewhere near Winlock, observed a very bright oval light probably 3-5 miles away. Moved faster than any plane,it made erratic right angle turns, first going west and then east, straight up, then it disappeared.  The sky was clear and the sun was shining. The size was hard to determine at that distance, but may have been the size of a car or larger, oval or round.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61662.html](http://www.nuforc.org/webreports/reports/061/S61662.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162045.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162044.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162041.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162067.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162043.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
