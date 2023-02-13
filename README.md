@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:47 on 13 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:26 on 13 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Gastonia (NC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange/Reddish objects traveling at constant slow speed with no sound.At 19:45 on 02/13/13 I noticed an Orange/Reddish object approaching from the west.  Then another and another.  About 30 in all.  Traveling at a constant slow speed in random patterns.  The glow of the objects never really changed as they approached, passed over, and departed.  They appeared below the ceiling but hard to determine actual altitude. There was absolutely no sound as they passed.  I have some good pictures and 2 short videos taken with my iPhone. I zoomed in on 2 different objects and received some interesting shots, but I can not be sure my camera was in focus while on zoom. I am sure others saw the same. Let me know if I can help. Thanks</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96301.html](http://www.nuforc.org/webreports/reports/096/S96301.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Ludlow (KY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright oval shaped objectOne object seen hovering low in the sky.  Very bright light, seen through binoculars as oval shaped.  Sent out periodic beams of light from below the object and above the object, alternating.  Planes seen to fly in the vicinity of the object from nearby Northern Ky/Greater Cincinnati Airport.  The light brightens at times and sharp streaks of light project from all around the object at that time.  As I type this the sighting is ongoing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132605.html](http://www.nuforc.org/webreports/reports/132/S132605.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162045.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162044.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162041.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162067.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162043.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
