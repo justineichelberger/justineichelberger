@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:24 on 13 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:24 on 13 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in West Windsor (NJ) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright lighted rectangular shaped object spotted.Huge shaped object with Bright White lights at corners at an altitude of approx 10000 ft crossing my home and taking a turn and disappeared in a min.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138682.html](http://www.nuforc.org/webreports/reports/138/S138682.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Chili (WI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1:00 - 1:00 minutes.</sub><blockquote><sub>We were headed South on Y towards Hwy H in Chili, WI.  It was almost 7pm.  As we were driving, my son noticed something to the west of the vehicle.  He stated there were five aircraft with blinking lights and stated that it was weird - as how could they all be together hovering like that. I pulled over on Y and noticed the blinking lights.  It appeared that it could have been one object or 5 individual in sync objects.  The blinking lights of the aircraft didn't appear to be synced but appeared to be a typical aircraft light.  But then each aircraft showed a bright, yellowish light that stayed on for a couple of seconds.  We then drove to H and turned west to see where they then shut off and the aircraft(s) then moved so fast....unGodly fast south of Hwy H.  It appeared as though they flew multiple miles in a matter of seconds.  They then we're out of our sight.  This was my 4th sighting of something other than the typical aircraft, and it was my son's first.  He was rather ecstatic to witness such a mysterious event.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144885.html](http://www.nuforc.org/webreports/reports/144/S144885.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162045.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162044.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162041.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162067.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162043.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
