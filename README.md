@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:34 on 13 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:47 on 13 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in San Bernardino (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I saw three orange lights that came at different times and went out like a flame on a candle at different times.I stepped outside onto my back porch and looked up at the sky.  Emmediately I notice to balls of fire.  They were orange and they were moving.  They moved for a few minutes getting closer and then light started shooting out of them on the bottom and they disapeared, first one, then a minute later the other one. That was in the west.  The third one came from the north and looked like it was coming straight towards my direction.  It was big and bright. I had time to go and wake up my husband so he could come outside and see.  When he came out, it took what seemed like five minutes for it to shoot out light and then sputter out and disapear.  After that happened.  About five minutes later, what looked like a very big bag was floating down and it landed on the main street about seven houses down from my house.  I think that was just a bag, I could't tell because it was dark.  It made me want to go down the street though to look, but my husband wasn't willing to go because its cold and late, so I stayed in and got on the internet to see if anyone else saw it.  I have seen manys strange things in the sky, but never that.  I saw something once that looked like a battle happening in space.  I counted 14 total lights chasing each other.  I would have taken a picture of what i saw, but I don't have a camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74356.html](http://www.nuforc.org/webreports/reports/074/S74356.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Gastonia (NC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange/Reddish objects traveling at constant slow speed with no sound.At 19:45 on 02/13/13 I noticed an Orange/Reddish object approaching from the west.  Then another and another.  About 30 in all.  Traveling at a constant slow speed in random patterns.  The glow of the objects never really changed as they approached, passed over, and departed.  They appeared below the ceiling but hard to determine actual altitude. There was absolutely no sound as they passed.  I have some good pictures and 2 short videos taken with my iPhone. I zoomed in on 2 different objects and received some interesting shots, but I can not be sure my camera was in focus while on zoom. I am sure others saw the same. Let me know if I can help. Thanks</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96301.html](http://www.nuforc.org/webreports/reports/096/S96301.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162045.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162044.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162041.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162067.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162043.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
