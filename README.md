@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:28 on 13 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:30 on 13 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in West Windsor (NJ) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright lighted rectangular shaped object spotted.Huge shaped object with Bright White lights at corners at an altitude of approx 10000 ft crossing my home and taking a turn and disappeared in a min.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138682.html](http://www.nuforc.org/webreports/reports/138/S138682.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Flash' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Odd flash of bluish-green lightI went outside and sat down for a cigarette around 10:15 p.m.. There was nothing unusual about the night. Low clouds were moving in with the stars still visible through the breaks. I only say this because there was no storm brewing (ie. not lightning). A car was driving by and there was (what appeared) a flash of light which illuminated things around me. I figured it was a reflection and paid it no attention. Then it happened again. At that point I went to the railing to see where the flashes were coming from and just at that moment I saw a bright bluish-green flash to the south of me with a very distinct rod-like center. It was just a single pulse that lasted only a second. I stayed outside for another few minutes hoping to see more, but nothing happened. I spoke with a meteorologist the next day about the possibility of it being lightning, but he said that under the conditions, it probably wasn’t lightning. I’m an artist by trade and have always been open minded to alternate possibilities. Plus I have always been prone to witnessing strange things. I’m attaching a "sketch" of what this looked like. In reading some of the other posts, it would seem that I’m not the only one who has seen this sort of thing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55285.html](http://www.nuforc.org/webreports/reports/055/S55285.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162045.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162044.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162041.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162067.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162043.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
