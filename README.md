@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:21 on 14 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:05 on 14 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Lexington (KY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>oval appeared out of nowhere, green lights in front orange back with tracer, darted across sky, lights  off and black oval hooveredI was outside of a house on the deck in Andover neighborhood. It was between 12am and 2am, I'm not certain the exact time.  I was staring into the sky when a oval shape appeared, in the front of the oval was fluorescent green and the back of the oval was fluorescent orange.  The orange could have been the tracer of a propulsion system.  The shape darted across the sky with speed I have never scene and in 3 seconds it stopped mid air and the lights went off.  After the lights went off I could see a black oval float in the air for about 8 seconds before vanishing.  If I hadn't been following the object while it was illuminated I would have never spotted it while it was black.  I have absolutely no explanation for what I saw but it was not a comet event though it had a tracer.  Comets don't light up then go dark and hover before disappearing altogether.  I will say this was perhaps the most extraordinary thing I have ever seen in my entire life.  The event left me aw! estruck.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132643.html](http://www.nuforc.org/webreports/reports/132/S132643.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Three orange glowing lights in the eastern sky.In the eastern sky I saw 3 separate glowing orange orbs making  slow and deliberate  movements high in  the night sky.  There was no sound and they slowly gained elevation finally fading through the cloud cover.  The entire event lasted about 4 minutes.  After the first two orbs faded out of sight I took a picture of the last glowing orb.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107147.html](http://www.nuforc.org/webreports/reports/107/S107147.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162055.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162047.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162339.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162035.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162037.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
