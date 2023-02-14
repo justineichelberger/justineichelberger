@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:28 on 14 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:27 on 14 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in East Glastonbury (CT) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>4 or 5 orange orbs sighted moving across sky4 or 5 smaller orange orbs ..larger than an aircrafts lights .all in one area of sky a short distance from each other and moving at a slow pace in unison.  Also in formation heading due north and disappearing slowly into a light cloud cover.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96315.html](http://www.nuforc.org/webreports/reports/096/S96315.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Saw 9 reddish/orange lights flying in very slow formation for approximately 2 before disappearing behind clouds.I was walking a dog in a neighborhood in Central Florida around 8:20pm.  I looked up and saw a light in the sky.  I almost dismissed it as an airplane, but looked again and realized there were several lights all very near to each other.  When I later counted there were nine in the photos and video.  The lights were reddish/orange and did not change.  There was no noise that would usually be associated with aircraft and they were moving very slowly.  They were only visible for a couple minutes before disappearing behind clouds.  I did not see them reappear after that. I was able to get two photos and a short video of the lights.Having spent several years in the USAF, I have personally witnessed aircraft that is capable of hovering and flying at very slow speeds, but I’ve never seen this many flying so close together in this kind of formation.  I am aware of a government facility of some kind nearby that is not on maps.  My husband and I made a wrong turn shortly after moving to the area and came upon a guarded gate.  We were told to turn around immediately or risk arrest, but when I looked on the map on my phone, the facility was not there.I’m not sure if these lights could somehow be connected to the government facility we stumbled across, but these certainly did not appear to be normal airplanes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125865.html](http://www.nuforc.org/webreports/reports/125/S125865.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162055.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162047.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162339.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162035.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162037.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
