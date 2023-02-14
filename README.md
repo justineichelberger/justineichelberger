@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:01:04 on 14 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:42 on 14 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Pottersville (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Two lights similar to planes move erratically & rendez vous.My family was on our way home from a shopping trip to nearby Queensbury, NY. I was stargazing like I normally do when I get to ride home.  Everyone else was distracted with driving and video games. We were in between the Chestertwon, NY, and Pottersville, NY, exits on I-87 North.  I looked up and saw what at first appeared to be a plane judging by the flashing lights.  After watching the craft fly for a while it was obvious that it was not a plane, or a plane with new flight technology at least.  It appeared to flit like a moth would, erratically, almost as you would imagine a craft might appear if it were time traveling, punching a hole in reality from point a to point b.  I watched the craft for around 5 minutes, and saw another appear far to the right.  The first craft flew to the other one (they both flew in the same manner) and I lost them in the treeline.  I have seen these same crafts for years. I believe most people wouldn't look watch what appears to be a plane for more than a few seconds so they are probably often overlooked.  I will try to get a video asap since I see these so often.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125979.html](http://www.nuforc.org/webreports/reports/125/S125979.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Conover (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>several round objects moving real fast across the skylooked into the sky coming form the north or (NE) though it was balloons that were released. there were two different sets coming over. they didn't have any certain color more clear then anything else. they went out of sight across the sky within 25 sec.. i thought then they were moving to fast for balloons.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74375.html](http://www.nuforc.org/webreports/reports/074/S74375.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162055.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162047.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162339.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162035.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162037.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
