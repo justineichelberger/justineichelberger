@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:34 on 14 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:01:04 on 14 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Hayward (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Semi transparent triangle shaped low and slow objectI was standing on my back porch enjoying the night sky.  I was looking up to my right at the near half moon.  When I turned my head forward I noticed what looked like 5 or so helium balloons tied together, floating across the sky.  They appeared to be dark in color gray or black but floating across the sky instead of up.  They were moving the speed of helium balloons but stayed in a perfect triangle formation.  It looked led as if I could only see a faint reflection of the neighborhood lights in them.I walked down the steps as the object passed and when I got to the bottom saw the object from the back and it looked like a stealth bomber shape with less jagged edges at the back. It was silent and somewhat transparent (if that makes any sense.) as I took a step closer to try and see better I blinked and it was gone.  There's no way it was moving fast enough to be out of sight in a blink.The object was flying low.  Not much over the rooftops and was no wider than a car is long and completely silent.Nothing I can think of even comes close to explaining what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125862.html](http://www.nuforc.org/webreports/reports/125/S125862.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Pottersville (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Two lights similar to planes move erratically & rendez vous.My family was on our way home from a shopping trip to nearby Queensbury, NY. I was stargazing like I normally do when I get to ride home.  Everyone else was distracted with driving and video games. We were in between the Chestertwon, NY, and Pottersville, NY, exits on I-87 North.  I looked up and saw what at first appeared to be a plane judging by the flashing lights.  After watching the craft fly for a while it was obvious that it was not a plane, or a plane with new flight technology at least.  It appeared to flit like a moth would, erratically, almost as you would imagine a craft might appear if it were time traveling, punching a hole in reality from point a to point b.  I watched the craft for around 5 minutes, and saw another appear far to the right.  The first craft flew to the other one (they both flew in the same manner) and I lost them in the treeline.  I have seen these same crafts for years. I believe most people wouldn't look watch what appears to be a plane for more than a few seconds so they are probably often overlooked.  I will try to get a video asap since I see these so often.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125979.html](http://www.nuforc.org/webreports/reports/125/S125979.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162055.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162047.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162339.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162035.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162037.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
