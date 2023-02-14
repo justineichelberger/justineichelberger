@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:26 on 14 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:25 on 14 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Pasadena (MD) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Unexplainable extra large smokey full moon disappears into thin air .At approximatively 3:45 am my friend was dropping me off to my house when I spotted just barely showing over the houses what appeared to be a very large strange full moon.  It and surrounded by smoke and looked unusually big so we drove further down my neighborhood to see it.  As we found it over the water but still very low and very large we had thought it was the coolest moon we have ever seen so we left my neighborhood to go to a spot we would be able to see it better for a picture.   We were never able to find it.  We looked everywhere in every direction. not even 15 minutes had gone by so we decided to go back towards my house to take a picture from there and when we got back there was absolutely nothing there,  The weirdest part about it all is that there was no moon in the sky at all.  ANYWHERE!   We were completely overwhelmed with fear.  There was and long streak in the sky that stretched across the the whole sky in a straight line.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80067.html](http://www.nuforc.org/webreports/reports/080/S80067.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Philadelphia (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saw 4 objects like bright fireballs coming from east flying toward west.  Didn't make a sound like a helicopter or airplane.  Then disappeared into the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107133.html](http://www.nuforc.org/webreports/reports/107/S107133.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162055.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162047.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162339.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162035.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162037.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
