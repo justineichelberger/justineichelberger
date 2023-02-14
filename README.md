@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:39 on 13 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:21 on 14 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Fairview (NC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>White light rose vertically from ground, oval craft hovered over trees then flew over house and ascended.My daughter, 15, and I observed the spacecraft from our house and then the yard.  Through the trees, a large white light slowly rose vertically from the ground.  It was probably rising from an open area or road on the other side of the trees, as opposed to being right in the woods.  We heard a faint engine sound.   It hesitated above the tree line and slowly headed over our house and mountain.  It was ascending at the same time.  Looking at it from underneath, it wasn’t a huge white light anymore.  It was oval with 2 sets of lights underneath, red and white.  There were fainter lights around the circumference, because we could see it was oval.  In 2001, when my daughter was 8, she saw another oval craft fly over our house.  It was more intricate with more lights and colors on it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68631.html](http://www.nuforc.org/webreports/reports/068/S68631.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Lexington (KY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>oval appeared out of nowhere, green lights in front orange back with tracer, darted across sky, lights  off and black oval hooveredI was outside of a house on the deck in Andover neighborhood. It was between 12am and 2am, I'm not certain the exact time.  I was staring into the sky when a oval shape appeared, in the front of the oval was fluorescent green and the back of the oval was fluorescent orange.  The orange could have been the tracer of a propulsion system.  The shape darted across the sky with speed I have never scene and in 3 seconds it stopped mid air and the lights went off.  After the lights went off I could see a black oval float in the air for about 8 seconds before vanishing.  If I hadn't been following the object while it was illuminated I would have never spotted it while it was black.  I have absolutely no explanation for what I saw but it was not a comet event though it had a tracer.  Comets don't light up then go dark and hover before disappearing altogether.  I will say this was perhaps the most extraordinary thing I have ever seen in my entire life.  The event left me aw! estruck.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132643.html](http://www.nuforc.org/webreports/reports/132/S132643.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162045.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162044.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162041.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162067.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162043.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
