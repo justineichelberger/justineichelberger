@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:25 on 14 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:26 on 14 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Philadelphia (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saw 4 objects like bright fireballs coming from east flying toward west.  Didn't make a sound like a helicopter or airplane.  Then disappeared into the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107133.html](http://www.nuforc.org/webreports/reports/107/S107133.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Ashby (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Bright oblong object dissapears in the  morning skyI was making my commute to work and had just passed over the MA/NH border, on route 123A and was proceeding down West Rd., when I spotted  a bright object that appeared to be cigar or oblong shaped up in the sky traveling west .I kept driving while observing the object and at first I thought it was just a normal plane that the sun was reflecting off of, but after a few moments  the craft just disappeared before my eyes.The sky was blue and clear and I had no visual obstructions, it was just  gone. I pulled my car over immediately and excitedly scanned the sky for the object and noticed an aircraft coming from the east traveling directly towards the place in the sky the ufo was.It appeared to be large jumbo jet type of craft and it was very dark colored (black, or possibly camoflage), which is unusual because every jumbo jet I've seen in the sky has apperead to be silver or white.This jet slowly proceeded to the area of sky were the object was , I watched for a few minutes then continued to work.I grew up in a city with an airport and have plenty experience watching the skies and am very familar with the appearance of conventional craft in flight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61797.html](http://www.nuforc.org/webreports/reports/061/S61797.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162055.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162047.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162339.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162035.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162037.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
