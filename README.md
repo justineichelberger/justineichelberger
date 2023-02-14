@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:06:51 on 14 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:25 on 14 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>red flashing object moving over chicagoi was facing east and saw a red flashing light object in the sky heading south. it slowly turned back west/north, then headed east and slowly disappeared out of sight after a minute heading towards lake Michigan.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68646.html](http://www.nuforc.org/webreports/reports/068/S68646.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Lakewood (WA) reported seeing craft that fit the description of some '' over a period of approximately N/A - N/A minutes.</sub><blockquote><sub>Telephoned Report: A man called to report that his watch, which normally is quite accurate, was off by approximately one hour, and that he discovered three peculiar marks on his neck, "like moles."  He stated that he had photographed the marks, and would provide copies of the photos. To date, NUFORC has not received a report, or copies of the photograph(s).  PD</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27842.html](http://www.nuforc.org/webreports/reports/027/S27842.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162055.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162047.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162339.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162035.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162037.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
