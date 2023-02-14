@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:41 on 14 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:28 on 14 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>3 spheres in sunset skyMy husband and I were driving home to Seattle via I-90 from Spokane it was 16:00hrs.  I was taking many photos due to the strange sky above - I did not see these 3 spheres at the time as my focus was on the Sunset but also the Sun high above, then we witnessed a second Sunset later on.  It was only when I got home did I notice the 3 spheres in a triangle formation.  There seems to be one yellow one in the center, and two orange/red spheres to the side.  These were taken through the windscreen, however they are not on the windscreen as they move position in the sky, these are distant objects.  Please see photos</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96346.html](http://www.nuforc.org/webreports/reports/096/S96346.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in East Glastonbury (CT) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>4 or 5 orange orbs sighted moving across sky4 or 5 smaller orange orbs ..larger than an aircrafts lights .all in one area of sky a short distance from each other and moving at a slow pace in unison.  Also in formation heading due north and disappearing slowly into a light cloud cover.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96315.html](http://www.nuforc.org/webreports/reports/096/S96315.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162055.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162047.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162339.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162035.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162037.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
