@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:30 on 14 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:32 on 14 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Davenport (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Three bright lights in a huge triangle shaped pattern over I-80 moving to the East from Iowa into IllinoisAt the time of this event, I was about to enter a doctoral program. My friend, a Ph. D. audiologist, and I were driving East on I-80, between twelve to fifteen miles before our planned exit near the Mississippi River Bridge when we noticed three bright lights in a triangle shaped pattern that extended from 10 degrees above the horizon to 30 degrees above the horizon. The lights were so near, and the pattern so large that I had to lean forward to look up through the windshield glass to see all three at the same time. After watching them for a while, we saw that the stars behind the "triangle" disappeared as the lights moved. The three bright lights seemed very close to us, and we kept remarking at how strange they looked. They moved as a unit with each of the three lights equally distant from the other two.  At first they seemed to be moving with traffic, but after some time had gone by, they began to pull ahead of us. Gradually, they moved far enough ahead of us that the pattern was smaller than the rearview mirror, and they appeared to be at less than five degrees above the horizon. Before they (it) pulled completely away from us, I recall seeing a military jet being refueled in the sky and the lights seemed to be nearer to the ground than the two planes engaged in the refueling. We had no scale to measure it, but it seemed to be twenty times the size of the larger plane. Finally, it disappeared in the sky over the East bound highway. We had been so interested in the lights that we missed seeing the Mississippi River (and our exit to the Quad Cities) and ended up about 30 miles into Illinois. We had to find and exit and backtrack 40 miles to Rock Island. Neither of us had seen anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49705.html](http://www.nuforc.org/webreports/reports/049/S49705.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Exton (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>two glowing fireballs changing colors outside PhiladelphiaIt was eleven o clock at night when I decided to look out my window to see if there was any snow.  In the corner of my eye there were two red glowing lights.  As I continued to look at them they change to blue then 4 seconds later to yellow and 4 seconds later to red again.  It continued this pattern whiling moving to all directions.  It was freaking me out so I got my dad.  He said it was just a helicopter but a helicopter could not change those colors or move like that and say there for 45 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55286.html](http://www.nuforc.org/webreports/reports/055/S55286.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162055.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162047.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162339.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162035.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162037.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
