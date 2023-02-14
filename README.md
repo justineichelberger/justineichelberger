@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:27 on 14 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:29 on 14 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Mullica Hill (NJ) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>bright round light! Just hovered still and then had a bluish and red light next to the bright light as it took offBright light while driving home seemed to be just staying in the same spot.  As we approached our road to turn it was above the trees and next to us!  It wasn't very high and wasn't moving!  The round light was the brightest. brighter than a spotlight.  We stopped the car and just watched it for a few minutes surprised that it didn't fly away right away.  I was amazed and didn't think to take pictures but my son did just as it went to move above us and took off.  When it went to move it had a bluish light and a reddish light on the sides of the bright light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153275.html](http://www.nuforc.org/webreports/reports/153/S153275.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Pretty Prairie (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Amber colored lights that slowly faded and dissapeared around Pretty Prairie, Kansas starting at about 7:45 central time.My mom and I were coming home from town at approximately 7:35~7:45 pm central time. It was a cloudy night. On our way home we both saw these two lights hovering in the sky right beside each other that were of a amber color (like that of a pole light). Neither one of us said anything for about 2 minutes because we thought that they were perhaps some sort of airplane. Then after noticing that they were not moving at all, I asked her what they were and she told me that she had been watching them and that she was wondering that same thing.  We pulled over to see if they were in moving and we came to find out that they were sitting completely still. We decided to move slightly closer to them just so we could get some sort of a perspective of where they might be hovering over and as we were driving we passed by two trees and once we passed those trees, we looked for the lights and they were gone. We decide to turn around and go back up the hill thinking that for some odd reason maybe we just couldn't see them from the angle that we were at. So we went back up the hill and we still saw nothing. We drive past where we saw them the first time and when we almost get to our home, we saw them again. So, we drove closer to them yet again just on a different road this time. We parked the car and watched them for about 3~5 minutes then, as my mom was looking for the binoculars, I saw the first one fade out. I told my mother and she looked up and with the binoculars, she watched the second one fade away. They did not reapear so we decided to go on home. We got home and were inside for about 5 minutes and then went back outside to look for them once more. We got outside on our backpourch and through the trees we saw 5 of them, all in a line just like the 2 earlier. We go out to the end of our driveway and they were still there. We watched them for about 5 minutes yet again and then we both watched them slowly fade away. There were two others sightings. One was another person who saw them that night and the other one saw them the next night between 1:00 and 2:00 am central time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49163.html](http://www.nuforc.org/webreports/reports/049/S49163.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162055.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162047.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162339.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162035.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162037.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
