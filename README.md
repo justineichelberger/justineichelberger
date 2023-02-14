@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:04:08 on 14 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:26 on 14 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Chatham (VA) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>It was beautifulEarly on the morning of February 14, the entire chatham hall student body were astounded by a moving figure in the sky.  This amount of witnesses may seem high, and you may be asking how can you be sure they all saw it.  It was so phenomenal that everyone's eyes, regardless of their location, went straight to the U.F.O.  It was a big red object, in the shape of a heart, and at first scared all the girls.  We then felt warmth radiate from the big red object, and our smile's grew.  It was an unstoppable force, from the unknown.  We all started hugging eachother and longing for our boyfriends.  This thing had such power!  As the shape came clearer, it was obvious it was a heart!  It hovered around for about 20 minutes then whizzed out of view.  If you know what this/where it is please let me know.  We are all curious and dumbfounded about what this powerful object/force was.  If you need additional informantion please email me ((e-address deleted)) Thank you------HAPPY V-DAY!((NUFORC Note:  We suspect Valentines Day had something to do with this sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16468.html](http://www.nuforc.org/webreports/reports/016/S16468.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Pasadena (MD) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Unexplainable extra large smokey full moon disappears into thin air .At approximatively 3:45 am my friend was dropping me off to my house when I spotted just barely showing over the houses what appeared to be a very large strange full moon.  It and surrounded by smoke and looked unusually big so we drove further down my neighborhood to see it.  As we found it over the water but still very low and very large we had thought it was the coolest moon we have ever seen so we left my neighborhood to go to a spot we would be able to see it better for a picture.   We were never able to find it.  We looked everywhere in every direction. not even 15 minutes had gone by so we decided to go back towards my house to take a picture from there and when we got back there was absolutely nothing there,  The weirdest part about it all is that there was no moon in the sky at all.  ANYWHERE!   We were completely overwhelmed with fear.  There was and long streak in the sky that stretched across the the whole sky in a straight line.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80067.html](http://www.nuforc.org/webreports/reports/080/S80067.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162055.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162047.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162339.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162035.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162037.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
