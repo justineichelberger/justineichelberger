@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:26 on 14 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:32 on 14 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Friendsville (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Saw lots of blue lightsMy boyfriend and I where driving down the highway and in the sky we say blue lights flashing in the sky in patterns of 3.  Like 1,2,,3 pause then 1, 2, 3 pause this went on for about 4 min.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117348.html](http://www.nuforc.org/webreports/reports/117/S117348.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mineral Bluff (GA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>I saw three cigar figures floating 2,000 feet over me.  They flew away and came back 5 minutes later.  They were there for two hours!UFO  	I saw three cigar shaped UFOs hovering only 2,000 or so above the ground.  It lasted about two hour it felt.  Though i am not sure how long it lasted it was at least one hour.  They flew out of sight then came back five minutes later.  The flash bright lights over and over at me.  I was too scared to call the police.  They would not believe me.  Also, I was too strangely tired to go get a phone.  I don’t know what to do!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107130.html](http://www.nuforc.org/webreports/reports/107/S107130.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162055.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162047.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162339.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162035.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162037.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
