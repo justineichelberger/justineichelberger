@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:25:36 on 14 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:04:08 on 14 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Bonnyville (Canada) (AB) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>shot dowards at an angle from the sky with distinct orange flames trailing it then went behind a tree and could not be seen after that</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35173.html](http://www.nuforc.org/webreports/reports/035/S35173.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Chatham (VA) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>It was beautifulEarly on the morning of February 14, the entire chatham hall student body were astounded by a moving figure in the sky.  This amount of witnesses may seem high, and you may be asking how can you be sure they all saw it.  It was so phenomenal that everyone's eyes, regardless of their location, went straight to the U.F.O.  It was a big red object, in the shape of a heart, and at first scared all the girls.  We then felt warmth radiate from the big red object, and our smile's grew.  It was an unstoppable force, from the unknown.  We all started hugging eachother and longing for our boyfriends.  This thing had such power!  As the shape came clearer, it was obvious it was a heart!  It hovered around for about 20 minutes then whizzed out of view.  If you know what this/where it is please let me know.  We are all curious and dumbfounded about what this powerful object/force was.  If you need additional informantion please email me ((e-address deleted)) Thank you------HAPPY V-DAY!((NUFORC Note:  We suspect Valentines Day had something to do with this sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16468.html](http://www.nuforc.org/webreports/reports/016/S16468.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162055.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162047.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162339.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162035.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162037.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
