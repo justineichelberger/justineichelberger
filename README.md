@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:25 on 14 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:27 on 14 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Lakewood (WA) reported seeing craft that fit the description of some '' over a period of approximately N/A - N/A minutes.</sub><blockquote><sub>Telephoned Report: A man called to report that his watch, which normally is quite accurate, was off by approximately one hour, and that he discovered three peculiar marks on his neck, "like moles."  He stated that he had photographed the marks, and would provide copies of the photos. To date, NUFORC has not received a report, or copies of the photograph(s).  PD</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27842.html](http://www.nuforc.org/webreports/reports/027/S27842.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Mullica Hill (NJ) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>bright round light! Just hovered still and then had a bluish and red light next to the bright light as it took offBright light while driving home seemed to be just staying in the same spot.  As we approached our road to turn it was above the trees and next to us!  It wasn't very high and wasn't moving!  The round light was the brightest. brighter than a spotlight.  We stopped the car and just watched it for a few minutes surprised that it didn't fly away right away.  I was amazed and didn't think to take pictures but my son did just as it went to move above us and took off.  When it went to move it had a bluish light and a reddish light on the sides of the bright light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153275.html](http://www.nuforc.org/webreports/reports/153/S153275.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162055.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162047.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162339.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162035.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162037.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
