@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:25 on 15 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:25 on 15 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Chillicothe/Columbia (MO) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>I saw thirteen white, cylindrical shaped objects in the sky while traveling between two towns.I was with family as we were driving between Columbia and Chillicothe.  I was sitting in the right backseat looking through the window into the clear blue sky when I suddenly spotted two objects that were pretty distant from each other in height.  I could tell that the lower one was a jet because of its trailing contrail.  The other object however, did not have one, and was white with a cylindrical shape and seemed to move slower than that of a jet flying at the same height.As both were flying opposite directions out of my feild of view, two more objects had suddenly popped into view and this time they were the same cylindrical shape, color, and altitude but were a few miles apart traveling in the same direction.  As time went on I started to see more appear but not one right after the other.The lowest flying object had appeared as we were driving through Chillicothe.  It was flying very low, maybe between one and two thousand feet.  I couldn't get the clearest view of the underside of the thing but it had the cylindrical shape and white color to its body and as it flew over head I caught a glimpse of what appeared to be a red sphere on the right side of its undercarriage and a black sphere on the left side.  I lost sight of it as we were going the opposite direction.In total, between 12pm and 2pm I saw 16 objects, and from what I could tell only 3 of them even remotely resembeled aircraft.  I've seen eight jets in one day fly over head before but never in my life have I seen 13 white, cylindrical objects flying around in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96341.html](http://www.nuforc.org/webreports/reports/096/S96341.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Selangor (Malaysia) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Round orange light moved across the sky then stopped and got smallerIt was after a party at my house witnessed by my family and in-laws. an orange coloured light the size of baseball below the clouds, moved from accross the sky before stopping at one point and then the light got smaller as if it was going further away. it was very clear and we took a photo of it . when we develop the image I will try to send it over.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16470.html](http://www.nuforc.org/webreports/reports/016/S16470.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [443](http://www.nuforc.org/webreports/reports/162/S162719.html)
-- [442](http://www.nuforc.org/webreports/reports/164/S164397.html)
-- [441](http://www.nuforc.org/webreports/reports/162/S162924.html)
-- [440](http://www.nuforc.org/webreports/reports/162/S162198.html)
-- [439](http://www.nuforc.org/webreports/reports/162/S162344.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
