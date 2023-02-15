@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:25:57 on 15 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:04:49 on 15 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Pinellas Park (FL) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 135((ADDENDUM FROM SOURCE OF REPORT, MR. FRANCIS RIDGE))Anyway02/05/19  21:11  Pinellas Park FLShould be 02/15/19Sorry about that, Peter((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144945.html](http://www.nuforc.org/webreports/reports/144/S144945.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lincoln (NE) reported seeing craft that fit the description of some '' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Three bright blue flashes of light filled the entire sky, but no one but me and the witnesses said they knew anything about it.Three bright blue flashes of light. I was pulling into the driveway of my neighbor's house at exactly 5:00 with my sister and mother when this happened. The flashes filled the entire sky.  They were beyond the neighbor's house, maybe on the road? I can't remember if there was sound. I was in my car. I can't remember. We thought maybe an electrical box had blown on the road behind their house, but no lights flickered or anything. No power went out.We went into our neighbor's house (as we did every morning back then), and they were sitting in their living room. We asked if they had seen it. They said no. I remember I was so shocked. The lights literally filled the entire sky. The shade of blue was the stereotypical electric-shade, that bright blue.I got to school later that day, and I asked everyone. Seriously everyone in my classes if they had been awake that morning at 5. Whoever said they did, I asked if they had seen the lights, or if their power had gone out. They all said no.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163081.html](http://www.nuforc.org/webreports/reports/163/S163081.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [443](http://www.nuforc.org/webreports/reports/162/S162719.html)
-- [442](http://www.nuforc.org/webreports/reports/164/S164397.html)
-- [441](http://www.nuforc.org/webreports/reports/162/S162924.html)
-- [440](http://www.nuforc.org/webreports/reports/162/S162198.html)
-- [439](http://www.nuforc.org/webreports/reports/162/S162344.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
