@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:28 on 15 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:37 on 15 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Bendigo (Australia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>A Bright star-like light moved in an arc across the sky and grew fainter as I watched. Duration 5-10 secondsI live in a city called Bendigo, in the state of Victoria in Australia. After work, at about 0345am give or take, I was sitting outside my house in my back yard preparing to have a smoke - I was facing in a northerly direction. I looked up to see a bright star in the sky. I didn't think this was at all unusual until as I watched it began to fade in brightness. Immediately I concluded it was atmospheric conditions changeing. But then it moved in a definite arc across the sky until it became too faint to see.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28436.html](http://www.nuforc.org/webreports/reports/028/S28436.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Crumrod (AR) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>Driving alone at night , then very bright lights invade on you while drivingI was driving down the Hwy. going to Crumrod from Elaine and noticed 2 bright lights on each side of my car and they would not go away as if they were following me. I turned into the first house I saw and the lights did too, I did not get out of my car but I blew the car horn for about 45 minutes and the bright lights were still there then I saw figures standing all around the house with theirs eyes glowing at me so I called my mother on my cell phone I had to tell someone then I made about 2 or 3 more phone calls as I was dialing I could hear my dial tone coming from my radio inside my car then my phone and car went dead by that time a guy came by that I had called before the phone went dead and said he did not see anything as I got out of the car I look around and in the air I could see it taking off and He seen it and we jump in the truck and left. I went back to the house about an hour later and my car was still dead so I had to get boost off and the man in the house said he did not come to the door because something strange was going on outside his house ever since about 5:00AM that morning said his house was lit up and he and his wife thought they had over slept. The man said the he looked around his house after that and did find evidence that something was going on strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49156.html](http://www.nuforc.org/webreports/reports/049/S49156.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [443](http://www.nuforc.org/webreports/reports/162/S162719.html)
-- [442](http://www.nuforc.org/webreports/reports/164/S164397.html)
-- [441](http://www.nuforc.org/webreports/reports/162/S162924.html)
-- [440](http://www.nuforc.org/webreports/reports/162/S162198.html)
-- [439](http://www.nuforc.org/webreports/reports/162/S162344.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
