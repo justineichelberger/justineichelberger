@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:31 on 15 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:36 on 15 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Alaska airspace (above Arctic Circle) () reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Engagement with objects by USAF aircraftI was in the USAF stationed at a base in Alaska.  I flew F-16's for quite a few years.  It was the last year of the Cold War and the Soviet Union was having problems and starting to fall apart.  They had increased the number of flights per month,, when Soviet bombers would test our early warning systems.It was not uncommon to be sent up to intercept and turn around Soviet aircraft.  During February 1990, there were an unusually high number of alerts that fighters were sent up to investigate and turn back.  But, pilots were returning and reporting they had not found any craft in the area.   One day mid February, I was one of the pilots on ready status and was scrambled to go intercept several targets.  When we located them, they were holding position, hovering.  We flew past 3 objects at approx 800 meters distance.  They looked like large barrels.  Maybe 3 times the size of a 50 gallon drum.  My wing man made a flat turn to the South with the intention of creating a separation between us I did a reversal called an Immelmann to create an altitude separation as well.  As I completed it, the objects were no longer visible.  We both continued South searching for them visually and electronically.  After half a minute the other pilot saw the objects on radar diving from extremely high altitude.  They dropped to a couple hundred meters above the ground.  Stopped instantly and held their position.  He was 5,000 ft below me, so he dove towards them.  All 3 objects shot straight up at approx. mach 6 until they went beyond our capabilities to maintain contact.  We patrolled the area for several minutes.  And we began the trip back to base.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147149.html](http://www.nuforc.org/webreports/reports/147/S147149.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Lancaster (SC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>round object turning ccw 15 feet across watched it for app 15 minutes no lights no soundwe were headed to grocery store (wife and myself) we were approaching cemetary on my left i noticed a gray round object sitting to the right of cemetary but still in the cemetary the object was grey in color approximately 15 feet across it gave off the appearance of being molded in one piece the object was rotating slowly counter clock wise i could see the form of pipes running around the out side but no writing my wife became very up set and demanded that we leave imediately my wife today still does not remember seeing the object and continues to become upset when the subject is brought up i will add that there was no sound coming from the u.f.o.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52457.html](http://www.nuforc.org/webreports/reports/052/S52457.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [443](http://www.nuforc.org/webreports/reports/162/S162719.html)
-- [442](http://www.nuforc.org/webreports/reports/164/S164397.html)
-- [441](http://www.nuforc.org/webreports/reports/162/S162924.html)
-- [440](http://www.nuforc.org/webreports/reports/162/S162198.html)
-- [439](http://www.nuforc.org/webreports/reports/162/S162344.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
