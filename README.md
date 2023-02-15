@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:27 on 15 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 15 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Fosston (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Green light, slowly moving in the sky and then vanishes.I was driving on a dirt road at 10pm and I see this green light in the sky, maybe about 70 feet in front of me and about 30 feet in the air.  It went up, then down, and then after a few seconds, I saw the light just move slowly, then it vanishes, nothing in sight.((NUFORC Note:  We attempted to contact the source of the report, in order to confirm the date, and were greeted by a string of profanity.  Hoax?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138821.html](http://www.nuforc.org/webreports/reports/138/S138821.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Columbia (MD) reported seeing craft that fit the description of some 'Other' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>5:30 p.m. I was walking my dog when I felt the shadow of my head and looked up and this brown rock shaped like a baked potato with hieroglyphic markings on it I had no time to react before I was in a white wash and going up into the aircraft inside I don't recall seeing anyone alien but there were two people already in there a black female and an older white male who looked terrified I was placed on a table structure and surgery was performed on my left cheek and scrotum area 2 hours later approximately 7:30 I was placed back on the ground near where I was abducted I ran back to my home and my father was outside with my dog and he said that I had been gone for 2 hours and that my dog ran home by himself this is a late reporting because I did not know how to tell anyone but tomorrow I'm going to have my face x-rated where they perform the surgery to find out exactly what happened because for the past year I have had pain in my left cheek.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160298.html](http://www.nuforc.org/webreports/reports/160/S160298.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [443](http://www.nuforc.org/webreports/reports/162/S162719.html)
-- [442](http://www.nuforc.org/webreports/reports/164/S164397.html)
-- [441](http://www.nuforc.org/webreports/reports/162/S162924.html)
-- [440](http://www.nuforc.org/webreports/reports/162/S162198.html)
-- [439](http://www.nuforc.org/webreports/reports/162/S162344.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
