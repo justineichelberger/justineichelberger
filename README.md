@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:33 on 15 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:26 on 15 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lyndon Station (WI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Orange-reddish orbs traveling vertical and horizontal.We were driving east and I looked to the north and witnessed 4-6 reddish-orange orbs disappearing then reappearing just as fast as the one before it.  They appeared just above the tree line that was a bluff.  These orbs were traveling from west to east.  About five minutes later, I pulled over when I got to town.  I'm standing next to my truck and see the same orbs moving vertically, which now they are higher up.  Seconds later I notice an aircraft make a complete u- turn and take off with speed I've never seen before.  No sound was associated with what we witnessed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124705.html](http://www.nuforc.org/webreports/reports/124/S124705.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Milton (VT) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>a small silver object laned, and took of leaving goo o the grass.	I was only 13 when this happened. That day I was home from school that day; I had a fever and was puking badly. It was noon to one-ish, and I was a sleep on the couch in the living room and the tv was on. There was a loud bang, that came from the window in the kitchen almost like a shot gun blast outside the wall.	I got up to see what it was. As I went to the window I could see something out the window, so I went to the self and got my mother’s camera because mine was upstairs in my room. I went to the window and took three photos of a craft that looked like a spudnik with 3 legs, and a strip on the center but the bush was blocking the way so I went out onto the deck of the house.	And I had saw that the craft, it was hovering up about a foot off of the ground. A took another picture, then the craft moved straight up into the air, making no sounds what so ever, as I tried to take another photograph the ship had gone up past the clouds.	As I walked down to the spot the ship had landed. I saw that the grass was burnt in the spots the legs of the craft were at, there was also pressed down grass in the center with a white goo on the grass, I took some photos of the circle, I went to go touch the goo and when I did my hand became cold, and num. so I went back into the house then.	One day later, at the same time I had saw the craft, turkey valtures circled the mark, there was about 20 of them. They were there for about 60 seconds and then the were gone, in seconds and I can not tell you were they went. They just left. email me if you would like to see the photo graphs- i don't trust people seeing them after a flash drive holding the data was stolen from my house, when better flash drives weren't((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90093.html](http://www.nuforc.org/webreports/reports/090/S90093.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [443](http://www.nuforc.org/webreports/reports/162/S162719.html)
-- [442](http://www.nuforc.org/webreports/reports/164/S164397.html)
-- [441](http://www.nuforc.org/webreports/reports/162/S162924.html)
-- [440](http://www.nuforc.org/webreports/reports/162/S162198.html)
-- [439](http://www.nuforc.org/webreports/reports/162/S162344.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
