@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:34 on 15 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:37 on 15 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Chelyabinsk (Russia) () reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>DISCLOSURE:  3 UFOShttp://www.youtube.com/watch?v=KswzrCF-Hho  At 34 secs into the video, 2 BLACK craft can be seen in front of the meteor travelling very quickly at the top of the screen and to the top right above the tree.At 39 and 40 seconds, another BLACK craft can be clearly seen making a U turn at high speed by the tree to the top right of the screen before quickly flying off.Who ever made this video was watching the wrong object.  I have cross referenced with several other video clips from the News reports and from public recordings.  All show the same thing.This is 100% true disclosure.((NUFORC Note:  We have watched the video, in months past, and it does indeed appear as though there is something traveling ahead of the meteor.  We have no explanation for the event.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100426.html](http://www.nuforc.org/webreports/reports/100/S100426.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Wichita (KS) reported seeing craft that fit the description of some 'Other' over a period of approximately indefinitely - indefinitely minutes.</sub><blockquote><sub>2 objects that look like stars moving erratically and stopping abruptly.Friday night, Sunday night and Monday morning saw a moving object way above Orion’s Belt.  It moved erratically and came to abrupt stops.  I watched it for a long time.Tonight there are 2 moving objects moving erratically.  One is to the far left of Orion’s Belt and is very bright; the other under Orion’s Belt and is dimmer.  Each object looks like a star but both move in the same erratic manner.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132639.html](http://www.nuforc.org/webreports/reports/132/S132639.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [443](http://www.nuforc.org/webreports/reports/162/S162719.html)
-- [442](http://www.nuforc.org/webreports/reports/164/S164397.html)
-- [441](http://www.nuforc.org/webreports/reports/162/S162924.html)
-- [440](http://www.nuforc.org/webreports/reports/162/S162198.html)
-- [439](http://www.nuforc.org/webreports/reports/162/S162344.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
