@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:34 on 15 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:34 on 15 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Susanville (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>I observed what appeared as an 'airborne-flame', very similar in appearance to a typical fireplace, or barbeque flame, of amber-orange color.  It was roughly due-east of Susanville, CA; appearing to be approx. in the area of the CA/NV, state-line, at an approx. altitude, of 10K-20K ft.  I initially thought that it could have been an aircraft, which suddenly burst into flames- but so far, I have heard no such reports.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138712.html](http://www.nuforc.org/webreports/reports/138/S138712.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Chelyabinsk (Russia) () reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>DISCLOSURE:  3 UFOShttp://www.youtube.com/watch?v=KswzrCF-Hho  At 34 secs into the video, 2 BLACK craft can be seen in front of the meteor travelling very quickly at the top of the screen and to the top right above the tree.At 39 and 40 seconds, another BLACK craft can be clearly seen making a U turn at high speed by the tree to the top right of the screen before quickly flying off.Who ever made this video was watching the wrong object.  I have cross referenced with several other video clips from the News reports and from public recordings.  All show the same thing.This is 100% true disclosure.((NUFORC Note:  We have watched the video, in months past, and it does indeed appear as though there is something traveling ahead of the meteor.  We have no explanation for the event.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100426.html](http://www.nuforc.org/webreports/reports/100/S100426.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [443](http://www.nuforc.org/webreports/reports/162/S162719.html)
-- [442](http://www.nuforc.org/webreports/reports/164/S164397.html)
-- [441](http://www.nuforc.org/webreports/reports/162/S162924.html)
-- [440](http://www.nuforc.org/webreports/reports/162/S162198.html)
-- [439](http://www.nuforc.org/webreports/reports/162/S162344.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
