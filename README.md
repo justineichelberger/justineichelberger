@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 15 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:26 on 15 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Crumrod (AR) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>Driving alone at night , then very bright lights invade on you while drivingI was driving down the Hwy. going to Crumrod from Elaine and noticed 2 bright lights on each side of my car and they would not go away as if they were following me. I turned into the first house I saw and the lights did too, I did not get out of my car but I blew the car horn for about 45 minutes and the bright lights were still there then I saw figures standing all around the house with theirs eyes glowing at me so I called my mother on my cell phone I had to tell someone then I made about 2 or 3 more phone calls as I was dialing I could hear my dial tone coming from my radio inside my car then my phone and car went dead by that time a guy came by that I had called before the phone went dead and said he did not see anything as I got out of the car I look around and in the air I could see it taking off and He seen it and we jump in the truck and left. I went back to the house about an hour later and my car was still dead so I had to get boost off and the man in the house said he did not come to the door because something strange was going on outside his house ever since about 5:00AM that morning said his house was lit up and he and his wife thought they had over slept. The man said the he looked around his house after that and did find evidence that something was going on strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49156.html](http://www.nuforc.org/webreports/reports/049/S49156.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in National City (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three lights floating in the sky.I was driving home, going North on the I-805.  In the sky ahead I saw 3 lights, 2 bright ones and 1 not as bright, maybe further or just smaller than the other 2.  I first noticed the 2 bright lights then the smaller one, it may have detached from the other 2 or have been there just didn't notice it at first.  The 2 brighter lights didn't move and the smaller light did, but then they all remained mostly stationary. I questioned if they were planes but then I saw what I knew was a plane, and the plane just flew past the lights, on what seemed like a normal route to the San Diego airport.  I kept my eye on them since the moment I noticed until I arrived home.  Due to a big tree in the way I don't know what happened to them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132654.html](http://www.nuforc.org/webreports/reports/132/S132654.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [443](http://www.nuforc.org/webreports/reports/162/S162719.html)
-- [442](http://www.nuforc.org/webreports/reports/164/S164397.html)
-- [441](http://www.nuforc.org/webreports/reports/162/S162924.html)
-- [440](http://www.nuforc.org/webreports/reports/162/S162198.html)
-- [439](http://www.nuforc.org/webreports/reports/162/S162344.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
