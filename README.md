@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:26 on 15 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 15 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in National City (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three lights floating in the sky.I was driving home, going North on the I-805.  In the sky ahead I saw 3 lights, 2 bright ones and 1 not as bright, maybe further or just smaller than the other 2.  I first noticed the 2 bright lights then the smaller one, it may have detached from the other 2 or have been there just didn't notice it at first.  The 2 brighter lights didn't move and the smaller light did, but then they all remained mostly stationary. I questioned if they were planes but then I saw what I knew was a plane, and the plane just flew past the lights, on what seemed like a normal route to the San Diego airport.  I kept my eye on them since the moment I noticed until I arrived home.  Due to a big tree in the way I don't know what happened to them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132654.html](http://www.nuforc.org/webreports/reports/132/S132654.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Susanville (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>I observed what appeared as an 'airborne-flame', very similar in appearance to a typical fireplace, or barbeque flame, of amber-orange color.  It was roughly due-east of Susanville, CA; appearing to be approx. in the area of the CA/NV, state-line, at an approx. altitude, of 10K-20K ft.  I initially thought that it could have been an aircraft, which suddenly burst into flames- but so far, I have heard no such reports.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138712.html](http://www.nuforc.org/webreports/reports/138/S138712.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [443](http://www.nuforc.org/webreports/reports/162/S162719.html)
-- [442](http://www.nuforc.org/webreports/reports/164/S164397.html)
-- [441](http://www.nuforc.org/webreports/reports/162/S162924.html)
-- [440](http://www.nuforc.org/webreports/reports/162/S162198.html)
-- [439](http://www.nuforc.org/webreports/reports/162/S162344.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
