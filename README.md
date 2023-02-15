@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:36 on 15 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:26 on 15 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Lancaster (SC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>round object turning ccw 15 feet across watched it for app 15 minutes no lights no soundwe were headed to grocery store (wife and myself) we were approaching cemetary on my left i noticed a gray round object sitting to the right of cemetary but still in the cemetary the object was grey in color approximately 15 feet across it gave off the appearance of being molded in one piece the object was rotating slowly counter clock wise i could see the form of pipes running around the out side but no writing my wife became very up set and demanded that we leave imediately my wife today still does not remember seeing the object and continues to become upset when the subject is brought up i will add that there was no sound coming from the u.f.o.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52457.html](http://www.nuforc.org/webreports/reports/052/S52457.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>One bright light moving silently east of Reno NevadaFrom my back porch in South Reno I was looking east towards the desert foothills and noticed a bright light (about the size of the planet Venus on a clear night) moving slowly south eastward. The light was unblinking and I could not hear any sound. I glanced downward for about 10 seconds (I was cleaning the barbecue) and looking back up it was entirely gone. There were a number of identifiable airplanes farther east of where I saw the object.  Maybe as many as 8 planes in the distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61636.html](http://www.nuforc.org/webreports/reports/061/S61636.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [443](http://www.nuforc.org/webreports/reports/162/S162719.html)
-- [442](http://www.nuforc.org/webreports/reports/164/S164397.html)
-- [441](http://www.nuforc.org/webreports/reports/162/S162924.html)
-- [440](http://www.nuforc.org/webreports/reports/162/S162198.html)
-- [439](http://www.nuforc.org/webreports/reports/162/S162344.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
