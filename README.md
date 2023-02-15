@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:32 on 15 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:56 on 15 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Virginia Beach (VA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>2 FLASHES OF BRIGHT GREEN LIGHT, 10 SECONDS APARTI was standing on porch getting ready to go in. The sky lit up bright green behind me, towards the east for a second or two, I turned around and a few seconds later another bright emerald green flash lit up the sky like lightning for another second or two.  I got my boyfriend and waited for something else to happen, but nothing did but I was scared and went inside.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27722.html](http://www.nuforc.org/webreports/reports/027/S27722.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Solon (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>silvery long reflective moved to go back in cloud cover at rush hourbright sun caused the reflection of craft as coming in /out of cloud.  maybe us spy plane?  not a sattellite, it moved turned to go back in the cloud. real high up.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80089.html](http://www.nuforc.org/webreports/reports/080/S80089.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [443](http://www.nuforc.org/webreports/reports/162/S162719.html)
-- [442](http://www.nuforc.org/webreports/reports/164/S164397.html)
-- [441](http://www.nuforc.org/webreports/reports/162/S162924.html)
-- [440](http://www.nuforc.org/webreports/reports/162/S162198.html)
-- [439](http://www.nuforc.org/webreports/reports/162/S162344.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
