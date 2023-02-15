@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:37 on 15 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:59 on 15 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Wichita (KS) reported seeing craft that fit the description of some 'Other' over a period of approximately indefinitely - indefinitely minutes.</sub><blockquote><sub>2 objects that look like stars moving erratically and stopping abruptly.Friday night, Sunday night and Monday morning saw a moving object way above Orion’s Belt.  It moved erratically and came to abrupt stops.  I watched it for a long time.Tonight there are 2 moving objects moving erratically.  One is to the far left of Orion’s Belt and is very bright; the other under Orion’s Belt and is dimmer.  Each object looks like a star but both move in the same erratic manner.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132639.html](http://www.nuforc.org/webreports/reports/132/S132639.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in West Memphis (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>My husband and I were on our way home from a concert at the Pyramid in Memphis.  We were just about to stop for gas and a snack when we saw this unbelievably bright light in the sky.  We were both looking at it - neither of us really thinking or saying anything about it.   We thought it was a light from an airplane or something. The light from it was so bright that you couldn't help but notice it. I was just about to ask my husband what he thought it was....but before I could get hte words out of my mouth, the thing shot STRAIGHT up and VANISHED!! We both said at the same time "DID YOU SEE THAT??!!"   I mean it SHOT STRAIGHT up!!  Never seen anything like it.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42322.html](http://www.nuforc.org/webreports/reports/042/S42322.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [443](http://www.nuforc.org/webreports/reports/162/S162719.html)
-- [442](http://www.nuforc.org/webreports/reports/164/S164397.html)
-- [441](http://www.nuforc.org/webreports/reports/162/S162924.html)
-- [440](http://www.nuforc.org/webreports/reports/162/S162198.html)
-- [439](http://www.nuforc.org/webreports/reports/162/S162344.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
