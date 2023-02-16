@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:28 on 16 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:27 on 16 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Woburn (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was in the middle of doing pilates with my wife when we saw something through our window that looked like a trianglular shape. At first I thought it was a plane because it was dark outside and the craft was far away so it really didn't grab my attention. As the craft got closer, there was still no sound. That is what really surprised me because I don't know of any plane or helicopter that doesn't make any noise. The craft then started going backwards, and I know planes can't do that. When I saw the craft do that I knew that I just had to see it. So my wife and I went outside to see it and that is when I realized that it wasn't a plane. The craft started glowing and it was definitely a trianglular shape. When the craft stopped glowing it was gone and there was no trace of it. I'm not sure what it was. I don't think it was a UFO because I don't believe in UFO's.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21869.html](http://www.nuforc.org/webreports/reports/021/S21869.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Okahandja (Namibia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>glowing orange round circle next to the moon, suddenly moved beserk and fell to the right and disappeared midway. Scary and awesome!I thought it was a two moon evening when I looked up into the sky on my way to the garage, then the one lighted up, kind of glowing orange, so I ran inside the house and got the camera, when i started filming this, one round lighted light started moving around in a strange way and then suddenly fell to the right in a very fast pase and disappeared midway.  I thought i was taking a picture but was filming instead. I still do have the photos and video clipse with the movements.  When I showed this to my father and son this year when discussing the UFO subject, they convinced me that it was an UFO and that I should get into contact with you. I would like to send you these clipse, but do not know how.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78063.html](http://www.nuforc.org/webreports/reports/078/S78063.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/162/S162100.html)
-- [299](http://www.nuforc.org/webreports/reports/162/S162063.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162239.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162341.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162711.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
