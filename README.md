@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:29 on 16 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:57 on 16 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Appleton (WI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>3 fiery orbs mimicking a large plane3 fiery yellow orbs surrounded by small blinking lights roughly 100 feet off the ground and 150 yards away moving in a formation that mimics a plane.  There was no noise and no plane body seen, and the 3 brightest orbs never blinked. It made a full circle around my house and appeared to me that to anybody else in a different position closer to ground could mistake it for an aircraft. We watched as it  slowly in a circular flight pattern until it dipped down in the presence of a tree line. A street light had started to react as it was dipping down into the tree line A couple nights earlier we had seen 3 blinking or pulsing objects appeared in the sky all area of the sky flying all flying in different directions, they would appear mundane to the average person who does not watch for strange objects, but the fact that 3 objects appeared in the same part of the sky eerily close to each other would suggest something is out of kilter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153324.html](http://www.nuforc.org/webreports/reports/153/S153324.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Yuma (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Light north of Yuma, west of Yuma Proving Grounds.  Hovered approx. 1000ft AGL  then rose into a small cloud, then light and cloud disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132648.html](http://www.nuforc.org/webreports/reports/132/S132648.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/162/S162100.html)
-- [299](http://www.nuforc.org/webreports/reports/162/S162063.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162239.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162341.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162711.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
