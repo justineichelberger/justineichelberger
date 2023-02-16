@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:27 on 16 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:30 on 16 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Montello (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Always believed but never thought I’d see such strange sky sighting.I was driving home on a back country highway when I saw one light appear in the sky.  At first I thought it was a shooting start but it stayed a glow and was to big to be a distant start.  Seconds after I saw about 6 identical lights appear after the previous in a straight horizontal line. Then all at once all six lights disappeared at the same time. I’ve never seen anything like it and had chills and goosebumps run down my spine. I’ve always been intrigued and believed in UFO sightings etc but NEVER thought I’d see one. Beside myself.  The lights that appeared were white and large.  Looked as if the size of a small tennis tennis ball in the sky. They didn’t all light up at once. They followed in sequence after the other.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162100.html](http://www.nuforc.org/webreports/reports/162/S162100.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Eaton Rapids (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Round, glowing circular object shoots down from the sky at a 45 degree angleAt around 8:30pm my boyfriend and I were downstairs in the basement watching TV. All of a sudden, we both happened to glance up at the window behind the TV and we saw this glowing, circular object shoot down from the sky at about a 45 degree angle. We thought it might have been a shooting star but we don't believe there were supposed to be any meteor showers. Also, shooting stars are usually not as big as the object we saw and they usually die out after a few minutes (like a streak across the sky). This object was different. It was big, bright, and round, and as it shot down from above, it didn't fade in the least. It also looked like it was going to land, but we couldn't confirm that it had.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27743.html](http://www.nuforc.org/webreports/reports/027/S27743.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/162/S162100.html)
-- [299](http://www.nuforc.org/webreports/reports/162/S162063.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162239.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162341.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162711.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
