@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:21 on 16 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:25 on 16 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in New Baltimore (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Very blue light traveling FAST from north to south high in the sky.I was driving home on a dark street with very few street lights. Just before driving over the hill moments before pulling into my drive way I  thought I saw a blue light to my left high in the sky but I let it go thinking it was the reflection of the firehouse lights I passed on the power lines.Seconds later I realized there really was a light in the sky. It was moving incredibly fast and it was a blue light that wasn't blinking. It looked very high in the sky but it was easy to see.It moved smoothly from the left part of the sky to the right part of the sky and there as no sound. It took about several seconds to cross over to the other side. It was coming from the south going directly north. I live along the Hudson River and the town is very dark so the sky is usually very visible on a clear night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68676.html](http://www.nuforc.org/webreports/reports/068/S68676.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Mt. Shasta (above) (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>White lights hovering and then dimming in sequenceI am an airline captain.  My co-pilot and I were on our way from LAX-PDX at FL 380 and we were in the Mt. Shasta area.  It was a smooth flight and very little ATC communications were going on.  We decided to look out and up at the night sky for falling stars and or satellites passing over head.  We were heading about 310 degrees and to our 2 o'clock high, maybe 50 degrees up from the horizon I noticed 2 brighter than normal stars and mentioned to my co-pilot that I didn't remember ever seeing those 2 stars that were brighter than the surrounding stars in the background.  The 2 lights were approximately an inch apart in the windscreen and the size if normal stars. Just as I said that one of the "stars" just dimmed out over about a 10 second time span followed by the other one dimming out completely in about 10 seconds also.  The stars, now obviously lights we not in motion, they were not satellites and were not falling stars.  They were as stationary as th! e stars in the background.  We were flying in crystal clear skies and were not flying though any clouds whatsoever.  These 2 lights were not following the typical west to east orbital path as most satellites do and were just sitting there kind of like ships hiding in plain sight. The altitude of the lights appeared to be outside of the atmosphere.  We were flying at 38,000, approximately 7 miles up and these were at least 100,000 feet up.  The thing was they were extremely bright and not moving.  Mankind does not have craft that can fly at that altitude and not be moving.((NUFORC Note:  We spoke with the witness, and airline captain, and he sounded to us to be quite sober-minded, and quite serious about his report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117361.html](http://www.nuforc.org/webreports/reports/117/S117361.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/162/S162100.html)
-- [299](http://www.nuforc.org/webreports/reports/162/S162063.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162239.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162341.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162711.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
