@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:25 on 16 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:31 on 16 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Hamilton (Canada) (ON) reported seeing craft that fit the description of some 'Oval' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>Odd green shape pacing back and forth up high in the clouds.Green light flashing in the sky, pacing through the clouds oval shape with light coming off of it moving from slow to fast and vice verca. from bright to dim on motion.  If this was an air liner there normally would be red or blue flashing lights and it would not be as high up as it was. object is continuing to move and change speeds. tryed taking photos yet they turned out blank.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61643.html](http://www.nuforc.org/webreports/reports/061/S61643.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Brooklyn (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 8:47 - 8:47 minutes.</sub><blockquote><sub>Fireball over Prospect Park.Red Light appeared hovering over Prospect Park.  Object sat uncommonly still in the sky, then shifted north several feet.  After 7 minutes, it vanished from the sky instantaneously.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153312.html](http://www.nuforc.org/webreports/reports/153/S153312.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/162/S162100.html)
-- [299](http://www.nuforc.org/webreports/reports/162/S162063.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162239.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162341.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162711.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
