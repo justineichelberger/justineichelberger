@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:28 on 15 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:28 on 16 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Maple Falls (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large round object  with multicolored lights.Saw large round object NNW with red, orange and yellow lights.  It moved side to side slowly and then disappeared without moving.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Possibly not a serious report??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68702.html](http://www.nuforc.org/webreports/reports/068/S68702.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Casa Grande (near) (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright pair of white lights south of Phoenix areaOn Coast to Coast Am just now, Peter Davenport said reports of lights near Phoenix area were reported, and may be flares from nearby military test range.  I have seen very bright pairs of white lights 2 nights this past week, on 2/16 & 2/17.  I am a truck driver and regularly drive between Tucson & Phoenix on my graveyard shift.  This took me driving west on I-10 between 9:30pm & 10:30pm on both those nights.  On the 16th, I looked to my left around the McCartney Rd exit near Casa Grande, AZ, to see 2 very bright white lights.  As I have seen strange things in the night skies many times, I looked to see if there were any blinking lights to show they were aircraft, and I saw none.  I looked again maybe 20 seconds later and one of the lights was gone.  After this I payed close attention to the remaining bright light for 3 or 4 more minutes and saw it quickly fade away to dim then gone.  I assumed this was a flare from test range beyond the mountains in the direction I was looking.  The next evening, around the same time, I again saw 2 bright lights next to each other in the sky around the same area of I-10.  Curiosity had me pay greater attention to both then the previous night.  After maybe 5 or 6 minutes, I again saw one dim then quickly go out, but maybe 20 seconds later flared back bright again for maybe 10 seconds, the instantly out again, and within 2 to 3 seconds, the 2nd light disappeared almost instantly.  These again, I assumed were military flares, which is why I did not report them to you here.  I am only now doing so, as it was mentioned on C2C.  Your reports may have come from Phoenix, in which case they would be reported to south, instead of west, of Casa Grande.  Feel free to contact me if any questions or clarification is needed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125941.html](http://www.nuforc.org/webreports/reports/125/S125941.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [443](http://www.nuforc.org/webreports/reports/162/S162719.html)
-- [442](http://www.nuforc.org/webreports/reports/164/S164397.html)
-- [441](http://www.nuforc.org/webreports/reports/162/S162924.html)
-- [440](http://www.nuforc.org/webreports/reports/162/S162198.html)
-- [439](http://www.nuforc.org/webreports/reports/162/S162344.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
