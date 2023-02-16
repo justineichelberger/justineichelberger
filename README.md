@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:34 on 16 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:31 on 16 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Willerby (near Hull) (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>we saw 2 lights in the sky following each other   they were not planes  there was no noise((NUFORC Note:  No other data provided by witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16525.html](http://www.nuforc.org/webreports/reports/016/S16525.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Rockford (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Came out of a meeting on E. State street and looked up along with several people to see several fireballs forming formations in the Eastern sky.  We instantly thought they were UFO's.  Several other people in different locations in the city saw similar objects and formations.  Interesting, prior to the sightings a friend of mine saw a NASA van in the city earlier that morning.  In addition, Rockford IL is known for its aeronautical enginering.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92262.html](http://www.nuforc.org/webreports/reports/092/S92262.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/162/S162100.html)
-- [299](http://www.nuforc.org/webreports/reports/162/S162063.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162239.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162341.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162711.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
