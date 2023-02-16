@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:41 on 16 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:25:05 on 16 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Bright star disappeared from sight.Stargazing from my backyard I became aware of a very bright star. It was as bright as Saturn, which was also clearly visible as the night was very clear.Looking due West, the star (?) was almost half way between the Pleiades and the constellation Auriga. Then, as I was looking directly at it, it disappeared. It took about two seconds as it faded from view, dimming in brightness and then disappearing. I've spent thousands of hours looking at the sky and this was no jet or plane. This does however, mark the second time I've seen a star like object behave oddly.What could it have been?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12033.html](http://www.nuforc.org/webreports/reports/012/S12033.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Rockaway Beach (NY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>UFO at Rockaway Beach,New YorkI was walking on the beach with my girlfriend and son on sun Feb 16th 2008 at 3:35pm. My girlfriend and I both had cameras with us taking cute photos of one another and my son. I noticed how clear the sky was and how the moon looked clear visable. The Jfk airport is near so the planes were taking off every 5 minutes or so. I noticed a round object it looked loke the moon in your finger ails except it was a complete circle. At first I thought it was a star but it was moving.I took photos and used the video recorder on my camera to video it.I researched on the computer and discovered someone else witnessed a UFO at Rockaway Beach ,NY in 2005..Also on youtube search Ufo footage at JFK Airport..yet another sighting in this area! Irioniclly I have studied the subject in depth for several years and new for sure this was a diamond shape UFO as also seen on Youtube ...search diamond shape ufo. I have been fasinited with the B.C. cave drawings and A.D. paintings in fact being an artist I made some myself. So for me of all people to witnes this and have photo / Video proof validates everything I already knew...Their Here and always have been! Thanks..Johnny Fasano    www.Fasanomurals.com</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61729.html](http://www.nuforc.org/webreports/reports/061/S61729.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/162/S162100.html)
-- [299](http://www.nuforc.org/webreports/reports/162/S162063.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162239.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162341.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162711.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
