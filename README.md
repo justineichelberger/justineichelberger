@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:03:59 on 16 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:28 on 16 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Paradise Valley (AZ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>30-40 reddish-orange orbs filling the northern sky and visible from Paradise Valley, Arizona on February  16th, 2013 @10:45 PMOn the evening of February 16th, 2013, my wife and I were returning to our residence, driving westbound on DoubleTree Ranch Road at or near the intersection of 52nd Street.  My wife was driving and I was in the right side passenger seat.  My wife turned to me and asked if what she was seeing in the northern sky were airplanes.  I took a moment and looked towards the northern skyscape.  What I observed were not aircraft but orangish-reddish orbs.  Preliminarily, there were approximately no more than 10-15 such objects at a distance of 3-5 miles.  Within no more than 3 minutes, there were approximately 30-40 such objects of the same coloration and configuration.  I called the 911 dispatcher and a male responded, indicating that the objects were Chinese lanterns from a wedding party at 52nd Street.  Since we were at 52nd Street, we saw no parked cars or residence hosting a party of any type.  Nor any evidence of Chinese lanterns.My wife wanted to get a better view and took a side-street detour.  This did not facilitate a better vantage point and we continued home, however as we drove down a side street, we noticed a young man sitting in his darkened vehicle (no more than his very early 20's) with his eyes fixed to the northern sky, his mouth agape and his eyes were the "size of saucers", no pun intended.  He was clearly seeing what we had seen and in retrospect we should have inquired if he was "okay".We arrived at our residence and took no further action nor did we see any additional objects.  Obviously, these objects-orbs were somehow cloaked and my perception is that they were most likely discoid in configuration.There was an intentionality to this sighting that was fairly obvious, but you would have had to been there to perceive this aspect of the event.  This took place on a Saturday evening, so there had to have been additional witnesses to said sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122394.html](http://www.nuforc.org/webreports/reports/122/S122394.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Woburn (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was in the middle of doing pilates with my wife when we saw something through our window that looked like a trianglular shape. At first I thought it was a plane because it was dark outside and the craft was far away so it really didn't grab my attention. As the craft got closer, there was still no sound. That is what really surprised me because I don't know of any plane or helicopter that doesn't make any noise. The craft then started going backwards, and I know planes can't do that. When I saw the craft do that I knew that I just had to see it. So my wife and I went outside to see it and that is when I realized that it wasn't a plane. The craft started glowing and it was definitely a trianglular shape. When the craft stopped glowing it was gone and there was no trace of it. I'm not sure what it was. I don't think it was a UFO because I don't believe in UFO's.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21869.html](http://www.nuforc.org/webreports/reports/021/S21869.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/162/S162100.html)
-- [299](http://www.nuforc.org/webreports/reports/162/S162063.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162239.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162341.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162711.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
