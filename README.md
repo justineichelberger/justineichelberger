@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:30 on 16 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:43 on 16 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Seattle (Juanita area) (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>((NUFORC Note:  We have requested that the individual who submitted this e-mail message submit a formal report, but he has not done so, yet.  Hence, it is an unconfirmed report.  Please see the illustration that the witness submitted with the report.  PD))"On Feb 16th of this year  I was driving back from Albertsons, driving east from 100th on 132nd.  As I approached the beginning of the hill which peaks at a traffic light just ahead of 109th ave NE, I saw aGIGANTIC jet black triangle, with lights, come very slowly twords me (it was heading west) over the trees just to the north of Jaunita High School.  Traffic was non-existent and it was about 11 PM on a Sunday night.  Upon seeing this thing, I pulled my truck over to the side of the road approximately 1/4 mile west of the entrance to the high school.  It appeared to be no higher than perhaps 75 to 100 feet, and it was IMMENSE.  I watched it slowly move from the tree tops I mentioned, twords me for what I'm guessing was a good 30 seconds.  The distance it would have covered in that time was less than 1000 feet.  I rolled down my right passenger window.  There was no sound at all.  Then, it STOPPED and just "hung" there.  There was a slightly yellowish white "spot-light" at the very tip, and this was moving around, up and down and side to side.  Then ALL the lights on the crafted shut off for perhaps 4 seconds.  Whenthe lights came back on, it was moving again and it moved past me, then behind me, and out of my sight.I told my wife about it.  I don't think she really believed me.    I brought it up again with her several times over the next week.  I went to my computer 4 days after seeing it, and did the attached rendering inphotoshop to show her exactly what I saw as best I could remember.  My wife did a search on the internet several days later and said that someone else from here had also seen it and described exactly what I had described.  I wasn't around when she did this, so I have not read the account, she didn't bookmark it (she said it was on a message board) and I have been searching for it online.I have not used my real name or address on this email account, I really don't want to be ridiculed about this or have any publicity.  I've told you pretty much everything I can think of here, but I really like to hear back from someone to see if you know who else saw this thing."</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28653.html](http://www.nuforc.org/webreports/reports/028/S28653.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lake Ariel (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Object staionary then fast move to other directionAt 4 am my wife spotted a object at aboyt 30 degrees off horizon due East of our house .Object appeared square with 3 white lights a red and a blue light. 5 in all.Object remained stationary then moved quckly to other side of our house(west) in about 10 seconds.  This was probably a total distance covered of about 20 miles in 10 seconds.Object floated away toward the nortwest.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68666.html](http://www.nuforc.org/webreports/reports/068/S68666.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/162/S162100.html)
-- [299](http://www.nuforc.org/webreports/reports/162/S162063.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162239.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162341.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162711.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
