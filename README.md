@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:28 on 17 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:24 on 17 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>I was driving west on Steele ave and the green Cylinder shape growing light came from went shooting across the sky right in front of me</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153368.html](http://www.nuforc.org/webreports/reports/153/S153368.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lincoln Park (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>Small triangle shaped object just above the highest trees with 5 lights flashingTriangle shape, 5 lights, moved at very fast speed, then would slow down and circle around then take off again, once looking like it was coming straight down and was going hit the ground, the other times it was always very low to the ground, like right above the highest trees..  I thought at first it was a model airplane somebody was using a remote controller, but it couldn't have been the way it was moving around..  I followed it for about 10 minutes, then it just vanished into thin air..  I also noticed where this took place at,, about a block down the street is a store called Meijers and they have all these towers outside with flashing red lights, maybe something from that signal the ufo, if that is what this is...  Has anyone else reported this?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96361.html](http://www.nuforc.org/webreports/reports/096/S96361.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
