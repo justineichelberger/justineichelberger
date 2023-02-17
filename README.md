@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:26 on 17 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:25 on 17 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Atwater (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange occuranceI'm sitting here having a cigarette and I look up at what my mind automaticllly thinks is a prop plane passing by but the only odd erie thing was it made absolutely no sound...? When I noticed that It was moving silently across the night sky, I shouted to my brother and he didn't think much of it at first until he also realized it made no noise...  It had  red and white blinking lights and seemed about 2,000 ft off the earth in elevation!? Are they just private aircraft contractors building silent planes or are they from alien worlds?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107197.html](http://www.nuforc.org/webreports/reports/107/S107197.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Bryan (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Flat oval disk-like object twisting and turning in place in the sky, then stabilized and flew away out of sight.I arrived at work and was walking across the parking lot toward my office building when I noticed what I thought was a small airplane banking back and forth in the sky to the northwest.I thought maybe it was a stunt plane, but then I noticed it had a flat oval disk-like shape, twisting and turning in place.  I continued to walk across the parking and for a short period the object was eclipsed by the building, so I walked around to the side to get a better look.The object was still there.  For half a second, I though maybe it was a bird soaring in the wind as there was a pretty good breeze blowing, but it appeared to be hovering in place, although it was twisting and turning - plus, it had a definite oval shape.A few seconds later, it stopped turning and exited away to the north/northwest until in was no longer visible.I can't say with certainty that there isn't a prosaic explanation for what the object was, but it was strange.  Possibly a drone, but unlikely with how it was turning over in the sky and then just flew away.As best as I can tell, the object was maybe about 300 yards away, about 35 to 40 degrees in elevation from my position.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132681.html](http://www.nuforc.org/webreports/reports/132/S132681.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
