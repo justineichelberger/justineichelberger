@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:26:37 on 17 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:06:10 on 17 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Forest Grove (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Red, orange fireballs in mid-day.There were 5 red fireballs in the sky that would change colors and every now and then, one would disappear. We believe it to be UFOs but we will never know if they exist because there hasn't been a way to identify it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107251.html](http://www.nuforc.org/webreports/reports/107/S107251.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Waterloo (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Three light objects that disapearedI was driving home at 11:20pm and saw three very bright lights in the sky - definately not stars. I kept driving and looking when, all of the sudden, one of the bright lights started to get smaller and smaller. The other two remained very bright for about 5 seconds after, then did the same thing. Each light was fairly spread apart and high up so it was definately not an airplane. I have no idea what this was but I'm online now just saying what I saw, which was something I have never seen and that made my heart sink because it was so crazy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42000.html](http://www.nuforc.org/webreports/reports/042/S42000.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
