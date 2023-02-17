@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:29 on 17 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:27 on 17 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Morris Plains (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Red lights previously spotted in Morris Plains, NJ return to the sky in greater numbersWas at the store and walked outside to at least 10 people on their cell phones looking up at the sky.  There were 9 red lights, shaped in what could have looked like the big dipper.  They were not moving as if they were planes flying.  They were more so bobbing in the sky.  The lights were also flashing.  At the time I saw them, one appeared to be drifting away from the pack, and slowly disappeared into the night.  The others gradually followed suit, but not all at once.I had no idea this had already happened in January until I returned home and searched for more information online.A relative called the police and was told it was a "hoax" !  The police dept. also reported to have received many calls regarding the lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68750.html](http://www.nuforc.org/webreports/reports/068/S68750.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Cactus Flats (CA) reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Young man calls to recount his experience near Cactus Flats, CA, while riding motorcycles on Highway 18 (or Highway 38??) on the evening of 17FE96. The caller was riding his motorcycle with his friend, when they realized that the father of the friend, who had been riding behind them, was no longer in sight. The young men turned around, drove back down the road, where they found the father stopped in a turnout.  The father told them to turn off their engines and lights, and that there was something in the valley they should look at. The three of them witnessed six huge lights hovering in the night sky, and a seventh identical object sitting on the ground, which lit up the valley they were in for "10 to 15 miles around."  The objects in the sky were oriented in a straight row.Suddenly, the object on the ground began to rise into the air, at which time the object positioned on the far right of the formation in the sky moved down and under its neighboring object.The light that had been on the ground disappeared from sight, and then the objects in the sky disappeared in sequence.  When they arrived at their destination, the father informed the others that he had seen another object "on the other side of the mountain."</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01338.html](http://www.nuforc.org/webreports/reports/001/S01338.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
