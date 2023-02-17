@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:42 on 17 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:34 on 17 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Glen Cove (NY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>BLUE DIAMOND SHAPED LIGHT, SUSPENDED IN THE SKY.It was a blue light suspended in the sky, i was looking at it through minaculers. The light was very distant but not too small, without minaculers it look very stady but once I looked at it through them the "aircraft" its light looked like it was moving around, I kept on trying to focus but it wouldn't look steady, other than if you look at it through the naked eye. I actually saw a plain fly right underneath it, the airplain look much smaller than "the blue light" the lights on the plain were flashing as it usually looks, and the blue light right above the plain was steady and much larger. I took some pics. looked away for a few seconds and before I knew it it was no longer there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42005.html](http://www.nuforc.org/webreports/reports/042/S42005.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Pine Hill (NJ) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Black Metallic Boomerang-Shaped Craft Hovering MotionlesslyI was driving with my girlfriend in Pine Hill, NJ in a semi-built-up suburban area.  When we were driving down the road we spotted two blinking lights (one yellow, one white) alternately blinking in the sky.  My girlfriend asked me what it was and I told her it was a tower and not a plane because it was completely motionless in the sky.  Then I remembered that there was no tower there, so we both took a second look as we drove closer.  This became more frightening because there was only space between the two lights and the ground, and a boomerang-shaped craft came into focus.  We were driving approximateley 35 miles per hour.  "What the #!@! is that?," we both repeated.  I began to slow down but the driver behind me didn't even notice and was beeping at me to keep driving. Finally we got closer and I saw a black metallic ship between the two lights in an extremely aerodynamic shape (almost like a bug, almost a V shaped pattern).  I do not know what was scarier, the fact that the color of the metal was a glossy black and grey (unlike any kind of metal I've seen) or the fact that it hovered motionlessly as I drove under it.  When I drove past it I turned back while I was driving and saw the shape of the ship along with it's meneacing metallic parts.  It couldn't have been even more than 3 blocks above us.  It was the most unbelievably amazing technology and I still can't believe the way it looked.  What the hell was that thing? I rendered this image for you using Photoshop.  I am a comercial artist and I believe this is as close to realistic as what I saw, minus some detail.  I'll do a 3d rendering later.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12048.html](http://www.nuforc.org/webreports/reports/012/S12048.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
