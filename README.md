@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:48 on 17 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:49 on 17 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Robersonville (NC) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Row of lights outside Robersonville, NCOn 2/17/2011 a row of unidentified lights was seen in the air at an estimate of no more than 500 ft agl moving at a speed of no more than 10-15 knots in a south westerly direction. The object was seen to have 3 lights total ; no strobe or led in a straight line. This was the second time in the past 4 months this object was seen. No outline or shape of a conventional airframe could be seen from the ground. The object passed directly over head, no sound was heard from a prop or rotor or wind resistance. The even lasted no more than 5 minutes. The lights passed overhead and then vanished. Object was completely gone. Weather conditions were clear at a temp of 60 degrees F. Myself and 3 other people witnessed this event just outside of Robersonville, NC.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80111.html](http://www.nuforc.org/webreports/reports/080/S80111.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Triangle UFO in DallasI was sitting in my backyard when I noticed in the distance a bright yellowish light rising up. I watched it for a minute because I was trying to figure out what it was.  Then it started to come straight towards my house relatively fast. I ran in my house to get my husband then we continued to run out the front door just in time to see this triangular aircraft moving over our house.  It had three yellow lights, one on each corner of the triangle, and one red one in the middle.  We watch it for another minute curve around towards downtown, which is north of us, before we lost sight of it.  To be honest I am not sure what we saw tonight, but it was like nothing I ever saw before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107216.html](http://www.nuforc.org/webreports/reports/107/S107216.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
