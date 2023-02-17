@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:06:10 on 17 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:35 on 17 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Waterloo (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Three light objects that disapearedI was driving home at 11:20pm and saw three very bright lights in the sky - definately not stars. I kept driving and looking when, all of the sudden, one of the bright lights started to get smaller and smaller. The other two remained very bright for about 5 seconds after, then did the same thing. Each light was fairly spread apart and high up so it was definately not an airplane. I have no idea what this was but I'm online now just saying what I saw, which was something I have never seen and that made my heart sink because it was so crazy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42000.html](http://www.nuforc.org/webreports/reports/042/S42000.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Pine Hill (NJ) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Black Metallic Boomerang-Shaped Craft Hovering MotionlesslyI was driving with my girlfriend in Pine Hill, NJ in a semi-built-up suburban area.  When we were driving down the road we spotted two blinking lights (one yellow, one white) alternately blinking in the sky.  My girlfriend asked me what it was and I told her it was a tower and not a plane because it was completely motionless in the sky.  Then I remembered that there was no tower there, so we both took a second look as we drove closer.  This became more frightening because there was only space between the two lights and the ground, and a boomerang-shaped craft came into focus.  We were driving approximateley 35 miles per hour.  "What the #!@! is that?," we both repeated.  I began to slow down but the driver behind me didn't even notice and was beeping at me to keep driving. Finally we got closer and I saw a black metallic ship between the two lights in an extremely aerodynamic shape (almost like a bug, almost a V shaped pattern).  I do not know what was scarier, the fact that the color of the metal was a glossy black and grey (unlike any kind of metal I've seen) or the fact that it hovered motionlessly as I drove under it.  When I drove past it I turned back while I was driving and saw the shape of the ship along with it's meneacing metallic parts.  It couldn't have been even more than 3 blocks above us.  It was the most unbelievably amazing technology and I still can't believe the way it looked.  What the hell was that thing? I rendered this image for you using Photoshop.  I am a comercial artist and I believe this is as close to realistic as what I saw, minus some detail.  I'll do a 3d rendering later.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12048.html](http://www.nuforc.org/webreports/reports/012/S12048.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
