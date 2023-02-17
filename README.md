@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:23 on 17 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:24 on 17 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Wisconsin Dells (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>6 Rapidly moving lights... then down to 1I was driving N on Hwy 16 from Portage to WI Dells when I saw 6 blinking light moving rapidly in every direction. 2 disappeared and the remaining 4 moved in close together and then went N, S, E, W... each moving fast, stopping, moving fast, stopping. 2 more disappeared and the remaining 2 when in opposite directions. I kept watching one while driving and as it was moving east it suddenly disappeared. I know it was not helicopters - they do not move like what I saw and unless it was an experitmental aircraft I saw some UFOs</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12294.html](http://www.nuforc.org/webreports/reports/012/S12294.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Woodland Park (CO) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Lights and a thin retangular shape.Looked kind of like a plane, but I knew it wasn't because planes can't "hover". It stayed still for appox 1 minute and then moved away and was not visable anymore. It had quite a few lights on it with the colors of blue, green, and red. And it also did NOT make any noise whatsoever, as you can hear planes as they fly by.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16523.html](http://www.nuforc.org/webreports/reports/016/S16523.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
