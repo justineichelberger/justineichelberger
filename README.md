@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:30 on 16 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:48 on 17 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Bridgeport (NE) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>“Brightest landing lights I’ve ever seen.”Just wondering, but out towards Scottsbluff there’s a noticeably bright, ultra bright, light. Being this is late, I don’t believe this is a planet setting on the horizon. Doesn’t appear to be a meteor, because it’s not moving. Maybe space debris reentering from orbit, but would it just hang like that? A weapon launch, or a flare, or some kind of denotation? Too big to be a flare. Anyway, my husband says it’s the brightest landing lights he’s ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162068.html](http://www.nuforc.org/webreports/reports/162/S162068.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Robersonville (NC) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Row of lights outside Robersonville, NCOn 2/17/2011 a row of unidentified lights was seen in the air at an estimate of no more than 500 ft agl moving at a speed of no more than 10-15 knots in a south westerly direction. The object was seen to have 3 lights total ; no strobe or led in a straight line. This was the second time in the past 4 months this object was seen. No outline or shape of a conventional airframe could be seen from the ground. The object passed directly over head, no sound was heard from a prop or rotor or wind resistance. The even lasted no more than 5 minutes. The lights passed overhead and then vanished. Object was completely gone. Weather conditions were clear at a temp of 60 degrees F. Myself and 3 other people witnessed this event just outside of Robersonville, NC.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80111.html](http://www.nuforc.org/webreports/reports/080/S80111.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/162/S162100.html)
-- [299](http://www.nuforc.org/webreports/reports/162/S162063.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162239.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162341.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162711.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
