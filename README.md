@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:27 on 17 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:25 on 17 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Cactus Flats (CA) reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Young man calls to recount his experience near Cactus Flats, CA, while riding motorcycles on Highway 18 (or Highway 38??) on the evening of 17FE96. The caller was riding his motorcycle with his friend, when they realized that the father of the friend, who had been riding behind them, was no longer in sight. The young men turned around, drove back down the road, where they found the father stopped in a turnout.  The father told them to turn off their engines and lights, and that there was something in the valley they should look at. The three of them witnessed six huge lights hovering in the night sky, and a seventh identical object sitting on the ground, which lit up the valley they were in for "10 to 15 miles around."  The objects in the sky were oriented in a straight row.Suddenly, the object on the ground began to rise into the air, at which time the object positioned on the far right of the formation in the sky moved down and under its neighboring object.The light that had been on the ground disappeared from sight, and then the objects in the sky disappeared in sequence.  When they arrived at their destination, the father informed the others that he had seen another object "on the other side of the mountain."</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01338.html](http://www.nuforc.org/webreports/reports/001/S01338.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Wailea, Maui (HI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>String of Lights over MauiWe were at the Grand Wailea Hotel on the lawn just prior to the beach when my daughter spotted a string of lights move in unison across the sky. She pointed it out to her mom and myself (dad) and we watched these lights move in unison like a bead pearl necklace across the sky in formation from North to South. They moved in complete unison as if attached, and at times faded in brightness in and out. It moved pretty slowly and I managed to get video on my cellphone as they went out of view. Interestingly, friends of ours (2) on the big Island witnessed the same event from their island at approximately the same time we found out the next day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153458.html](http://www.nuforc.org/webreports/reports/153/S153458.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
