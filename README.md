@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:49 on 17 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:26:37 on 17 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Triangle UFO in DallasI was sitting in my backyard when I noticed in the distance a bright yellowish light rising up. I watched it for a minute because I was trying to figure out what it was.  Then it started to come straight towards my house relatively fast. I ran in my house to get my husband then we continued to run out the front door just in time to see this triangular aircraft moving over our house.  It had three yellow lights, one on each corner of the triangle, and one red one in the middle.  We watch it for another minute curve around towards downtown, which is north of us, before we lost sight of it.  To be honest I am not sure what we saw tonight, but it was like nothing I ever saw before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107216.html](http://www.nuforc.org/webreports/reports/107/S107216.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Forest Grove (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Red, orange fireballs in mid-day.There were 5 red fireballs in the sky that would change colors and every now and then, one would disappear. We believe it to be UFOs but we will never know if they exist because there hasn't been a way to identify it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107251.html](http://www.nuforc.org/webreports/reports/107/S107251.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
