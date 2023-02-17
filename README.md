@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:24 on 17 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:27 on 17 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Woodland Park (CO) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Lights and a thin retangular shape.Looked kind of like a plane, but I knew it wasn't because planes can't "hover". It stayed still for appox 1 minute and then moved away and was not visable anymore. It had quite a few lights on it with the colors of blue, green, and red. And it also did NOT make any noise whatsoever, as you can hear planes as they fly by.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16523.html](http://www.nuforc.org/webreports/reports/016/S16523.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Hong Kong (pilot report; in-flight) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Dear Sir /Madam   I am a Captain for an airline based in China.Last night, February 17, 2016, at approximately 1144 UTC, approaching position waypoint Dotmi, which is the boundary for Hong Kong and Guangzhou airspace, at FL330, heading 340°, myself and First Officer notice a bright object in the mid Northern sky at very high altitude, surrounded in a blue haze/halo, that was stationary.  This object was reported by another pilot from another airline on the frequency in use.The object appeared to remain stationary for 2-3 minutes, surrounded in blue haze.  The surrounding stars were clear.  There were no high level clouds.  The object then moved  in a southerly direction, appearing to accelerate before turning onto an easterly direction.  As it came close to overhead our position, the object momentarily increased in light intensity, then disappeared from view.I reported the sighting on a pirep (pilot report) frequency.  I got a response from a southbound airliner, at the Fukuoka/Incheon airspace boundary who saw the same object on an easterly track.  He reported that it was his second sighting.I estimate the altitude of this object to be in excess of 60,000ft.  The sky was dark, approximately 1 hr or so after evening civil twighlight.  There were no high level clouds the night sky, and the intensity of the light was the same as what you would see when Venus is in its lower levels on the horizon.The only possible explanation I have is that it was the ISS, but according to NASA website, its track should have been further to the west of our location, at that time.Do you have someone who can confirm the exact position of ISS at the given time?  Do you have any idea what we may have seen?  I am happy to provide further details, but would rather investigate sensible explanations before making a false claim.Look forward to hearing your thoughts.Regards,  ((name deleted))((NUFORC Note:</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125907.html](http://www.nuforc.org/webreports/reports/125/S125907.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
