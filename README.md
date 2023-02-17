@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:21 on 17 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:42 on 17 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Huntsville (Canada) (ON) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>I have been watching these lights...  One was different colours that was straight down like 4 or 5 colours to it then all of sudden I seen a bright light going in behind my bf house down  behind the trees now it's like , it looks like it is searching for something,  I have been looking thou the binoculars n I see different types of colours , this is so freaky, I have been watching this since 4:30 am and this isn't the first time I seen it, we live on North Portage Rd, Huntsville, Ontario n it's south east of the house, I don't have a camera only on my iPhone but it's too far away to take</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107195.html](http://www.nuforc.org/webreports/reports/107/S107195.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Glen Cove (NY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>BLUE DIAMOND SHAPED LIGHT, SUSPENDED IN THE SKY.It was a blue light suspended in the sky, i was looking at it through minaculers. The light was very distant but not too small, without minaculers it look very stady but once I looked at it through them the "aircraft" its light looked like it was moving around, I kept on trying to focus but it wouldn't look steady, other than if you look at it through the naked eye. I actually saw a plain fly right underneath it, the airplain look much smaller than "the blue light" the lights on the plain were flashing as it usually looks, and the blue light right above the plain was steady and much larger. I took some pics. looked away for a few seconds and before I knew it it was no longer there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42005.html](http://www.nuforc.org/webreports/reports/042/S42005.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
