@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:24 on 18 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:23:10 on 18 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I was sledding, then I looked up and saw something zoom across the sky, slower than a shooting star, but faster than any airplane.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117995.html](http://www.nuforc.org/webreports/reports/117/S117995.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Ramona (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>At approximately 5:20 on the morning of 02/19/2021, from San Diego Country Estates in Ramona, California, I observed a long “string of lights” moving west to east over San Diego County. I originally had thought they were stars, as they had similar intensity of light as stars in the early morning sky. Then I noticed their uniform horizontal movement as a group, staying equidistant from each other. This string of lights was moving faster than a jet aircraft would at what appeared to be a comparable altitude. The string consisted of 20 - 30 lights that remained horizontally in line with each other and moved in complete silence. The movement of the row of lights appeared as though they were attached to each other by a single string. The wind was coming from the east and the lights were moving west. There was no noise at all and the lights were white with a similar intensity of brightness as the surrounding stars. They were too low to have been a satellite.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162118.html](http://www.nuforc.org/webreports/reports/162/S162118.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162117.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162156.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162165.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162109.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162107.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
