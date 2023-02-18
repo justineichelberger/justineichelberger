@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:34 on 18 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:22 on 18 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Spokane County (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Fireballs over Spokane Washington 2013My nieghbor called me on the phone in mid Feb. around 9: ish and said "open your back door and look outside!" so I did.  I instantly and very clearly could see what she was wanting me to see.  It was severall fireball looking aircraft flying very slowly across the sky at what I thought was fairly low altitude and they made no sound.  Prior to this event I was researching the meteor that had hit Russia so when I stepped outside emediately I was sure I was witnessing another meteor  breaking apart into our atmosphere but realised shortly that the fireballs were defineatly not meteor debre  but intact aircraft  flying in formation  btw not ferfect formation whitch is not uncommon because my home is beneath the Spokane airport and Fairchild airforce base  flightpaths. I reported this to the airforce base looking for info on what kind of aircraft they were and no answer. I checked the news as well and nothing.  I spoke to my brother about this and told me to check this site out and noticed we weren't the only ones to witness them even thow it was at different times.    I thought the right thing to do was to reasure others  they're not nuts cause we saw them too. However this doesn't confirm "aliens" just confirms UFO((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96674.html](http://www.nuforc.org/webreports/reports/096/S96674.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>6 cicular lights were in the sky then dissapeared.I was in my friends backyard and saw a 6 lights in the sky.  At first I thaught that it was some spotlights.  Then the circular light zoomed off into the sky so fast.  The the dissapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35353.html](http://www.nuforc.org/webreports/reports/035/S35353.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162117.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162156.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162165.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162109.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162107.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
