@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:31 on 18 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:59 on 18 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Sioux Falls (SD) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Grouping of rectangular or triangular objects, hovering, dancing around each other, absolutely silent, then rapid accleration.About 1 am I was outside with my dog, sitting watching the stars and I noted an airplane take off from the Sioux Falls airport.I was scanning the sky looking for falling stars etc., when my attention was drawn to a group of objects directly overhead. I can't say how high up they were, can't estimate size, but they were triangular to rectangular, a dull oranginsh brown color, and seemed to be reflecting the city lights or had a dull glow of their own. My initial thought was a small flock of geese, but as I watched I noted they seemed to be dancing around each other, changing positions but maintaining a close formation. As I watched, one of the objects swung out, moved to the front of the grouping, then began to accelerate to the northwest, with the others falling in behind; then the grouping accelerated out of view. What was so striking was these objects were absolutely silent, even as they accelerated. There's a fairly large air-guard base at the airport which is a couple miles north of my residence. I've kept silent on this mainly because there have been no other reports of similar sightings in this area, and nothing about unusual phenomena reported from the air guard or airport radars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21954.html](http://www.nuforc.org/webreports/reports/021/S21954.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Cullman (AL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Me and 3 of my close friends witnessed a strange event. We saw a large green fireball streak across the night sky and it traveled from east to west. It was very fast and very brightly lit. Whe observed the fireball for about a minute and then suddenly to our amazement, it exploded and formed into 3 white disk shaped craft. Then they just disappeared! We cannot believe what we just saw. This is the first time that I have seen a fireball in the night sky but my other friends have seen them before at another time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42009.html](http://www.nuforc.org/webreports/reports/042/S42009.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162117.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162156.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162165.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162109.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162107.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
