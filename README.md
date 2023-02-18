@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:30 on 18 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:25 on 18 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Unidentified object seen over Phoenix in February of 2020.Unfortunately we waited too long to report this that we are unsure of the date and time but it was approximately in February of 2020.  We were traveling eastbound on the 101 and were on the exit ramp from the 101 onto northbound I-17.  I was traveling with my spouse and I saw a single, large black or dark gray,  tiered, rectangular object hovering over the area.  The area it appeared to hover over was both residential and commercial.  I thought to myself is that a balloon?  But it clearly was not.  The size was hard to judge as I was navigating through the narrow, concrete wall bordered exit ramp.  If I had to guess, I’d say about 200’ to one city block. The one thing I remember was that it looked industrial.  Almost like floors of a factory with metal railings. Once I quickly realized it was something I couldn’t explain, I asked my wife to look and see if she sees it.  She did see it.  I asked her what she saw and she described it as a “black object, multi tiered, just floating there.”  She agrees with my potential size estimation.  From where we were, we could only see it we curved around on the ramp and then we lost site of it as we proceeded onto I-17.  It was not a balloon.  It was not a helicopter.  It was not a plane, as it was not moving.  How long it remained visible in the location, I do not know.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159547.html](http://www.nuforc.org/webreports/reports/159/S159547.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Buford (WY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Heading westbound on I-25, light seen moving at speed, disappeared.There were four passengers heading west-bound on interstate 25 in the vehicle, when the driver noticed a bright white light in the sky.  At first the driver thought that it was a planet, but this light was twinkling.  The four passengers concluded that it wasn’t a planet but maybe an exceedingly bright star. It was then that the light had moved from the left side of the interstate to the right side. About five minutes had elapsed and then the light had moved from about 30 degrees off the horizon to about 20.  The light then disappeared into the distance turning a yellowish color and then disappearing.  The light did not make any sound at all.((NUFORC Note:  We suspect a sighting of Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132882.html](http://www.nuforc.org/webreports/reports/132/S132882.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162117.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162156.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162165.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162109.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162107.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
