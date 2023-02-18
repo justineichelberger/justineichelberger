@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:59 on 18 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:19 on 18 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Cullman (AL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Me and 3 of my close friends witnessed a strange event. We saw a large green fireball streak across the night sky and it traveled from east to west. It was very fast and very brightly lit. Whe observed the fireball for about a minute and then suddenly to our amazement, it exploded and formed into 3 white disk shaped craft. Then they just disappeared! We cannot believe what we just saw. This is the first time that I have seen a fireball in the night sky but my other friends have seen them before at another time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42009.html](http://www.nuforc.org/webreports/reports/042/S42009.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>White TriangleI was taking picture of high flying airliner with a Casio Exilim which is very hard to point and get a picture of what you want in daylight. I loaded picture onto computer so I could see better what I had taken. What I found was a white shaped triangle going the opposite direction of airliner.I did not notice anything but the airliner when I took the picture.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69078.html](http://www.nuforc.org/webreports/reports/069/S69078.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162117.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162156.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162165.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162109.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162107.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
