@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:27 on 18 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:24 on 18 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Dover (DE) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>controlled or extraterrestrial objectEarly in the morning I woke up around 6:30 AM to prepare for a meeting.  I normally look outside my window to see how the weather looks.  I immediately notice a disc like object behind the tree line. It had a dull, pulsating glow and did not move at first. I ignored the object at first thinking it was a street light or possible star.  I came back a few minutes later and looked out the window and noticed the object moved closer and literally frightened me.  I woke my wife out of her sleep to show her what I was seeing and she was confused and said,"what the hell is that"?  I told her a UFO or something.  I ask her to keep watching and let me know if it moves again as I ran to get the video camera.  I open the window wide to try to get a clear view of the object and began recording.  The object immediately began moving rapidly from left to right.  That frightened my wife and she ran back into the room and ask me to get away from the window.  I was amazed w! hat this thing was doing and I strongly believe it knew we were watching it.  What shocked me is it somehow disturbed my camera and shut it down.  So I pulled out my cellphone began recording and grabbed a flash light thinking I can draw it's attention.  The object stopped, became brighter than its dull appearance and slowly reversed backwards.  I called individuals and was transferred to other individuals and I explained what I was witnessing and if they are picking this object up on radar.  They told me they have no knowledge of anything unusual going on in that area.  They ask if I would leave my name and number and I told them I don't think so and discontinued our conversation.  I wanted a closer look and wanted to go outside to see if what we where witnessing was something extraterrestrial.  My wife demanded me not to go outside saying that we don't know what that thing may do.  Ignoring her demand, I open the door and went to the yard near the tree line and the object shot backwards and was instantly gone.  Later that day I tried telling my co workers and all they did was joke and laugh.  I even showed them what I recorded but it was hard to see or really tell cause the light was dense but, you can see the object's movement.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127086.html](http://www.nuforc.org/webreports/reports/127/S127086.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I was sledding, then I looked up and saw something zoom across the sky, slower than a shooting star, but faster than any airplane.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117995.html](http://www.nuforc.org/webreports/reports/117/S117995.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162117.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162156.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162165.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162109.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162107.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
