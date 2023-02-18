@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:28 on 18 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:24 on 18 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ridgefield (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright light on western sky visable for 10 mins not moving at all, but light went out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87267.html](http://www.nuforc.org/webreports/reports/087/S87267.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Tallahassee (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Multiple orange glowing lights over Tallahassee, FLIt was around 8:45 when my and my friend walked out of Fuzions Frozen Yogurt on Kerry Forest Parkway in Tallahassee, FL.  The objects were coming from the Southwest area.  They were orange and circular, and they were just a little bit bigger than the stars in the sky.   They were also brighter than the stars. I immediately took out my phone and started recording it.  There was about 10 of us standing in the parking lot watching them.  A police officer was standing on the sidewalk next to us but when we tried to ask her what the lights were she just ignored us, got in her car, and started talking on her radio while looking at them.  They first appeared on the treeline in a tight group, then they started spreading out and moving in different directions.  They were all going the same speed and the same relative direction, but they were probably at different altitudes because they were spreading out and moving apart.  Some were brighter than others.  I didn't ! stay to see the whole thing, but on the way home there were a lot of cops on my road.  There were probably about six or seven cars, with about 10-20 people standing around watching them search.  It seemed like they were looking around in the woods but I was trying to pay attention to the road, so I didn't see much.  I am 16 years old and I attend Chiles High School.  I wouldn't have contacted your organization unless I was very concerned, and I'm not trying to waste your time.  I'm an honor student with a ((deleted--very high)) GPA and I'm taking a ((art/film) class.  The video I took was low quality because it was on my phone, but you can cleary see the lights in the sky.  The crowd at the frozen yogurt store was made up of two moms with their children, a few old women, and a police officer, along with the other customers in the store.  My friend refused to write a report because he wasn't paying attention and thought that I was just being paranoid.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80121.html](http://www.nuforc.org/webreports/reports/080/S80121.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162117.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162156.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162165.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162109.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162107.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
