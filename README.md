@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:25 on 18 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:31 on 18 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Buford (WY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Heading westbound on I-25, light seen moving at speed, disappeared.There were four passengers heading west-bound on interstate 25 in the vehicle, when the driver noticed a bright white light in the sky.  At first the driver thought that it was a planet, but this light was twinkling.  The four passengers concluded that it wasn’t a planet but maybe an exceedingly bright star. It was then that the light had moved from the left side of the interstate to the right side. About five minutes had elapsed and then the light had moved from about 30 degrees off the horizon to about 20.  The light then disappeared into the distance turning a yellowish color and then disappearing.  The light did not make any sound at all.((NUFORC Note:  We suspect a sighting of Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132882.html](http://www.nuforc.org/webreports/reports/132/S132882.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Sioux Falls (SD) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Grouping of rectangular or triangular objects, hovering, dancing around each other, absolutely silent, then rapid accleration.About 1 am I was outside with my dog, sitting watching the stars and I noted an airplane take off from the Sioux Falls airport.I was scanning the sky looking for falling stars etc., when my attention was drawn to a group of objects directly overhead. I can't say how high up they were, can't estimate size, but they were triangular to rectangular, a dull oranginsh brown color, and seemed to be reflecting the city lights or had a dull glow of their own. My initial thought was a small flock of geese, but as I watched I noted they seemed to be dancing around each other, changing positions but maintaining a close formation. As I watched, one of the objects swung out, moved to the front of the grouping, then began to accelerate to the northwest, with the others falling in behind; then the grouping accelerated out of view. What was so striking was these objects were absolutely silent, even as they accelerated. There's a fairly large air-guard base at the airport which is a couple miles north of my residence. I've kept silent on this mainly because there have been no other reports of similar sightings in this area, and nothing about unusual phenomena reported from the air guard or airport radars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21954.html](http://www.nuforc.org/webreports/reports/021/S21954.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162117.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162156.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162165.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162109.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162107.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
