@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:26 on 18 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:31 on 18 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Tyler (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I saw an object flying above me really low, and it made no noise at all,Basically i was driving; it had just gotten dark;  and i saw this object (looked like 1/2 circle) it flying really low, it was completely silent; 100% silent.  It didn't look like a plane or a helicopter, and it flew fast for such a low height.This even took place in Tyler, Texas, USA</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80338.html](http://www.nuforc.org/webreports/reports/080/S80338.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Kokomo (IN) reported seeing craft that fit the description of some '' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Odd Reddish orange lights.My wife & I was leaving her parents house located just to the outside of the city's east side, wile backing out a very odd light formation caught my eye. There was four lights in a somewhat square pattern that was redish orange in color that dimmed out one by one to the NW sky. My wife had turned around just as the last couple had faded out. Than withen mabey 10 to 15 secounds another cluster of lights appared again directley West that began as just one light turning into what looked like mabey 4 or more in a somewhat jagged line, that again dimmed out one by one.(BTW the sky was clear on this night) My wife ran in the house to get her parents as we couldent beleve or figure out what we were seeing. Just as my wife,son & her mother had came back outside one more single light was seen to the high SW part of the sky.There was also quite a few normal aircraft flying in random back & forth patterns aroung the area of sightings. At first I thought what we were seeing was some kind of lighting from the aircraft, but the type of lighting we saw & the way it faded out was unlike anything my wife or I have seen before. I would decribe it as a small ball of fire, slowly lighting than slowly burning out.It has been driving me nuts ever since we had seen it, as until finding this web site I havent heard of anyone else anywhere in or around Kokomo that has seen it. But from what a person in Peru IN decribes it would be the same lights we had seen & was also the same night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42746.html](http://www.nuforc.org/webreports/reports/042/S42746.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162117.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162156.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162165.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162109.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162107.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
