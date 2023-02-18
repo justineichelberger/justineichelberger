@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:35 on 18 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:30 on 18 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>On march 18, 1998 i was coming back from a party with my family. I looked behind us and a trianglular shape fell from the clouds hovered for a minute then there was a flash of light. Then it disappeared. it was a fasinating sight(also scary).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27895.html](http://www.nuforc.org/webreports/reports/027/S27895.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Warwick (RI) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Cigar shaped craft captured in photo off the coast of Oakland Beach RII was taking photos with my Canon DSLR camera.  Shutter speed was 3.5 seconds due to low light.  Got home an hour later.  Upon editing my photos I was able to see a symmetrical cigar shaped craft in the photos upon magnification.  It had what looked like three white lights on the top.  One on each end and one in the center of what I took to be the top.  On the bottom there were two red lights positioned bisecting the lights on the top of the UFO. I was using a 3.5 second shutter speed and in that time the craft must have remained stationary because that shutter speed would blur anything in motion.  End Report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138855.html](http://www.nuforc.org/webreports/reports/138/S138855.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162117.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162156.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162165.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162109.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162107.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
