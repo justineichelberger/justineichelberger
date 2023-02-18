@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:55 on 18 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:47 on 18 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Kalamazoo (MI) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Man calls to rept. his mother saw strange light in sky.  Details sketchy.(No follow-up call.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00198.html](http://www.nuforc.org/webreports/reports/000/S00198.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Tehachapi (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Was driving east on hwy 58 when I looked up in the sky and noticed over 20 or more lights in a straight line moving south east. Sky was clear and stars where visible. I observed no other movement in the sky. The lights where bright and moving at the same time. The lights disappeared only to reappear as I got off the freeway and onto another side road. Same lights and same formation and going in the same direction.  I pulled over to get a better look and to take a picture but my stupid camera wouldn't focus. The lights once again disappeared as quickly as they appeared. There are many testing sites near tehachapi/mojave so I figured it might be helicopters in formation or something to that effect but as I rolled my window down I didn't hear anything. Other then freeway traffic it was for the most part quite. Never seen anything like that before. Well hopefully this information helps. Tried to get it to you while it was still fresh in my memory. Also I was bet! ween tucker road and tehachapi willow rd when I seen both sightings. Thank you and I hope the information I gave you helps.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162108.html](http://www.nuforc.org/webreports/reports/162/S162108.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162117.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162156.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162165.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162109.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162107.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
