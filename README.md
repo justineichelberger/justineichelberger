@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:21 on 19 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:27 on 19 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Kingsport (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Just above the golf course in at Meadowview Convention center my wife and I seen a large greenish ball of light.  It went from looking like it was floating, to looking like it was going to crash into the top of the convention center, then just disappeared.  This is the second time my wife and have seen somethung like this in the area.  The other time she seen it, she was by herself, and I was by myself the last time I seen it.  This makes 3 times for both of us in the last 5 months.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138876.html](http://www.nuforc.org/webreports/reports/138/S138876.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Carmel (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Carmel, Indiana on US 31.  On several occasions have noticed a bright light to the south west.  Thought it was venus, however, this evening there were no other stars visible.  In addition, I did see a jet approaching Indianapolis from the east  and it was clearly moving.  The bright light (or lights) I saw disappeared after about an hour although another set of lights, directly above but much higher, were still visible.  I'm not sure what the object(s) were because 1) they did not move; 2) the one set of lights disappeared; and 3) no other lights (e.g., stars, planets, etc.) were visible in the night sky other than the jet that I saw.((NUFORC Note:  Venus currently is quite prominent in the southwest sky at the time indicated.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16545.html](http://www.nuforc.org/webreports/reports/016/S16545.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
