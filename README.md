@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:37 on 19 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:29 on 19 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Burton Dassett (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Photo taken on unexplained object in WarwickshireI work for the BBC Coventry site and while we were out doing some photography a week or two ago, we photographed what appeared to be a UFO flying over the Burton Dassett Hills in South Warwickshire. We get a lot of military jet activity in the area but the item on the photo doesn't look like a plane or helicopter. It's a round shape - hard to tell if it's a sphere or disk - and is black in colour. You can have a look at www.bbc.co.uk/coventry/features. Please let me know what you think!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35393.html](http://www.nuforc.org/webreports/reports/035/S35393.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Watertown Square (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>brief bright light flashing through sky (downward)While driving roughly north-bound on Galen Street in Newton/Watertown, heading towards Watertown Square, saw a very distinct, bright light shooting through the sky, appeared to be heading downward in a straight line.   Lasted about 2 or 3 seconds, hard to tell exactly what happened but it seemed to fade out or disappear at the end.  Definitely too big (and seemingly a bit slow) for a shooting star, but way too fast for a plane.   Called the police, but apparently no other reports called in.No audible noise (probably too far away for that).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96941.html](http://www.nuforc.org/webreports/reports/096/S96941.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
