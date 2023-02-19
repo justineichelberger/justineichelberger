@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:28 on 19 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:41 on 19 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Umatilla (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Low flying silent brightly lit craft.2 slowly blinking white lights attached to a circular craft, heading west, flying very low and without sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87278.html](http://www.nuforc.org/webreports/reports/087/S87278.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Grandville (MI) reported seeing craft that fit the description of some 'Cone' over a period of approximately still going - still going minutes.</sub><blockquote><sub>bright round light with red on bottom but the shape does seem to change shape but very stationaryIt changes shape but is round to cigar with red or orange fire on bottom...it appears to change shape..it also has been very stationary with a very bright light..too bright for star, plane, or satalite...it is now 9:15pm and it is still there..called state police and they are checking.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132714.html](http://www.nuforc.org/webreports/reports/132/S132714.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
