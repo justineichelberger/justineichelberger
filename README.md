@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:23 on 19 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:22 on 19 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Maricopa (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange cluster of bright white lights over the southwest skyFriday Feb 19, 2016, approx 6:30 PM to 7:00 PM, I was driving from Chandler, Arizona, to our home in Maricopa, Arizona, on Hwy 347.  I was heading  south.  In the South West sky, I saw a group of lights very uniform in the shape of a rectangle.  It looked like several lights side by side and about the same amount of lights in several rows below it forming a rectangle.  It began with one rectangle and swooped of off to the left and then turned into  a second  one.  Both remained in the sky for a couple of minutes and then the first one faded away.  The second one remained for a few minutes and then also faded away.  It never dropped as if they were flares.  It remained at the same altitude for about 10 minutes or so.  It did not move.  It seemed way too high in the sky to be flares or balloons.  I saw several cars pull over to the side which I presume to watch the same thing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125972.html](http://www.nuforc.org/webreports/reports/125/S125972.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Berkley Twsp. (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>driving south on rt 530 early evening saw bright lights in sky directly in front of me as i got closer noticed a much smaller red light on a corner of object driving passed it on my left i was able to look up and see the siloette of it looking like a triangular wing shaped object was soon out of view due to the trees was also witnessed by a friend following in another vechile  was a very clear and windy night the object was moving very very slowly and was huge and low under 1000 ft off the ground</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68871.html](http://www.nuforc.org/webreports/reports/068/S68871.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
