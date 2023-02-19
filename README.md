@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:29 on 19 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:21 on 19 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Watertown Square (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>brief bright light flashing through sky (downward)While driving roughly north-bound on Galen Street in Newton/Watertown, heading towards Watertown Square, saw a very distinct, bright light shooting through the sky, appeared to be heading downward in a straight line.   Lasted about 2 or 3 seconds, hard to tell exactly what happened but it seemed to fade out or disappear at the end.  Definitely too big (and seemingly a bit slow) for a shooting star, but way too fast for a plane.   Called the police, but apparently no other reports called in.No audible noise (probably too far away for that).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96941.html](http://www.nuforc.org/webreports/reports/096/S96941.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Kingsport (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Just above the golf course in at Meadowview Convention center my wife and I seen a large greenish ball of light.  It went from looking like it was floating, to looking like it was going to crash into the top of the convention center, then just disappeared.  This is the second time my wife and have seen somethung like this in the area.  The other time she seen it, she was by herself, and I was by myself the last time I seen it.  This makes 3 times for both of us in the last 5 months.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138876.html](http://www.nuforc.org/webreports/reports/138/S138876.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
