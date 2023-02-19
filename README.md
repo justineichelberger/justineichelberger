@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:26 on 19 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:18 on 19 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Star like object high in the eastern sky appeared stationary, thought it was a planet, but then shot out into space toward the NNE leaving a short sparkle trail.I am a 39wmm professional construction consultant. I exited my front door at 4:45am on 2/19/99 to meet my neighbor to go offshore fishing that day. I ussually star gaze while waiting for him to show. I also can see rocket and shuttle lauches directly out my front door which faces due east toward port canaveral. This object did not fit that pattern nor was it in the appropriate location which is always ENE of my perspective, nor did it act like a meteor which i also enjoy watching while night fishing or during meteor showers. I also live near the Orlando airport so i have seen plenty of aircraft.  I noticed this object high in the eastern sky ESE of my perspective. It resembled the brightness of a planet on a clear night but slightly brighter and larger than venus. Its light appeared to pulse a bit more than i have seen in stars or planets in varing atmospheric conditions so i stared at it for just over a minute. As i was looking at it, it shot off into space leaving a blaze trail (sparkle trail) as if leaving the upper atmosphere. As the trail ceased the brightness of the object faded the object appeared much smaller but continued on into space until i no longer could see it, not beyond the horizon just due to its distance. At the point of vanishing it was still high in the east but ENE of my perspective.  I told my neighbor of this sighting as soon as he came over I also told one of my employees that evening when we came back from fishing as well as a few associates in the next few weeks afterwhich time i though it best to keep it to myself.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08700.html](http://www.nuforc.org/webreports/reports/008/S08700.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Playa Guiones (Costa Rca) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>30 white lights moving evenly through the sky.A trail of white lights in the sky moving in a small arc South East , off the coast of Nicoya Peninsula, Costa Rica.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153393.html](http://www.nuforc.org/webreports/reports/153/S153393.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
