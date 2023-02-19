@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:26 on 19 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:23 on 19 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Johnson City (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright light in the sky in Johnson City, TN not moving.My girlfriend and I were sitting at a redlight when I noticed a  tear drop shaped bright light not moving. We turned onto another road and found it in the same area of the sky again. It was kind of small but very bright. We saw it for about 5 minutes and then it just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61715.html](http://www.nuforc.org/webreports/reports/061/S61715.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Maricopa (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange cluster of bright white lights over the southwest skyFriday Feb 19, 2016, approx 6:30 PM to 7:00 PM, I was driving from Chandler, Arizona, to our home in Maricopa, Arizona, on Hwy 347.  I was heading  south.  In the South West sky, I saw a group of lights very uniform in the shape of a rectangle.  It looked like several lights side by side and about the same amount of lights in several rows below it forming a rectangle.  It began with one rectangle and swooped of off to the left and then turned into  a second  one.  Both remained in the sky for a couple of minutes and then the first one faded away.  The second one remained for a few minutes and then also faded away.  It never dropped as if they were flares.  It remained at the same altitude for about 10 minutes or so.  It did not move.  It seemed way too high in the sky to be flares or balloons.  I saw several cars pull over to the side which I presume to watch the same thing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125972.html](http://www.nuforc.org/webreports/reports/125/S125972.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
