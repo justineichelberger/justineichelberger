@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:22 on 19 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:37 on 19 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Berkley Twsp. (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>driving south on rt 530 early evening saw bright lights in sky directly in front of me as i got closer noticed a much smaller red light on a corner of object driving passed it on my left i was able to look up and see the siloette of it looking like a triangular wing shaped object was soon out of view due to the trees was also witnessed by a friend following in another vechile  was a very clear and windy night the object was moving very very slowly and was huge and low under 1000 ft off the ground</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68871.html](http://www.nuforc.org/webreports/reports/068/S68871.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Burton Dassett (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Photo taken on unexplained object in WarwickshireI work for the BBC Coventry site and while we were out doing some photography a week or two ago, we photographed what appeared to be a UFO flying over the Burton Dassett Hills in South Warwickshire. We get a lot of military jet activity in the area but the item on the photo doesn't look like a plane or helicopter. It's a round shape - hard to tell if it's a sphere or disk - and is black in colour. You can have a look at www.bbc.co.uk/coventry/features. Please let me know what you think!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35393.html](http://www.nuforc.org/webreports/reports/035/S35393.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
