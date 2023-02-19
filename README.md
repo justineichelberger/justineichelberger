@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:22 on 19 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:26 on 19 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Superior (CO) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>While traveling South on McCaslin Blvd. my son and I observed a shiny object in the sky at about 30 degrees above the horizon.  It seemed to be rectangular in shape and was a gray/silver shade.  At first it was bright then it faded out of view as if it just vanished in the sky.  From our vantage point it looked like it was uncloaked and then cloaked.  We were far away from the object, I would guess about 10 - 20 miles.  That made it difficult to be more precise than this description.Please see summary description above.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12060.html](http://www.nuforc.org/webreports/reports/012/S12060.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in St. Petersburg (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Round UFO may be related to flashing star-like ufo that reacted to laser pointer.I was looking up. I saw a star floating slowly by high in the sky.  Later, a shooting star in the same area. I will often times take a phone picture of the sky on an active night hoping to catch something random.  On this night I did. I did not see it at the time of snapping the phone. Later when I looked at the photo I saw the ball shaped object. Its the view from my driveway, so I know there are no street lights or any thing else with similar look.  The next night i was looking up and saw another star-like light.  But this one's light turned-off right as I focused in on it.  I shined my laser in its direction, the light came back on.  This went on over 20 times, back and forth with no regular pattern of on/off, of duration when light was on, even the brightness varied.  It was moving very slow, took 10-15 minutes to cross about 60 degrees of the overhead sky.  I see "moving stars" and on/off stars at least once per week, sometimes daily.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132764.html](http://www.nuforc.org/webreports/reports/132/S132764.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
