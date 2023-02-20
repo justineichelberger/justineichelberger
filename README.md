@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:35 on 20 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:27 on 20 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright light accelerates over Brooklyn New York.On the morning of February 20th, 2009 approximately 5:10am as I walked east on Seeley street in Brooklyn, New York  I look up towards the east and noticed Venus in the sky.Just below Venus and to the left  I noticed another bright light which I thought was a star. As I walked I looked at it and noticed it was moving east away from me at a hight rate of speed. I stopped to  get a perspective of the object moving and it was moving fast. What caught my eye was that it was bright and seemed to be at a high altitude and it did not have any distinctive lights as aircraft would. Their were no navigation lights, or anti-collision light, it was just a bright white ball of light.I just watched it accelerate away, it took no longer then 2 minutes for it to disappear from my sight.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68880.html](http://www.nuforc.org/webreports/reports/068/S68880.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Billings (MT) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>Thought it was a small white cloud in a blue sky. Comet shaped head, short con trail off each back edge, small appearing con trails between longer tails.I was leaving a building facing west. Saw a single white cloud appearing object in the sky to the east. I had to bend my head backward slightly to see it. I could tell it was moving to the east. No other aircraft were in the area. I would guess it was 10,000 to 15,000 feet high. The entire object was white. I called my daughter about 20:00. She ask me if I had seen the object in the sky. They observed it and said it took about 35 minutes for it to get closer to the ground and appeared to be white and bigger than a jet airplane. It decended straight down and disappeared in a southerly direction. 5 people witnessed it from their home. There was nothing on the radio or T.V. about it. They saw 2 amber flashes of light from the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05652.html](http://www.nuforc.org/webreports/reports/005/S05652.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
