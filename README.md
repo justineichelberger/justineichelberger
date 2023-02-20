@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:24 on 20 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:24 on 20 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Bossier City (LA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>3 Bright oval objects observed by at least 4 witnesses in NW Louisiana.Riding home to S. Bossier, Husband and I noticed 3 very bright oval lights in "stair-step" formation, each one a slight distance above the other and were stationary at the time. The light from these 3 objects was very bright white and slightly pulsating. We passed a young man out on the main road in front of his house observing these objects as well and pointing. A truck on a side street nearby pulled over. We pulled over farther down the road to observe. The objects were about the size of a green pea held at arms length. No sound evident at all. We watched these 3 objects for about 10 minutes when 2 seemed to "blink out" and disapppear. We started our truck and headed for home and the 3rd object passed directly over us at a very low rate of speed, N. Easterly heading, no sound, bright white oval shape but upon close observation, could see band of red/green lights around center of object. A second object appeared and seemed to be a companion but was higher in altitude and appeared to be a triangle shape with white, blue, and green lights. The oval object may have been around 3,000 feet in altitude...hard to discern at night. No sound from either objects. ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21951.html](http://www.nuforc.org/webreports/reports/021/S21951.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Clear Lake (IA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>It started off looking like a shooting star, but it went more green and turned into a disk shape and zipped off into the distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153454.html](http://www.nuforc.org/webreports/reports/153/S153454.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
