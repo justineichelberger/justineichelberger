@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:27 on 20 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:38 on 20 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Kissimmee (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>It was about 10:30am and I was at my job. I work at the Radisson Resort Parkway in Kissimmee, FL. I was on the 8th floor of the hotel and was looking out threw a glass window from a hotel room. I noticed a fast moving spheric metalic object that was streeking threw the ski. It was moving quickly at first, and then slowed down. It was pretty big and couldn't distinghuish it from any other aircraft I've seen before. It was not a balloon, it did not fly erraticly like balloons do. It flew in a vetical, controled speed, and at the same altitude. It never floated higher as balloons do. Weird!!! How the hell does one make a round metal ball fly?!?!?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42030.html](http://www.nuforc.org/webreports/reports/042/S42030.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Pickney (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>fiery orange orbapprox.8:20p.m. i was in bedroom watching tv while my wife was in bathroom when she said "quick come here what is this?" when i got there my wife said she thought what she first saw was an airplane that was on fire, it was in the eastern sky travelling west when i looked out the window the object was now stationary, the best way i could describe it as being orbital in shape and emitting a fiery orange color about it, the color was unlike any other color that i have witnessed in the sky before very intense, hard to judge altitude but i would approximate 1-2000 ft. we opened the window and there was no sound, i decided to get my binoculars i did so but was unable to get a good view thru the window i then decided to go outside for a better view (we live in a rural area where there are no street lights very dark) however by the time i went outside to my disappointment object was gone, went back into house where my wife stayed she said when i left object grew dim! mer and dimmer and then was gone. surreal</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74459.html](http://www.nuforc.org/webreports/reports/074/S74459.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
