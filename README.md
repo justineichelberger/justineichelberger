@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:23 on 19 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:37 on 20 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Moncks Corner (SC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Bright red-orange sphere seen by homeowner from back yard.While watching our new puppy in my back yard (facing south) a distant flicker of light caught my eye.  It was bright red to orange in color, appeared to be spherical in shape or emitting an intense light for its altitude.  The object moved much quicker than any other aircraft at high altitude that I have personally seen, a supersonic pace. I tracked the object in a west/southwest to east/northeast movement losing the object behind cloud cover.  It appeared to have been above 25,000 ft, with an international airport/AFB 25 miles away I get to see a lot of air traffic at night.  I haven't seen anything like this before, I've seen meteors, many different types of fighter/bomber/cargo aircraft (USAF retired), missile tests at White Sands, civilian aircraft to include helicopters.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107305.html](http://www.nuforc.org/webreports/reports/107/S107305.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Queretaro (Mexico) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Very smooth, arched flight path.We saw a red orb that was flashing cross the skies of Queretaro.  We watched as it appeared in the southwest portion of the city and crossed to the North East.  This was a brilliant red light that pulsated (more of a vibration) as it moved in an arch, unlike planes or helicopters.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107630.html](http://www.nuforc.org/webreports/reports/107/S107630.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
