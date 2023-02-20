@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:31 on 20 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:40 on 20 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Bethel (ME) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I saw this sighting tonight as I looked up at the moon. It was is in the northeastern sky. Left and lower than the moon. I noticed that it was not moving and did not look like a plane. I got out my binoculars for a better look. I was fascinated, so, I had my former husband look at this and his daughter. They saw it more clearly than I did.  At his first glance he said that, it looked like a satellite. I asked him to take a closer look with the binoculars. All of us looked at it through them. Out consensus was that it looked most like a saucer. They also thought that it look's like Saturn with the ring around it. All I could see was an extra light. I just checked the sky it is still there. I will probably watch it for a long time tonight if it stay's. It still has not moved. I tried to make a call to you, however, there is no toll free number for you. We have thought of calling the police. I don't quite know what to do to insure that other's see this right now that have not yet. Therefore, I may risk being thought of as a nut and call the local police anyway. It seems a small thing to have happen if other's may witness this. I have always wanted to see one. I hope that this is the real thing. I also hope that somehow I will discover if other's have seen it as well.I have just called two friends to go and look at it too. It was suggested to me that I call our local new'. I'll be calling chanel 8. Good luck with this.Thank you for your time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61737.html](http://www.nuforc.org/webreports/reports/061/S61737.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Voorhees (NJ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright objects hovering over Flyers Skaye Zone in Voorhees.Bright Orange sphere shape object Hovering slowly down behind the Voorhees Flyers Skate Zone. Looked like the Phoenix lights but more solemly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55377.html](http://www.nuforc.org/webreports/reports/055/S55377.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
