@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:23 on 20 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:30 on 20 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Randsburg (CA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Unknown object flying at unusual patternIt was Saturday, Feb 20, 2010 about 12 noon when my friend and I were out mining in the area of Randsburg, California.  I was driving down the road and I looked to my left and saw what I thought at first was a helicopter.  It was silver and blue and it was traveling along the bottom of the mountain right to left.  My friend and I both thought it was working around a mineshaft.  We pulled over because something didn’t look right.  At closer inspection it looked like three blocks one silver on top, and two blue on the bottom and about the size of a car.  I definitely no longer thought it was a helicopter.  The wind was blowing about 30 mph from our left to right.  We got the camera and took some pictures of the object.  The object then made a right turn and went diagonal up the mountain from left to right and when it got to the top of the mountain it went straight up and disappeared . It was hard to believe we saw something do what it did.  We talked about thi! s on our way home and we remembered that we saw a fighter jet the day before flying around, although we don't know if that is significant or not.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74488.html](http://www.nuforc.org/webreports/reports/074/S74488.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Hiwassee () reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Fast white hazy object larger than jet incredibly fast and noiseless and higher than 30K ftHazy sky.  Outside listening to radio.  Heard passenger jet from North following N/S jet lane at about 30K ft.  Turned around to watch it.  An oblong-shaped faint white object from East, heading westbound, crosses in front of passenger jet path.  Not a bird.  Not shining. At first I thought it crossed at altitude lower than jet.  But it passed through layers of haze at altitude above jet.  Not an altitude optical illusion as would be due to blending by an averaging reflection, rather by occultation from haze.  Object was never well-defined body as well as was the jet body. It "gently" changed course to SW path.  I estimate its speed at about Mach 2 to Mach 5.  Incredibly fast.  No contrail.  No shock front.  No sound other than passenger jet sound.  Silent object.  Larger than jet body.  Do not know what jet vendor was, but was like an MD-80 in general shape, two engines, leaving persistant contrail.  I cannot assign the object to anything I know of.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132732.html](http://www.nuforc.org/webreports/reports/132/S132732.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
