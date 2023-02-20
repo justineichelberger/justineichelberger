@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:40 on 20 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:22 on 20 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Voorhees (NJ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright objects hovering over Flyers Skaye Zone in Voorhees.Bright Orange sphere shape object Hovering slowly down behind the Voorhees Flyers Skate Zone. Looked like the Phoenix lights but more solemly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55377.html](http://www.nuforc.org/webreports/reports/055/S55377.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Attica (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 lights flying with a Jet coming after themUnder the cloud cover, I saw three (3) lights that at first looked like landing light on an airplane. after a minute the lights started to move apart and back together againwith no sound what so ever. after a minute of this, a fast jet....afterburner trail was noticibly, came in and all three lights mover in different ways and the jet looked lost goin after one....scariest thing i have ever seen....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49225.html](http://www.nuforc.org/webreports/reports/049/S49225.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
