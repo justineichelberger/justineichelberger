@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 20 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:03 on 20 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Queretaro (Mexico) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Very smooth, arched flight path.We saw a red orb that was flashing cross the skies of Queretaro.  We watched as it appeared in the southwest portion of the city and crossed to the North East.  This was a brilliant red light that pulsated (more of a vibration) as it moved in an arch, unlike planes or helicopters.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107630.html](http://www.nuforc.org/webreports/reports/107/S107630.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Riverbank (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Bright white lights that travel very smoothly across the skies and disappear slowlyThis is not a joke or a hoax...at night time you will see average of several lights in the sky that do not move like planes… You will see satellites but these lights sometimes make sharp turns and slowly disappear… I saw 3 travelling together in a triangular formation and one at a time disappeared and several minutes later saw a forth one that was very bright and as it continued travelling across the sky it disappeared right above us... they travel very high but you can tell that they are not satellites....I have had many of our friends witnessed these things...Just come to My Location and you will see them...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107293.html](http://www.nuforc.org/webreports/reports/107/S107293.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
