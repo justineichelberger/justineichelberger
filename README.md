@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:38 on 20 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:36 on 20 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Pickney (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>fiery orange orbapprox.8:20p.m. i was in bedroom watching tv while my wife was in bathroom when she said "quick come here what is this?" when i got there my wife said she thought what she first saw was an airplane that was on fire, it was in the eastern sky travelling west when i looked out the window the object was now stationary, the best way i could describe it as being orbital in shape and emitting a fiery orange color about it, the color was unlike any other color that i have witnessed in the sky before very intense, hard to judge altitude but i would approximate 1-2000 ft. we opened the window and there was no sound, i decided to get my binoculars i did so but was unable to get a good view thru the window i then decided to go outside for a better view (we live in a rural area where there are no street lights very dark) however by the time i went outside to my disappointment object was gone, went back into house where my wife stayed she said when i left object grew dim! mer and dimmer and then was gone. surreal</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74459.html](http://www.nuforc.org/webreports/reports/074/S74459.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Sharon (NH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>saw a big round lighted object with bright colors and no sound 500ft away   and 400ft off the ground it looked like a ferriswheelhi, i was sitting on my couch in my house and i look to my left out the window and i saw about 500ft away a  big  object with bright  lights colors were orange white silver ,it was over my trees about 400ft? off the ground , no sound and it moved slowly i only saw this object for about   3 seconds . it took a minute for me   to realize what had happened.   all the lights  on this big object  did not have a reflection, no lighting up the whole area , i did not see the object approach which was strange  becuz i have skylites windows and lots of big windows in my living room and i did not  see the object pass through   which i should have seen.  it was not that far up. i have dogs and my dogs did not bark. i still cannot believe what i saw. i am kinda beside myself about this. this happened a couple of days ago and i was not sure what to do..my camera was  was at hands reach  and i could  grab  it  I froze in that moment.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61807.html](http://www.nuforc.org/webreports/reports/061/S61807.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
