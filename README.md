@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:22 on 20 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:23 on 20 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Attica (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 lights flying with a Jet coming after themUnder the cloud cover, I saw three (3) lights that at first looked like landing light on an airplane. after a minute the lights started to move apart and back together againwith no sound what so ever. after a minute of this, a fast jet....afterburner trail was noticibly, came in and all three lights mover in different ways and the jet looked lost goin after one....scariest thing i have ever seen....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49225.html](http://www.nuforc.org/webreports/reports/049/S49225.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Randsburg (CA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Unknown object flying at unusual patternIt was Saturday, Feb 20, 2010 about 12 noon when my friend and I were out mining in the area of Randsburg, California.  I was driving down the road and I looked to my left and saw what I thought at first was a helicopter.  It was silver and blue and it was traveling along the bottom of the mountain right to left.  My friend and I both thought it was working around a mineshaft.  We pulled over because something didn’t look right.  At closer inspection it looked like three blocks one silver on top, and two blue on the bottom and about the size of a car.  I definitely no longer thought it was a helicopter.  The wind was blowing about 30 mph from our left to right.  We got the camera and took some pictures of the object.  The object then made a right turn and went diagonal up the mountain from left to right and when it got to the top of the mountain it went straight up and disappeared . It was hard to believe we saw something do what it did.  We talked about thi! s on our way home and we remembered that we saw a fighter jet the day before flying around, although we don't know if that is significant or not.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74488.html](http://www.nuforc.org/webreports/reports/074/S74488.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
