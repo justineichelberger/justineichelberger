@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:36 on 20 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:35 on 20 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Sharon (NH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>saw a big round lighted object with bright colors and no sound 500ft away   and 400ft off the ground it looked like a ferriswheelhi, i was sitting on my couch in my house and i look to my left out the window and i saw about 500ft away a  big  object with bright  lights colors were orange white silver ,it was over my trees about 400ft? off the ground , no sound and it moved slowly i only saw this object for about   3 seconds . it took a minute for me   to realize what had happened.   all the lights  on this big object  did not have a reflection, no lighting up the whole area , i did not see the object approach which was strange  becuz i have skylites windows and lots of big windows in my living room and i did not  see the object pass through   which i should have seen.  it was not that far up. i have dogs and my dogs did not bark. i still cannot believe what i saw. i am kinda beside myself about this. this happened a couple of days ago and i was not sure what to do..my camera was  was at hands reach  and i could  grab  it  I froze in that moment.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61807.html](http://www.nuforc.org/webreports/reports/061/S61807.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright light accelerates over Brooklyn New York.On the morning of February 20th, 2009 approximately 5:10am as I walked east on Seeley street in Brooklyn, New York  I look up towards the east and noticed Venus in the sky.Just below Venus and to the left  I noticed another bright light which I thought was a star. As I walked I looked at it and noticed it was moving east away from me at a hight rate of speed. I stopped to  get a perspective of the object moving and it was moving fast. What caught my eye was that it was bright and seemed to be at a high altitude and it did not have any distinctive lights as aircraft would. Their were no navigation lights, or anti-collision light, it was just a bright white ball of light.I just watched it accelerate away, it took no longer then 2 minutes for it to disappear from my sight.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68880.html](http://www.nuforc.org/webreports/reports/068/S68880.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
