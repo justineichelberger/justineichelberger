@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:26:25 on 20 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:05:46 on 20 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Bowling Green (KY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately minutes - minutes minutes.</sub><blockquote><sub>i seen a space craft that was hovering an then it faded away  it didn't hide behind anythin.i was driving on natcher parkway an looked over to the left in front of country oven bakery an seen weird lights hovering over university estates subdivision it was diamond shaped but more rounded it was covered in lights as i drove down the interstate the lights went up then a little downward then it just faded away not flew or lifted off just faded i called several people but people thought i was joking i was on a cell phone.didn't have a  number to call anyone. seen this on the net so i filled it out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35375.html](http://www.nuforc.org/webreports/reports/035/S35375.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Cambridge (Canada) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 crafts in a line not to far apart from one another flying in same direction.  Than 1 craft flew the same.  Last another 2 flew together. All in the same direction.  All crafts had a white light not blinking/flashing and no noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153455.html](http://www.nuforc.org/webreports/reports/153/S153455.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
