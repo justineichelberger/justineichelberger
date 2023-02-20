@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:24 on 20 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:27 on 20 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Clear Lake (IA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>It started off looking like a shooting star, but it went more green and turned into a disk shape and zipped off into the distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153454.html](http://www.nuforc.org/webreports/reports/153/S153454.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Kissimmee (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>It was about 10:30am and I was at my job. I work at the Radisson Resort Parkway in Kissimmee, FL. I was on the 8th floor of the hotel and was looking out threw a glass window from a hotel room. I noticed a fast moving spheric metalic object that was streeking threw the ski. It was moving quickly at first, and then slowed down. It was pretty big and couldn't distinghuish it from any other aircraft I've seen before. It was not a balloon, it did not fly erraticly like balloons do. It flew in a vetical, controled speed, and at the same altitude. It never floated higher as balloons do. Weird!!! How the hell does one make a round metal ball fly?!?!?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42030.html](http://www.nuforc.org/webreports/reports/042/S42030.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
