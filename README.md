@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:32 on 20 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:25 on 20 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in Pismo Beach (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>An enormous triangle hovered over me for at least seven minutes.My husband and I rented a beach house at Pismo Beach back in February of 79. We arrived there at approx. 2 am. My husband had already taken some of our baggage up the twenty or so steps to the house and was unlocking the front door. I was unloading the few remaining items from the truck. My little dog jumped out of the truck and ran to some nearby garbage cans, I assumed she saw a cat. I just happened to look up to admire the clear, starry night sky. Almost directly above me was a huge, dark triangular shape. It had three lights, one in each corner. I was terrified. I shouted to my husband " what is that?" he said "a helicopter". It was no helicopter, this thing made absolutely no sound whatsoever and the sheer size of it blotted out the star filled sky above me. I called my dog a few times until she finally came back to me and I grabbed her up. The object will still hanging above me, motionless and without a sound. I ran up the steps to the house and as I reached the porch, the triangle darted off toward in a northeasterly direction. I have no way of knowing just how high it was in the sky but it seemed to me that it must have been quite low due to the enormous span.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64794.html](http://www.nuforc.org/webreports/reports/064/S64794.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Changing' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>2 smaller ufo starlike, then huge one floating circling fastMe and boyfriend was driving to go play poker.  After crossing the bridge in the truck, it appeared at first like a street light, with an orange glow, hovering over the bypass.. all of a sudden it moved and (immediately grabbing phone)  what I caught on my cell phone camcorder was insane.  I only saw one with my eyes but rewatching the video, a small orange star like ufo appeared slightly below the biggerother one and followed it.  We pulled into our destination and I was telling my boyfriend,  where there is one, there is more.  We got out of the truck and Omg, there was a huge one- tree level high disk like circling with some blue lights. Extremely fast. Lights off a few seconds later and looked like glass sliding by.  This has now changed my life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87286.html](http://www.nuforc.org/webreports/reports/087/S87286.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
