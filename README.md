@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:25 on 20 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:31 on 20 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Changing' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>2 smaller ufo starlike, then huge one floating circling fastMe and boyfriend was driving to go play poker.  After crossing the bridge in the truck, it appeared at first like a street light, with an orange glow, hovering over the bypass.. all of a sudden it moved and (immediately grabbing phone)  what I caught on my cell phone camcorder was insane.  I only saw one with my eyes but rewatching the video, a small orange star like ufo appeared slightly below the biggerother one and followed it.  We pulled into our destination and I was telling my boyfriend,  where there is one, there is more.  We got out of the truck and Omg, there was a huge one- tree level high disk like circling with some blue lights. Extremely fast. Lights off a few seconds later and looked like glass sliding by.  This has now changed my life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87286.html](http://www.nuforc.org/webreports/reports/087/S87286.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in New Orleans (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30m - 30m minutes.</sub><blockquote><sub>Really weird to see an object flow across the sky slowly but then take off from one end of the sky to the other in secondsI was standing outside gazing into space and all of a sudden I see this star that gets really bright.  First, it floated across the sky real slow.  Second it just took off in a zig zag motion travling at the speed of light and then it floated slowly again this went on for about thirty minutes and then it disappeard!  I always tell people about it but they never believe so I just wonder about it to my self all the time.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  Possible hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56393.html](http://www.nuforc.org/webreports/reports/056/S56393.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
