@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:45 on 20 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:23 on 20 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Islamorado (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>it appeared to be florecent light green with changable patterns just hovering without a soundwhile fishing saw an object comming out of the water.  didn't pay to much attenction until it approched both of us.  it lit up then it beamed at the water and hoverd over the water top. we couldn't move and felt chills all over.  one light hit my friend and then it hit me. loss of energy and thurst was the feeling and cold. then it took off up to the sky no sound and with no lights. we took off without a word left all our gear back there near the rock at the edge of the water.  we didn't say a thing to anyone because it sounds crazy. but as a non believer it all changed that night. the our watches stoped during the time of incident and noticed one hour that i can't explain.  since that time noticed during my day life time missing.  because my family tells me where i have been for the past 24 hours with answers to tell them.  everyday i write down what day its and time and where i go.  but something in my life does not make any seanse.  i went to a doctor and told her that i had bad headachs, sweeting at night when it is cool, and other stuff. She stated it was stress from work and gave me some pills for problem.  i haven't seen my friend in weeks......................................((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43066.html](http://www.nuforc.org/webreports/reports/043/S43066.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Hiwassee () reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Fast white hazy object larger than jet incredibly fast and noiseless and higher than 30K ftHazy sky.  Outside listening to radio.  Heard passenger jet from North following N/S jet lane at about 30K ft.  Turned around to watch it.  An oblong-shaped faint white object from East, heading westbound, crosses in front of passenger jet path.  Not a bird.  Not shining. At first I thought it crossed at altitude lower than jet.  But it passed through layers of haze at altitude above jet.  Not an altitude optical illusion as would be due to blending by an averaging reflection, rather by occultation from haze.  Object was never well-defined body as well as was the jet body. It "gently" changed course to SW path.  I estimate its speed at about Mach 2 to Mach 5.  Incredibly fast.  No contrail.  No shock front.  No sound other than passenger jet sound.  Silent object.  Larger than jet body.  Do not know what jet vendor was, but was like an MD-80 in general shape, two engines, leaving persistant contrail.  I cannot assign the object to anything I know of.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132732.html](http://www.nuforc.org/webreports/reports/132/S132732.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
