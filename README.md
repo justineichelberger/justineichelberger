@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:33 on 21 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:33 on 21 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Stanardsville (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>The whitest light poured into our home, followed by a large ship.I was sitting in the dining room organizing some paper work when I noticed the wall adjacent to me suddenly go from dim to very bright.  I looked out the window and could hardly see because of such a bright light.  The WHITEST BRIGHTEST light I have ever seen.  We live in a wooded area, so a vehicle is out of the question.  As soon as the light faded I looked up to see a, clear as day, triangular shaped aircraft.  There were other lights, but not nearly as bright as this one, and the light that I witnessed had a radius of my whole yard.  All of the lights were the purest white imaginable.The witnesses included, myself, my husband, my two children, and my two dogs who went completely insane even before I saw this.  None of us were believers, and we are all very devout christians but this.. was too much to not believe.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74445.html](http://www.nuforc.org/webreports/reports/074/S74445.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Mojave (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>White lights unevenly spaced travelling from west to east.At 0522 hrs at approximately 80 degrees elevation I observed around three dozen lights travelling from west to east towards Edwards AFB.  The lights were white in color and spaced different distances apart.  All were moving in a straight line.Some appeared to be singular and some appeared to be almost double.  The speed was not very fast but appeared to be gliding across the sky.  They appeared at an observable distance and faded from view when they were too far away to be seen.  Their magnitude were about equal to the normal stars in view at the time.  No sound was observed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162145.html](http://www.nuforc.org/webreports/reports/162/S162145.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/162/S162176.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162170.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162302.html)
-- [245](http://www.nuforc.org/webreports/reports/162/S162234.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162390.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
