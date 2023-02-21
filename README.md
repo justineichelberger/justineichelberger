@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:26:40 on 21 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:05:39 on 21 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Bloomington (MN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>My wife and I woke up to a loud noise flying directly over our house at 2:00 AM.  It was a low humming sound accompanied by a repetitive rapping/banging sound.  For lack of a better comparison, it sounded like a Harley-Davidson flying over our house at about 50 miles per hour, and it was much different than the sound of a helicopter as there was a sort of deep, clunking sound at the rate of 5-10 per second.  As the first object passed there was another one that followed a few seconds later, as if one UFO was following closely behind the other.  We had gotten 13 inches of snow that night so vehicles were non-existent.  I woke up immediately thinking UFO as the sounds were so foreign to me and they were traveling over our house in a path perpendicular to the road.  My wife thought it was a snow plow at the time, but woke up realizing the plows hadn't gone through at all yet, and didn't until 7:30 AM.  I'm convinced this was a UFO and am curious to learn if anybody el! se heard anything that night, or better yet saw something.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80158.html](http://www.nuforc.org/webreports/reports/080/S80158.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Raytown (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Circular shaped craft appeared to be following  conventional aircraft.On 2/21/2011 at approximately 18:52 hrs I was walking out my front door and glanced over at my neighbor who was backing out of the her garage.  I then began to walk toward my vehicle which was parked in my driveway.  I glanced up and notice an air craft flying in a southerly direction at what appeared to be approximately 10 to 12 thousand feet.  As I was watching it fly away I also noticed that there was another craft which was brightly illuminated flying much lower and at a much slower rate of speed.  I then walked away from vehicle to get a better view of the craft.  I don't know why but as I tried to make a better observation, I noticed that the craft began to turn it's lights down lower and lower until there was no lights at all, but the craft could still be seen until it dissappeared in the distance.  I could tell that the air craft ahead of this craft was a plane of some sort, but the craft flying much lower appeared to be circular or round and brightly lit.  I don't know why but I somehow had the feeling that the craft knew that it was being observed and turned it lights off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80166.html](http://www.nuforc.org/webreports/reports/080/S80166.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/162/S162176.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162170.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162302.html)
-- [245](http://www.nuforc.org/webreports/reports/162/S162234.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162390.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
