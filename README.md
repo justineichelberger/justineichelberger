@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:33 on 21 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:28 on 21 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Somerset (PA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Rectangular lighted object spotted hovering in Pennsylvania.I was driving home from a friends home, and i saw bright blue lights in the sky. I pulled over because i knew it was not an airplane.  I looked up at it and it was going fairly fast, sideways.  It had a rectangular shape with about 4 or 5 rows of small rectangular lights. The lights were blinking vey fast.  The road I was on was coming down from a ski resort and there were not many homes around, just a few farms , and lots of fields. When I stopped to look at this object, it was hovered about a mile from the ground, and then it took off sideways again.  I could not tell where it went because it went so fast.I have had dreams about ufos but this was the first time I ever saw any.  I am sure of what i saw, my heart has never raced like that before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55408.html](http://www.nuforc.org/webreports/reports/055/S55408.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Nampa (ID) reported seeing craft that fit the description of some 'Disk' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Disk/Saucer in Nampa, Idaho.We were observing our back yard as we had seen a hovering orb for around a half hour sitting there.  We then made the choice to try to trace it's where about and drove, then gathering multiple photographs that were very incriminating and show the clear body of the craft as well as a sort of beam coming out of the bottom.The object also seemed to have hovered above a house for a brief period of time however we did not see if an abduction happened as we were a bit away and without the phone, it looked like a very bright orb.  A few times it would move extremely fast and then seem to vanish.  Only to show up again 10 minutes later.  The photos captured were very clear when zoomed in and show the craft almost completely clearly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132773.html](http://www.nuforc.org/webreports/reports/132/S132773.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/162/S162176.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162170.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162302.html)
-- [245](http://www.nuforc.org/webreports/reports/162/S162234.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162390.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
