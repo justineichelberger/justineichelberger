@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:27 on 20 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:31 on 21 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Spokane () reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I walk my dog early in the morning inside four stars lined up facing north east of a brighter star, probably a planet. I thought that strange and was thinking what formation is that? Then I stopped walking and realized they were moving, all at the same rate, perfectly aligned in the same direction. One would fade out and another would appear. It went on for at least three minutes and then they were gone. SO weird!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153434.html](http://www.nuforc.org/webreports/reports/153/S153434.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ashaway (RI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Four or five chevron type craft flying at night.While heading South bound on Rt. 95 at the Rhode Island and Connecticut line I noticed two low flying objects.  It was foggy with a light rain and all I could see was three lights in a triangular formation.  At first I thought maybe these were two C 130 Hercules from the Quonset Air Guard.  Then I realized how close they were to each other, I then noticed as I was driving now into Connecticut two or three other crafts making a staggered formation with the first two craft.   I opened my window to try and hear engines and heard non.  However, I was on a highway with typical road noise.  I could not make out any standard aircraft form, from what I could see they were a chevron or triangle shape.  There were lights at all three points, if I recall there was a red strobe at the front point, a green light on the left point, and a white light on the right point.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87295.html](http://www.nuforc.org/webreports/reports/087/S87295.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
