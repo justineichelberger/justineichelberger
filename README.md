@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:22 on 21 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:40 on 21 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Rochester (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Triangle UFO seen above Rochester, NY.On February 21st, 2018, at around 8:30pm-ish, my two friends and I witnessed a triangular shaped UFO near St. John Fisher College.  The object was a large black triangle, with a bright light on each end of the object.  The object also had grey lines on the bottom, which were visible as a result to the light.  My friend pointed it out to us and thought it was a drone.  The more we looked at the object, we realized that it was not a drone, it had to be something else.  We were only able to look at the object for about 15 secs because it vanished out of no where.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139407.html](http://www.nuforc.org/webreports/reports/139/S139407.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Council Bluffs (IA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 133</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153814.html](http://www.nuforc.org/webreports/reports/153/S153814.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/162/S162176.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162170.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162302.html)
-- [245](http://www.nuforc.org/webreports/reports/162/S162234.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162390.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
