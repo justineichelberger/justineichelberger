@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:40 on 21 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:19 on 21 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Council Bluffs (IA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 133</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153814.html](http://www.nuforc.org/webreports/reports/153/S153814.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Fort Worth (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>We were standing at the back door smoking a cigarette when I looked up to the right in the sky there  was a  one spinning disk  I only saw what seemed to be the bottom and it was a dark black/brown color with a noticeable orange glow around the craft.  It was moving at a high rate of speed its direction of travel was east to west it seemed to move effortlessly. But its movements were very jerky. There was an eerie humming noise it was a very low tone.It hovered in one spot for a few seconds then jerked diagonally up ward to the right and stopped and hovered for a couple seconds, spinning the entire time.  Then it jerked diagonally down to the right were it stopped and hovered. Then it dropped just a little in its altitude before accelerating at an amazing speed and disappearing almost immediately after this acceleration began, not even a second after it was gone. Even though it was dark outside you could see where the disk disturbed the air it was just in and you could see the path it traveled for about 10 seconds after the craft was totally gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62356.html](http://www.nuforc.org/webreports/reports/062/S62356.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/162/S162176.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162170.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162302.html)
-- [245](http://www.nuforc.org/webreports/reports/162/S162234.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162390.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
