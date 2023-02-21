@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:25 on 21 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:26 on 21 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in South Kingstown (RI) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange looking 'plane' flies low from ocean northwardWhile driving home from the beach area on the south coast of RI, clear, sunny, blue skies, I saw what at first looked like a C130, which is often seen flying the area days and evenings from the Air National Guard Base at Quonset Pt., North Kingstown, RI.  I noticed something very different about this one. It appeared that a tube or cylinder was just underneath the fuselage.  Both were grey in color. 'Plane' was about 5k feet in the air,  flying due north from the ocean in the south and was about 2 miles from me. I took off my sunglasses to take another look and it looked the same. Some kind of cylinder was either attached or flying just under the plane. The plane flew  somewhat faster than the C130s usually do at low altitude. I watched it closely until it was out of sight .No noise was heard, no lights seen. It  was cold out and my windows were up. I've seen the C130s many times but this looked different...almost like a double image. This area is the same place I witnessed two huge UFOs low in the sky one night last July.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153496.html](http://www.nuforc.org/webreports/reports/153/S153496.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Black object seen floating in the air in MiamiI was outside smoking a cigarette and noticed to the west of my location a black object floating in the air.  It had no visible navigational lights and was black in color.  Saw it for approximately 10 minutes before I lost sight of it due to the sun going down.  It appeared to just float in one spot floating sightly up or down.  I used some power lines in the area to gauge it's movement.  The wind was blowing east and the object appeared to be moving west or not at all.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80165.html](http://www.nuforc.org/webreports/reports/080/S80165.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/162/S162176.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162170.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162302.html)
-- [245](http://www.nuforc.org/webreports/reports/162/S162234.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162390.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
