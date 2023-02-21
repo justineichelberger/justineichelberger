@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:31 on 21 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:26 on 21 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Long lake (MN) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Stationary Chevron Shaped White LightsThursday February 21, 2013 Long Lake, Minnesota, approximate time 7pm driving West on the hwy 12 bypass.  I noticed that there seemed to be a lot of airplane traffic on my way home from Bloomington, and some very bright stars looking to the west from Interstate 494 north but it was when I was approaching the highway 12 bypass, while still on Interstate 394, that I noticed an either extremely large or very low flying set of lights in the sky coming from the west.   As other planes were also visible in the sky (they did not appear to be 'chasing' the object) I really didn’t take much notice of it until I registered just how big it was and then realized it didn’t appear to be moving.  I realize that depending on location of the objects and positioning of the viewer, some moving objects can appear stationary.  This did not appear to be the case, and I could see all the other airplanes in the area moving in the direction of the airport.  The object was on the north side of the road and above the trees.  When 394W ends the highway splits, one way takes traffic highway 12 through Long Lake, and the other is the bypass.  The object was centered between the 2 highways.  Had it been a normal road I would have pulled off to the shoulder, but that stretch of road is not safe to do so, but I could see it through the windshield by leaning forward and peering up at it.  There were noticeably more lights on the front of the object than would be on an airplane, all along what would be the wings if it were an  airplane; none were blinking and all were white; there were no red or green lights.  In hindsight, I wish I had circled back through Long Lake because I really believe it would have still been in the same spot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96408.html](http://www.nuforc.org/webreports/reports/096/S96408.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bothell (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright orange lit object with a red halo slowly flew over Bothell, WA.I was walking outside late tonight and I noticed bright orange light with a red halo slowly moving across the sky fling easterly. as I watched the object, the orange and red lights did not blink and I could not see other colors I would expect to see on an airplane or helicopter.  I heard no sound as I would expect from a larger plane. After a couple of minutes, the lights slowly dimmed and disappeared; However, I could see a dark silhouette of an object in the sky...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87300.html](http://www.nuforc.org/webreports/reports/087/S87300.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/162/S162176.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162170.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162302.html)
-- [245](http://www.nuforc.org/webreports/reports/162/S162234.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162390.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
