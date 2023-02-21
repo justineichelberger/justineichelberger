@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:19 on 21 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:30 on 21 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Fort Worth (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>We were standing at the back door smoking a cigarette when I looked up to the right in the sky there  was a  one spinning disk  I only saw what seemed to be the bottom and it was a dark black/brown color with a noticeable orange glow around the craft.  It was moving at a high rate of speed its direction of travel was east to west it seemed to move effortlessly. But its movements were very jerky. There was an eerie humming noise it was a very low tone.It hovered in one spot for a few seconds then jerked diagonally up ward to the right and stopped and hovered for a couple seconds, spinning the entire time.  Then it jerked diagonally down to the right were it stopped and hovered. Then it dropped just a little in its altitude before accelerating at an amazing speed and disappearing almost immediately after this acceleration began, not even a second after it was gone. Even though it was dark outside you could see where the disk disturbed the air it was just in and you could see the path it traveled for about 10 seconds after the craft was totally gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62356.html](http://www.nuforc.org/webreports/reports/062/S62356.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Rothbury (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Early morning skies were cear and stars bright and so was what i thought was Mars..can someone tell me what i saw.The puppy woke me up by licking my face wanting to go potty...so i got all my winter apparel on an out we went.As my pup was doing her business i noticed the skies were clear and the stars were shining bright..i noticed what i thought was mars west of me towards lake mi.It was a small yellow round circle sitting next to a star..i thought it looked odd for some reason...my pup peed for a few moments and then i saw it move.I pulled on leash to stop pup from pulling me as i watched it head south possibly muskegon Mi.It wasnt moving fast however fast enough to go some distance and then it slowed right down almost to a stop but it turned and headed straight down...i couldnt see it anymore the trees were in my view...I just stood their dumb founded and as this was my first encounter with an unidentified flying object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153487.html](http://www.nuforc.org/webreports/reports/153/S153487.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/162/S162176.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162170.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162302.html)
-- [245](http://www.nuforc.org/webreports/reports/162/S162234.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162390.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
