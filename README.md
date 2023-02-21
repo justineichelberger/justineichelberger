@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:31 on 21 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:39 on 21 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ashaway (RI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Four or five chevron type craft flying at night.While heading South bound on Rt. 95 at the Rhode Island and Connecticut line I noticed two low flying objects.  It was foggy with a light rain and all I could see was three lights in a triangular formation.  At first I thought maybe these were two C 130 Hercules from the Quonset Air Guard.  Then I realized how close they were to each other, I then noticed as I was driving now into Connecticut two or three other crafts making a staggered formation with the first two craft.   I opened my window to try and hear engines and heard non.  However, I was on a highway with typical road noise.  I could not make out any standard aircraft form, from what I could see they were a chevron or triangle shape.  There were lights at all three points, if I recall there was a red strobe at the front point, a green light on the left point, and a white light on the right point.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87295.html](http://www.nuforc.org/webreports/reports/087/S87295.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Marana (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 360.0 - 360.0 minutes.</sub><blockquote><sub>Large, white lit object with 6 smaller red objects as well as 2 smaller white ones, stayed in same area 6 hours at least.My daughter and son went out to check the sky after hearing a report on FOX news of lights over Scottsdale, Az.  That is when they spotted a large round light in the northwest section of Tucson.  They called me and I drove 10 miles out into the desert to join them.  We had a wonderful view, as the area was dark and on a hill.The object was large, round and had a white light.  The light would very in color, from white to brilliant white.  It would also change from round to a horizontal oval shape.The appeared to be at least 6 objects that came from it.  These were smaller and reddish in color.  They would circle around and then go back to the main craft or light.  This happened several times.At least twice, a reddish light came from the object to the ground.  There were also two other white shears, but they appeared smaller.  At one point one of the smaller white one appeared to land and take off in a few minutes.  This continued for at least 6 hours.At one point a white light came from the object towards us.  At that point my daughter panicked and ran to the house.  At times there were light that went from the smaller red objects back to the large white one. On the bottom of the large object, there also appeared to be red, blue and green light.I have no doubt that I saw the same object; to the southeast of the same location I was at, about two weeks ago.  It also stayed in the same spot for hours.  There was one other incident of one of the smaller red light much closer to the house, but my daughter is too afraid to talk to anyone about that.The objects could not be seen from the area of Marana I live in, which is right across the street from the City Hall, but could be easily seen from out in the desert slightly northeast of here.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68902.html](http://www.nuforc.org/webreports/reports/068/S68902.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/162/S162176.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162170.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162302.html)
-- [245](http://www.nuforc.org/webreports/reports/162/S162234.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162390.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
