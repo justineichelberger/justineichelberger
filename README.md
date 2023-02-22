@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:35 on 22 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:28 on 22 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Grenville (SC) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange lights in the Grenville sky.http://www.youtube.com/watch?v=fVQRFK7-3VU</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107381.html](http://www.nuforc.org/webreports/reports/107/S107381.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Kettle Falls (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>On 2/22/05 my brother witnessed two objects in the NW sky, with meteor characteristics but unusually large.My brother -- who is a trained and practicing archaeologist (i.e., trained in observation and not given to hallucinations), told me on Tuesday evening that he witnessed two different phenomena  sometime soon after nightfall, he saw in the NW sky a blue fireball for about 2 seconds, with a "smallish tail," passing from N to NW and "flaming out" as it "met" the treelined horizon  then, about one-half hour later, he heard a "jet-like" whoosh that was ongoing for at least 2 minutes, and a minute later, as he was looking for the "jet," he saw again in the NW sky, moving from E to NE, on a flat trajectory, perhaps at 30 degrees, an orange fireball w a "blackish tail"  he saw this for about one second, when it split into two pieces, w the larger piece being above a smaller piece, and then quickly "flamed out" (or whatever)  the "jet-like whoosh" noise remained, however, for about 30 more seconds  i heard my brother yell "WOW!!" on the porch when this happened -- he said whatever he saw were "lots bigger" than the usual meteors he has witnessed   the next day, at his work site, a coworker who was driving back to the Kettle Falls area from Spokane (thus, travelling N), corroborated that she also saw an orange object in the sky  feel free to contact me (Ray) if you have other questions, or would like to speak with my brother</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42426.html](http://www.nuforc.org/webreports/reports/042/S42426.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
