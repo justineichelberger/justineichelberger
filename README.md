@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:32 on 22 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:25:19 on 22 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Juneau (WI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Two round objectsand they flashed. They WERE CHASED by MILITARY PLANES!!!I watch them for about 10 seconds. One was orange and looked like a ball. The other one was blue and the same shape. They blinked several times and zoomed away fast. I also saw two military planes following it. It was outside on a farm.((NUFORC Note:  Student report.  Possible hoax?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55450.html](http://www.nuforc.org/webreports/reports/055/S55450.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in LaVerne (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>Started as a large orange sphere with some sparks coming from it . then broke into two. then four these stayed in formation then disentegrated randomly. puffs of smoke as it changed. some parts stayed red past horizon.This sounds like something burning up on re-entry (or entry) to me also.  but what was it ? it took a long time for it to go through this process. when it broke into four it took on a striking diamond shaped formation. were there any other reports? I am a 32 yr old Surgical Tech.  Thanx</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05671.html](http://www.nuforc.org/webreports/reports/005/S05671.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
