@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:43 on 22 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:32 on 22 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Tustin (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I had just gotten off of work here in Irvine, California in Orange County.  I was heading to my parents house who live in Tustin near the 5 freeway to pick up my son.  I arrived at the mobilehome park that they live in and parked my car in front of their house.  I stepped out of my car and came towards the back end to get some things out.  Please know that my parents live in the direct path of arriving airplanes that land at John Wayne Airport so we know what a plane sounds like and looks like day and night.  I saw that two planes were making their way to line up to land at the airport when heard this low rumbling noise of an aircraft that was high up in the sky.  I looked straight up above me and did not see anything at first and I finally made out an object that looked like a huge boomerang.  It was black and pretty much blended into the night sky.  The only way I could make out the shape was because on two ends it had these tiny red faded lights and the tip of it had a tiny white light.  I have great eyesight and they were hard to see.  The object was higher than the incoming planes so there was no chance of it crashing into them, but not much higher.  It was moving westerly towards the ocean almost towards the airport at what seemed about 40 to 50 mph.  It had to have shown up on radar at the aiport. There's no way anyone would have seen it on the road unless they were in it's path, outside and looking up at the night sky because it looked like part of sky. Also, Ive seen what the stealth bomber looks like and seen it fly (which is pretty fast) and this thing would make the stealth look like an ant, it was slower and it was a bit of a different shape. Ive heard of people describing objects the size of a football field and I would guess the same on this.  I believe in UFO's whether it being man made or from out there in space, but it was truly amazing.  Is there anybody out there that saw the same thing? It had to have crossed through parts of Irvine, Costa MEsa and if it went out to the ocean part of Newport Beach or Laguna.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49253.html](http://www.nuforc.org/webreports/reports/049/S49253.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Juneau (WI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Two round objectsand they flashed. They WERE CHASED by MILITARY PLANES!!!I watch them for about 10 seconds. One was orange and looked like a ball. The other one was blue and the same shape. They blinked several times and zoomed away fast. I also saw two military planes following it. It was outside on a farm.((NUFORC Note:  Student report.  Possible hoax?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55450.html](http://www.nuforc.org/webreports/reports/055/S55450.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
