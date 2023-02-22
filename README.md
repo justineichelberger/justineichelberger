@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:25:19 on 22 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:03:57 on 22 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in LaVerne (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>Started as a large orange sphere with some sparks coming from it . then broke into two. then four these stayed in formation then disentegrated randomly. puffs of smoke as it changed. some parts stayed red past horizon.This sounds like something burning up on re-entry (or entry) to me also.  but what was it ? it took a long time for it to go through this process. when it broke into four it took on a striking diamond shaped formation. were there any other reports? I am a 32 yr old Surgical Tech.  Thanx</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05671.html](http://www.nuforc.org/webreports/reports/005/S05671.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in College Station (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>i was driving down the highway and saw a blue orb that disappeared when i focused on it.I was going down 2818 (which is a highway by my house) and I looked up in the sky to see if any planes were going to land,because its by an airport.  I looked up and saw nothing,and kept driving.  I then looked up again and saw a blue circular light, first thinking it was a small airplane landing, then taking a second look.When i focused on the light with my eyes it sped away to fast for me to see where it was going.  The light seemed to just disappear into nothing. My eyes immediately began to water, i wasn't crying and my eyes weren't irritated;they just started watering.  I got goosebumps and called my mom. When she tried to call me back there was a call failed message,and then a weird sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68856.html](http://www.nuforc.org/webreports/reports/068/S68856.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
