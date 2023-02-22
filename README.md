@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:25 on 22 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:35 on 22 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Cody (WY) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Was outside smoking cigarette and looked up and saw a bright light moving east.  Too bright to be a plane and moved faster than a plane.  Appeared to be in the atmosphere.((NUFORC Note:  Overflight of ISS occurred at 19:05 p.m..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80181.html](http://www.nuforc.org/webreports/reports/080/S80181.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Dunnellon (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Regular night sky observer with no previous sightings until now.Direction of travel from NNW to SSE.  straight trajectory orange light similar in nature to the spectrum exhibited by sodium halide or sodium lamp.  Approx. elevation 10-12000 feet. No other marking lights characteristic of aircraft,forward, aft, port or starboard.  No discernable sound after passage. No deviation from flight path.  Much too low for satellite, yet not high enough for normal high altitude commercial flights.  Conditions: pristine. No fog, no clouds, no moon.  Excellent maximum visibility. Timeline: approximately 2 min. Visible to naked eye, yet viewed with both 10x50 Nikon niteowl binoculars and fixed celestron binoculars.  No disceernable definite shape to craft.no contrails at viewed altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80182.html](http://www.nuforc.org/webreports/reports/080/S80182.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
