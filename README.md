@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:03:57 on 22 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 22 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in College Station (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>i was driving down the highway and saw a blue orb that disappeared when i focused on it.I was going down 2818 (which is a highway by my house) and I looked up in the sky to see if any planes were going to land,because its by an airport.  I looked up and saw nothing,and kept driving.  I then looked up again and saw a blue circular light, first thinking it was a small airplane landing, then taking a second look.When i focused on the light with my eyes it sped away to fast for me to see where it was going.  The light seemed to just disappear into nothing. My eyes immediately began to water, i wasn't crying and my eyes weren't irritated;they just started watering.  I got goosebumps and called my mom. When she tried to call me back there was a call failed message,and then a weird sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68856.html](http://www.nuforc.org/webreports/reports/068/S68856.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Castro Valley (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>circular UFO( bell hat shape ) seen on hwy 580 castro valley, CA  8:10 pm in front of full moon.Last night was a full moon rising over castro valley east bay, CA, the sky was clear of clouds around the moon, driving up on hwy 580 , as you drive down the 580 from castro valley into livermoore valley was an incredible view.  As I was and other cars decending the fwy a (felt hat shaped) circular black silhouette of a craft was seen right in the middle of the moon, it was a beautiful view as it was very clearly outlined, the UFO silhouette was black in front of the moon.  It had no blinking lights on it (that is why it didn't look like a plane or a helicopter) it was not blinkin on side wings on sides nor bottom nor front nor roof and was totally black against the backdrop of the moon.  It stayed in front of the moon about 3 seconds then took off so fast it disapeared in the night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61788.html](http://www.nuforc.org/webreports/reports/061/S61788.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
