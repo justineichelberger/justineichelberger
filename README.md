@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:53 on 22 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:29 on 22 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Evansville (IN) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Evansville, IN 2/22/07---LARGE Craft passed overhead, noise eminated, definitely not standard aircraft, report from amateur astronomerHave you received any reports of a large plane (or other object?) passing over our skies @ about 1:10 a.m.Thursday morning of February 22? I certainly saw something, raced up to tell my brother, and he saw it as well. I was peeking my head out our window to see if Sirius had set yet and to see Saturn, when I noticed what looked like two stars of equal magnitude that I didn't recognize (not that I'm knowledgeable enough to notice something out of place...it just looked odd). They were moving though, so I thought plane...which would be nothing out of the ordinary, they are always overhead, blinking away. These really weren't blinking...and the lights were too far apart to be from the same plane. it passed overhead slowly, couldn't have been extremely high in the sky, on account of the wingspan covering a wide field of the sky. There was a noise similar to the kind of noise you get as a large plane many thousands of feet in the sky passes overhead (you know, you see it and the sound is slower, so it appears that the sound of it is trailing behind)(it was very low in pitch, could be easily heard from indoors, and spooked a few of the local animals, including a cow...which I didn't know lived so close to us:). I could not make out a shape of the object, just its lights...three of them two on the outside being a very light orange with the third being grayish but not centered in between the two on the outside. They weren't crisply flickering, I'm not even sure you could say they flickered at all. I wasn't sure who to contact, I looked in the phone book under Evansville Regional Airport, but the numbers were for parking employees, Security office...none of them seemed like the right contact for this type of question. Anyways, I just wondered if anyone else had seen it and reported of it, or if there was some kind of way you might forward this to anybody who would be interested or aware of what was flying overhead during that time. I am an amateur stargazer, have seen planes, planets, meteors all the like; but this was quite unusual and worth my trouble to email you, and hopefully I wasn't to much trouble for you to hear out. Thanks,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55404.html](http://www.nuforc.org/webreports/reports/055/S55404.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Beaverton (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>4 vertical aligned red lights in south/southwest sky.I was driving to the store, when in the south southwest sky I saw 4 lights a good distance from the horizon line that were in a vertical alignment.  they drifted slowly up from the horizon, with no sound, 2 seemed to combine or get very close together and one by one they disappeared as if traveling in the opposite direction.  i searched on youtube and found that the same ligths had been captured a month ago.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107386.html](http://www.nuforc.org/webreports/reports/107/S107386.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
