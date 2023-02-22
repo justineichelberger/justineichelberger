@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:35 on 22 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:26 on 22 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Dunnellon (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Regular night sky observer with no previous sightings until now.Direction of travel from NNW to SSE.  straight trajectory orange light similar in nature to the spectrum exhibited by sodium halide or sodium lamp.  Approx. elevation 10-12000 feet. No other marking lights characteristic of aircraft,forward, aft, port or starboard.  No discernable sound after passage. No deviation from flight path.  Much too low for satellite, yet not high enough for normal high altitude commercial flights.  Conditions: pristine. No fog, no clouds, no moon.  Excellent maximum visibility. Timeline: approximately 2 min. Visible to naked eye, yet viewed with both 10x50 Nikon niteowl binoculars and fixed celestron binoculars.  No disceernable definite shape to craft.no contrails at viewed altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80182.html](http://www.nuforc.org/webreports/reports/080/S80182.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Brewerton (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Triangle shaped craft over Oneida lake in February of 2005, no noises, only those lights..no blinking lights, just 3 bright lightsI work for a road service co. It was a very cold, snowy night..visability was very limited. My brother and myself were headed home from my job. As we came to the intersection of Rt 11 and Guy Young Rd we noticed what appeared to be a VERY low flying airplane off to the east over where we guessed at the time by the visibility to be Oneida lake. As we came to the stop light we noticed that the craft was moving very slowly..At first all we saw were three lights in a triangle formation. No blinking lights, no red beacon lights..just these three lights one in the front two in the back. My brother rolled down his window, and due to the lack of traffic or noise we realized how strange it was that we coul her nothing, no engine, no blades from a helicopter, nothing. Finding this strange we came to a complete stop in the middle of the street & got out of the van...there was a low hanging fog in the area coming off of the lake and hanging approx. 200 ft above the water..We watched as the craft passed right above our heads but lower than the cloud cover...We both clearly saw the craft as a black triangle shaped vehicle with one light at the front tip and one at each of the two back tips. It was travelling slowly...very slowly..if the weather hadnt been so bad i would have said it was a hangglider, but there was no way in that cold and that snow that it was a hanglider..I saw no wings it was a solid triangle. it was moving much to slwly to even be in the air.. As we approached the bridge going over the lake the craft was about 100 ft or less above our heads, no sound, like it was coasting through the air....i continued to wtch and listen with all the windows down creeping along very slowly so we could hear anything, we heard nothing...As we crested the bridge the veh moved off to our left side and suddenly shot straight up through the clouds, not at an angle but straight up...and again...no sound......My background is a call center rep for an emergency road service company and my brother is a carpet installer...I am still freaked out when i think back.....it was like yesterday....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45615.html](http://www.nuforc.org/webreports/reports/045/S45615.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
