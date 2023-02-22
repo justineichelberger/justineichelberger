@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:40 on 22 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:35 on 22 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Silverthorn (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Unusual vapor trail over Colorado mountains appeared in altered photo.Dear Sir, While traveling from Copper Mountain Ski area to Denver, on interstate 70, I was taking pictures from the car window. In one of the photos that I later altered with photoshop elements a vapor trail appeared.  My first thought was that I inadvertently created it with photoshop, but I am not sure so I am submitting the photos for an expert opinion.The vapor trail does not appear to be that of a commercial aircraft since it has many sudden direction changes and the dissapation rate is not that of a commercial aircraft.  The trail also seems to go in and out of different altitude clouds.I am submitting the original digital photo and the altered photo in hopes that you can give me a simple explanation of this anamoly.  If you need more information feel free to contact me in whatever way you deem appropriate but I would, very much, like to have an explanation from someone more experienced with this matter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87337.html](http://www.nuforc.org/webreports/reports/087/S87337.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Auburn (WA) reported seeing craft that fit the description of some '' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Woman repts. very bright obj. in S sky.  Brighter than star.  Not visible 23FE95.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00205.html](http://www.nuforc.org/webreports/reports/000/S00205.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
