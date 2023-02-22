@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:35 on 22 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:46 on 22 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Auburn (WA) reported seeing craft that fit the description of some '' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Woman repts. very bright obj. in S sky.  Brighter than star.  Not visible 23FE95.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00205.html](http://www.nuforc.org/webreports/reports/000/S00205.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Barrow-in-Furness (UK/England) () reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I saw a large light with 2 smaller lights either side, it didn't move then it vanished as I walked towards what i saw it reappeared i rhenium saw and aircraft flying towards it and it then disappeared again, i took a photo but the camera only caught the larger light on the spacecraft.  This has unsettled me as I was a non believer</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117434.html](http://www.nuforc.org/webreports/reports/117/S117434.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
