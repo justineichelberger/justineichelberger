@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:52 on 23 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:24:04 on 23 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Giant Orange Orb- Scoop marks - Bright lights in roomI was nine years olds at the time, playing outside on a San Francisco street...we lived at ((XXXX)) Mangels.  I was into bicycle motocross....I had a ramp set-up in the middle of the street.5 of my friends were there…  I have never spoken to them about it since then.  So a Giant Orange, Red & Yellow fireball came down our street...very slow.  It made NO noise.  It hovered over us going East.... It flew over and passed us then seemed like it took a deep breathe and did the "Hyperspace" thing....Recently, I have had scoop marks on my upper arm & my rear end...My wife and I were sleep- she awoke to our whole room filled with bright light.  She couldn't move or talk.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116100.html](http://www.nuforc.org/webreports/reports/116/S116100.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Kenai (AK) reported seeing craft that fit the description of some 'Cone' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>While bringing my children into school we all witness a white object in a cone shape moving across the horizon. My daughter saw it first and brought to our attention. It was moving on a southwesternly path at a pace slower than a Jet yet relatively fast. The form was solid white except for the tail end which was somewhat transparent. The shape was similiar to a cone with a rounded front but the tail did not come to a complete point.I pretty well explained what we saw in the summary but it did not strike us as being a jet plume more like a meteor. It seems to move around the horizon and then we lost site of it as it entered some clouds. It was quite interesting. I called our local radio station and the lady who answered the phone had also seen it and wondered about too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12092.html](http://www.nuforc.org/webreports/reports/012/S12092.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
