@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:23 on 23 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:25 on 23 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Levittown (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>This was one of the most wonderful, light, fire, glowing flame experience.Laying down on my back looking at stars, while wind blowing and hearing sound of wind.Started praying to Jesus and marveling at his wonders, and at the same time praying for a better, tomorrow.  I notice what I could only describe this light in the sky.As I'm praying and looking out the windows clouds were.clearing,  Quickly. I saw what seems  to be about 500/600'  up in the sky beautiful,brilliant light smoothly passing by my window.  I text my son then my daughter and told her it could have been an angel.I dont know what it is but it was wonderful.((NUFORC Note:  We cannot certify that this is a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107468.html](http://www.nuforc.org/webreports/reports/107/S107468.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Meridian (ID) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3 months - 3 months minutes.</sub><blockquote><sub>First time I saw it I ignored it.  Thought it was an airplane or some flickering Star that would go away.  But every night now for about 3 months there has been at least one and up to three UFO of some sort.  They fly in every direction and at hyper speed.  They like to do little flips and know when people are watching.  They dance in the sky and shoot from left to right.  It's become a ritual now, every time me and my fiance go smoke a cigarette we see the little "alien" we call it.  And we watch it and then go inside and come back out a few ours later and do it all over again.  We have had many friends over and they have all just sat and watched them too.  Very cool anyone else see these guys over downtown meridian????  Please tell me.  I think we are are being watched and observed. and I don't mind it.  Do you?((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126016.html](http://www.nuforc.org/webreports/reports/126/S126016.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
