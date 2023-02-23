@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:50 on 23 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:26 on 23 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>There was an object fireball/lightThick over cast, lightly raining,low wind and well lit over city...Came down thru clouds and held (hovering or motionless) altidude just under cloud base 10 mins.Brite yellow orange color light/fireball. slow movments north bound. I live near a level 1 trauma center (hospital) that has many life flight helicopters comming and going thru out nights. One came in 5 mins after event giving a better judgement of light color and altitude. It was far too big to be any aircraft I've ever seen and had a feather like movment. It drifted out of sight going north several miles and back into clouds..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35241.html](http://www.nuforc.org/webreports/reports/035/S35241.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Madison (TN) reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A mother called to report that her daughter and son, as well as several of their playmates, had witnessed a "small silver disc with a white light on top."  The children reported that they they had observed the object for approximately 1 minute, at which time it appeared to recede from them and disappear from sight in the amount of time it would take a person to snap his fingers. the mother separated her two children and had them draw what they had seen.  The drawings, she reported, were identical.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01339.html](http://www.nuforc.org/webreports/reports/001/S01339.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
