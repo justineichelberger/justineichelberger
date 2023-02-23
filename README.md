@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:36 on 23 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:06:14 on 23 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Ewa Beach (HI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two unnaturally bright UFO's over Ewa BeachWe saw two crafts flying along the park to the left of Fort Weaver near Renton.  They started out really high, I thought it was helicopters at first but then they started to dive and do maneuvers I have never seen.  One got so low I could see it was triangular shaped and glowing an almost unnatural purplish blue and the other looked very orb like and blue.  We are not the only people who saw them, a whole line of cars followed us to where the low one was flying but when we got there everything was gone, and we were there within a minute.  No one, no nothing in sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74461.html](http://www.nuforc.org/webreports/reports/074/S74461.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Helsinki (Finland) () reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>A star-like object moved slowly but clearly until disappeared behind trees.I saw a bright star-like object quite low in the skies above Helsinki. It moved very slowly but clearly, taking maybe 20 minutes to disappear behind trees. It lost luminosity while it moved, at first looking like a very bright star and finally quite dim. I also saw a very similar moving star-like object near Kauhava around 12/22/99 6 am (date and time uncertain) for maybe five minutes before it disappeared behind trees. It was by far brighter than the brightest planet or star I have ever seen. Neither of the objects was certainly not an airplane, satellite or meteorite.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12103.html](http://www.nuforc.org/webreports/reports/012/S12103.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
