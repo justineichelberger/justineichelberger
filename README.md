@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:22 on 23 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:28 on 23 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Helena (MT) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 128</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153819.html](http://www.nuforc.org/webreports/reports/153/S153819.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1962, an anonymous witness in Crowheart (WY) reported seeing craft that fit the description of some 'Egg' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Egg-shaped object hovers then departs quickly on rural property in Crow Reservation, Wyoming.My grandfather had told me this story many times growing up, so I decided to report it for him.It was just past 6am on February 23, 1962, and my grandfather and his wife at the time heard a loud boom and then an air-sucking noise immediately afterwards.  He described the sound as being similar to an airliner engine starting up.  They lived on the Crow Reservation in Wyoming, which is a very rural area, even to this day.  The nearest house to theirs was a fifteen minute drive up the road.  So as a result, my grandfather just assumed someone was trespassing on their property and went out onto the porch to see what was going on with his wife following closely behind.  He recalled that right when he got there, all he noticed was that the sky was much brighter than it usually would be at that time of morning and that there was also an egg-shaped object hovering over their lawn before quickly swooshing by their home so quickly they weren't sure what they had just seen.  He called the sheriff's department but no report had been filed after they arrived hours later.  I assume the police department thought they weren't mentally unstable.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143971.html](http://www.nuforc.org/webreports/reports/143/S143971.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
