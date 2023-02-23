@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:32 on 23 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:32 on 23 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Sodus (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Mars observers witness light moving in roller coaster pattern from east to west.While observing Mars in the south east sky we all saw what we thought might be a shooting star. Then it re-emerged like a roller coaster comeing up again and going accross the sky in an ark pattern and then it was gone with no trail. It traveled east to west.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30873.html](http://www.nuforc.org/webreports/reports/030/S30873.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Sumner (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Flashing 'star'-like objects near Sumner, WA10:03pm   Upstairs looking out my bathroom window with the binoculars.  Within a minute or so, I noticed a flashing ‘star’ above the tree line of North Hill Puyallup.  As I watched it, it flashed red, blue and white, maybe green once in awhile.  It resembled a star except that it was very low in the sky, much lower than airplanes (Sea-Tac International Airport and Auburn Airport are near the vicinity).  I wasn’t sure if it was moving so I braced myself against the side of the window.  It slowly began to move to the right.  I could tell it was by counting the tree tops, after it moved over the 5th tree, it either lowered or else it was moving further away than I thought and began flashing mainly red and white and the white was extremely bright.  I lowered the binoculars and noticed that I could not see it without them.  I decided to scan the skies above the light and seen two airplanes or else they were two of the ’helicopters' or some type of aircraft we’ve been seeing a lot of for a few months.  These usually flash red and green with a white light -like a headlight in the center and the colored lights are one at either side as if on wings, (these crafts are seen every night in this area and they do not make any noise that I can think of - they fly very low at times but one cannot make out a shape. One night two of them were so low that I thought for an instant that they were street lights and when one of them left the area, it was flying below the roof tops of the businesses across the street from my house!) Anyway, the two airplanes were high above the flashing star and seemed to criss-cross, they were both in the flight path (going opposite directions).  This is when I noticed another very bright flashing light closer to me which was just below the flight path and flashing mainly red and white.  It began jerking back and forth quickly for about 4 seconds and then quickly began to move off to the right, past the cell tower across the street from my house heading for Auburn.  I checked back for the first ’star’ and it was still flashing mainly white very far off.  By this time, it was about 10:08pm, that’s when I went downstairs to write this report.  There has been so much going on in this area (Sumner) for months and we have some pretty incredible video footage shot a few weeks ago out my bedroom window, looking towards the football field.  Actually, we have quite a few stories and good video of at least four sightings.((NUFORC Note:  One of five reports from same witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42095.html](http://www.nuforc.org/webreports/reports/042/S42095.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
