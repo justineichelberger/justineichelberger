@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:26 on 23 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:30 on 23 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Lynnwood (WA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Two of us were observing the stars when what looked like 3 dull lights in a row (unlike that of an airplane) flew silently across the sky, & vanished instantly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27871.html](http://www.nuforc.org/webreports/reports/027/S27871.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Royal Palm Beach (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>We saw a silver spinning  football shaped object going across the sky during the day.I saw something out my kitchen window. I thought it was a large mylar football floating into the sky at first. That was the shape it was. It was moving horizontally to the left and spinning in a clockwise direction. My daughter says it had a light flashing on it, but it looked to me like the sun reflecting as it spun. It was spinning pretty quickly. It was silver in color. It went across the sky and then up. It was daylight and we tried very hard to figure out what it was. About 20 minutes later there were 2 helicopters in sight out the same window.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42083.html](http://www.nuforc.org/webreports/reports/042/S42083.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
