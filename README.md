@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:23 on 23 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:24 on 23 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Elk (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Fireball Heading North In Elk, Washington.Seen fireball heading North, huge broken in lots of pieces, lasted for about a minute and half and half to 2 minutes.  Never seen anything like it.((NUFORC Note:  Re-entering Chinese 3rd-stage rocket casing.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117460.html](http://www.nuforc.org/webreports/reports/117/S117460.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in College Station (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>2 circular lights moving very slowly.I saw 2 circular white lights moving very slowly in the sky. Those 2 lights were really close to one another, moving synchronously. It seemed like they are a part of one craft only, because they were almost touching each other. The size of one circle - I would say little bigger than the moon.They were really far up in the sky. At the same time I saw a normal commercial airliner and a jet ( I am not sure about the jet. It looked like a jet. It had a short tail. The kind of jets I have seen usually leave a very long trail. It looked more like a meteor to me, but that too was moving very slowly, so it can not be a meteor.. I guess) I am a skeptic and I do not believe in UFO's. But the more I think about what it was, the more peculiar it gets.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27884.html](http://www.nuforc.org/webreports/reports/027/S27884.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
