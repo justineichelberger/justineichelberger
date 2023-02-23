@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:26 on 23 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:26 on 23 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Millinocket (ME) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>My husband was getting dropped off at our home by his father.  I was in the car in the driveway, when they pulled up.  They had talked for about a minute when my father-in-law screamed my name.  He told me to get out and look at the sky.  It was and egg shaped craft fully lit up, as if it was glowing.  It had a small trail, but nothing like a comet.  It flew very low over the tree line, horizontally across the sky.  30 seconds later, it couldn't be seen.   Heading towards East Millinocket.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144973.html](http://www.nuforc.org/webreports/reports/144/S144973.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Lynnwood (WA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Two of us were observing the stars when what looked like 3 dull lights in a row (unlike that of an airplane) flew silently across the sky, & vanished instantly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27871.html](http://www.nuforc.org/webreports/reports/027/S27871.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
