@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:33 on 23 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:50 on 23 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Nampa (ID) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Huge object moving really fast but not to fast or slow and just disappeared.It was moving across the sky at a high speed but not as fast as meteor but not as slow as a Military Jet.  Their was a dust cloud behind it and it had a little bit of white light.  It was going Faster and Faster and lower and lower then it was gone just like that.  It was huge like giant.  It reminded me of the ships off the avengers the marvel movie.((NUFORC Note:  Re-entering Chinese 3rd-stage rocket casing.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117475.html](http://www.nuforc.org/webreports/reports/117/S117475.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>There was an object fireball/lightThick over cast, lightly raining,low wind and well lit over city...Came down thru clouds and held (hovering or motionless) altidude just under cloud base 10 mins.Brite yellow orange color light/fireball. slow movments north bound. I live near a level 1 trauma center (hospital) that has many life flight helicopters comming and going thru out nights. One came in 5 mins after event giving a better judgement of light color and altitude. It was far too big to be any aircraft I've ever seen and had a feather like movment. It drifted out of sight going north several miles and back into clouds..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35241.html](http://www.nuforc.org/webreports/reports/035/S35241.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
