@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:06:14 on 23 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:32 on 23 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Helsinki (Finland) () reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>A star-like object moved slowly but clearly until disappeared behind trees.I saw a bright star-like object quite low in the skies above Helsinki. It moved very slowly but clearly, taking maybe 20 minutes to disappear behind trees. It lost luminosity while it moved, at first looking like a very bright star and finally quite dim. I also saw a very similar moving star-like object near Kauhava around 12/22/99 6 am (date and time uncertain) for maybe five minutes before it disappeared behind trees. It was by far brighter than the brightest planet or star I have ever seen. Neither of the objects was certainly not an airplane, satellite or meteorite.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12103.html](http://www.nuforc.org/webreports/reports/012/S12103.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Sodus (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Mars observers witness light moving in roller coaster pattern from east to west.While observing Mars in the south east sky we all saw what we thought might be a shooting star. Then it re-emerged like a roller coaster comeing up again and going accross the sky in an ark pattern and then it was gone with no trail. It traveled east to west.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30873.html](http://www.nuforc.org/webreports/reports/030/S30873.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
