@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:24:04 on 23 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:02:20 on 23 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Kenai (AK) reported seeing craft that fit the description of some 'Cone' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>While bringing my children into school we all witness a white object in a cone shape moving across the horizon. My daughter saw it first and brought to our attention. It was moving on a southwesternly path at a pace slower than a Jet yet relatively fast. The form was solid white except for the tail end which was somewhat transparent. The shape was similiar to a cone with a rounded front but the tail did not come to a complete point.I pretty well explained what we saw in the summary but it did not strike us as being a jet plume more like a meteor. It seems to move around the horizon and then we lost site of it as it entered some clouds. It was quite interesting. I called our local radio station and the lady who answered the phone had also seen it and wondered about too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12092.html](http://www.nuforc.org/webreports/reports/012/S12092.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Grand Canyon (AZ) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Black craft over Grand Canyon/white craft over Beverly HillsI was returning from a business trip with two colleagues on Alaska Airlines from DC to LA.  Over the Grand Canyon, I saw a black craft shaped like a bullet going at an amazing speed in the opposite direction very close to our airplane leaving a trail of thick black smoke behind it.  A few minutes later, an identical craft with the same black trail went by.  I would concede it may have been a military plane, but thing that bothers me is that the smoke trail dissipated at the exact same speed as the craft, as if it were a part of it.  If a military plane were emitting black smoke from burning oil, it would have left a trail across the sky.  What my friends couldn't see because I was in the window seat is just before the second craft left my view, I saw it tilt upward and the black smoke trail disappeared in a split second.The crazier part of the story is that when I returned home, I was telling my son the story while looking out the window of our home in Beverly Hills, CA.  I saw two brilliant white planes flying towards us.  I didn't think anything of it until the one on the right just disappeared, then the one on the left made a perfectly tight loop in the air, then disappeared.  It was a manoeuvre that would be impossible with a plane, and it was close enough that I could tell it was not a helicopter.  This was at about 3pm on 2/24/13.  And that's my UFO story.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96447.html](http://www.nuforc.org/webreports/reports/096/S96447.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
