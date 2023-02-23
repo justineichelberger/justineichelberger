@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:25 on 23 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:52 on 23 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Huntsville (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>((NUFORC:  Probably a report of the planetary conjunction.  Please seen other reports for this date.))2 lights, 1 large, 1 small, hovered in the sky for over 35 minutes.  it never moved once during this time and then all at once it disapeared, no movement just gone.2 balls of light, 1 a little smaller looking than the sun, the other smaller than that.   They didn't do anything, they just hovered in the same spot, no movement at all. 1 observer unknown background, neighbor 1 observer 55 year old male, ex career army 1 observer 28 year old male, mechanic 1 observer 35 year old female, military dependant 1 observer 56 year old female, wife of ex army male</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05682.html](http://www.nuforc.org/webreports/reports/005/S05682.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Giant Orange Orb- Scoop marks - Bright lights in roomI was nine years olds at the time, playing outside on a San Francisco street...we lived at ((XXXX)) Mangels.  I was into bicycle motocross....I had a ramp set-up in the middle of the street.5 of my friends were there…  I have never spoken to them about it since then.  So a Giant Orange, Red & Yellow fireball came down our street...very slow.  It made NO noise.  It hovered over us going East.... It flew over and passed us then seemed like it took a deep breathe and did the "Hyperspace" thing....Recently, I have had scoop marks on my upper arm & my rear end...My wife and I were sleep- she awoke to our whole room filled with bright light.  She couldn't move or talk.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116100.html](http://www.nuforc.org/webreports/reports/116/S116100.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
