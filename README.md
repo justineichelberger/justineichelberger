@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:24 on 22 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:25 on 23 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Clementon (NJ) reported seeing craft that fit the description of some 'Egg' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>you can do thisflying from the woods towards the sun after the white ball of lights and weird portals with little humans sitting on chair tiny people in the portals.   they brought demon and other  creatures around the ball of rotating lights- one looked like big gray alien, big black giant wolf and something looking like gigantic big foot and some other creatures.  then white flashes of light seemed to leave the bodies of those creature, they were standing still and looked like empty props. the white flashes that left the bodies moved award towards all directions , a dog type whistle blew.  then the creatures disappeared.  the craft was silent and could be seen taking off going to a big arrange ball of light not the sun.  everything in the sky was red and it took awhile but the craft went towards it and disappeared.  al in all it took about one hour of so. its weird but true 4 of us saw it.  all the dogs were barking((NUFORC Note:  Witnesses elect to remain semi-anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145009.html](http://www.nuforc.org/webreports/reports/145/S145009.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Huntsville (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>((NUFORC:  Probably a report of the planetary conjunction.  Please seen other reports for this date.))2 lights, 1 large, 1 small, hovered in the sky for over 35 minutes.  it never moved once during this time and then all at once it disapeared, no movement just gone.2 balls of light, 1 a little smaller looking than the sun, the other smaller than that.   They didn't do anything, they just hovered in the same spot, no movement at all. 1 observer unknown background, neighbor 1 observer 55 year old male, ex career army 1 observer 28 year old male, mechanic 1 observer 35 year old female, military dependant 1 observer 56 year old female, wife of ex army male</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05682.html](http://www.nuforc.org/webreports/reports/005/S05682.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
