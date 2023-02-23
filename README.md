@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:29 on 23 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:36 on 23 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Duncan (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>4 lights appear from nowhere.Stepped outside to take pictures of the sunset on 2/23/15 a bright light appeared.  The one light split into four lights for about three seconds before disappearing.  No noise or trailing from the lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117471.html](http://www.nuforc.org/webreports/reports/117/S117471.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Ewa Beach (HI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two unnaturally bright UFO's over Ewa BeachWe saw two crafts flying along the park to the left of Fort Weaver near Renton.  They started out really high, I thought it was helicopters at first but then they started to dive and do maneuvers I have never seen.  One got so low I could see it was triangular shaped and glowing an almost unnatural purplish blue and the other looked very orb like and blue.  We are not the only people who saw them, a whole line of cars followed us to where the low one was flying but when we got there everything was gone, and we were there within a minute.  No one, no nothing in sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74461.html](http://www.nuforc.org/webreports/reports/074/S74461.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
