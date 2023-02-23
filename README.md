@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:24 on 23 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:23 on 23 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in College Station (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>2 circular lights moving very slowly.I saw 2 circular white lights moving very slowly in the sky. Those 2 lights were really close to one another, moving synchronously. It seemed like they are a part of one craft only, because they were almost touching each other. The size of one circle - I would say little bigger than the moon.They were really far up in the sky. At the same time I saw a normal commercial airliner and a jet ( I am not sure about the jet. It looked like a jet. It had a short tail. The kind of jets I have seen usually leave a very long trail. It looked more like a meteor to me, but that too was moving very slowly, so it can not be a meteor.. I guess) I am a skeptic and I do not believe in UFO's. But the more I think about what it was, the more peculiar it gets.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27884.html](http://www.nuforc.org/webreports/reports/027/S27884.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Las Vegas/Montezuma (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two horizontal, parallel rows of lights, approximately 1/4 mile up, moving  from the south to the north.Two horizontal, parallel rows of lights, approximately 1/4 mile up, moving  from the south to the north for approx. 5mi. at a high speed. After aprox. 3 min they stoped and came together in a cluster for approx. 3 sec. then seemed to disappear. They reappeared and serveral of the lights began to dance and or blink and or jump back and forth up and down side to side  at a very high speed for approx 2 min.  The light began to fade like a sparkler. This expierance was unexplainable and nothign like I've ever seen before.  I was over whelmed by this event.  It is my understanding that the local Police Dept received numerous sitings that night.Also, the night before simular sitings were reported over Los Alamos NM</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05686.html](http://www.nuforc.org/webreports/reports/005/S05686.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
