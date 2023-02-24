@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:41 on 24 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:27 on 24 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in North Battleford (Canada) (SK) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>At approximately 8:55pm, saw what I thought was a bright star, but it was moving.  Called my husband outside and we watched it go at the same speed, it stopped, got brighter, than hovered in a circular motion for about 15 seconds.  It shot up, than towards the left.  Stopped again, hovered, than flew quickly towards the bottom star of the big dipper, where we lost track of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153597.html](http://www.nuforc.org/webreports/reports/153/S153597.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Newton (NJ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>three strange balls of light darting about in a pattern above newton, new jersy.My family, 2 boys and my husband, were out on our porch one evning when my oldest son pointed to the sky and said: "Look mom, ufos!"  I looked up and there were 3 balls of light, roughly a mile up, darting about in patterns.  I watched for a momment while my husband went to get the camera, but as son as he came out side again, they all shot up and out of site at the same time.  The were a greenish blue, but when they shot up the turned a brillant red.  They made no sound and apperently we are the only ones that saw it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43086.html](http://www.nuforc.org/webreports/reports/043/S43086.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
