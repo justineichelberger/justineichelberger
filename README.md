@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:27 on 24 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:28 on 24 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Newton (NJ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>three strange balls of light darting about in a pattern above newton, new jersy.My family, 2 boys and my husband, were out on our porch one evning when my oldest son pointed to the sky and said: "Look mom, ufos!"  I looked up and there were 3 balls of light, roughly a mile up, darting about in patterns.  I watched for a momment while my husband went to get the camera, but as son as he came out side again, they all shot up and out of site at the same time.  The were a greenish blue, but when they shot up the turned a brillant red.  They made no sound and apperently we are the only ones that saw it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43086.html](http://www.nuforc.org/webreports/reports/043/S43086.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Dallas (NC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>To whom it may concern; I want to report a UFO sighting I witnessed on Jan.24th 2009 at 9:30 EST.I live in Gaston County, N.C. out in the northern end, which is very rural.As I went out to feed my animals I looked up to the skies, and noticed that the planes were spraying chemtrails AGAIN, so as I watched on plane headed northwest I looked up and saw what appeared to be an object flying in the opposite direction.  This object was cylinder in shape and moving quickly across the shy, right over my house.  I didn’t see any lights, nor did I see any wings on this aircraft.  The color seemed to be metallic grey, without windows.  I tried to capture it with my cell phone cam, but the object was moving so fast, that it was gone, before I could even open the camera feature to capture the object.This is my first UFO sighting, so you can imagine the shock and awe of this experience.I know for a FACT, that this was not a blimp, I know full well the difference, as I live around many small airports, where Blimps are stored.I can only compare this object to a giant flying cigar.Peace and Blessings, ((identifier deleted))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68943.html](http://www.nuforc.org/webreports/reports/068/S68943.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
