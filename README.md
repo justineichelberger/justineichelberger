@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:30 on 24 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:28 on 24 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Edgewater (MD) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Until the airing of a program hosted by Peter Jennings 2/24/05, I have been reluctant saying anything to anyone. A few hours after night fall while repairing a water line to the dock at the Marina, my friend ((name deleted)) and I  looked up for no apparent reason and witnessed what I thought at first was a falling star. Just in that moment this object slowed while in a turn, as if it was making a turn. The object did in fact slow and as quickly as it did so, it slug back in the same direct from which it came.  My eye had just lost focus when a second object made the exact move as the one before. Just a little off course than the one before, though much in the same path. It too slug away just as fast as it came to its turning point. I gazed for about an hour or more as my heart palpitated out of control. I was ramped up from this experience. About 30 or 40 minutes after this encounter, aside from telling the other, “We can never say anything to anyone because they’ll think we have lost our marbles”, we listened while tiny pieces scattered around us. In the reeds, one hitting a boat, hitting the water. It was as if a child had thrown a hand full of rocks and the area at which hitting the ground was wide and scattered, though not many. We looked for anything, but it being night we found nothing. During daylight hours the next day, we spent the entire day looking on the surrounding boats for burn marks, indentations, anything, and came up with nothing. I called ((deleted)) and explained the show, he said, "I am watching it now; I'll call you when over." We have not, until this point, said anything to anyone. Keep in mind, no flashing or blinking lights, just two separate very small silver like white light ball objects. I am well known in my area and reluctant filling this out, but I will in hope others such as me had the same experience as I. Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42206.html](http://www.nuforc.org/webreports/reports/042/S42206.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Pryor (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Was walking dog saw a bright white light in The sky no much higher than a tower moving in a downward angle at a slow but steady speed then just disappear made my phone act weird the ufo looked about the size of the moon in the distance during the day where you look up and can see it but it was closer</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162217.html](http://www.nuforc.org/webreports/reports/162/S162217.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
