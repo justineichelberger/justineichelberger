@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:40 on 24 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:12 on 24 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Fredricktown (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>triangle lights spinng then disappearedwell we were drivin around sobber when my friend saw some wierd lights over some trees on a hill side. then i turned off the radio and drove around slow with the window cracked open and saw some deer and thougt the lights were just the head lights off the dears eyes and left it at that when we saw triangle shaped lights spining over some trees and then suddenly stop and take off in a blink of an eye((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42611.html](http://www.nuforc.org/webreports/reports/042/S42611.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in North Battleford (Canada) (SK) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>At approximately 8:55pm, saw what I thought was a bright star, but it was moving.  Called my husband outside and we watched it go at the same speed, it stopped, got brighter, than hovered in a circular motion for about 15 seconds.  It shot up, than towards the left.  Stopped again, hovered, than flew quickly towards the bottom star of the big dipper, where we lost track of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153597.html](http://www.nuforc.org/webreports/reports/153/S153597.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
