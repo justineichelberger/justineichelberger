@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:24:13 on 24 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:03:49 on 24 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Chapleau (Canada) (ON) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 113</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145017.html](http://www.nuforc.org/webreports/reports/145/S145017.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Springdale (UT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately one month - one month minutes.</sub><blockquote><sub>On Feb. 24th, 2002  a report come into our offices of the Utah Ufo Investigations Team in St.George, Utah that two French hikers spotted a Triangle hovering and flying around them and appeared to be looking for a place to land, it did this for 5 minutes and then took of in the sky. There were no eyewitnesses because of the location where these hikers were on a cliff side by them selfs hiking. This is still under investigations by the Utah Ufo Investigations Team((NUFORC Note:  We express our gratitude to the Utah UFO Investigation Team for sharing this report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22266.html](http://www.nuforc.org/webreports/reports/022/S22266.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
