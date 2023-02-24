@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:33 on 24 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:28 on 24 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Waxahachie (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large triangular craft moved from north to south over north central Texas at midnight on Feb 24, 2006.In my yard about midnight I looked up to see a series of lights outlining two sides of an equilateral triangle.  The lights were moving slowly across my rooftop from north to south, coming in from Dallas, TX (Waxahachie is about 35 miles south of Dallas). The two leading edges of the triangle were each lit with 12-14 white lights.  I could see no lights along the back (trailing) side of the craft. Movement appeared initially to be very slow.  So slow, in fact, that I first guessed these lights to be those of WWII planes from the Confederate air force flying in a tight formation.  I quickly discarded that hypothesis due to both the number of lights (estimate 25-28 total) and the precise distance of one from another. Just as the craft cleared my roofline it appeared to speed up radically.  Within 1/2 second it had vanished far to the south.  It made no noise whatever. I cannot estimate how high the craft or how fast it eventually was going.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49288.html](http://www.nuforc.org/webreports/reports/049/S49288.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Arlington (3-4 miles East of) (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Come! Come Here Quick! See That up there???.....We pulled over for ((a short period of time)), turned off the lights in and out of the truck.  Needless to say my ad is a certified aircraft mechanic, and has had his MPC and A&P liscence for oer 11 years. Quality Control Inspector as of now. When he said "Hey, ((name deleted)), get out here and look at this!".  I then got out of the truck, and left the door open (the light in the cab was the only one on),  He pointed up and showed me a light pointing over the ridge, a yellow-ish light, going over a ridge he had been watching for 10-15 seconds. He then said that it definately wasnt an aircraft that he knew of, and I watched the first go over the ridge, and then looke up again, and say another, sitting still, about that time it shot straight upward a few thousand feet, and just dissappeared.  I immediately got back in the truck and discussed what we saw as I drove away as fast as possible, and he said it was the first time he'd seen anythign like it. What makes me believe these weren't Airplanes is:1) They each had ONE YELLOW light all the way around them, that covered the bottom of the crafts; 2) They flew slow, and sped up right before the eyes, in a way an airplane isnt capable of; 3) The one that shot straight up, went completely verticle, and just dissappeared; 4) When it went up, I thought if it were a plane, I'd be able to see the other lights, but it was just one continuous glow of yellow; AND, 5) THIS IS THE DAMNDEST THING I'VE SEEN IN MY 16 YEARS OF LIFE!!!!!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16620.html](http://www.nuforc.org/webreports/reports/016/S16620.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
