@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:22 on 24 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:41 on 24 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Rapla (Estonia) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>estonian ufos  I and my dad were out to smoke at very evening at ohekatku village.  Here is minus 22 crades of celsius and at night the and sky is very clear, all the stars are seen very well.  We looked at a very bright star.. and in one moment we realyzed, that it is not a star, because it was moving in circle and flashing in orange and red.  It was seen very well.  Maybe a kilometer from us beneath the forest.  This kind of objects are seen here almost every night, when the sky is clear at night.  Once i saw maximum 4 of these moving around.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80213.html](http://www.nuforc.org/webreports/reports/080/S80213.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in North Houston (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>looking for orion in the sky saw a black object zig zag and dissapear.The sky was turning from blue to dusk, filled with many colors in the horizon, was looking for the first appearence of orion (a nightley ritual) saw what I thought was a plane flying almost above me, vary hight had to bend my head up to see it, vary dim and dark in shape, as I said I thought It was a plane and I just watched it.  As it approached the clouds VARY gracefully it did a little zig zag manuver I have never seen before then appearently dissapeared.  I called my wife and we watched the area without seeing it agian.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05956.html](http://www.nuforc.org/webreports/reports/005/S05956.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
