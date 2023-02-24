@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:27 on 24 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:37 on 24 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Bridgeport (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Yesterday I made a claim apparently they released a bunch of candles for someone's passing.  I apologize.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132902.html](http://www.nuforc.org/webreports/reports/132/S132902.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Tehachapi Mtns. (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A husband and wife were awake at 0320 hours because the wife had a painful arm.  She went into the bathroom to tend to her arm, and the husband lay on the bed, with his feet facing to the west as he looked out the double French doors to the west. Suddenly, he noticed a large, orange, luminous object, seemingly in the distance, that appeared to be flying directly toward his location.  At first, he thought it might be a reflection of the security keypad on the wall by his bed, but he quickly realized that its color is green, not the shade orange or red he was observing. The husband got out of bed and continued to observe to object by looking through the center pane of the door.  The object was brilliantly bright, and it looked like a fireball.  Suddenly, the object made a 90 degree turn to the south, at which time its "firey" tail could be seen by both him and his wife.  The wife commented that it was "like a comet."  The tail's color was golden orange, and it was "bigger on top" than it was on the bottom.  Also, material was being ejected from the object, and it appeared to be burning.  The object just seemed to dissapate in the southern sky. The caller added that he does not see how anyone in the San Joaquin Valley could have missed it.Also, the caller added that when he was a graduate student in Long Beach, CA, in 1974, he saw a formation of four triangular shaped objects, imbedded in a cloud of green tinted light, pass overhead of his penthouse apartment and head north.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01341.html](http://www.nuforc.org/webreports/reports/001/S01341.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
