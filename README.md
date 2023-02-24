@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:41 on 24 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:33 on 24 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in North Houston (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>looking for orion in the sky saw a black object zig zag and dissapear.The sky was turning from blue to dusk, filled with many colors in the horizon, was looking for the first appearence of orion (a nightley ritual) saw what I thought was a plane flying almost above me, vary hight had to bend my head up to see it, vary dim and dark in shape, as I said I thought It was a plane and I just watched it.  As it approached the clouds VARY gracefully it did a little zig zag manuver I have never seen before then appearently dissapeared.  I called my wife and we watched the area without seeing it agian.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05956.html](http://www.nuforc.org/webreports/reports/005/S05956.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Waxahachie (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large triangular craft moved from north to south over north central Texas at midnight on Feb 24, 2006.In my yard about midnight I looked up to see a series of lights outlining two sides of an equilateral triangle.  The lights were moving slowly across my rooftop from north to south, coming in from Dallas, TX (Waxahachie is about 35 miles south of Dallas). The two leading edges of the triangle were each lit with 12-14 white lights.  I could see no lights along the back (trailing) side of the craft. Movement appeared initially to be very slow.  So slow, in fact, that I first guessed these lights to be those of WWII planes from the Confederate air force flying in a tight formation.  I quickly discarded that hypothesis due to both the number of lights (estimate 25-28 total) and the precise distance of one from another. Just as the craft cleared my roofline it appeared to speed up radically.  Within 1/2 second it had vanished far to the south.  It made no noise whatever. I cannot estimate how high the craft or how fast it eventually was going.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49288.html](http://www.nuforc.org/webreports/reports/049/S49288.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
