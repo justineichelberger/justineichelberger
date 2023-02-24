@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:03:49 on 24 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:28 on 24 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Springdale (UT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately one month - one month minutes.</sub><blockquote><sub>On Feb. 24th, 2002  a report come into our offices of the Utah Ufo Investigations Team in St.George, Utah that two French hikers spotted a Triangle hovering and flying around them and appeared to be looking for a place to land, it did this for 5 minutes and then took of in the sky. There were no eyewitnesses because of the location where these hikers were on a cliff side by them selfs hiking. This is still under investigations by the Utah Ufo Investigations Team((NUFORC Note:  We express our gratitude to the Utah UFO Investigation Team for sharing this report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22266.html](http://www.nuforc.org/webreports/reports/022/S22266.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Marion County (AL) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Batton shaped object observed in Marion Co. Alabama changing direction in flight.Me and my Brother, whom wish to remain anonomous, were fishing in Marion Co. Al.I was looking up at a small cesna which had flown over several times when my brother said what is that. I replied just a plane. He responded "No That!" Looking directly above us We saw a batton shaped object flipping end over end out of control. It looked like two spheres attached to a long cylinder. It was high altitude but appeared to be slightly larger than a jet linner. It was moving west to east. My first impression was that it was some sort of satelite or space junk falling back to earth. But then it stopped in mid stream, still flipping, and made a hard 90 degree turn to the south and vanished out of view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21992.html](http://www.nuforc.org/webreports/reports/021/S21992.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
