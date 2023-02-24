@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:23 on 24 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 24 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Guilford (CT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>it was sphere floating above the rooftops and landid behind a house, this is the 3rd time ive seen it in 3 years now, and i do have a photo of one,((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96782.html](http://www.nuforc.org/webreports/reports/096/S96782.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Vestal (NY) reported seeing craft that fit the description of some 'Flash' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Object changed speeds then a flash of white light.It first caught my eye cause it looked like the INS was making a pass.  But it seemed to slow down its speed then a flash of white light took over around the object.  It looked to then go straight up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153729.html](http://www.nuforc.org/webreports/reports/153/S153729.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
