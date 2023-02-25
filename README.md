@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:43 on 25 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:23 on 25 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Frederick (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>&quot;star&quot; appeared to split into twoSaw what appeared to be a bright star split into two and bob up and down in the sky independently for about 2 min in NW sky. Objects became aligned and stationary then vanished from view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107490.html](http://www.nuforc.org/webreports/reports/107/S107490.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Kelowna (Canada) (BC) reported seeing craft that fit the description of some 'Egg' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>THE 2 EGG SHAPED ORBES WERE CHARGING EACH OTHER UP BEFORE TAKING OFF TO SPACE4 OF US WERE COMING HOME FROM NITE SKIING WHEN I SAW 2 ROUND ORBES SIDE BY SIDE ABOUT 100 FEET OFF THE GROUND.WHEN I TOLD THE GUYS WE STOPPED THE TRUCK AND GOT OUT SO WE COULD ALL SEE IT.THERE WERE 2 VERY DULL YELLOW,EGG SHAPED ORBS GENERATING EACH OTHER.THEY WERE ABOUT THE SIZE OF A HOUSE.THE ONE ON THE LEFT HAD A TYPE OF STATIC CHARGE COMMING FROM THE BOTTOM OF IT GOING IN THE DIRECTION TO THE ORBE ON THE RIGHT.THE ONE ON THE RIGHT HAD A CHARGE COMMING FROM THE TOP,GOING IN THE DIRECTION TO THE ONE ON THE LEFT SO IT LOOKED LIKE TWO ORBES COMPLEATING A CIRCUT WITH BOLTS OF ENERGY GOING COUNTER CLOCK WISE.AFTER ABOUT A MIN OR SO THEY STOPPED AND JUST HUVERED THERE.ABOUT 20 SECONDS LATER THE ONE ON THE LEFT SHOT UP AT ABOUT 60 DIGREE ANGL AND WAS GONE IN A BLINK.THE ONE ON THE RIGHT LEFT ABOUT 5 SEC LATER BUT AT A MUCH SLOWER SPEED,AND PRACTICLY STRATE UP.THE NEXT MORNING THE RADIO INFORMED US THAT LOTS OF PEOPLE IN KELOWNA SAW STRANGE LITES IN THE SKY THAT NITE I WILL NEVER EVER FORGET WHAT WE SAW THAT NITE.YOU HAVE TO SEE IT TO BELEVE IT,UNLESS YOU SEEN IT TO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30525.html](http://www.nuforc.org/webreports/reports/030/S30525.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/162/S162221.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162232.html)
-- [236](http://www.nuforc.org/webreports/reports/162/S162291.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162210.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
