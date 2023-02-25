@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:30 on 25 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 25 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Everett (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright white light and changed 10 min later with light beams or haze on top and bottom. Then dimmed while moving slowly.Went out for a smoke around 8 to 8:30 at my friend's house and noticed a bright white light looking northwest. Figured it was a plane or helicopter but just sat in one spot for about 10 minutes. Saw a plane fly by in between us and the object. Noticed it started changing after 10 minuted with settle light beaming or a haze from the top and bottom of the object. Was thinking it was a planet before it started changing. Two for my friends saw it as well. Less than a minute later the light dimmed slowly and moved very slowly closer to the ground and to the right then went out of sight. I know it wasn't a plane. There's airports and Boing near by so I know what a plane looks like and you always see flashing marker lights eventually. I can't explain what I saw but heard of fireball sightings in our area lately.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80233.html](http://www.nuforc.org/webreports/reports/080/S80233.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Mulberry (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>A low hovering triangular shaped craft with 3 non blinking lights.  Craft was directly over a house not moving and it was low enough that we can see the outline of the craft!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138951.html](http://www.nuforc.org/webreports/reports/138/S138951.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/162/S162221.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162232.html)
-- [236](http://www.nuforc.org/webreports/reports/162/S162291.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162210.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
