@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:00 on 25 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:25:25 on 25 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Brockton (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>Next to Route 24 I was out on my balcony having my usual cigarette break and had a long night ahead of me to study for an exam the following day.  I looked up in the sky and saw what appeared to be two bright stars.  I stayed out longer than usual and had a second cigarette when I noticed, what I thought to be stars, were now moving slowly in all different directions.  I went back inside studied for another hour and went back out to the balcony to have another cigarette once again I noticed the two bright lights in different locations but still moving slowly in all different directions and at times they would suddenly stop and stay in one position for a few minutes and start moving slowly again.  This continued until 4 AM and then they suddenly disappeared.  This has continued at least 2-3 times a week from February to present day July 31, 2010 around midnight again.  I woke my husband one night at 2 AM on another night I was studying, because he didn't believe me and said that I had gone mad from all the studying and he witnessed one of the starlike objects moving around.  He didn't know what to make of it and then proceeded to tell me not to wake him up again.  I'm very fascinated by this and wondered could they be satellites and went online tonight to do some research after six months of witnessing these things in the sky and found out I'm not the only one seeing these lights.  I can't wait to show my husband!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76899.html](http://www.nuforc.org/webreports/reports/076/S76899.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Arlington (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Round object changing colors from white to red, green, yellow or orange.We were going to sleep and my girlfriend noticed a bright object in the sky to our NNW. We noticed that the object was not moving, but when it did it moved from side to side slowly. We also noticed that this object seemed round, changing colors or flashing colors from bright white to red, to green, maybe even yellow or orange. The object seemed to be fairly high up in the sky,if I had to guess I would say somewhere around 5000 ft. We watched it for about 15 or so, looking at it from time to time through binoculars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35281.html](http://www.nuforc.org/webreports/reports/035/S35281.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/162/S162221.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162232.html)
-- [236](http://www.nuforc.org/webreports/reports/162/S162291.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162210.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
