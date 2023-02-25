@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:22 on 25 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:25 on 25 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in San Arden (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>The object came out of nowhere, did a dance and than disappeared.The object came into view of my camera lens from left hand corner, there seem to be only one. It had a tail like a comet, the object was either silver or bright white. the background was a clear blue area, above the clouds.during observation the object seem to be oval at one point with a dome, them it kept changing and fading.When I ran the video on slow motion it seem to be spinning and wobley.This could not be seen with the naked eye, but with the camera, I had it on EP. And I also zoomed in on it several times.When I ran the video on the vcr, there was no doubt that what I saw throgh the lens was a UFO.. We were on Hwy. 101 at the time and moving North at 55 miles an hour. I Lost the object in the clouds. It just seemed to evaporate....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42413.html](http://www.nuforc.org/webreports/reports/042/S42413.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Sayville (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Lights in the Sky.I was looking in my yard when I saw a white light.I saw a little black disk in it.It was gone in a 10 seconds.Then a bright red light followed it.it was not a plane because it had no wings.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64055.html](http://www.nuforc.org/webreports/reports/064/S64055.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/162/S162221.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162232.html)
-- [236](http://www.nuforc.org/webreports/reports/162/S162291.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162210.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
