@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:24 on 25 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:33 on 25 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We saw bright orbital objects and 1 larger grey object.I was at work Saturday, February 25, 2017.  I took my lunch brake at 2:05pm.  Went to the back of the building and sat down to enjoy some fresh air.  I felt (something) staring at me, looked around and did not see any body.  After a few minutes looked around again but this time I looked around in the sky and there I saw roughly 9-15 white sphere objects moving around.  Not sure how long I was staring in disbelief at what I was seeing.I then knocked on the window and asked for someone to bring me my cellphone so I could take photos of this event.  My daughter brought out my IPhone and we both stood there a few minutes to make sure this was not just debris.  Then I started too snap photos and saw a bigger dark grey object fly in to the area where the spheres were.  Then the store started to get busy and my help was needed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132810.html](http://www.nuforc.org/webreports/reports/132/S132810.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Casper (WY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>The fastest most nimble flying whatever I have ever seen.Ok I have property west of town  me and a friend were out there and noticed a lite in the sky moving this thing was going straight up at amazing speeds and then change direction or move in bursts and was making a square shape and then circles the thing was so fast then we seen a burst of light behind it and shortly after the thing was gone. I tried to record it with my phone you can't see much but you can hear us talking.  This was the strangest thing I've ever seen in the sky the speed and maneuvering that it was doing was unreal</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107464.html](http://www.nuforc.org/webreports/reports/107/S107464.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/162/S162221.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162232.html)
-- [236](http://www.nuforc.org/webreports/reports/162/S162291.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162210.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
