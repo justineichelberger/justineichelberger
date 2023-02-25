@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:31 on 25 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:26 on 25 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Chico (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Three silver/grey triangle crafts, at very high altitude, no sound, no lights. Chico Ca. 1992/93I was attending Chico State University in 1992/93. I was a Junior living on campus in Shasta Hall. I had just arrived at a party one cold night and did not really know many people there. I went outside to the backyard where I stood on a wooden deck. As I was looking up to the very clear, cold, and starlit sky; I saw a faint object out of the corner of my vision. As I looked up and towards my left I saw 3 grey/silver triangle objects exact in size flying in a line, one in front of the other. These objects had no sound, and no lights. They seemed to be in exact distance from each other.They also appeared to be very high in altitude My sighting lasted about 20 seconds before the crafts moved across the sky and then out of sight, behind a large oak tree. Something very strange happend as I was viewing these objects. Everything seemed to go silent as I watched them fly over me. As I remember everything went silent as I viewed them. After they moved out of sight all the party noise(music, laughing, people talking) returned in an instant. I was astonished! No one else had witnessed what I just saw. I felt amazed, confused and a little scared. I had never seen anything like this in my entire life. Later that night as I walked home to my dorm I could not stop thinking about what I saw that night. When I got to my dorm, I went to my friend's room, woke her, and told her what I had witnessed. Since that night I have only told a few people about my expierience until now. I will remember that night for the rest of my life. I often still think about what I saw that night,  10 years ago. I have many questions, about this unique moment, I just don't know who has the real answeres.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29485.html](http://www.nuforc.org/webreports/reports/029/S29485.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large disc flying aircraft 10 miles north of las vegas near Valley of Fireufo traveling southbound over I-15, about 3 miles south of valley of fire very slow. Approximate height 300 feet.  Red flashing light over very large round disc, white solid light on bottom.  About 60 feet from top to bottom.  In the dark, unsure what this object was, but as driving under the ufo, the 5 second red flashing light shined clearly over the large disc shape.  Very large.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132881.html](http://www.nuforc.org/webreports/reports/132/S132881.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/162/S162221.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162232.html)
-- [236](http://www.nuforc.org/webreports/reports/162/S162291.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162210.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
