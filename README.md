@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:26 on 25 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:21 on 25 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large disc flying aircraft 10 miles north of las vegas near Valley of Fireufo traveling southbound over I-15, about 3 miles south of valley of fire very slow. Approximate height 300 feet.  Red flashing light over very large round disc, white solid light on bottom.  About 60 feet from top to bottom.  In the dark, unsure what this object was, but as driving under the ufo, the 5 second red flashing light shined clearly over the large disc shape.  Very large.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132881.html](http://www.nuforc.org/webreports/reports/132/S132881.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Watson Lake (Canada) (YT) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Followed Large bright white object while driving for over an hour.	I’m a truck driver who drives almost weekly drives up and down the Alaska Highway in Canada and on the night of Saturday February 25th, I had a very strange experience/sighting driving north on the Alaska Highway as I was approaching the BC/Yukon border.	When climbing a small hill, the corner of my eye caught an object giving off a very large white light, I would say in the sky it looked like a tennis ball compared to the other stars in the sky and what made me take notice is that appeared to be falling from the sky much like a meteorite.  I became a bit worried and actually almost made a full stop on the highway because it looked like this thing was going to fall into the hood of my truck.  As I was close to coming to a full stop, this object changed its trajectory from dropping down, to moving forward, so I sped back up to highway speed and watched this object  as best as I could while driving up the highway.It would constantly move at a slow but steady speed from my left to my right and lower itself and be near the tree tops of the forest.  Almost every time I got close to going downhill to a creek crossing the craft would do this, and I would lose sight of it from going to the bottom of the valley, and when I climbed back up in the truck to the hill top, the craft is back to my left and the same process repeated itself about half a dozen times of being to my left, rising and lowering itself then slowly drift over to my right and drop to the tree tops, almost like it was going to land.  It maneuvered a lot like a helicopter but there were no flashing lights, it was just a solid large bright white light and everything was silent, and if near a helicopter, the sound would’ve been so loud you could feel the vibrations from the sound of its motor.I followed the light for over 80km and reached a rest stop area about 10km from a town called Watson Lake, just inside the Yukon.  I pulled into the rest stop with the idea of stopping and getting out of my truck to try to listen for any sounds.  The rest stop is on a bit of a mountain ledge and when I pulled my rig in and stopped, the craft was out in the valley lowered and it was at eye level!!!  As quick as I could I opened the door and stepped down to the ground, and by the time I turned back to look in the valley, it had vanished.  I heard no sounds at all, and the time it took me to step out of the truck and turn to look out only took 2 seconds, if that and this craft was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132817.html](http://www.nuforc.org/webreports/reports/132/S132817.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/162/S162221.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162232.html)
-- [236](http://www.nuforc.org/webreports/reports/162/S162291.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162210.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
