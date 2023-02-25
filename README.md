@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:09 on 25 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:21 on 25 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Courtenay (Canada) (BC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two bright fluctuating lights on a large silent object over Vancouver Island.-update- This is to be an update to my earlier report please.  I was to excited the first time, and I now belive I know what kind of ship it was.-update- I saw two bright lights moving in an unconventional fashion.  When I first noticed the light it was behind a group of trees that was blocking my view.  I moved my head around to get a better look through the branches. After 20-30 seconds I gave up and continued with my smoke.  A half minute later I looked back at it to see if it had moved enough for me to see it better.  It had moved, to the left of the group of trees.  I was curious what it was because it was brighter than a plane.  As I studied it I noticed that it was actualy two lights close together. They looked to be about the distance apart of 1 centimeter held at arms length.  The two white lights had hints of many more smaller lights or possibly a reflection between the two.  It moved slowly to the left and then stopped dead before moving back to the right(it didn't seem to excelerate, or decelerate. It was just moving or it wasn't, with no in between speed) and continued in that direction until it was out of site about 15-20 seconds later.  The two lights stayed the same distance apart and at the same horizontal orientation to each other which rules out a plane banking. As its direction changed the one in the lead that was the brightest grew darker, and the one that NOW was in the lead, grew brighter.  Its position in the sky was very close vertically to the tree line on the other side of a clear cut that is about 500 meters across from my backyard. The object was in my opinion about 1/2 mile away, but could have been much further as its size was hard to judge.  There was no sound at all(it was a very quiet night) or blinking running lights like you see on all aircraft.  If it was a rescue helicopter from CFB Comox (the largest helicopters in the area) it would have been fairly loud from that distance and it also moved unlike any fixed wing aircraft commercial/private/or military I can think of.  Im located just on the outskirts of Courtenay B.C. to the west of town and I was looking north.Since I reported this I found a video on the net of a sighting from Belgium of a triangle shape ship.  There video shows it from below, and also from the side.  When shot from the side you can only see two lights, again with more small lights or a reflection connecting them.  I belive this is the same type of ship that I observed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22307.html](http://www.nuforc.org/webreports/reports/022/S22307.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>bright erratically moving light over south seattle.A bright light, shining consistently and travelling in an erratic pattern over the harbor area of Seattle, possible south of the harbor. Bright bright light continued erratic motion for a few seconds before dropping behind the hills.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68944.html](http://www.nuforc.org/webreports/reports/068/S68944.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/162/S162221.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162232.html)
-- [236](http://www.nuforc.org/webreports/reports/162/S162291.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162210.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
