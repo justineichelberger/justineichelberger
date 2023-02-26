@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:24 on 26 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:21 on 26 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Marlboro (VT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Strange objects emerge from cloudsWhilst de-icing our car my attention was drawn to 3 low flying military hellicopters (looked like black hawks but with a sharper nose cone) at approximately 400ft above cattle fields. These helicopters were travelling at around 100-120mph but slowly came to a complete stop and went another 200 feet up. About 10 seconds after this I noticed lots of small shapeless bright dots emerge from a cloud.  It looked very similar to the debris you get when rockets explode.  As more emerged from the cloud I realised it was not debris as they seemed to be 'falling' in a series of different single file rows.  As they approached the helicopters they were only 1/2 mile away and I got a scale and I quessed that these objects were about 5 by 5 feet big and looked as though they were wrapped in aluminium foil. When they all completely got out the clouds they were all loosing altitude and travelling at about 80mph. I want to make it clear that the movements of the objects were very jurky which was very strange, as if they would fly 20 feet, then stop for a fraction of a second, a bit like watching a video which was not fully buffered. As the objects approached the ground they got within 100 feet of the ground but then accelerated upwards at a 90 degree angle back into the clouds at a speed of 400mph.  Both my inlaws witnessed this and so do two elderly women who stopped their car at the end of our street.  About 5 minutes after this 1 helicopter left in a south easterly direction.10 minutes after this both remaining helicopters left steight south.  These two helicopters flew about 600 ft over some housing and US ARMY could clearly be seen on the side of the Helicopters. One thing I did notice about them which I thought was strange was that there seemed to be a lampshade like object hanging from the bottom of these helicopters which omitted a yellow light every 4-5 seconds.((NUFORC Note:  Witness describes self as a medical professional.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61954.html](http://www.nuforc.org/webreports/reports/061/S61954.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Long Beach (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>White colored upside down V shaped light/craft.I saw one upside down v shaped light/craft. It was white in color. It appeared for  I'd say 3 to 5 seconds it moved downward in the sky and then completely disappeared. There were no blinking lights it was one color only in a upside down V shape. The ends of the light/craft were hazy. There was no sound. The only other object I saw in the sky was a hellocopter whitch was far in the distance no where near where I saw the light/craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61946.html](http://www.nuforc.org/webreports/reports/061/S61946.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162303.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162229.html)
-- [251](http://www.nuforc.org/webreports/reports/164/S164267.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162283.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
