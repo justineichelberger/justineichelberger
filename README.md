@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:25 on 26 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:24 on 26 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Hadley (MA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Saw rectangular shaped craft hovering over farm with 40 plus lights on it.On the evening of 2/26/19,, around  20:50 to 21:00 driving south on Rt.47 towards our home in South Hadley, we noticed a huge object, full of lights, hovering over the dairy farm on left of us.  Skinner Mountain was in the back of it.  It had a square configuration of lights  red, yellow, and white.  The corners each had a red light.  Couldn’t tell if the outsides of the craft we rounded or not.  Almost seems it had 2 levels to it.  Overall size was maybe  60 x 60.  Initially, it was about 40 to 50 foot of the ground.  It moved slowly upwards (no sound) in a few seconds, up over the mountain which was  600 + feet.  My wife, and granddaughter all saw this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145380.html](http://www.nuforc.org/webreports/reports/145/S145380.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Warrenville (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Green sphere like object moving at 45 degree angle.Driving down the road I was driving and seen a green sphere descend at a 45-ish degree angle.  Passenger seen the object move horizontally for a few seconds then turn to a 45 degree angle in what looked like was headed to the ground</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145011.html](http://www.nuforc.org/webreports/reports/145/S145011.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162303.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162229.html)
-- [251](http://www.nuforc.org/webreports/reports/164/S164267.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162283.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
