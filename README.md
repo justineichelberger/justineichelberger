@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:27 on 26 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:21 on 26 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Incline Village (NV) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Unknown light/disc over Incline Village, NV - Disc changed color from white to red/spinning rainbow color, then disappeared after 5 minLooking East from near the corner of Divot and Country Club Dr., Incline Village, NV.  An airplane was heard, I looked up and saw what looked to be a star or bright light (approx. like Venus) at 45 degrees high in the sky due East.  The airplane passed, the "star" continued to shine and move approx. 15 degrees North in the sky from original sighting location.  The "Star" changed colors to red and rainbow colors and appeared to spin.  The color changed  back to white and red/rainbow colors several times.  At times, light appeared to change shape, like a disc moving about.  After approx. 5 mins, the light disappeared behind a cloud.  There was no contrail or smoke trail, as you would expect from a missile/aircraft test.  Please let me know if there were any other reports or miliary tests in the area.  Thanks, ((name deleted)) cell 775-((telephone number deleted)).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42517.html](http://www.nuforc.org/webreports/reports/042/S42517.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>On 2/26/21 I saw what looked like 2 suns coming up. I am not sure if it is reflection or real. The same day as the UFO sighting I captured.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162240.html](http://www.nuforc.org/webreports/reports/162/S162240.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162303.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162229.html)
-- [251](http://www.nuforc.org/webreports/reports/164/S164267.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162283.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
