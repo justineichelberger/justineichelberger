@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:28:22 on 26 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:10:04 on 26 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Weston (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>White/green/red stationery light in sky...2nd light nearby flashing...then faded away.Bright light in sky.  Not an airplane because it didn't move.  Not a star because it was twinkling white, green and red lights.  To the left was another star-like light that seemed to blink a few times then stop...blink again a few time then stop, etc.  After 5 mins. or so both lights grew dimmer and more distant until they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27896.html](http://www.nuforc.org/webreports/reports/027/S27896.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Hampton (VA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Lit offset T formation over hamptonOn the night of February 26, 2012 I witnessed a formation of lights in the skies over Hampton Virginia.  I was standing on my deck facing north when I noticed a formation of dim lights traveling from east to west.  The formation was more of an offset T then a V and moved fairly slow.  There were approximately 12 lights that were not blinking.  As I watched the formation move across the sky one of the lights shifted from one side of the T to the other and back, it only did this once.  I called my 16 year old daughter outside and she watched the formation with me until it had passed out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87386.html](http://www.nuforc.org/webreports/reports/087/S87386.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162303.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162229.html)
-- [251](http://www.nuforc.org/webreports/reports/164/S164267.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162283.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
