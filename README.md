@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:26 on 25 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:34 on 26 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Very high space craft moving extremely fast and jogging across sky, horizon to horizon in a less than a minute.We were  going to look at the moon and two planets, jupiter and venus-i think, in the western sky and look for the northern lights.  The local news NBC 5 St. Louis said they would all be out tonight and the sky would be very beautiful.  As we walked out the door and looked up we saw an odd airplane way up in the sky and thought look at how fast they are going.  It was moving from the southeast to the north west. (our front door faces south)  This was way up in the sky headed toward the big dipper. It was moving very fast, and was way, way up in the sky. We thought it might be the russian kosmos satellite, because kosmos was suppose to be out tonight also, so we looked at the thing on our i phone and it was not available or identifiable and it was not a satellite. This thing was triangle in shape with a thin line around the triangle and also had white and red lights flashing on it. Man it was moving super fast from s.e. to n.w then it looked like it shifted or b! lurred and it took a direct norht path. then another immediate jog to the due north. then it shifted back to the left or the west and right back to the north and then back to the northwest again. we watched it dissapear into the northern sky. we could see it until it went behind the horizon.  This was big, fast and way up there.  Moved much faster than the space station when it comes over. We have never reported a ufo we look at the sky often on with our i phone apps because we know what we are looking at now, most of the time.  This thing was big, fast and simply fantastic.  I think it was very special. I kept saying to my friend, this is something very special until it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87373.html](http://www.nuforc.org/webreports/reports/087/S87373.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in LaVergne (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately white bright streak - white bright streak minutes.</sub><blockquote><sub>A Very Bright Light Going Very Fast Across The Sky, Like A Meteor On The West Side , Heading In Northwest Direction.  It Went Down Just Moments After I Saw It!!  It Looked Just Like It Does When You See A Meteor, But I Was Told You Only See Meteors At Night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132858.html](http://www.nuforc.org/webreports/reports/132/S132858.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/162/S162221.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162232.html)
-- [236](http://www.nuforc.org/webreports/reports/162/S162291.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162210.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
