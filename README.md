@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:21 on 26 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:33 on 26 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Antioch (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Fireball like object, dropping something then disappearingThe object was a solid round orange fire like ball it moved across the sky in a strait line it didn't blink nor flash any lights but stayed a solid glowing orange.  Something expelled from the bottom of the light like a flare toward the earth and disappeared.  The object itself then began to flicker the orange light diappearing and reappearing until finally it was all togeather gone.  I've sighted this twice now within the space of a week.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27891.html](http://www.nuforc.org/webreports/reports/027/S27891.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Tonawanda (NY) reported seeing craft that fit the description of some 'Egg' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange egg shaped object traveling upward at 3 rates of speed and breaking the atmosphere or disintegrating-followed by a black triangular craft.I was at work at the Goodyear/Dunlop Tire corporation plant on D crew (night shift) in the process of training another employee on my job. Around 6:27am I went outside for a cigarette break leaving my fellow associate to run the machine alone. After a few drags something caught the corner of my eye. I immediately looked up at it to see it was an orange egg shaped object with a bright white glow around it travelling on an upwardward diagonal course at a steady fast rate of speed with a bright white tail or trail of sparks behind it. Then within milliseconds it accellerated 2 to 3 times faster and then accellerated about 5 times faster than that and dissapeared with a small cascade of the white light from behind it either breaking the atmosphere or disintegrating. Puzzled I took a few more drags of my cigarette coaming the sky with my eyes then looked to my far right (which would be the direction where the egg would end up had it warped or jumped) and I saw a black triangular shaped shadow of an object about cloud level or slightly above fly at a very fast rate of speed in the same direction as the egg. The black triangular craft flew out of site as it was obscured by the warehouse part of the plant. Niether object made any noise. I immediately told my foreman of the incedent and he had a compass on hand. There was a magnetic disturbance at first as his compass read approximately 90 degrees off (the general direction both objects had travelled.) After my shift was over at 7:00am He came outside with me to the exact location I was standing to figure out the location of such crafts in the sky. His compass seemed to work properly then and we came to these conclusions. I was facing 330 degrees. The first egg shaped object travelled approximately 30 degrees North by NorthEast. The second dark triangular craft flew in the same 30 degrees NNE from the east.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12127.html](http://www.nuforc.org/webreports/reports/012/S12127.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162303.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162229.html)
-- [251](http://www.nuforc.org/webreports/reports/164/S164267.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162283.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
