@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:19 on 26 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:25 on 26 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lansing (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Green light doing falling motion in the skyI was driving down west 496 and saw a bright green light in the sky falling fast.  Didn't look normal to me but happened very quickly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87382.html](http://www.nuforc.org/webreports/reports/087/S87382.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Beavercreek (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Very Large Object With Bright Red LightsI was standing Outside my home smoking and all of a sudden a large, red, circular object caught my attention. it was right above the tree line and had very bright red lights on it. it seemed to hover for about 2 minutes and abruptly disapeared. i stood out side and waited for some cars to go by to see if it was a reflection and no vehicle made any sort of reflection of that kind. i waited to see if it was a plane landing and no plane ever became visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55471.html](http://www.nuforc.org/webreports/reports/055/S55471.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162303.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162229.html)
-- [251](http://www.nuforc.org/webreports/reports/164/S164267.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162283.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
