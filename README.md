@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:45 on 26 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:21 on 26 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Columbia (MO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Single large fireball traveling SSE with no decrease in altitude for two minutes before abruptly extinguishingWhile digging my car out of a snowbank in my driveway with a neighbor, I was distracted by a light in the sky at 21:00 on February 26, 2013.  I am an amateur astronomer and also a nurse at the local trauma hospital (University Hospital in Columbia MO), so I assumed that the light was a "Life Flight" helicopter en route to the hospital (3.5 miles SSE of my house).  However, when I looked up, there was no helicopter... and the UFO was completely silent.  The UFO was a fireball, best described as an intensely orange light (seemingly lit from within) with flame-like orange  light emanating from the center without consuming it.  The speed of the craft was less than the speed of a helicopter, and despite the "fire," there was no decrease in altitude.  The UFO traveled fairly low ( the clouds were low and the UFO traveled below or at the cloud cover) in a south/southeast direction. After approximately two minutes, the UFO seemed to "extinguish" abruptly and faded from sight with no decrease in altitude.  I remarked to my friend several times that there was no sound at all from the UFO; the night was very quiet and I could only hear the traffic from I-70, one mile south of us.  I asked her to take a photo with her cell, but she was so disturbed by the UFO that she ran into her house carrying the snow shovel.  In my approximately 40 years of sky-watching, I have never seen anything resembling a UFO ... and certainly nothing resembling a slowly-moving fireball that burns without consuming itself or losing altitude or making a sound. Thank you for your time, expertise, and dedicated work.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96477.html](http://www.nuforc.org/webreports/reports/096/S96477.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Antioch (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Fireball like object, dropping something then disappearingThe object was a solid round orange fire like ball it moved across the sky in a strait line it didn't blink nor flash any lights but stayed a solid glowing orange.  Something expelled from the bottom of the light like a flare toward the earth and disappeared.  The object itself then began to flicker the orange light diappearing and reappearing until finally it was all togeather gone.  I've sighted this twice now within the space of a week.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27891.html](http://www.nuforc.org/webreports/reports/027/S27891.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162303.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162229.html)
-- [251](http://www.nuforc.org/webreports/reports/164/S164267.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162283.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
