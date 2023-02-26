@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:16 on 26 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:28:22 on 26 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Littlehampton () reported seeing craft that fit the description of some 'Rectangle' over a period of approximately several sconds - several sconds minutes.</sub><blockquote><sub>Fast moving silver objects, visible through Binoculars only. Heading South over English ChannelAt around noon on Friday 27th February, I observed to following. Clear Blue sky, 16x80 Binoculars. As I scanned the sky I noticed several hairline 'contrails' but not as left by a normal jet. These were rapid, then vanished. I saw about four of these very briefly, just two or three seconds. These lines converged at a similar point, moving at ultra high speed and head South across the Channel. The next sighting was shortly after. Two White/Silvery objects of undefined shape but NOT round, possibly near rectangular, moving almost side by side. One object slightly larger. The forward object was jinking up and down a tiny bit.The heading distance was South. Altitude unknown, but possibly above 30K Feet. These were visible for around three seconds. They were not 'plant seeds' like dandelion or round airborne seeds which we used to call 'fairy's' in the UK.At a guess, bearing in mind the possible height, these two object could have been travelling at around 2000 mph or thereabouts. Shortly after but higher up, not by much, a brief contrail streak appeared...slightly wriggly looking , perhaps by Vortex, lasted about two seconds then instantly dissolved to nothing. At a guess, the contrail could have been around the height of a normal contrail, perhaps much higher. Nothing more was seen in that region although I did notice a similar white object drifting West but these were airborne 'Fluff'. The Binoculars were focused to be clear at jet trail height. Any white 'fluff' close too would be blurred away. They were NOT Birds due to the extreme speed. They were not Eye Floaters which I suffer from, but there are not white and do not race South. Unless you were sharp eyed or had Binoculars trained on that section of sky, you would have missed them, even through 7x or 8x Binocs. These items are a mystery...Unidentified, possibly misidentified but none were birds and nothing we have knowingly flies at that speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162298.html](http://www.nuforc.org/webreports/reports/162/S162298.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Weston (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>White/green/red stationery light in sky...2nd light nearby flashing...then faded away.Bright light in sky.  Not an airplane because it didn't move.  Not a star because it was twinkling white, green and red lights.  To the left was another star-like light that seemed to blink a few times then stop...blink again a few time then stop, etc.  After 5 mins. or so both lights grew dimmer and more distant until they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27896.html](http://www.nuforc.org/webreports/reports/027/S27896.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162303.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162229.html)
-- [251](http://www.nuforc.org/webreports/reports/164/S164267.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162283.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
