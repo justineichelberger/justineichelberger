@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:28 on 26 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:28 on 26 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Manistee (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Saw a hovering object with 3 horizontal lights in the night sky, and it appeared, disappeared, reappeared numerous times.My husband and I were watching the stars out our bedroom balcony, when a set of strange lights appeared in the distant clear night sky to our west, over Lake Michigan.  The lights appeared quickly, but were too far away to detect the object's shape.  It at times moved slowly up and down, and to one side almost at an angle before returning to its original location.  It would disappear and reappear at least 7 times over the next 20 minutes, always in the same area.  The lights eventually disappeared completely behind the tree line, and we debated back and forth over possible explanations for what we just witnessed.  This object was unlike anything my husband had seen before, but eerily reminded my of a similar unreported event I witnessed alone more than 20 years ago.  We are very curious as to whether we are alone in this sighting or if others witnessed the same.Our background:  Both of us are in our early 40's, and are long-time business professionals and nature/wilderness enthusiasts.  We moved from Southeast Michigan to western Michigan in June of 2016 and recently finished building our dream home on a small inland lake.  We are not extremely religious individuals, nor are we convinced that Aliens exist or visit our planet.  We're skeptical of many and trust only a few, and live our lives according to the "Golden Rule." Hopefully you can offer some insight to what we saw tonight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132854.html](http://www.nuforc.org/webreports/reports/132/S132854.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Woodville (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately hour - hour minutes.</sub><blockquote><sub>Large red fire ball and several white lights.I was sitting out on the back porch looking to the trees on the back side of our property (south). When I saw a fire ball red in color float between the trees then dart out of sight.  As that happen I got a glimpse of white lights dancing around, about ten of them in the area of the red ball.  I called my wife out to make sure I was not seeing things and she confirmed that the lights were there. Sortly after our TV went haywire then stoped. This lasted about an hour then the lights disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96448.html](http://www.nuforc.org/webreports/reports/096/S96448.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162303.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162229.html)
-- [251](http://www.nuforc.org/webreports/reports/164/S164267.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162283.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
