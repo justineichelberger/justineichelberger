@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:28 on 26 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:23 on 26 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Lima (Peru) () reported seeing craft that fit the description of some 'Cross' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>positive id by numerous airlinersi have photo...reported by numerous airline aircraft…((NUFORC Note:  Photos do not appear very convincing to us.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35371.html](http://www.nuforc.org/webreports/reports/035/S35371.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Coeur d'Alene (ID) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Spherical,dark, huge, ominousLooking through my celestron telescope at Venus, I witnessed a spherical object, with a dark band through the center, moving towards venus in a long arch, traveling slowly upwards from north to south and stop above the planet.  The object was a dark/light gray uneven in color with a solid black band that went from top to bottom of the sphere.  The object appeared to be 1/2 the size of Venus.  It stayed above the planet.I checked the lense of the scope to see if there was a bug crawling across the lense.  It was clean.  I looked back into the scope and the object was still there.  I attempted to attach my IPhone to the lense to document the object but was unable to.  When I looked again it was gone.  It was not visible to the naked eye.  Just as a time reference for the event I did naked eye see the Space X Satellite pass close to Venus, shortly thereafter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153685.html](http://www.nuforc.org/webreports/reports/153/S153685.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162303.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162229.html)
-- [251](http://www.nuforc.org/webreports/reports/164/S164267.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162283.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
