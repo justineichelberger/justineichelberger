@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:06:29 on 27 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:28 on 27 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Owasso (OK) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>it was triangular with white lights on the side and red in the back.it was going north over my house it sounded like 30 jet airplanes and there were a ton of dogs barking there were red lights in the back and white on the sides of the triangle it was grey,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62358.html](http://www.nuforc.org/webreports/reports/062/S62358.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Floa Vista (NM) reported seeing craft that fit the description of some 'Other' over a period of approximately fast - fast minutes.</sub><blockquote><sub>It happed fast and silently.I saw a orange flash in the sky and a few seconds later i saw a flashing orange dot ziping across the sky. Then a miniute or two later it happend again. About a hour later i saw a star that had ben in the same place for 3 hours start flashing and go across the sky in the same direction of bolth orange dots but it went twice as fast.i am not lieing and i was not seeing things becase i was wide awake.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49337.html](http://www.nuforc.org/webreports/reports/049/S49337.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162238.html)
-- [245](http://www.nuforc.org/webreports/reports/164/S164173.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162233.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162237.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162227.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
