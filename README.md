@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:26 on 27 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:27 on 27 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Chloride (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>On Saturday February 27, at appoximatly 21:30 hrs I witnessed  two star like objects in the eastren sky.On Saturday February 27, 1999 at approximatly 21:15 hrs I witnessed two star like objects in the eastren sky moving in very eratic manuvers.  When the object were not moving they appeared to be stars among the others in the starfield. Using my dss dish as a reference, I say they were at about 85 degrees magnetic and about 35 degrees above the horizon. I observed them for about 6 minutes doing this jerking movement. Then the two lights moved closer to the moon. It was harder to see them against the moon light. After about 4 minutes they seemed to dim out until I could not see them.((NUFORC Note:  Please see other report from Lauglin, NV, for this date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05809.html](http://www.nuforc.org/webreports/reports/005/S05809.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Elkview (WV) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.6666666666666667 - 1.6666666666666667 minutes.</sub><blockquote><sub>On Feb. 27, 2016, at 2:51 pm a silver disc-like oval shaped object was seen above Elkview shopping plaza in Kanawha County, West VirginiaI was sitting outside of the Mcdonald's in Elkview waiting to clock into work, I was smoking a cigarette and looking at my phone (it didn't have a camera unfortunately) when something caught my eye like a bright reflection off a car.  I looked up and probably about 1,000 or so feet away behind the mountains where Wills creek begins, a silver disc-like object had rose up about 30 or 40 feet above the mountain tops.  I got my co-worker's attention who was smoking with me and she watched it as well until it disappeared.  As it rose slowly up in the air, it didn't really go straight up at first, more like in slow, diagonal, jerky movements at times, while it rotated on it's axis.  It had a spot about as bright as the sun on it (maybe even brighter, it's what caught my eye)and the sun was reflecting off of it, but the sun was above it, and the light rotated in a fixed spot on the craft, rotating with its axis. It was probably about 50-60 feet wide and 25-30 feet tall!.  It also seemed to be distorting its shape at times, like it was distorting or changing its shape or stretching and contracting.  After about a minute or so, it started to rise straight up really fast for about maybe 15 seconds, probably almost to 2,000 feet maybe 2,100 (the elevation in Elkview is 604 feet), where it stopped, quit rotating, and in a few seconds literally just vanished, liked it turned invisible or ceased to exist.  This was real, I wasn't high, drunk, in sleep deprivation, nor strung out on anything in withdrawal.  And I had a witness, at least two, of it so far I know, me and her.  It wasn't a drone, an airplane, a balloon (which I thought it might have been at first).((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138451.html](http://www.nuforc.org/webreports/reports/138/S138451.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162238.html)
-- [245](http://www.nuforc.org/webreports/reports/164/S164173.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162233.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162237.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162227.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
