@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:31 on 27 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:38 on 27 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Dublin (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I was driving home around 11:00pm on 2-27-09 when I something flying in the sky ahead of me. It struck me as odd because it was way too low to be a plane, but it was much larger then a helicopter and definitely not a blimp because the movement was very deliberate and faster then a blimp’s. It had 4 very bright white lights and 2 blinking red lights. I rolled down the window to see if I could identify it by the sound it made, but there was NO noise, it was completely silent! That when I pulled over to give it a harder look. The craft was huge and flying slowly and very low, about 5 stories off the ground, and it was completely silent. It was shaped like either a giant diamond or triangle. I could clearly see the right angle that made up the nose and I could see that the sides also meet at a sharp angles but the back was obscured by the incredibly bright white lights so the shape of the rear was a little hard to make out. As it flew directly over me I could see that it was very dark gray with a black circle in the center. It pass over my head and then make a large arc in the sky and flew west back towards San Francisco. I watched it go over the horizon until it couldn’t see it anymore. The whole thing lasted about 12 minutes. Amazed at what I had just see I got in my car and drove the remaining 6 blocks home. Then, when I was getting out of my car, I saw another one! This one was also silent but it was a little faster then the first and flew higher in the air, about 8 stories up. This one also had bright white and red lights but unlike the first one I could clearly see that it was triangle shaped. It followed the path of the first but made a slightly tighter arc and continued straight west. As I watched it go, I saw that it was flying towards another one that was far off in the horizon. It joined the other and they both flew north until I couldn’t see them anymore. None of my roommates believed me but know what I saw. Other people must have seen them too because they flew over very populated areas.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69030.html](http://www.nuforc.org/webreports/reports/069/S69030.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Alpine (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>triangular shaped object with green steady lights moving slowly with no sound and disappeared.The shape of the craft was triangular, kind of like a kite, with bright green lights, they were not blinking lights. The craft was low it was moving slowly but not too slow, there was no sound coming from it, just dead silence. As we were following it in our car we took our phones out to record it but by the time we got our phones ready it disappeared right in front of our eyes. Two hours later other people heard the sound of a jet flying by, and this morning I also heard a jet flying by and earlier this evening there were traces of the smoke the jets leave in the sky, but the object we saw was not a jet because there was no noise coming from it what so ever and jets or airplanes don’t just disappear like that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61985.html](http://www.nuforc.org/webreports/reports/061/S61985.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162238.html)
-- [245](http://www.nuforc.org/webreports/reports/164/S164173.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162233.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162237.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162227.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
