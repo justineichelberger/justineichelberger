@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:30 on 27 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:25 on 27 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Sorry for the false information but I didn't know another way to reach you. I my self have been questioned years ago for statements I made while in the Army Reserves while on active duty, as I followed and read Operation Blue Book material and made some quotes about an aircraft that crashed in upstate New York in the late 1970's. I have also seen things like advanced lazer technology with Huges Aircraft that would scare many people today! What I have come to understand is really simple. People do see things they can not explain or identify. But remember the F-117 first flew in 1969. The stealth single wing bomber around the same time. The F-71 Blackbird before that! Please tell me we haven't made any advancement in aircraft in nearly 40 years? I'm fully convinced of UFO's but of our advanced military. Are you seriously going to tell me, that people or beings flew lightyears accross the universe to put graffiti in our corn fields, but did't have enough intell! igents to leave a post card, or hack our primative internet to say "What's Up?" Or "See Me, Feel Me Dude?" Don't want to get to sarcastic, but please try a tiny bit of common sense. If NASA has already admitted in their park to flying 15 times the speed of sound 30 years ago, where do you think we are now? Think about computers, and cellphones and where they've come in 30 years. Hope you at least respond. I do not rule the possibility out completely, but at best it's a 1% or less shot. Mostly they wouldn't do graffiti.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74804.html](http://www.nuforc.org/webreports/reports/074/S74804.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Santa Ana (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red light viewed in Orange County.Was walking outside of my grandparent's house (I live next door to my grandparents) and I heard a siren.  I quickly looked around to see if anything was happening nearby.  I looked up at the sky and saw a bright, red light which seemed to be traveling upward.  At first I thought it was some sort of flare, but the light quickly became brighter and traveled in my direction.  I quickly went to get my grandmother to show her the UFO.  She briskly walked outside and looked at where I pointed, and she stood there staring with intense curiosity at the object.  At this point, the object seemed to be almost directly above us, but it seemed to be going higher and higher.  Then, wanting even more witnesses, I ran to my house to get my mother.  I excitedly told her there was a UFO outside, and she followed me back outside. The object was now farther away, more towards the south.  My mother ran inside to get a pair of binoculars, but by the time she returned, the object had almost completely faded away. This all happened throughout the course of approximately three minutes.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96457.html](http://www.nuforc.org/webreports/reports/096/S96457.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162238.html)
-- [245](http://www.nuforc.org/webreports/reports/164/S164173.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162233.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162237.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162227.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
