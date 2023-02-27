@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:22 on 27 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:31 on 27 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Antelope (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>it was very dark as i watched them move acrss the skyAt 5:45am PST near Sacramento I went outside looked up at the sky and witnessed an on going stream of lights that looked like stars moving slowly across the sky north to south, they were evenly spaced, in a perfect line no pulsing light just a very steady light. I went inside grabbed my camera and recorded it for over 38 seconds but my phone shows nothing but darkness. It wasn't satellites nor was it any kind of plane.it actually looked like a line of stars moving slowly across the sky.  I saw at least 40 of them</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153656.html](http://www.nuforc.org/webreports/reports/153/S153656.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Dublin (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I was driving home around 11:00pm on 2-27-09 when I something flying in the sky ahead of me. It struck me as odd because it was way too low to be a plane, but it was much larger then a helicopter and definitely not a blimp because the movement was very deliberate and faster then a blimp’s. It had 4 very bright white lights and 2 blinking red lights. I rolled down the window to see if I could identify it by the sound it made, but there was NO noise, it was completely silent! That when I pulled over to give it a harder look. The craft was huge and flying slowly and very low, about 5 stories off the ground, and it was completely silent. It was shaped like either a giant diamond or triangle. I could clearly see the right angle that made up the nose and I could see that the sides also meet at a sharp angles but the back was obscured by the incredibly bright white lights so the shape of the rear was a little hard to make out. As it flew directly over me I could see that it was very dark gray with a black circle in the center. It pass over my head and then make a large arc in the sky and flew west back towards San Francisco. I watched it go over the horizon until it couldn’t see it anymore. The whole thing lasted about 12 minutes. Amazed at what I had just see I got in my car and drove the remaining 6 blocks home. Then, when I was getting out of my car, I saw another one! This one was also silent but it was a little faster then the first and flew higher in the air, about 8 stories up. This one also had bright white and red lights but unlike the first one I could clearly see that it was triangle shaped. It followed the path of the first but made a slightly tighter arc and continued straight west. As I watched it go, I saw that it was flying towards another one that was far off in the horizon. It joined the other and they both flew north until I couldn’t see them anymore. None of my roommates believed me but know what I saw. Other people must have seen them too because they flew over very populated areas.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69030.html](http://www.nuforc.org/webreports/reports/069/S69030.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162238.html)
-- [245](http://www.nuforc.org/webreports/reports/164/S164173.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162233.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162237.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162227.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
