@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:38 on 27 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:06:29 on 27 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Alpine (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>triangular shaped object with green steady lights moving slowly with no sound and disappeared.The shape of the craft was triangular, kind of like a kite, with bright green lights, they were not blinking lights. The craft was low it was moving slowly but not too slow, there was no sound coming from it, just dead silence. As we were following it in our car we took our phones out to record it but by the time we got our phones ready it disappeared right in front of our eyes. Two hours later other people heard the sound of a jet flying by, and this morning I also heard a jet flying by and earlier this evening there were traces of the smoke the jets leave in the sky, but the object we saw was not a jet because there was no noise coming from it what so ever and jets or airplanes don’t just disappear like that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61985.html](http://www.nuforc.org/webreports/reports/061/S61985.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Owasso (OK) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>it was triangular with white lights on the side and red in the back.it was going north over my house it sounded like 30 jet airplanes and there were a ton of dogs barking there were red lights in the back and white on the sides of the triangle it was grey,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62358.html](http://www.nuforc.org/webreports/reports/062/S62358.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162238.html)
-- [245](http://www.nuforc.org/webreports/reports/164/S164173.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162233.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162237.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162227.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
