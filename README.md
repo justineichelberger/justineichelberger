@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:05:16 on 27 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:32 on 27 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Fredericksburg (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Four or five lights appearing to emanate from the  clouds in the southwest skyAt about 9:00 p.m. this evening I was taking my two dogs out for a walk.  The sky was cloudy and the wind was blowing at about 10 to 15 mph.  I looked up and noticed four or five white lights in the clouds making wide circles (in the south west sky).  At first I thought it might be a search light (and it could have been) but I also noticed that the lights were moving slowly west.  They would make wide circles, then join in the middle, separate and continue making wide circles.  I watched for about two or three minutes, then noticed that they changed from clockwise to counter clockwise orbits. They gradually stopped, one at a time.  From the time I began observing them to the time they fades was about 5 minutes.  The shift westward from the time I began observing them to the time they faded was about 20 degrees.  I am reporting this because I could not discern any beam of light coming from the ground.  It looked like the lights were embedded in/emanating from the clouds.  I called for my 16 year old daughter and she also witnessed the lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68978.html](http://www.nuforc.org/webreports/reports/068/S68978.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Alpine (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>triangular shaped object with green steady lights moving slowly with no sound and disappeared.The shape of the craft was triangular, kind of like a kite, with bright green lights, they were not blinking lights. The craft was low it was moving slowly but not too slow, there was no sound coming from it, just dead silence. As we were following it in our car we took our phones out to record it but by the time we got our phones ready it disappeared right in front of our eyes. Two hours later other people heard the sound of a jet flying by, and this morning I also heard a jet flying by and earlier this evening there were traces of the smoke the jets leave in the sky, but the object we saw was not a jet because there was no noise coming from it what so ever and jets or airplanes don’t just disappear like that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61985.html](http://www.nuforc.org/webreports/reports/061/S61985.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162238.html)
-- [245](http://www.nuforc.org/webreports/reports/164/S164173.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162233.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162237.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162227.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
