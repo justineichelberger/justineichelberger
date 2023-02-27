@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:25 on 27 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:31 on 27 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Santa Ana (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red light viewed in Orange County.Was walking outside of my grandparent's house (I live next door to my grandparents) and I heard a siren.  I quickly looked around to see if anything was happening nearby.  I looked up at the sky and saw a bright, red light which seemed to be traveling upward.  At first I thought it was some sort of flare, but the light quickly became brighter and traveled in my direction.  I quickly went to get my grandmother to show her the UFO.  She briskly walked outside and looked at where I pointed, and she stood there staring with intense curiosity at the object.  At this point, the object seemed to be almost directly above us, but it seemed to be going higher and higher.  Then, wanting even more witnesses, I ran to my house to get my mother.  I excitedly told her there was a UFO outside, and she followed me back outside. The object was now farther away, more towards the south.  My mother ran inside to get a pair of binoculars, but by the time she returned, the object had almost completely faded away. This all happened throughout the course of approximately three minutes.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96457.html](http://www.nuforc.org/webreports/reports/096/S96457.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Grand Rapids (MI) reported seeing craft that fit the description of some 'Changing' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>color and shape changing, ball/cigar. spotted above st.mary's hospital for 45 minutes hovering still then floating around.Seen a color changing, light fading ball and then transformed into a cigar then back to a ball. it was hovering above the area of st.mary's hospital.  My girlfriend was the first to witness the ufo thinking it was a star.  Until we started seeing it move in every direction. There's no way a plane wouldve stayed in our sight that long.  There's no way a helicopter would have hovered that long or probably be allowed to over the hospital air space.  It was not a drone because it had very bright color changing lights.  It was not ball lightning because at most that lasts less than 30 seconds, and this went on for 45 minutes.  At some points, we thought we seen some lights fly off of it.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133906.html](http://www.nuforc.org/webreports/reports/133/S133906.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162238.html)
-- [245](http://www.nuforc.org/webreports/reports/164/S164173.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162233.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162237.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162227.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
