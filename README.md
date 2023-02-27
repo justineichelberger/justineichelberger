@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:32 on 27 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:31 on 27 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Wichita Falls (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>White and orange and seems to evade the military jets that do there night training at the air base near here.February 27:  Maybe a second or two on can.  A light around the size of a 16 inch rims,as big around as the tires on my truck, a travel northwest to southeast visible for about 10 to15 seconds with the naked eye, I caught a second or 2 of it on cam before just vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96486.html](http://www.nuforc.org/webreports/reports/096/S96486.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Detroit (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I was a commuter airline pilot at the time (co-pilot).  We were flying from Pittsburg, PA to Saginaw, michigan at an altitude of 16,000 ft in a Beech 1900D turboprop.  We saw a bright light at our altitude over detroit.  We asked Cleveland Center (Air Traffic Control) if they had any traffic.  They did not.  We were heading northwest bound (~ 330 heading).  Light persisted for approx 20 min until we descended for landing in Saginaw.  Distance was difficult to tell at night.  I know that two other aircraft saw the light, and one of them took a photograph (which was eventually on a web site).  I was curious if you have this event on file and whether it was ever explained (flare for ex.).  I would like this report to remain confidential but would appreciate further info; please do not release my name.((NUFORC Note:  We have spoken with the witness, and find him to be a quite credible witness.  We have also spoken with the pilot of the aircraft, and we have the audio of the radio communication with the FAA.  A photograph was taken from a second aircraft, and is in the hands of a journalist.  He wrote an article about the incident, but when he submitted the article to his editor, he was told that the newspaper did not print articles about UFO's.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15014.html](http://www.nuforc.org/webreports/reports/015/S15014.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162238.html)
-- [245](http://www.nuforc.org/webreports/reports/164/S164173.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162233.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162237.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162227.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
