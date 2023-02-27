@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:28 on 26 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:39 on 27 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Stanwood (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Multiple witnesses observe 2 white lights near Camano Island.  Moved.  MUFON member followed up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00217.html](http://www.nuforc.org/webreports/reports/000/S00217.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Antioch (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Fireball like object, dropping flare like objects then disappearingThe craft this morning was bright orange and seemed to be closer than last nights. It traveled across the sky dropping first one flare like object and then another which split into two objects before it disappeared.  This all happened at 5am this morning and lasted for about 7 minutes.  My daughter was with me and witnessed the entire thing.  We also noticed no planes but it was rather cloudy.  The flare like objects that fell from the Fireball were the same color with sparkling Fire-cracker like tails.  They faded before falling completely to the ground.  About 10 minutes after the sighting a helicopter was circleing the vacinity were we saw the fireball craft.  And I remember helicopters after the other craft sightings.  I believe these might be pre-ordained drops. But what's being dropped and Who or What is dropping it I'd sure like to know.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27897.html](http://www.nuforc.org/webreports/reports/027/S27897.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162303.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162229.html)
-- [251](http://www.nuforc.org/webreports/reports/164/S164267.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162283.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
