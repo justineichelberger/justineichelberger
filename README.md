@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:24 on 27 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:46 on 27 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Irricanna (Canada) (AB) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>dished out or fat triangle bright lights on each point dull gray with red blue green lights on the back making a low humFirst noticed bright light comming from the south heading north.IT was high thought it was a star.Object then turned east it was moving slowly it went on for about 5 mins then it turned to head west and started heading west it came lower to the ground and it came in front of my house if I put my arm out with a closed fist it would be at a 45 degree roughly the size of my fist.The craft was a triangular(dished out)with 3 bright lights on the points it was a dull gray when the craft passed over the underside seem to have glass or a illumination from the metal running the underside it passed and there was a seqence of red blue green on the back side it also made a low hum but very quite. It moved west and seemed to join up with 2 other lights(I could not make out details of the otherlights)and then they seemed to start a search going up and down stopping and hovering and  then they moved on</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16670.html](http://www.nuforc.org/webreports/reports/016/S16670.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Rio Rancho (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Fast lights spottedGreen light briefly shooting across the sky with a smaller red light attached in the back, too fast to be a plane headed downwards north to south</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153649.html](http://www.nuforc.org/webreports/reports/153/S153649.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162238.html)
-- [245](http://www.nuforc.org/webreports/reports/164/S164173.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162233.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162237.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162227.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
