@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:32 on 27 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:26 on 27 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Alpine (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>triangular shaped object with green steady lights moving slowly with no sound and disappeared.The shape of the craft was triangular, kind of like a kite, with bright green lights, they were not blinking lights. The craft was low it was moving slowly but not too slow, there was no sound coming from it, just dead silence. As we were following it in our car we took our phones out to record it but by the time we got our phones ready it disappeared right in front of our eyes. Two hours later other people heard the sound of a jet flying by, and this morning I also heard a jet flying by and earlier this evening there were traces of the smoke the jets leave in the sky, but the object we saw was not a jet because there was no noise coming from it what so ever and jets or airplanes don’t just disappear like that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61985.html](http://www.nuforc.org/webreports/reports/061/S61985.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Chloride (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>On Saturday February 27, at appoximatly 21:30 hrs I witnessed  two star like objects in the eastren sky.On Saturday February 27, 1999 at approximatly 21:15 hrs I witnessed two star like objects in the eastren sky moving in very eratic manuvers.  When the object were not moving they appeared to be stars among the others in the starfield. Using my dss dish as a reference, I say they were at about 85 degrees magnetic and about 35 degrees above the horizon. I observed them for about 6 minutes doing this jerking movement. Then the two lights moved closer to the moon. It was harder to see them against the moon light. After about 4 minutes they seemed to dim out until I could not see them.((NUFORC Note:  Please see other report from Lauglin, NV, for this date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05809.html](http://www.nuforc.org/webreports/reports/005/S05809.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162238.html)
-- [245](http://www.nuforc.org/webreports/reports/164/S164173.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162233.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162237.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162227.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
