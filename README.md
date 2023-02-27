@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:39 on 27 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:35 on 27 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Antioch (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Fireball like object, dropping flare like objects then disappearingThe craft this morning was bright orange and seemed to be closer than last nights. It traveled across the sky dropping first one flare like object and then another which split into two objects before it disappeared.  This all happened at 5am this morning and lasted for about 7 minutes.  My daughter was with me and witnessed the entire thing.  We also noticed no planes but it was rather cloudy.  The flare like objects that fell from the Fireball were the same color with sparkling Fire-cracker like tails.  They faded before falling completely to the ground.  About 10 minutes after the sighting a helicopter was circleing the vacinity were we saw the fireball craft.  And I remember helicopters after the other craft sightings.  I believe these might be pre-ordained drops. But what's being dropped and Who or What is dropping it I'd sure like to know.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27897.html](http://www.nuforc.org/webreports/reports/027/S27897.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Laughlin (NV) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>JUST PREVIOUSLY MADE A LATER REPORT, THINK I SHOULD INCLUDE THIS EARLIER ONE ON SAME DAY.  STANDING OUTSIDE ON PROMINADE WALK WAY OUT SIDE OF HOTEL UFO CONFERENCE NOTED A SMall group of people to my right.  many of whom were pointing up at the sun.  Looking up in the same direction saw a light and dark object hanging near it, perhaps in front of and also just south of it.  Don't know if they were same or seperate.   It resembled a moon probe I once saw in a maganize many years ago. Having legs, at least two.  It was dark in the center and light arround its edges.Was rentesent (reticent) about making these reports because their were so many others, including peter Davenport viewing these.  It occured to me he and many others may have not seen this one.  Obviously, many of us saw the 9:30 pm siteing which was much clearer.  None the less consider that it too may be importent for study.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05796.html](http://www.nuforc.org/webreports/reports/005/S05796.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162238.html)
-- [245](http://www.nuforc.org/webreports/reports/164/S164173.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162233.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162237.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162227.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
