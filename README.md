@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:31 on 27 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:27 on 27 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Detroit (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I was a commuter airline pilot at the time (co-pilot).  We were flying from Pittsburg, PA to Saginaw, michigan at an altitude of 16,000 ft in a Beech 1900D turboprop.  We saw a bright light at our altitude over detroit.  We asked Cleveland Center (Air Traffic Control) if they had any traffic.  They did not.  We were heading northwest bound (~ 330 heading).  Light persisted for approx 20 min until we descended for landing in Saginaw.  Distance was difficult to tell at night.  I know that two other aircraft saw the light, and one of them took a photograph (which was eventually on a web site).  I was curious if you have this event on file and whether it was ever explained (flare for ex.).  I would like this report to remain confidential but would appreciate further info; please do not release my name.((NUFORC Note:  We have spoken with the witness, and find him to be a quite credible witness.  We have also spoken with the pilot of the aircraft, and we have the audio of the radio communication with the FAA.  A photograph was taken from a second aircraft, and is in the hands of a journalist.  He wrote an article about the incident, but when he submitted the article to his editor, he was told that the newspaper did not print articles about UFO's.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15014.html](http://www.nuforc.org/webreports/reports/015/S15014.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Waynesburg (PA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Diamond craft in SW Pa.On February 27, I was getting ready to go to bed and I happened to look out the window of my downtown Waynesburg apartment.  Above the First National Bank building something caught my eye.  There are several towers from the energy industry around but they are predominantly stationary and more to the far left of my window.I thought the object was weird because it did not have the appropriate lights for an airplane or helicopter.  As I peered closer, I saw it was a diamond shaped craft, with an undulating pulse of green, red and blue lights.  It moved slowly in a circular motion but for the most part just hovered.The next morning, I double checked to make sure they didn't just put another tower up and beheld that above the bank building and in the distance, there are no towers viewable.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107546.html](http://www.nuforc.org/webreports/reports/107/S107546.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162238.html)
-- [245](http://www.nuforc.org/webreports/reports/164/S164173.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162233.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162237.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162227.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
