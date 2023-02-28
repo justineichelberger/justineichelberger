@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:27 on 28 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:50 on 28 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Charlotte (outside of; I-485) (NC) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Daytime sighting of Boeing 737s suspended motionless in air over 485 outside CharlotteMy mom and I witnessed several motionless jets in the sky over 485 outside Charlotte, NC, on our drive from 85 north to 77 north.  The jets appeared to be Boeing 737s and they were only a few hundred feet above the highway.The weather on Sunday, February 28, 2016, was sunny and completely clear with only light winds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126105.html](http://www.nuforc.org/webreports/reports/126/S126105.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Grafton (NH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>i called fish and game and they said it was a cross breed, the problem is there were 2 identical animals.my wife and I moved here last year, one night after dark ,in oct. of last year, I saw a very bright light in the eastern sky after a few min. I went back too my tv show, after it was over I looked out and saw the bright light again, all of a sudden it shot straight down, in about 1 sec. it was gone. week later about an hour before dark, I stepped out my  back door to have a smoke . and there standing broadside about 20 ft. away , was an animal I have never seen before. I grew up hunting and fishing since I can remember. I'm almost70 now. I have seen the light several times since, but fri. 28 that around 6:30 pm. I saw it again this time it was brighter than ever in the eastern sky' it appeared brighter than the first time it didn't move after 10 min. I went back inside abd an hour or so latter it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153720.html](http://www.nuforc.org/webreports/reports/153/S153720.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
