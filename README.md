@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:35 on 28 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:28 on 28 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>round circles of light chasing each other in sky at high rate of speedRt 376 while traveling past Pittsburgh Airport I saw two round "lights" chasing each other going in oblong circles at a very high rate of speed.  They seemed to keep pace with my vehicle until I left the area.  The night was cloudy and they seemed to be above the clouds. At first I thought they were searchlights in the sky but realized they were independent lights unto themselves.  How they could escape radar is beyond me as they were very close to the airport.  It seemed like a game to them.  No person could survive being in these craft as the "G" forces would be tremendous.  Strangest thing I have ever seen.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107826.html](http://www.nuforc.org/webreports/reports/107/S107826.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Bury St Edmunds (UK/England) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>6 or 7 black flying objects in the skys of Bury St. Edmunds, UKFeb 28, 2009 @ 1705, My daughter and I were at Bury St. Edmunds, UK.  We were in the Abby Gardens when we noticed a formation of what we thought were black balloons (thought they might have been a cluster of parachutes too)   Each craft looked as if 2 hot air balloons were side by side and connected.  There were 6 to 7 total.They were ascending and descending and moving left to right for the first couple of minutes.  I was able to capture a small video clip on my phone.  I do not know if the quality is any good yet.  I stopped a man to verify my sighting, and he agreed it to be a UFO of some kind (I did not get his name).  We watched them ascend out of site by 1710.  The formation was much more scattered toward the end. On the way out of the park I noticed a lone UFO craft that was speeding toward the direction the other craft had gone (1713).I swear and affirm this story to be true. I even studied the local bird patterns to verify it was a UFO of some sort.  I have tried repeatedly to find a reason these were not UFO’s and I cannot find any.  My 10 year old daughter also witnessed the entire event from start to finish.  We were not on any substances or drugs nor do we suffer from any medical or mental conditions.We will be contacting the Bury Free Press newspaper with the story to see if there were any other reports.  Oddest thing I have ever seen in my life</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68998.html](http://www.nuforc.org/webreports/reports/068/S68998.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
