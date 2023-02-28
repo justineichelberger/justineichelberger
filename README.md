@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:04:31 on 28 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:24 on 28 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in East Rutherford (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Circular object, moving slowly, straight line, aprrox alt. 5000 ft. Slighty Illuminated in a dark orange/burnt sienna color, no blinking lights/silent.Approx 12:25 am on Feb. 28th 1999...I was a DJ for a local party. After the party had ended, I was loading my equipment and jst about finished when 7-8 people were standing in the parking lot of the restaurant looking up at the sky directly overhead. A few a the men and women(mixed crowd) were continually saying in amazment, "what the hell is that"??? They kept saying that for a few seconds and when i looked up it was directly overhead moving from southeast to northeast at a very slow pace. Newark Int. Airport is approx 5 miles from the sighting area and the object was witnessed crossing against the local approach pattern for incoming aircraft.The object was witnessed moving at a very slow rate of speed...slower that any aircraft on approach to landing Approx. moving at a speed of 100 mph or less. the object was observed for approx. 45 seconds and was circular in shape, however, looking up from belore it may have been round. There was a very subtle cloud scatter of very ligyt nature but even with the clouds visibilty was about 90 percent. The object was deep orange in color and almost had a transparrent look to it. there were no blinking lights or strobes and the object made no sound at all.after we veiiewed it for 15 seconds or so..one of the men ran inside to some of the others whom had remained at the party a little later.Several more people came out and witnessed the object for the 20 seconds or so, but by that time it was quite out of range for the human eye to see. from the direction it came from...it had to have passed over a very busy Meadowlands Horce race track the was still in session at the time. It also may have passed over the southern tip of New York City's Lower Manhattan before making it's way across the Jersey Border. That's about all I can tell you at this time. what an experience..!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05807.html](http://www.nuforc.org/webreports/reports/005/S05807.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Redmond (WA) reported seeing craft that fit the description of some '' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Caller reported that he and an adult friend were witness to a very bright, "neon green" light travel from the south to the northeast at an extremely high speed.  The object was round and  larger than a star, but smaller than the moon.  Its color was distinctly green.  It was not an aircraft.  They had been looking to the northwest when they saw it.They called King County Police to report the incident.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01360.html](http://www.nuforc.org/webreports/reports/001/S01360.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
