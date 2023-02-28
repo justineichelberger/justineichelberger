@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:25 on 28 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:23 on 28 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Charlestown (RI) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Light over submarine base, Groton, CT.This sighting is submitted by the UFO LAB in Richmond, RI. On the night of Monday Feb. 28, 2000 at approximately 9:30 pm we were called by two of our members.  They had spotted a strange light hovering over some turf fields next to the Chario High School.  We called a friend and the three of us headed for the area of the sighting.  Upon arriving, we spotted the light hovering above the submarine base at Groton,CT. The light was very bright and unchanging.  The light then moved up and down.  It then bounced to the left and bounced back to the right.  The base at Groton, CT is a nuclear submarine base.  We watched it for approximately 5 minutes then it faded and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12199.html](http://www.nuforc.org/webreports/reports/012/S12199.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Andover, Hants (UK/England) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Me, my brother and a friend were going out to meet two friends when i noticed a blinding light in the sky. It stayed bright for two minutes then faded in about 30 seconds. It then changed to red and green flashing lights. A plane came into view and got closer to the object. The object then rapidly accended. It then started moving diagonally upwards south east. It then stopped and began travelling vertically south east. As it reached the middle of the sky we noticed the object was saucer shapped and the lights were flashing alternately circular around the rim off the object. Shortly after the sighting of the shape it disappeared from sight.My brother, a friend and I were arranging to meet two other friends in our village and so left our house at 8pm to meet them. We were walking down our round when i noticed a blinding bright yellow light in the sky, and it was much larger than any stars by a long way. So we stayed and watched it wondering what it could be. As it was not moving we assumed it may be a satellite reflecting the suns rays from space. After two minues the light faded completely and was now a set of green and red lights flahing alternately. We then noticed a plane coming towards the object. When the plane became closer to the object, the object rapidly accended upwards at an incredible speed. By now our two other friends had joined us and they too saw the object at this point. The object then accended diagonally upwards in the direction of south east. After 20 seconds of this diagonal accention the object began travelling horizontally at the height it had now reached. As it rapidly crossed the sky we had a clearer view of the object and it was saucer shaped and of dark grey colouring. We also noticed that the green and red flashing lights were totating in circular fashion around the rim of the object.The object was also enourmous compared to any other aircraft i had seen. Shortly after we noticed this about the object it disappeared from our view. This was now 8.11pm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12156.html](http://www.nuforc.org/webreports/reports/012/S12156.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
