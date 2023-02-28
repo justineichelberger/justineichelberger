@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:24 on 28 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:30 on 28 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Freer (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>driving down highway 59 south stopped at an intersection to continue on 59. Got out of tractor to stretch legs , looked up and saw a formation line of lights going northeast.then behind the line after all formation was gone 2 more lights continue to follow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153677.html](http://www.nuforc.org/webreports/reports/153/S153677.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>V-Shape, lighted craft seen in San Antonio just over tree line.First of all, let me say that my father and uncle, two very normal men claim to have been ubducted. I am very skeptical, myself, but I cannot identify what my girlfriend and I saw that night. Right above tree line was a v-shaped craft. At first only three lights shined on each point of the triangle. The lights were similar to those new, almost blue, lights you see on some cars (neons?). The craft was moving too slow to be a regular plane. It couldn't have been a helicopter. A few moments later, more lights came on. I didn't count exactly but I'd estimate a total of 7 lights at this point. The object speeded up a little and eventually moved out of sight. It sounded like...? Wind? Like a very quite plane, but no engine sound. Wish I had known to count and notice direction. I was in shock at the time. Wasn't really thinking about anything else except to watch it... I have to note that there IS a military base nearby, so perhaps the object I saw was some new test plane? I have no idea. It was the weirdest thing I have ever seen.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49575.html](http://www.nuforc.org/webreports/reports/049/S49575.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
