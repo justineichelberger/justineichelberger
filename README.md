@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:31 on 27 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:35 on 28 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Grand Rapids (MI) reported seeing craft that fit the description of some 'Changing' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>color and shape changing, ball/cigar. spotted above st.mary's hospital for 45 minutes hovering still then floating around.Seen a color changing, light fading ball and then transformed into a cigar then back to a ball. it was hovering above the area of st.mary's hospital.  My girlfriend was the first to witness the ufo thinking it was a star.  Until we started seeing it move in every direction. There's no way a plane wouldve stayed in our sight that long.  There's no way a helicopter would have hovered that long or probably be allowed to over the hospital air space.  It was not a drone because it had very bright color changing lights.  It was not ball lightning because at most that lasts less than 30 seconds, and this went on for 45 minutes.  At some points, we thought we seen some lights fly off of it.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133906.html](http://www.nuforc.org/webreports/reports/133/S133906.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>round circles of light chasing each other in sky at high rate of speedRt 376 while traveling past Pittsburgh Airport I saw two round "lights" chasing each other going in oblong circles at a very high rate of speed.  They seemed to keep pace with my vehicle until I left the area.  The night was cloudy and they seemed to be above the clouds. At first I thought they were searchlights in the sky but realized they were independent lights unto themselves.  How they could escape radar is beyond me as they were very close to the airport.  It seemed like a game to them.  No person could survive being in these craft as the "G" forces would be tremendous.  Strangest thing I have ever seen.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107826.html](http://www.nuforc.org/webreports/reports/107/S107826.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162238.html)
-- [245](http://www.nuforc.org/webreports/reports/164/S164173.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162233.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162237.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162227.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
