@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:29 on 28 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:29 on 28 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Saratoga Springs/Malta (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red light changes directions, disappearing by Orion's KneeThe light looked like the ISS (International Space Station), but moving slightly slower and glowing reddish-orange.  It was viewed moving below and to the right of Venus, straight up and then took a sudden turn left cutting between Venus and Jupiter in the night sky.  The light continued towards Orion's Belt, and as it drew closer to Orion,  Took another sudden left curve, towards Orion's knee, and disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87422.html](http://www.nuforc.org/webreports/reports/087/S87422.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Nampa (ID) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright white circle shines through clouds and moves west for several minutes before dissapearing.7:30 am   I just dropped my son off  at the back gate to school as he was running a little late.Traveling West on E.Park Ridge I observed out my left window what looked like the sun or moon behind the clouds.I know the sun was "just" rising in the East and this seemed to be moving.  So I stopoed the truck to check.It was moving West. I began driving home keeping it view 95% of the way.  When I got home and got out of the truck I could still see it,..now it was still moving in a general West direction behind the trees in front of my house and just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96460.html](http://www.nuforc.org/webreports/reports/096/S96460.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
