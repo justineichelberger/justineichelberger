@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:33 on 28 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:25 on 28 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Eastgate (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Woman witnessed strange, blinking light in SW sky.  It simply winked out suddenly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00303.html](http://www.nuforc.org/webreports/reports/000/S00303.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Charlestown (RI) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Light over submarine base, Groton, CT.This sighting is submitted by the UFO LAB in Richmond, RI. On the night of Monday Feb. 28, 2000 at approximately 9:30 pm we were called by two of our members.  They had spotted a strange light hovering over some turf fields next to the Chario High School.  We called a friend and the three of us headed for the area of the sighting.  Upon arriving, we spotted the light hovering above the submarine base at Groton,CT. The light was very bright and unchanging.  The light then moved up and down.  It then bounced to the left and bounced back to the right.  The base at Groton, CT is a nuclear submarine base.  We watched it for approximately 5 minutes then it faded and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12199.html](http://www.nuforc.org/webreports/reports/012/S12199.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
