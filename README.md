@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:53 on 28 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:33 on 28 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1986, an anonymous witness in Victor (MT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Just below the mountain top a light appeared. After a few seconds the light became larger slowly came east 15ft off the ground then climbed.A light appeared just below the Mt. top, looked the size of a softballafter a few seconds the ball became larger and brighter,when it appeard to be the size of a basketball it moved down hill toward my house at a very slow rate of speed and very near the ground, I could see the tree tops above its top arc. It appeared to be about 15ft. off the ground. It suddenly stopped for a second or so then shot straight upward into the morning sky. When it was mixed with the stars;it stopped, blinked it's lights and moved slowly south out of the valley.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07077.html](http://www.nuforc.org/webreports/reports/007/S07077.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in North Myrtle Beach (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Four large orange circular lights.We saw four orange lights several miles from the seashore about at approximately 1,500 feet altitude.  My friend saw four in a circular pattern.  He said look and I saw three in a triangular pattern.  The lights were quite large in diameter.  It lasted several seconds then disappeared at the same time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153686.html](http://www.nuforc.org/webreports/reports/153/S153686.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
