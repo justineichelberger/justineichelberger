@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:27 on 28 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:23 on 28 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Osceola (IN) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>At 12:30 am, I took my dog outside before we went to bed.  While we were outside I observed an Orb flying low zipping around like it was filming the area.  When it noticed that it was being watched it flew straight up to a large triangle shaped craft.  All of a sudden a huge rectangle shaped aircraft shot a beam of light at it.  About that time a large jet flew past low going into Elkhart airport.  The triangle shaped craft dropped down lower so that the jet went past above it and the rectangle shaped craft moved to where it was above my house just at the top of the trees.  That's when I noticed that there was more than just one orb in my area.  There was at least 3 more in different areas within a mile of my house zipping around low in the sky like they were taking pictures or filming of things.  I stayed outside watching them for about 30 minutes before going inside to go to bed. They were still out in the area when I went inside to go to bed at 1:15 am.  The rectan! gle shaped aircraft was something that I had never seen before around here.  I see the colorful orbs every clear night zipping around this area like they are looking for something or just looking around.((NUFORC Note:  We spoke via telephone with the witness, and she assured us that the report is submitted as a serious account of what she had seen.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126087.html](http://www.nuforc.org/webreports/reports/126/S126087.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 70.0 - 70.0 minutes.</sub><blockquote><sub>Very low red and green lights alternating, sequencing as if sending a code.  Hoovering for minutes at a time changing to stagnant white light.  Craft had no visual form...only light. A notable buzzing sound was clearly heard.  However, the sound was not a machine or robot buzz it was more organic like a bug.  It was able to be silent as well.  Also, a strong but pleasant smell of flowers was emanating from the lights.  The smell abruptly stopped when the lights disappeared into the clouds.  I was able to video numerous segments.  However, it appears that the red light is not always present in the video.  Strange, because it could be seen with a naked eye.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145143.html](http://www.nuforc.org/webreports/reports/145/S145143.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
