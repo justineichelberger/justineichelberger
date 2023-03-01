@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:28 on 28 February 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:21 on 1 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Taos (NM) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>At night, huge triangle craft with three red lights zooming towards Taos Mountain at an unimaginable speedAs I was opening my window that faces south to get some fresh air I immediately saw  in the clouds a dark triangle craft with a red light on each three corners and I only saw it for a few seconds because the thing took off through the sky towards the east over Taos mountain traveling at a speed that was unimaginable. It took my breath away that it was so fast. I have never seen anything like it. There was absolutely no noise and the size of the craft appeared to be huge.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49345.html](http://www.nuforc.org/webreports/reports/049/S49345.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>String of Blinking red light aircraftMy wife called me in a panick and said come out quickly and look up.  I came at on this clear night and saw a string of red blinking lights on aircraft that were high up in the sky moving fast from north to south.  It was approximately 8-10 aircraft.  They were going northeast to Southwest.  After a awhile, we weren't able to see them any longer.  The whole event lasted for about 3-4 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107562.html](http://www.nuforc.org/webreports/reports/107/S107562.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
