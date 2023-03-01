@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:33 on 1 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:06:17 on 1 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Shalimar (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>2 bright star like objects not moving but rather floating, then just disappear.2 bright stars stood out in the night sky.One was a little above the other.They had the slightest look of floating but not moving.They stayed bright for around 2 minutes and then faded rather like car lights going off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126178.html](http://www.nuforc.org/webreports/reports/126/S126178.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Glendale (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>two whites that split into 5 form a line up and down grew bright and sparkling and disappearit first started with two white light i though were planes but then they grew very bright and split into 5 or 6 bright lights that form a straight line up and down and remain for about 1 min.They look almost sparkly in a way white lights. They got very bright then disapper. They almost look like white fireworks the way they disappear but fireworks dont stand still and split and form a line and the lights were silent no sound at all. They were probably a good 20 miles or so. I was looking towards the north. my sister was with me and a homeless man was there in the street bare witness also. It was still black outside 4:12 am. clear skies.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49535.html](http://www.nuforc.org/webreports/reports/049/S49535.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
