@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:30 on 1 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:23 on 1 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Massey (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>March 1st, 2020, 4am - 6am; I watched a bright slow-moving object do a reverse and ascend to a spot where it was engaged in something.Early morning of March 1st, 2020, about 4am to 6am I had a sighting of a slow moving … something in the eastern sky.  It was a bright object.Facing east, it was just a couple of seconds to see, with my own eyes, that it's just not all stars, in that clear night sky.  I detected an unusual phenomenon through the left side window.  A moving star-like object.  It was a plane, I thought at first.However, this object was not blinking and no colour.  It was moving north eastward-ish.  I though that that plane is pretty low for that “Chicago – UK” flight path!  And I am realizing that it is, also, going too, too slow comparing to the other planes that have been regularly passing by.This shiny object seemed to stop, and not reached to most left side of the window frame. It is still very visible, high in the sky and at a big distance from me. It is clearly above the tree-line and hilltops, from my perspective. A couple of seconds of pause, then there was a slight movement: It was reversing! Very slowly, it was going back, southward on the line it was on. It did not much go up and down. It was not bouncy.Eventually this object moved up higher in the sky, as to reach the top edge of my left-side window. To keep viewing this thing, I had to "quietly" move my chair, nearly 2 feet closer toward the window.  Now I, possibly, am gazing some other things, like few small reddish pulses descending and ascending as if dropping and returning to that bright object.After a short break from my watching post, I resumed viewing and studying that bright object. It was still visible! Now, I am thinking that it will be daylight soon. So after another short length of time I waited for this thing to zoom away. I wanted it to zoom away. It did not. It seemed too busy at what "its/they're" doing. Now being thoroughly exhausted I, finally, left my post.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153756.html](http://www.nuforc.org/webreports/reports/153/S153756.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Bath (IL) reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Woman, children, neighbors witness "big orange ball of light."  Obj. dims, then reappears w/ red blinking light.  Moves off fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01104.html](http://www.nuforc.org/webreports/reports/001/S01104.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
