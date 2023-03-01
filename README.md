@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:28 on 1 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:44 on 1 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Woodbridge (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 18:58 - 18:58 minutes.</sub><blockquote><sub>Triangular Object In SkyWas driving North on Route 9 and saw triangular object with 2 blinking lights moving fast and stopping several times.  Then stood in place blinking before disappearing.  Captured while driving Tesla and have video from the cars front camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162309.html](http://www.nuforc.org/webreports/reports/162/S162309.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Marshall Creek (Rte. 209, west 1 mile of  Marshall Cr. jxn.) (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>((NUFORC Note:  Witness reports witnessing a disk.  No details provided.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11383.html](http://www.nuforc.org/webreports/reports/011/S11383.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
