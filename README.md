@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:26 on 1 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:26 on 1 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Cloquet (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Driving down the road and look up to see three lights form a triangle which stayed for roughly 30 seconds to a minute.  Then slowly they faded away.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132805.html](http://www.nuforc.org/webreports/reports/132/S132805.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Orb in night sky zipped quickly across sky, hovered, and disappearedThree adults witnessed an orb-like object in the night sky.   Sky was mostly clear, with a few faint clouds.  Bright starlight.  Orb appeared seemingly out of nowhere as a fast-moving object moving more or less horizontally across the landscape, pretty close to the tree line.  From our vantage point the orb appeared from the direction of the star Sirius and travelled east to west.   Orb appeared to be black or translucent (night sky was dark) with a white-ish circular outline.  A “fire tail” appeared off the backside, looked mostly white/orange/red, as it moves through the sky.   Like a tail.   After zipping across the sky, the orb stopped instantly and hovered for 3-5 seconds.   Then either disappeared instantly or zoomed away parallel to our point of reference so quickly it appeared to disappear?   Total event was 15-25 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162277.html](http://www.nuforc.org/webreports/reports/162/S162277.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
