@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:23 on 1 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:29 on 1 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Bath (IL) reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Woman, children, neighbors witness "big orange ball of light."  Obj. dims, then reappears w/ red blinking light.  Moves off fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01104.html](http://www.nuforc.org/webreports/reports/001/S01104.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Palmetto (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Odd fireball-like object in the sky over Palmetto, Georgia. 30268Me and a friend of mine were working on a bridge for our bikes when we began talking about UFO's and stuff. We looked up into the sky and saw this odd, fireball-like object. It was stationary and made no sound whatsoever. We turned around and suddenly it was gone. We continued to look up into the sky and suddenly, it returned. After another minute or two, it suddenly re-appeared. Approxamatly 30 seconds later, the light dissapated into nothing. I am usually not a skeptic of stuff like this, but this really freaked me out. I just decided to add it to the database here.((NUFORC Note:  We usually are at least slightly skeptical about some of the reports submitted by school-age youth.  However, in this instance, it occurs to us that the witnesses may have observed the launching of the Space Shuttle at 0622 hrs. on this date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22068.html](http://www.nuforc.org/webreports/reports/022/S22068.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
