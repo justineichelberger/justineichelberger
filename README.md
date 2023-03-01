@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:28 on 1 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:19 on 1 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Springfield (OH) reported seeing craft that fit the description of some 'Chevron' over a period of approximately above us - above us minutes.</sub><blockquote><sub>looked like a plane but alot fatter and shorter... lotes off lites on the bottom of it and it was hovering on the side on rt 4 in springfield ohio. went back to try and find it and watch it fly away in a matter of 3 to 5 seconds.my friend and i was getting of of work and was heading home on rt 4.about a mile down from springfield past george rogers clark park we saw something just hovering along the side of the highway... i alwas beleved in ufo but i never thought that i would see one for mysell.. we slowed down to cheak it out still thinking that i could be a helicopter or something but in looked more like a plain.. looked like a shorted up fat stealth bommer.. a probe looking thing hanging from the center of the crafed and neat looking lights on the bottom of it... we tracked back one the side road that would take us back to where we saw it at and it wasnt there.. then my buddy said... "what is that".... and there is was again,flying across from us then,started flying right at us and stoped in the air... it was alot fairther away this time than the first time that we saw it but we could tell that it was it... then from a dead stop mad a u turn and took of away from us and a matter of 3 to 4 seconds it was gone and never seen gian from me... like i was saying... i always thought that there was life out there i just never thought that i would have the change to see it so close that i had know chose to believe it... it was true donnie</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12207.html](http://www.nuforc.org/webreports/reports/012/S12207.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Carlsbad (NM) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Silent football field sized and shaped metalic UFO is sited on Pecos River in Carlsbad, New Mexico.My boyfriend and I were sitting in his Lincoln across the Pecos River, looking at the night sky.  The craft looked like a metal football field... completely rectangular in shape, and made no noise.  It flew over our heads, and we both saw it.  It had no lights. There were a few indentions on the bottom of the craft, but for the most part, it was just smooth and metalic-looking.  The viewing didn't last but a few seconds, and left us both stunned, asking eachother "Did you see that?!"((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52032.html](http://www.nuforc.org/webreports/reports/052/S52032.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
