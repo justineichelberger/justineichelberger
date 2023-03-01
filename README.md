@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:11:53 on 1 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:28 on 1 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Middletown (CT) reported seeing craft that fit the description of some 'Oval' over a period of approximately  -  minutes.</sub><blockquote><sub>Flashing lights over Middletown, CTI normally go out late at night to have a cigarette before I go to bed as I was standing outside I was looking into the sky when I seen three different objects floating in the sky what looked like flashing balls of light I knew they were not planes or stars because of the flashing lights coming off of the objects and the objects also moved in different directions((NUFORC Note:  Witness corrects date.  Sighting occurred at midnight on the morning of Saturday, March 01, 2014.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107607.html](http://www.nuforc.org/webreports/reports/107/S107607.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Springfield (OH) reported seeing craft that fit the description of some 'Chevron' over a period of approximately above us - above us minutes.</sub><blockquote><sub>looked like a plane but alot fatter and shorter... lotes off lites on the bottom of it and it was hovering on the side on rt 4 in springfield ohio. went back to try and find it and watch it fly away in a matter of 3 to 5 seconds.my friend and i was getting of of work and was heading home on rt 4.about a mile down from springfield past george rogers clark park we saw something just hovering along the side of the highway... i alwas beleved in ufo but i never thought that i would see one for mysell.. we slowed down to cheak it out still thinking that i could be a helicopter or something but in looked more like a plain.. looked like a shorted up fat stealth bommer.. a probe looking thing hanging from the center of the crafed and neat looking lights on the bottom of it... we tracked back one the side road that would take us back to where we saw it at and it wasnt there.. then my buddy said... "what is that".... and there is was again,flying across from us then,started flying right at us and stoped in the air... it was alot fairther away this time than the first time that we saw it but we could tell that it was it... then from a dead stop mad a u turn and took of away from us and a matter of 3 to 4 seconds it was gone and never seen gian from me... like i was saying... i always thought that there was life out there i just never thought that i would have the change to see it so close that i had know chose to believe it... it was true donnie</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12207.html](http://www.nuforc.org/webreports/reports/012/S12207.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
