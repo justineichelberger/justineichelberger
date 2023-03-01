@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:28 on 1 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:29 on 1 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1982, an anonymous witness in Northfield (MA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Disc shaped ufo seen while waiting for a train to go by.I was stopped at the train tracks on route 142 waiting for a train to go by.  Towards the north across the tracks I spotted a disc with lights.  The lights were white or yellow.  I was scared.((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136726.html](http://www.nuforc.org/webreports/reports/136/S136726.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in Weaverville (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>UFO IN ASHEVILLE N.C. 1987this was a long time ago but I saw the same crft in the jan 2001 report same one low to the ground 700 ft a low hum sound I AM NOT KIDING I'M FOR REAL LOW SPEED LIKE IT WAS GOING ABOUT 45 MPH AND WHNT A ROUND IN A CRUCLE 4 MILE RADIS AND IT TUOKE OFF IN THE AIR LIKE A COMET BUT VRICLY.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21473.html](http://www.nuforc.org/webreports/reports/021/S21473.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
