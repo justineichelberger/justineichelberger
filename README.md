@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:34 on 2 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:33 on 2 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Light in dissolving smoke plume.ON MARCH 2 2011 ON MY WAY TO WORK AT APPROXIMATELY 0540 I SAW A LARGE PLUME OF WHITE SMOKE ON THE HORIZON, I AM IN THE MILITARY THEREFOR I CANNOT RELEASE MY NAME BUT THE SIGHTING OCCURRED ON EAST MIRAMAR IN SAN DIEGO CALIFORNIA. THE WHITE PLUME SEEMED LIKE A FIRE SMOKE PLUME ONLY NEATER, THEN MY MIND GOT QUICKLY CHANGED WHEN I SAW A SMALL BALL OF LIGHT COME UP FROM BEHIND THE MOUNTAIN AND UP THROUGH THE PLUME. THE "SMOKE" THEN BEGAN TO FOLLOW THE LIGHT AS IT GREW LARGER AND BEGAN COMING TOWARD ME AND LOOKED AS IF IT STARTED TO SPIRAL. IN AN INSTANT THE LIGHT COMPLETELY DISAPPEARED AND THE SMOKE SEEMED TO DISSOLVE QUICKLY, AS IN A MATTER OF ABOUT 5 SECONDS. LEADING ME TO BELIEVE THAT IT WAS DEFINITELY NOT SMOKE. AND I WASN'T SEEING ANYTHING OF THIS EARTH. WHAT WAS AS STRANGE WAS THAT THE RADIO THAT I WAS LISTENING TO, WENT BLANK AND ALL I HEARD WAS STATIC, I EVEN CHANGED THE STATION A COUPLE OF TIMES AND ALL OF THEM WERE STATIC. A COUPLE OF GUYS FROM WORK ALS! O TOLD ME THAT THEIR RADIO STATIONS WENT OUT FOR ABOUT 2 MINUTES.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80297.html](http://www.nuforc.org/webreports/reports/080/S80297.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1985, an anonymous witness in Woodbridge (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>lights over Northern VAconditions: , slight overcast 51° Fahrenheit 50% humidity visibility greater than 10 miles  Observed an object traveling west to east at a very high rate of speed (similar to that seen during a typical meteor shower) the object presented with a corkscrew pattern and changed color from a red to a brilliant blue color before seemingly turning upward and disappearing.. my son of 9 also observed the object. one final note: I do not believe that we are being visited by alien beings i however cannot explain this.((NUFORC Note:  Possible meteor??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62148.html](http://www.nuforc.org/webreports/reports/062/S62148.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162284.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162289.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162286.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162288.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162285.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
