@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:31 on 2 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:34 on 2 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Coleman (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1:00 - 1:00 minutes.</sub><blockquote><sub>Strange lights and craft spotted in rural Coleman County,Texas area Large well lite craft with 3 huge light appeared at a very low alltitude and banked hard and lights went out.A dozen very light blue diamond shaped lights moved about the area and circled my location flashing very quickly in a random pattern but never going to far from my location.Large craft 1st spotted reappeared at times just above the treeline to the west.Then lights again went out.Blue lights flew directly over my location and what seemed like small craft reveiled they were a very large craft with almost no lights on and the only one on that was on was on the very edge of the huge craft.The craft was at least a city block long and holding a tight but slow circular pattern around my location.The large craft appeared close and higher above the tree line.One light disappeared as it rotated out of view and another came on large and bright in the center of the craft.I thought the object was going to pass right over me but it backed away instead and the light! s went out again.I could here the roar of a jet approaching.I saw its lights as it passed overhead.All activity seased but started back up not three minutes after the jet left the area.The large craft reappeared with 2 lights showing and looked again as if were going to pass right over me.Once again the lights went out and i could here the roar of a jet approaching the area again.I saw the jet streak through the area and the activity stopped again.Shortly afterward the activity started up again and the blue diamond lights circled my location.I left the area and saw a large bright object high in the sky.It was located directly over a rural home.i could see folks standing on the front porch and vehicle parking lights on.i stopped to get a picture of the object above the house.It began moving away and i could easily see it had triangular lights on the bottom but my pictures didnt come out as good as they should have of this slow moving craft.Captured many pictures and some vid! eo of these events but they do not do justice to what i person! ally wit nessed.The jets in the area were on an excercise reportedly and not on a recon mission.I saw the jets and didnt observe any flares being dropped from them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80322.html](http://www.nuforc.org/webreports/reports/080/S80322.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Reading (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Flashing light hovering in the same spot for about 4 minutes. Flashes of red, blue, and white.  Went from several lights to one and then gone. South/South West sky.((NUFORC Note:  We observe that the report is not inconsistent with the star, "Sirius."  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35354.html](http://www.nuforc.org/webreports/reports/035/S35354.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162284.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162289.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162286.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162288.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162285.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
