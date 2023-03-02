@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:28 on 2 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:30 on 2 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in  () reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>STS109  UFO videoI recently viewed about a 7 min live clip from the current Shuttle flight STS109 on 3/2/02, clearly showing unusual objects flying by the shuttle. It archived at: http://www.extranettv.com/shows/cc/sts.html I contacted NASA and I got this email reply: "Thanks for your question. The capcom was talking to STS-109 Commander Scott Altman about ice on the engine bell housing. Sometimes it becomes dislodged and floats off, glittering and creating little prisms of light. This would not affect the mission in any way except if the ice began to impact objects in the payload bay with some velocity. With the Hubble Space Telescope berthed there now, that could cause problems. Fortunately, that didn't happen in this case.Best wishes, Terry McDonald NASA-JSC Web Team Human Space Flight Web http://spaceflight.nasa.gov"((NUFORC Note:  Our gratitude to Jim Hickman, of "the Hickman Radio Report," for submitting this report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22177.html](http://www.nuforc.org/webreports/reports/022/S22177.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>4 lights seen in a formation.The object was in a triangle light formation with an additional light on the side.  The formation did not move for the duration I observed.  There were four bright circular lights, and they were relatively close together.  I first noticed the lights after exiting the 101 and going down Frank Lloyd Wright.  My mom pulled over into a residential area to take pictures.  I've been watching the skies, and keeping track of anything out of the ordinary. Last year on March 4, 2015, a single light was hovering in the same spot for 45 minutes.  I am unsure about the correlation between this incident and the previous one from last year, but I couldn't disregard the possible connection due to the fact that it was around the same date and time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126157.html](http://www.nuforc.org/webreports/reports/126/S126157.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162284.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162289.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162286.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162288.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162285.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
