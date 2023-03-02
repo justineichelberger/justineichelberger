@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:33 on 2 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:44 on 2 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1985, an anonymous witness in Woodbridge (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>lights over Northern VAconditions: , slight overcast 51° Fahrenheit 50% humidity visibility greater than 10 miles  Observed an object traveling west to east at a very high rate of speed (similar to that seen during a typical meteor shower) the object presented with a corkscrew pattern and changed color from a red to a brilliant blue color before seemingly turning upward and disappearing.. my son of 9 also observed the object. one final note: I do not believe that we are being visited by alien beings i however cannot explain this.((NUFORC Note:  Possible meteor??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62148.html](http://www.nuforc.org/webreports/reports/062/S62148.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Okeechobee (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately at work - at work minutes.</sub><blockquote><sub>There were three white lights on the  corners under the object with a flat light grey bottom.This object first appeared as a shiny star South-East of me, growing bigger by the seconds,like a big bright yellow ball of fire with a flame behind it, headed towards me as I drove fast away from it. Then when I came into a lighted area with another Officer approaching me with his work vehicle, I noticed the bright object lift up into the sky appearing to have a flat light grey bottom, white lights in all three corners, clear sky with few stars around area, unidentifying object gliding and heading North-East, with no sound at all.. This all happened very suddenly. 'wish I had a witness to what I seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42643.html](http://www.nuforc.org/webreports/reports/042/S42643.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162284.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162289.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162286.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162288.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162285.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
