@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:28 on 2 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:28 on 2 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Vista (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>A floating thing was staying still outside my window, flashing multiple lights and never moving.  After a while, it finally began to go the opposite way, so it looked like it was getting smaller and smaller.((NUFORC Note:  Possible star or planet?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117596.html](http://www.nuforc.org/webreports/reports/117/S117596.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Unincorporated Miami-Dade County (FL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Scintillating Points of Light Moved While Silver-Gray Circular (Saucer-Shaped?) Remained Motionless to the Left (South)I stepped outside as I often do at night at about 1:10 AM on 03/02/2019.  My wife and I are night owls. I usually look at the sky just to check constellations and planets by eye.  I saw something bright and scintillating in the Western sky.  It was far enough off, but really sparkling.  I thought it might be the running lights of a plane moving East towards me (but that is not a usual flight path).  However, it appeared to remain motionless.  I then thought it might be a police helicopter in the distance.I went inside to retrieve a small folding pocket binoculars and returned to my front lawn.  There seemed to be two objects but I could not be sure if ambient street lights were causing me an optical illusion.  There was a cluster of intense points of light, mostly in the white to bluish-white range but periodically a point of orange-red light seemed to brighten such that it was noticeable with the naked eye (I was not wearing distance glasses which I need primarily for my right eye which has an intra-ocular lens).  At that observation, I ran inside to get my wife to corroborate my experience.The scintillating object began to move about.  Movement was erratic in a relatively small arc of distance and seemed to the eyes to describe a bright line-segment, or perhaps it was shaped more linearly than any other shape.  To the left (South) of the moving object there seemed to be a hazy gray-white parabola, curve pointing West.  My wife saw a complete saucer shape (double parabolic form).  I interpreted that the lights from the moving object may have been illuminating the nearest surface of the parabolic shaped object and that it was a dark color so I could not see its entire shape (my wife’s eyes are perhaps better than mine without her glasses).My wife also was convinced that we saw something that we could not identify and she went inside.  I sat on the sidewalk to better steady my hands and continued to watch the scintillating object through the binoculars.  It seemed to become smaller, lost scintillation and became a point of white light as it moved towards the Western horizon where it disappeared from sight 20 minutes or so after I first noticed it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145137.html](http://www.nuforc.org/webreports/reports/145/S145137.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162284.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162289.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162286.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162288.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162285.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
