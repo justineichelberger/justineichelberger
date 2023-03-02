@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:30 on 2 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:29 on 2 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>4 lights seen in a formation.The object was in a triangle light formation with an additional light on the side.  The formation did not move for the duration I observed.  There were four bright circular lights, and they were relatively close together.  I first noticed the lights after exiting the 101 and going down Frank Lloyd Wright.  My mom pulled over into a residential area to take pictures.  I've been watching the skies, and keeping track of anything out of the ordinary. Last year on March 4, 2015, a single light was hovering in the same spot for 45 minutes.  I am unsure about the correlation between this incident and the previous one from last year, but I couldn't disregard the possible connection due to the fact that it was around the same date and time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126157.html](http://www.nuforc.org/webreports/reports/126/S126157.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Ronkonkoma (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>it was a very large circular flying object that had very bright lights and after about 6 seconds it vanished into the sky.everything stopped when it came((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Possible hoax.  We have changed the date above to reflect a date in March 2006, not April.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49387.html](http://www.nuforc.org/webreports/reports/049/S49387.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162284.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162289.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162286.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162288.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162285.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
