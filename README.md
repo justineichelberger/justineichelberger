@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:27 on 2 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:34 on 2 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Oval' over a period of approximately On Going - On Going minutes.</sub><blockquote><sub>Objects in Phoenix's night skyObject is oval to horse shoe in appearance, multi level.  Lighted.  Have actual Photo.  Item in photograph that is visable is only a small piece of the object.  In further study of Photo, you can see an outline  much  larger than what can be seen.  Used a 5 mega pixil camera to take photo, with a tripod.  Can usually be viewed in the evening, early morning hours above Phoenix AZ.  From ground level, object appears to be a simple point of light in the sky, however when zoomed in through the camera lens, AND AGAIN ON THE COMPUTER, it is clearly an object needing to be researched to conclusion.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111376.html](http://www.nuforc.org/webreports/reports/111/S111376.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Light in dissolving smoke plume.ON MARCH 2 2011 ON MY WAY TO WORK AT APPROXIMATELY 0540 I SAW A LARGE PLUME OF WHITE SMOKE ON THE HORIZON, I AM IN THE MILITARY THEREFOR I CANNOT RELEASE MY NAME BUT THE SIGHTING OCCURRED ON EAST MIRAMAR IN SAN DIEGO CALIFORNIA. THE WHITE PLUME SEEMED LIKE A FIRE SMOKE PLUME ONLY NEATER, THEN MY MIND GOT QUICKLY CHANGED WHEN I SAW A SMALL BALL OF LIGHT COME UP FROM BEHIND THE MOUNTAIN AND UP THROUGH THE PLUME. THE "SMOKE" THEN BEGAN TO FOLLOW THE LIGHT AS IT GREW LARGER AND BEGAN COMING TOWARD ME AND LOOKED AS IF IT STARTED TO SPIRAL. IN AN INSTANT THE LIGHT COMPLETELY DISAPPEARED AND THE SMOKE SEEMED TO DISSOLVE QUICKLY, AS IN A MATTER OF ABOUT 5 SECONDS. LEADING ME TO BELIEVE THAT IT WAS DEFINITELY NOT SMOKE. AND I WASN'T SEEING ANYTHING OF THIS EARTH. WHAT WAS AS STRANGE WAS THAT THE RADIO THAT I WAS LISTENING TO, WENT BLANK AND ALL I HEARD WAS STATIC, I EVEN CHANGED THE STATION A COUPLE OF TIMES AND ALL OF THEM WERE STATIC. A COUPLE OF GUYS FROM WORK ALS! O TOLD ME THAT THEIR RADIO STATIONS WENT OUT FOR ABOUT 2 MINUTES.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80297.html](http://www.nuforc.org/webreports/reports/080/S80297.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162284.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162289.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162286.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162288.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162285.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
