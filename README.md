@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:28 on 2 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:19 on 2 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Springfield (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A large triangle-shaped aircraft with no lights or sounds was witnessed gliding over Springfield, MO on March 2, 2017.Around 8 pm, I saw something large, triangle shaped moving low across the horizon.  It almost had the look of a stealth fighter, but much larger and had a silver or gray color to it.  What made it strange was there were no lights, to speak of.  My wife could not see it, because it blended in with the sky, but I saw it when it first was low over the horizon, where the sky was a little lighter.  As it moved to the north over Springfield, MO, the sky was darker and it blended in with the darker sky.  There were no lights and no noises coming from the craft.  The movement was very steady.  I go outside to smoke often...usually 7 or 8 times a night and see aircraft in the sky very often from our patio, but I've never seen anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132949.html](http://www.nuforc.org/webreports/reports/132/S132949.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Rancho Palos Verdes (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Changing Bright Light object over Los AngelesSaw an extremely bright, changing color, flickering, triangle shaped object flying above the ocean. It looked like water was being pulled into it. There was a smaller object next to it, just stagnant. There was no sound with either but both had a glowing haze. We got a quick video! Soon as we put the flash on, it stopped flickering colors and the brightness stopped and took off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162315.html](http://www.nuforc.org/webreports/reports/162/S162315.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162284.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162289.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162286.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162288.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162285.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
