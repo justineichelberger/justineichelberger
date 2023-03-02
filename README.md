@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:19 on 2 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:26 on 2 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Rancho Palos Verdes (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Changing Bright Light object over Los AngelesSaw an extremely bright, changing color, flickering, triangle shaped object flying above the ocean. It looked like water was being pulled into it. There was a smaller object next to it, just stagnant. There was no sound with either but both had a glowing haze. We got a quick video! Soon as we put the flash on, it stopped flickering colors and the brightness stopped and took off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162315.html](http://www.nuforc.org/webreports/reports/162/S162315.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Istanbul (Turkey) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>two diamonds after  30 minutes that a disk has seen in 3 second   (Istanbul- Bosphorus)I had never believed such events about Ufos. But i believe that i have seen some of them in the sky in the middle of the night. My sister has a flat  in Istanbul Besiktas. We can see a beautiful panaroma of Istanbul from wide windows. -nearly half of the Bossphorus we may see - Last nigt while i was sittingn at the balkony for smoking i saw a half ligtning disk shaped object fastly moving from north to south.One can see 30 or 35  miles of the  Istanbul  city Panorama from my sister's flat. It moved across the istanbul to the north  in three second  period of time . Its speed was about 6 0r 8 miles in a second.  It was the most beautiful thing and fascinating speed a human could see.About 40 minutes later i have seen two lithning balls fastly fallowing each other across the Bosphorus. One was turning around another one . They were shining like diamonds and They were looking  like a ball.  They were magnificent. I believe nothing can be so surprising and beautiful  on the earth. And  no man can imagine somthing like that.((NUFORC Note:  The witness may imply a date of either March 2nd, or February 3rd, depending on whether he uses the European style of indicating the date.  He may have intended to indicate the year of 2004, but writes "2003."  We will attempt to clarify the date.  PD</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34845.html](http://www.nuforc.org/webreports/reports/034/S34845.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162284.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162289.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162286.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162288.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162285.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
