@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:28 on 2 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:28 on 2 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in UK/England (offshore oil rig) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Multiple triangular orange light formations over central north seaI work on an offshore rig and was out on deck at night.  I looked into the distance and saw an orange light, at first i dismissed it as a helicopter (although orange is an unusual light colour for them).  The light vanished, so I thought it went behind a cloud.  Seconds later, and much closer, a triangle formation of orange lights appeared, not moving, then in sequence 3 more evenly spaced triangles appeared before fading in the same order they appeared.  I then shouted on someone to come and see, they never!!  Then closer still, the same thing happened, this time with 5 formations, although this time I could see a faint light joining the formations together just under the bottom 2 lights, this went from the 1st set to the last set of lights in the formation.  They then faded and I never saw anything else.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126261.html](http://www.nuforc.org/webreports/reports/126/S126261.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Springfield (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A large triangle-shaped aircraft with no lights or sounds was witnessed gliding over Springfield, MO on March 2, 2017.Around 8 pm, I saw something large, triangle shaped moving low across the horizon.  It almost had the look of a stealth fighter, but much larger and had a silver or gray color to it.  What made it strange was there were no lights, to speak of.  My wife could not see it, because it blended in with the sky, but I saw it when it first was low over the horizon, where the sky was a little lighter.  As it moved to the north over Springfield, MO, the sky was darker and it blended in with the darker sky.  There were no lights and no noises coming from the craft.  The movement was very steady.  I go outside to smoke often...usually 7 or 8 times a night and see aircraft in the sky very often from our patio, but I've never seen anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132949.html](http://www.nuforc.org/webreports/reports/132/S132949.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162284.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162289.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162286.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162288.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162285.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
