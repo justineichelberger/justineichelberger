@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:23 on 1 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:27 on 2 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Fresno (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>White lights in Fresno sky.I was looking south, and noticed what I thought was a bright star or planet in my peripheral vision above a large tree.  Turning to look south-southwest, I noticed that the light was not one but two lights, and they were traveling parallel to the horizon, in an apparent western direction.  The lights were bright white, similar in intensity to an aircraft landing light at a distance, but no sound was noted.  I called to my wife, who was standing inside the house, and turned back just in time to see the lights blink out, one by one.  My wife did not see them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126140.html](http://www.nuforc.org/webreports/reports/126/S126140.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in DeBary (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Round slow moving ball at 9pm.At 9:00pm I got a call from my friend that lives 2 blocks over from me.  I stepped outside to whitmess a round fireball moving slowly across the sky.  The object was moving north to south and was a orange and red ball and it appeared to have flames trailing behind.  It moved at in lateral direction and made no sound. It did not appear to be very high in the sky maybe 500 feet at the most.  We get a lot of planes and helicopters through here and it was nothing like that.  This was a slow moving ball. After about 20 seconds it turned east and then in about 3-4 seconds it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96503.html](http://www.nuforc.org/webreports/reports/096/S96503.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
