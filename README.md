@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:27 on 2 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:28 on 2 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>5 glowing orange fireballs were seen flying from east to west as if they were being launched in a weird pattern.  The 3rd one was flying east to west like the others then all of a sudden shot straight up and disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96499.html](http://www.nuforc.org/webreports/reports/096/S96499.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in UK/England (offshore oil rig) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Multiple triangular orange light formations over central north seaI work on an offshore rig and was out on deck at night.  I looked into the distance and saw an orange light, at first i dismissed it as a helicopter (although orange is an unusual light colour for them).  The light vanished, so I thought it went behind a cloud.  Seconds later, and much closer, a triangle formation of orange lights appeared, not moving, then in sequence 3 more evenly spaced triangles appeared before fading in the same order they appeared.  I then shouted on someone to come and see, they never!!  Then closer still, the same thing happened, this time with 5 formations, although this time I could see a faint light joining the formations together just under the bottom 2 lights, this went from the 1st set to the last set of lights in the formation.  They then faded and I never saw anything else.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126261.html](http://www.nuforc.org/webreports/reports/126/S126261.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162284.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162289.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162286.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162288.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162285.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
