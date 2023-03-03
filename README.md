@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:21 on 3 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:22 on 3 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Cancun (Mexico) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>At approximately 21:30 on March 3, 2007, my partner and I were enjoying the clear sky from the balcony of our hotel in Cancun, Mexico. We had an ocean front room with an unobscured view of the sky. The moon was approximately 80 degrees in the east, the big dipper approximately 40 degrees in the north.We observed a faint orange-red light coming from the north, below the Big Dipper. It was dim, but not as dim as a satellite.It traveled across the sky at a steady speed, but its trajectory was erratic. It would travel a straight line for some distance, and then make strange course corrections. At one point, it completed 3 sides of a square maneuver, just before passing in front of the moon.Just as we lost visual contact with the object in the southern sky, we saw a streak of light, originating from the point where we lost visual contact. The streak was at a 45 degree angle to the west. We were both in shock that we had witnessed such an event. It was truly amazing. My partner and I are both 36 years old. I am a Graphic Designer, and he is a Director of Marketing at a major firm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55604.html](http://www.nuforc.org/webreports/reports/055/S55604.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Malibu (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two orangish lights in the night sky moving and then disapearedWe were looking at the stars after walking back from dinner on the beach and our friend noticed two lights in the sky that were a steady more orange color than the stars and were not flashing like airplanes.  One was moving slowly while the other one seemed to stay still.  We watched for a couple minutes to see if they were airplanes because there is a fair amount of airplane traffic above Malibu heading towards LAX.  They were definitely a different color light and not flashing like airplane lights do.  While we were watching the one that was moving just disappeared, then a minute later the other one seemed to get dimmer and then just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96502.html](http://www.nuforc.org/webreports/reports/096/S96502.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [241](http://www.nuforc.org/webreports/reports/162/S162282.html)
-- [240](http://www.nuforc.org/webreports/reports/162/S162319.html)
-- [239](http://www.nuforc.org/webreports/reports/162/S162403.html)
-- [238](http://www.nuforc.org/webreports/reports/162/S162700.html)
-- [237](http://www.nuforc.org/webreports/reports/154/S154149.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
