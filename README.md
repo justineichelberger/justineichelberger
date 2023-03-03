@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:37 on 3 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:22 on 3 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Hillsboro (OR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Blinking brights lights close to the Hillsboro Airport. OregonI live close to the Hillsboro Airport, I was seating in the front porch talking on the phone, when suddenly I saw a group of blinking bright lights ( red,green ).They were moving slowly, silently and flying in circles.The altitude was of 400 to 600 ft. I could not see the shape of the object.I yelled to my husband and he came out to witness.We saw the lights going away fast.Never seen anything like it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96545.html](http://www.nuforc.org/webreports/reports/096/S96545.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Fair Oaks (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately photo - photo minutes.</sub><blockquote><sub>Took photos of unusual chemtrails, after photos developed last week, theres a picture of a yellow round object with blue around one side, like saucer on its side - from the two photos, its going from right to left on its side, thats from north to south.  I didn't see the object in the sky, just after the photos were developed.  Its very visible in two.  One it's approaching a large chemtrail, the other photo it's in the chemtrail.  Good photos, 35mm.cameraSee above - if you wish the photos, I will send them</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09658.html](http://www.nuforc.org/webreports/reports/009/S09658.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [241](http://www.nuforc.org/webreports/reports/162/S162282.html)
-- [240](http://www.nuforc.org/webreports/reports/162/S162319.html)
-- [239](http://www.nuforc.org/webreports/reports/162/S162403.html)
-- [238](http://www.nuforc.org/webreports/reports/162/S162700.html)
-- [237](http://www.nuforc.org/webreports/reports/154/S154149.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
