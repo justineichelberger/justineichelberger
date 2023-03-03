@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:30 on 3 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:32 on 3 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ward Cove (AK) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.36666666666666664 - 0.36666666666666664 minutes.</sub><blockquote><sub>After dark, object at extreme altitude, flashing in response to spotlight, changing course, blacking out-then back on.Night Sighting.  Occulting White/Slight Amber  7:02 PM Alaska Standard Time  Ward Cove, AK 99928 (approx. 5 miles WNW of Ketchikan, AK)  Diamond shaped object approached out of the Southwest, low on horizon, in an extremely clear and dark night sky (even with setting crescent moon)  Object appeared after several flashes by myself, toward a general area of the sky with a hand-held, million+ candle power halogen spotlight.Object was moving at a very high speed, but deliberately changed course at least 3 times, also at very high speed.Object also dimmed out and became bright again, as if responding to spotlight.Object was amongst the star field, yet seemed slightly lower.  Object also pulsed a yellowish-white when signaling back to my spotlight.Object ended up on a northerly heading, blacking out before dipping below horizon.Object was not an aircraft, nor a satellite, or the ISS.  The turning performance would have created excessive g-forces on a man-made craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107611.html](http://www.nuforc.org/webreports/reports/107/S107611.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Norwich (Norfolk) (UK/England) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>ball looking object,larger than any star, travling horizontal north to east, to me this looked like a very large comet with a tail,have been stargazing for sometime now but this eludes me, only thing that comes near it would be military jet with after burn on,but no noise</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87515.html](http://www.nuforc.org/webreports/reports/087/S87515.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [241](http://www.nuforc.org/webreports/reports/162/S162282.html)
-- [240](http://www.nuforc.org/webreports/reports/162/S162319.html)
-- [239](http://www.nuforc.org/webreports/reports/162/S162403.html)
-- [238](http://www.nuforc.org/webreports/reports/162/S162700.html)
-- [237](http://www.nuforc.org/webreports/reports/154/S154149.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
