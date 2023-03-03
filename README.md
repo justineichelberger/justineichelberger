@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:30 on 3 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:22 on 3 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Holland (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Planet-like spherical light in area where no planets should have beenMy brother was driving me home from work and I was looking out the window at the stars because the sky was nice and clear. In the northwest I could see the constellation Cassiopeia and underneath it, approximately 10 degrees above the horizon was a amber colored spherical light. It was larger than a star and wasn't moving so I assumed it was probably Mars. The light was slowly fading and getting brighter like thin clouds were passing in front of it, but I could not see any clouds in that direction. As we drove along it became obscured by trees, and I lost sight of it. I didn't really think it was unusual until I checked 2 separate sky maps and there were no planets in that area on the maps. The object was somewhere between the constellations Andromeda and Lacerta. An airplane flew past approximately 5 degrees above the object, but I'm not sure whether it was at the same distance as the sphere. I told my brother there was something in the sky, but he missed it because the trees hid it when he turned to look.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42717.html](http://www.nuforc.org/webreports/reports/042/S42717.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Long Beach (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Chrome Disk motionless over ocean at sunset in Long Beach, CA 3/3/08 5:45 pmOcean Blvd westbound toward Redondo Ave. over the ocean attention to the sky due to jet stream of probably military aircraft which is common in that area jet flying away from me northwest intersecting jet stream another smaller jet stream of object heading toward ground pulled over to see if something was going to crash object stopped mid-air no movement or fading out of jet stream, as if frozen in a photo sun not set yet, so light reflecting on chrome-like metallic object viewing object from what appeared to be a side angle of a disk possibly oval in shape pulled back into traffic looked up possibly another jet with jet stream passing, but object gone first experience of this type too amazed to think to use cell phone for photo or video</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62052.html](http://www.nuforc.org/webreports/reports/062/S62052.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [241](http://www.nuforc.org/webreports/reports/162/S162282.html)
-- [240](http://www.nuforc.org/webreports/reports/162/S162319.html)
-- [239](http://www.nuforc.org/webreports/reports/162/S162403.html)
-- [238](http://www.nuforc.org/webreports/reports/162/S162700.html)
-- [237](http://www.nuforc.org/webreports/reports/154/S154149.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
