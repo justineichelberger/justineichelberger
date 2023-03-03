@@ -212,7 +212,7 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:33:07 on 3 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:04:44 on 3 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
 ![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>I was on telephone with my brother March 3. 2018, looking out my living room window facing beautiful waterfront right at dusk.  Very quickly a white disc shaped object zoomed down almost to the water then east and west and almost to ground at end of Pottsburg Creek; object zoomed across my view and disappeared.  I was unable to hit video on phone but did press camera.  Zoomed (1 second) to south and disappeared.I was yelling on phone to my brother “hold on hold on something over water flying over water”.  My brother asked what but continued our conversation.  I have included original picture and enlarged picture the best of my ability.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139802.html](http://www.nuforc.org/webreports/reports/139/S139802.html)</i></sub></sub></sub><br>
 <h5><details open>
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [241](http://www.nuforc.org/webreports/reports/162/S162282.html)
-- [240](http://www.nuforc.org/webreports/reports/162/S162319.html)
-- [239](http://www.nuforc.org/webreports/reports/162/S162403.html)
-- [238](http://www.nuforc.org/webreports/reports/162/S162700.html)
-- [237](http://www.nuforc.org/webreports/reports/154/S154149.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
