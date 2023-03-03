@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:25 on 3 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:30 on 3 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Zion (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>6 to 8 lights in formation in eastern sky heading westLooking east saw what I first thought was a formation of helicopters.  They were mostly in a single file line but there was at least one pair side by side.  They appeared to be coming closer heading west.  They each looked like a bright star colored white.  I did not see any blinking lights that would normally suggest an aircraft.  I also heard no noise that would be associated with helicopters.  Moving too slow to be airplane, almost hovering but moving closer.  Eventually each light disappeared.  Only thing I can think of at this point is that they could have been some sort of flares dropped by an aircraft or a hoax where somebody floated some flares or other illuminary source via balloon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96513.html](http://www.nuforc.org/webreports/reports/096/S96513.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Holland (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Planet-like spherical light in area where no planets should have beenMy brother was driving me home from work and I was looking out the window at the stars because the sky was nice and clear. In the northwest I could see the constellation Cassiopeia and underneath it, approximately 10 degrees above the horizon was a amber colored spherical light. It was larger than a star and wasn't moving so I assumed it was probably Mars. The light was slowly fading and getting brighter like thin clouds were passing in front of it, but I could not see any clouds in that direction. As we drove along it became obscured by trees, and I lost sight of it. I didn't really think it was unusual until I checked 2 separate sky maps and there were no planets in that area on the maps. The object was somewhere between the constellations Andromeda and Lacerta. An airplane flew past approximately 5 degrees above the object, but I'm not sure whether it was at the same distance as the sphere. I told my brother there was something in the sky, but he missed it because the trees hid it when he turned to look.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42717.html](http://www.nuforc.org/webreports/reports/042/S42717.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [241](http://www.nuforc.org/webreports/reports/162/S162282.html)
-- [240](http://www.nuforc.org/webreports/reports/162/S162319.html)
-- [239](http://www.nuforc.org/webreports/reports/162/S162403.html)
-- [238](http://www.nuforc.org/webreports/reports/162/S162700.html)
-- [237](http://www.nuforc.org/webreports/reports/154/S154149.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
