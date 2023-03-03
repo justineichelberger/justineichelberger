@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:59:32 on 3 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:33:07 on 3 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Alto (TN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 12:31 - 12:31 minutes.</sub><blockquote><sub>A fireball like image falling from sky then seeing an alien days later in field.I was driving and looked into the sky and saw a orange/white fire of light fall from the sky.  It happened in just a min. It disappeared all of a sudden, but it was what happened after the next day that was special.  I was walking outside at night to my car and saw long skinny like frog legs stop and begin running, in a matter of seconds gone. It was a chalky white color and extremely long like picturing big, long frog legs.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93703.html](http://www.nuforc.org/webreports/reports/093/S93703.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>I was on telephone with my brother March 3. 2018, looking out my living room window facing beautiful waterfront right at dusk.  Very quickly a white disc shaped object zoomed down almost to the water then east and west and almost to ground at end of Pottsburg Creek; object zoomed across my view and disappeared.  I was unable to hit video on phone but did press camera.  Zoomed (1 second) to south and disappeared.I was yelling on phone to my brother “hold on hold on something over water flying over water”.  My brother asked what but continued our conversation.  I have included original picture and enlarged picture the best of my ability.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139802.html](http://www.nuforc.org/webreports/reports/139/S139802.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [241](http://www.nuforc.org/webreports/reports/162/S162282.html)
-- [240](http://www.nuforc.org/webreports/reports/162/S162319.html)
-- [239](http://www.nuforc.org/webreports/reports/162/S162403.html)
-- [238](http://www.nuforc.org/webreports/reports/162/S162700.html)
-- [237](http://www.nuforc.org/webreports/reports/154/S154149.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
