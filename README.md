@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:25 on 3 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:25 on 3 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Punta Gorda (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>cluster of moving lights in the sky, some were flashing most werent.I was hanging out with friends, and someone pointed up and said look at that, and there was a cluster of like 40 or more lights and probably half were flashing and half weren't. the lights looked really high up, and look like stars, they were moving as fast as an airplane but in to close of a formation. this was in Punta Gorda, near the store on cooper street.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107829.html](http://www.nuforc.org/webreports/reports/107/S107829.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Zion (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>6 to 8 lights in formation in eastern sky heading westLooking east saw what I first thought was a formation of helicopters.  They were mostly in a single file line but there was at least one pair side by side.  They appeared to be coming closer heading west.  They each looked like a bright star colored white.  I did not see any blinking lights that would normally suggest an aircraft.  I also heard no noise that would be associated with helicopters.  Moving too slow to be airplane, almost hovering but moving closer.  Eventually each light disappeared.  Only thing I can think of at this point is that they could have been some sort of flares dropped by an aircraft or a hoax where somebody floated some flares or other illuminary source via balloon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96513.html](http://www.nuforc.org/webreports/reports/096/S96513.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [241](http://www.nuforc.org/webreports/reports/162/S162282.html)
-- [240](http://www.nuforc.org/webreports/reports/162/S162319.html)
-- [239](http://www.nuforc.org/webreports/reports/162/S162403.html)
-- [238](http://www.nuforc.org/webreports/reports/162/S162700.html)
-- [237](http://www.nuforc.org/webreports/reports/154/S154149.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
