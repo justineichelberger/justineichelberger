@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:33 on 4 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:38 on 4 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Cone' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Flashing, circular object at intense speed over streetway!  I was driving towards a red light at a corner, and over the trees up above we saw a cone-like object moving at modernate speeds but seemed faster than a convetional airplane.  It was moving rather slow, yet super fast, almost hovering . . . as an airplane wouldn't fly like this.  There was an intense white and yellow pulsating lights around it. The cone-like object seemed super small. Like half the size of my vehicle. So I would say that it was around 6 feet across, and around, at the minimum.  The object wasn't too high up, but the trees made it hard to see until it appeared that a plane was coming into its path and it did a complete 180 degree turn to the left and then went straight up. When I turned on the red light, I turned to see where it went but it was completely gone.  However, we did notice a very bright, unusal star hovering very high above.  But it was much larger than the object we had seen.  This very bright object was in path with the smaller object.  Strange.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55538.html](http://www.nuforc.org/webreports/reports/055/S55538.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Barrie (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Massive Explosion over Nothern Canada.The big explosion;  It was the first Thursday of March 3rd, 2016, I believe, that I saw a major explosion.  First a major pure white flash, very white, then less than a second later, a secondary explosion that spewed green radiation outward to a larger ball.  I can't believe I'm the only one who saw this.It was about 20,000 ft. (Jet height, I figure) up over Northern Ontario.  I was in Barrie, Ontario, at the time.  I looked at the clock and it was 1:30 am.  This was definitely something blowing up.Here is a video I created to show what I saw.https://www.youtubecom/watch?v=ChhdkblGVvk((NUFORC Note:  Please see other report from same witness for June 1st, 2014, Windsor, Canada, at 00:00 hrs..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133318.html](http://www.nuforc.org/webreports/reports/133/S133318.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162324.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162276.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162402.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162400.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162322.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
