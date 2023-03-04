@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:38 on 4 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:47 on 4 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Barrie (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Massive Explosion over Nothern Canada.The big explosion;  It was the first Thursday of March 3rd, 2016, I believe, that I saw a major explosion.  First a major pure white flash, very white, then less than a second later, a secondary explosion that spewed green radiation outward to a larger ball.  I can't believe I'm the only one who saw this.It was about 20,000 ft. (Jet height, I figure) up over Northern Ontario.  I was in Barrie, Ontario, at the time.  I looked at the clock and it was 1:30 am.  This was definitely something blowing up.Here is a video I created to show what I saw.https://www.youtubecom/watch?v=ChhdkblGVvk((NUFORC Note:  Please see other report from same witness for June 1st, 2014, Windsor, Canada, at 00:00 hrs..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133318.html](http://www.nuforc.org/webreports/reports/133/S133318.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Queensbury (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>upstate ny ufoi work at a supermarket and at the time i was out in the parking lot and saw 3 men looking south/southeast and pointing into the sky. i walked over and looked up were they were pointing and i saw a round black object hover in the sky. we watched it for about 5 minutes till it faded away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35624.html](http://www.nuforc.org/webreports/reports/035/S35624.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162324.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162276.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162402.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162400.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162322.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
