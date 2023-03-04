@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:22 on 4 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:34 on 4 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Canberra (Australia) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Object stops still in the sky, changes trajectory and flies back in the opposite direction only to disappear.I am a university student who lives in Canberra, Australia and i don't really have much of a fascination with ufo's or space. On a saturday night my friend and i arrived at another friends house to watch some movies. After knocking on the door i realised i had left my car lights on so i went back to my car which was parked out by the road. It was a very clear night and the sky in Canberra is great for a star gazer because it is a small city thus their is little glow in the night sky from buildings or city lights.As i walked over to my car i looked into the sky and directly north i saw what i initially thought was a satellite. I have seen many satellites before but this one appeared to be a little different. It was moving at a slow pace and in a straight line from right to left in the sky, it was a whitish/yellowish colour and it had no flashing lights apparent. The difference between this satellite to others i have seen before was that instead of maintaining a smooth trajectory the object seemed to be slightly bobbing up and down. I knew this was strange for a satellite so i kept watching. The objects trajectory then changed and it looked like it was moving downwards rather than in its straight line. It did this for about 30 seconds and then the object stopped and was sitting stationary in the sky. My friend then came outside and i called him over to look at the object. We looked at for about 1 minute as it sat still and then to my amazement the object began flying from left to right back which meant it was flying back at a slow pace in the opposite direction as to when i first saw it. My friend and i watched the object fly for about 1 minute until it stopped again. It stayed stationary for about 2 minutes then simply disappered to my friend's and my own amazement.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42742.html](http://www.nuforc.org/webreports/reports/042/S42742.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Calimesa (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Daytime ufo observation at high altitudeDirection:Looking due north, altitude about 75 degrees up from horizon. Weather: was about 75% clear with broken clouds, numerous chem trails about 70 degrees F. Event:  I noticed a white sphere traveling to the northwest at around 50-60 thousand feet.  It traveled with a trajectory that a normal plane would have.  There was no con trail left as it traveled.  As it traveled another small white object (sphere) came/fell down verticall down from an old spread out chemtrail overhead and briefly followed the first object.  It begain to do a cork screw maneuver behind the first object then turned back up vertically, keeping it's corkscrew trajectory back up into the cloud from which it orginally came from.  The first object continued on as nothing had happened.  I waited about 10 minutes to see if anything else might happen.  None did.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62063.html](http://www.nuforc.org/webreports/reports/062/S62063.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162324.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162276.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162402.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162400.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162322.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
