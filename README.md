@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:30 on 4 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:24 on 4 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Gippsland (Australia) () reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>yellow/golden , large, rectangular , slow moving object with stars/lights in and around it.It was about 11:00 pm and my husband and I saw a slow moving yellow/golden  rectangular object, quite large with lights or stars in and around it, then after about 10 seconds it just vanished.  I have never ever heard of or seen anything like it and it definately was not an aircraft !!,  there was only the one.  We live in Australia.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87484.html](http://www.nuforc.org/webreports/reports/087/S87484.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Edmonds (WA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Rectangular shape with two rows of yellow lights flying extremely low and above me.I walked outside to take my dog out and looked up at the sky to see what looked like two rows of yellow lights moving above me. They were flying at a fast but constant pace. As I looked in the direction that it was going, I saw one light ahead which made me realize it appeared to be a giant craft above me instead of just the rectangular lights. Being 5 am it was still not light out but it was clear enough to see it was not a plane and there was absolutely no noise coming from the craft. Lots of planes fly above this apartment complex and I have never witnessed anything like this before. We have a lot of tall evergreens here and as I tried to follow it, it disappeared behind some of the trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162280.html](http://www.nuforc.org/webreports/reports/162/S162280.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162324.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162276.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162402.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162400.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162322.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
