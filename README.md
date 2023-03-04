@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:24 on 4 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:23:40 on 4 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Edmonds (WA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Rectangular shape with two rows of yellow lights flying extremely low and above me.I walked outside to take my dog out and looked up at the sky to see what looked like two rows of yellow lights moving above me. They were flying at a fast but constant pace. As I looked in the direction that it was going, I saw one light ahead which made me realize it appeared to be a giant craft above me instead of just the rectangular lights. Being 5 am it was still not light out but it was clear enough to see it was not a plane and there was absolutely no noise coming from the craft. Lots of planes fly above this apartment complex and I have never witnessed anything like this before. We have a lot of tall evergreens here and as I tried to follow it, it disappeared behind some of the trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162280.html](http://www.nuforc.org/webreports/reports/162/S162280.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Las Animas (CO) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>3/4/04 8:20pm A large oval white light with a very load roar over Las Animas, ColoradoAt approx. 8:20 pm, March 3, 2004 Las Animas, Colorado - Southeastern Colorado I heard a very load roar while watching T.V. in my front room. I went out side to hear what appeared to be a B1-B bomber at an altitude of 500 feet off the ground. At this time the sound was extremly loud and much louder than a B1 (Las Animas is located in  an MOA - Military Operations Area where B1s, fighter jets, B-52, F-117s train). I expected to see some type of airplane lights and strobes (B1 strobes are usually a brilliant very fast strobe), all I did see was a large oval white light, no stobes moving to the North. It appeared to be at a height of a commerical jet, 20,000 plus feet. After watching the light move off to the North, I went inside and called the Pueblo (80 miles west of Las Animas) Airport tower. They said that my area was out of their radar range and I needed to call Denver Central. I did call Denver and related to them the light/craft and sound. The gentleman I spoke to said he would check and see if there was any military traffic or any aircraft in my area at that time. After several minutes he came back on the phone and told me that it was not a B1 bomber or any military plane or commerical jet, but he did say that it was a classified aircraft on a classified mission and that is all he could say about the event! I have watched a lot of aircraft over the years in this area and seen some strange aircraft, but this one event was very unusual!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35411.html](http://www.nuforc.org/webreports/reports/035/S35411.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162324.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162276.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162402.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162400.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162322.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
