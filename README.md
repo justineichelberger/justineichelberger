@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:34 on 4 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:28 on 4 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Calimesa (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Daytime ufo observation at high altitudeDirection:Looking due north, altitude about 75 degrees up from horizon. Weather: was about 75% clear with broken clouds, numerous chem trails about 70 degrees F. Event:  I noticed a white sphere traveling to the northwest at around 50-60 thousand feet.  It traveled with a trajectory that a normal plane would have.  There was no con trail left as it traveled.  As it traveled another small white object (sphere) came/fell down verticall down from an old spread out chemtrail overhead and briefly followed the first object.  It begain to do a cork screw maneuver behind the first object then turned back up vertically, keeping it's corkscrew trajectory back up into the cloud from which it orginally came from.  The first object continued on as nothing had happened.  I waited about 10 minutes to see if anything else might happen.  None did.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62063.html](http://www.nuforc.org/webreports/reports/062/S62063.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Pittsburg (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>I kept seein a light come from behind the cloud and then I seen another and then another and they just kept coming so I called someone over and they saw them also and I called over to more people and they also seen them to. I counted 10 by myself before calling to another person to see for their their self</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153834.html](http://www.nuforc.org/webreports/reports/153/S153834.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162324.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162276.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162402.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162400.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162322.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
