@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:21 on 4 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:33 on 4 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Canyon Lake (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Large object falls straight down then jetfighters chase after it.Saw 6 inches to side of telephone poll approximatly 30 miles away an object,large, black strange shape possible trianglar teardrop mix, fell straight down, no trails no turns no spins just straight down. then about 20 minutes after 4 jet fighters flying rather low flew in exact direction the object fell.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74537.html](http://www.nuforc.org/webreports/reports/074/S74537.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Cone' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Flashing, circular object at intense speed over streetway!  I was driving towards a red light at a corner, and over the trees up above we saw a cone-like object moving at modernate speeds but seemed faster than a convetional airplane.  It was moving rather slow, yet super fast, almost hovering . . . as an airplane wouldn't fly like this.  There was an intense white and yellow pulsating lights around it. The cone-like object seemed super small. Like half the size of my vehicle. So I would say that it was around 6 feet across, and around, at the minimum.  The object wasn't too high up, but the trees made it hard to see until it appeared that a plane was coming into its path and it did a complete 180 degree turn to the left and then went straight up. When I turned on the red light, I turned to see where it went but it was completely gone.  However, we did notice a very bright, unusal star hovering very high above.  But it was much larger than the object we had seen.  This very bright object was in path with the smaller object.  Strange.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55538.html](http://www.nuforc.org/webreports/reports/055/S55538.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162324.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162276.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162402.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162400.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162322.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
