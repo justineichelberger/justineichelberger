@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 4 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:21 on 4 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Vacaville (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 13.0 - 13.0 minutes.</sub><blockquote><sub>Lights very high in the atmosphere passed over 1 at a time spaced evenly and in a straight line. They were moving east. As they passed overhead, they disappeared. As I was watching 3 dimly lit orbs raced by traveling south. One was traveling in a straight line while the other 2 danced around on each side. Another light (very high in the atmosphere slowly moved overhead and stopped and hovered for at least 5 minutes. Very weird. They were definitely too high to be military aircraft and way too many to be satellites.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153839.html](http://www.nuforc.org/webreports/reports/153/S153839.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Canyon Lake (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Large object falls straight down then jetfighters chase after it.Saw 6 inches to side of telephone poll approximatly 30 miles away an object,large, black strange shape possible trianglar teardrop mix, fell straight down, no trails no turns no spins just straight down. then about 20 minutes after 4 jet fighters flying rather low flew in exact direction the object fell.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74537.html](http://www.nuforc.org/webreports/reports/074/S74537.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162324.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162276.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162402.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162400.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162322.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
