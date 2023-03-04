@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:22 on 3 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:30 on 4 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Long Beach (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Chrome Disk motionless over ocean at sunset in Long Beach, CA 3/3/08 5:45 pmOcean Blvd westbound toward Redondo Ave. over the ocean attention to the sky due to jet stream of probably military aircraft which is common in that area jet flying away from me northwest intersecting jet stream another smaller jet stream of object heading toward ground pulled over to see if something was going to crash object stopped mid-air no movement or fading out of jet stream, as if frozen in a photo sun not set yet, so light reflecting on chrome-like metallic object viewing object from what appeared to be a side angle of a disk possibly oval in shape pulled back into traffic looked up possibly another jet with jet stream passing, but object gone first experience of this type too amazed to think to use cell phone for photo or video</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62052.html](http://www.nuforc.org/webreports/reports/062/S62052.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Gippsland (Australia) () reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>yellow/golden , large, rectangular , slow moving object with stars/lights in and around it.It was about 11:00 pm and my husband and I saw a slow moving yellow/golden  rectangular object, quite large with lights or stars in and around it, then after about 10 seconds it just vanished.  I have never ever heard of or seen anything like it and it definately was not an aircraft !!,  there was only the one.  We live in Australia.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87484.html](http://www.nuforc.org/webreports/reports/087/S87484.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [241](http://www.nuforc.org/webreports/reports/162/S162282.html)
-- [240](http://www.nuforc.org/webreports/reports/162/S162319.html)
-- [239](http://www.nuforc.org/webreports/reports/162/S162403.html)
-- [238](http://www.nuforc.org/webreports/reports/162/S162700.html)
-- [237](http://www.nuforc.org/webreports/reports/154/S154149.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
