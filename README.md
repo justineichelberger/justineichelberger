@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:24 on 4 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:23 on 4 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in El Paso (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately  -  minutes.</sub><blockquote><sub>far east el paso sighting on march 4, 20041 object located far east off of my location in east el paso and the shape looked kind of triangular and we noticed that it would stay still. my mom had noticed it for like 30 min before she called me to look at it.  there was greeen lights that would go around the object and it would change to yellow and i think orange.  when a plane would come close to it the objects colors would stop and it would stay still and it looked like a star. and we noticed that when 2 planes came close, but it was to high out there for it to be a plane.  it hasnt really moved with the exception after the planes left it would make these weird shapes.((NUFORC Note:  We suspect the witnesses may have been viewing the star, Sirius, in the eastern sky.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35409.html](http://www.nuforc.org/webreports/reports/035/S35409.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Walkerton (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>When ever the objects where hit with the light from the flash light they got brighter.My little sister went to let the dogs out and my dad decided to play with his strong flashlight.  He pointed it up into the sky at a random light.  When he flashed it the light got brighter.  Once he stopped the light got dimmer till it was barely noticeable.  He did it again and the object got brighter again.  Then we saw another light a small distance away and we shined the light at it it did the same exact thing as the other, the only thing different we noticed was it fully dissapered and then 10 minutes later it came back.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87494.html](http://www.nuforc.org/webreports/reports/087/S87494.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162324.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162276.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162402.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162400.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162322.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
