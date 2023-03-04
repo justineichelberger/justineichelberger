@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:47 on 4 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:22 on 4 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Queensbury (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>upstate ny ufoi work at a supermarket and at the time i was out in the parking lot and saw 3 men looking south/southeast and pointing into the sky. i walked over and looked up were they were pointing and i saw a round black object hover in the sky. we watched it for about 5 minutes till it faded away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35624.html](http://www.nuforc.org/webreports/reports/035/S35624.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Kenner (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>two bright flashes and some sort of movement in the same areaI was standing in our back yard, watching as planes approached our airport from the north, when I caught a glimpse of a bright flash to my northeast approximately 50 degrees from the horizon.  When I focused on the area where the flash came from, I saw some sort of movement in that area and then another bright flash. I continued to watch the area, but did not see anything after that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96520.html](http://www.nuforc.org/webreports/reports/096/S96520.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162324.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162276.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162402.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162400.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162322.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
