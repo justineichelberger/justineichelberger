@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:17 on 5 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:22 on 5 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Shelbyville (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange light traveling north to south at high speed, no sound.Orange light traveling north to south in a straight line at high speed.  No sound.  About as big as Jupiter appears in the sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126225.html](http://www.nuforc.org/webreports/reports/126/S126225.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in El Cajon (CA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately  -  minutes.</sub><blockquote><sub>It was falling out of the sky.Between 8:30am and 9:00.  I was riding in the car on the 125 exit, Grossmont College, on the left side.  A fast moving object was falling out of the sky.  It looked like one of those plains that leave a smoke trail behind, but it was bigger, faster, it had a weird glow around it, and it looked liked it had something in the center of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139062.html](http://www.nuforc.org/webreports/reports/139/S139062.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
