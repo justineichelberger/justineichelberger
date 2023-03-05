@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:22 on 5 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:21 on 5 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Fort Smith (AR) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>I noticed what appeared to be a star and just watched it for a moment and then it began to have white lights randomly flash around it.  I was only watching with the naked eye. It was fairly stationary and was still visible when I came in to report this.  I saw it through a double paned window so I thought it might be a trick of my eye glasses and the window so I went outside and the same strange random lights flashed around it.  As I write this I rechecked to see if it was still visible and the random lights continue and it is 3:55 AM.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74546.html](http://www.nuforc.org/webreports/reports/074/S74546.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Marana (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>while driving along interstate 10, in the vicinity of Marana Az I saw a large fireball that shot out from a cave located on a mountain south of the freewayAfter witnessing the large fireball shoot out of the cave, it turned south and flew over kitt peak observitory. It came back and cirled the mountain about fifty times and then disappeared to the north.  Approximatly 15 minutes later it reappeared again circling the mountain.  I just sat in the back of my pickup pulled off of the freeway and drank a few beers while this thing kept buzzing around. Finally after an hour or so it shot straight up and then flew back into the cave.  I never saw it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05834.html](http://www.nuforc.org/webreports/reports/005/S05834.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
