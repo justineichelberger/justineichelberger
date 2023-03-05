@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:33 on 5 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:12 on 5 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in Evansville (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was a junior in college at the local university.  It was some time in March just before midterms.  I was sound alseep and suddenly awoke to a red light coming in through the blinds.  The light was very bright, like fire.  At first I thought the apartment building next door was on fire, then I felt a static electric feeling and the red light covered my body moving from my feet upwards toward my head.  I was paralyzed and could hardly breathe.  It seemed to last forever, but it was really only a few seconds.  After the light got to my scalp it left and the window was dark again. I was terrified, so I called a friend. I was crying and shaking.  My friend told me it was just a street lamp shining in or the brakes on a car. I was on the second floor of a building that was facing another building.  I was at the end of the building farthest from the road. I insisted that it wasn't a light from the street, the red light was angled from above my window.  She said that it was just a dream and I was stressed because mid-terms was coming up. I have never forgotten this light that "scanned" my body or the feeling that went with it.   Since that time I have had terrible nightmares of something swooping down from the cieling at me.  When I awake from these dreams, I am usually yelling at them and the swooping things have taken on the form of an object in the room. I don't remember having any different marks or anything after the light came in, but I started remembering events that I had never remembered before about childhood abuse.   I'm not sure the memories are real, but the feelings that go along with them are very real. Has anyone else ever experienced anything similar.  I've not told anyone about this incident, other than my friend, because no one would beleive me.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45739.html](http://www.nuforc.org/webreports/reports/045/S45739.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Elmira (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>a huge perfect circle showed up on radar over north central pennsylvania. Did anyone else notice it?there were these perfect circles zipping around on the radar summary of the 11 o'colck news reports from Albany, New York which i have never seen before. They were flying around the north central part of Pennsylvania and they must have been huge, like the Mothership or something. I think they were traveling quite fast and they must have wanted to be witnessed by someone who might suspect what they were. One hovered on the sreen long enough to make me notice and the others moved quickly off of the screen. They could not have been storms.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42777.html](http://www.nuforc.org/webreports/reports/042/S42777.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
