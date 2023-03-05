@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:11:33 on 5 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:22 on 5 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Middleton (ID) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Three bright lights clustered together, hovering in the same place, going dim to bright without a pattern.  After 15 minutes, helicopters were all over the area.  The lights faded out and are gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117578.html](http://www.nuforc.org/webreports/reports/117/S117578.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Fort Smith (AR) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>I noticed what appeared to be a star and just watched it for a moment and then it began to have white lights randomly flash around it.  I was only watching with the naked eye. It was fairly stationary and was still visible when I came in to report this.  I saw it through a double paned window so I thought it might be a trick of my eye glasses and the window so I went outside and the same strange random lights flashed around it.  As I write this I rechecked to see if it was still visible and the random lights continue and it is 3:55 AM.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74546.html](http://www.nuforc.org/webreports/reports/074/S74546.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
