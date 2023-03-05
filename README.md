@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:29 on 5 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:27 on 5 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Hummelstown (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Red fire ball with long blue tail light over Hummelstown, PennsylvaniaThe shape of the object was a red fireball in front with a long oval shape (tail like)blue light.  The blue light was about 15 times longer than the diameter of the red fire ball.  The object was moving very fast in the east west direction.  After the 5 to 6 seconds, the object made a very fast and sharp right turn in the north direction and immediately disapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87527.html](http://www.nuforc.org/webreports/reports/087/S87527.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Fayettville (TN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Green fireball shoots across the sky in southern TNMe and my girlfriend were headed home from a weekend up in TN and had just went through Fayettville, TN, and were outside of the city limits when we both saw a green fireball looking thing appear and shoot across the sky in front of us.  It had a big trail of green fire trailing behind it.  There was something solid and metallic looking in the center of it.  It was only visible for a few seconds and then it just dissappeared. Right after we saw it my girlfriend looked at me and said "now do you believe me".  She had told me on several occasions a few years back that late at night she had seen these green objects before near her parents house in Limestone County Alabama which is way out in a densly populated part of the county.  She told me that she had seen these exact same objects hover real close to the tops of trees and then shoot straight up and disappear.  She saw these objects three straight nights in a row in the same exact location.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42793.html](http://www.nuforc.org/webreports/reports/042/S42793.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
