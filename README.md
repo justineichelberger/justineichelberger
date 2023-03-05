@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:30 on 5 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:14 on 5 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Upper Freehold Township (NJ) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Saw extra bright thing in the air at 3:04 am that did very erratic movements with laser like lines and ended up in different position.I took my dog out and went back to bed.  Normal view from room shows planes ready to land with lights - the lights I saw were headlight size compared to normal views.  Almost a double headlight look and could not tell where it was going - I went to bed early and know what I saw.  The object was not clearly making a path to move forward or backwards - and then, an erratic movement pattern occurred - where the light moved in a weird pattern and then ended up in a different position - almost laser like movement rods.  Wanted to wake up my husband and daughter but thought it would be gone by then.  watched for a few more minutes and watched changes in location. and then it was gone..... could have been Ft. Dix-McGuire testing, or whatever - but what I witnessed was something I had never seen before and couldn't explain erratic and so fast movement.  Was not afraid..........</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133007.html](http://www.nuforc.org/webreports/reports/133/S133007.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Oak Harbor (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately still happening - still happening minutes.</sub><blockquote><sub>4 lights seen clearly many difrent colors that seem to move and turn but do not move in any directioni noticed a blinking light in the sky with my naked eye.  It appeared to have atleast 3 lights. Blue and Red and Green light was clearly seen from the naked eye.  I used a telescope to examine and 4 lights were clear to seperate maybe more that were unseperated clearly. The lights seemed to go off in a circular pattern.  Purple, Green, Red, Blue. in what order of the colors i cannot say. !0 minutes later it seemed that it had leveled flat and a row of lights could be seen through the telescope.  After that i witnessed it looking as if it was doing ariel flips but not moving in any direction.  If it is a satalight i have never seen one this clearly that i can see purple and greens or the red light so clearly from the naked eye.((NUFORC NOTE:  Witness indicates that date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74561.html](http://www.nuforc.org/webreports/reports/074/S74561.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
