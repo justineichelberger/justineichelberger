@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:21 on 5 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 5 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Marana (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>while driving along interstate 10, in the vicinity of Marana Az I saw a large fireball that shot out from a cave located on a mountain south of the freewayAfter witnessing the large fireball shoot out of the cave, it turned south and flew over kitt peak observitory. It came back and cirled the mountain about fifty times and then disappeared to the north.  Approximatly 15 minutes later it reappeared again circling the mountain.  I just sat in the back of my pickup pulled off of the freeway and drank a few beers while this thing kept buzzing around. Finally after an hour or so it shot straight up and then flew back into the cave.  I never saw it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05834.html](http://www.nuforc.org/webreports/reports/005/S05834.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1957, an anonymous witness in Jena (LA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Heading S. in my car on two lane highway entering Jena LA saw UFO's to the S.E. many cars stopped to abserveThe objects were heading from the South Eeast to the North East at a steady pace there were no turns or gains or losses of altitude they were completely quiet. The speed seemed faster than any aircraft known to me.(I'd just completed an enlistment in the Air Force and was familiar with the then current aircraft) There were three objects and each were three spheres joined two on the bottom and one on top forming a triangle. The color was light blue and seemed to be luminus. There appeared to be a formation two flying paralel and the other flying above the one flying further to the East. These objects were very visable and many cars stopped to abserve, it was a clear night and the highway was lined with people standing outside their cars. The curious thing was that though people talked about the event in a restaurant I stopped at the next day there was no reports on the media. I know this report is very old but thank you for the chance to file it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03449.html](http://www.nuforc.org/webreports/reports/003/S03449.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
