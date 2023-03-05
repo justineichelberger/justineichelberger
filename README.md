@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:39 on 5 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:25 on 5 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in West Chester (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Small triangular object with multi-color lights slowly movingWest Chester, Pennsylvania  Sighting Time: 10:15 through 10:45   Location of object:  West of town about 10 miles   Object was small and triangular in shape.   Lights consisted of green, red, and orange.Looked to be hovering around 3,000 feet and slowly moved North/northeast while moving to 5-7,000 feet.The light several times went black and then appeared almost like a dimming and re-appearing.Observed object for 30 minutes, before loosing site.There was no sound from object that I could tell and saw no other object approaching or around.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74573.html](http://www.nuforc.org/webreports/reports/074/S74573.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Madera (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>30 to 40 white lights flying in formation, all equally apart in straight line.30 to 40 circular white lights flying in a straight line formation all equally same distance apart...Started counting them after about 2 min. Personally counted 25, so I'd say around 30 to 40. There were 5 of us that witnessed it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153881.html](http://www.nuforc.org/webreports/reports/153/S153881.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
