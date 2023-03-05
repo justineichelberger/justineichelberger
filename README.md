@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:12 on 5 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:29:48 on 5 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Elmira (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>a huge perfect circle showed up on radar over north central pennsylvania. Did anyone else notice it?there were these perfect circles zipping around on the radar summary of the 11 o'colck news reports from Albany, New York which i have never seen before. They were flying around the north central part of Pennsylvania and they must have been huge, like the Mothership or something. I think they were traveling quite fast and they must have wanted to be witnessed by someone who might suspect what they were. One hovered on the sreen long enough to make me notice and the others moved quickly off of the screen. They could not have been storms.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42777.html](http://www.nuforc.org/webreports/reports/042/S42777.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Florence (AL) reported seeing craft that fit the description of some 'Oval' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>I dont know if this is a dream or notI have been having a reoccuring dream as of late, all i can remember about it is that it takes place at early morning (the sun has just come up over the trees), that it is winter time(there are no leaves on the trees). I awake and am drawn to look out the window of my bedroom(it faces the south) and I look up in the sky towards the east and just above the rising sun, I see a black oval shaped disk. i turn to run out of my bedroom, I get down the stairs, turn to run to my parents bedroom, and just as I get there im stopped and I cant go any further, I try and call out, but I cant make a sound. after that the dream goes blank. That is all I can remember. Ive been afraid to tell anybody for fear that I will be considered crazy. As far as how old I was at the time, I would have to say 9 or 10.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45696.html](http://www.nuforc.org/webreports/reports/045/S45696.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
