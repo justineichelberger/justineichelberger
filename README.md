@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:20 on 5 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:27 on 5 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Fort Lauderdale (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>red blinking object..very small moving at steady speed..then vanishedI was driving home heading north on I 95 when I looked into the sky and saw a blinking red light.  It was moving at a steady pace and it wasn't loud as if it were a plane or helicopter.  It was a lot smaller than either of them. I thought maybe I had seen a one of those blinking tower lights flashing, but once I focused on the red flashing object and realized it wasnt a blinking light from the electric poles, it vanished into thin air.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62060.html](http://www.nuforc.org/webreports/reports/062/S62060.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Romeo (MI) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Diamond shaped lights observed in the southwestern sky in Romeo MIThe back of my house faces south.  I have observed diamond shaped lights in the southwestern sky several times now.  This time I am documenting what I saw.  There were two of them and they were very bright.  I see them quite often in the same place, but tonight they seemed much brighter than before.  In the past I have seen up to 4 of them.  Usually it is 2 or 3.  Tonight I saw them upon letting my dog outside and I had my binoculars nearby, so as I was looking through the binoculars at the diamond shaped lights they just disappeard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74555.html](http://www.nuforc.org/webreports/reports/074/S74555.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
