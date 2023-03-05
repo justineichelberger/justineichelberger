@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:28 on 5 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:29 on 5 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lebanon (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Round spheres, evenly spaced, heading northwest. Total of 12 lasting 5 minutes. Son in law came outside to witness the remaing 5 before all disappeared. No noise, no trails. Spaced like the dots below..   .   .   .   .   .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153922.html](http://www.nuforc.org/webreports/reports/153/S153922.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Woodland Park (CO) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I saw a strange sequence of lights being shot out of a “star” in the western sky maintaining an equal distance in a diagonal line.Walking into the house, I looked to the west night sky and saw what I thought was Orion’s Belt.  I thought I was going nuts because I know that it is usually southish of my house at that time.  Then I noticed a ball of light shoot out of one of the “stars” going up into the sky instead of down.  This happened repeatedly in equal interval, creating a diagonal line up towards the north.  So, I called my husband to verify that I wasn’t going crazy and he saw the same thing.  It reminded me of the old shooting arcade games that shot things out with equal intervals.  This lasted maybe 5 minutes before it stopped.  I honestly have no idea how many there were, but there were maybe 5 in a row before the top one disappeared from view with a total of 13 in the series that I observed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155671.html](http://www.nuforc.org/webreports/reports/155/S155671.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
