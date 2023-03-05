@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:29:48 on 5 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:11:33 on 5 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Florence (AL) reported seeing craft that fit the description of some 'Oval' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>I dont know if this is a dream or notI have been having a reoccuring dream as of late, all i can remember about it is that it takes place at early morning (the sun has just come up over the trees), that it is winter time(there are no leaves on the trees). I awake and am drawn to look out the window of my bedroom(it faces the south) and I look up in the sky towards the east and just above the rising sun, I see a black oval shaped disk. i turn to run out of my bedroom, I get down the stairs, turn to run to my parents bedroom, and just as I get there im stopped and I cant go any further, I try and call out, but I cant make a sound. after that the dream goes blank. That is all I can remember. Ive been afraid to tell anybody for fear that I will be considered crazy. As far as how old I was at the time, I would have to say 9 or 10.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45696.html](http://www.nuforc.org/webreports/reports/045/S45696.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Middleton (ID) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Three bright lights clustered together, hovering in the same place, going dim to bright without a pattern.  After 15 minutes, helicopters were all over the area.  The lights faded out and are gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117578.html](http://www.nuforc.org/webreports/reports/117/S117578.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
