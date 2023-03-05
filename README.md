@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:14 on 5 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:17 on 5 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Oak Harbor (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately still happening - still happening minutes.</sub><blockquote><sub>4 lights seen clearly many difrent colors that seem to move and turn but do not move in any directioni noticed a blinking light in the sky with my naked eye.  It appeared to have atleast 3 lights. Blue and Red and Green light was clearly seen from the naked eye.  I used a telescope to examine and 4 lights were clear to seperate maybe more that were unseperated clearly. The lights seemed to go off in a circular pattern.  Purple, Green, Red, Blue. in what order of the colors i cannot say. !0 minutes later it seemed that it had leveled flat and a row of lights could be seen through the telescope.  After that i witnessed it looking as if it was doing ariel flips but not moving in any direction.  If it is a satalight i have never seen one this clearly that i can see purple and greens or the red light so clearly from the naked eye.((NUFORC NOTE:  Witness indicates that date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74561.html](http://www.nuforc.org/webreports/reports/074/S74561.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Shelbyville (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange light traveling north to south at high speed, no sound.Orange light traveling north to south in a straight line at high speed.  No sound.  About as big as Jupiter appears in the sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126225.html](http://www.nuforc.org/webreports/reports/126/S126225.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
