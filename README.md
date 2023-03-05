@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:22 on 5 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:20 on 5 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in Evansville (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was a junior in college at the local university.  It was some time in March just before midterms.  I was sound alseep and suddenly awoke to a red light coming in through the blinds.  The light was very bright, like fire.  At first I thought the apartment building next door was on fire, then I felt a static electric feeling and the red light covered my body moving from my feet upwards toward my head.  I was paralyzed and could hardly breathe.  It seemed to last forever, but it was really only a few seconds.  After the light got to my scalp it left and the window was dark again. I was terrified, so I called a friend. I was crying and shaking.  My friend told me it was just a street lamp shining in or the brakes on a car. I was on the second floor of a building that was facing another building.  I was at the end of the building farthest from the road. I insisted that it wasn't a light from the street, the red light was angled from above my window.  She said that it was just a dream and I was stressed because mid-terms was coming up. I have never forgotten this light that "scanned" my body or the feeling that went with it.   Since that time I have had terrible nightmares of something swooping down from the cieling at me.  When I awake from these dreams, I am usually yelling at them and the swooping things have taken on the form of an object in the room. I don't remember having any different marks or anything after the light came in, but I started remembering events that I had never remembered before about childhood abuse.   I'm not sure the memories are real, but the feelings that go along with them are very real. Has anyone else ever experienced anything similar.  I've not told anyone about this incident, other than my friend, because no one would beleive me.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45739.html](http://www.nuforc.org/webreports/reports/045/S45739.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Fort Lauderdale (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>red blinking object..very small moving at steady speed..then vanishedI was driving home heading north on I 95 when I looked into the sky and saw a blinking red light.  It was moving at a steady pace and it wasn't loud as if it were a plane or helicopter.  It was a lot smaller than either of them. I thought maybe I had seen a one of those blinking tower lights flashing, but once I focused on the red flashing object and realized it wasnt a blinking light from the electric poles, it vanished into thin air.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62060.html](http://www.nuforc.org/webreports/reports/062/S62060.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
