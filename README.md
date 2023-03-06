@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:35 on 6 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:25 on 6 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Grass Valley (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Amazing straight line of 30+ lights traveling through the sky at a high rate of speed spaced equally going in the same directionWe are not sure what we saw but they were moving In a straight line from the South West to the North East They appeared to look like a jet liner would look at night at 30,000 feet but no flashing lights or sound, or a satellite would look.  They were also spaced equally apart, one behind the other they just kept coming.  They traveled through the sky in a short period of time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154048.html](http://www.nuforc.org/webreports/reports/154/S154048.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Follansbee (WV) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>On 3/6/05 at approx.20:30 EST I wittnessed an very bright round banded object in the sky which began to fade away from me & diminish.Approximately 8:30 PM EST, my friend and I stepped outside for a smoke after dinner. We had just finished eating at my sister's house who I was visiting and lives on ((road name deleted)) Rd. on Hoverson Heights in Follansbee,WV. Niether one of us had any wine or any type of alcoholic beverage prior to or after dinner nor do either one of us use any type of controbane of any kind.  The location is atop a mountain in the West Virginia hills and very dimly lit.Shortly after lighting my cigarette I looked up to admire the clear skys and the stars when I noticed a very bright light up to my left (north). I raised my left hand pointed to it and said, "damn, ((name deleted)) is that a star? He looked up to what was his right and said, "not sure." I said, "it's looks to bright to be a star." It was a large, round, bright light with a kind of stripe or some type of band around it. It began to fade straight back, away from us not across the sky and fade out as would a "shooting star" nor did it have any type of flashing lights and move across the sky as would an airplane. It simply faded away from us dimmer and dimmer until it was completely gone.I am a 54 year old man and must admit I never really believed in UFO sightings until tonight. I swear it was a very very strange experience and has me talking about it to everyone I can. I felt the need to report it because of it's validity.((NUFORC Note:  International Space Station passed near Follansbee, WV, but at 20:03 hrs. (local), and it would have been visible to the south, not the north.  We do not know what the witnesses observed.  PD))Schedule for ISS: 05 Mar 1.9 19:36:12 10 S  19:36:24 11 SSE 19:36:24 11 SSE 06 Mar 1.0 20:03:21 10 SW  20:04:52 26 SSW 20:04:52 26 SSW 07 Mar 0.9 18:57:18 10 S  18:59:33 19 SE  19:01:23 12 E</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42765.html](http://www.nuforc.org/webreports/reports/042/S42765.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/162/S162258.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162261.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162263.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162264.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162260.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
