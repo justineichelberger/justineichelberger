@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:26:57 on 6 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:06:14 on 6 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Peru (IN) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Saw bright orange lights that went on and off, and also seemed to split into more lights.We saw 8 lights up in the western sky in a formation. The lights seemed to split into two lights, then went off. After the bright lights went off, there was what seemed to be sparkling in the sky. When we could see the lights, they went back and forth</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62077.html](http://www.nuforc.org/webreports/reports/062/S62077.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Decatur (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Strange (Craft?) sights seen between Boyd and Decatur Texas.I recieved a call from a neighbor about three miles down the road who told me to go outside and look in the sky.  Looking to the left of the moon were two blue spots of light.  Off and on about once a minute they would strobe white light.  They stayed in place and never moved and never made a sound.  While watching these two things my neighbor (Still on the phone) said look in the direction of Denton.  I saw what looked to be a bright yellow dot of light. (maybe ten miles out)  As we watched (Wife and myself in person, neighbor on phone) the light seemed to get closed and it looked almost flat.  As we watched the light started to sway back and forth.  It would then move maybe about half a mile out away from where it was sitting and then shoot back to where it first started.  It did this over and over again for about 20 minutes.  From there it then seemed to circle in one spot over and over again, it did this about ten times then sat still.  From there is would shoot out like before and curve out back to where it started.  (The other times it shot out before it would go in one line and shoot back in one line in what seemed like no stop)  It then quit this after two runs and stayed in the same spot it first started.  We then saw what appeared to be a 747 or other large aircraft some close to it headed to either DFW or Alliance and the thing went up and away from the object.  When the aircraft left the area the thing went back to the same spot.  The thing just stayed still with the odd movement off and on until about half an hour later when a small jet went into the area and the light just vanished.  I have two other people that saw this other than me and we are willing to talk about it.  I never have seen anything quite like this before.  These things never made any sound.  Where I live sound will travel for miles upon miles.  The area is also blessed to not be under the glow of city lights.  I have worked around aircraft as well and I know the way this thing was moving, was not like any natural manned craft.  The moves would be too much for a pilot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49489.html](http://www.nuforc.org/webreports/reports/049/S49489.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/162/S162258.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162261.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162263.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162264.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162260.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
