@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:28 on 6 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on 6 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Weiser (ID) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>large disk shaped craft emitting bright lightMy daughter and I were on a deserted back road heading for the interstate. We came around a corner and saw a very bright light about a half mile away very low to the ground. When we first saw it, it was hovering over a hill top and shining a beam of light on the ground. We stopped the car to watch it for a moment. It then began to come towards us. We started moving again and it moved very fast to the other side of the road. As we traveled, it continued to move around us. At one point it stopped and hovered by us about 100 yards away. That is when I got a good look at it. In the distance it looked like a very bright light. Up close it looked like a saucer with a dome on the top of it. It was silver in color and emitted this very bright light from it. It made no sound that I could detect. It is very hard to describe the exact size of it, but it appeared to me to be at least the size of a house. Not humongous, but notsmall either. By then I was very scared and wanted to get away from the object. My daughter said she would keep an eye on it so that I could drive faster. We had at least 8 more miles to go and the thing continued to follow us all the way to the interstate. It stayed in the area for at least another minute and then vanished. I drove as quickly as I could to get to my friends house where I called my husband. He said that he would go out and look around. He called me later and said he had spoke to a friend of his that lives in the area of the sighting and that he had seen some jets flying through the canyon like they were looking for something.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16785.html](http://www.nuforc.org/webreports/reports/016/S16785.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Grass Valley (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Amazing straight line of 30+ lights traveling through the sky at a high rate of speed spaced equally going in the same directionWe are not sure what we saw but they were moving In a straight line from the South West to the North East They appeared to look like a jet liner would look at night at 30,000 feet but no flashing lights or sound, or a satellite would look.  They were also spaced equally apart, one behind the other they just kept coming.  They traveled through the sky in a short period of time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154048.html](http://www.nuforc.org/webreports/reports/154/S154048.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/162/S162258.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162261.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162263.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162264.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162260.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
