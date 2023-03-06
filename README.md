@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:26 on 6 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:28 on 6 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Conway (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I noticed what I thought was a star that seemed blurry and pointed it out to the person with me.  He looked and said another one was moving.  The one he pointed out began moving in jerky humps and in figure 8s.  It changed from re to blue and seemed to change altitude.  When I looked back to the first one it was doing the same.  We watched a while then left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126230.html](http://www.nuforc.org/webreports/reports/126/S126230.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Kokomo (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>One of manyMy girlfriend and I were on our way home from the mall a couple of nights ago. We were laughing and singing along with the radio. I looked up into the sky and I saw a strange orange light. I felt almost hypnotized by it, then it disappeared. Immediately I told myself that it was only a glare from a passing vehicle.As I was turning to ask my girlfriend if she saw anything. She was actually turning to ask me the same thing. so was a loud, simultaneous, "Did you see that!!?"  Now skeptical, but still thinking logical, I assumed it was a cloud passing over a bright star. Or even a planet. That's when I looked and about 3/4 mile northwest of the initial observation. I saw another one and then another right next to it. Each time one appeared... one disappeared in a timed sequence, and in a perfect, counter clockwise circular motion. Like a domino effect. Now intrigued, I frantically rolled down my window despite the cold winter air. Just when I thought it was gone another sequence would appear. Each time it appeared to multiply or pulsate, and always in a perfect sequence. There were never more than three lights in each one. I saw a total of three individual sequences on the way home, (like a 5 minute time period).When we got back to the house my girlfriend was trying to convince me that it was probably a helicopter or something. It wasn’t.So now we're standing in the driveway waiting on these things to show up again. It didn’t take long for them to appear. This time there are 2 sequences in the sky at once about a mile apart from each other, (she no longer thinks its a helicopter), and we can barely see super small twinkling lights in between each pulse. I also noticed that there were suddenly several of the small twinkling lights all over the western sky, moving in random directions. some fast some slow. some times disappearing/appearing. I noticed a low distant rumbling during the sequences. Like an engine, or explosion, or breaking barrier. Every dog in the neighborhood was barking. Just as fast as the show started, it ended.I personally cant think of a logical explanation. Fireworks? In the winter, with no sound, and in 2 different parts of the western sky... doubt it. Maybe a flare? Why? and how so timed in 2 different areas? Could be a hoax... but someone would have to have a lot of time on there hands because I did some research on this today. I discovered several, damn near, to the "T", same observation as me. not only that, they were in different years and in different locations. Something else I noticed in my findings is these sightings almost always occur in the western sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62121.html](http://www.nuforc.org/webreports/reports/062/S62121.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/162/S162258.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162261.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162263.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162264.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162260.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
