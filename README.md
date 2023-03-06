@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:22 on 6 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:26 on 6 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Gershøj (Denmark) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Black sphere and small objects "searching" for somethingI were outside to do some garden stuff and i look up and see a big black beam which is focusing on a grass-area, i go after the beam until i get around 80m from it and i can smell something burning, i look up and see a white light where the black sphere starts. I look at the ground again and see several objects almost searching the ground for maybe resources?  They had small claw-lookalike "arms". (It looked like robots, probaly not aliens) They looked alittle like a football or something like that except of the arms they had. Nothing happened other than those "robots" and the smell of burnd grass.... It lasted around 4 min, and suddently the beam and the "robots" were gone.. I look up and now the light is blue and after around 1 min the "UFO" "flew" away with a incredible speed and high acceleration.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37326.html](http://www.nuforc.org/webreports/reports/037/S37326.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Conway (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I noticed what I thought was a star that seemed blurry and pointed it out to the person with me.  He looked and said another one was moving.  The one he pointed out began moving in jerky humps and in figure 8s.  It changed from re to blue and seemed to change altitude.  When I looked back to the first one it was doing the same.  We watched a while then left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126230.html](http://www.nuforc.org/webreports/reports/126/S126230.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/162/S162258.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162261.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162263.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162264.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162260.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
