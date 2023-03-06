@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:37 on 6 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:21 on 6 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Eagle (ID) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Mysterious Red/Orange ball of light flew over us in Eagle, ID.Tonight we were outside on our patio and a bright red/orange Ball of light flew over us.  It was coming from Boise and Heading north west over Eagle.  We could see it for about 10 minutes.  It appeared to be a few hundred feet up in the sky And was completely silent.  At first we thought someone was flying A drone,  but as it got closer it was a ball of light with no distinct Shape or sound.  It was very mysterious…</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154042.html](http://www.nuforc.org/webreports/reports/154/S154042.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Did not see an object, just long and fast bursts of extremely bright, white light; some of which shot off at different angles.When:   Tuesday evening, March 6, 2012 Time:  Approx. 8:40 pm (Albuquerque time) Viewed from:  Airplane en route from Chicago; beginning of approach into ABQ over populated area - could begin to see major roads and lights from buildings, homes, etc.Observation:  From the rear, port side of the plane:  a series of several (maybe 6 or 7) extremely bright bursts of light.  Given the altitude, it seemed too bright and too wide to be the beam of (for instance) the light on a police helicopter.  Furthermore, a couple of the lights turned very quickly at right angles and did not "sweep" in the way a searchlight would have moved.The best way that I can describe the 'shape' of the light is to ask you to picture a comet.  There's the head of the comet and then the tail that gradually fades out. These bursts of light were like that, only they were in reverse of the direction that a comet would go.  In other words, if traveling west, the tail would come first and then the brightness would race ahead and then just black out.I can't guess the distance that they moved over, but from the plane window, I would say it covered a good 6 inches, so on the ground, that would have been pretty far, maybe a mile??  The lights were bright white.  Again, a couple of the lights turned in different directions, but the majority of them just went straight.There weren't a lot of people on the plane and I didn't hear folks talking about it as they got off in ABQ.  I did go up and talk to the pilot before the new passengers boarded for the rest of the flight to Tucson, but he didn’t see anything because he was focused on the approach to the airport.  He suggested it might have been some military exercises, but since it was over a populated area,  I discount that theory.Whatever it was, was very interesting and certainly unforgettable!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87571.html](http://www.nuforc.org/webreports/reports/087/S87571.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/162/S162258.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162261.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162263.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162264.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162260.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
