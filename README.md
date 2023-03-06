@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:34 on 6 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:32 on 6 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Montgomery County (TN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Seen over Wilma Rudolph Blvd in cloudy sky.  Travel from east to west slower than a meteor seem to hit the ground but could not tell??((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145090.html](http://www.nuforc.org/webreports/reports/145/S145090.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Oneida (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>White light in the sky, left to right instant turns, flew over changed colors and dissapeared.My roommate and I noticed the "fingernail moon" was out, so i got out my telescope.  As we observed the moon, my roommate pointed out a light in the sky coming from the northwest.  at first we thought it might be an airplane, but it was just one solid white light, no flashing lights whatsoever.  there was no sound coming from it either.  as it passed overhead we thought we might start to hear the sounds of a small airplane, but still we didn't hear anything.  As it flew overhead we noticed it was making small, instantaneous slips to it's left and right.  It passed over us at a relatively low speed, headed to the southeast.  Right around the time we figured it would have been over Austin-Straubel Airport, the light slowly began to dim and changed from white to a orange that got darker as it dimmed.  Within seconds it was gone altogether.  We have never seen anything like this before, hopefully somebody can read this an shed some light on our "sighting."  What! ever it was, it has us pretty excited :D</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80369.html](http://www.nuforc.org/webreports/reports/080/S80369.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/162/S162258.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162261.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162263.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162264.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162260.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
