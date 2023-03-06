@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:56 on 6 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:35 on 6 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Gila Bend/Wellton (between) (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately don't know exactly - don't know exactly minutes.</sub><blockquote><sub>This is true!  My husband and I were driving home from a meeting I had had in Phoenix,we were past the town of Gila Bend,Az I know this much when suddenly on our left side we saw lights that were in a V shape blinking like crazy we were not so much scared but more in awe, then I got panicky because I had only heard of the Phoenix lights but never actually seen them or knew what shape they were in I still don't know. This went on for quite a while the lights blinking in a manner that spacecraft from earth would, the speed was too incredibly fast. I think that maybe it was 2 objects that I saw I cannot be sure, never will be. I asked mu husband to pull over to an approaching rest stop but he wouldn't he said he just wanted to get home, I'm not from Arizona originally so I don't know exactly what town follows Gila Bend. These lights went on for a while they seemed really close but I felt as if other cars were either not seeing or just plain ignoring these lights, my husband and I quickly decided we were just not going to look in that direction (of the lights)and started making excuses to one another about what they were, who they were. This is just too weird....too weird. We haven't spoken about it since not to each other, I told a dear friend and I'm embarrased about it. Don't know what the heck is going on I've travelled this highway before many times, and nothing like this has happened before. I'll probably never talk about this anymore to anyone ever,too strange the feeling even writing about it is strange, but defenitley real... I hope to never go thru this again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55766.html](http://www.nuforc.org/webreports/reports/055/S55766.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in North Hills (CA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>As I sat in my car taking my break, I looked at the sky and observed through clouds a round egg-like silver object just pacing the sky at a slow speed at a north-to-west direction.  After 5 minutes object disappeared in clouds((NUFORC Note:  Probable hoax.  Witness indicates "North Hills, B.C." in original report.  Our gratitude to Steve Reichmuth, of MUFON California, for bringing this fact to our attention.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50012.html](http://www.nuforc.org/webreports/reports/050/S50012.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/162/S162258.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162261.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162263.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162264.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162260.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
