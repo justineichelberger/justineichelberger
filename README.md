@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 6 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:28 on 6 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in North Hills (CA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>As I sat in my car taking my break, I looked at the sky and observed through clouds a round egg-like silver object just pacing the sky at a slow speed at a north-to-west direction.  After 5 minutes object disappeared in clouds((NUFORC Note:  Probable hoax.  Witness indicates "North Hills, B.C." in original report.  Our gratitude to Steve Reichmuth, of MUFON California, for bringing this fact to our attention.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50012.html](http://www.nuforc.org/webreports/reports/050/S50012.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Weiser (ID) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>large disk shaped craft emitting bright lightMy daughter and I were on a deserted back road heading for the interstate. We came around a corner and saw a very bright light about a half mile away very low to the ground. When we first saw it, it was hovering over a hill top and shining a beam of light on the ground. We stopped the car to watch it for a moment. It then began to come towards us. We started moving again and it moved very fast to the other side of the road. As we traveled, it continued to move around us. At one point it stopped and hovered by us about 100 yards away. That is when I got a good look at it. In the distance it looked like a very bright light. Up close it looked like a saucer with a dome on the top of it. It was silver in color and emitted this very bright light from it. It made no sound that I could detect. It is very hard to describe the exact size of it, but it appeared to me to be at least the size of a house. Not humongous, but notsmall either. By then I was very scared and wanted to get away from the object. My daughter said she would keep an eye on it so that I could drive faster. We had at least 8 more miles to go and the thing continued to follow us all the way to the interstate. It stayed in the area for at least another minute and then vanished. I drove as quickly as I could to get to my friends house where I called my husband. He said that he would go out and look around. He called me later and said he had spoke to a friend of his that lives in the area of the sighting and that he had seen some jets flying through the canyon like they were looking for something.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16785.html](http://www.nuforc.org/webreports/reports/016/S16785.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/162/S162258.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162261.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162263.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162264.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162260.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
