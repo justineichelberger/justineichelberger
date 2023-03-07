@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:26 on 7 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:34 on 7 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Fort Myers (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>2 incoming spheres of light with cone shaped mist eminating from all around the spheres.Standing facing east,the spheres were moving from east to west. They were at the same altitude and were moving at a high rate of speed together. The spheres of bright light were traveling parallel to the ground at approx. 30 degrees above the horizen. At 55 seconds one of the spheres seemed to disintegrate into a puff of mist. 5 seconds later the second one disintegrated as well in the same manner. The 3 observers were father,69; son,45; grandson,14.Many other people in Ft. Myers observed this as well and reported the sightings to the Southwest Florida Regional Airport.((NUFORC:  Report caused by missile launch at sea by U. S. submarine.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03281.html](http://www.nuforc.org/webreports/reports/003/S03281.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Object sighted by New Zealand Tourist in Tacoma 7 years ago.I was visiting from New Zealand at the time and staying with some relations. It was appoximatly 7:00 pm, I was standing out by a farm building when all of a sudden a glowing object saucer shaped object with a triangular protrusion from either side caught my eye. It was about 25 degrees above the horizon to the west. The object stayed stationary. At the time I did not think terribly much of it because I had only just arrived in Tacoma from Auckland so I was rather tired. I was not until a day or to later that I had a think about what I had seen. I refrained from telling anyone about my experience for several years. I do except the fact that it could of been one of many human or natural phenomonon. McChord AFB is also in the area, I do not beleive it was an aircraft from there because McChord only operates C-141 and C-17 transport aircraft. I am an aviation specialist myself and I am sure the apirition I witnessed was neither any of these aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38534.html](http://www.nuforc.org/webreports/reports/038/S38534.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/162/S162497.html)
-- [316](http://www.nuforc.org/webreports/reports/162/S162317.html)
-- [315](http://www.nuforc.org/webreports/reports/162/S162316.html)
-- [314](http://www.nuforc.org/webreports/reports/162/S162320.html)
-- [313](http://www.nuforc.org/webreports/reports/164/S164277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
