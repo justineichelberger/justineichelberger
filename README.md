@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:27 on 7 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:22 on 7 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Ontario (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>4-5 White lights moving above Ontario, ORAt around 8:30 pm on March 7th, 2005 I saw something that scared me at the time.  Now I feel lucky that I'm a small percentage of people to witness something like this.  I remember the date and time as I had started a new job that day. I took our two dogs out to go to the bathroom around 8:30pm.  We had no fence around the yard at the house we had just moved into, so I had to stand outside with them.  The sky was clear that night and the weather in eastern Oregon in March at night is usually not to cold. I was facing west, watching the dogs when something caught my attention.  I don't remember a sound, so I don't know why I turned to look.  I looked to the SE over my left shoulder and saw 4 or 5 white lights moving towards me on a NW path, a little more west than north.  The lights seemed to trail the one in front of it, but had its own flight path.  They appeared like one side of a triangle with the other side gone and no back side.  I would guess the lights to be no more than 2000 feet above the ground and traveled at a slow speed, between 50 and 100mph. My first thought was that it was the wing of a very large plain with lights on it.  But the lights were only a block or so away and I didn't hear any noise.  This also ruled out helicopters.   I watched the lights fly over the neighbors house directly to the south of my house and where I was standing with no sound at all!  At this point I was not worried, my brain was just trying to figure out what these lights were.  As I watched the lights move in the WNW path something happened that put fear into me.  Once the lights were 2 or 3 blocks past my house, the lights started moving into a circle pattern.  The first light started into the circle pattern with the others following, keeping the distance between them.  The did one or two circles, continued NW and moved out of range of my vision.  I wasn't sure if the forward momentum stopped when they started to circle, or if they continued to move forward. I called my wife outside in the event they might come back.  She said she could tell by the tone of my voice that something was wrong. I spent 4 years in the Air Force and have watched countless plains fly.  What these lights did (with no sound) is not something I believe our technologies are capable of.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66416.html](http://www.nuforc.org/webreports/reports/066/S66416.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in St. Johns (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>6 lights in the sky, 5 white and the 6th pulsed red and white, St. Johns, MII had seen a total of 5 UFO's merging into what I thought was a star that pulsed red and white and completely stationary, the five that merged were white light.  I had thought the first 5 were also stars and did not move but then moved in a straight line with equal space between them at a very high rate of speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154031.html](http://www.nuforc.org/webreports/reports/154/S154031.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/162/S162497.html)
-- [316](http://www.nuforc.org/webreports/reports/162/S162317.html)
-- [315](http://www.nuforc.org/webreports/reports/162/S162316.html)
-- [314](http://www.nuforc.org/webreports/reports/162/S162320.html)
-- [313](http://www.nuforc.org/webreports/reports/164/S164277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
