@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:06:24 on 7 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:27 on 7 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Mckeesport (PA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangular star shaped vessel with 4 red lights which omitted another identical one from inside it. Hovers does not move.Standing on my deck noticed a diamond shaped object at first thought it was a star until I noticed 4 red lights in the shape of a triangle.  It did not move nor did it make a sound.  Then it omitted an identical craft that came out of it somehow.  So now there are 2 just sitting there.  This is the second night in a row.  I go in to get my phone and it is gone then reappears in a different area in the sky over a rural area.  It is not a plane!!!  Kinda spooky.  My husband has also seen the same thing on a separate occasion.  We are both Security officers trained to observe and have an eye for detail.  This happened in Elizabeth Twp. Area, facing South</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145079.html](http://www.nuforc.org/webreports/reports/145/S145079.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Holderness (NH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Red, green, yellow lighted object w/shooting "stars" and jerkyObject with red, green and yellow lights.  Darted twice left then up.  Movement was jerky.  Started out low and close enough to distinctly see the different color lights and what looked like shooting stars coming from it.  Object then made it's way south after many jerky movements.  Would often jerk left, right, up, down, closer or far away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69110.html](http://www.nuforc.org/webreports/reports/069/S69110.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/162/S162497.html)
-- [316](http://www.nuforc.org/webreports/reports/162/S162317.html)
-- [315](http://www.nuforc.org/webreports/reports/162/S162316.html)
-- [314](http://www.nuforc.org/webreports/reports/162/S162320.html)
-- [313](http://www.nuforc.org/webreports/reports/164/S164277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
