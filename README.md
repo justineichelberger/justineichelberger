@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:11:42 on 7 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:26 on 7 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ogden (UT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Small, multicolored, spinning, and hovering light in Ogden, UT.Small sphere of multicolored lights flashing, spinning, and hovering in the sky under the Leo constellation, right above star Alphard.  When going back outside an hour later, had vanished.  Used Sky map app to see if it was a star, there were no stars registered in the area it was seen before it had vanished.((NUFORC Note:  Possible "twinkling" star??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126259.html](http://www.nuforc.org/webreports/reports/126/S126259.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Citrus Heights (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>5 or 6 bright red-orange balls w/white light on bottom slowly following same path in C. H., CA night  skyAround 8:45 on Thursday March 7, 2013, I was walking my dog in Citrus Heights and I noticed a bright  red-orange  ball with a whitish light on the bottom moving slowly in I believe a southwest direction.I didn’t think anything of it-  then I saw another one and another one and another one.  All spontaneously showing up and following the same path, equidistant apart, going the same rather slow speed.  I’m not sure now if I saw 5 or 6 I started fumbling with my phone trying to take pictures.They seemed to be moving in an upward direction and then 1 by 1 they disappeared from view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96570.html](http://www.nuforc.org/webreports/reports/096/S96570.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/162/S162497.html)
-- [316](http://www.nuforc.org/webreports/reports/162/S162317.html)
-- [315](http://www.nuforc.org/webreports/reports/162/S162316.html)
-- [314](http://www.nuforc.org/webreports/reports/162/S162320.html)
-- [313](http://www.nuforc.org/webreports/reports/164/S164277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
