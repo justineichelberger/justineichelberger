@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:29 on 7 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:26 on 7 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Frankfort (KY) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately I don't know - I don't know minutes.</sub><blockquote><sub>It appears in the image, but did not notice anything in the sky.I drove south on 65 when I took with about 60 mph the picture of the Dinosaur.  I drove a Chrysler Van and it was appx. 10 am, sunny, no clouds and appx 50 degrees.I wanted to take the picture of the dinosaur for my grandkids and I pointed my cell phone at the Dinosaur and took the picture without checking the image I took.Today, I noticed 2 objects in this picture that haven’t been there in the sky.  I did not see anything or I did not noticing.I am not sure I did not take a mirror image from the windshield or anything…  Maybe you can help.((NUFORC Note:  We have looked at the photograph of the objects, and we cannot identify them.  They are reminiscent of the appearance of overhead fluorescent lights, but we cannot say that is what they are.  We may post them to our website.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107786.html](http://www.nuforc.org/webreports/reports/107/S107786.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Bellevue (WA) reported seeing craft that fit the description of some '' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Young man & woman witness 6-8 orange lights flying SW in clear sky.  Winked out. Type of flight unusual.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00375.html](http://www.nuforc.org/webreports/reports/000/S00375.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/162/S162497.html)
-- [316](http://www.nuforc.org/webreports/reports/162/S162317.html)
-- [315](http://www.nuforc.org/webreports/reports/162/S162316.html)
-- [314](http://www.nuforc.org/webreports/reports/162/S162320.html)
-- [313](http://www.nuforc.org/webreports/reports/164/S164277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
