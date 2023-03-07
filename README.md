@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:22 on 7 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:40 on 7 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Port St. Lucie (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>two bright beams of light in the eastern skyI was in my driveway watching my young son and a few of the other neighborhood kids playing kickball in the street. One of the children pointed to the sky and asked me what those lights were. I looked up and saw what appeared to be two helicopter spotlights hovering / hanging motionless at slightly different altitudes in the eastern sky well above the tree line on the horizon. The light on the left was higher than the one on the right and there wasn't any noise coming from them. It became apparent to me shortly thereafter that these "things" were not helicopters. As I observed them, the light on the left began to dim and I noticed a shallow beam of light emenating from it. The faint beam of light broadened and narrowed as it swept slowly from left to right. This went on for maybe 10 seconds as the light to the right began to do the same thing. The dimming light on the left (towards the north) began to close in on itself slowly, sort of like the shutter on a camera, wrapping itself in a shroud of fog as it vanished. The second light, within seconds thereafter, did the same thing. Neither object moved up or down or side to side during this event. They simply vanished in the same position they were in initially. The entire event lasted approximately 3 to 5 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41752.html](http://www.nuforc.org/webreports/reports/041/S41752.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in West Hartford (CT) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Bright light trail followed by bright explsion traced back to Aircraft.Left me preface this report with the realization that this may simply be a coincidence.  We witnessed a bright light trail which terminated into a bright explosion and when we followed the light trail back to it's origin there was an aircraft traveling from what appeared to be the exact same position in the sky. It may simply be a meteorite at a higher altitude and further off in the horizon followed by an airplane in a busy flight corridor closer in perspective but I rather report it than not.((NUFORC Note:  The witness indicates a date in the year 2003.  We presume he meant 2002, and we have amended the date accordingly.  Witness elects to remain anonymous, but we believe he is the same gentleman who telephoned NUFORC.  He sounded serious minded and credible.  We suspect that he may have been witness to the terminal burst of a meteor.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22139.html](http://www.nuforc.org/webreports/reports/022/S22139.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/162/S162497.html)
-- [316](http://www.nuforc.org/webreports/reports/162/S162317.html)
-- [315](http://www.nuforc.org/webreports/reports/162/S162316.html)
-- [314](http://www.nuforc.org/webreports/reports/162/S162320.html)
-- [313](http://www.nuforc.org/webreports/reports/164/S164277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
