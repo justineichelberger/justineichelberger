@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:22 on 7 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:27 on 7 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in St. Johns (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>6 lights in the sky, 5 white and the 6th pulsed red and white, St. Johns, MII had seen a total of 5 UFO's merging into what I thought was a star that pulsed red and white and completely stationary, the five that merged were white light.  I had thought the first 5 were also stars and did not move but then moved in a straight line with equal space between them at a very high rate of speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154031.html](http://www.nuforc.org/webreports/reports/154/S154031.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1973, an anonymous witness in Richfield (UT) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 47 years hounsdreds of ti - 47 years hounsdreds of ti minutes.</sub><blockquote><sub>My life being being taken.Craft and  being able to ask many questions about power sources and being told about anti gravity devices and how the ships work. But I remember nothing about being taken after my neck was broken and I was brought back to life.  This all seem to incredible but I know in my heart I am telling the trusth and I do have a broken neck and fused back together though the doctors told me I had been born that way but I know better. I can talk for days about my experiences from the first to the last and all I can say is I am here alive why I do not know why me I do not know I remember they explained to me at four years old I was special a king in hiding which I always figur that’s how they calm the children down. I do not know why I am righting this accept I just need to tell somebody.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149363.html](http://www.nuforc.org/webreports/reports/149/S149363.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/162/S162497.html)
-- [316](http://www.nuforc.org/webreports/reports/162/S162317.html)
-- [315](http://www.nuforc.org/webreports/reports/162/S162316.html)
-- [314](http://www.nuforc.org/webreports/reports/162/S162320.html)
-- [313](http://www.nuforc.org/webreports/reports/164/S164277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
