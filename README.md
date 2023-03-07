@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:26 on 7 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:36 on 7 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Shrewsbury (MA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>2 objects , orange glow , sphere shape, no lights on either object. one made u-turn , increased speed ,vanished in skyWhile lying in bed observing the early morning sky (I have a passion for watching the night sky, stars, aircraft flying to/from Logan Airport, occasional meteorite )  from my bedroom window ... I observed first a flying object approaching from the south west toward north east sky..my first thought was that it was the International Space Station ..then my thoughts were that it seemed to be smaller in shape and it had an orange glow but the speed of the object seemed to be the same as the Space Station...I could only view this object for mere seconds (perhaps 10-15 seconds) because of my window view.  Then a minute or so later while still watching the sky, a second object appeared, travelling from the south west more to the direct east...this object was the same shape and color as the first object but seemed smaller perhaps higher in the atmosphere but travelling at the same speed as the first object.. as the object was about to enter the blind view from my win! dow, it made a rapid turn in the sky , flying back toward a western flight path.. this object then accelerated at a rapid speed and this object was immediately gone from view.  That morning, I was anxious to check my computer for a notification from NASA on the schedule viewing of the International Space Station but there was no viewing for that date nor a time for that date in the area of  my zip code..  There were no blinking lights on neither of these objects... They both were moving at a high rate of speed and obviously beyond the height of the Space Station..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139135.html](http://www.nuforc.org/webreports/reports/139/S139135.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Woodbine (GA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 154</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154685.html](http://www.nuforc.org/webreports/reports/154/S154685.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/162/S162497.html)
-- [316](http://www.nuforc.org/webreports/reports/162/S162317.html)
-- [315](http://www.nuforc.org/webreports/reports/162/S162316.html)
-- [314](http://www.nuforc.org/webreports/reports/162/S162320.html)
-- [313](http://www.nuforc.org/webreports/reports/164/S164277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
