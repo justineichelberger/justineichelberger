@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:26 on 7 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:33 on 7 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Bellevue (WA) reported seeing craft that fit the description of some '' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Young man & woman witness 6-8 orange lights flying SW in clear sky.  Winked out. Type of flight unusual.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00375.html](http://www.nuforc.org/webreports/reports/000/S00375.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Pilot hill (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I saw a bright shimmering light hovering over the mountain approximately 3 miles away.  The light was perfectly still.   At first I went outside to observe it. Then I decided to go upstairs and search for some binoculars.  After a minute or two I still could not find them, so I went to grab the the telescope and focus in for a clearer shot.  I had the object sighted in with the smaller locating scope and when I went to find it on the big scope it was gone. I looked back up and the light was completely gone.  The light was approximately 600 to 1000 feet off the ground judging from the trees in the horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107718.html](http://www.nuforc.org/webreports/reports/107/S107718.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/162/S162497.html)
-- [316](http://www.nuforc.org/webreports/reports/162/S162317.html)
-- [315](http://www.nuforc.org/webreports/reports/162/S162316.html)
-- [314](http://www.nuforc.org/webreports/reports/162/S162320.html)
-- [313](http://www.nuforc.org/webreports/reports/164/S164277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
