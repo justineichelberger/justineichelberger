@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:25 on 7 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:32 on 7 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Woodbine (GA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 154</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154497.html](http://www.nuforc.org/webreports/reports/154/S154497.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Philadelphia (PA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was standing out front of my house, which is located on route 532 in NE Philadelphia, at 9:20 PM (EST).  I was speaking on the telephone when my eyes were drawn to the western sky above Philadelphia.  I noticed an extremely bright object ascend from below the horizon at a high rate of speed and in a perfectly straight line.  The object was made more clearly visible due to its brightness against the fully overcast night sky.  The object stopped its ascension and took an eastern line of flight.  Stopping after approximately 5 seconds of steady travel, the object made a 180° turn at which time it revealed having three bright white lights and one bright green light.  After the 180° turn, the object rocketed in a straight line path back to its original position above the western sky and then descended back below the horizon.  I stayed on the telephone with my fiancé for the entire duration of the sighting, and afterword made a phone call to the above listed hotline number.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133018.html](http://www.nuforc.org/webreports/reports/133/S133018.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/162/S162497.html)
-- [316](http://www.nuforc.org/webreports/reports/162/S162317.html)
-- [315](http://www.nuforc.org/webreports/reports/162/S162316.html)
-- [314](http://www.nuforc.org/webreports/reports/162/S162320.html)
-- [313](http://www.nuforc.org/webreports/reports/164/S164277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
