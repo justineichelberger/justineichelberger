@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:23 on 8 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:36 on 8 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright Orange, blazing traingular object/light moving upward at an angle Orlando FL; 3/8/07, 2215hrs.Looking into the night sky ranging from 30 to 80 degree from my point of view; from the Suburban Extended stay Hotel exit 75B off of I-4 East in Orlando Florida (across from the entrance of the Universal Studios) looking Westward (I believe) I saw a bright blaze orange intense triangular shaped light.  The light / object looked burning in nature and moved in a arching movement in the upward direction across my line of sight from right to left (but believe it was also moving away from me) and disappeared at about the 80 degree point fading as it went higher.  Why I didn't take a picture I don't know (with my cell phone) my digital camera battery had died earlier that night. I thought it could have been a rocket launch, but I hadn't heard anything on the news about a launch and I checked the NASA site for scheduled launches and nothing was reported.  It could have been a classified military launch but don't know, so that's why I am reporting it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55626.html](http://www.nuforc.org/webreports/reports/055/S55626.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Everett/Snohomish (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Three lights were HOVERING closely or together over Everett/Snohomish flatlands in early AM, as seen from I-5.I was driving southbound I-5 off of Broadway Exit in Everett, WA, at approx 3:00 am on Saturday, 3/8/14, when I saw were 3 lights hovering over the flatlands of Snohomish.  These lights did not move, nor did they change color or shape.  They were in a triangular setup, with one light and two others directly below.  I am not sure if they were connected, or just very close together.  They just hovered there,  a hundred feet or so off the ground.  I could see them the entire time I passed them on the freeway.  There were other cars travelling on the road as well, hence the multiple witness question.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107899.html](http://www.nuforc.org/webreports/reports/107/S107899.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162373.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163265.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162627.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162626.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
