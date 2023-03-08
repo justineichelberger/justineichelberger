@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:25 on 8 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:29 on 8 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Shippensburg (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Ship darted in front of me and friends, took pictures, then ship darted away into the darkness.My and my friend were looking at the moon through our telescope on his porch, but then something darted in front of it, he asked me what it was, I took a look, but I wasn't sure, so I took some pictures of it using a old camera, sadly, when I had the film developed, there was just a huge ball of light, then we saw it dissapear into the darkness, I then saw this site so I logged on today and subbmitted this TRUE report to you all((NUFORC Note:  We will attempt to get the other witness, a student, to submit a report, as well.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17332.html](http://www.nuforc.org/webreports/reports/017/S17332.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>~8 bright orange, almost as if on fire floating orbs coming in off the ocean then disappearing.~8 bright orange, almost as if on fire floating orbs coming in off the ocean, no sound, or normal aircraft strobe lights.  Disappearing after reaching inland.  They were moving slowly, and in formation, they then disappeared one at a time shortly after reaching the coast.((NUFORC Note:  We presume an evening sighting, not morning, and have amended the time above, to reflect that fact.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107735.html](http://www.nuforc.org/webreports/reports/107/S107735.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162373.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163265.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162627.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162626.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
