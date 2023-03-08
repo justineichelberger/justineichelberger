@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:30 on 8 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:24 on 8 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Yuma (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>bright red orange light over Yuma,AzAt 7:40 pm I observed a bright reddish orange light hovering low on the horizon northwest of town.  I watched it for about two minutes when it suddenly began to flash like a beacon it then moved straight up at a high rate of speed till I lost sight of it.  I am a retired bus driver.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107759.html](http://www.nuforc.org/webreports/reports/107/S107759.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Aurora (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Three orange lights in formationI was driving on Ogden Avenue in Aurora, Illinois at 8:15PM on Friday March 8, 2013.  As usual, there were a number of planes in the air traveling west to east as the landing path for Chicago Midway Airport passes directly overhead.  The planes typically have a white light with blue and red flashing lights on the wings.As I was driving, I looked out of my car window to the north and there were three very bright orange objects in the sky.  The objects were traveling east to west, the opposite direction of the plane traffic.  They were at a lower altitude than the planes and were bunched together traveling in a line at the same speed.  They appeared to be very low flying planes, but they were too close to each other and not the right color to be planes.  After a few seconds the leading object changed direction and started moving in a northerly direction while the other two continued in the westerly direction.  When the first object changed direction it appeared to have fire coming out of it.  Within ten seconds they were out of my view after continuing on their respective paths (2 to the west and 1 to the north) at a high rate of speed.  I am not a trained eye, but the objects appeared to be airplane sized, traveled at low altitude and were moving at least as fast as the planes in the sky if! not faster.The lights were significant enough that the traffic in front of me on a very busy highway stopped to look at them nearly causing a traffic accident.  The skies here are very congested with planes flying into O’Hare and Midway, medical helicopters and private planes from several local airports, but these did not have any of the characteristics of a plane or helicopter and clearly stood out as people were stopping to look at them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96581.html](http://www.nuforc.org/webreports/reports/096/S96581.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162373.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163265.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162627.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162626.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
