@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:27 on 8 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:39 on 8 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Panama City (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately NA - NA minutes.</sub><blockquote><sub>Sphere-shaped orb objects photographed near F22s in Panama City, FLI was spending the morning in the backyard with my son at my residence just after 1100hrs when a couple F22s were making a descent towards Tyndall AFB going over my house in Panama City. I attempted to snap a photo with my digital camera, only to find out the picture was sort of out of focus but I decided to keep it and upload it to my PC later. When I uploaded the picture and zoomed in, I noticed something near the aircraft that just struck me as odd. It looks like one or two small sphere-shaped cloud-like objects or orbs hovering/flying together in front of and either just above or below the flight path of the F22s. Its weird because these objects appear to be camouflaging themselves in or around the clouds. I heard no noises besides the planes, and didn't see anything unusual at the time until I saw the picture up close.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49497.html](http://www.nuforc.org/webreports/reports/049/S49497.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some '' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Double or triple bright lights, not moving, just side by side/ clustered for several minutes</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153976.html](http://www.nuforc.org/webreports/reports/153/S153976.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162373.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163265.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162627.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162626.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
