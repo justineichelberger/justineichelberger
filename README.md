@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:23 on 8 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:22 on 8 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I saw a bright purplish colored orb floating by my bed.The object I saw was floating in the air while I was in my room. It was purplish in color but I could also see through it. It also seemed to have different layers to it. It was almost like it had an aura around it.  It was very bright. I first saw if hovering to the right of me and then it just sort of shot up right and disapeared. This also brought back a memory for me. I know I've seen this kind of orb before when I was much younger. I am 25 years old, married, and work as a medical biller. I would also like to note that I'm a little scared letting this information out. This is kind of a big step for me. I don't really want people to think that I'm crazy or something.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16874.html](http://www.nuforc.org/webreports/reports/016/S16874.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in San Bernardino (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>A white bright pulsating oval round shaped orb it possibly looked like one light circling around on the object hopefully it can be debunked.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107745.html](http://www.nuforc.org/webreports/reports/107/S107745.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162373.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163265.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162627.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162626.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
