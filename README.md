@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:27 on 7 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:44 on 8 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1973, an anonymous witness in Richfield (UT) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 47 years hounsdreds of ti - 47 years hounsdreds of ti minutes.</sub><blockquote><sub>My life being being taken.Craft and  being able to ask many questions about power sources and being told about anti gravity devices and how the ships work. But I remember nothing about being taken after my neck was broken and I was brought back to life.  This all seem to incredible but I know in my heart I am telling the trusth and I do have a broken neck and fused back together though the doctors told me I had been born that way but I know better. I can talk for days about my experiences from the first to the last and all I can say is I am here alive why I do not know why me I do not know I remember they explained to me at four years old I was special a king in hiding which I always figur that’s how they calm the children down. I do not know why I am righting this accept I just need to tell somebody.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149363.html](http://www.nuforc.org/webreports/reports/149/S149363.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Caloundra (Australia) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Flashing beams in the night. I'm scared now.Its was mid night. I was sitting on my couch watching television with my best mate. We were sipping at our coffee when saw flashes of light out the window. We ran outside and saw 3 circle shaped UFO's. They were flashing beams. My friend ran inside to grab a camera when I started to feel a tingling feeling going through my body. I felt sick in the stomach. I felt a deep pain in my nose and blood was gushing out of my nose. My friend came back with a camera and they were gone. Ever since that encounter I have never felt alone and often wake up in the night with cold sweats. My girlfriend broke up with me because I told her the story and she thought I was crazy. I have 3 dots on my left arm since the encounter. I went to a doctor and they had never seen anything like it before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51863.html](http://www.nuforc.org/webreports/reports/051/S51863.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/162/S162497.html)
-- [316](http://www.nuforc.org/webreports/reports/162/S162317.html)
-- [315](http://www.nuforc.org/webreports/reports/162/S162316.html)
-- [314](http://www.nuforc.org/webreports/reports/162/S162320.html)
-- [313](http://www.nuforc.org/webreports/reports/164/S164277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
