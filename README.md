@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:29 on 8 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:39 on 8 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Caloundra (Australia) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Flashing beams in the night. I'm scared now.Its was mid night. I was sitting on my couch watching television with my best mate. We were sipping at our coffee when saw flashes of light out the window. We ran outside and saw 3 circle shaped UFO's. They were flashing beams. My friend ran inside to grab a camera when I started to feel a tingling feeling going through my body. I felt sick in the stomach. I felt a deep pain in my nose and blood was gushing out of my nose. My friend came back with a camera and they were gone. Ever since that encounter I have never felt alone and often wake up in the night with cold sweats. My girlfriend broke up with me because I told her the story and she thought I was crazy. I have 3 dots on my left arm since the encounter. I went to a doctor and they had never seen anything like it before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51863.html](http://www.nuforc.org/webreports/reports/051/S51863.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Minneapolis (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 1:00 - 1:00 minutes.</sub><blockquote><sub>3 strange white lights moving in a concentric circular pattern then merging and seperating ..it was a very wide field of seperation before they would merge ..due to the duration of time and the place where i live and the time i saw this i rule out any spotlights ..this is what i first thought it was ..im not drunk or on any drugs ...it was quite odd((NUFORC Note:  Possible advertising lights?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69114.html](http://www.nuforc.org/webreports/reports/069/S69114.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162373.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163265.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162627.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162626.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
