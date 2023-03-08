@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:27:02 on 8 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:07:24 on 8 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Mt. Lincoln (?) (VT) reported seeing craft that fit the description of some 'Flash' over a period of approximately seconds and minutes - seconds and minutes minutes.</sub><blockquote><sub>Tonight, at about 6:45 PM EST I was traveling home south to my home in the Northeast Kingdom of VT when I saw two white strobe lights high in the sky, which was cloudy tonight.  I was trying to see what they were and trying to stay on the road.  They were traveling very fast and traveling very closely, in a south, southeast direction. One higher and one nearer to the ground.  As I passed the higher land, I lost sight of them.  When I parked my vehicle outside my home, which is on a higher elevation than where I was traveling, I no longer saw them.  I went inside my home to do my evening chores for my animals.  At about 7:00 PM, when I was walking my dogs back to my house I saw bright flashing red strobe type lights (VERY BRIGHT) on probably what is Mt Lincoln in NH.  By the time I went to my barn, at about 7:15 PM EST, they were gone.  I am a very sensible person.  Is anyone out there???</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16760.html](http://www.nuforc.org/webreports/reports/016/S16760.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Columbia (SC) reported seeing craft that fit the description of some 'Oval' over a period of approximately  -  minutes.</sub><blockquote><sub>THE SPACE CRAFT WAS VERY FAST AND HAD A LOT OF LIGHTS.IT HAD DIFFRENT LIGHTS AND IT MOVED FAST ACROSS THE SKY.I COUTED THE TIME IT WAS ABOUT 15FOR IT TO GET ACROSS THE SKY.I PROMISE I WOULD NEVER LIE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28030.html](http://www.nuforc.org/webreports/reports/028/S28030.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162373.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163265.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162627.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162626.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
