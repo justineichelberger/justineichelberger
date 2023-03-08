@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:27 on 8 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:27 on 8 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Greensburg (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Red lights over residential neighborhoodI was driving along US Route 30 westbound with my mother headed to Walmart just after 8:15 pm. After passing the Greensburg/Mt.   Pleasant exit, I noticed a red light sitting stationary in the sky towards the left side of my windshield in the distance, which would put it over the South Greensburg area.  I told my mother if she noticed it, but she said no.  Soon after, as we approached the Cedar Street exit, she finally noticed it after taking another look, which actually appeared to be two red lights hovering stationary over a residential neighborhood.  The lights, which remained steadily lit the entire time, didn't appear to be close to each other nor did they move apart, which makes me wonder if it could've been a large craft hovering above the neighborhood.  We continued on our way towards the US Route 119 exit but didn't notice anything else as we continued heading west. This occurred within a one minute timeframe, although I had slowed considerably when I not! iced the lights in the vicinity of the Cedar Street exit.  A few minutes later, we noticed a helicopter flying towards the direction of the sighting although it appared to be a medical helicopter.  Traffic in this area was relatively steady, weather conditions were partly cloudy in the low 40s.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80400.html](http://www.nuforc.org/webreports/reports/080/S80400.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Beaverton (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>SILVER SAUCERi WAS IN MY YARD LOOKING AT THE CLOUDS WHEN i NOTICED ABOUT AN OBJECT THAT LOOKED TO BE FLOATING. i OBSERVED THAT IT WAS ONLY ABOUT A MILE UP. BUT , i COULD NOT FOCUS ON THIS OBJECT. i THOUGHT IT WAS DEBRIS OF PAPER OR A KITE. i WALK AWAY, TO GET MY BINOCULARS. AND, i FOUND OUT WHY THIS OBJECT WAS HARD TO FOCUS IT WAS ROTATING AND FLIPPING. THROUGH THE BINOCULARS i COULD CLEARLY SEE A SAUCER. ABOUT FIFTY FEET IN LENGTH. IT, WAS SILVER IN COLOR AND HAD A SINGLE RED LIGHT. i CALLED MY WIFE MY SON AND OUR HOUSE GUEST OUT SIDE TO SEE THIS SAME OBJECT IT WAS JUST FLOATING TRAVELING SOUTHWEST. BUT, GRADUALLY UP . AFTER, ABOUT TEN MINUTES OR SO THE OBJECT WAS VISIBLE ABOUT TEN MILES OUT OR FURTHER. IT, BLINKED A WHITE LIGHT AND WAS GONE. the object was about 50/60 feet wide</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69122.html](http://www.nuforc.org/webreports/reports/069/S69122.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162373.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163265.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162627.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162626.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
