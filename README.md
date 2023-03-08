@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:55 on 8 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:29 on 8 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Riverdale (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright white light, circular object that never moved and way above any flight patterns.  Was there for over 15 minsIt was way above any plane path.It never moved.It was extremely bright in a circular shape.We were walking thru Pompton Lakes but the object was over Riverdale, or maybe even Bloomingdale.We were walking for over 15 minutes and planes were passing in all directions but this object never moved.My husband seems to think it was a star but it was too light out and the moon was just starting to show.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133032.html](http://www.nuforc.org/webreports/reports/133/S133032.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Caloundra (Australia) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Flashing beams in the night. I'm scared now.Its was mid night. I was sitting on my couch watching television with my best mate. We were sipping at our coffee when saw flashes of light out the window. We ran outside and saw 3 circle shaped UFO's. They were flashing beams. My friend ran inside to grab a camera when I started to feel a tingling feeling going through my body. I felt sick in the stomach. I felt a deep pain in my nose and blood was gushing out of my nose. My friend came back with a camera and they were gone. Ever since that encounter I have never felt alone and often wake up in the night with cold sweats. My girlfriend broke up with me because I told her the story and she thought I was crazy. I have 3 dots on my left arm since the encounter. I went to a doctor and they had never seen anything like it before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51863.html](http://www.nuforc.org/webreports/reports/051/S51863.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162373.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163265.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162627.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162626.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
