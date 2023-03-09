@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:34 on 9 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:30 on 9 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Martinsville (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately Still happening - Still happening minutes.</sub><blockquote><sub>Bright light above the southwest horizon like a star but too low to be a star. Hovering but occassionally moving in an erratic way from side to side yet remaining in the same general location. Didn't seem to be making any noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153946.html](http://www.nuforc.org/webreports/reports/153/S153946.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Bozeman (I-90 west,  20-30 miles before) (MT) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>three seperate object, the center light was a red triangle in a light fogMarch 9, 2001  Driving  from Billing , toward Kalispell Mt. on I 90 heading west.It  started to sput snow, and wanted to make it over "Homestead Pass"  before there was to much snow. I Up ahead you could see there was going to be a turn to the right,  tail lights disapearing in the distance.  When I noticed a Bright white light.  Looked round-dome the top half was bright,  the bottom half seemed in the fog.  You could see the out line of the object, in the dark . the mountains in the distance ,  you could make out.  Thinking I was heading into a town, or another power/ type of plant.  When I looked up again, there was a small white car in front of me, and a 18 wheeler type truck in the rear.  When I noticed another light....this one red...all in the fog,this time, but you couldn't mistake the triangle shape, pointed up, ..So know there are the two lights and we are almost to the corner...There is a third light,  white and long  -10 times or bigger in size, to the other two lights....well the little car, pulls over to the side of the road,abruptly...  with there emergency flashers going...  me I look in my mirror, see where the truck is,  Try to look in the car as I drive by,  but it is too dark.  Should have stopped,by now I am around the corner, no town nothing to give off the lights.  To compact in size to be the aurora borealis.  stumped.  I happened to be back in town (Bozeman )on saturday..talked to some friends which said..Belgrade Mt.  which is maybe 9 miles from Bozeman lost power Friday ...  Just coencidence  ???   I never heard any noise,  did't notice any wind, smell.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17007.html](http://www.nuforc.org/webreports/reports/017/S17007.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162331.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162423.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162338.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162329.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162327.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
