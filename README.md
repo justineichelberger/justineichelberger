@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:50 on 9 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:27:07 on 9 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Albany (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>I seen a large looking object with 5 white lights flying low no sound moving slow speed over Albany, NY.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117707.html](http://www.nuforc.org/webreports/reports/117/S117707.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Howell (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>A large triangular shaped object travelling from NE to SW at approx. 2,000 ft.My friend and I were travelling in a Westerly direction when she spotted a bright object to the NE.  We stopped and observed it traversing the sky from the NE to the SW.  It was triangular shaped with a light at each apex.  I'm guessing that it was at approx. 2,000 feet because I saw a small private acft fly under it.  If my estimate in distance is correct, than this thing had to be the size of a football field.  The sky was clear and their was a decent amount of ambient light.  The one thing that struck me as really strange was that as soon as it flew out of sight beyong the treeline, we then saw 2 Blackhawk helicopters flying back from the opposite direction, travelling SW to NE at treetop level.  I was a naval aircrewman, so I know what I'm talking about when it comes to aircraft, and I've never seen any configuration like it before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05849.html](http://www.nuforc.org/webreports/reports/005/S05849.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162331.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162423.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162338.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162329.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162327.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
