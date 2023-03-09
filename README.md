@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:31 on 9 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:37 on 9 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Casa Grande (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange lights in the sky during the dayOn March 9, 2008 at 3 pm in the afternoon, I saw a circular group of lights in the northern sky that remained permanent. South of the circle I saw 2 other lights, one stationary, the other passing back and forth across the stationary one. I watched them for approximately 10 minutes. I saw several planes in the vinicity but the lights appeared to be much higher than the planes. I notified security at the place I was at about what I had seen. One other person also observed the siting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63250.html](http://www.nuforc.org/webreports/reports/063/S63250.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Beijing (China) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Silent oval UFO with multicolor flashing lights over Beijing for 30min at 20:30 3/10/09.First saw UFO at 20:30, due roughly southwest from the Peking University campus, which is in northwestern Beijing. It was moving very slowly and looked like a plane that was flashing blue and red lights. 20:40ish, it was hanging still, and flashing yellow, blue, green, red and purple lights in varying patterns and rhythms. The average shape seemed to be a sideways oval. 21:10ish it began gently moving side-to-side, still flashing.  It also seemed to move towards and away from me. 21:20ish it began moving away and seemed to lower, and then disappeared from view.  We thought it was behind a tall building, but it was not visible from an overpass either.There were many onlookers in my area of campus, 50+, and I am sure more clumps elsewhere.  It seemed to be far away; only the lights were visible. It did not emit a noise.At 21:30 there was a searchlight to the northeast of campus, and two planes flying in tandem from the same direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69126.html](http://www.nuforc.org/webreports/reports/069/S69126.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162331.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162423.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162338.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162329.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162327.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
