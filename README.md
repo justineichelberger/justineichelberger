@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:07:23 on 9 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:26 on 9 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Kennewick (WA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Rectangular object with four pulsing red lights at the corners, moving slowing and silentlyObject had four lights in rectangular formation, two on top two on bottom. Also two small flashing lights near the front, one on top of the other.    Object moved from southeast to northwest at a slow pace.  There was no sound.  I thought it may have been a plane or helicopter equiped with lights to advertise something at first but there was no sound and it was pretty close.  About 1000 in the air, and 9-10 blocks to the east of me.  Two lights in the front flashed white, they were stacked one on top and one on bottom.  The Four red lights pulsed slowly, fading out and comming back on.  It did not fit any aircaft to which I am famillar because of the configuration of the lights and their pulsing nature.  The shape was rectangular or Square like a four cornered box flying across the sky. The craft was low and did not head in the direction of the airport in pasco but kept moving northwest.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49508.html](http://www.nuforc.org/webreports/reports/049/S49508.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Savannah (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Triangle/boomerang shaped craft spotted over Savannah highway.I saw this really massive yet slow moving boomerang-shaped aircraft more or less floating over the highway as I was leaving Savannah last night around 1am.  It was massive yet was really quiet, if not totally inaudible.  It was moving slowly enough that I could have taken a clear photo of it if it hadn't been so dark (and if I hadn't been driving at close to 70mph in the opposite direction).It had several white lights on the bottom of it (the part you could actually see from the ground) and one flashing red light.  It came from the west and then appeared to begin following the highway into the city.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145072.html](http://www.nuforc.org/webreports/reports/145/S145072.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162331.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162423.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162338.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162329.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162327.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
