@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:28 on 9 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:32 on 9 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Camp Hill (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>For three minutes around 0540 hrs I observed two bright lights close to each other in the sky afterwhich the lights disappeared.Every morning at approximately 0530 hours I walk around our development.  While walking I always look at the sky.  This morning I noted what looked like two very bright stars high in the western sky. they were close to each other and were as bright as the brightest stars and planets.  I had never seen them before.  After I watched them for about three minutes, the lights went off.  I do not know how long they were visible before I saw them.  After the lights went out I could see other faint stars in the area. I am 72 years old and a retired Postal Inspector and subsequent insurance investigator. I have been looking at the sky for many years and this is the first time I noted anything this unusual</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42829.html](http://www.nuforc.org/webreports/reports/042/S42829.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Chandler (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A shiny metallic sphere noticed for less then 2 minutes before it suddenly vanished.From the corner of Gilbert & Baseline Rd. looking in a west direction toward South Mountain I spotted a shiny round metallic object. I was going to pass it off for a plane but there was a plane in the same direction that had a chem trail coming from it. Why didn't this object have a chem trail? Adding further to the mystery it vanished without a trace.around 5:00 pm AZ    My girlfriend was a witness.  Same direction of numerous UFO sightings.fits the same area and description of a UFO scene by a close friend.((NUFORC Note:  Date is flawed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62133.html](http://www.nuforc.org/webreports/reports/062/S62133.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162331.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162423.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162338.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162329.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162327.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
