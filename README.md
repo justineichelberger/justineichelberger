@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:28 on 9 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:31 on 9 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Plant City (FL) reported seeing craft that fit the description of some '' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Two young brothers report bizarre object giving off "blue lines" of light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00321.html](http://www.nuforc.org/webreports/reports/000/S00321.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Casa Grande (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange lights in the sky during the dayOn March 9, 2008 at 3 pm in the afternoon, I saw a circular group of lights in the northern sky that remained permanent. South of the circle I saw 2 other lights, one stationary, the other passing back and forth across the stationary one. I watched them for approximately 10 minutes. I saw several planes in the vinicity but the lights appeared to be much higher than the planes. I notified security at the place I was at about what I had seen. One other person also observed the siting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63250.html](http://www.nuforc.org/webreports/reports/063/S63250.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162331.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162423.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162338.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162329.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162327.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
