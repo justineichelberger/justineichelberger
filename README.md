@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:26 on 9 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:20 on 9 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Savannah (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Triangle/boomerang shaped craft spotted over Savannah highway.I saw this really massive yet slow moving boomerang-shaped aircraft more or less floating over the highway as I was leaving Savannah last night around 1am.  It was massive yet was really quiet, if not totally inaudible.  It was moving slowly enough that I could have taken a clear photo of it if it hadn't been so dark (and if I hadn't been driving at close to 70mph in the opposite direction).It had several white lights on the bottom of it (the part you could actually see from the ground) and one flashing red light.  It came from the west and then appeared to begin following the highway into the city.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145072.html](http://www.nuforc.org/webreports/reports/145/S145072.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Riesel (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Screeching noise with bright light.It was storming heavily all night long, I went outside to call a friend and smoke a cigarette.When I called we were talking for about 3 minutes and then I stated to here a screeching noise.Well, I figured living in the country that it was probably just a bird, such as an owl,  but then a light appeared.  The light was flickering, I assumed that it was a helicopter but then I remembered that it was storming pretty badly ten minutes prior to this.  After about 5 minutes, it disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74608.html](http://www.nuforc.org/webreports/reports/074/S74608.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162331.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162423.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162338.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162329.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162327.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
