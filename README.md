@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:32 on 9 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:06:58 on 9 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Chandler (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A shiny metallic sphere noticed for less then 2 minutes before it suddenly vanished.From the corner of Gilbert & Baseline Rd. looking in a west direction toward South Mountain I spotted a shiny round metallic object. I was going to pass it off for a plane but there was a plane in the same direction that had a chem trail coming from it. Why didn't this object have a chem trail? Adding further to the mystery it vanished without a trace.around 5:00 pm AZ    My girlfriend was a witness.  Same direction of numerous UFO sightings.fits the same area and description of a UFO scene by a close friend.((NUFORC Note:  Date is flawed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62133.html](http://www.nuforc.org/webreports/reports/062/S62133.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Vienna (VA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>"V" formation of high speed UFO's spotted.My friend and I were outside my house smoking a cigarette, looking up at the sky to determine whether or not the wind was blowing from the east or the west.  While we were looking up in the sky, we saw 2 enormous formations of 10-12 individual lights.  They appeared to be very high in the sky, as they moved southwest, and the other branched off and moved southwest.  They were moving at an incredibly high rate, moving accross the entire sky in less than 10 seconds.  The formation was that of a V, and was slightly distorted.  The lights seemed to not be moving still while flying, but rather dancing around a bit while going very fast.  They eventually ran accross the sky, and disappeared before they actually left the horizon.  They just seemed to melt into the sky after awhile.  Also, everything around the V seemed to disrupt as well.  The clouds along with the starts out seemed to dissapear and reappear and fluctuate as the V went by.  We at first were convinced that it was the shape of a stealth fighter, and since our proximity to the CIA as well as Quantico meant it was simply just a plane such as that.  However, we decided it couldn't be that, because those planes do not have active divises to hide like that.  The lights were just dots in the sky, slightly larger than normal stars in the sky.  They were moving at an incredible rate, and had no other comparison to anything on Earth.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69137.html](http://www.nuforc.org/webreports/reports/069/S69137.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162331.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162423.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162338.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162329.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162327.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
