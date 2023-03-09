@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:24 on 9 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:29 on 9 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Port Saint Lucie (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Unknown Triangle Craft (?)November 2016 - March 9th, 2017.  I had moved in with my mother last year, around November, and each night I'd stargaze, it was a family thing.Many nights passed and I always noticed a strange star in the sky that was a triangle shape with what looked like a faded upside triangle, but almost see through at the bottom.Sometimes it would glow a bright yellow-ish white, other times it would be dimmed or would quickly dim and look like an aircraft blinking green and red at the ends.At first, I ignored it.The only one that saw it was my boyfriend (at the time.)  It would stay perfectly in place for up to 20 minutes or even an hour before it would begin to move, very slowly.You wouldn't be able to tell unless you had a tree or electric line to measure and keep up with it's movements.Then, it'd either drop down, close to the ground above from where it was or it'd go black and disappear, just to reappear in a different location.We moved, but there it was.I was relieved when my parents told me that they saw it right above them.They said they tried to record it but their phones would mess up or it'd start blinking like a normal airplane, then disappear.They described it as blinking green on one end and the other red.Every night, we go outside to enjoy the night and every night we see it move.Lately, we've seen more and even yesterday (March 9th, 2017), my younger sister and I were picking up my mother from work and we saw it above us a few up in the air before, once again, disappearing.The most frustrating part is how all our phones (a house of five, with multiple phones and tablets), act up when it's around.We've also managed to see it change shapes.Sometimes we can see a darker object inside the bright light (three witnesses).((NUFORC Note:  Source of the report elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133065.html](http://www.nuforc.org/webreports/reports/133/S133065.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Lewisburg (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A bright star-shaped object streaked gracefully across the sky and emanated red and green before disappearing.It was dark outside and I had been playing hockey. I started to get the feeling that I was being watched, it creeped me out, and I went and sat down to the side of the parking lot I was in. After a few minutes of sitting down, I began to hear a few dogs barking quite a bit. I eventually got up and left, and started to head home. I live right below the top of a rather large hill, and there is an intersection at the top of the hill. I got to the top of the hill, and non-voluntarily, I looked up to see this bright star-shaped object in the sky. It was the color of a star at first, and it streaked directly across the sky quickly and gracefully. It streaked for a few seconds, and it began to emanate red and green for a second or two, and it disappeared. It almost seemed like it was crashing when the red and green appeared. This was the only object I saw, and it was shaped almost exactly like a star but it seemed too unnatural. I heard the sound of a plane afterwards.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62118.html](http://www.nuforc.org/webreports/reports/062/S62118.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162331.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162423.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162338.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162329.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162327.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
