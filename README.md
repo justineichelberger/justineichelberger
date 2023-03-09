@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:06:58 on 9 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:26 on 9 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Vienna (VA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>"V" formation of high speed UFO's spotted.My friend and I were outside my house smoking a cigarette, looking up at the sky to determine whether or not the wind was blowing from the east or the west.  While we were looking up in the sky, we saw 2 enormous formations of 10-12 individual lights.  They appeared to be very high in the sky, as they moved southwest, and the other branched off and moved southwest.  They were moving at an incredibly high rate, moving accross the entire sky in less than 10 seconds.  The formation was that of a V, and was slightly distorted.  The lights seemed to not be moving still while flying, but rather dancing around a bit while going very fast.  They eventually ran accross the sky, and disappeared before they actually left the horizon.  They just seemed to melt into the sky after awhile.  Also, everything around the V seemed to disrupt as well.  The clouds along with the starts out seemed to dissapear and reappear and fluctuate as the V went by.  We at first were convinced that it was the shape of a stealth fighter, and since our proximity to the CIA as well as Quantico meant it was simply just a plane such as that.  However, we decided it couldn't be that, because those planes do not have active divises to hide like that.  The lights were just dots in the sky, slightly larger than normal stars in the sky.  They were moving at an incredible rate, and had no other comparison to anything on Earth.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69137.html](http://www.nuforc.org/webreports/reports/069/S69137.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Huntington Beach (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Organized unusual bright orange lights separating and reattaching at high altitudes over HB.Observed bright orange light descent from high altitude to approx 10K to 20K feet then separate into 2 orange lights.  From the 2 orange lights, 2 other lights separated and hovered for several minutes around the center light.  I could see a mass shape wobling.   Then they all re-attached into one large redish orange light and ascended back into space - vanished.  This was not an air plane or meteor.  It was organized, suspended and fixed in one location at times and moved around.  No noise.  The other 2 witnesses were spooked by this experience.  Reported to 911 during event.  Voice recording.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117675.html](http://www.nuforc.org/webreports/reports/117/S117675.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162331.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162423.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162338.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162329.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162327.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
