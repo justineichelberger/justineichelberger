@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:23 on 9 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:27 on 9 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Belleville (WI) reported seeing craft that fit the description of some 'Other' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>I have reported 3 other sightings (3/4/01, 3/5/01 and 3/6/01) and during 3/7/01 and 3/8/01 there were clouds in the sky and we didn't see anything like what we had seen previously.  The object was again west to northwest and stood out with bright colors of blue, orange, red and white.  The object moved very little, had a circular white thing with orange and bluish flames on the right.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16777.html](http://www.nuforc.org/webreports/reports/016/S16777.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Simi Valley (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>A green fireball passed over my car north of the San Fernando Valley at 3:36 a.m. on 03/09/01.I was driving on Route 118 north of Simi Valley, CA. at 3:36 a.m.  I saw a green fireball/round object about the size of an orange held at arms length, fly over my car and continue in the same direction.  I slowed down and lost sight of it. The greenish light around it seemed fuzzy.  I experienced a few blown fuses in my car within the next hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16809.html](http://www.nuforc.org/webreports/reports/016/S16809.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162331.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162423.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162338.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162329.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162327.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
