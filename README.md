@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:31 on 9 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:34 on 9 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Strange objects seen in daytime sky over Denver.I was in Denver on the afternoon of Tuesday, March 9th, and at 4:15 PM in the vicinity of 32nd and Federal. It was a perfectly clear, windless day, and as I was walking my dog I looked up and scanned the sky. Almost directly overhead I spotted a round gray object moving to the northeast at a fairly high speed. My first thought was a balloon, but it was moving far too fast. At arms length it was the size of a BB, and as it moved away to the northeast my eyes focused in on 5 similar objects following the first. They were silent and flying in a loose formation, and appeared like the 1950 Great Falls UFO film as they faded away in the distance. The pilot of a light plane flying south might have seen these craft if he were looking up. I believe the objects were under 5,000 feet. I scanned the sky and saw a helicopter to the north that was probably over the area of Federal and I-70.At 4:45 PM I was again looking at the sky, and to the north where I had seen the helicopter I spotted what at first appeared to be a black cylindrical object with a white tail below it hanging motionless about 30 degrees in the sky. My first thought was a kite, but when I looked at it through my binoculars it appeared like a cluster of orange balloons with red lights on them. The white tail was not moving and appeared rigid. I watched it for about 5 minutes, eventually it began to rise higher in the sky, to about 50 degrees. I went back inside and returned about 5 minutes later, but could not relocate the object.Strange objects that I had no explanation for. I am a MUFON member and watch the sky quite a bit. The 6 objects I saw did not appear any different than ones I have seen in UFO films and videos shot worldwide over the years. I hope someone else saw what I saw this afternoon and reports it, otherwise I may stop believing my own eyes.((NUFORC Note:  Witness is MUFON member in Colorado.  We express our gratitude to the witness for sharing the report!  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35512.html](http://www.nuforc.org/webreports/reports/035/S35512.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Martinsville (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately Still happening - Still happening minutes.</sub><blockquote><sub>Bright light above the southwest horizon like a star but too low to be a star. Hovering but occassionally moving in an erratic way from side to side yet remaining in the same general location. Didn't seem to be making any noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153946.html](http://www.nuforc.org/webreports/reports/153/S153946.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162331.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162423.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162338.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162329.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162327.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
