@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:30 on 9 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:29 on 9 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Buffalo (MO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Bright flash followed by fireball breaking up into red-orange embers.On the night of March 9, 2000, I was driving home from work on State highway 32 between the cities of Lebanon and Buffalo, Missouri. I was headed in a westbound direction. As I drove along, a bright flash to the south of me attracted my attention. I thought it must be a flash of lightning and turned my head to see if there storms in that direction. I turned my head just in time to see a fireball breaking up into red-orange colored embers. The fireball was moving from a westerly to easterly direction, and the angle of travel was slightly toward the southeast. The original bright flash which caught my attention was bright enough to light up the southern night sky. The night sky was fairly clear, except for some smoky haze due to numerous forest fires in the area at the time. The duration of the sighting was extremely short, a few seconds at most. The red-orange embers from the fragmenting fireball faded from view instantly as the object broke apart. I was not sure of the exact time of the sighting but I knew it to be between 2000 and 2030 hours local time. I was in Laclede county at the time of the sighting and still had a few miles to go before I crossed into Dallas county where I live.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12615.html](http://www.nuforc.org/webreports/reports/012/S12615.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Layton (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>A bright white light came from behind the clouds in the eastern sky in a northwestern direction.  The light did a quick turn around going in a southeastern direction until it disappeared behind the clouds.  Then it reappeared going in the northwestern direction again and did another turn around to disappear behind the clouds.  It lasted about 10 to 15 seconds.  The sky was light but it had not been light long.  There didn't seem to be any noise associated with it.  The light remained at the same intensity.  The speed seemed to change as it moved.  The angles of its movement were not very smooth.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145075.html](http://www.nuforc.org/webreports/reports/145/S145075.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162331.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162423.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162338.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162329.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162327.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
