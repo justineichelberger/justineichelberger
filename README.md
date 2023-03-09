@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:41 on 9 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:30 on 9 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Detroit Lakes (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>When looking at sirus as it was the brightest star in the sky, I noticed one after another, a hand span behind each other in a staight line.  My friend from Brainerd called me and was seeing the same thing many miles away.  Another friend saw it at the same time in Indiana! A literal ring around the mid west!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153945.html](http://www.nuforc.org/webreports/reports/153/S153945.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Odessa (FL) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I was driving down the road and saw a large egg shaped object that was dark in color. I was able to see it for around 15 seconds then some trees obstructed my view. It was too large to be a blimp. I tried looking for it again through clearings but I never saw it again. After that I saw some jets flying what seemed like an altitude of 30,000 ft or more in the air emitting vapor trails. The vapor trails made a sign in the shape of an arrow pointing east.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62119.html](http://www.nuforc.org/webreports/reports/062/S62119.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162331.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162423.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162338.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162329.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162327.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
