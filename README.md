@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:09:47 on 10 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:25 on 10 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Winters (TX) reported seeing craft that fit the description of some 'Egg' over a period of approximately Night sky - Night sky minutes.</sub><blockquote><sub>Red, yellow, blue and white lights and underneath the craft.Craft moving north above Winters Texas.  Dull red color with light yellow, light blue and bright white flashing colors.  Traveling from south to north in a straight line and made sudden stops in the sky.  (Go Go go go stop go go go stop flight pattern).  Egg shape craft. I hope any others saw what I have seen.  I didn't have my cell phone at the time to take pics.  I am willing to take a lie detector test.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107796.html](http://www.nuforc.org/webreports/reports/107/S107796.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Hong Kong (China) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Ufo seen in hong kong victoria Peak  , 24 witnesses seen sphere shape with low hum , and bright light over head .Me and my friends went out to the peak to look at the famous night view of hong Kong , We came in three days ago , We walked with our flash lights , suddenly a bright light and a low hum suddenly appeared , It blinded us . We were so scared that we dropped our flash lights and ran . The object followed us overhead , suddenly when we looked back the object was fading into the darkness then suddely gone .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35520.html](http://www.nuforc.org/webreports/reports/035/S35520.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162436.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162336.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162349.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162534.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162648.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
