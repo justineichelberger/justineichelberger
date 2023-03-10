@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:29 on 9 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:47 on 10 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Lewisburg (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A bright star-shaped object streaked gracefully across the sky and emanated red and green before disappearing.It was dark outside and I had been playing hockey. I started to get the feeling that I was being watched, it creeped me out, and I went and sat down to the side of the parking lot I was in. After a few minutes of sitting down, I began to hear a few dogs barking quite a bit. I eventually got up and left, and started to head home. I live right below the top of a rather large hill, and there is an intersection at the top of the hill. I got to the top of the hill, and non-voluntarily, I looked up to see this bright star-shaped object in the sky. It was the color of a star at first, and it streaked directly across the sky quickly and gracefully. It streaked for a few seconds, and it began to emanate red and green for a second or two, and it disappeared. It almost seemed like it was crashing when the red and green appeared. This was the only object I saw, and it was shaped almost exactly like a star but it seemed too unnatural. I heard the sound of a plane afterwards.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62118.html](http://www.nuforc.org/webreports/reports/062/S62118.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Jewell Basin National Park (MT) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two craft near Camp Misery ranger station one large triangular one small, very small, cone shaped.Before midnight last night we saw one large triangular craft with no lights a few hundred feet off the ground. It was moving slowly through the valley down towards Big Fork Montana. One small, tiny cone shape with a yellowish orange top and bright white bottom zigzaged over the radio towers above camp Misery. The small one seemed to be going in and out of the valleys up and down the side of the mountain and darting around the large triangular shaped craft. The large craft turned and started moving north over the mountains and we lost sight of both of them. No lights were ever seen on the large one. It was kind of a purplish black glow. No sound from either of them. The smaller one went into a cloud and it looked like small lightning the way cloud lightning looks and reminded me of those things globes you run your hand around and the electricity follows your fingers around the globe. The lightning made no noise. We heard a faint rumbling sound a little time later. And heard aircraft about 30 minutes afterwards. Gary took pictures but don't know if they will come out said he got a shot of both of them around the radio towers together and a closer one of the smaller one as it went in the clouds and of the lightning.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05887.html](http://www.nuforc.org/webreports/reports/005/S05887.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162331.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162423.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162338.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162329.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162327.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
