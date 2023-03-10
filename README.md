@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:29 on 10 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:27 on 10 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Jewell Basin National Park (MT) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two craft near Camp Misery ranger station one large triangular one small, very small, cone shaped.Before midnight last night we saw one large triangular craft with no lights a few hundred feet off the ground. It was moving slowly through the valley down towards Big Fork Montana. One small, tiny cone shape with a yellowish orange top and bright white bottom zigzaged over the radio towers above camp Misery. The small one seemed to be going in and out of the valleys up and down the side of the mountain and darting around the large triangular shaped craft. The large craft turned and started moving north over the mountains and we lost sight of both of them. No lights were ever seen on the large one. It was kind of a purplish black glow. No sound from either of them. The smaller one went into a cloud and it looked like small lightning the way cloud lightning looks and reminded me of those things globes you run your hand around and the electricity follows your fingers around the globe. The lightning made no noise. We heard a faint rumbling sound a little time later. And heard aircraft about 30 minutes afterwards. Gary took pictures but don't know if they will come out said he got a shot of both of them around the radio towers together and a closer one of the smaller one as it went in the clouds and of the lightning.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05887.html](http://www.nuforc.org/webreports/reports/005/S05887.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Canon City (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>A triangle of three soft green discs passed us parallel to highway 50 in the Colorado desert which made no sound.I'm a 66 year old Colorado Springs resident for 30 years plus. My friend from Denver was driving. We took a day trip down to see the Royal Gorge and then on to Salida and back. As we left Canon City the stars are always bright in that desert area. My friend said "What is that green light ahead" on the right side of the highway? I said it was probably that one flashy star that I can't name. He said "No. It's moving this way" as it was running parallel to the highway. I said ,"PULL OVER". I  thought my jaw would fall off. He had to continue a few feet as the shoulder was narrow. Then a driveway allowed him to jump out with me. My friend didn't have the view I had as he not only was driving and wears glasses.  I could clearly see a perfect triangle of three what appeared to be dimly lit discs which were not separate, but part of one craft. No clue what the vehicle itself looked like.  These soft green discs seemed more like what propelled it than marker lights seen on aircraft. It banked slightly left and the discs became obvious. It took approximately 15-20 seconds to pass by and head west from view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162421.html](http://www.nuforc.org/webreports/reports/162/S162421.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162436.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162336.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162349.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162534.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162648.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
