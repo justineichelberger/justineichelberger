@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:25 on 10 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:27 on 10 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Lucerne (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>&quot;Star&quot; blinking strangely on cloudy, starless night.At around 11:30 PM, I noticed a star blinking strangely in the night sky through my window. It appeared almost the same as an average star, however, there is substantial cloud cover tonight and I noticed slight changes in hue when the thing blinked. I continued watching, reporting to some friends over text at 11:53 PM (hence the timestamp.) I left for a few moments, and the star was gone. I stared at the sky some more just to be totally certain, and saw the object streak relatively slowly across the sky. I see relatively similar things on a regular basis, so I thought I'd report it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162436.html](http://www.nuforc.org/webreports/reports/162/S162436.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Lawton (OK) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Lawton UFOObject Photographed near Lawton, Oklahoma on 3/10/02 "I took the attached picture from my house on the west edge of Lawton just minutes ago. I was returning from some late night shopping at the local Wal-Mart and noticed these objects in the distance moving around the sky rather erratically.When I got closer to home I realized these objects were moving in my direction so when I got home I ran inside and grabbed my digital camera. When I ran back outside the objects were nearly overhead. I snapped only one picture before they sped out of sight.There's really not much more to add.  I only got to see them up close for a very short period of time.  I don't know if anyone else saw them at the wee hours of the morning when this happened, but it sure had all the dogs in the neighborhood barking for awhile!  I just wish I had been able to get more than one picture.  I just got the digital camera a few days ago and am not real familar with it yet."</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22178.html](http://www.nuforc.org/webreports/reports/022/S22178.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162436.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162336.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162349.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162534.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162648.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
