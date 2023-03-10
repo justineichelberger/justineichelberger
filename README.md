@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:31 on 10 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:31 on 10 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Tacoma (Lakewood) (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately unk - unk minutes.</sub><blockquote><sub>While on Patrol in the North parking lot at Pierce College, I observed a green spherical ball of light descending from west to east. This occured on 03/10/99 at 22:15pm</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05906.html](http://www.nuforc.org/webreports/reports/005/S05906.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Lake Worth (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Triangle at night, no lights or sound; fast.I was homeless at the time and happened to be lying down in a field on a clear evening.  While looking at the night sky I noticed a black w/ brownish tinge colored ufo traveling east over the atlantic  (I was about 1 mile from shore).The first thing I did after watching for a few seconds was to close one eye and check with the other and then visa versa.  It was a triangular shape approximately the size of a Boeing 737.  The shape was rounded at the corners and was wider than it was in length.  I would estimate the altitude at 20,000 feet.  The vehicle had no lights and absolutely no sound could be heard.Based on the fact that it blacked out stars as as it traveled and again estimating altitude at around 20k this thing was moving.  Noticeably faster that a commercial flight and the speed I would estimate at mach 2+  I am adament about the speed, which is strange as anything traveling that fast (I'm being conservative on the speed)should be making some sort of sound or at least have nav lights.I am an Air Force veteran and have seen SR-71's as I was at Beale AFB I worked on the flightline so I've seen a lot of aircraft.  It was not a F-117.  That's just a side note.There is no doubt in my mind that what I saw is not something that is currently being flown by any country.  It was quiet where I was, no traffic, just silence as this went by.I watch a lot of discovery channel and know what ramjets and pulse detonation engines are, scramjets, etc.I have no idea what I saw, but I will always remember it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67670.html](http://www.nuforc.org/webreports/reports/067/S67670.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162436.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162336.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162349.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162534.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162648.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
