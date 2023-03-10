@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:26 on 10 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:26 on 10 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Naples (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Orange light pulsating orbs in front moved slowly over Naples Beach, no sound.  Up and gone.Orange light pulsating orbs in front moved slowly over Naples Beach, no sound, and then went straight up and disappeared.  Reappeared over Gulf of Mexico moved very slowly towards beach and went straight up again and out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87938.html](http://www.nuforc.org/webreports/reports/087/S87938.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Cherry Hill (NJ) reported seeing craft that fit the description of some '' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Had strange dreams about humming sound that was so intense I began to feel it in my chest. Woke from my dream to realise I could hear a hum that went from medium hum to intense hum.  When it was intense it was louder than the forced air from hearing vents.  Apparently, over 5000 people lost power in Philly around the same time the humming event affected me in my sleep, so maybe it had something to do with that?  Either way, it was strange, and I wanted to see if anyone else in the area experienced this besides me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107778.html](http://www.nuforc.org/webreports/reports/107/S107778.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162436.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162336.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162349.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162534.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162648.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
