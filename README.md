@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:27:55 on 10 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:09:47 on 10 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Dark Object in flight path of Airplanes heading south to King County Airport((name deleted)) and I were coming out from a tennis match at the Seattle Tennis Center heading to our cars when I looked up and saw a dark shape object that was not moving and south of where we were.I watched the object as a airplane heading south to land at King County International airport I said to ((name deleted)) that's strange that this dark object didnt move and was in the airpalnes flight path below the plane but wasnt moving.So we watched for a while and then another plane came the same way south to the airport and the dark object didnt move if you were to put your hand in front of you the object it was the size of a small car and about 1500 to 2000 feet in the air but below the planes on approach to King County International very strange this object didnt budge as I left it was still there.((name deleted)) said the object had some shine or light coming from it as I went to look for some my camera.But I didnt bring it with me whemn I came back it was still there not moving and another plane was coming right to it it went above the object!....((NUFORC Note:  The source of this report is known to us, and we consider him to be a knowlegable and serious-minded individual.  We do not know what the two witnesses observed.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16794.html](http://www.nuforc.org/webreports/reports/016/S16794.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Winters (TX) reported seeing craft that fit the description of some 'Egg' over a period of approximately Night sky - Night sky minutes.</sub><blockquote><sub>Red, yellow, blue and white lights and underneath the craft.Craft moving north above Winters Texas.  Dull red color with light yellow, light blue and bright white flashing colors.  Traveling from south to north in a straight line and made sudden stops in the sky.  (Go Go go go stop go go go stop flight pattern).  Egg shape craft. I hope any others saw what I have seen.  I didn't have my cell phone at the time to take pics.  I am willing to take a lie detector test.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107796.html](http://www.nuforc.org/webreports/reports/107/S107796.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162436.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162336.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162349.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162534.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162648.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
