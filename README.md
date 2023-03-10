@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:57 on 10 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:24 on 10 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Big Rapids (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Green Light seen  flying towards Michigan with a yellowish-green trail.Green, shooting-star type object. This object was going down to earth on a slight angle.  There was the object and a trail of Yellowish-green tail. It was seen from two eye-witnesses, one in Rockford, Michigan. The other in Big Rapids, Michigan. At first I thought this was a shooting-star, but the object seemed to be coming closer to earth and was too big.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62134.html](http://www.nuforc.org/webreports/reports/062/S62134.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Plain Dealing (LA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Extremely bright light stationary in the west.  Would dim then brighten. We were standing at front door watching it.  Looked almost like a cell tower light but much brighter.  Could see other air craft flying in near vicinity of this but not chasing or approaching it.  I shut the door for a few minutes and reopened it and it was gone and a few minutes later it reappeared.  It finally disappeared, didn’t fly away where you could follow it, just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154128.html](http://www.nuforc.org/webreports/reports/154/S154128.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162436.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162336.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162349.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162534.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162648.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
