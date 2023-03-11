@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:28 on 11 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:32 on 11 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Portchester (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>NO SOUND JUST A RED TRIAGLE OBJECT  I LIVE BY  THE LONG ISLAND SOUND AND ABOUT 9:10 OCLOCK SUNDAY MARCH 11TH I SAW A RED TRIANGLE COMING FROM THE WATER PASSING BY ME, THERE WAS NO SOUND WENT OVER MY HOUSE THAN DISSAPEARED.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55701.html](http://www.nuforc.org/webreports/reports/055/S55701.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in East Elmhurst (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately Non stop - Non stop minutes.</sub><blockquote><sub>2 bright lights, not moving seem relatively close, wish someone would confirmTwo lights in the sky and aren't moving. I see stars and compared to the stars they are much closer and brighter.  Couldn't tell what it is with binoculars. My friend said he saw them last night also.  They can be seen facing the West from my point.  Anyone know what the hell are these they aren't planes or helicopters and they don't flash just steady light((NUFORC Note:  Jupiter and Saturn.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87611.html](http://www.nuforc.org/webreports/reports/087/S87611.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [294](http://www.nuforc.org/webreports/reports/162/S162352.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162353.html)
-- [292](http://www.nuforc.org/webreports/reports/165/S165819.html)
-- [291](http://www.nuforc.org/webreports/reports/162/S162356.html)
-- [290](http://www.nuforc.org/webreports/reports/164/S164334.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
