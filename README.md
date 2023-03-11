@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:25 on 11 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:24 on 11 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Canton (MS) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>ufo - 2 big white lights - MississippiMe and my friend were going down the road when i jokingly said look a ufo.  Not registering that it was something like i have never seen before.  He laughed and then stopped and looked confused.  It moved fairly slow but slower than an airplane or helicopter at this height.  It was heading over the trees to the right of us with 2 big white lights.  Not regular sized lights but lights so big that they do not exist on this earth.  It headed over the road and stopped to the left in the sky no more than a 1000 ft. high.  It  completely stopped moving when we stopped to check it out.  When we completely stopped the bright white lights tured into two red lights with a yellow light in the middle.  It was too dark to see because the light just overpowed the view of any object behind it.  After ten secods it disappeared.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42891.html](http://www.nuforc.org/webreports/reports/042/S42891.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 4320.0 - 4320.0 minutes.</sub><blockquote><sub>Unidentified light object over las vegasíSaw strange light in sky that did not move for several hours then disappeared. It was high up in altitude and appeared over several days in roughly the same spot in the sky. Lookking through binoculars it was 3 bright lights in a row in semi cicular pattern with a halo of small dot shaped lughts around it.  I could not discern any physical body as it was high up in the sky over western las vegas.  I could not see it move as it seemed to hover in the same spot for hours.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154345.html](http://www.nuforc.org/webreports/reports/154/S154345.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [294](http://www.nuforc.org/webreports/reports/162/S162352.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162353.html)
-- [292](http://www.nuforc.org/webreports/reports/165/S165819.html)
-- [291](http://www.nuforc.org/webreports/reports/162/S162356.html)
-- [290](http://www.nuforc.org/webreports/reports/164/S164334.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
