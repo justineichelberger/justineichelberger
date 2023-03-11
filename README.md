@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:32 on 11 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:34 on 11 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in East Elmhurst (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately Non stop - Non stop minutes.</sub><blockquote><sub>2 bright lights, not moving seem relatively close, wish someone would confirmTwo lights in the sky and aren't moving. I see stars and compared to the stars they are much closer and brighter.  Couldn't tell what it is with binoculars. My friend said he saw them last night also.  They can be seen facing the West from my point.  Anyone know what the hell are these they aren't planes or helicopters and they don't flash just steady light((NUFORC Note:  Jupiter and Saturn.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87611.html](http://www.nuforc.org/webreports/reports/087/S87611.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Waynesburg (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Green fireball in Western sky leaving trail and then explodingI caught a green mass out of the corner of my eye in the Western sky moving at a very fast rate of speed.  I walked around the corner of the house to look at the West sky.  At that time, I saw the green light getting brighter and just then, a green flaming mass appeared traveling South to North. The mass had a tail following it and I watched it travel for approximately 5 seconds.  At that time, it exploded, much like a firework.  As it exploded, debris extended in all directions.  At that time, the entire light disappeared. The stream of light was the entire Western sky, as far as I could see from South to North.  It looked to be about as high as a jumbo jet airliner would fly but much larger, perhaps 6 jumbo jets put together in size.  The light was more of a light fluorescent green.  I have witnessed many shooting stars and this was unlike anything I have ever seen.  The green color was very vivid and sharp. ((NUFORC Note:  We suspect that the object may have been a meteor.  Other reports.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55659.html](http://www.nuforc.org/webreports/reports/055/S55659.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [294](http://www.nuforc.org/webreports/reports/162/S162352.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162353.html)
-- [292](http://www.nuforc.org/webreports/reports/165/S165819.html)
-- [291](http://www.nuforc.org/webreports/reports/162/S162356.html)
-- [290](http://www.nuforc.org/webreports/reports/164/S164334.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
