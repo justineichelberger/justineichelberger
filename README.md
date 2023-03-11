@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:25 on 11 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:36 on 11 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Los Penisquitos (San Diego) (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>the object traveled from the south to north west in a downwards direction, the event lasted roughly 5 seconds, the object if I held a pencil out at arms length eraser portion up would cover the object. the object was bright like a holgen lamp I was surpized for I believed it crashed yet no reports were on the radio, it seemed lower than comercial aircraft, yet not as low as private or military aircraft in the areathe object seemed like a bright holagen lamp, when I observed the object it was above a shopping center or just east of the center as I was traveling north on black mountian road, it came out of nowhere and disappeared in a downward direction. not floating as in a flare but straight and fast as well. faster than military aircrft and private aircraft in the area at first I thought it was a shooting star, but it was far to bright for that. shortly after 2 military aircraft headed in an easterly direction beating feet fast for you could hear and feel the rumble of the engine, like in an air show but way above the normal levels</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03318.html](http://www.nuforc.org/webreports/reports/003/S03318.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Wausau (WI) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Silver colored cigar shaped craft, hovered for 15 min, no sound.  Two red lights on bottom as well as a yellow light.((NUFORC Note:  Source of the report provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133070.html](http://www.nuforc.org/webreports/reports/133/S133070.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [294](http://www.nuforc.org/webreports/reports/162/S162352.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162353.html)
-- [292](http://www.nuforc.org/webreports/reports/165/S165819.html)
-- [291](http://www.nuforc.org/webreports/reports/162/S162356.html)
-- [290](http://www.nuforc.org/webreports/reports/164/S164334.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
