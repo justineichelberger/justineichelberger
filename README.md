@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 11 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:26 on 11 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Frankfort (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Fading orange lights witnessed by a 19 y.o. & 48 y.o.  formations seen.I was driving home by myself, looking at the stars when I saw an orange glare to my right.  I turned to the right [north] to see it, just as the light faded into darkness.  It was right about this time I thought, "This is the same thing I saw last summer!" [My report is on here, 05/29/02] Just then I saw the a light appear in the western sky quite far from the original location.  When I told my family about these strange lights last summer, they just brushed it off like it was no big deal, so not beign far from home, I decided to call my mom and pick her up so she could see them.  Hurrying home I saw the lights a few more times.. I was paying more atteniton to the road though.  I got my mom and drove to 26.  We got out and waited.  In no less that 5 minutes we saw 2 lights appear in the northern sky about 40 degrees above the horizon.  We decided to drive up 26 a little farther and pull onto a country road.  There were 3 lights now, they felt very very close.  As we watched I was stunned to see them dissappear for a minute only to all reappear eventually as a triangle.  Another minute or so pass and my mom says, "Look!"  and they were in a perfectly straight horizontal line. [this summer I saw a vertical line]  This is about the time we decided we saw enough and left.  My mom felt "obligated" to call the cops when she got home, they ofcourse, had no idea what it was.  I do remember seeing & hearing a lot of other planes afterwards.. *especially* last night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28111.html](http://www.nuforc.org/webreports/reports/028/S28111.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Rye (UK/England) () reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>i object bright light ,slow moving ,silent black objectegg shape moved away from central light-light stopped and retracked on itself</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14849.html](http://www.nuforc.org/webreports/reports/014/S14849.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [294](http://www.nuforc.org/webreports/reports/162/S162352.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162353.html)
-- [292](http://www.nuforc.org/webreports/reports/165/S165819.html)
-- [291](http://www.nuforc.org/webreports/reports/162/S162356.html)
-- [290](http://www.nuforc.org/webreports/reports/164/S164334.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
