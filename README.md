@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:29 on 10 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:34 on 11 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Commerce (GA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Giant white light sphere seen hovering for 45 minLarge glowing sphere like star but bigger hovering high above.  Stood for 45 minutes than took off at great speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154132.html](http://www.nuforc.org/webreports/reports/154/S154132.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 4320.0 - 4320.0 minutes.</sub><blockquote><sub>Unidentified light object over las vegasíSaw strange light in sky that did not move for several hours then disappeared. It was high up in altitude and appeared over several days in roughly the same spot in the sky. Lookking through binoculars it was 3 bright lights in a row in semi cicular pattern with a halo of small dot shaped lughts around it.  I could not discern any physical body as it was high up in the sky over western las vegas.  I could not see it move as it seemed to hover in the same spot for hours.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154345.html](http://www.nuforc.org/webreports/reports/154/S154345.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162436.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162336.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162349.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162534.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162648.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
