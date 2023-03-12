@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:28 on 12 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:24 on 12 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Glowing U F OPhoenix, Arizona 03-12-2006 12:40 PM   A shiny object was observed coming from the S.S.E., at an excessive speed.  It was moving much faster than a jet.  From the time it was first seen in, the Southern sky till it dissappeared into the Eastern horizon, was less than three minutes.  When it was first seen it was coming from the S.S.E..  It passed at about forty-five degrees upward in the East.  About twenty degrees N. from vertical, it abruptly changed course to the N.W., and came to a complete stop. It then sped off to the S.E. for a second or two and abruptly changed course toward the East and rapidly sped toward  the horizon and out of sight. It maintained the same glow for the entire time it was in sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49568.html](http://www.nuforc.org/webreports/reports/049/S49568.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Redlands (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Extremely bright LED-like light over Southern California.It’s now mid-March 2017, and since mid-February I’ve seen an extremely bright light (reminds me of a huge LED tactical light) early every evening in the eastern ((sic.  western)) sky over Southern California.  It’s large enough to make a person assume that it’s close to the observer’s neighborhood, but its size and brightness make it likely to be seen by many residents living in Southern California.The light always appears around 8 p.m., sitting low in a dark sky, without any other visible stars. The light is bright in one position for approximately 30 minutes, then the light goes out, and it pops up again nearby, again parked for another 30 minutes in a new position.I first noticed it in February and, like my husband, instantly thought of Saturn.  But the light was so “artificial” and too low that I couldn’t bring myself to believe it was Saturn.  My thought was that it’s more likely a satellite or a surveillance device (drone? balloon?) possibly launched by the police, or by USGS, or by CALTRANS.  I’ve found no evidence on the Internet, but if any of these surveyors want anonymity, there wouldn’t be an announcement or explanation posted to the Internet.I believe I’ve noticed lights-out once a week (does the object need a break to re-adjust?), and then re-activated the following night for the rest of the week.I’m not certain why the foregoing surveyors would survey at night, except to avoid small aircraft from local municipal airports that would not be flying at night in the object’s altitude thereby not interfering with the object’s mission.  Large airlines flying to Ontario or to Los Angeles can be seen and are distinguishable because they move higher in the sky than does the bright light that parks low in the sky and does not move at all while lit.Thoughts rush through my mind of foreign surveillance by China, Russia, North Korea.  Could that be true?  Don’t know.  “It’s a puzzlement!”</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133100.html](http://www.nuforc.org/webreports/reports/133/S133100.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
