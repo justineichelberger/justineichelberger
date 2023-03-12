@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:30 on 12 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:26 on 12 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Mt. Juliet (TN) reported seeing craft that fit the description of some 'Cross' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I saw a cross shaped aircraft with lights on it of various colors and it quickly vanished.I was driving down an old country road and at first saw a flying object that I thought was a plane. I thought to myself that it was flying awfully low to be a plane and began to slow down while simultaneously muting my car stereo. When I slowed down the "plane" slowed down and I began to think that the aircraft resembled a drone more than a plane so I stopped completely so I could get a better look at the aircraft. When I stopped the aircraft stopped. It was around 100 feet from me and probably around 50 feet in the air. (It was hovering over a horse farm pasture). I quickly realized that this was not a drone nor was it an airplane. I stared straight at an aircraft that's shape could best be described as a symmetrical cross laid horizontally. It had dots of light that were more warm white on the bottom and orange and blue-ish purple on the top. The blue-ish purple lights were in the middle and the orange were more on the "wings"/"str! etch" of the cross. I quickly drove off because the encounter frightened me and I looked back a few seconds later and the aircraft was gone. The aircraft was too big to be a drone but too small to be a plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154146.html](http://www.nuforc.org/webreports/reports/154/S154146.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Edinburgh (UK/Scotland) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>At around 4.40am 3dec 2007 north northeast, i was heading to work going towards bonnyrigg i stopped at traffic lights at bridge at dalhousie castle.My car cut out and my lights, i got out of car and noticed there was a car behind me his lights were out as well, he got of car and said my engine has just cut out and my lights and i said so have mine, he said i,ve got my mobile i,ll phone someone but his phone would not work, we both looked in front just over to my right and there was loads of lights in a line about 12feet these lights where size of a tennis balls hovering in the sky about 250 meters from us 80feet high we both just stood not knowing what it was as there was nothing to indicate it was a plane or helicopter as it just took off in a flash to my right, and on my way home i thought there was a few helicopters in the area i was travelling home at about 6,55am.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60154.html](http://www.nuforc.org/webreports/reports/060/S60154.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
