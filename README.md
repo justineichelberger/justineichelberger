@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:43 on 12 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:40 on 12 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Clatskanie (OR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Four of us just witnessed at 7:45 pm pst a single bright jagged green streak low to the S- SW sky then disappear behind trees and then two bright glowing flare ups as if it hit ground.  This occurred in rural Columbia Co. Oregon.  No clouds in sky, no city lights nearby.Any explanations? Clatskanie, Oregon 97016((NUFORC Note:  Probable dramatic meteor at 19:45 hrs. on this date.  We have amended the time above to the correct time of the incident.  Please see other reports.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42910.html](http://www.nuforc.org/webreports/reports/042/S42910.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Columbia (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>White light briefly seen around Orion's beltI was looking up at the night sky on a clear night, around 9PM, March 12. I was staring at Orion's belt.  Between the stars "Meissa" and "Betelgeuse" I saw a bright white light.  I would say it quickly appeared like within 1 second, but it was not instantaneous.  It was a constant white light that did not flicker or distort in any way, and was about twice the size of the nearby stars.  It then moved between those 2 stars from right to left (west to east) within 2.5-3 seconds and then faded out as quickly as it had appeared.  It had no trail or anything typical of a "shooting star."</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154188.html](http://www.nuforc.org/webreports/reports/154/S154188.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
