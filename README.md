@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:40 on 12 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:25:03 on 12 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Columbia (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>White light briefly seen around Orion's beltI was looking up at the night sky on a clear night, around 9PM, March 12. I was staring at Orion's belt.  Between the stars "Meissa" and "Betelgeuse" I saw a bright white light.  I would say it quickly appeared like within 1 second, but it was not instantaneous.  It was a constant white light that did not flicker or distort in any way, and was about twice the size of the nearby stars.  It then moved between those 2 stars from right to left (west to east) within 2.5-3 seconds and then faded out as quickly as it had appeared.  It had no trail or anything typical of a "shooting star."</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154188.html](http://www.nuforc.org/webreports/reports/154/S154188.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in St. Paul (MN) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Was searching for evidence of Bigfoot sighting in St Paul, Minnesota, experienced possible abduction.I was out looking for Bigfoot, in the hills around St Paul, Minnesota, over the weekend, after enjoying a nice meal at McDonald's.  I was separated from my group of expeditionists, and I saw a bright light that seemed to move in a zig-zag pattern.  I was confused at first, but thought nothing of it, until it seemed to get larger, and closer.  I realized it was actually a metal craft that was shaped like the a chevron, kind of like what you see on a gas station sign for a chevron location.  I felt frozen in place as the bright lights got closer to me, and I couldn't move.  I felt a strange warmth engulf me, and then I was in a strange place, it metal.  I wasn't alone, I couldn't make them out, there was a strange haze in the air, and a buzzing in my ears.  The entities or what have you got close to me but I still couldn't see them, my vision got blurry.Then suddenly I was back on the trail, and my companions found me, near the Mississippi River bluffs, saying that I'd disappeared for about 35 minutes. Please help.((NUFORC Note:  Hoax.  Source of report provides bogus contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126365.html](http://www.nuforc.org/webreports/reports/126/S126365.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
