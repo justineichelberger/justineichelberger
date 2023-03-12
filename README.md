@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:36 on 12 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:41 on 12 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Robinson Twp./Pittsburgh Area (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Three, 3 to 4 second burts, 15 to 20 seconds apart, of pure white INTENSE light were observed from the South bound lane of Interstate 79 on 3/12/2010 at 3:22AM.  The light source was in the North bound lane. Physical EVIDENCE exists to date(4/20/2010) in the form of blackened asphalt and grass on the embankment adjacent to the the highway.  I will attempt to take photographs and soil samples of the blackened areas in the near future.  My best non-UFO explanation is some sort of magnesium ammonium phosphate ignition for some unknown reason.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75124.html](http://www.nuforc.org/webreports/reports/075/S75124.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1970, an anonymous witness in Monessen (PA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Probe Flourescent Bulb Sized ObjectI got up in the middle of the night and smoked a cigarette while looking out of the kitchen windnow. There were no lights on in surrounding houses.In the small valley where my dad's house was located, I saw a light come over the hill.  This light proceeded in an oblong route - only stopping at the top of large pine trees periodically.  When at top of the pine trees, it would turn off and on about every 3-4 seconds.At this time I awoke my mother to see this thing.  I passed in front of the windowabout five (5) feet away. At this time , I observed that it was about four feet long - and about the size of a flourescent light bulb.Behind the object it appeared to give off an exhaust of light.  The object was traveling about 5 mph.  Although the light appeared intense, it didn't seem to illuminate objects it passed.I've wondered all these years what his was. . .a probe. .. ?  I'd appreciate hearing if any other reports have encountered such an object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97066.html](http://www.nuforc.org/webreports/reports/097/S97066.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
