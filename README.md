@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:26 on 12 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:21 on 12 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Johnson City (TN) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Stingray shaped object spottedWe saw a strange object that came from the south heading north. It was a completely clear night out no clouds in the sky what so ever. We estimated that the object was about 200-500 feet above tree top level. The object made no noise, it moved through our field of view in less than 10 seconds. It had an appearance of a stingray shape, the middle underside of the object was lit up but had a tan-brownish color, the edges of the object were distinguisable. It was a smaller size object, not apparent aircraft size (much smaller). No position lights were seen. One of the observers has worked on aircrafts for 10 years both military and civillian and what was seen was nothing that could be explained.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42914.html](http://www.nuforc.org/webreports/reports/042/S42914.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Thunder Bay (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>strange round light objectI saw something last night  as I was stopped aT A Stop light,,,,,I looked out my window and there was a red ball of light to my left about 500 feet away maybe and about 100 feet up it measured 20 to 30 feet in circumferance....It was moving in circular movements very quickly clockwise in a approximate  10 foot circular pattern  for about 15 seconds ...When the light turned green I sped up and It dropped from the sky straight down and dissapeared ..when it dropped down the light went out and it looked to be something gray in colour smALLER  than the light itsef ....this is my first sighting although i had several strange experiences in my youth</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16801.html](http://www.nuforc.org/webreports/reports/016/S16801.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
