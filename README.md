@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:25:03 on 12 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:02:34 on 12 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in St. Paul (MN) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Was searching for evidence of Bigfoot sighting in St Paul, Minnesota, experienced possible abduction.I was out looking for Bigfoot, in the hills around St Paul, Minnesota, over the weekend, after enjoying a nice meal at McDonald's.  I was separated from my group of expeditionists, and I saw a bright light that seemed to move in a zig-zag pattern.  I was confused at first, but thought nothing of it, until it seemed to get larger, and closer.  I realized it was actually a metal craft that was shaped like the a chevron, kind of like what you see on a gas station sign for a chevron location.  I felt frozen in place as the bright lights got closer to me, and I couldn't move.  I felt a strange warmth engulf me, and then I was in a strange place, it metal.  I wasn't alone, I couldn't make them out, there was a strange haze in the air, and a buzzing in my ears.  The entities or what have you got close to me but I still couldn't see them, my vision got blurry.Then suddenly I was back on the trail, and my companions found me, near the Mississippi River bluffs, saying that I'd disappeared for about 35 minutes. Please help.((NUFORC Note:  Hoax.  Source of report provides bogus contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126365.html](http://www.nuforc.org/webreports/reports/126/S126365.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Heerenveen (Netherlands) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>5-7 red dots, not on the same height, moving the same way at the same speed.Hi everybody.[My sighting] I saw a broken line of 5-7 red dots, not on the same height, not spaced equally, but moving at the same speed into the same direction, as if tied to each other.They flew too low to keep track of for longer time than 7-10 minutes.They moved at a uniform speed, without a stop or hitches.The wind was blowing very very hard and not in the same direction as the dots flew. This rules out Chinese lanterns.[Extra info's] There were a few higher trees further behind the dots. And also some trees between the dots and us. This rules out Airplanes. There was no sound either, until a passing airplane that also had blinkers passed right over our house. It came from the opposite direction.There was also a cover of Chemtrails on our atmosphere, so that also rules out things outside of our atmosphere. The distance was approximately 900-1100 metres, as the Stadium (Abe Lenstra) is about that distance removed from my house.I looked up at YouTube and Google and there are more sightings of UFO's today all over the world.All showing something similar.These are the same lights, but not the same location, so I doubt it's the same lights.http://www.youtube.com/watch?v=smrIU0tBGZU  I hope more people. in my hometown are seeing this website and saw the same thing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80448.html](http://www.nuforc.org/webreports/reports/080/S80448.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
