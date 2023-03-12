@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:21 on 12 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:29 on 12 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Thunder Bay (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>strange round light objectI saw something last night  as I was stopped aT A Stop light,,,,,I looked out my window and there was a red ball of light to my left about 500 feet away maybe and about 100 feet up it measured 20 to 30 feet in circumferance....It was moving in circular movements very quickly clockwise in a approximate  10 foot circular pattern  for about 15 seconds ...When the light turned green I sped up and It dropped from the sky straight down and dissapeared ..when it dropped down the light went out and it looked to be something gray in colour smALLER  than the light itsef ....this is my first sighting although i had several strange experiences in my youth</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16801.html](http://www.nuforc.org/webreports/reports/016/S16801.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Cumberland (MD) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>extremely loudvery loud, a few lights redish orange. But mainly loud. Already reported this sighting.  I have sent e-mail pictures of this sighting and was hoping to see it on your web sight.  There is another picture on your sight that looks almost exactly like what I saw.  I'm hoping to see this picture on here as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44262.html](http://www.nuforc.org/webreports/reports/044/S44262.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
