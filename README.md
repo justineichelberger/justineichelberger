@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:32 on 12 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:32 on 12 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>Circular disc with two lights viewed over st. johns river jacksonvilleI seen a circular disc appear over the st. johns River by Naval air station. It had two bright orange lights on the bottom of it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49609.html](http://www.nuforc.org/webreports/reports/049/S49609.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Boston (MA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>One was a solid object that hummered very slowley shaped like a cirle With a grenn orb close by it ~ The object changed diffrent colors red ~ purple ~ like golden color too not all at once as it was picking up speed What botherd me was It Loom like a foggy mist being sparyed from both sides Ihave it on video clear as day and still wondering what the heck that foggy looking mist spray was ~ ITS Not the first time seen a craft Living in Nh ~ Seen One as well ~ That thing moved from slow to fast in a ziltch of asecond like a deep hubber noise ~ Isee orbs all the time Each color has a meaning ~ Green is for protection Purple for Royalty Black for rightouse ~ sorry for carring on Who knows maybe spreading that Diese threw the air that night ??? march 12 2020 ~ 7:45 pm  Check to see What oither reports where made on that date if any ~¥¥</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154800.html](http://www.nuforc.org/webreports/reports/154/S154800.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
