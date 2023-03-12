@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:31 on 12 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:36 on 12 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange triangular craft with red, green, blue, and white lights over Los AngelesI saw, once again, the craft from an earlier report.  It is shaped like a triangle, has unfamiliar red green blue light patterns, has an abnormal flight path (low, high, over this area or that), alternates between white lights and the colored lights, etc.  Been seeing this thing for a couple of weeks.  Very strange.  Doesn't really look like a police helicopter - besides, it reaches altitudes way too high for that.((NUFORC Note:  We suspect a star or planet.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35598.html](http://www.nuforc.org/webreports/reports/035/S35598.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Robinson Twp./Pittsburgh Area (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Three, 3 to 4 second burts, 15 to 20 seconds apart, of pure white INTENSE light were observed from the South bound lane of Interstate 79 on 3/12/2010 at 3:22AM.  The light source was in the North bound lane. Physical EVIDENCE exists to date(4/20/2010) in the form of blackened asphalt and grass on the embankment adjacent to the the highway.  I will attempt to take photographs and soil samples of the blackened areas in the near future.  My best non-UFO explanation is some sort of magnesium ammonium phosphate ignition for some unknown reason.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75124.html](http://www.nuforc.org/webreports/reports/075/S75124.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
