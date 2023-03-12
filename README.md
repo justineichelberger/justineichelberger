@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:30 on 12 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:31 on 12 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>Circular disc with two lights viewed over st. johns river jacksonvilleI seen a circular disc appear over the st. johns River by Naval air station. It had two bright orange lights on the bottom of it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49609.html](http://www.nuforc.org/webreports/reports/049/S49609.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange triangular craft with red, green, blue, and white lights over Los AngelesI saw, once again, the craft from an earlier report.  It is shaped like a triangle, has unfamiliar red green blue light patterns, has an abnormal flight path (low, high, over this area or that), alternates between white lights and the colored lights, etc.  Been seeing this thing for a couple of weeks.  Very strange.  Doesn't really look like a police helicopter - besides, it reaches altitudes way too high for that.((NUFORC Note:  We suspect a star or planet.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35598.html](http://www.nuforc.org/webreports/reports/035/S35598.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
