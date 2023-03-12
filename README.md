@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:26 on 12 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:28 on 12 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Edinburgh (UK/Scotland) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>At around 4.40am 3dec 2007 north northeast, i was heading to work going towards bonnyrigg i stopped at traffic lights at bridge at dalhousie castle.My car cut out and my lights, i got out of car and noticed there was a car behind me his lights were out as well, he got of car and said my engine has just cut out and my lights and i said so have mine, he said i,ve got my mobile i,ll phone someone but his phone would not work, we both looked in front just over to my right and there was loads of lights in a line about 12feet these lights where size of a tennis balls hovering in the sky about 250 meters from us 80feet high we both just stood not knowing what it was as there was nothing to indicate it was a plane or helicopter as it just took off in a flash to my right, and on my way home i thought there was a few helicopters in the area i was travelling home at about 6,55am.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60154.html](http://www.nuforc.org/webreports/reports/060/S60154.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Glowing U F OPhoenix, Arizona 03-12-2006 12:40 PM   A shiny object was observed coming from the S.S.E., at an excessive speed.  It was moving much faster than a jet.  From the time it was first seen in, the Southern sky till it dissappeared into the Eastern horizon, was less than three minutes.  When it was first seen it was coming from the S.S.E..  It passed at about forty-five degrees upward in the East.  About twenty degrees N. from vertical, it abruptly changed course to the N.W., and came to a complete stop. It then sped off to the S.E. for a second or two and abruptly changed course toward the East and rapidly sped toward  the horizon and out of sight. It maintained the same glow for the entire time it was in sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49568.html](http://www.nuforc.org/webreports/reports/049/S49568.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
