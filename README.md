@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:02:34 on 12 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:30 on 12 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Heerenveen (Netherlands) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>5-7 red dots, not on the same height, moving the same way at the same speed.Hi everybody.[My sighting] I saw a broken line of 5-7 red dots, not on the same height, not spaced equally, but moving at the same speed into the same direction, as if tied to each other.They flew too low to keep track of for longer time than 7-10 minutes.They moved at a uniform speed, without a stop or hitches.The wind was blowing very very hard and not in the same direction as the dots flew. This rules out Chinese lanterns.[Extra info's] There were a few higher trees further behind the dots. And also some trees between the dots and us. This rules out Airplanes. There was no sound either, until a passing airplane that also had blinkers passed right over our house. It came from the opposite direction.There was also a cover of Chemtrails on our atmosphere, so that also rules out things outside of our atmosphere. The distance was approximately 900-1100 metres, as the Stadium (Abe Lenstra) is about that distance removed from my house.I looked up at YouTube and Google and there are more sightings of UFO's today all over the world.All showing something similar.These are the same lights, but not the same location, so I doubt it's the same lights.http://www.youtube.com/watch?v=smrIU0tBGZU  I hope more people. in my hometown are seeing this website and saw the same thing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80448.html](http://www.nuforc.org/webreports/reports/080/S80448.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Mt. Juliet (TN) reported seeing craft that fit the description of some 'Cross' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I saw a cross shaped aircraft with lights on it of various colors and it quickly vanished.I was driving down an old country road and at first saw a flying object that I thought was a plane. I thought to myself that it was flying awfully low to be a plane and began to slow down while simultaneously muting my car stereo. When I slowed down the "plane" slowed down and I began to think that the aircraft resembled a drone more than a plane so I stopped completely so I could get a better look at the aircraft. When I stopped the aircraft stopped. It was around 100 feet from me and probably around 50 feet in the air. (It was hovering over a horse farm pasture). I quickly realized that this was not a drone nor was it an airplane. I stared straight at an aircraft that's shape could best be described as a symmetrical cross laid horizontally. It had dots of light that were more warm white on the bottom and orange and blue-ish purple on the top. The blue-ish purple lights were in the middle and the orange were more on the "wings"/"str! etch" of the cross. I quickly drove off because the encounter frightened me and I looked back a few seconds later and the aircraft was gone. The aircraft was too big to be a drone but too small to be a plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154146.html](http://www.nuforc.org/webreports/reports/154/S154146.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
