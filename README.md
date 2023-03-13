@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:28 on 13 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:27 on 13 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Cleveland (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>ufos seen in cleveland ohio, changed color and disapeared then reappeared.hi, i saw about 5 crafts that were saucer/oval shaped flying over my house in cleveland ohio on march 13, 2010.   I found out at a later date that there were ufos spotted over cleveland ohio for about 8 nights in a row.  they changed color and would disappear then reappear. i was cooking on the grill in my backyard when i saw this along with my girlfriend at the time and a good friend. we are all about 27 years old now.  i have never seen anything like it before.  it was not an airplane and it was not a helicopter.  i have always been a believer of aliens and ufo's but i had never actually seen anything before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90776.html](http://www.nuforc.org/webreports/reports/090/S90776.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ensenada (Baja California)(Mexico) () reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Static light over the city, it was lowering and raising its brightness intensity.I came out of my house around 4:30 am and took a look to the sky, then i noticed a static light.  First i thought it was a star but its was way to big so i thought it should be a planet.  I stood there for a while watching it and noticed it wasn't so far away, it seemed it was as far as  an airplane could be.  It seemed that it was just static above the city. Suddenly around 5:30 am the light became small from one second to another but it was still static.  After a few seconds the light became big again, it was rather strange that it changed size so fast.  I'm not sure what it was but i think it was some static aircraft lowering and raising the brightness intensity of its light.  By the way, i wasn't the only one who saw it, my husband and cousin watched it with me.((NUFORC Note:  Possible sighting of Venus?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107855.html](http://www.nuforc.org/webreports/reports/107/S107855.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/162/S162744.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162416.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163057.html)
-- [344](http://www.nuforc.org/webreports/reports/162/S162625.html)
-- [343](http://www.nuforc.org/webreports/reports/162/S162384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
