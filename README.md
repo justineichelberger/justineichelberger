@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:26 on 13 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:28 on 13 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Prescott (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Summary : Saw 5 bright lights in triangle formation in the northand heading southeast at an extremely fast speed.Here's what I saw.  I was taking the dogs out before bed (I'mnot exactly sure what the time was, around 2100 I think)and I looked to the north and saw 5 very bright white lightsin a triangle (or V) formation moving really fast southeast.Then they broke formation.  The light in the back and below(from my angle) slowed up.  Now I started to wonder what I waslooking at because most planes would keep formation or at leastbreak formation completely.  Never saw a plane with lights asbright as these also.  The group seemed to rotate 90 degrees tothe left and go a little south of Mingus mountain.  I was suprisedthat I couldn't hear them so I listened harder.  I did hear thesound of a faint rustling in the sky, not like a jet, but of somethinmoving extremely fast through the air.  The sound was a ways behindthem also and did seem to follow them.  I then started lookingaround at two other planes flying.  Sessna's by the sound andspeed of them.  Also by the red flashing lights.  I saw the lights fadeinto the distance and I headed back inside.  My first notion was whathas our government got up there?  New stealth technology?  Then whythe lights?  I also thought the lack of sound could have been some formof some top secret frequency cancellation system that the governmentis checking out.  But still, why the lights?It didn't hit home that these could possibly be UFO's until I heardpeople talking about it on Friday.  Then I knew I had seen somethingthat was definately unexplainable.  At least by me.It was definately not the comet, flair, balloon, or any other thing ofthat nature.Anyway, feel free to call if you want more information</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02077.html](http://www.nuforc.org/webreports/reports/002/S02077.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Cleveland (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>ufos seen in cleveland ohio, changed color and disapeared then reappeared.hi, i saw about 5 crafts that were saucer/oval shaped flying over my house in cleveland ohio on march 13, 2010.   I found out at a later date that there were ufos spotted over cleveland ohio for about 8 nights in a row.  they changed color and would disappear then reappear. i was cooking on the grill in my backyard when i saw this along with my girlfriend at the time and a good friend. we are all about 27 years old now.  i have never seen anything like it before.  it was not an airplane and it was not a helicopter.  i have always been a believer of aliens and ufo's but i had never actually seen anything before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90776.html](http://www.nuforc.org/webreports/reports/090/S90776.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/162/S162744.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162416.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163057.html)
-- [344](http://www.nuforc.org/webreports/reports/162/S162625.html)
-- [343](http://www.nuforc.org/webreports/reports/162/S162384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
