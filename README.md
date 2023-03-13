@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:29 on 13 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:27 on 13 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Torrance (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>aluminum color, real bright, and it moves forward real fast then it just stops, then it comes back to its original spot, then go away..Well, it was about 10,000 ft up, it was an aluminum color, real bright, and it would move forward real fast then it would just stop, then it would come back to its original spot, it kept doing this for about 8 min then it finally it just zipped off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19181.html](http://www.nuforc.org/webreports/reports/019/S19181.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Centerville (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 3000.0 - 3000.0 minutes.</sub><blockquote><sub>Bright flashing light in the skyOn 03/13/18 and 03/14/18, my wife and I saw a light to the SW/W direction.  The light was unusually bright and changed colors:  Red, White, Blue, Green, and purple.  The object was semi-stationary, moving only slightly over time and not with stars or aircraft.  It moved in abnormal directions such as up and down to its original position or diagonally and back to its original position.  The lights were very prominent, aircraft moving in the general area moved quite differently and had obvious differences in appearance.  Cross reference to star charts and visible planets showed no objects expected to be in the area.the object stayed put for about two hours then suddenly moved towards the direction of Orion's bottom right star and disappeared.  This event happened two night in a row in the same manner.  We noticed our dogs taking notice as well and acting differently from usual.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139183.html](http://www.nuforc.org/webreports/reports/139/S139183.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/162/S162744.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162416.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163057.html)
-- [344](http://www.nuforc.org/webreports/reports/162/S162625.html)
-- [343](http://www.nuforc.org/webreports/reports/162/S162384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
