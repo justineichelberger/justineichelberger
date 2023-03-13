@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:35 on 12 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:49 on 13 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Gallup (30 miles east of; on I-40) (NM) reported seeing craft that fit the description of some 'Oval' over a period of approximately 30 mimutes - 30 mimutes minutes.</sub><blockquote><sub>Bright circular object turns into 3 discs over western New Mexican skys.It was around 1900 on March 12th. I was driving on I-40 west bound on my way to flagstaff when I noticed a bright circle at my  10 o’clock position.  At first I thought it was a bright star but then I started looked around and noticed it really wasn’t dark enough for stars to be out. The sun  was still a good 45 minutes from setting completely and the moon couldent be seen yet. After about 10 minutes I asked my mother in law if she noticed anything strange in the sky. She replied “yes” and pointed to the bright circle object in the sky. By this time my wife had joined the conversation and was aware of this object also. The more west I drove it seemed the bright object appeared larger and brighter. I must have driven another 20 minutes  asking myself what on earth this object could be and re-affering with my family I was actually seeing what I was seeing. They  where  just  as in wonder as I was. When we got to the same place that the bright circular object was we could see it to the left of our truck. It wasn’t one but 2 disks hovering in the sky about ¼ mile from our truck. They were slanted at a 45 degree angle facing eachother. Then out of knowhere a third one appeared. At this moment one of the 2 had moved in a blink of the eye to the lower position while the third object was considerably further away compared to the other two. We couldent believe what we were seeing . After 2 minutes they just dissapeared. I should of stopped my truck and took pictures but I was pulling a trailer and didn’t want to stop on the highway with my kids in the truck. I went through every single option of what it could have been in my mind. I tried to make sense of it with logical reasoning but all I can say is what we saw was definatly not of this world. I spent 5 years in the Marines as a harrier mechanic and have seen every kind of military aircraft you can see come through our base. The base I worked at is the largest air base on the east coast. You name it I have seen it.  Up close and personal. I kno! w how th ey look when they fly . I worked on the only hovering aircraft in the world. I can say with 100% confidence this was not a military or commercial aircraft(s). I hadnt said too much about this but I feel  maybe this can help if even a little.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57082.html](http://www.nuforc.org/webreports/reports/057/S57082.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Florence (OR) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I observed a cigar shaped craft sitting in the south-west sky about 40 degrees up. It didn't appear to be moving. I had the feeling it was a tourist craft. I went home to look at it closer with binoculars and seek other possible witnesses, but by the time I got home I forgot to look again.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36123.html](http://www.nuforc.org/webreports/reports/036/S36123.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
