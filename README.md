@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:35 on 13 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:29 on 13 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Dateland (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Hovering Light Formation in Southwest Arizona in March 1997Myself and two other friends were driving from Phoenix to San Diego on the evening of March 13th 1997.  As we were traveling west on Interstate 8, approximately 1 hour from Yuma, AZ, we saw some weird hovering lights (approximately 9:30pm local time) in the southern sky that looked like they were 2-5 miles away.  The lights were white and in some sort of circle formation and didn’t seem to move as they were in our sight while driving for about 10 minutes. The lights were about 1-2 miles off of the ground.  We jokingly said that they may be UFOs, but dismissed it as some military exercise, but we didn’t know.I have thought about this for a long time and not until last week did I start to put it all together.  I was watching a program on Discovery or one of those channels last week on the "Phoenix UFOs in March 1997."  After some more research, I found out that the incident happened on March 13, 1997.  I wondered if that happened to be the night in which we drove to San Diego.  I remembered that our trip happened on the first night of the 1997 NCAA Basketball because we were so surprised that we were able to watch the late games when we arrived in San Diego because of the 1 hour time change from Arizona to California.  I looked on the internet, and sure enough, the first night of the Men’s 1997 NCAA Basketball tournament was March 13th.  I am still not sure what it is that we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77022.html](http://www.nuforc.org/webreports/reports/077/S77022.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Keaau (HI) reported seeing craft that fit the description of some 'Circle' over a period of approximately several minutes - several minutes minutes.</sub><blockquote><sub>Looked like a moving medium size star, high altitude, no sound.I had gone outside with my coffee to look at the half moon setting in the east. The sky was clear and it was nice outside. I turned around to look at the stars in the northern sky when I saw that one of the them was moving. It kept going, and went across the whole sky in a couple minutes. It did not move erratically. No sound. Very high up, it looked same size as a medium star. Looked like yellow star, with flashes of other colors. Just last month I saw a similar object, about the same time in the morning. It was coming from the opposite direction. Are these planes, or satellites or what? How can I find out?((ADDENDUM SUBMITTED BY VIGILANT READER))------------------------http://www.nuforc.org/webreports/035/S35581.html                                   Start                    Max Altitude              EndName                 Mag    Time      Alt. Az.    Time       Alt. Az.       Time       Alt.  Az.Resurs 01 Rocket 2.7    05:09:39 10Â° N      05:14:04 75Â° WNW    05:18:30 10Â° SSW http://home.earthlink.net/%7Ezeus001002/keaau5.jpg((END COPIED MATERIAL))((NUFORC Note:  Hence, possible satellite.  We express our gratitude to the individual who provided the added information, and who wishes to remain anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35581.html](http://www.nuforc.org/webreports/reports/035/S35581.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/162/S162744.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162416.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163057.html)
-- [344](http://www.nuforc.org/webreports/reports/162/S162625.html)
-- [343](http://www.nuforc.org/webreports/reports/162/S162384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
