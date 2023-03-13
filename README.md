@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:27 on 13 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:27 on 13 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Centerville (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 3000.0 - 3000.0 minutes.</sub><blockquote><sub>Bright flashing light in the skyOn 03/13/18 and 03/14/18, my wife and I saw a light to the SW/W direction.  The light was unusually bright and changed colors:  Red, White, Blue, Green, and purple.  The object was semi-stationary, moving only slightly over time and not with stars or aircraft.  It moved in abnormal directions such as up and down to its original position or diagonally and back to its original position.  The lights were very prominent, aircraft moving in the general area moved quite differently and had obvious differences in appearance.  Cross reference to star charts and visible planets showed no objects expected to be in the area.the object stayed put for about two hours then suddenly moved towards the direction of Orion's bottom right star and disappeared.  This event happened two night in a row in the same manner.  We noticed our dogs taking notice as well and acting differently from usual.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139183.html](http://www.nuforc.org/webreports/reports/139/S139183.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1973, an anonymous witness in New Orleans (LA) reported seeing craft that fit the description of some 'Circle' over a period of approximately approx. 2hrs. - approx. 2hrs. minutes.</sub><blockquote><sub>My husband and I stopped early one morning on a highway to look at a bright object, the object was a large round  silver thing.My husband at the time, and I were coming from Florida on one of our visits home.  We were driving from New Orleans over the spillway around 4AM.  There was no traffic at that time.  We both commented on how empty the roads were at that hour.  As we drove on we noticed a bright white light on the other side of the spillway (the higway is seperated and elevated).  We decided to stop as the light was so unusual and unexpected.  It seemed to be sitting in amongst the trees.  We got out of our car to get a better look and it dawned on both of us that there was no sound.  There were no frogs croaking, no bird sounds and no sound at all coming from whatever that thing was across from us.  It appeared to be silver and round.  It had large white lights at intervals all around it.  The lights shown down.  My husband and I stood looking at the thing in the dark just mesmerized.  Suddenly we were standing there and it was light.  I don't know how much time passed but when we first stopped it was dark and around 4:30 or so.  It was now light and about 5:30 or 6AM.  My husband and I both just looked at each other and almost together we said "let's get out of here" and we did.  We never talked about that.  Every so often I would bring it up but he never really wanted to talk about it.  I've told friends about it when talk of UFO's come up.  I always say that I believe in them because I saw one.  Maybe even went into it but have no memory of it.  My ex-husband is an MD and I am a student now, going back to school to hopefully get my law degree after being out over 20 years.  I have nothing to gain by telling this story.  I just believe that what we saw was a UFO.  It doesn't scare me.  I don't have nightmares and I've never had such a thing happen again.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23369.html](http://www.nuforc.org/webreports/reports/023/S23369.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/162/S162744.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162416.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163057.html)
-- [344](http://www.nuforc.org/webreports/reports/162/S162625.html)
-- [343](http://www.nuforc.org/webreports/reports/162/S162384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
