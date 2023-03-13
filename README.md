@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:30 on 13 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:34 on 13 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO over Phoenix 1997I just saw the show on tv called UFO over Phoenix or something similiar speaking about flares from airplanes. I lived around 35th ave and deer valley at the time and was 16-17.  I was jokingly looking through a cardboard telescope I had made at the sky when I saw the v shaped UFO.  If I recall the lights looked red, not sure if they even were testing stealth bombers at the time. I for a fact saw the v shaped lights and saw it very slowly fly over my house.  It was also completely silent. I pointed for my mom to look and she saw it also.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64542.html](http://www.nuforc.org/webreports/reports/064/S64542.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Milwaukee (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Very loud noise and bright light11:00 PM  I work at home in my basement.  Went upstairs to get a snack & watch a little Jay Leno.  Got ready to go downstairs.  Heard a rumbling noise that made me curious but had lots of computer work to do so I didn't go outside to investigate. I work at my computer with ear phones listening to music.  Vaguely aware that the rumbling noise was louder and vibrating the house.  My wife was helping our youngest son with his homework.  They were on the 2nd floor.  My wife called me on the phone and said I should come up and figure out what was making noise.  By the time I came up stairs the noise suddenly stopped.  My 15 yr old daughter came out of her bedroom where she had just turned out the lights to go to bed.  The noise was so loud that she thought she would look our her window.  She said Holy S**t I think I just saw a meteor.  She described a light as big as a basket ball twice the heighth of trees flash accross the sky.  As soon as she saw the light the noice stopped abruptly.  My wife's ears were hurting because of the loud noise.  She had the sensation that it was passing slowly over our house from a SW to NE direction.The next day I talked to several neighbors who all reported hearing the loud sound.  One of our neighbors looked out the door and didn't see anything but said the sound was deafening and frightened her shaking the whole house.  Another neighbor said she went all the way out to her drive way and looked up in the sky (clear night) and saw no lights but couldn't figure out what was making such a loud noise (like a squadron of jumbo jets.)  Two weeks later I talked to a friend about the noise and him and his wife said they heard something just like I described on that same night.  My friend lives about 5 miles SW of where I live. I called the airport.  They said they were testing engines at about that time. But I hear them testing engines all the time.  Seldom more than 2 or 3 minutes at a time. Since Mitchel international airport is 3 miles away the sound never is very loud.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17231.html](http://www.nuforc.org/webreports/reports/017/S17231.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/162/S162744.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162416.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163057.html)
-- [344](http://www.nuforc.org/webreports/reports/162/S162625.html)
-- [343](http://www.nuforc.org/webreports/reports/162/S162384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
