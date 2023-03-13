@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:19:43 on 13 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:33 on 13 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Belle Glade (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Belle Glade, Florida—March 13, 2006	  Driving north from Key Largo, Florida around the time of three A.M., we (my boyfriend, Fred Brosnihan) passed what it appeared to be a quiet, very dark everglades area.  The only lights around us were the stars in the sky, and everything else was pitch-black darkness surrounding us.  As we approached the town of Belle Glade to the right of me high up in the sky about three hundred yards away were little rows green lights in the form of a diamond with a reddish hue on the outer edges.  This diamond-like object was about what appeared on the ground at eye level to be about the size of a child’s size small diamond kite. As I was trying to make out what those lights could possibly be, the form of lights seemed to start falling like a leaf in the wind and then before I knew it, the whole lighted phenomenon disappeared without a single trace.  It moved as if it was as light as a feather that was rocking back and forth in the wind in a carefree fashion.  I can’t explain what this could have been, as I have seen nothing like this before.  My boyfriend who was in the drivers seat had also seen what I had seen, although he had seen the reflection of this through the front window of the car.  I don’t know what this sighting was, but it was beautiful and remarkable at the same time and I was disappointed it went away so quickly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49694.html](http://www.nuforc.org/webreports/reports/049/S49694.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Cleveland (suburb) (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saw a cloud-like object making swift, wide, regular circles over and over.While taking our dog out, I saw one round "cloud" that was lit up brighter than the rest of the sky. This "cloud" was moving very quickly in an "orbiting fashion" against a slow moving sky.  While there were other clouds, this one was different and wasn't behaving as the rest were. I've never seen anything like it. I can only compare its movement to the movement shown on radar screens seen in movies. I stopped watching as I was the only one home and a little nervous!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49615.html](http://www.nuforc.org/webreports/reports/049/S49615.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/162/S162744.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162416.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163057.html)
-- [344](http://www.nuforc.org/webreports/reports/162/S162625.html)
-- [343](http://www.nuforc.org/webreports/reports/162/S162384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
