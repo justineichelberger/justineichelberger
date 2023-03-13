@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:49 on 13 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:22 on 13 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Florence (OR) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I observed a cigar shaped craft sitting in the south-west sky about 40 degrees up. It didn't appear to be moving. I had the feeling it was a tourist craft. I went home to look at it closer with binoculars and seek other possible witnesses, but by the time I got home I forgot to look again.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36123.html](http://www.nuforc.org/webreports/reports/036/S36123.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Gila Bend (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>sUSPICIOUS ACTIVITY IN THE SKY.5 OBJECTS AT FIRST 3 IN ONE GROUP, 2 LOWER ON THE HORIZON.  THE THREE LINED UP INSTANTLY AND THEN DISAPPEARED.  THE TWO ON THE BOTTOM STAYED BEHIND AND SEEMED TO CHANGE INTENSITY OF THE LIGHT.  tHEY ALL APPEARED TO RADIATE INTENSE AMOUNTS OF HEAT ,AS THE AREA AROUND THEM SEEMED BLURRY.  tHE MOVEMENTS WERE UNNATURAL AND THEY SEEMED TO APPEAR AND THEN REAPPEAR AT HUGE DISTANCES ACROSS THE HORIZON.  tHEY APPEARED TO BE ZIG ZAGGING AROUND.  tHE OBJECTS WERE ORANGE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22215.html](http://www.nuforc.org/webreports/reports/022/S22215.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/162/S162744.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162416.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163057.html)
-- [344](http://www.nuforc.org/webreports/reports/162/S162625.html)
-- [343](http://www.nuforc.org/webreports/reports/162/S162384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
