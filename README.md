@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:28 on 13 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:37 on 13 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lawrenceville (GA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 120</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154695.html](http://www.nuforc.org/webreports/reports/154/S154695.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Lynnwood (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Amber light formation in sky above Lynnwood, WA at 19:07 on 3/13/10While driving north on SR 99  (Aurora Ave N) I had just crossed into Edmonds, WA, when I noticed a formation of amber colored lights in a N/NE direction.  The location would be approximately Lynnwood, WA.  There appeared to be a diamond pattern of lights somewhat close together and then two single lights, one off to the right of the diamond and one off to the left.  I called a friend's cell phone to see if they could see it from their location so I do have a phone record of the occurence.  After a short time period of maybe 30 seconds, the lights began to disappear one by one but all were gone within 10 seconds.  I was on my way to a small party at the home of friends and told the host about the sighting as soon as I arrived.  I must say the event was strikingly similar to those I have seen on TV shows or websites.  I am not a UFO chaser or even believer but this certainly did appear to be real to me.  I am hoping someone could corroborate my story. I did call the Lyn! nwood Police Dept to see if anyone else had reported seeing it but the person who answered the phone hadn't heard any other reports.I also scanned the local news on the chance that someone called the TV stations but didn't find anything.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74660.html](http://www.nuforc.org/webreports/reports/074/S74660.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/162/S162744.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162416.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163057.html)
-- [344](http://www.nuforc.org/webreports/reports/162/S162625.html)
-- [343](http://www.nuforc.org/webreports/reports/162/S162384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
