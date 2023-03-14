@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:11:02 on 14 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:36 on 14 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Voorburg (Netherlands) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Two different shaped lights changing colors in a pattern,frequently at night during 15-20 minutes.I have seen a circular object high in the sky, about 50 degrees up from the viewpoint,the other one was bit smaller and located lower. It looked like star but was bigger and emitted much stronger lights and had some kind of sphere around it. The object blinked frequently  and changed colors every time . There was a regular pattern. From the moment I saw, it started with red, then changing to pink,green and then light blue.The other object behaved in an exactly the same way but was smaller in shape.After about 15 minutes the first light dissapeared and the other light followed soon after couple of minutes...((NUFORC Note:  Source of report elects to remain semi-anonymous; provides e-address only, which indicates that the report was submitted from an address in Russia.  Possible hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55721.html](http://www.nuforc.org/webreports/reports/055/S55721.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Meredith (Australia) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I'm just letting you know i when i pulled over i drew the ufo i saw.  So if you'd like it just let me know how i can get it to you, Yours sincerely, ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48799.html](http://www.nuforc.org/webreports/reports/048/S48799.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/162/S162438.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162371.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162615.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162359.html)
-- [300](http://www.nuforc.org/webreports/reports/162/S162365.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
