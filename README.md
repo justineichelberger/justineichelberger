@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:34 on 14 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 14 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Taylorsville (UT) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I witnessed a craft with 5 or 6 orange lights on the front and flashing blue and white lights on the sides it hovered overhead for seveOn Tuesday March 14, 2017, around dusk I was relaxing in my hot tub.  I glanced up at the sky and noticed what I assumed was a plane traveling from south to north (towards me).  As it got closer I noticed 5 or perhaps 6 solid orange lights on the front of the craft.  The sides of the craft had blue and white flashing lights.  As I continued watching trying to figure out what it was I was seeing the craft stopped moving and began hovering directly over me.  By then the sky was darker and I couldn't make out the shape of the craft I could only see the lights.  It stayed in that position for several minutes so my instinct was to wave, so I did and a few seconds later it turned off slightly to the east.  I thought it was leaving until it then backed up and repositioned itself directly overhead again.  It stayed hovering for a few more minutes, so naturally I waved again and once again the craft began moving, only this time it curved off to the west and then reversed dire! ctly back overhead.At this point I knew this was something highly unusual and I was getting both nervous and anxious and wanted my family members who were in the house to come out to witness whatever this was.  Still keeping my eyes on this craft I got out of the hot tub and walked over to close the lid which only took a few seconds then glanced back up to the sky and the craft was GONE! I couldn't believe it.  I walked out further in the yard to try and spot it and there was not a trace of it.I have no idea what I saw that night but I don't believe it was a drone as it was the size of an aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133202.html](http://www.nuforc.org/webreports/reports/133/S133202.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in North Brunswick (NJ) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Explosion of light in North BrunswickAs my husband and I were tucking in our son, he noticed a light in the sky about 300 yards away. We are close to an airport and have many aircraft that fly overhead so we thought nothing of it. All of a sudden it was getting brighter, at the same time the power went out in our area and this small light erupted in a bright flash of blue light, it looked as if night was transformed into day. The explosion of light went outward instead of upward. As soon as the bright flash happened the power came right back on. Almost as if something sucked up all the electricity for the explosion of light because the electricity came back on ASAP. That doesn't happen if it is being worked on.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62201.html](http://www.nuforc.org/webreports/reports/062/S62201.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/162/S162438.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162371.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162615.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162359.html)
-- [300](http://www.nuforc.org/webreports/reports/162/S162365.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
