@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:02:59 on 14 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:01:00 on 14 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Isleboro (ME) reported seeing craft that fit the description of some 'Egg' over a period of approximately Picture - Picture minutes.</sub><blockquote><sub>Round White Ball over Water in Isleboro, MaineI saw an ad on a website claiming a property listed by a famous movie star was listed in Isleboro, Maine and wanted to have a look. While browsing the realtor.com websites pictures I came across two that stood out as it has an object in the sky that is unrecognizable to me.It looks as though it could possibly be the moon but looks much closer and after zooming in it looks to have antennas or something coming from the top and bottom. This is the link to that picture.https://ap.rdcpix.com/11279555350703dd03f8547cb6801f4fl-m786751955od-w1024_h768.webp   This is a link to the realtor.com websites listing.https://www.realtor.com/realestateandhomes-detail/299G-Drexel-Ln_Islesboro_ME_M40877-62754 The object is in pictures 37 and 38.I would be interested in hearing from you what your conclusions are unless this is something common. Thank You for all you do.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162359.html](http://www.nuforc.org/webreports/reports/162/S162359.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in South Porcupine (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I was lucky enough to grab my camera and have provided YouTube like to the original footage, written and oral comments as well.http://www.youtube.com/watch?v=I-_Q8yA2LG0  My grand son and I were chatting on our cell phone 1000 kl apart and when I told him what to look for in the night sky, then he too saw it as we spoke.  I believe he took a picture with his I-phone.((NUFORC Note:  Possible sighting of planets?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87680.html](http://www.nuforc.org/webreports/reports/087/S87680.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/162/S162438.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162371.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162615.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162359.html)
-- [300](http://www.nuforc.org/webreports/reports/162/S162365.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
