@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:54 on 14 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:34 on 14 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Kendall (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>A grey spherical UFO with flashing lights flew across the sky lightning fast about 200 yards from me.I witnessed a UFO sighting with my boyfriend, in western New York between 9:00PM-9:10PM.Description- *What I saw was spherical.*It looked like it had three parts.*The color was grey.*It had rapidly flashing lights.*The lights were the color yellow.*The lights were brighter than the street lights.*Height: Just above the tree line.*Distance from us: approximately 200 yards away.*Clear skies  *We were outside  When we looked up it was stationary and rotating.  Then within seconds it flew across the sky moving upward.  The UFO was way faster than a plane.The other witness will also be submitting a report.  Thank you for your time.  I'm very happy I found your website, we were not sure where to report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117809.html](http://www.nuforc.org/webreports/reports/117/S117809.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Taylorsville (UT) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I witnessed a craft with 5 or 6 orange lights on the front and flashing blue and white lights on the sides it hovered overhead for seveOn Tuesday March 14, 2017, around dusk I was relaxing in my hot tub.  I glanced up at the sky and noticed what I assumed was a plane traveling from south to north (towards me).  As it got closer I noticed 5 or perhaps 6 solid orange lights on the front of the craft.  The sides of the craft had blue and white flashing lights.  As I continued watching trying to figure out what it was I was seeing the craft stopped moving and began hovering directly over me.  By then the sky was darker and I couldn't make out the shape of the craft I could only see the lights.  It stayed in that position for several minutes so my instinct was to wave, so I did and a few seconds later it turned off slightly to the east.  I thought it was leaving until it then backed up and repositioned itself directly overhead again.  It stayed hovering for a few more minutes, so naturally I waved again and once again the craft began moving, only this time it curved off to the west and then reversed dire! ctly back overhead.At this point I knew this was something highly unusual and I was getting both nervous and anxious and wanted my family members who were in the house to come out to witness whatever this was.  Still keeping my eyes on this craft I got out of the hot tub and walked over to close the lid which only took a few seconds then glanced back up to the sky and the craft was GONE! I couldn't believe it.  I walked out further in the yard to try and spot it and there was not a trace of it.I have no idea what I saw that night but I don't believe it was a drone as it was the size of an aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133202.html](http://www.nuforc.org/webreports/reports/133/S133202.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/162/S162438.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162371.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162615.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162359.html)
-- [300](http://www.nuforc.org/webreports/reports/162/S162365.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
