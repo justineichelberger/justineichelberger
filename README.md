@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:13:26 on 14 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:27 on 14 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Greensboro (NC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I saw one or two silver, elongated objects moving across the sky and then they just darted away and vanished.I was driving south on Hwy 220 toward Greensboro out of Virgina. It was still daylight. An object appeared in front of me in the distance and was moving in a very fluid manner across the sky. It was silver, elongated and left no fuel trail like a plane. There were two airliners in the air at what seemed to be about the same altitude and they were leaving trails, but the object was not. I kept watching it and then it just seemed to dart straight up and vanish. A few minutes later I saw another object that looked exactly the same. I don't know if it was the same object as before or if it was a second object, but its characteristics were the same as the first. The second object stayed in the sky moving to the west for just a few minutes and then it darted up and away like the first object. It was difficult to tell the altitudes of the objects, but I would say it was between 10,000 - 25,000 feet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35768.html](http://www.nuforc.org/webreports/reports/035/S35768.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1985, an anonymous witness in Bellefontaine (St. Louis County) (MO) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Coming home from taking my son to scouts, noticed bright lights in the western sky. The lights were too bright, too close and too low to be airplane lights.I pulled into my driveway and saw that they were stationary. The first one flew over the house behind me. It had three big white lights which changed to little red and white blinking lights. The second one flew directly over me. It looked light a plane without a fueselage. The lights were the same. The third one remained in original position for an hour. Called my daughter to see. Called Lambert Airport. Tower called back; they had two faint stationary targets on radar. (Objects were between witness and Lambert, due west.)Jennings and Moline police saw objects. Said they would send up helicopter. Commercial aircraft in area could hear engine noise and tell difference. Could see helicopter but copter did not see object which was above him. [Uploaded by inv. NOTE: This report was taken March 1985. Neither wit- ness had ever heard of the Hudson Valley Sightings or a triangular shaped UFO. The mother drew a "classic" boomerang/chevron. The daughter drew a triangle resembling the drawing of Millstadt, Illinois Police officer Craig Stevens,(See NIDS report this web site for Stevens' picture.) which greatly differed from her mother's depiction.]((NUFORC Note:  We believe that there were many sightings reported in Missouri in 1985 of anomalous objects.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11949.html](http://www.nuforc.org/webreports/reports/011/S11949.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/162/S162438.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162371.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162615.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162359.html)
-- [300](http://www.nuforc.org/webreports/reports/162/S162365.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
