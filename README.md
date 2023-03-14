@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:35 on 14 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:32 on 14 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Watertown (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Ufo appeared just above mars and continued straight until eventually stopping.We were looking through a telescope at mars and a white light passed just above mars.  At first we thought it was a satallite.  As it got further away it slowed and eventually stopped moving altogether.  I've seen satellites before and I've never seen one do what this object did.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87827.html](http://www.nuforc.org/webreports/reports/087/S87827.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Honolulu (HI) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Flying Cylinder moving in broad daylight from West to East.Standing on Waikiki beach midafternoon on a Sunday.  A moderatly moving cylinder-shaped object moved from West to East at about 1000 ft. up and about 1/2 mile away over the ocean.  That altitude and distance makes it difficult to approximate a size, but my guess is about 5ft in diameter and 30ft long.  The wind was very strong that day at about 15-20 knts, from the Northeast.  At first I thought it was a balloon on its side, but it was not bouncing vertically in the gusty wind.  It was quiet.  It was moving smoothly due West, against a quartering headwind that was gusty and strong.  With the West sun shining directly on it, it reminded me of a white hotwater heater flying horizontally, on its longside, with the end of it pointing toward the beach.It continued till it came about even with Diamond Head crater, in the distance.  It appeared to stop, against the strong winds.  Then, it moved toward Diamondhead without turning.  It moved Northward with the narrow end of the cylinder leading the way.  It stopped close to Diamondhead for less than a minute, then continued West, flying broadside again.  Finally, Diamond head blocked my view of it.The flight path normally used was clear of airliners that day.  Due to the strong Northerly winds, the airliners were much farther South, landing to the North.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87872.html](http://www.nuforc.org/webreports/reports/087/S87872.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/162/S162438.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162371.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162615.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162359.html)
-- [300](http://www.nuforc.org/webreports/reports/162/S162365.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
