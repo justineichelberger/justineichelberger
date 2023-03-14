@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:41 on 14 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:28 on 14 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Dunnellon (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>It was about 1:35 in the morning,and i wasspending the night at a friends house, wegot bored because there was nothing to do,so we went outside and were walking aroundtalking for about 10 Minutes and i look upand there is a very, very small light slowlycreeping along, so i told my friend, and hesaid its nothing, so thats when i thought,then it started getting bigger, and bigger,so i told told my friend again that it issomething, and not a star, then he looked atit again  and said i was right it wasnt awe both kept walking, then it just all of ajust lit up very bright, and started movingin an oval pattern, then it lit up evenbrighter than before, stopped, and shot dimbeam of light from the underside. About thattime i said "Name deleted)), we better go, NOW!!"And the whole time we were running back hishouse it kept up with us, we sat in his roomand watched if for five more minutes beforeit just shot off at an unbelievable speednorth. and that was the last time either ofus ever saw it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02313.html](http://www.nuforc.org/webreports/reports/002/S02313.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Council Bluffs (IA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 133</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162624.html](http://www.nuforc.org/webreports/reports/162/S162624.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/162/S162438.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162371.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162615.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162359.html)
-- [300](http://www.nuforc.org/webreports/reports/162/S162365.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
