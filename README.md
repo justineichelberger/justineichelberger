@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:44 on 14 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:11:02 on 14 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Coleman (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Jagged and erratic movement and hovering!Me and my girlfriend saw a bright light in the sky.  We thought it was just a really bright star, but then it began to move kind of erratically!  The light was white but almost like you could see more than one light on the object of interest and almost like you could see it turning… it would hover for a min or so and then move again.. still seeing this and it is now 1:08am!  Wish I had my telescope to see if I could see more or learn more about it!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117817.html](http://www.nuforc.org/webreports/reports/117/S117817.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Voorburg (Netherlands) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Two different shaped lights changing colors in a pattern,frequently at night during 15-20 minutes.I have seen a circular object high in the sky, about 50 degrees up from the viewpoint,the other one was bit smaller and located lower. It looked like star but was bigger and emitted much stronger lights and had some kind of sphere around it. The object blinked frequently  and changed colors every time . There was a regular pattern. From the moment I saw, it started with red, then changing to pink,green and then light blue.The other object behaved in an exactly the same way but was smaller in shape.After about 15 minutes the first light dissapeared and the other light followed soon after couple of minutes...((NUFORC Note:  Source of report elects to remain semi-anonymous; provides e-address only, which indicates that the report was submitted from an address in Russia.  Possible hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55721.html](http://www.nuforc.org/webreports/reports/055/S55721.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/162/S162438.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162371.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162615.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162359.html)
-- [300](http://www.nuforc.org/webreports/reports/162/S162365.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
