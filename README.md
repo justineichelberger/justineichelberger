@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 14 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:34 on 14 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in North Brunswick (NJ) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Explosion of light in North BrunswickAs my husband and I were tucking in our son, he noticed a light in the sky about 300 yards away. We are close to an airport and have many aircraft that fly overhead so we thought nothing of it. All of a sudden it was getting brighter, at the same time the power went out in our area and this small light erupted in a bright flash of blue light, it looked as if night was transformed into day. The explosion of light went outward instead of upward. As soon as the bright flash happened the power came right back on. Almost as if something sucked up all the electricity for the explosion of light because the electricity came back on ASAP. That doesn't happen if it is being worked on.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62201.html](http://www.nuforc.org/webreports/reports/062/S62201.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Garden Grove (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>A large amount of unidentified flying object over Disneyland Anaheim Orange County((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96699.html](http://www.nuforc.org/webreports/reports/096/S96699.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/162/S162438.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162371.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162615.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162359.html)
-- [300](http://www.nuforc.org/webreports/reports/162/S162365.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
