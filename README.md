@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:28 on 14 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:54 on 14 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Bozeman (MT) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright light in sky then fadesAt approximately 2030 hrs MST, I took my dog out for his evening walk.  As i walked into parking lot of my apartment building, I looked into the sky as I do every night.  I noticed a bright light in the sky moving due east.  I watched this bright light for about 5 minutes as it moved over the Bridger mountains between Bozeman and Livingston Montana.  While I was watching it, I was comparing it to a plane in the sky flying NW.  The plane was flying faster and at a higher altitude than the light.  The light was flying very slowly and did not have any of the standard marking lights that airliners have. (ie. red and blue wing lights and the blinking belly light)  After about five minutes or so it then faded out. I didn't see it for the rest of the walk.  When I came back inside I checked Nasa's site to see where the ISS was in comparison to my location.  It was between South America and Africa at the time.  I should also mention that the light was flying at a higher altit! ude than a Japanese flying lantern can get and the light was flying slower than a meteor.  I called my mother so she could witness the event but the light faded before she had a chance to go the an east facing window.  I was happy to have seen this event and hope to see another in the future.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74659.html](http://www.nuforc.org/webreports/reports/074/S74659.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Kendall (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>A grey spherical UFO with flashing lights flew across the sky lightning fast about 200 yards from me.I witnessed a UFO sighting with my boyfriend, in western New York between 9:00PM-9:10PM.Description- *What I saw was spherical.*It looked like it had three parts.*The color was grey.*It had rapidly flashing lights.*The lights were the color yellow.*The lights were brighter than the street lights.*Height: Just above the tree line.*Distance from us: approximately 200 yards away.*Clear skies  *We were outside  When we looked up it was stationary and rotating.  Then within seconds it flew across the sky moving upward.  The UFO was way faster than a plane.The other witness will also be submitting a report.  Thank you for your time.  I'm very happy I found your website, we were not sure where to report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117809.html](http://www.nuforc.org/webreports/reports/117/S117809.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/162/S162438.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162371.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162615.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162359.html)
-- [300](http://www.nuforc.org/webreports/reports/162/S162365.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
