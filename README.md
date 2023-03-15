@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:42 on 15 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:27 on 15 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in Millers Falls (MA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Alien sightingWe were Driving home from Greenfield, MA on Route 2, an unlit, two lane highway in rural massachusetts in March 1972.  On this route between Millers Falls and Greenfield are towers or high intensity electrical wires that drape across the landscape for miles. Just off the highway at about 50 feet, we saw an unusual figure at the   base of one of these steel towers.  The shape looked human (two arms and two legs) however, the whole body glowed.  Imagine a dark room and you are flipping channels on the TV - the figures resembled the "snow" on the "inbetween" channels of a tv.  It was so bright.  We stopped our car at the edge of the road.  It started to walk toward us - we were petrified and quickly left.  Looking behind you can see the figure twisting to follow our departure.  We promised never to tell anyone for fear that people would think we were nuts.  Some weeks later, that same sighting was reported in the Enquirer solidifying that we would really never tell anyone.  However, must exposure  today warrants me telling my story without fear.((NUFORC Note:  Date in March 1972 is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17085.html](http://www.nuforc.org/webreports/reports/017/S17085.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Benson (AZ) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>White cigar-shaped object flew straight into mountains and between peaks without stoppingWhile traveling north on State Highway 90 between Huachuca City and Benson, I observed a white cigar-shaped object (which I estimated to be about the size of a small aircraft) travel in a staight line east to west across the desert near Kartchner Caverns State Park. It was moving at a high rate of speed, and rather low in altitude, and in fact flew right between the peaks of the Whetstone Mountains without changing course or altering its trajectory in any way. It just seemed very odd to me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16889.html](http://www.nuforc.org/webreports/reports/016/S16889.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
