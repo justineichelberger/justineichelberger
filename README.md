@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:41 on 15 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:42 on 15 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Wethersfield (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>On back to back nights, as a teenager hanging out with my friends we all witnessed strange activity in the sky over Wethersfield.  Walking up Nott Street on approx.  The night of the 15th something with an unusual light pattern flew over head very quickly and we all thought it very odd.  The following night my friend Tony and I both witnessed a bright blue glowing circle in the sky that was there for about 15 seconds and disappeared quicker than we could look at each other and exclaim, "Did you see that?".  I found this page and remembered this experience.  When I looked and saw another spotting in Wethersfield at that time I had to share this story.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149446.html](http://www.nuforc.org/webreports/reports/149/S149446.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in Millers Falls (MA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Alien sightingWe were Driving home from Greenfield, MA on Route 2, an unlit, two lane highway in rural massachusetts in March 1972.  On this route between Millers Falls and Greenfield are towers or high intensity electrical wires that drape across the landscape for miles. Just off the highway at about 50 feet, we saw an unusual figure at the   base of one of these steel towers.  The shape looked human (two arms and two legs) however, the whole body glowed.  Imagine a dark room and you are flipping channels on the TV - the figures resembled the "snow" on the "inbetween" channels of a tv.  It was so bright.  We stopped our car at the edge of the road.  It started to walk toward us - we were petrified and quickly left.  Looking behind you can see the figure twisting to follow our departure.  We promised never to tell anyone for fear that people would think we were nuts.  Some weeks later, that same sighting was reported in the Enquirer solidifying that we would really never tell anyone.  However, must exposure  today warrants me telling my story without fear.((NUFORC Note:  Date in March 1972 is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17085.html](http://www.nuforc.org/webreports/reports/017/S17085.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
