@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:26 on 15 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:27 on 15 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Wayland (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright yellow light  accelerates above road in Wayland, MA, to a high speed noiselessly.Bearing east on rt 30, (commonwealth ave) and slowing to turn south on Oak st.  a passenger and myself saw a bright golden/yellow light in the distance seemingly a couple hundred feet above the road and following the path of the road.  It was difficult to guage the distance and the light was not flashing so I immediately pulled over to see what it was since it was moving fairly slowly.  As I pulled over and opened my window I stuck my head out to see the light immediately accelerate at an incredible rate over my vehicle and continue (possibly) following the path of the road.  During the initial part  of the siting we watched the light for perhaps 15-20 seconds.  After the light accelerated I jumped out to see where it was going and it was gone from sight in only a few seconds. It was a quiet night and we did not hear any sounds from the object whatsoever.  Less than a minute later a police officer pulled over and questioned us.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49352.html](http://www.nuforc.org/webreports/reports/049/S49352.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Haymarket (VA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>UFO spotted jumping in the sky near Dulles Airport in VirginiaI was on my way to work when i noticed a light literally jumping and bounceing around the sky.  It was a bright light like a star and it was bouncing like a basketball.  I recorded seconds of it on my video tape.  It was on a tripod.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51057.html](http://www.nuforc.org/webreports/reports/051/S51057.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
