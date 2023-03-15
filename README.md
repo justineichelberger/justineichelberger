@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:31 on 15 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:25 on 15 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Springfield (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>I seen was what looked like a long box car just barely noticeable cross from right to left...I am curious if anyone, approximately a month ago, seen maybe a triangle box shaped from the side over the fed prison in spfld mo. around just after dusk moving in an easterly direction. Right after 3 choppers flew over the same area with lights on expect mil. barely above tree level? I didn't see much I was at the stop light by Walgreen’s and just started to go on green when I seen a shadow which looked to almost match the sky crossed from the prison heading east right after three choppers in formation followed, all I seen was what looked like a long box car just barely noticeable cross from right to left imp 48 and asked my girlfriend if she seen it she didn't she said seen what I said a  ufo just kidding with her because she thinks I’m nuts for believing there could be something out there besides us.NOTE: The prison is at 2530 Campbell Ave.Report taken by MIG: Missouri Investigators Group. http://ufomig.bravehost.com((NUFORC Note:  We express our sincere gratitude to the MISSOURI INVESTIGATORS GROUP, and to its Director, BARBARA BECKER, for their having shared this report with our Center.  If you have had a sighting in Missouri, please consider contacting that organization, at the website above, to share your sighting with their investigators, in addition to submitting a report to NUFORC.  Thank you!!  PD)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63025.html](http://www.nuforc.org/webreports/reports/063/S63025.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Piqua (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>appeared ,moved very fast, lost altitude, vanished.it was seen at the upper vally jvs in piqua ohio at about 2:30 pm.the craft was spherical and very shiny it was at an elivation of about 2000ft. it hoverd in one spot for about 4 minuits. it shot off eastbound suddenly. minuits later it returned at a lower altitude moving slowly in circles. visual contact was lost when i had to enter a building. it was never seen since((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28175.html](http://www.nuforc.org/webreports/reports/028/S28175.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
