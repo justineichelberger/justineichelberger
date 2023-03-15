@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:25 on 15 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:28 on 15 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Piqua (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>appeared ,moved very fast, lost altitude, vanished.it was seen at the upper vally jvs in piqua ohio at about 2:30 pm.the craft was spherical and very shiny it was at an elivation of about 2000ft. it hoverd in one spot for about 4 minuits. it shot off eastbound suddenly. minuits later it returned at a lower altitude moving slowly in circles. visual contact was lost when i had to enter a building. it was never seen since((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28175.html](http://www.nuforc.org/webreports/reports/028/S28175.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in St. Augustine (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>huge flying triangleso last night I was at work (3rd shift) and was outside in an area where there was no lighting.  the sky was cloudless and dark as the moon was still on the east horizon and had not risen yet. I looked up and saw a "V" formation of lights. there were probably around 10 to 15 lights on each side of the "V".  the lights were all white and were not that bright from my vantage point.  I looked to see the body of the craft but could not make anything out as it was so dark.  however as it flew overhead it blanked out the stars so it appeared to be one solid object.  it looked to be about in the 5-6,000 ft high range and was very BIG. this thing was massive and traveling at a pretty good pace.  there was zero noise.  being that it was early in the evening and clear and flying over major metro areas of palm coast, flagler, and st. Augustine, surely someone else saw this thing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133139.html](http://www.nuforc.org/webreports/reports/133/S133139.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
