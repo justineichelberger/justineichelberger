@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:35 on 15 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:26 on 15 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Dillon (CO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Campfire glow ascended and faded like a dim star in the distance easterly. TwiceLooking SW Dillon we saw a campfire type glow, ascend and disappear to the east.  My son had just left and sure enough, he saw it too while up at the stoplight.  He filmed w/his phone, not good footage.I thought of an afterburner on a jet, ut it was silent. distances are hard to tell.  The light could have been dimming, not getting further away, says my wife.  The light kept getting smaller and faded away like a dim star.It happened twice about 5 minutes apart and lasted 3  or 4 minutes each.  We did not see them down below the mountainous horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80486.html](http://www.nuforc.org/webreports/reports/080/S80486.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Wayland (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright yellow light  accelerates above road in Wayland, MA, to a high speed noiselessly.Bearing east on rt 30, (commonwealth ave) and slowing to turn south on Oak st.  a passenger and myself saw a bright golden/yellow light in the distance seemingly a couple hundred feet above the road and following the path of the road.  It was difficult to guage the distance and the light was not flashing so I immediately pulled over to see what it was since it was moving fairly slowly.  As I pulled over and opened my window I stuck my head out to see the light immediately accelerate at an incredible rate over my vehicle and continue (possibly) following the path of the road.  During the initial part  of the siting we watched the light for perhaps 15-20 seconds.  After the light accelerated I jumped out to see where it was going and it was gone from sight in only a few seconds. It was a quiet night and we did not hear any sounds from the object whatsoever.  Less than a minute later a police officer pulled over and questioned us.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49352.html](http://www.nuforc.org/webreports/reports/049/S49352.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
