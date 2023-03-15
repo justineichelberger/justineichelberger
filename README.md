@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:27 on 15 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:25 on 15 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Green Valley (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Date is approximate, and viewed a similar event about two weeks before this one, but in different part of the sky.I stepped out of my casita to check weather and look at the stars about 2300 hours. (I did this most nights when wintering in Arizona.)  Weather was clear; no clouds.  I was looking west/northwest and at an angle of about 50 degrees watched a small, bright white light blink on and off very quickly followed in one second or so by a much brighter light which lasted only a second.  When the second flash of light ended, I noticed a very dim group of white lights in a triangular pattern move from right to left where the light was just a second ago.  The individual lights were very small, perhaps as small (or smaller) than a small star, and the entire triangular pattern would have been entirely covered by the the fingernail on my pinky finger held at arm's length, so if that light pattern indicated a vehicle, that vehicle was at a great altitude which I'm estimating at 30,000 feet.About two weeks before this event, I witnessed only one bright light blink on and then off in about 1 second and at an angle of about 35-40 degree while I was looking directly south. There was only that one light during that event, and I noticed no triangular pattern of lights after the flash. I noticed no sound during either event.I checked to see if a rocket had been launched in California at the time of the event mentioned first above, but I don't believe a rocket was launched at that time.I am a retired industrial sales manager who winters in Arizona for a couple of months each year.  I have good eyesight.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142202.html](http://www.nuforc.org/webreports/reports/142/S142202.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Normal (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Triangular Space craft hovering over Normal, ILSaw a Triangular Shaped Craft with four white lights on the sides and one red light on the bottom hovering above houses.  When I rolled down my window I didn't hear any sound.  I attempted to turn my van around but by the time I did, the craft had sped away from sight.  It drifted away slowly at first then just shot off at a very great speed.  The White lights were very bright and the craft itself was dark and seemed to be large.  It was also hovering not so high in the air, above the tree line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49661.html](http://www.nuforc.org/webreports/reports/049/S49661.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
