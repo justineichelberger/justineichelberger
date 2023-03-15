@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:45 on 15 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:22 on 15 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Anderson (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Large unbelievably fast moving object that was like looking through a smudge on glass or a pool of water in the sky at night.At approximately 21:45 on March 15, 2012 there was 3 of us standing outside our apartment looking up towards the sky.  We saw a large object sort of triangle shaped, which looked to be a few 100 feet above us.  It was moving to the north west at a very rapid speed and completely silent.  The surface of it can only be described as reflective in the night sky.  It appeared to have very dim lights, atleast 3-4, but it was more like it was reflecting the city lights.  It was almost as if you were looking through a smudge on a window, moving at a rate of speed that was indescribable.  Another way to describe it would be like in a Star Trek movie when a Klingon ship was uncloaking.  Like a pool of water going across the sky.  We only saw it for a few seconds and it disappeared beyond the tree line.  Very amazing sight to see.  Wish we could describe it better.  The size was like that of a boeing 757 flying very low.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87702.html](http://www.nuforc.org/webreports/reports/087/S87702.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Bradford (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Three objects King City area.  Two triangular, one flat.  Very bright lights on two.  One stationary, two moving East to West.While preparing to retire for the night, I noticed very bright lights out the window to the south.  The weather; no precipitation, partly cloudy, no moon, stars could be seen.  Observation makes without aid as well as celestron 15*70 binoculars.The objects were brighter than the stars and any aircraft light ever seen.  That's why went outside to observe as this is not what use to seeing.  As we see aircraft all the time day and night.  Typical navigation light patterns.  Went outside to get a better look.  Appeared to be same distance as King City weather radar dome from where I stood.  Saw three objects.  The objects appeared to be different shapes.  Two appeared to be the same.  The shapes were deduced by the lights seen on the craft.  Two seemed to be triangular and one flat shaped.  The triangular ones were multicoloured, red, green, blue, white, amber and the flat shaped only red.  One seemed larger than the other two.  There were no spot lights or beams observed.They first appeared to line up perfectly from east to west.  Middle object appeared to be stationary while east and west object moved around centered  object.  Two objects at first seemed to move SW then would reappear from the east.  Couldn't see them head from west to east.  After about 30 minutes one headed in a SW direction followed by the other (red) 5 minutes later then the larger one.  They all headed SW then there was nothing only to have them reappear 10 minutes later.When reappearing seemed to be further away, still a southerly direction.  After another 10 minutes of moving around they disappeared to the SW again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117843.html](http://www.nuforc.org/webreports/reports/117/S117843.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
