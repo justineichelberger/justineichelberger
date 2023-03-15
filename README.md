@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:28 on 15 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:30 on 15 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in St. Augustine (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>huge flying triangleso last night I was at work (3rd shift) and was outside in an area where there was no lighting.  the sky was cloudless and dark as the moon was still on the east horizon and had not risen yet. I looked up and saw a "V" formation of lights. there were probably around 10 to 15 lights on each side of the "V".  the lights were all white and were not that bright from my vantage point.  I looked to see the body of the craft but could not make anything out as it was so dark.  however as it flew overhead it blanked out the stars so it appeared to be one solid object.  it looked to be about in the 5-6,000 ft high range and was very BIG. this thing was massive and traveling at a pretty good pace.  there was zero noise.  being that it was early in the evening and clear and flying over major metro areas of palm coast, flagler, and st. Augustine, surely someone else saw this thing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133139.html](http://www.nuforc.org/webreports/reports/133/S133139.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Near Virgin, UT (UT) reported seeing craft that fit the description of some 'Changing' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Three lights in a roughly triangular formation, but moving and changing as they rose upward. A single light followed them later.I did not see the objects appear; I turned and they were in midair doing their thing.  Three orangeish lights in a roughly triangular pattern, but the triangle was rotating and shifting as they generally rose up in the air.  I had my camera out already, shooting moonlight photos of the terrain, so I immediately began recording a video.There was no noise from them.  The light appeared to flicker sightly and slowly fade, though s I don't know how far they may have been I can't say this wasn't atmospheric distortion.After about two minutes, the lights were dim enough that my camera could no longer pick them up, though I could still see them myself.A few minutes later, a lone light was visible in the same area of sky, exhibiting the same characteristics. I shot a long exposure photo of this object for context.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145194.html](http://www.nuforc.org/webreports/reports/145/S145194.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
