@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:31 on 15 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:25 on 15 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Park County (CO) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Large Chevron Shaped Object  Slowly Passing OverheadWhile sitting in hot tub on a partly cloudy with waning gibbous moon I noticed a very large chevron-shaped object moving northwest to southeast overhead.  The object had no lights and mostly could only see its moon shadow on the clouds as it passed between the moon and clouds overhead – occasionally could see glimpses of the object between the clouds.  The speed of the object was very similar to the speed of the ISS as it passes overhead.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148210.html](http://www.nuforc.org/webreports/reports/148/S148210.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Lolo (MT) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>The animals were in terror.I was up late reading, had just let my dog inside, when she wanted to go out very badly. I opened the door, and she indicated that I follow her.  Once outside, I heard the horses in our pasture, and the cattle across the road just going nuts with fear, and all of the outside neighborhood dogs barking.  My dog was looking straight up, snarling, and had her fangs bared.  I looked up and saw a single green light.  I watched it for just a few seconds, then I looked down and said to my dog: "I certainly hope you are seeing what I am seeing".  When I looked back up, the light was gone, the horses and dogs in the area were then quiet.  You have to understand that at that time, this was a very rural area.  The next day, I questioned a couple of neighbors, and none of them had heard anything.I was unable to determine how close this light was, there were no reference points, and there was absolutely no sound but for the animals.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32411.html](http://www.nuforc.org/webreports/reports/032/S32411.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
