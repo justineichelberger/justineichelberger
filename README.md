@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:19:07 on 15 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:39 on 15 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Omak (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>UFO flies above and around Omak around 20:00hrs on 3/15/16.My grade school teacher posted on FB to ask if anyone else seen and heard anything weird because they thought they saw a UFO.  My son and I saw jets flying around town and decided to head out of town where there is less light pollution, about 7mi north of Omak on Omak-Riverside Eastside Road, just shy of the Reservation boundary.We stopped the car and shut off the engine.  We got out and looked around for the jets that we saw leave our view from Omak.  We saw one jet coming out of the Northeast, then we saw a faint, blue light zooming out of the west on an intercept course.  They seemed to see each other and both the jet and UFO headed southeast, but then the jet veered west, where the UFO then proceeded Northeast.The UFO could travel really fast compared to the jets.  At times, it seemed like a faint, blue streak.  We stuck around out there for a little bit, but no jets, or UFO's could be seen, or heard and we returned home.The bright moonlight made it hard to see the blue light moving across the night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126395.html](http://www.nuforc.org/webreports/reports/126/S126395.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in DeLand (FL) reported seeing craft that fit the description of some 'Cross' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was on the backside of Blue Lake, looking at the stars with my friend.  I noticed an intense orange circular glow up in the Northern sky.  It was brighter than a star or planet.  I said, "((male name deleted)), look at that intense beautiful light."  The light seemed to dim a bit and start to move in our direction.  Then it veered toward the South East.  As it cruised along, the lights began to change.  The once solid light now looked like the lights on a plane or multiple lights.  The color was still orange but dimmer and smaller.  I almost thought it could be a drone.  I didn’t hear any noise from engines.  We watched as it flew away and disappeared into the distance.  What I neglected to say was that as I observed it I was shooting pictures on my cell phone camera.  I couldn’t really see the UFO through my lens so I just pointed into its direction and took my best shot.  I was astonished when I looked at the pictures I had captured.  It wasn’t at all what I thought I would see.  One craft or meteor or space junk or satellite or UFO whatever it is was appeared almost rock like with sharp rectangular shapes that crossed like wings.  The other object was an oval or almost skeletal in shape.  Another shot of a similar bright white rock with glowing orange shading was similar in shape to a VW bug.  They were flying in tandem.  You can also see the moon in some of my pictures.  To me it has the appearance of an old satellite but I can’t explain the meteor.  Please let me know your thoughts.  Thank you, ((female name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126492.html](http://www.nuforc.org/webreports/reports/126/S126492.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
