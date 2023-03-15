@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:31 on 15 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:04 on 15 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Peekskill (NY) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>At night in sky I saw black triangular v shape object with 3 dim lights on each side gliding for about 30 secs b4 it darted awayWestchester county Yorktowm Heights on the evening 3/15/20 we were looking up at the stars. I saw a triangular  v shaped black object with dim lights (3 on each side) boomerang like. It was very high up and moved like it was gliding but in a weird s shape path and then it darted away.  It was like 30 seconds.  The whole thing was over before I could think what it could be or if it really happened.  Weirdest thing I ever saw in my 56 years.I have seen many drones flying at night and it wasn’t one of them ; or any type of plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154585.html](http://www.nuforc.org/webreports/reports/154/S154585.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Auburn (AL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 00:01 - 00:01 minutes.</sub><blockquote><sub>Close sighting of possible alien orbs.The sighting was of small spheres about the size of soft balls or slightly larger.  They had a very bright shinny metallic in appearance.  They were moving as a small group (3 to 4 ft. in  dia.) They came from a wooded area behind a roll of houses about 35 feet from me.  They were only about 10 feet above the house traveling at a low rate of speed as they came over the house as they flew directly toward me.  I was standing in the street.  At this time an other sphere trailing just behind the group came from on a lower flight path just clearing the house roof to join the others.  As they approached the street where I was standing they made an abrupt turn parallel to the street as if they had seen me.  They crossed the lot of the house next to the first one and flew into and through the tops a group of leafless hardwood trees on the far side lot line.  All the time, maintaining the same general group size, and without hitting any tree branches that  I could see.  This fl! ight path, to the West, took them to the wooded area from which they had come.  I quickly moved down the street for a better view of their flight path, but they had disappeared from my sight.  Also, just before this sighting I had noted a bright object  high above me with a short bright tail traveling at a high rate of speed. It made a very sharp U turn back toward it's original flight path and disappeared quickly. Could these have been alien orbs?((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129748.html](http://www.nuforc.org/webreports/reports/129/S129748.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
