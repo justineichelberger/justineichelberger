@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:22 on 15 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:41 on 15 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1953, an anonymous witness in Palm Springs (CA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>In the spring of 1953 Secretary of the Air Force, Harold Talbot, had breakfast with my father at the Smoke Tree Ranch in Palm Springs. He told my father and others that he had been buzzed by a UFO. He said this as though it was not a secret ... that it was common knowledge. He was on his way im an Air Force plane t Palm Springs.  ((name deleted))((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63199.html](http://www.nuforc.org/webreports/reports/063/S63199.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Wethersfield (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>On back to back nights, as a teenager hanging out with my friends we all witnessed strange activity in the sky over Wethersfield.  Walking up Nott Street on approx.  The night of the 15th something with an unusual light pattern flew over head very quickly and we all thought it very odd.  The following night my friend Tony and I both witnessed a bright blue glowing circle in the sky that was there for about 15 seconds and disappeared quicker than we could look at each other and exclaim, "Did you see that?".  I found this page and remembered this experience.  When I looked and saw another spotting in Wethersfield at that time I had to share this story.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149446.html](http://www.nuforc.org/webreports/reports/149/S149446.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
