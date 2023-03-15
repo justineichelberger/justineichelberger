@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:27 on 15 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:35 on 15 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Haymarket (VA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>UFO spotted jumping in the sky near Dulles Airport in VirginiaI was on my way to work when i noticed a light literally jumping and bounceing around the sky.  It was a bright light like a star and it was bouncing like a basketball.  I recorded seconds of it on my video tape.  It was on a tripod.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51057.html](http://www.nuforc.org/webreports/reports/051/S51057.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Buckeye (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>03/15/08 Buckeye, AZ. Round 15 sec. Flat blackI saw the object coming from the wsw, it was about 3,500 ft’ agl. It was cruising about 200kts. It was round and flat black, with no lights visible. It was going towards Avondale, AZ.  Almost perpendicular to Luke AFB. Approach.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62214.html](http://www.nuforc.org/webreports/reports/062/S62214.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
