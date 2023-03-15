@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:32 on 15 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:35 on 15 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Pensacola (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Pensacola Florida sighting of light shiny disk object in March 2002the object was a light sliver shiny disk that made no sound had no light.It appeared to reflect the suns light.It hoovered and moved in a tight jerky circular even level pattern.Looked to be 100 to 200 ft in the sky but I am not a good judge of distance.Sighting took place for about a minute. I was mesmerized it was almost like it wanted me to see it and when I left to get my family and came back it was gone.2 of my neighbors were near by and heard my commotion.There are a lot of tall pine trees in my area of Myrtal Grove pensacola Florida and I saw the object through a tiny clearing.((NUFORC Note:  Date is approximate.  One of two similar reports from same witness, the other for 01MR02.   PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23086.html](http://www.nuforc.org/webreports/reports/023/S23086.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Dillon (CO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Campfire glow ascended and faded like a dim star in the distance easterly. TwiceLooking SW Dillon we saw a campfire type glow, ascend and disappear to the east.  My son had just left and sure enough, he saw it too while up at the stoplight.  He filmed w/his phone, not good footage.I thought of an afterburner on a jet, ut it was silent. distances are hard to tell.  The light could have been dimming, not getting further away, says my wife.  The light kept getting smaller and faded away like a dim star.It happened twice about 5 minutes apart and lasted 3  or 4 minutes each.  We did not see them down below the mountainous horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80486.html](http://www.nuforc.org/webreports/reports/080/S80486.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
