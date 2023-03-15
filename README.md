@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:39 on 15 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:42 on 15 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in DeLand (FL) reported seeing craft that fit the description of some 'Cross' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was on the backside of Blue Lake, looking at the stars with my friend.  I noticed an intense orange circular glow up in the Northern sky.  It was brighter than a star or planet.  I said, "((male name deleted)), look at that intense beautiful light."  The light seemed to dim a bit and start to move in our direction.  Then it veered toward the South East.  As it cruised along, the lights began to change.  The once solid light now looked like the lights on a plane or multiple lights.  The color was still orange but dimmer and smaller.  I almost thought it could be a drone.  I didn’t hear any noise from engines.  We watched as it flew away and disappeared into the distance.  What I neglected to say was that as I observed it I was shooting pictures on my cell phone camera.  I couldn’t really see the UFO through my lens so I just pointed into its direction and took my best shot.  I was astonished when I looked at the pictures I had captured.  It wasn’t at all what I thought I would see.  One craft or meteor or space junk or satellite or UFO whatever it is was appeared almost rock like with sharp rectangular shapes that crossed like wings.  The other object was an oval or almost skeletal in shape.  Another shot of a similar bright white rock with glowing orange shading was similar in shape to a VW bug.  They were flying in tandem.  You can also see the moon in some of my pictures.  To me it has the appearance of an old satellite but I can’t explain the meteor.  Please let me know your thoughts.  Thank you, ((female name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126492.html](http://www.nuforc.org/webreports/reports/126/S126492.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Paradise (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>a white "contrail" fixed in size, shape and consistency.I looked up while still driving as I noticed what looked like a contrail. When I parked and got out of the car in the KMART parking lot, I looked up again and noted that the "contrail" hadn't begun to lengthen, nor had it begun to dissapate like they always do (I am an airforce brat, and know what a contrail looks like). So my attention was suddenly very focused. I stood there and watched what looked like a solid contrail slowly move from the northeast to the west (I think anyway, but I am not the best at direction, I use the sun to judge). I also noticed that despite the sunny day, and the position of the sun, I couldn't see a tiny shiny point at the head of the "contrail" like there would normally be, as the sun reflects off of the metal of a plane, because there was no plane, and what I was looking at, along with about 6 others now, was something other than a plane, or its contrail.."A moving contrail; fixed in size, shape and consistency". so it was white, with a slightly transparent look to it and a blurred perimeter. I cannot judge the distance. after about 15 minutes it was out of site.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45174.html](http://www.nuforc.org/webreports/reports/045/S45174.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
