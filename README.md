@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:29 on 16 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:34 on 16 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Jackson (MI) reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Air traffic seemed to pick-up soon after in the same general area.A friend of mine and myself were standing outside having a cigarette commenting on how clear the sky was.  It was about 20:00 hrs.(8pm) We then turned to the north and both noticed a constant light (non-blinking) moving east in a straight line just like and size of a regular aircraft.  It seemed close but not too far away.  We both watched it turn red and dissapear. No sounds were heard and nothing seemed to fall from the sky in that area.  It was very clear to see that night.  We thought it was an airplane but no lights were flashing and it dissapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69337.html](http://www.nuforc.org/webreports/reports/069/S69337.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Maricopa (southwest of town) (AZ) reported seeing craft that fit the description of some 'light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Summary : 8-10 bright stationary orange lights, plus a small line of 6-8 smaller  bluish-white lights which flashed in succession from l. to r., moved off rapidly to the west, disappeared, reappeared, and repeated event 3 times.While traveling south on Maricopa road 2 women, one a Sales Manager and the other a Director of Sales for a large telecommunications firm witnessed a group of 8-10 bright orange stationary lights in the sky just above a line of mountains to the SW of the town of Maricopa, AZ.  In the midst of these lights a small line of 6-8 bluish-white smaller lights suddenly appeared; the lights flashed in sequence from left to right 3 times, then suddenly moved very quickly off to the West and disappeared.  Approximately 30-45 seconds later, the bluish-white lights reappeared in approximately the same position as the first time and repeated the flashing and movement; then reappeared just to the west of te original location repeated this once more.  About 30 seconds after the last repeat, the orange lights simply disappeared.  The orange lights appeared very similar to the sightings on Sept. 13 in the area around Phoenix, but we have heard no one mention the bluish-white lights which we s! aw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02692.html](http://www.nuforc.org/webreports/reports/002/S02692.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
