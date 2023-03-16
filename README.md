@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:33 on 16 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 16 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ponchatoula (LA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Driving on hwy 22 towards ponchatoula from madisonville, when approximately 7-9 lights began sporadically flashing almost in the shape of a triangle, it was above tree height but def below 800ft, I stopped in the road because I was mesmerized at what I saw, well every other car infront of me had stopped also, after a few seconds of what appeared to be hovering, it vertically lifted then floated south  at a constant speed, no estimate on speed or acceleration, as it was leaving my sight the object began acending and turned south west...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87744.html](http://www.nuforc.org/webreports/reports/087/S87744.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Toledo (OH) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Woman & son witness strange, flashing, multi-color lights to west of home.  Tried to photograph, streaked off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00359.html](http://www.nuforc.org/webreports/reports/000/S00359.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
