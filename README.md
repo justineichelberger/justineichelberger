@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:30 on 16 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:28 on 16 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Mokena (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>3 red orbs in Mokena, Illinois heading towards Tinley Park.There were three bright red lights that flew together in a triangle. They were not airplanes, as they were much larger and would move much faster than airplanes. They also hovered in midair and flew in directions airplanes couldn't. Every once in a while, one orb would shimmer a bit, and then stop and another one would shimmer, and finally the other would shimmer. Almost as if to communicate with each other. They flew in a triangle but would frequently form a straight line and then form back into a triangle again. During the final five minutes, they were drifting away from us, and one on the left flew very fast off to the side, away from the others. Then one of the two left flew off to the right very fast. The final orb got brighter and brighter as if to be coming towards us. Then all of a sudden it disappeared. the lights were suddenly "turned off" and the three orbs were gone. The two orbs that flew to either side, also disappeared in the same fashion soon after leaving the triangle. I used to be a sceptic. Not that there were no aliens, but I was sceptical that they would enter our atmosphere. After this sighting, i now have no doubts that what i saw were not airplanes. And i highly doubt they are man made.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69229.html](http://www.nuforc.org/webreports/reports/069/S69229.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Flint (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Orange orbs (glowing) moving SW over the lake. Definately not aircraft or balloons.watched 2 then 1 30 seconds behind the first two.  Glowing orange orbs moving SW from the NE over lake Palestine.  Orbs were not static or drifting, appeared to be under power.  No noise, at approx 400-600 feet (estimated).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145216.html](http://www.nuforc.org/webreports/reports/145/S145216.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
