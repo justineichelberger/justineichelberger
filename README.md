@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:39 on 16 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:27 on 16 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Pembine (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>white flash of a narrow small dumbell,flashed twice in 8 seconds no soundI saw white light above the barn next to my house walking to the bar.  The light was shaped like a long narrow small dumbbell.  I saw 1st flash then 8 sec later the flash appeared again. No sound</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96644.html](http://www.nuforc.org/webreports/reports/096/S96644.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Stoughton/Cooksville area (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>hovering mass of lights over Stoughton WIDriving to work on HWY 138 towards Stoughton.  Saw a hovering mass of white lights with small red and blue lights about 500 feet in the air.  I turned around and it moved from to side to side slanting and then started to move off.  I turned around again and it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55752.html](http://www.nuforc.org/webreports/reports/055/S55752.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
