@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:21 on 16 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:30 on 16 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Washington, D.C. (DC) reported seeing craft that fit the description of some 'Circle' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Taking a picture and two objects moved quickly past in both pictures.  It was so quick no one saw them but they are in the two pictures</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96665.html](http://www.nuforc.org/webreports/reports/096/S96665.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Monterey (CA) reported seeing craft that fit the description of some 'Egg' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>metallic egg-shaped object over the oceanI was taking pictures of the ocean in Monterey on March 16 at around 12pm.  It was stormy out and had recently been raining. I didn't notice anything unusual at the time I was taking pictures.  When I looked at the photos later, I noticed a strange dot in the sky in one of the photos.  When I zoomed in I could see a strange metallic egg-shaped object.  I've never seen anything like this and would like to know what it is.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87761.html](http://www.nuforc.org/webreports/reports/087/S87761.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
