@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:25 on 15 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:44 on 16 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Normal (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Triangular Space craft hovering over Normal, ILSaw a Triangular Shaped Craft with four white lights on the sides and one red light on the bottom hovering above houses.  When I rolled down my window I didn't hear any sound.  I attempted to turn my van around but by the time I did, the craft had sped away from sight.  It drifted away slowly at first then just shot off at a very great speed.  The White lights were very bright and the craft itself was dark and seemed to be large.  It was also hovering not so high in the air, above the tree line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49661.html](http://www.nuforc.org/webreports/reports/049/S49661.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Kendall (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Kendall, FL - West - East White Oval - 5-10 SecondsWitnessed object passing from West to East Southwest of Kendall, Florida (over or near Tamiami Airport) - approximately 11:50 PM local time on 3/16/06.  Object was white oval and seen for about 5-10 seconds, then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49680.html](http://www.nuforc.org/webreports/reports/049/S49680.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
