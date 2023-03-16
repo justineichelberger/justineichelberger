@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:30 on 16 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:21 on 16 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Grand Rapids (MI) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 quick, "V" shaped objects flew over my house within 1 minute of each other.I was having a friend over to spend the night at my house. We were sitting in a room in my house where the ceiling is completely made of glass windows, so we could see the night sky from inside. We were talking when all of a sudden we heard an incredibly loud roaring/shrieking sound, and as it grew louder, a "V" shaped craft, with lights lining its border, zipped right over the house! The sound grew quiet just in time for another one, followed soon after by another one. These 3 UFOs all flew over within one minute of each other. They all were black, quick, and had dotted lights along the edges of their "V" shape. We both told ourselves that the 1st one was an airplane, but by the time the 3rd one came around, it was quite obvious that these were UFOs. They took only about 20 seconds to cross from east to west over the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22249.html](http://www.nuforc.org/webreports/reports/022/S22249.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Washington, D.C. (DC) reported seeing craft that fit the description of some 'Circle' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Taking a picture and two objects moved quickly past in both pictures.  It was so quick no one saw them but they are in the two pictures</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96665.html](http://www.nuforc.org/webreports/reports/096/S96665.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
