@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:27 on 16 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:39 on 16 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Mt. Jackson (VA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>i seen a ufo over 81 out side of mt jackson vai was going down  interstate 81 north just out side of mt jackson. around 20:12 when i look to my right and seen a silver/green color rectangle shape craft in the sky.  it was silver with green lights running down the side of the craft  after about 5 sec i took off faster then i ever seen any thing before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87738.html](http://www.nuforc.org/webreports/reports/087/S87738.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Pembine (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>white flash of a narrow small dumbell,flashed twice in 8 seconds no soundI saw white light above the barn next to my house walking to the bar.  The light was shaped like a long narrow small dumbbell.  I saw 1st flash then 8 sec later the flash appeared again. No sound</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96644.html](http://www.nuforc.org/webreports/reports/096/S96644.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
