@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:31 on 16 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:42 on 16 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Flint (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Orange orbs (glowing) moving SW over the lake. Definately not aircraft or balloons.watched 2 then 1 30 seconds behind the first two.  Glowing orange orbs moving SW from the NE over lake Palestine.  Orbs were not static or drifting, appeared to be under power.  No noise, at approx 400-600 feet (estimated).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145216.html](http://www.nuforc.org/webreports/reports/145/S145216.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Pont sur Yonne (France) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>White light over Sens, FranceThat evening on returning home, I saw a strong white light to the east, when I watched it seemed surrounded by a blue halo and moved very quickly to the north and then disappeared without making any sound.I was astounded.I do not know what altitude was the object, the sky was clear and it was night.This was not a satellite or an airplane, they are seen regularly around here (100 km / 60 miles south-east of Paris)  Then a few seconds later an airliner coming from the south flew not far from the area.Sorry for the lack of information.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74685.html](http://www.nuforc.org/webreports/reports/074/S74685.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
