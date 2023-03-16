@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:44 on 16 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:21 on 16 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Kendall (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Kendall, FL - West - East White Oval - 5-10 SecondsWitnessed object passing from West to East Southwest of Kendall, Florida (over or near Tamiami Airport) - approximately 11:50 PM local time on 3/16/06.  Object was white oval and seen for about 5-10 seconds, then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49680.html](http://www.nuforc.org/webreports/reports/049/S49680.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Westerly (RI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Object flying along side an airplane disappeared into the clouds, emerged 5 minutes later and flew southwest.I was looking out the window at 12:45 when I saw a plane flying in the direction from north to south at a high altitude.  I then noticed a small circular object flying along side it.  The circular object slowed down to a speed much slower then the plane and disappeared behind the clouds.  At this point the plane flew over head, and I went outside for a closer look.  About 5 minutes passed and I then noticed the same object emerged from the clouds, stayed at the high altitude and started to fly south west at what looked like at a slow speed.  I could see the object better when it was directly over my house because it was heading closer to the sun.  The object looked like it was rotating because every time it rotated there was a brief reflection.  The Object stayed at a slow pace for 5 more minutes heading south west until it was no longer visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74678.html](http://www.nuforc.org/webreports/reports/074/S74678.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
