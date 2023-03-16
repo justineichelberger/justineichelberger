@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:31 on 16 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:30 on 16 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Batavia (IL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Three lights, arranged in such as manner as to portray a submarine, only in my field of view for about thirty seconds or less,real big.I was video chatting with my friend, when I heard this strange, low rumble.  Kind of like a toned-down jet sound.  I looked out my window and happened to touch my window, and it was vibrating softly. I didn't see much, considering it was nighttime, but I saw three green lights,  I believe they were all green.  The thing was much too large to be a helicopter and wasn't a plane, I don't think,  if I didn't know better I'd say it was a giant flying submarine.  There was one light in front, one in the middle a little higher up than the others, and one in the back.  It seemed to be headed southeasterly from where I live.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145217.html](http://www.nuforc.org/webreports/reports/145/S145217.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Mokena (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>3 red orbs in Mokena, Illinois heading towards Tinley Park.There were three bright red lights that flew together in a triangle. They were not airplanes, as they were much larger and would move much faster than airplanes. They also hovered in midair and flew in directions airplanes couldn't. Every once in a while, one orb would shimmer a bit, and then stop and another one would shimmer, and finally the other would shimmer. Almost as if to communicate with each other. They flew in a triangle but would frequently form a straight line and then form back into a triangle again. During the final five minutes, they were drifting away from us, and one on the left flew very fast off to the side, away from the others. Then one of the two left flew off to the right very fast. The final orb got brighter and brighter as if to be coming towards us. Then all of a sudden it disappeared. the lights were suddenly "turned off" and the three orbs were gone. The two orbs that flew to either side, also disappeared in the same fashion soon after leaving the triangle. I used to be a sceptic. Not that there were no aliens, but I was sceptical that they would enter our atmosphere. After this sighting, i now have no doubts that what i saw were not airplanes. And i highly doubt they are man made.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69229.html](http://www.nuforc.org/webreports/reports/069/S69229.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
