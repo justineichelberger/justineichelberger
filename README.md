@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:19:41 on 16 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:33 on 16 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Portsmouth (RI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Vary large glowing object with a red blinking light beneath the bright round yellow/orange glowing lightI saw the object from our home in Rhode Island. We have an unobstructed view of the Eastern sky looking from Aquidneck Island towards Tiverton, RI.I first saw the object's light coming from the South and heading North.  It caught my attention because the object was so bright and was moving slower than most aircraft I've seenm.  Using binoculars I was unable to distinguish what kind of aircraft it was.  It moved North and then appeared to hover and then move east, I lost it in the evening clouds over Fogland.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28195.html](http://www.nuforc.org/webreports/reports/028/S28195.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ponchatoula (LA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Driving on hwy 22 towards ponchatoula from madisonville, when approximately 7-9 lights began sporadically flashing almost in the shape of a triangle, it was above tree height but def below 800ft, I stopped in the road because I was mesmerized at what I saw, well every other car infront of me had stopped also, after a few seconds of what appeared to be hovering, it vertically lifted then floated south  at a constant speed, no estimate on speed or acceleration, as it was leaving my sight the object began acending and turned south west...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87744.html](http://www.nuforc.org/webreports/reports/087/S87744.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
