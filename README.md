@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:27 on 16 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:26 on 16 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Yuma (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>cloaking ship  over Yuma, AZOn Monday, March the 16th, 2009 at approximately 2107 hrs. I was sitting on the west side of the place where I live. At that particular time I was watching with my binoculars (20x50) at the night sky when I spotted what looked like a triangular cloud, at least that is what it look when I first saw it. I straighten myself so I could get a better look as I was in uncomfortable position never taking my eyes on the mysterious shape.  The cloud travel at about forty five degrees from the west horizon, from south to north. It sort of looked like the Star Trek Romulian war ships when they are cloaking, sort of blurry trails behind the front cloud  but I could only see the outer edge. I followed this shape until it disappeared in the northern horizon. I want to point out that you could not see this with the naked eye nor did it make any sound. The whole event took about thirty second since I spotted this in the middle of the sky or its trajectory. I also have to confessed that this sight gave me chills and made me a little nervous since I have seen other “strange” objects before but nothing like this big or weird.At approximately thirty minutes after this event two marine jets took off from the MCAS base  in the direction that the device had taken but instead of  following all the way north the sort of cut in the middle of the sky and continued on an northeasterly direction.I am submitting this report with the hope that there may be someone else that saw this object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69249.html](http://www.nuforc.org/webreports/reports/069/S69249.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Edmonds (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Follow-up on triangle sighting.Follow up:  I failed to mention on my original report that the object did not have any normal aircraft lighting ie: red beacon, white anti-collision strobes, nor red or green running lights, only three bright white lights on the bottom of the craft near each of the three corners.  I have further heard back from the people at Paine Field Airport in regards to their findings on the radar tapes.  No radar returns for that given area (5-DME on the 180 radial from their VOR) during atleast a one hour time frame.  In fact, they thought it very strange that there were NO radar returns for anything south of the airport including the standard southerly or westerly approach patterns for the main runway 34L/16R.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28260.html](http://www.nuforc.org/webreports/reports/028/S28260.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
