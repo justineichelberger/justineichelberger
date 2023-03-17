@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:24 on 17 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:23 on 17 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Edirne (Turkey) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I am doing astrophotography as an amateur.  I saw an object on the moon when i prepared my equipment for the moon shot.  Got it on record very quickly.  At 6 seconds, my computer is locked because there is no more space.  I thought it was the space station pass that day, but it wasn't at that hour.  I hesitated and sent it to you..  Thank you.My equipment  celestron avx mount meade 6000 80mm apo telescope qhy5-iii  174mm camera sharpcap  3.1 file type:  ser((NUFORC Note:  Short video clip shows a star-like object passing across the face of the Moon.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145364.html](http://www.nuforc.org/webreports/reports/145/S145364.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Largo (FL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Fast moving object with cyclic whistling noise.On the corner of Sherwood Dr and Seacrest Dr in Largo, FL, zipcode 33771.My wife and I were walking at about 8:00 pm, when I heard a strange noise coming from the Southwest. It sounded at first like a car with a bad axle or something, with a repeating whistling noise I could only describe as “whoo-whoo-whoo-whoo”, only very highpitched.The noise got closer, but since there were no cars or anything else obvious we stopped to see where it was, and then could hear as it passed overhead. Based on the volume, it seemed close to us, and even made a “Doppler Effect” as it passed by. There were clouds so I couldn’t see it, but I did see what appeared to be a shadow on the clouds, as if something was passing by over them. The shadow was somewhat oval shaped, almost cigar shaped, but was moving “sideways”. The shadow could be seen in two spots at once, but I cannot describe what I mean.It moved quickly, too fast for a helicopter at that height, and was gone within a few seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69253.html](http://www.nuforc.org/webreports/reports/069/S69253.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
