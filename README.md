@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:29 on 17 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:38 on 17 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Ellensburg (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>A craft that produced no noise, accelerated from still to unreal speeds,  had 3 crafts or 3 sections.Unclear to how many craft there were, (Three sets of light, 2 the same, the one in the middle differant) they all could have been one craft because they where flying together perfectly.  I was driving down main street in Ellensburg Washington as i saw 2 sets of 4 lights in a dimond shape sitting completly still, there where to lights changing from red to blue and back that where spaced dirrectly in the middle of the 2 dimonds.  When i first saw them I passed them off as 2 radio towers I had never noticed.  Once I got closer I realized they couldn't be Towers because they would be anchored in where a houseing complex was.  I stoped my truck and got out as I was looking up, all the lights started moveing slowly towards I-90 produceing no noise whatsoever, As it moved my radio made static so i turned it off and roled down my window so i could hear clearly.  I jumped into my truck to follow it because I realized I had my camera.  As I was trying to find my camera i enterd the I-90, The craft was dirrectly in front of me about 100 yards a head of me.  The then picked up speed and left me behind in a matter of seconds.  I saw it pass over the horizion in the dirrection of Seattle washington.  I would say that it traveld over 50 in less than 5 seconds.  IF my math is right the craft would have been traveling at 36,000 mph, accelerating from still, to 70 mph, then to full speed.  I took 2 pictures but I doubt they will turn out due to the darkness and the urgency i took them in.  By the way the address below is my home address, I am at college now.  The number is my cell phone so I don't know if i can take a collect call but I would be glad to talk to an investigator if you would like to speak to me.  I will e-mail the pictures as soon as i get them on my computer(if they even show anything) Feel free to write me an e-mail.((NUFORC Note:  We spoke with this witness on two occasions, and we found him to be quite credible.  We posted his graphic to the website.  The lights he illustrated are not totally incompatible with aircraft lights, we believe, but if in fact they streaked to the west and over the mountains in a matter of seconds, as reported, the object(s) could not have been an aircraft.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35674.html](http://www.nuforc.org/webreports/reports/035/S35674.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Franklin Furnace (OH) reported seeing craft that fit the description of some 'Flash' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Lights in the skyI walked outside to have a cigarette and a bright flash brought my attention to the sky.  The flashes were sporadic around a certain area in the sky and faded slowly lasting about 10 minutes.  There wasn't any sound and it seemed to be in the upper to outer atmosphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126431.html](http://www.nuforc.org/webreports/reports/126/S126431.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
