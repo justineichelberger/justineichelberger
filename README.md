@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:23 on 17 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 17 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Napoleonville (LA) reported seeing craft that fit the description of some 'Formation' over a period of approximately  -  minutes.</sub><blockquote><sub>8-9 neon green like balls moving in a snake like lineIt was maybe 8-9 round balls not large in size.  They were moving in a line together making a snake like movement through the sky.  This object was not that high in the sky, maybe 40-50 feet. I was driving my car and saw it out the corner of my eye.  My reaction surprised me, i didnt even stop to look.  It's almost like it made me keep driving. As i got closer to it, i looked at the road to stay straight.  I looked back and it was gone.  It wasn't long before i notice it onside of my car moving like a snake.  The balls were an amazing green like neon color that i've never have seen before.  Unfortunately, there were no other vehicles around. I've told very few people about my experience because no one believes me.  I found this website on the net and thought it would help.((NUFORC Note:  Date may be approximate, but the witness does not indicate that fact.  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76651.html](http://www.nuforc.org/webreports/reports/076/S76651.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Unidentified light formation spotted twice in 5 minutes, different locationIt had been a rainy day and it was a dark, foggy night as I was driving the windy back roads through some horse property along Lakeside Avenue.  The fog was rather low and as I came around a sharp curve in the road, I saw a cluster of lights hovering perfectly still.  The all white light cluster consisted of a perfectly straight upper row of 8 lights with 2 lower lights on both right and left sides, almost like a plane, but a tighter formation.  The lights were about 200-300 feet in the air and it was clear to distinguish the distance with the low lying fog.  The object appeared to hover like a drone, but it was too large to be a drone and I dismissed it as a plane, knowing it didn’t seem correct.  I had taken a phone call just before the sighting and told my friend on the line what I was seeing, but couldn’t quite articulate what it was.  Five minutes later, I’m still on the call and now approaching a golf coarse and see the EXACT SAME formation at approximately ! the same altitude, just hovering like before.  No movement.  I travel about 1/4 mile before I turned the vehicle around in an attempt to capture a photo, but it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154649.html](http://www.nuforc.org/webreports/reports/154/S154649.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
