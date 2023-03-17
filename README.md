@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:33 on 17 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:27 on 17 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Unidentified light formation spotted twice in 5 minutes, different locationIt had been a rainy day and it was a dark, foggy night as I was driving the windy back roads through some horse property along Lakeside Avenue.  The fog was rather low and as I came around a sharp curve in the road, I saw a cluster of lights hovering perfectly still.  The all white light cluster consisted of a perfectly straight upper row of 8 lights with 2 lower lights on both right and left sides, almost like a plane, but a tighter formation.  The lights were about 200-300 feet in the air and it was clear to distinguish the distance with the low lying fog.  The object appeared to hover like a drone, but it was too large to be a drone and I dismissed it as a plane, knowing it didn’t seem correct.  I had taken a phone call just before the sighting and told my friend on the line what I was seeing, but couldn’t quite articulate what it was.  Five minutes later, I’m still on the call and now approaching a golf coarse and see the EXACT SAME formation at approximately ! the same altitude, just hovering like before.  No movement.  I travel about 1/4 mile before I turned the vehicle around in an attempt to capture a photo, but it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154649.html](http://www.nuforc.org/webreports/reports/154/S154649.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Norwood (MA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>4 whitish objects in formation in night sky.I was outside looking at the night sky when I noticed 4 round objects slowly moving southward in the sky.  They were lined up equidistant from each other and initially I thought it was one larger object.  They appeared to be illuminated from the bottom in a whitish light.There were no blinking lights to indicate an airplane or helicopter which I observe frequently.  I did not hear any noise or sound but they may have been too far away.As they passed thru the sky the furthest light from me moved slightly away and behind the other 3 lights.  At this point all four lights disappeared at the same time and did not reappear while I was watching.I frequently watch the night sky and observe the stars. I have witnessed meteors, comets, “shooting stars” , the International Space Station as while as search lights and aircraft. Whatever I witnessed was not something I could identify.I am a female my early 50s and have been in healthcare and healthcare management for nearly 25 years. I have a B.S. in Business/Healthcare Management as well as two Associate’s of Science degrees. I own my home in a suburb about 13 miles south of Boston.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117978.html](http://www.nuforc.org/webreports/reports/117/S117978.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
