@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:26 on 17 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:34 on 17 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bloomington (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Orange Ball Rising Above Town At 45 Degree AngleSaw orange ball from SE side of Bloomington while facing directly NW.  I was on East side of small subdivision lake with dog at 7:30 PM.  The object rose at roughly 45 degrees up from somewhere towards the South West side of town over the houses on opposite side of lake (off in distance somewhere).  It then suddenly/sharply arched slightly higher and back down slightly and continued at a 30 degree angle up and I lost it as it went through cloud cover towards the North.  The sighting lasted roughly 20 seconds or so.This was facing a side of town away from all air traffic which made me certain it was not a plane, as was the fact that there were no strobes (only the orange steady glow) and the fact that airport was directly behind me at the time.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87771.html](http://www.nuforc.org/webreports/reports/087/S87771.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Oakland (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I was looking up at the stars as I and a couple of friends were walking to grab a bite to eat, when I noticed an object flying across the sky.  I wasn't sure what I was looking at so I asked my friends, "what's that"? My one frined looked up and saw it too.  It was triangular shaped flying object with 5 amber lights, (four of the lights were on what appeared to be the bottom and one light was on the top). The object was as dark as the night sky and it was moving fast without any sound. It eventually just disappered in the distance.  I have never seen anything like it before in my life and neither has my frined.  I ran home after dinner, went online and found this website.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35656.html](http://www.nuforc.org/webreports/reports/035/S35656.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
