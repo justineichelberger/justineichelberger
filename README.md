@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:49 on 17 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:24 on 17 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Morganton (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Circular Flashing Lights over Morganton, NC.This is the second time my family has been outside and seen several circular objects with flashing lights glide across the sky.  There were two very bright ones that the smaller ones would go towards and back from.  The colors were green, red, white, and yellow.  One flew very close to us and we were able to see the under belly of the ship.  It had 3 white lights and one red light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117878.html](http://www.nuforc.org/webreports/reports/117/S117878.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Honolulu (HI) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Hyper-FlightIt was about 9 am or a few minutes earlier when three of us were gathering into a rented suv to go to a ceremony in Waikiki (St. Augustine Church) for a presentation from Portugal regarding a statue being presented (Our Lady of Fatima).Before boarding I noticed a mult-colored helicoptor approaching from the west to east (sunrise).  It caught my eye whereupon I noticed way above it an extremely bright jet shaped object (no wings or tail fins and brilliant white) streaming across the sky.  The tail had an inverted thruster as compared to an extended or protruding one such as many jet fighters enjoy.  It had an extreme altitude (higher than civil flights), was about the size of a battle ship, no sound whatsoever, and crossed the entire clear sky in less than 4 seconds.  Before I could call attention to it...... it disappeared into the sunrise.  I couldn't believe the speed of this object!  No missle on earth could possibly approach this speed.  Second time in my life I've ever seen something like this.  The 1st time was when I was 13.  I'm 70 years old, as of sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144334.html](http://www.nuforc.org/webreports/reports/144/S144334.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
