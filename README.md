@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:34 on 17 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:30 on 17 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Bullhead (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>It was dusk it all lasted about 20 min the object split into two.my friends and I have seen a ufo in the desert outside of Bullhead city AZ.The craft was in flight for at least 20 min. The object was spherical when we first saw it then after a few minutes it split into two objects of equal size.Then the two objects made an odd noise like a mechanical heartbeat. The noise was not loud at all we could barely hear it. This continued for about ten minutes. After that the objects glowed bright orange. Finally the objects shot off in two different directions.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45385.html](http://www.nuforc.org/webreports/reports/045/S45385.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Rowe (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>On 17 March, 2018, I was taking sunset photos on top of Glorieta Mesa on State Hwy 34.  I didn’t notice anything unusual until later that evening while I was viewing the photos.  In one there is a glowing blue/green orb on the ground.  Four minutes later the orb is rising up into the clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139220.html](http://www.nuforc.org/webreports/reports/139/S139220.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
