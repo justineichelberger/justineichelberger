@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:17:50 on 17 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:23 on 17 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Marske-by-Sea/Redcar/Cleveland (UK/England) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>a glowing orb close upit was dark in the evening me and my girl were walking up a long thin ally to a frends house the ally had housing estates ither sides my girlfrend was about thirty feet infront of me so i saw it first as it came bitween us both. it was very fast and flew with perfict presision between the houses ither side of us changing direction with no aparent change in speed at 90 degree angles allways remaining at the same hight i no this becouse it stayd just above the level of the top windows of the houses around 22 feet up . the object was a glowing orbe allmost the same size as a football and never gave off enny sound or heat of enny kind. the object then stoped directly in front of me (10 feet ahead )and remaind completely still. i stood there shocked for a fiew moments staring at it bifore calling out to my girl frend . who turned arond to look. as soon as she did this it darted off to the right and disapeard off thrugh the houses. other things to take into acount are that it was quite a windy night and the object traveld into the wind and apeard to glow brighter when moving it showed no moving parts and did not look organic but seemd more as if it had moved away asif starteld by the sound of my voice . ((URL deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17594.html](http://www.nuforc.org/webreports/reports/017/S17594.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Napoleonville (LA) reported seeing craft that fit the description of some 'Formation' over a period of approximately  -  minutes.</sub><blockquote><sub>8-9 neon green like balls moving in a snake like lineIt was maybe 8-9 round balls not large in size.  They were moving in a line together making a snake like movement through the sky.  This object was not that high in the sky, maybe 40-50 feet. I was driving my car and saw it out the corner of my eye.  My reaction surprised me, i didnt even stop to look.  It's almost like it made me keep driving. As i got closer to it, i looked at the road to stay straight.  I looked back and it was gone.  It wasn't long before i notice it onside of my car moving like a snake.  The balls were an amazing green like neon color that i've never have seen before.  Unfortunately, there were no other vehicles around. I've told very few people about my experience because no one believes me.  I found this website on the net and thought it would help.((NUFORC Note:  Date may be approximate, but the witness does not indicate that fact.  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76651.html](http://www.nuforc.org/webreports/reports/076/S76651.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
