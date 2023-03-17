@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:27 on 17 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:32 on 17 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Dahlonega (GA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Unidentified Black Diamond Shaped Flying Objects SeenIn  Dahlonega, Georgia, at around 19:00 hours on March 17th, 2011,  my son called me to the front door of my home and pointed out a loose formation of black diamond shaped objects flying a quarter or perhaps even three quarters of a mile away at low altitude (i.e. 500 – 1,000 feet).   Initially we thought that they might have been paratroopers parachuting, or a squadron of Black Hawk helicopters (from the nearby Ranger base) or perhaps birds.  They had no running lights, there was no sound whatsoever and they were too large from a distance to have been birds.  Although I described them to be in a loose formation, the first several were in formation, the others not so.  I have never seen anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80509.html](http://www.nuforc.org/webreports/reports/080/S80509.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lyme/Haddam (CT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Possible UFO in Lyme/Haddam area.Unusual weather patterns and electrical interference.Hazardous conditions.((NUFORC Note:  One of many reports submitted by the same source, who elects to remain totally anonymous, and who provides no contact information.  Probable hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117894.html](http://www.nuforc.org/webreports/reports/117/S117894.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
