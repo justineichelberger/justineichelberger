@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:23 on 16 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:32 on 17 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Atkinson (NH) reported seeing craft that fit the description of some 'Other' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Hovering multi-colored, silent, boomerang shaped object.Multi-colored lights with a V or boomerang shaped object which hovered and had no noise.  Close enough that I could see lights outlines the shape.  Stood for about 6 minutes watching it.  Came in to get binoculars and was gone when I came out.  Was letting dog out and heard a plane.  Saw this object with lights and thought it was unusual for a plane to have many colored lights on wings.  Saw a plane in the distance however, while this object was still hovering.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145223.html](http://www.nuforc.org/webreports/reports/145/S145223.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Hayward (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>At around 13:30 I was throwing the afternoon trash at work and I looked in the eastern sky and I noticed a White Cigar shaped object flying overhead from right to left. It was not going that fast and it did not make any type of sound. I thought maybe it’s a plane and I just have not seen its wings yet or something was hiding its wings because it might be to high, but then I looked toward the southern sky and there was a commercial airplane flying at about the same altitude as this object and I noticed everything about that Airplane. So if these two things were flying away from each other at the same altitude then I knew this was no airplane. So I looked back at the Cigar like object and figured it must not have wings. So I kept looking at the object until it flew out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55776.html](http://www.nuforc.org/webreports/reports/055/S55776.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
