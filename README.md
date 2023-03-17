@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:27 on 17 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:26 on 17 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Norwood (MA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>4 whitish objects in formation in night sky.I was outside looking at the night sky when I noticed 4 round objects slowly moving southward in the sky.  They were lined up equidistant from each other and initially I thought it was one larger object.  They appeared to be illuminated from the bottom in a whitish light.There were no blinking lights to indicate an airplane or helicopter which I observe frequently.  I did not hear any noise or sound but they may have been too far away.As they passed thru the sky the furthest light from me moved slightly away and behind the other 3 lights.  At this point all four lights disappeared at the same time and did not reappear while I was watching.I frequently watch the night sky and observe the stars. I have witnessed meteors, comets, “shooting stars” , the International Space Station as while as search lights and aircraft. Whatever I witnessed was not something I could identify.I am a female my early 50s and have been in healthcare and healthcare management for nearly 25 years. I have a B.S. in Business/Healthcare Management as well as two Associate’s of Science degrees. I own my home in a suburb about 13 miles south of Boston.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117978.html](http://www.nuforc.org/webreports/reports/117/S117978.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bloomington (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Orange Ball Rising Above Town At 45 Degree AngleSaw orange ball from SE side of Bloomington while facing directly NW.  I was on East side of small subdivision lake with dog at 7:30 PM.  The object rose at roughly 45 degrees up from somewhere towards the South West side of town over the houses on opposite side of lake (off in distance somewhere).  It then suddenly/sharply arched slightly higher and back down slightly and continued at a 30 degree angle up and I lost it as it went through cloud cover towards the North.  The sighting lasted roughly 20 seconds or so.This was facing a side of town away from all air traffic which made me certain it was not a plane, as was the fact that there were no strobes (only the orange steady glow) and the fact that airport was directly behind me at the time.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87771.html](http://www.nuforc.org/webreports/reports/087/S87771.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
