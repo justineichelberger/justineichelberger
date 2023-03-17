@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:34 on 17 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:33 on 17 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Oakland (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I was looking up at the stars as I and a couple of friends were walking to grab a bite to eat, when I noticed an object flying across the sky.  I wasn't sure what I was looking at so I asked my friends, "what's that"? My one frined looked up and saw it too.  It was triangular shaped flying object with 5 amber lights, (four of the lights were on what appeared to be the bottom and one light was on the top). The object was as dark as the night sky and it was moving fast without any sound. It eventually just disappered in the distance.  I have never seen anything like it before in my life and neither has my frined.  I ran home after dinner, went online and found this website.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35656.html](http://www.nuforc.org/webreports/reports/035/S35656.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Martinsburg (WV) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Octagonal, bright, white/blue, light that flashed 3 x, and disappearedMy son & I saw a huge whitish/blue, octagonal light that flashed three times and then disappeared!  Was NOT a shooting star or plane!  Immediately brought us to tears and made us both strangely emotional!  Unbelievable!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126416.html](http://www.nuforc.org/webreports/reports/126/S126416.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
