@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:32 on 17 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:11 on 17 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Hayward (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>At around 13:30 I was throwing the afternoon trash at work and I looked in the eastern sky and I noticed a White Cigar shaped object flying overhead from right to left. It was not going that fast and it did not make any type of sound. I thought maybe it’s a plane and I just have not seen its wings yet or something was hiding its wings because it might be to high, but then I looked toward the southern sky and there was a commercial airplane flying at about the same altitude as this object and I noticed everything about that Airplane. So if these two things were flying away from each other at the same altitude then I knew this was no airplane. So I looked back at the Cigar like object and figured it must not have wings. So I kept looking at the object until it flew out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55776.html](http://www.nuforc.org/webreports/reports/055/S55776.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Lemon-shaped UFO, covered with rows of lights, bigger than a helicopter, bigger than a bus.The object was described as lemon-shaped, larger than a helicopter and larger than a bus. It moved in a linear, smooth, rapid motion -- faster than a small plane. It was estimated to be 1-3 miles from the observers, traveling towards the southeast, and seemingly moving lower in altitude. It was "fairly covered" with a number of white lights, uniformly positioned. Most lights were not blinking; a few were pulsing on and off. Date: March 17, 2004 Time: 7:00 PM MST (dark sky) Viewers Location: 48th St and Warner Blvd, Phoenix AZ UFO Location: East of viewers, about 1-3 miles away, heading southeast.Viewers: my in-laws: 80 yr old male, 75 yr old female. Neither has ever reported seeing UFOs before. They reported that about 30 people were standing around the intersection, looking up at the object.((NUFORC Note:  We have requested that the witness have the others submit reports.  We do not understand how, and why, out of a group of "30 people," who apparently experienced a UFO sighting, only two would submit a report!!  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35710.html](http://www.nuforc.org/webreports/reports/035/S35710.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
