@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:59 on 17 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:32 on 17 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Moira (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>lights appeared over forested area first as one set (red over white) second time (closer red over red) third time (closer two sets of red oppsite each other about 100 meters apart. all three sightings were 2 to 3 seconds apart with a pause of 2 to 3 min apart lights were sighted over a forested area first appearing as a red light over a white light. appeared second time as a red light over a red light but closer. appeared third time as two sets of red lights 100 meters apart much closer. lights (came on) for two to three seconds with two to three minuets between sightings.sky was void of clouds, stars were out. there is no city or viliage below sighted objects. as stated objects appeared breafly and closer at each sighting. there was no noise and did not appear to be fixed wing or rotary air craft. Observer is retired military. wife and step daughter observed second sighting . could not make out shape of object or objects</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05866.html](http://www.nuforc.org/webreports/reports/005/S05866.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Putney (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was sitting in my truck and notice something in the sky.  It was low, silent, and had a red light In the the middle, with white lights beside it.  It had one white light at the top of the triangle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133206.html](http://www.nuforc.org/webreports/reports/133/S133206.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
