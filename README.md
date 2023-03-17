@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:30 on 17 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:26 on 17 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Rowe (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>On 17 March, 2018, I was taking sunset photos on top of Glorieta Mesa on State Hwy 34.  I didn’t notice anything unusual until later that evening while I was viewing the photos.  In one there is a glowing blue/green orb on the ground.  Four minutes later the orb is rising up into the clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139220.html](http://www.nuforc.org/webreports/reports/139/S139220.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Aquaduct (near, over desert, before entering California) (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Summary : Flying Westward in a UAL plane over the desert near the aquaduct before entering CA, another UAL plane approached and passed beneath us. I noticed its approach and then realized that it had a unusual, triangular-shaped aircraft flying close and to the left of its tail.  This craft? was about 1/4 the size of the UAL plane, triangular-shaped, flat, light grey color. Why?On Feb. 17, I was returned from Chicago on a United Airlines flight to Ontario, CA at about 10AM in the morning. We were flying at about 32,000 feet and the weather conditions were very clear.  Approaching us from the south going north and a bit easterly, I noticed another aircraft flying beneath us.  I am no expert, but I could identify the aircraft as a UAL aircraft. What originally got my attention was that it didn't seem too far beneath our flight and it seemed so clear because of the lack of clouds, dust, etc.  Then, I noticed that something (another craft?) was tagging along with it, rather close and off the left side of the UAL's tail.  When I looked closer, I couldn't figure out what it was or why it was following so closely.  I am not sure of the model of the UAL aircraft, but the "unknown" flying with it was about a quarter of the UAL's size, triangular shaped, point forward (but the forward point was slightly rounded toward the tip).  Its color was a flat, light g!rey - not shiny as a usual, unpainted aircraft would be.  It was as though the two crafts were flying in formation - that close.I keep them plain in sight until they had passed completely beneath our flight.There is probably a logical explanation for this, but it seemed very strange to me and when I review the sight in my mind, it still seems strange.   Others on the plane may have noted it, but no one else mentioned it.  I was sitting in a row next to a window, just forward of the leading edge of the aircraft, by myself.  My husband picked me up at the airport in Ontario and I mentioned it to him right away.  He guessed maybe it was some kind of target or balloon, but it did have some depth to it, yet nothing on top that I could see which might be like a raised cockpit area, nor did it have any tail(s) or projections, nor any indentation on the back edge like I have seen on some experimental aircraft.  Strange color, too, not too noticeable in the distance and if it had not been so clear, it might have disappeared into the desert sands and dust.  If there is an obvious answer to this one, I would appreciate some feed back.  Thanks</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02089.html](http://www.nuforc.org/webreports/reports/002/S02089.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
