@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:47 on 18 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:20 on 18 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Edison (NJ) reported seeing craft that fit the description of some 'Flash' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>In mid night, flashing big yellow white lights soared past my window  but then my neighbor claims to have seen it too.It was late at night perhaps in the morning around 3 am, when all of a sudden I started to feel a little light headed and distracted. I woke up from a deep sleep and saw that my sister was still sleeping pretty comfortably besides me. Like always my window blades were open and I remember that I could see the townhouses that were across my street very clearly. Then all of a sudden a flash of light, as big as my window, maybe a little smaller was right outside of it. It was so bright and I started to try to tell my older sister but she was still in a deep sleep. The lights were so bright and white and yellow. I went running up to my big window, not knowing wether my eyes played a trick on me or it was for real. By the time I was up to my window, the flash of lights or the oval or disk or whatever it was, was gone. I think it was in a disk or oval formation. The scary part of this event was that the next morning when I was heading to my bustop for school, my nieghbor, who usually walks with me to the bustop, said that when she was getting a glass of water in the middle of the night, she noticed wierd lights through her skylight window, and then she went and opened her front door and she saw a disk shaped object or something, then it dissapeared. She claimed that to me without me even mentioning the story to her before she told me. So the question is, is this a coincidence of both of us having a dream,but then how do you describe my nieghbor telling the same story I witnessed or did we both witness it for real???((NUFORC Note:  Witness indicates that date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44608.html](http://www.nuforc.org/webreports/reports/044/S44608.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Grants Pass (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Slow moving flames that interacted with a green light.Was outside last night locking the outbuildings and having a smoke.Saw a yellow flame moving slowly from the east right at the (partial) cloud level.  Thought it was a meteor at first, but the flame kept going.It headed towards a almost stationary green thing, about as bright as a big star, and they appeared to circle each other and headed lazily south.  Then two more "flames" came from the east, one after the other, and followed the green "star" and first "flame" which was much brighter than the rest.The brightest one illuminated the clouds a little, the rest were above the clouds and didn't illuminate them.They continued slowly south until they disappeared from view due to clouds & mountains.Don't think these were Chinese lanterns (but I've never seen one) because they were moving contrary to the clouds.  Clouds were moving towards the NNE at the time.There is a commercial air corridor here, but the aircraft only go north and south.Took a phone video of the last part of the event when they were moving away, but it's poor quality, all that can be seen are white dots.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126447.html](http://www.nuforc.org/webreports/reports/126/S126447.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162620.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162410.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162429.html)
-- [267](http://www.nuforc.org/webreports/reports/154/S154280.html)
-- [266](http://www.nuforc.org/webreports/reports/154/S154282.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
