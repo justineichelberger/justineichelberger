@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:27 on 18 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:21 on 18 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Kenner (LA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>On March 18, 2019, approximately 7:30pm, I was travelling West on I-10 from Kenner to LaPlace.  Half way to my left, I saw a craft(s) with a hugh bright light in front and the light wrapped around craft like a semi circle.  There were no other lights.  They were 3 of them in line formation, but some distance apart from each other.  They were stopped in midair not moving.  They were hugh in size.  I rolled my window down and was no sound whatsoever of any plane or helicopter.  I wanted to take pics or video it but travelling on interstate 70mph did not want to risk accident.  That was very strange!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145437.html](http://www.nuforc.org/webreports/reports/145/S145437.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Glendale (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>3/18/11 7:35 P.M Glendale, AZ Fireball falling from sky turns into 6 large glowing lights.March 18, 2011 Glendale, AZ 7:35 P.M  I was driving home from work and saw a light falling from the sky.  I turned onto Frier DR and 67th Ave in Glendale, AZ at 7:35 P.M when I noticed a light falling from the sky.  I stopped and got out of the car.  It looked like a single Firework falling from the sky instead of going up in the sky.  It was falling from the sky at a fast pace.  It then split into 2 falling “Fireworks” and continued to fall from the sky at a fast pace.  From the speed it was falling from the sky, I figured it was a meteorite.  All of a sudden both falling lights ran into each other and formed 1 falling “Firework”.  It then stopped and formed 5-6 steady lights that just stopped and stayed in one place.  The lights were not in a straight line.  I then started driving towards the objects in the sky.  It felt like I was getting closer to the objects and I thought I was about to see one of the lights up close but some trees got in the way.  By the time I got by the trees it was gone.I have no idea how far away I was from the initial sighting and how high in the sky it was.  From what I saw it lasted about 4 minutes.  There is an Air force base around the area of where the lights where coming from.  From where I was at, at the time of the sighting, I'd say I was about 10 miles from the Air force base.  The steady lights that I saw were big.  It was not an airplane.I was so curious and so quick to pick up the phone that I don’t remember if I saw 5-6 or 7 lights.  Like I said I thought it was a meteorite at first and didn’t think I needed to video tape it.  And I thought that my mind was playing tricks on me after seeing that horrible movie Battle Los Angles.  But I know what I saw and it was defiantly strange looking.  The speed that these lights were falling at and then to just stop and turn into steady glowing lights and sit in the sky was amazing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80523.html](http://www.nuforc.org/webreports/reports/080/S80523.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162620.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162410.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162429.html)
-- [267](http://www.nuforc.org/webreports/reports/154/S154280.html)
-- [266](http://www.nuforc.org/webreports/reports/154/S154282.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
