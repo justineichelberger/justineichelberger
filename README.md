@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:25 on 18 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:32 on 18 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Shelley Beach (Australia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A bunch of lights seen by a couple off the coast of AustraliaMe and my partner were at the beach and we seen a large number of lights far in the distance high over the water that were slowly moving.  These light sometimes went off and then came back on, they were not in any formation at all, they slowly moved south.  There is another persons report that I have seen that had similar photos.  I tried to record it and take photos but it was too far in the distance.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127925.html](http://www.nuforc.org/webreports/reports/127/S127925.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1984, an anonymous witness in Alton (ME) reported seeing craft that fit the description of some 'Other' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Mother Ship sighting in 1984There was 1 object heading due west on a perfectly crisp and clear March morning. The object was so large it appeared to be a huge cluster a stars at first glance. As the object neared our location we pulled to the side of the road and got out to get a better view. This ship was extremely large and the most incredible sight i've seen in my life. The ship moved at a steady pace approx 25mph. and did not deviate its speed. The altitude was approx. 700-800 ft. The ship had no set shape. There were hundreds of different shapes all over the entire mass which were covered with all white lights which seemed to be guides into the various shapes. The lights would softly glow and then receed into the various shapes at different intervals. Such a massive ship and there was no sound, it seemed to float over us.  There were 63 reported sightings of small ufo's of various colors and shapes reported to authorities all over the state of Maine on that morning.((NUFORC Note:  We will attempt to have the witness arrange to have some of the other witnesses to the other events submit reports, as well.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25571.html](http://www.nuforc.org/webreports/reports/025/S25571.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162620.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162410.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162429.html)
-- [267](http://www.nuforc.org/webreports/reports/154/S154280.html)
-- [266](http://www.nuforc.org/webreports/reports/154/S154282.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
