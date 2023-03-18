@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:22 on 18 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:31 on 18 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Claremont (NH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>4 pinkish orange fireball like, silent, slow moving objects over Claremont, NH.4 sound fireball objects moving north through sky. 3 were grouped together in a non-uniform downward facing triangle shape and the 4th lagged quite far behind.  Objects were pinkish orange in color and moved very slowly and made no noise.  They appeared to bank east toward Claremont airport and we lost our visual through the tree line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87859.html](http://www.nuforc.org/webreports/reports/087/S87859.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Green Bay (WI) reported seeing craft that fit the description of some 'Oval' over a period of approximately minutes - minutes minutes.</sub><blockquote><sub>16 Orange Lights In Slope Formation Near Pamperin ParkHeading westbound on Business Highway 29 near Pamperin Park, I sighted about 16 orange lights, aligned in twos vertically, forming an upward slope in a pattern that looked like ski slope lights.  They appeared to start their formation about 50 feet above the trees and slope up another 150 feet; they were positioned above the subdivision North of Riverdale Dr.  There were at least two of the lights moving in and out of the formation. I turned off at the Sherwood St exit and turned left onto Hillcrest Rd., in an attempt to find a vantage point where I could take a picture, but the trees were blocking my view of their last position.  I then got back onto the highway heading eastbound in and only saw one orange light remaining as I passed their previous location.  I headed into Pamperin Park in hopes to get somewhere underneath the orange light but upon arrival that one was gone too.  I don’t know how long they had been visible, but it was clearly seen from the highway when I passed.((NUFORC Note:  Source of the report elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133197.html](http://www.nuforc.org/webreports/reports/133/S133197.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162620.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162410.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162429.html)
-- [267](http://www.nuforc.org/webreports/reports/154/S154280.html)
-- [266](http://www.nuforc.org/webreports/reports/154/S154282.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
