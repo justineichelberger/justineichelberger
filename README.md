@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:10 on 18 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:47 on 18 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in St. George (ME) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright colored flashing strobe lights in an oval shape that turned West and North remaining in one placeI noticed one year back someone reported seeing in nearby Rockland what I saw:  This was a flashing object in the sky.  The flashes were bright and blue/white light. (I also saw red as well)  The light pattern was irregular but there did appear to be strobes in an irregular fashion.  The light being emitted appeared to stay in one spot the entire time.  (I saw the shape turn to the West then back to the North...the face of the object had the lights, you could not see them when the object turned)  I went to get binoculars to view. It did not appear man made.  I was not looking when it disappeared.  I plan to ask in town whether anyone else saw this.  It was over the St. George River between St. George and Cushing Peninsulas.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117911.html](http://www.nuforc.org/webreports/reports/117/S117911.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Edison (NJ) reported seeing craft that fit the description of some 'Flash' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>In mid night, flashing big yellow white lights soared past my window  but then my neighbor claims to have seen it too.It was late at night perhaps in the morning around 3 am, when all of a sudden I started to feel a little light headed and distracted. I woke up from a deep sleep and saw that my sister was still sleeping pretty comfortably besides me. Like always my window blades were open and I remember that I could see the townhouses that were across my street very clearly. Then all of a sudden a flash of light, as big as my window, maybe a little smaller was right outside of it. It was so bright and I started to try to tell my older sister but she was still in a deep sleep. The lights were so bright and white and yellow. I went running up to my big window, not knowing wether my eyes played a trick on me or it was for real. By the time I was up to my window, the flash of lights or the oval or disk or whatever it was, was gone. I think it was in a disk or oval formation. The scary part of this event was that the next morning when I was heading to my bustop for school, my nieghbor, who usually walks with me to the bustop, said that when she was getting a glass of water in the middle of the night, she noticed wierd lights through her skylight window, and then she went and opened her front door and she saw a disk shaped object or something, then it dissapeared. She claimed that to me without me even mentioning the story to her before she told me. So the question is, is this a coincidence of both of us having a dream,but then how do you describe my nieghbor telling the same story I witnessed or did we both witness it for real???((NUFORC Note:  Witness indicates that date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44608.html](http://www.nuforc.org/webreports/reports/044/S44608.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162620.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162410.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162429.html)
-- [267](http://www.nuforc.org/webreports/reports/154/S154280.html)
-- [266](http://www.nuforc.org/webreports/reports/154/S154282.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
