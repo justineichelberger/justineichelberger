@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:53 on 18 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:25 on 18 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in NJ Parkway (south)(Exit 109) (NJ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately  -  minutes.</sub><blockquote><sub>NJ parkway south exit 109.  White glow from sky.Driving home on the NJ Parkway south.  White light coming down from the sky.  Landed approx 2 blocks away.  Light when out just before impact.  All drivers on road saw it too all break lights turned red.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117893.html](http://www.nuforc.org/webreports/reports/117/S117893.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Brooksville (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>strange array of lights suddenly appear  about 1/2 mile in front of my truck, in Brooksville Florida.I was traveling west on Ayers Rd, in Brooksville, Florida about 3 miles east of the RR crossing, I was the only vehicle on the road at the time, I had my cruise control set at 55MPH, had my hi-beams on, all of the sudden these red lights appeared on the road ahead of me about a half mile away,  it was very odd the pattern of red lights  didnt match any vehicle that I was familiar with. I first thought this is huge what ever it is, it covered both lanes, about 30 ft wide and about 20 ft high with the one lone light on the other lane (east bound) was flashing.  As I got closer, I slowed down, turned off my high beams, I realized this moving  object is not a vehicle, I could see the trucks passing north and south on US41 through the lights, all of the sudden as I got closer about 400 feet away these lights all vanished in different directions, and the red lights went off simuntaneously...as they scattered. this all lasted about 5 to 10 minutes.((NUFORC Note:  We spoke with this witness via telephone at length on two occasions, and we found him to be quite objective and serious-minded.  We suspect he is a quite credible witness.  Also, we received a copy of the e-mail he sent to the Hernando County Sheriff's Office, detailing his sighting.  The e-message was sent approximately 33 minutes after the sighting.  The Sheriff's office reported that the witness is known to their personnel, and that they consider him to be highly reliable.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35670.html](http://www.nuforc.org/webreports/reports/035/S35670.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162620.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162410.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162429.html)
-- [267](http://www.nuforc.org/webreports/reports/154/S154280.html)
-- [266](http://www.nuforc.org/webreports/reports/154/S154282.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
