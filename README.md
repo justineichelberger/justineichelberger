@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:32 on 18 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:10 on 18 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1984, an anonymous witness in Alton (ME) reported seeing craft that fit the description of some 'Other' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Mother Ship sighting in 1984There was 1 object heading due west on a perfectly crisp and clear March morning. The object was so large it appeared to be a huge cluster a stars at first glance. As the object neared our location we pulled to the side of the road and got out to get a better view. This ship was extremely large and the most incredible sight i've seen in my life. The ship moved at a steady pace approx 25mph. and did not deviate its speed. The altitude was approx. 700-800 ft. The ship had no set shape. There were hundreds of different shapes all over the entire mass which were covered with all white lights which seemed to be guides into the various shapes. The lights would softly glow and then receed into the various shapes at different intervals. Such a massive ship and there was no sound, it seemed to float over us.  There were 63 reported sightings of small ufo's of various colors and shapes reported to authorities all over the state of Maine on that morning.((NUFORC Note:  We will attempt to have the witness arrange to have some of the other witnesses to the other events submit reports, as well.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25571.html](http://www.nuforc.org/webreports/reports/025/S25571.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in St. George (ME) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright colored flashing strobe lights in an oval shape that turned West and North remaining in one placeI noticed one year back someone reported seeing in nearby Rockland what I saw:  This was a flashing object in the sky.  The flashes were bright and blue/white light. (I also saw red as well)  The light pattern was irregular but there did appear to be strobes in an irregular fashion.  The light being emitted appeared to stay in one spot the entire time.  (I saw the shape turn to the West then back to the North...the face of the object had the lights, you could not see them when the object turned)  I went to get binoculars to view. It did not appear man made.  I was not looking when it disappeared.  I plan to ask in town whether anyone else saw this.  It was over the St. George River between St. George and Cushing Peninsulas.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117911.html](http://www.nuforc.org/webreports/reports/117/S117911.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162620.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162410.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162429.html)
-- [267](http://www.nuforc.org/webreports/reports/154/S154280.html)
-- [266](http://www.nuforc.org/webreports/reports/154/S154282.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
