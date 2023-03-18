@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:17:47 on 18 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:27 on 18 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Köniz (Switzerland) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.8333333333333334 - 0.8333333333333334 minutes.</sub><blockquote><sub>Hello Everyone, This is the first time i see such an object. We the human civilization are not capable of inventing such Circle glittering object. It was exactly 20 uhr swisstime, i went outside for a walk behind our house. Suddenly  I saw  2 circle like object which was emitting  ultra colours moving really fast from Eastern Hemisphere towards West.As an Indian in our Hindu philosphy which has written about 8000years they have mentioned about Gendarva(People from other planet)who appear in Bhumi(Earth)and disappear within fraction of seconds.So could you please tell me what exactly I have seen is  an UFO or something else.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16904.html](http://www.nuforc.org/webreports/reports/016/S16904.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Providence/Johnston (between; traveling) (RI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately Unknown, seemed to stay - Unknown, seemed to stay minutes.</sub><blockquote><sub>Large, red and spherical object "hiding" behind the moon at night.When traveling across Providence I noticed a large, spherical and red object behind the moon.  I looked at many times in different locations and it was still there.  Seems to be a quarter to a half of the size of the moon.  Had other people look at it and noticed the object.  It wasn't far out, the outside of the object was seen.  The red object seemed to be "hiding", and isn't obvious in plain sight.  The time I observed this was around 30 minutes. The object seemed to be imobile at the time of viewing.  There might of been a small haze at the outline.  I searched sites about astronomy and astronomical calendars but found nothing like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107940.html](http://www.nuforc.org/webreports/reports/107/S107940.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162620.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162410.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162429.html)
-- [267](http://www.nuforc.org/webreports/reports/154/S154280.html)
-- [266](http://www.nuforc.org/webreports/reports/154/S154282.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
