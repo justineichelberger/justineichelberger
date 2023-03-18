@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:32 on 17 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:37 on 18 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lyme/Haddam (CT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Possible UFO in Lyme/Haddam area.Unusual weather patterns and electrical interference.Hazardous conditions.((NUFORC Note:  One of many reports submitted by the same source, who elects to remain totally anonymous, and who provides no contact information.  Probable hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117894.html](http://www.nuforc.org/webreports/reports/117/S117894.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ludlow (MA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Small round silverfish objects over Masspike.While heading east on Mass Pike in Ludlow on 3/18/16, at approximately 4:40 PM, I noticed silverfish small round shape object in the sky on the right (one o'clock).  It was clearly visible against a dark blue cloud, near a bow of rainbow, which originally drew my attention to that spot in the sky.  I shortly noticed a second such object closer to the center of the view, and later two more on the left side.  The objects disappeared very shortly.  It started raining and no more sightings happen after that. Upon reviewing the recording form my dash cam, I saw not the four objects but numerous like flashing briefly objects showing up and disappearing very fast in that area.  The quality of the recording sadly is not that great.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126500.html](http://www.nuforc.org/webreports/reports/126/S126500.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
