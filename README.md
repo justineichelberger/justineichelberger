@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:20 on 18 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:27 on 18 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Grants Pass (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Slow moving flames that interacted with a green light.Was outside last night locking the outbuildings and having a smoke.Saw a yellow flame moving slowly from the east right at the (partial) cloud level.  Thought it was a meteor at first, but the flame kept going.It headed towards a almost stationary green thing, about as bright as a big star, and they appeared to circle each other and headed lazily south.  Then two more "flames" came from the east, one after the other, and followed the green "star" and first "flame" which was much brighter than the rest.The brightest one illuminated the clouds a little, the rest were above the clouds and didn't illuminate them.They continued slowly south until they disappeared from view due to clouds & mountains.Don't think these were Chinese lanterns (but I've never seen one) because they were moving contrary to the clouds.  Clouds were moving towards the NNE at the time.There is a commercial air corridor here, but the aircraft only go north and south.Took a phone video of the last part of the event when they were moving away, but it's poor quality, all that can be seen are white dots.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126447.html](http://www.nuforc.org/webreports/reports/126/S126447.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Kenner (LA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>On March 18, 2019, approximately 7:30pm, I was travelling West on I-10 from Kenner to LaPlace.  Half way to my left, I saw a craft(s) with a hugh bright light in front and the light wrapped around craft like a semi circle.  There were no other lights.  They were 3 of them in line formation, but some distance apart from each other.  They were stopped in midair not moving.  They were hugh in size.  I rolled my window down and was no sound whatsoever of any plane or helicopter.  I wanted to take pics or video it but travelling on interstate 70mph did not want to risk accident.  That was very strange!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145437.html](http://www.nuforc.org/webreports/reports/145/S145437.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162620.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162410.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162429.html)
-- [267](http://www.nuforc.org/webreports/reports/154/S154280.html)
-- [266](http://www.nuforc.org/webreports/reports/154/S154282.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
