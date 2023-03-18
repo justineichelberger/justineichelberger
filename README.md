@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:37 on 18 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:17:47 on 18 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Wrightsville (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>I see the same craft every night the are circle and glow different colors and they respond to a green laser light.  they are in a formation at times also but I see them every clear night we have((NUFORC Note:  We have corrected the time above.  We suspect the witness was observing a so-called "twinkling" star.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117915.html](http://www.nuforc.org/webreports/reports/117/S117915.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Köniz (Switzerland) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.8333333333333334 - 0.8333333333333334 minutes.</sub><blockquote><sub>Hello Everyone, This is the first time i see such an object. We the human civilization are not capable of inventing such Circle glittering object. It was exactly 20 uhr swisstime, i went outside for a walk behind our house. Suddenly  I saw  2 circle like object which was emitting  ultra colours moving really fast from Eastern Hemisphere towards West.As an Indian in our Hindu philosphy which has written about 8000years they have mentioned about Gendarva(People from other planet)who appear in Bhumi(Earth)and disappear within fraction of seconds.So could you please tell me what exactly I have seen is  an UFO or something else.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16904.html](http://www.nuforc.org/webreports/reports/016/S16904.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162620.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162410.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162429.html)
-- [267](http://www.nuforc.org/webreports/reports/154/S154280.html)
-- [266](http://www.nuforc.org/webreports/reports/154/S154282.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
