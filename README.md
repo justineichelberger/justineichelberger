@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:26 on 19 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:34 on 19 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Conway (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Bright light moving across the night sky.A bright illuminating light rising 95 degrees north, then proceeded across the sky to 110 degrees south east.  Then the light vanished disappearing from the night sky.  The light was low as if it was an air craft, but their was no beacons or flashing light.  The light was a constant stream of emitting light.  There were no sounds and it was moving at a constant rate of speed for 1:25 sec to 1:30 sec then it vanished right before my eyes.The light was not moving at a high rate of speed, but very slowly and steadily before vanishing.  It is a very clear night no clouds, and or fog, and the moon was out making it very bright out.  Not only on the ground, but in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107961.html](http://www.nuforc.org/webreports/reports/107/S107961.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Pacifica (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.041666666666666664 - 0.041666666666666664 minutes.</sub><blockquote><sub>Green-white intense light darting horizontally across the clear evening sky.Four of us were standing in a backyard talking when myself and a friend, both facing toward the East, observed a green-white fireball cross the sky.  The other two people present had not seen it as their backs were turned away from the object.  The intensly bright green-white object flew at a slight arc from the North to the South and faded as if going into a cloud or fog bank (we're on the California coast).  The object left a slight trail similar to one you might see during a meteor shower.  The object was much too large to be an airplane light or distant falling star.  The object was about the same size of a streetlight at night that would be about two city blocks away.The green and white colors blended together yet were intensely bright.  Imagine, if you will, an electric lettuce leaf - that kind of blended coloring.  The green coloring was brightest toward the outside of the object (outlined).The speed of the object was very fast, much too fast for an airplane.  My friend immediately mentioned the "lack of sound".Coincidentally (?), an earthquake occurred three hours later with the epicenter being here in Pacifica, California.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22284.html](http://www.nuforc.org/webreports/reports/022/S22284.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
