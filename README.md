@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:24 on 19 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:36 on 19 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Spring Hill (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10+ - 10+ minutes.</sub><blockquote><sub>Bright light with several changing colors over the Gulf of Mexico.I went outside to smoke a cigarette in the back yard that is west facing.  It was a clear night with a bright full or close to full moon.  I saw a bright light in the west which appeared to be at a high altitude.  This light was much brighter than every other light in the sky other than then the moon.  It appeared to be over the gulf of Mexico.  The light had several different colors to it.  It appeared to have smaller red lights in the center on the top and bottom and it looked like the light between the red lights changed colors (white, blue, orange).  It could have been a planet but or bright star, but I went out at the same time on the 20th and there was no light in that area.  I go outside and often look at the stars and track satellites and do not recall seeing a light this bright in that location of the sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107977.html](http://www.nuforc.org/webreports/reports/107/S107977.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Columbia (CT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Fireball fell from sky.Large fireball dropped from the sky in front of my son and I while driving east on rt 87.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109008.html](http://www.nuforc.org/webreports/reports/109/S109008.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
