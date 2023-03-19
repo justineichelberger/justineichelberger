@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:49 on 19 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:24:42 on 19 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Isanti (MN) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Extremely fast bright light, almost ball shaped with a streak of light both in front and behind it.  Red light on the bottom.My wife and I had just laid down for the night.  I was watching the sky out our window when I saw a very bright white light with a red light on the bottom streak across the sky.  I would say it was almost ball shape, however it had a streak of light both in front and behind it.  It was a cloudy night, and this was below the cloud level.  I would say that this passed over about two miles Southwest of Isanti, MN, and was headed in a Northwest direction.  We have a double window and I could clearly see it pass through the first, however halfway through the second it disappeared.  I am experienced with different types of aircraft, and drones, and this was neither.  We do have the occasional aircraft fly over, and can hear them, this did not make a noise.I found this site while attempting to find other reports or sightings of this.  It was a little upsetting that my wife had already closed her eyes and could not confirm what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145330.html](http://www.nuforc.org/webreports/reports/145/S145330.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Roger's Mesa (northwest of Hotchkiss) (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Saw a slow moving bright  star-like yellow,white light  mid-sky that pulsated bright and dim and drifted towards the horizonI was using the computer, when lines came across the screen and there was a lot of interference. So I turned-off the computer, and turned off the lamp, and headed downstairs. The hallway was dark, and as I passed by the north-facing window, I saw a bright light outside, above the tall trees jsut west of the window. I thought that it was one of the bright planets that are visible in the west this time of night, and stopped to look at it. But, it moved. The movement was slow - lazy - like drifting in the sky. The light pulsated - growing very bright - then dimming - and then growing very bright again. It moved from high to low, sort of drifting down in an arc. The direction of movement from here, was toward the town of Grand Junction north and west).When the light pulsed bright, it was as bright as Venus is now. When dim, could barely see it. Color - yellow-white. Size - not as large as Venus - more like the size Jupiter is now. Only saw it travel a short distance(don't know how many meters - can tell you that it was from the top of the trees to just before Redlands Mesa norht of me. Just couldn't see any light at that point. When I could no longer see it, I went downstairs and looked at the clock - 21:20. What did I see? Was this a space station? Was the pulsating light from the sun shinning on it when in certain positions? Why did it appear to be moving so slowly - drifting? It was intriging. I would really like to know what this object was. Thanks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16921.html](http://www.nuforc.org/webreports/reports/016/S16921.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
