@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:23 on 19 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:24 on 19 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in McKenzie (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Bright flash of white light .A single witness, a logging truck operator was coming back from picking up a load of logs when we reported to me, seeing a bright flash of white light directly in front of him at a fairly high altitude. When it caught his attention he watched the light heading in a northwesterly direction, from his location towards the south end of Williston Lake. His thoughts were that whatever it was, was a meteor as he said he sees a number of them while working in so many darkened hours. What the witness found strange about the sighting was before the light disappeared it changed direction slightly. After this change in it's flight path, he said it was gone. Just vanished. The sighting lasted approx: no more than 3 to 4 seconds. At arms length he said the light may have been the size of a pea. No sound was heard coming from the light, but this would be no surprise anyway due to him being in the cab of his truck, and they can be rather noisy. He wondered if I had any other reports of this type on the day. (HBCC UFO Note: I am not aware of any other reports from the area where this took place, but if anyone should have had a sighting on the day in question, and around the time provided above I would appreciate hearing from you. Thank you to the witness for his report.((NUFORC Note:  We express our gratitude to Brian Vike, Director of the Houston, British Columbia, Canada UFO Research organization, for sharing this report.  We encourage other witnesses to the same event to contact Mr. Vike directly at the following e-address:  <hbccufo@telus.net>   His website homepage for Canadian reports, or ordering his newsletter,  is:<http://www.geocities.com/hbccufo/home.html>     All the British Columbia UFO reported sightings to HBCC UFO Research can be found at:<http://www.geocities.com/ufologia_canadiana/BC2002sightings.html>PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28466.html](http://www.nuforc.org/webreports/reports/028/S28466.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Spring Hill (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10+ - 10+ minutes.</sub><blockquote><sub>Bright light with several changing colors over the Gulf of Mexico.I went outside to smoke a cigarette in the back yard that is west facing.  It was a clear night with a bright full or close to full moon.  I saw a bright light in the west which appeared to be at a high altitude.  This light was much brighter than every other light in the sky other than then the moon.  It appeared to be over the gulf of Mexico.  The light had several different colors to it.  It appeared to have smaller red lights in the center on the top and bottom and it looked like the light between the red lights changed colors (white, blue, orange).  It could have been a planet but or bright star, but I went out at the same time on the 20th and there was no light in that area.  I go outside and often look at the stars and track satellites and do not recall seeing a light this bright in that location of the sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107977.html](http://www.nuforc.org/webreports/reports/107/S107977.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
