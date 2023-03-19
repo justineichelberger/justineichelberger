@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:32 on 19 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:23 on 19 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Isanti (MN) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Extremely fast bright light, almost ball shaped with a streak of light both in front and behind it.  Red light on the bottom.My wife and I had just laid down for the night.  I was watching the sky out our window when I saw a very bright white light with a red light on the bottom streak across the sky.  I would say it was almost ball shape, however it had a streak of light both in front and behind it.  It was a cloudy night, and this was below the cloud level.  I would say that this passed over about two miles Southwest of Isanti, MN, and was headed in a Northwest direction.  We have a double window and I could clearly see it pass through the first, however halfway through the second it disappeared.  I am experienced with different types of aircraft, and drones, and this was neither.  We do have the occasional aircraft fly over, and can hear them, this did not make a noise.I found this site while attempting to find other reports or sightings of this.  It was a little upsetting that my wife had already closed her eyes and could not confirm what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145330.html](http://www.nuforc.org/webreports/reports/145/S145330.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in McKenzie (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Bright flash of white light .A single witness, a logging truck operator was coming back from picking up a load of logs when we reported to me, seeing a bright flash of white light directly in front of him at a fairly high altitude. When it caught his attention he watched the light heading in a northwesterly direction, from his location towards the south end of Williston Lake. His thoughts were that whatever it was, was a meteor as he said he sees a number of them while working in so many darkened hours. What the witness found strange about the sighting was before the light disappeared it changed direction slightly. After this change in it's flight path, he said it was gone. Just vanished. The sighting lasted approx: no more than 3 to 4 seconds. At arms length he said the light may have been the size of a pea. No sound was heard coming from the light, but this would be no surprise anyway due to him being in the cab of his truck, and they can be rather noisy. He wondered if I had any other reports of this type on the day. (HBCC UFO Note: I am not aware of any other reports from the area where this took place, but if anyone should have had a sighting on the day in question, and around the time provided above I would appreciate hearing from you. Thank you to the witness for his report.((NUFORC Note:  We express our gratitude to Brian Vike, Director of the Houston, British Columbia, Canada UFO Research organization, for sharing this report.  We encourage other witnesses to the same event to contact Mr. Vike directly at the following e-address:  <hbccufo@telus.net>   His website homepage for Canadian reports, or ordering his newsletter,  is:<http://www.geocities.com/hbccufo/home.html>     All the British Columbia UFO reported sightings to HBCC UFO Research can be found at:<http://www.geocities.com/ufologia_canadiana/BC2002sightings.html>PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28466.html](http://www.nuforc.org/webreports/reports/028/S28466.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
