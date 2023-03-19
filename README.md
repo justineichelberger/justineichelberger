@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:42 on 19 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:32 on 19 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Willard (KY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Lights flashing and flew over top of me, and acted as it was observations my body.((NUFORC Note:  For some reason, source of report indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133214.html](http://www.nuforc.org/webreports/reports/133/S133214.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Oroville (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>4 lights in the sky for 30 minutes, did not move.4 lights in the west sky.  Did not move at all for 30 minutes and then disappeared.  A large group of observers (parents and kids) witnessed this together at a children's baseball field.  They were not stars because the sun was up and they were on the side of the setting sun.  Very bright.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107958.html](http://www.nuforc.org/webreports/reports/107/S107958.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
