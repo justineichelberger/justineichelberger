@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:28 on 19 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:26 on 19 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Elkhart (IN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Seven balls of fire spaced perfectly all vanished at a certain pointThere were 7 objects spaced 1/2 mile perfectly traveling in a western direction climbing at a 30dgree level.Traveling at about 200 miles per hour estimate.Looked like fireballs untill they reached a certain point then fire was gone and could see a cylinder craft for just a short time then it would vanish. All 7 did this same thing in a parade like manner.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80538.html](http://www.nuforc.org/webreports/reports/080/S80538.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Forest Grove (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Hovering bright light in night sky 3am south of Forest Grove ORHovering light in distant sky south of Forest Grove, OR.  This is the 3rd occurence I have observed early in the morning (usually around 3am) object meanders about lazily left & right for a good amount of time.  It is very well lit for its size. Previous sighting included a smaller object directly below with flashing red/green markers.  Object was doing a good job maintaining a position (6 hundred+ est. feet) below the larger lit object.  If brightly lit object moved, then the green/red object would too as if on a long string hanging far below.  Whatever it is it seems as if this is a regular occurence.  Happy hunting((NUFORC Note:  Source of the report elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  For some reason, source of report indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133196.html](http://www.nuforc.org/webreports/reports/133/S133196.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
