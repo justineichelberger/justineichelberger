@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:25 on 19 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:28 on 19 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Palominas (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Four lights in the sky in Cochise CountyMyself, my wife, and two friends were sitting outside at around 19:45 hours, when I noticed what appeared to be a large aircraft with four bright headlights turning over the mule mountains from the southeast.  I observed the object for a couple of seconds, and the lights just disappeared.  The sky was bright because of the nearly full moon, so we had good visibility.  The object completely disappeared.  My wife is the only other person there that saw the object, and we both were stunned.  We are not crazy people!  I have spent time in the military and I still work for the government with a security clearance.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62254.html](http://www.nuforc.org/webreports/reports/062/S62254.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Elkhart (IN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Seven balls of fire spaced perfectly all vanished at a certain pointThere were 7 objects spaced 1/2 mile perfectly traveling in a western direction climbing at a 30dgree level.Traveling at about 200 miles per hour estimate.Looked like fireballs untill they reached a certain point then fire was gone and could see a cylinder craft for just a short time then it would vanish. All 7 did this same thing in a parade like manner.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80538.html](http://www.nuforc.org/webreports/reports/080/S80538.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
