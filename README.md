@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:26 on 19 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:26 on 19 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Forest Grove (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Hovering bright light in night sky 3am south of Forest Grove ORHovering light in distant sky south of Forest Grove, OR.  This is the 3rd occurence I have observed early in the morning (usually around 3am) object meanders about lazily left & right for a good amount of time.  It is very well lit for its size. Previous sighting included a smaller object directly below with flashing red/green markers.  Object was doing a good job maintaining a position (6 hundred+ est. feet) below the larger lit object.  If brightly lit object moved, then the green/red object would too as if on a long string hanging far below.  Whatever it is it seems as if this is a regular occurence.  Happy hunting((NUFORC Note:  Source of the report elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  For some reason, source of report indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133196.html](http://www.nuforc.org/webreports/reports/133/S133196.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Conway (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Bright light moving across the night sky.A bright illuminating light rising 95 degrees north, then proceeded across the sky to 110 degrees south east.  Then the light vanished disappearing from the night sky.  The light was low as if it was an air craft, but their was no beacons or flashing light.  The light was a constant stream of emitting light.  There were no sounds and it was moving at a constant rate of speed for 1:25 sec to 1:30 sec then it vanished right before my eyes.The light was not moving at a high rate of speed, but very slowly and steadily before vanishing.  It is a very clear night no clouds, and or fog, and the moon was out making it very bright out.  Not only on the ground, but in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107961.html](http://www.nuforc.org/webreports/reports/107/S107961.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
