@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:26 on 19 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:25 on 19 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>White lights w/blue halo over Santa Monica Fwy.I was traveling west on the Santa Monica Fwy. between Crenshaw Blvd. and La Cienega Blvd at approx. 20:30 hrs. when I saw a bright star drop down out of the sky.I watched as it flew eastbound parallel to the freeway towards me but off to the left.  About over W. Jefferson Blvd.  I'm in the fast lane and can't stop.As it got closer it is two brilliant white lights whith blue halos around each and blue sparks coming out of the halos in slow motion.  Not unlike fouth of July sparklers only blue.As it flew by me on the left it looked like an aircraft painted bronze.  It flew slow about 500-1000 ft. high.  I forgot all about it until my neighbor said blue lights had been seen over L.A.about four days later.  I was living in N.Calif at the time and was visiting for the weekend.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62090.html](http://www.nuforc.org/webreports/reports/062/S62090.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cayucos (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>fireball over cayucosFor several years off and on identifiable objects have appeared off the coast.  I have been trying to get one on film for close to 13 yrs.  On March 19th I was watching t.v. when a red light over the ocean caught my eye.  I watched it out my window for around a minute before getting my video camera hoping to get a closer look and document the event.  As I watched the object it got brighter and dimmer, giving off streaks of light in different colors.  I climbed out my bathroom window onto the roof to get a unobstructed view of the object. The air was freezing  and I didn't grab a jacket so it was hard to hold the camera still and I was standing on the pitch of the roof.  I filmed the object for close to three minutes.  The object seemed to be a orb of energy.  The round light would get really small, then grow large.  As the object got smaller the light got brighter, as it got bigger the object almost dissipated then would reform.  This object has appeared over the ocea! n several times over the last month.Years ago (around 1999) as many as 20 people were standing on the street all looking at an object that defied physics.  We made reports to the local news and they ran the story saying it was a weather balloon. Anyone that saw that object knows it was not a weather balloon.  Please tell me the best way to document these events as to leave no skeptics, I feel the central coast of California is a UFO hot spot and needs to be investigated by serious professionals.I have 3 minutes of what I feel is very good UFO footage.  I would love to have a professional in the field view my footage and give an explanation for what I have on film.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87878.html](http://www.nuforc.org/webreports/reports/087/S87878.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
