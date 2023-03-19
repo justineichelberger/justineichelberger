@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:34 on 19 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:26 on 19 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Pacifica (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.041666666666666664 - 0.041666666666666664 minutes.</sub><blockquote><sub>Green-white intense light darting horizontally across the clear evening sky.Four of us were standing in a backyard talking when myself and a friend, both facing toward the East, observed a green-white fireball cross the sky.  The other two people present had not seen it as their backs were turned away from the object.  The intensly bright green-white object flew at a slight arc from the North to the South and faded as if going into a cloud or fog bank (we're on the California coast).  The object left a slight trail similar to one you might see during a meteor shower.  The object was much too large to be an airplane light or distant falling star.  The object was about the same size of a streetlight at night that would be about two city blocks away.The green and white colors blended together yet were intensely bright.  Imagine, if you will, an electric lettuce leaf - that kind of blended coloring.  The green coloring was brightest toward the outside of the object (outlined).The speed of the object was very fast, much too fast for an airplane.  My friend immediately mentioned the "lack of sound".Coincidentally (?), an earthquake occurred three hours later with the epicenter being here in Pacifica, California.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22284.html](http://www.nuforc.org/webreports/reports/022/S22284.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>White lights w/blue halo over Santa Monica Fwy.I was traveling west on the Santa Monica Fwy. between Crenshaw Blvd. and La Cienega Blvd at approx. 20:30 hrs. when I saw a bright star drop down out of the sky.I watched as it flew eastbound parallel to the freeway towards me but off to the left.  About over W. Jefferson Blvd.  I'm in the fast lane and can't stop.As it got closer it is two brilliant white lights whith blue halos around each and blue sparks coming out of the halos in slow motion.  Not unlike fouth of July sparklers only blue.As it flew by me on the left it looked like an aircraft painted bronze.  It flew slow about 500-1000 ft. high.  I forgot all about it until my neighbor said blue lights had been seen over L.A.about four days later.  I was living in N.Calif at the time and was visiting for the weekend.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62090.html](http://www.nuforc.org/webreports/reports/062/S62090.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
