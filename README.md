@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:26 on 19 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:27 on 19 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Santa Barbara (CA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 57</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162618.html](http://www.nuforc.org/webreports/reports/162/S162618.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Taylors (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Fleet of 100 plus blue lights in SC night skyA group of friends and I witnessed strange lights in the sky this past Saturday night. I have been making calls and doing research online and have not been able to find out any information. We are all just regular folks with no prior UFO sightings. I certainly hope someone can explain to me what we saw.There was a group of blue lights in the sky. They looked like blue balls and we have estimated there were one hundred or more of them.  They were traveling in a group similar to a school of fish. They weren’t changing directions like fish.  They were just scattered within a group like fish. They made no noise and appeared to be around the altitude you would see a plane.  They were slowly and steadily traveling East to West and were not ascending or descending.  The only movement was horizontal. The lights were steady and did not flicker or flash.We watched this spectacle for several minutes.  When the group of lights had almost passed out of sight, we noticed 2 more balls of blue light traveling in the same direction.  These 2 blue balls of light were traveling faster as if to catch up with the first group.  They quickly traveled out of sight.No one had a camera with them, only cell phones.  Unfortunately, the pictures taken with cell phones did not turn out good.As a side note, we had a Super Moon that night. However, it was so cloudy you couldn’t even see the Moon.I have heard that at least 11 other people in the area saw the same lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80568.html](http://www.nuforc.org/webreports/reports/080/S80568.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
