@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:28 on 20 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:31 on 20 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Detroit (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Detroit Mi. 3/20/2001 VERY LARGE TRIANGULAR OBJECT SIGHTEDwe are located on the city's eastside  our doorway facing southeast we have a full veiw of the skyline for this area. we have new casinos in detroit and they use large sky lamps to advertise with these lights move across the cloudlines and me and my girlfriend stepped outside to go to the car as we were talking we saw a very slow moving object of very large size moving away from the casino lights across the skyline it was triangular in form  I first thought it was a formation of lights moving across the sky then we noticed airplanes ciculating about this object at very far to very close distances as to add speculation to what was happening. the city airport is less than 20 small city blocks from 7mi.road and gratiot.with very light traffic enough to go unnoticed these  planes were comming from Selfrige air force base at best guess flying down from the north. this object was so large theplanes look lessthan any sizable threat. the object move slow and silent 3large round white lights on the side it took on an eerie glow about it and seem to tilt and we saw more lights to myself it seem to look like an X in the sky to my girlfriend it looked like a humongus kite I waited for the news cast for thelast night and themorning and the afternoon to say something of  what was going on nothing was said.. so i made this report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16944.html](http://www.nuforc.org/webreports/reports/016/S16944.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Bright white cigar shaped object hovering in Western sky for 35 minutesAt approximately 4:10 this afternoon, 3-20-08, as I was going to my car, I looked up and saw a bright, white cigar shaped object in the sky to the west. It appeared to be hovering but was moving slightly vertically, and horizontally. I watched it for 5 minutes, and then called my neighbor to witness what I saw.  She saw it as well, and said I should report it. I called 911 and they connected me to the UFO Center.  I reported the incident to Mr Peter Davenport, who asked that I write this narrative. I also reported it to WFAA TV...the ABC Affiliate in Dallas.  They said no other sightings had been reported to them. While still viewing the object after 10 minutes, other American aircraft were flying around, over, and beneath the object. The American aircraft appeared to be military jets because there were smoke trails coming from the back of the crafts.  There were also domestic aircraft flying which looked MUCH smaller than the UFO, and I assume they were flying their regular routes. I went inside to get my binoculars...and through them I could see the object much better. There appeared to be an orange color on the bottom of the craft. I called my mother, who lives 6 miles away from me, and she saw the disc as well.  I have enclosed pictures of the craft.  I cropped 1 of the pictures...and I left the other 2 photos untouched, so the tree line would be visible.  The object had been visible for 35 minutes when I got into my car and left.  I came back home around 7:00 PM, but the object was no longer visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62265.html](http://www.nuforc.org/webreports/reports/062/S62265.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
