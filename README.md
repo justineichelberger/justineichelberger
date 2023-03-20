@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:47 on 20 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:32 on 20 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lodi (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Two small fast moving objects near clouds.On March 20 2019, about 6 pm, I was observing passing cumulus clouds when I saw an object.This object was rather small, moving at tremendous speed west to east.  The object appeared to be long and slender, about 5 times longer than it was thick.  It looked to be black in color, but that could not be verified.  It appeared to be pointed in front and tapered to the rear from it's thickest point.  Altitude is estimated to be about 6,000 feet, using the passing clouds as a reference.  I estimate the speed to be at least 500 mph.  It covered the visible arc from my viewing point in about 5 seconds.  This arc is about 45 degrees, give or take.  By the time I rounded the corner of my house for a better look, it was gone.About 3 minutes later, looking up to the West, I spotted an object that appeared to look like the first one.  This one was moving North to South at about half the speed as the first, but rapidly accelerated out of sight in an instant.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145366.html](http://www.nuforc.org/webreports/reports/145/S145366.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Loon Lake (WA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>A triangular shaped craft, or at least a triangle in 5 lights appeared moving from west to east. the lights were white. I noted no flashing red that I would expect on a plane. at that moment it stopped in the sky over the lake I estimate a few miles up. I watched for 5 mins went in house to get my cell and it was gone but 2 orbs that flash blue and red were hovering over the range across from the lake. the lights maintained position for over an hour they even cast a reflection in the lake which I also photographed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154407.html](http://www.nuforc.org/webreports/reports/154/S154407.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
