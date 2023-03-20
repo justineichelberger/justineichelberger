@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:32 on 20 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:30 on 20 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Kearny (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>round white object in kearny nji spotted a ufo in kearny nj about a month ago. i was alone i saw it on top on 27 Alexander ave. going to kearny ave. it went west to east. it was far up in the sky it was a round white object that flew under 2 seconds. it was a really windy day. im sure it was not a bird, plane or a ballon, i swear. i never believed in ufos but then i seen this and i do believe it now. i would not lie about something i did not see. ufo are real!!! were not alone, right?((NUFORC Note:  Source of report indicates that date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62796.html](http://www.nuforc.org/webreports/reports/062/S62796.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>What looked like a star high in the sky over San Francisco slowly moved then stopped then faded awayIn San Francisco, CA, on Thursday night, March 20th at around 11:00 pm, I noticed what looked like 2 stars close together at about the same magnitude of light high in the northwest sky.   I guess my peripheral vision detected a slight movement so I continued to look at the 2 stars.  Soon I realized that the right light was actually moving east very slowly.  Its light was a distinct muted red, definitely a different red from Mars.  If I were to measure the distance of travel at arm’s length it moved about 8-9 inches in the night sky.  It moved to the east for about 2 minutes and then stopped, soon after it just stayed in one position and after 30 seconds or so it began to slowly and steadily fade away until it was completely gone as if it were leaving Earth’s atmosphere.  It took about a minute to completely vanish.I know what it wasn’t.  It was not a satellite, airplane, jet, helicopter, weather balloon, Chinese floating lantern or anything else that I have seen before.  I do not know what it was.  I would love to understand what I saw.  I feel very lucky to have witnessed this event.  I keep asking myself, what the hell was it that I saw?!  I am curious to know if any other folks saw what I saw in the San Francisco sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69364.html](http://www.nuforc.org/webreports/reports/069/S69364.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
