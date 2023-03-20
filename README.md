@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:51 on 20 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:31 on 20 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Adelaide (Australia) () reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Chrome Rectangle Box UFO floating in sky.I was walking with my friend to our local train station through a small paddock,  We had to be careful because of Magpie birds swooping people.  So my friend and I would take turns looking up to make sure we weren't about to be attacked by these birds.  I turned around to check the sky behind us and i seen this rectangle Chrome box thing floating in the air (not moving) about 200 meters from the ground.  I'm assuming there was a heat source as the object was shimmering like the distant ground on a hot day.  It was around the size of car but perfectly squarish/rectangle.  At first, it looked like a silver refrigerator placed sideways in the sky, it was very shiny. I told my friend somethings floating in sky and he turned around, his first words was "is that a weather balloon?"  I responded, "Where's the balloon part and how is floating" right then the train we heading to beeped its horn to signal people it was near and we both looked away from the UFO box thing as the sound startled us, we turned back and it was gone.  My friend now pretends he didn't see it but i think its because his wife is religious.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85981.html](http://www.nuforc.org/webreports/reports/085/S85981.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Kearney (NE) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Going west to east. No sound.  No lights. Illuninated by city glare. Alt. unknown. Straight overhead.  Width, 2.5 fingers at arms length. (Thickness of fingers).9:46 pm, Mar 20, 1998. I went out side to get something out of my truck and heard Geese flying over.  I was looking up, blocking the house lights so I could see better. Some times when geese fly over at nite in the dark you can spot them in the city lights glare. As I looked somewhat to the west I thought I saw some comming over me going east. But as the lights from town hit IT,  I could make out a perfect triangle. For a few seconds I thought my eyes were playing a trick on me and it was really a flock of geese flying back to roost for the nite. But the harder I Iooked, the more I realized it was a solid shape,  not a "V".  It looked dark gray or black with only reflected light illuminating it. It continued east untill it was out of the glare of the city.  I continued to watch that direction to see if it blocked out any stars momentairly,  but it didn't, (that I could tell).  When it was directly overhead, it didn't pass over any brite stars, to block them out.  I couldn't tell how high it was but it was 2  1/2 fingers long.  That is, the thickness of my fingers at arms length. There were comercial jets in the area at their crusing alt. but I suspect this UFO was way lower then them because one finger could easily block them out.   Not 2 to 3 like the UFO. This is about all I saw.  Just here a few second...then gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03369.html](http://www.nuforc.org/webreports/reports/003/S03369.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
