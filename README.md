@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:31 on 20 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:51 on 20 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Bright white cigar shaped object hovering in Western sky for 35 minutesAt approximately 4:10 this afternoon, 3-20-08, as I was going to my car, I looked up and saw a bright, white cigar shaped object in the sky to the west. It appeared to be hovering but was moving slightly vertically, and horizontally. I watched it for 5 minutes, and then called my neighbor to witness what I saw.  She saw it as well, and said I should report it. I called 911 and they connected me to the UFO Center.  I reported the incident to Mr Peter Davenport, who asked that I write this narrative. I also reported it to WFAA TV...the ABC Affiliate in Dallas.  They said no other sightings had been reported to them. While still viewing the object after 10 minutes, other American aircraft were flying around, over, and beneath the object. The American aircraft appeared to be military jets because there were smoke trails coming from the back of the crafts.  There were also domestic aircraft flying which looked MUCH smaller than the UFO, and I assume they were flying their regular routes. I went inside to get my binoculars...and through them I could see the object much better. There appeared to be an orange color on the bottom of the craft. I called my mother, who lives 6 miles away from me, and she saw the disc as well.  I have enclosed pictures of the craft.  I cropped 1 of the pictures...and I left the other 2 photos untouched, so the tree line would be visible.  The object had been visible for 35 minutes when I got into my car and left.  I came back home around 7:00 PM, but the object was no longer visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62265.html](http://www.nuforc.org/webreports/reports/062/S62265.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Adelaide (Australia) () reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Chrome Rectangle Box UFO floating in sky.I was walking with my friend to our local train station through a small paddock,  We had to be careful because of Magpie birds swooping people.  So my friend and I would take turns looking up to make sure we weren't about to be attacked by these birds.  I turned around to check the sky behind us and i seen this rectangle Chrome box thing floating in the air (not moving) about 200 meters from the ground.  I'm assuming there was a heat source as the object was shimmering like the distant ground on a hot day.  It was around the size of car but perfectly squarish/rectangle.  At first, it looked like a silver refrigerator placed sideways in the sky, it was very shiny. I told my friend somethings floating in sky and he turned around, his first words was "is that a weather balloon?"  I responded, "Where's the balloon part and how is floating" right then the train we heading to beeped its horn to signal people it was near and we both looked away from the UFO box thing as the sound startled us, we turned back and it was gone.  My friend now pretends he didn't see it but i think its because his wife is religious.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85981.html](http://www.nuforc.org/webreports/reports/085/S85981.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
