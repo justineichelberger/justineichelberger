@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:21 on 20 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:25 on 20 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Demopolis (AL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>me and a coworker were outside. We say this large disk shaped craft. It hovered about 2 minutes.lights were lighting up from outside to inside of the under part of the disk. It didnt make a sound. It wasnt there then it was.  It hovered for 2 minutes.  Then it was gone.  It scared us to death.  We went inside and told everyone.  Then we called the police and reported it.  Nothing happened.  No one believed us.  The craft was bigger than the hospital i was working at.  The people we told said it was a weather balloon.  Weather balloons dont look like that and aren't larger than a hospital.  Ill never FORGET.  But I cannot remember the exact date. Thanks</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155929.html](http://www.nuforc.org/webreports/reports/155/S155929.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Southern Pines (NC) reported seeing craft that fit the description of some 'Flash' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Erraticly moving craft emmitting light pulses.Traveling Southbound on US Highway 1, towards Richmond County.  Light pulses coming from the southwest.  Pulses increased in intensity until last flash, then light source dissappeared.  Sourse of light moving at an indeterminate speed.  Ft. Bragg is located approximately 30 miles from the area, but the source of the light was too erratic to be military.  Light source was definetely not ground based (i.e. search lights) and the movement was not the sort a low flying helicopter would make.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16948.html](http://www.nuforc.org/webreports/reports/016/S16948.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
