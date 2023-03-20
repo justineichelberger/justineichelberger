@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:34 on 20 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:33 on 20 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Nambour (Australia) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>3 Lights with a flat baseIt was sitting there, while I was taking photos  It was there on the last week and reappeared again,  I do not know what it is but kinda scares me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133220.html](http://www.nuforc.org/webreports/reports/133/S133220.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Forest (VA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>4 or 5 rows  of white  lights that made the shape of a rectangle tower , it was hovering over neighbors house for at least 30 min.On March, 20th, 2017, at 6:15 am my husband and I went out to smoke a cigarette before I left for work.  When we walked outside, my husband quickly asked me if I can see those lights hovering over a house across the street, and of course, I see the lights, there was three or four rows of white lights that made the shape of a rectangle tower.  I ran inside to get my phone because the lights started moving upward very slowly.  When I came back out, I watched it slowly move into the sky, and I started filming.  In my video you can see a white light, that now only looks like a tiny ball move in a jumping pattern, very quickly and then disappears.  I can also see a type of aura trailing behind the object.  At first after this happened, my husband and I thought drones were spying on the house it was hovering over, but after going back and watching the video, it makes us both think it's not a drone, plane, or helicopter.  Those type of aircraft can not move in that way.  We have not seen anything else strange accure since then, but every morning, I find myself freaked out when going in to work.  I'm not sure what we saw, but neither of us can explain what it is we saw, maybe someone else may have some insight on if this could be a drone or a UFO ???  The whole incident lasted for about 30 min.  My husband had been outside 20 to 30 min. before I filmed, and saw the lights then. He said he kept wondering what they were and then he finally asked me what I thought when I went outside with him.  I think he knew something wasn't right from the start, but just needed confirmation from another person. You never think, hey I'm going to see a UFO today, so this had to all settle in!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133379.html](http://www.nuforc.org/webreports/reports/133/S133379.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
