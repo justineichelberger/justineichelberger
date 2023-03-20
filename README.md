@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:24 on 19 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:47 on 20 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Willard (KY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Lights flashing and flew over top of me, and acted as it was observations my body.((NUFORC Note:  For some reason, source of report indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133214.html](http://www.nuforc.org/webreports/reports/133/S133214.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lodi (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Two small fast moving objects near clouds.On March 20 2019, about 6 pm, I was observing passing cumulus clouds when I saw an object.This object was rather small, moving at tremendous speed west to east.  The object appeared to be long and slender, about 5 times longer than it was thick.  It looked to be black in color, but that could not be verified.  It appeared to be pointed in front and tapered to the rear from it's thickest point.  Altitude is estimated to be about 6,000 feet, using the passing clouds as a reference.  I estimate the speed to be at least 500 mph.  It covered the visible arc from my viewing point in about 5 seconds.  This arc is about 45 degrees, give or take.  By the time I rounded the corner of my house for a better look, it was gone.About 3 minutes later, looking up to the West, I spotted an object that appeared to look like the first one.  This one was moving North to South at about half the speed as the first, but rapidly accelerated out of sight in an instant.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145366.html](http://www.nuforc.org/webreports/reports/145/S145366.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
