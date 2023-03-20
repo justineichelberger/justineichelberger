@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:25 on 20 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:31 on 20 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Southern Pines (NC) reported seeing craft that fit the description of some 'Flash' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Erraticly moving craft emmitting light pulses.Traveling Southbound on US Highway 1, towards Richmond County.  Light pulses coming from the southwest.  Pulses increased in intensity until last flash, then light source dissappeared.  Sourse of light moving at an indeterminate speed.  Ft. Bragg is located approximately 30 miles from the area, but the source of the light was too erratic to be military.  Light source was definetely not ground based (i.e. search lights) and the movement was not the sort a low flying helicopter would make.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16948.html](http://www.nuforc.org/webreports/reports/016/S16948.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in El Dorado (KS) reported seeing craft that fit the description of some 'Formation' over a period of approximately  -  minutes.</sub><blockquote><sub>There was over 50 small but very visible lights in formation one after the other coming from the north headed south bound.I have seen 50+ ufos they were in formation one after another not very far apart. The background was very clear with no light pollution.  The objects seemed to be small lights but very visible in the night sky.  The objects had no sound so they had to be at a very high altitude.  They were coming of the north headed south bound in El Dorado, Kansas, at the El Dorado Lake State Park.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154321.html](http://www.nuforc.org/webreports/reports/154/S154321.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
