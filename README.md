@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:26 on 20 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:44 on 20 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Medford (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Circular craft, 600-1000 ft off the ground, and would shoot up to the elevation of most high flying planes within a few seconds.  At the closest it was only about 3 blocks away.  Alternating colors of blue and red and would occasionally turn ultra violet of maybe had camouflage.  It was twice the size of a jet and could accelerate at inconceivable rates and stop on a dime and hover for several minutes.  It finally left by shooting off into the distance in just an instant, disappearing on the horizon.((NUFORC Note:  Source of the report provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133763.html](http://www.nuforc.org/webreports/reports/133/S133763.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Jasper (Canada) (AB) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Classic UFO Flying Saucer seen in Mountains near JasperWell. I guess technically what I saw was NOT a UFO...becuase it was not flying. However, there is no other way for this object to get where it was.I live in a National Park in Canada. I commute each work day in and out of the park. I know this stretch of road very well. When you travel a route as often as I do...you recognize things that are not usual.On this particular day, the sky was fairly clear of clouds...and the sun would have been to the south at the time of my sighting. I'm thinking the object would have been...as the crow flies...maybe 5 miles(8km's) from the highway. And up at the top of the mountains that surround our town.What I saw was the classical UFO Flying saucer. It was perched up behind 2 mountain peeks. Probably 2/3rds of this object was visible. It was VERY large. I suppose that if you were not from this area...and saw this thing..you may think it was some kind of manmade structure. But I assure you...there is NOTHING at the top of this Mountain Range. Not before my sighting...and not since.If I can find someone who can help me to measure the distance from the highway where I saw this object more accurately...or the distance between the 2 peeks where I viewed it...I will pass this information on to you.The thing that I find very curious about my sighting is what 'I' did. Nothing. I just stared at it. In disbelief. I didn't even stop my car. I do not know how long it stayed there or which direction it flew to.But since that time...I have seen incredibly bright lights 'behind' those peeks. I even took a pic with my digital but when I zoomed in on it...all you could see was distorted pixels. I keep my eyes posted on that hill on a daily basis now. I hope I'll be able to supply you with a REAL picture some day soon.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49293.html](http://www.nuforc.org/webreports/reports/049/S49293.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
