@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:44 on 20 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:18 on 20 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Jasper (Canada) (AB) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Classic UFO Flying Saucer seen in Mountains near JasperWell. I guess technically what I saw was NOT a UFO...becuase it was not flying. However, there is no other way for this object to get where it was.I live in a National Park in Canada. I commute each work day in and out of the park. I know this stretch of road very well. When you travel a route as often as I do...you recognize things that are not usual.On this particular day, the sky was fairly clear of clouds...and the sun would have been to the south at the time of my sighting. I'm thinking the object would have been...as the crow flies...maybe 5 miles(8km's) from the highway. And up at the top of the mountains that surround our town.What I saw was the classical UFO Flying saucer. It was perched up behind 2 mountain peeks. Probably 2/3rds of this object was visible. It was VERY large. I suppose that if you were not from this area...and saw this thing..you may think it was some kind of manmade structure. But I assure you...there is NOTHING at the top of this Mountain Range. Not before my sighting...and not since.If I can find someone who can help me to measure the distance from the highway where I saw this object more accurately...or the distance between the 2 peeks where I viewed it...I will pass this information on to you.The thing that I find very curious about my sighting is what 'I' did. Nothing. I just stared at it. In disbelief. I didn't even stop my car. I do not know how long it stayed there or which direction it flew to.But since that time...I have seen incredibly bright lights 'behind' those peeks. I even took a pic with my digital but when I zoomed in on it...all you could see was distorted pixels. I keep my eyes posted on that hill on a daily basis now. I hope I'll be able to supply you with a REAL picture some day soon.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49293.html](http://www.nuforc.org/webreports/reports/049/S49293.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Woodbury (MN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>4 separate fiery looking balls traveling at a high rate of speed from the NW sky toward the SE sky.I observed a total of 4 high speed traveling fireballs beginning in the northwestern sky, traveling very quickly across the sky toward the southeast.  As each ball crossed above it almost appeared as if the fire was like a rocket burner moving in a circular direction.  As each object traveled away it became less and less intense. I imagine this was due to the distance traveled.  As the first object was reaching the more southern half of the sky, the next one appeared.  I thought I may have seen what appeared to be lightening but I can't be certain and there are no current storms in the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87900.html](http://www.nuforc.org/webreports/reports/087/S87900.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
