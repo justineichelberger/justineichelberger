@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:31 on 20 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:21 on 20 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Kentwood (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Craft motionless above us we pulled over and stopped very large triangle shape several glowing lights on bottom, craft as big as one or two football fields after a min or two craft slowly moved west up and away turned north picking up speed ...no noise  when above us it was only about 100 to 300  feet up.....Father and daughter (39 and 15 in age) Father Had been in Army Rangers trained to observe and report information, familer with aircraft Daugher your average 15 year old drug free.....She was first to see it and kept telling me to look as I looked I could see some lights and a shape so I pulled into a gas station and got out of the car the craft was large a triangle shape pointing west.....the first thing I noticed was that it made no noise and seemed to have bigger brighter lights near the bottom of each point of the triangle smaller lights in from those it was so big and close we could not see the sides of it until it started to move away.......it seemed to have some lights or windows along its sides moviing west ....up and away it still made no noise......it turned towards the north and we got in our car and started to drive along the road ....soon it was gone ....it seemed to be 20 to 50 feet in hieght......</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04227.html](http://www.nuforc.org/webreports/reports/004/S04227.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Demopolis (AL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>me and a coworker were outside. We say this large disk shaped craft. It hovered about 2 minutes.lights were lighting up from outside to inside of the under part of the disk. It didnt make a sound. It wasnt there then it was.  It hovered for 2 minutes.  Then it was gone.  It scared us to death.  We went inside and told everyone.  Then we called the police and reported it.  Nothing happened.  No one believed us.  The craft was bigger than the hospital i was working at.  The people we told said it was a weather balloon.  Weather balloons dont look like that and aren't larger than a hospital.  Ill never FORGET.  But I cannot remember the exact date. Thanks</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155929.html](http://www.nuforc.org/webreports/reports/155/S155929.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
