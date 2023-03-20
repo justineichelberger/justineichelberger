@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:31 on 20 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:26 on 20 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Kearney (NE) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Going west to east. No sound.  No lights. Illuninated by city glare. Alt. unknown. Straight overhead.  Width, 2.5 fingers at arms length. (Thickness of fingers).9:46 pm, Mar 20, 1998. I went out side to get something out of my truck and heard Geese flying over.  I was looking up, blocking the house lights so I could see better. Some times when geese fly over at nite in the dark you can spot them in the city lights glare. As I looked somewhat to the west I thought I saw some comming over me going east. But as the lights from town hit IT,  I could make out a perfect triangle. For a few seconds I thought my eyes were playing a trick on me and it was really a flock of geese flying back to roost for the nite. But the harder I Iooked, the more I realized it was a solid shape,  not a "V".  It looked dark gray or black with only reflected light illuminating it. It continued east untill it was out of the glare of the city.  I continued to watch that direction to see if it blocked out any stars momentairly,  but it didn't, (that I could tell).  When it was directly overhead, it didn't pass over any brite stars, to block them out.  I couldn't tell how high it was but it was 2  1/2 fingers long.  That is, the thickness of my fingers at arms length. There were comercial jets in the area at their crusing alt. but I suspect this UFO was way lower then them because one finger could easily block them out.   Not 2 to 3 like the UFO. This is about all I saw.  Just here a few second...then gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03369.html](http://www.nuforc.org/webreports/reports/003/S03369.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Medford (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Circular craft, 600-1000 ft off the ground, and would shoot up to the elevation of most high flying planes within a few seconds.  At the closest it was only about 3 blocks away.  Alternating colors of blue and red and would occasionally turn ultra violet of maybe had camouflage.  It was twice the size of a jet and could accelerate at inconceivable rates and stop on a dime and hover for several minutes.  It finally left by shooting off into the distance in just an instant, disappearing on the horizon.((NUFORC Note:  Source of the report provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133763.html](http://www.nuforc.org/webreports/reports/133/S133763.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
