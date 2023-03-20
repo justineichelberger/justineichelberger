@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:30 on 20 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:27 on 20 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Monastir (Tunisia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>white light moving fast and making stops between two points in a cloudy skywhile i was enjoying a cigarette in my backyard i looked at the sky and i noticed a strange light moving from two points over and over , it never changed its course the weather is cloudy and a little bit rainy the event lasted for a minute or so , I don't know if what i saw is a ufo or not ,,, but i don't think that any kind of human made aircraft could move that fast from one point to an other and make stops at each one of them ,,,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96634.html](http://www.nuforc.org/webreports/reports/096/S96634.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Mt. Pocono (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Wittnessed extraterrestrial almost face to face.I did not see a ufo; however I witnessed an extraterrestrial looking at me through my back window. This is no joke; it was quite vivid. 6 to 7 feet tall diamond shaped eyes bright green and set very wide apart. Went to get a closer look and this being moved to the left at a very high rate of speed into the woods.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18360.html](http://www.nuforc.org/webreports/reports/018/S18360.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
