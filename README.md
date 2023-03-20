@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:30 on 20 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:31 on 20 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>What looked like a star high in the sky over San Francisco slowly moved then stopped then faded awayIn San Francisco, CA, on Thursday night, March 20th at around 11:00 pm, I noticed what looked like 2 stars close together at about the same magnitude of light high in the northwest sky.   I guess my peripheral vision detected a slight movement so I continued to look at the 2 stars.  Soon I realized that the right light was actually moving east very slowly.  Its light was a distinct muted red, definitely a different red from Mars.  If I were to measure the distance of travel at arm’s length it moved about 8-9 inches in the night sky.  It moved to the east for about 2 minutes and then stopped, soon after it just stayed in one position and after 30 seconds or so it began to slowly and steadily fade away until it was completely gone as if it were leaving Earth’s atmosphere.  It took about a minute to completely vanish.I know what it wasn’t.  It was not a satellite, airplane, jet, helicopter, weather balloon, Chinese floating lantern or anything else that I have seen before.  I do not know what it was.  I would love to understand what I saw.  I feel very lucky to have witnessed this event.  I keep asking myself, what the hell was it that I saw?!  I am curious to know if any other folks saw what I saw in the San Francisco sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69364.html](http://www.nuforc.org/webreports/reports/069/S69364.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Kentwood (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Craft motionless above us we pulled over and stopped very large triangle shape several glowing lights on bottom, craft as big as one or two football fields after a min or two craft slowly moved west up and away turned north picking up speed ...no noise  when above us it was only about 100 to 300  feet up.....Father and daughter (39 and 15 in age) Father Had been in Army Rangers trained to observe and report information, familer with aircraft Daugher your average 15 year old drug free.....She was first to see it and kept telling me to look as I looked I could see some lights and a shape so I pulled into a gas station and got out of the car the craft was large a triangle shape pointing west.....the first thing I noticed was that it made no noise and seemed to have bigger brighter lights near the bottom of each point of the triangle smaller lights in from those it was so big and close we could not see the sides of it until it started to move away.......it seemed to have some lights or windows along its sides moviing west ....up and away it still made no noise......it turned towards the north and we got in our car and started to drive along the road ....soon it was gone ....it seemed to be 20 to 50 feet in hieght......</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04227.html](http://www.nuforc.org/webreports/reports/004/S04227.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
