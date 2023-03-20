@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:32 on 20 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:21:59 on 20 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Loon Lake (WA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>A triangular shaped craft, or at least a triangle in 5 lights appeared moving from west to east. the lights were white. I noted no flashing red that I would expect on a plane. at that moment it stopped in the sky over the lake I estimate a few miles up. I watched for 5 mins went in house to get my cell and it was gone but 2 orbs that flash blue and red were hovering over the range across from the lake. the lights maintained position for over an hour they even cast a reflection in the lake which I also photographed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154407.html](http://www.nuforc.org/webreports/reports/154/S154407.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Chico (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Extraordinarily fast moving spherical object with pulsing light...On the evening of Tuesday, March 20, 2007 at 9:11PM, in Chico, California, I was walking with my dog NE on Satinwood Way, just having turned N from Eaton Rd. I looked into the sky and there was a spherical object moving at an extraordinarily fast speed (faster than anything I have seen with my naked eye) on a diagonal down towards earth. I would say it was about 100 feet off of the ground. There was a light pulsing from the object that was somewhat like a strobe light although the lights did not move like a strobe light. The light was pulsing and was very bright, almost incandescent. I only saw the object for approximately 4-5 seconds and then it disappeared as if the light was suddenly turned off. The object was seemingly gone and I did not see it again although I waited for a few minutes. My dig did not notice and there was no one else around on this semi dark cul de sac.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55837.html](http://www.nuforc.org/webreports/reports/055/S55837.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
