@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:21:59 on 20 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:27 on 20 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Chico (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Extraordinarily fast moving spherical object with pulsing light...On the evening of Tuesday, March 20, 2007 at 9:11PM, in Chico, California, I was walking with my dog NE on Satinwood Way, just having turned N from Eaton Rd. I looked into the sky and there was a spherical object moving at an extraordinarily fast speed (faster than anything I have seen with my naked eye) on a diagonal down towards earth. I would say it was about 100 feet off of the ground. There was a light pulsing from the object that was somewhat like a strobe light although the lights did not move like a strobe light. The light was pulsing and was very bright, almost incandescent. I only saw the object for approximately 4-5 seconds and then it disappeared as if the light was suddenly turned off. The object was seemingly gone and I did not see it again although I waited for a few minutes. My dig did not notice and there was no one else around on this semi dark cul de sac.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55837.html](http://www.nuforc.org/webreports/reports/055/S55837.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Hopewell Junction (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately Over an hour - Over an hour minutes.</sub><blockquote><sub>Triangle figure flashing lights in sky for over an hour.Triangle like figure seen in sky flashing different colors..  Stayed in the same spot for over an hour and slightly kept getting lower to the ground.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87918.html](http://www.nuforc.org/webreports/reports/087/S87918.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
