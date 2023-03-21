@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:28 on 21 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:35 on 21 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Bright green light disappeared above Charlotte skyline.My husband and I were driving towards Uptown on South Blvd.  Between the tops of two of the tallest buildings, we saw what looked like a huge bright green-glowing light.  It appeared much closer to the buildings, and we ruled out planes since there were a few flying overhead at the same time. It suddenly arched up and to the left and just disappeared all within about 2-3 seconds.  We were wondering if anyone else saw this as well.  It was just about 8pm on Friday evening, March 21, 2008.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62287.html](http://www.nuforc.org/webreports/reports/062/S62287.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Bristol (VA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My name is ((deleted)) and i was driving down the street.  A flash of light with a flying saucer suddenly appeared it swayed back and forth for about five minutes.The car suddenly shut off and i drifted to the side of the road. I paniced because it started approaching me. My brother ((deleted)) was with me and can verify this strange occurance.  My number is 466-((deleted)).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/006/S06370.html](http://www.nuforc.org/webreports/reports/006/S06370.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
