@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:28 on 21 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:40 on 21 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Athens (WV) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I was driving to work, later down the road when I was turning onto the I-77 on ramp from Athens, I saw very briefly towards the West (about 3 sec) a small chevron shaped object maneuvering through the clouds/fog over the Camp Creek area around 4am this morning,  It swooped down from the fog and did a loop and swooped back up into clouds/fog, it had no lights only a dark circle under its belly, the reason why I got a glimpse of it is because when it swooped down the glow of the city lights reflected off its belly, the size of this thing was about the size of a small aircraft and it was about 1200ft in the air and about 4mi away from my location over the hills, like I said I only saw what it did very briefly and never saw it again.  It might have been a military test drone, I've heard that the WV air force base in Charleston sometimes test aircraft over the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133247.html](http://www.nuforc.org/webreports/reports/133/S133247.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Mount Horeb (WI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>24 objects in trail format moving west to east over south central Wisconsin at extremely high altitudeAt approximately 212030MAR20 observed 24 objects coming from the west traveling east the lead two objects were parallel to each other and every other object fell in trail formation behind the northern most lead object. All objects maintained the exact same spacing interval and at approximately 50° above the western horizon each object flared brightly. None of the objects produced any noise and we estimate the altitude to be somewhere at or above the stratosphere level. The event lasted approximately 15 minutes. First witness is a 10 year Army Scout veteran Second witness is an active duty Army Scout of 15  years We were conducting a night time coyote hunt when we noticed the objects moving overhead I have two IPhone videos but they lack quality due to low light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154374.html](http://www.nuforc.org/webreports/reports/154/S154374.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
