@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:29 on 20 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:38 on 21 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Shelby (IA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>03/15/2013 around Shelby Ia.(near)  04:00   Blinking crossbuck lights and plane disappearwhat I saw was two blinking white lights that flashed like a railroad crossing light. what happened next was that an airplane of some sort took off from around Omaha Ne.  where Offut Airforce base is located and headed for the blinking lights, after a couple of minutes everything vanished.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100967.html](http://www.nuforc.org/webreports/reports/100/S100967.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Kingfisher (OK) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Triangle Shape, 2 bright halogen lights, clear or hollow middleUFO Sighting March 21, 2004 7:26pm Kingfisher, Oklahoma Highway 3  My friend and I were driving west (into Kingfisher) on Highway 3 when we saw what we thought was a low flying airplane.  We continued to look at the "plane" and realized it couldn’t be a plane because it was to bright.  At that time the flying object flew straight down as if it were going to crash. That is when I saw the 2 very bright (like Halogen lights) on either side of the object and the shape was a triangle.  The weird thing was it was clear or it did not have a middle (only the outside shape of a triangle).  It continued to go straight down for a couple of seconds then did like a U-turn and started flying (right above the tree line) the same way it did before it flew down. After it did the U-turn and it was flying horizontally. It hovered over the ground then went straight down and landed.  We could see where it landed though the trees.  All we could see was a very bright light. We turned around at a gas station and went back.  We turned down a dirt road, which was really a cemetery.  We got scared and didn’t want to go into a dark cemetery so we turned back around and started driving the way we were originally driving.  We could still see the bright light though the trees. I turned to say something to my friend, looked back and it was gone.  Just like that. I don’t know how it went out or where it went. All I know is what I saw was not a plane. It was in a triangle shape with two bright halogen lights on either side. I hope this report helps!((NUFORC Note:  We spoke with this witness via telephone, and she seemed quite sincere to us.  The case is under investigation by MUFON/Oklahoma, which had an investigator on site within 4-5 hours of the incident.  PD))((NUFORC Note:  As of July 2005, we are still awaiting a report from MUFON/Oklahoma.  NUFORC has heard nothing, despite several attempts on our part to get the investigators to submit even a brief summary report of their findings.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35750.html](http://www.nuforc.org/webreports/reports/035/S35750.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
