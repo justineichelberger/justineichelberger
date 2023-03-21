@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:26 on 21 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:26 on 21 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Greenfield (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The ufo had two very bright lights side by side it was moving slowly and made a hovering sound.I went to lock my door and when I glanced out the door window I saw it. It was very bright like a planet on a clear night. Exept that it had two bright lights side by side and was moving slowly. I woke my husband up and he saw it he at first thought it was a planet until he noticed it was moving. I thought I had time to get my camcorder I was gone maybe a minute by the time I got outside it was gone all there was , was a strange hovering sound and then nothing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22294.html](http://www.nuforc.org/webreports/reports/022/S22294.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Parsippany (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>It is a very clear night here in New Jersey.  I was walking in my complex when I started to look up at the stars since they were so visible.  That's when I noticed an object moving across the sky very fast with NO SOUND.  It appeared to be almost invisible with a outline of a boomerang.  On the bottom there were two dim orange lights almost like a flashlight when the battery dies.  And has it went by it just faded away while still moving very fast!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108003.html](http://www.nuforc.org/webreports/reports/108/S108003.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
