@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:32 on 21 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:25 on 21 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Hampton (VA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Stationary green sphere changed to red and beginning moving northwest.Observed single green stationery light, after about 2 minutes light changed to red and began moving Northwest.  Not blinking, stayed solid, no noise and moved at a good speed.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126488.html](http://www.nuforc.org/webreports/reports/126/S126488.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Beaver (OK) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately ? - ? minutes.</sub><blockquote><sub>Army or some one military pulling craft out from beneath sand..we were threatened  to remain silent.  I come forward now because of disappearencews of people reported at that time i am just lately  made aware ofI investigated as I was asked to . I am an archaeologist with state of Nebraska. My sister (a local) asked me to look in to rumors of  green lightning and uncovered ancient artifacts in sand hills of beaver county. I did so and was detained by military. I do not know what branch. Also men in black suits were present. Now  all these years later I noticed websight  of Shamens Portal. I ne lieve there is a connection. Please do not attempt to contact me as I fear for my and family,s safety. Website I saw was at : ((URL deleted))((NUFORC Note--This a second-hand report.  We have received no first-hand accounts of this incident, to the best of our knowledge.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11287.html](http://www.nuforc.org/webreports/reports/011/S11287.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
