@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:58 on 21 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:13:22 on 21 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Des Moines (IA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>On the above date and time, my partner and I were patrolling the park.  We were talking about the moon how it was so close to the earth last night.  I looked up to show him the moon because it was a full moon and the moon was really bright, when those lights (round shaped) in a v-shaped formation (5-7 in the v formation and one on the left side and another on the right side in front of the v-shaped formation) flew above our heads pointing and flying north. I started yelling: "Do you see it, do you see it?," grabbed my partner and pointed towards the lights.  He then confused said: "Are those ducks?"  I than said that those were not ducks but UFO’s. He agreed with me and we continued to debate if they really were UFO’s or some kind advanced Air Force jets.  There was no sound and they flew in formation.  My supervisor told me not to tell anybody because he thinks that those were just planes and he doesn’t want me to make a fool out of myself.  I guess I won’t ever find out what that really was.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80548.html](http://www.nuforc.org/webreports/reports/080/S80548.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Carnsville (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately :08 - :08 minutes.</sub><blockquote><sub>me and my son were driveing home, and we seen what looked like a ball of fire moving at a fast rate of speed,and it disapered behind some trees. i was trying to find a way to report this, but this is the only site my son found.((NUFORC Note:  Date may be approximate, although the source does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74243.html](http://www.nuforc.org/webreports/reports/074/S74243.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
