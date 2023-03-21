@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:35 on 21 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:38 on 21 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Weston (FL) reported seeing craft that fit the description of some 'Flash' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Shinning at brief moments very intense reflection.Object was observed in a stationary position, but also seemed to do a very slow rectangular pattern, several aircraft in the area wich help determined object was very far and at high altitude.Object seem to be Northeast of my position or about 053 degrees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133244.html](http://www.nuforc.org/webreports/reports/133/S133244.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Lake Isabella (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately  -  minutes.</sub><blockquote><sub>Boomerang shape lights at Lake Isabella, CA. They were NOT planes!((NUFORC Note:  We spoke via telephone with this witness, and we found her to be quite serious-minded, and seemingly quite credible as a witness.  Please see the other report, submitted by her mother.  The father also witnessed the event, and we have requested a third report from him.  He is an aviation professional, and probably a quite qualified witness, we suspect.  PD))Camping at Paradise Cove, at Isabella Lake CA. about 9pm, a man at the next camp site came over to ours saying " You wanna see a UFO!!!" and pointed to the sky towards the southern mountain next to Walker Pass road.We all ran over to catch a glimps of boomerang aranged lights, multi-colors pass behind the mountain right in front of the moon light. Looked to be very large! My Father an Air Traffic Controller had witnessed it and was in complete shock of the sight. Saying in all his years with the Air Force and now an Air Traffic Controller could not explain the object! We walked back to our site and talked about what we had seen, thinking it was gone.Moments later, my Mother noticed in the distance over the east end of the lake, strange light in the sky once more. My Father had his binoculars ready by then and we took turns watching this object become closer with no sound. He said it must be a mile long. But all you can see is its lights, nothing else. The closer it got we started seeing the end lights break off from it in the direction they where pointed and slowly as they went downwards form same size object as the one they broke off of.They seemed to be circling in the same directions over the first mountain to the south of us and back around through the east part of the lake.This event lasted about an half hour and two more objects broke off the main one, until the main object turn shape into a diamond and the others disappeared. The main object, now a diamond shape slowly made its way over the north mountains and was gone!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62348.html](http://www.nuforc.org/webreports/reports/062/S62348.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
