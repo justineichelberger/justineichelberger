@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:58 on 21 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:31 on 21 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Windsor (VT) reported seeing craft that fit the description of some 'Changing' over a period of approximately 25 + - 25 + minutes.</sub><blockquote><sub>5 unidentified light formations with bright lights changing in color, and direction, lights go in different patternsFive different sets of flashing lights that very from red/white/blue,  four appear to be stationary, however one appear to be white traveling faster past the 4 appearing to be traveling south of the other 4...When view through binoculars the objects appear to change, to what appears to be a red/blue/white type of laser light zipping around. Was first noticed about 03:30 am, and at the time of this writing, we can still view the light in the north.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69313.html](http://www.nuforc.org/webreports/reports/069/S69313.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in Wewahitchka (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I could only see the underside of it from about 25-50 yards. It had a bright light underneath. It left fast, really  fast.I was waiting in my car in my boyfriends yard when I saw a bright light about 25-50 yards in front of me hoovering over a barn. I got down in the floor of my car. It just sat there, I didn't hear anything. It scared me but at the same time I wanted to look at it. I don't remember it doing anything. I can't remember seeing the top of it but it was real bright around the underside of it. It just stayed in one place for about 5-10 minutes and then it made a slight move upward to leave and it was gone. I don't mean it slowly left, I mean it was gone. I told a few friends who laughed at me so I never told anyone until about 25 years later and mentioned it to my then boyfriends mom. She turned pale. I thought she was going to laugh at me but she said she had seen it to and had never said anything to anyone. I wish I had talked more about it back then because I keep feeling like I forgot alot about it by supressing it. I wonder if hypnosis would help me remember.OK, so you want to know if I'm a nut. I don't feel that way. I was a student either a senior in high school or just out. You would think that I would have that date engraved in my memory but I don't. I do remember exactly where I was when JFK got shot, Elvis died and both of our space shuttles went down but I can't tell you the dates of them either. I have been a nurse for 27 years and my boyfriends mom is still a practicing nurse today at age 79.I KNOW what I saw!!  They are out there somewhere.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30913.html](http://www.nuforc.org/webreports/reports/030/S30913.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
