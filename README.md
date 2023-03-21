@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:30 on 21 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:28 on 21 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Safety Harbor (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Extremely bright white rectangle in the northern skyLast night I saw an extremely bright light in the sky around 9:00pm eastern.  I've never seen it before.  It was almost rectangle shape and much closer than a star.  I continued to watch over the course of a couple of hours as it moved north.  It was slow moving, but visibly moved over the course of the 2 hours.  As it moved further away it became more circular.  Have several photos and videos as well as a second witness.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154353.html](http://www.nuforc.org/webreports/reports/154/S154353.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Athens (WV) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I was driving to work, later down the road when I was turning onto the I-77 on ramp from Athens, I saw very briefly towards the West (about 3 sec) a small chevron shaped object maneuvering through the clouds/fog over the Camp Creek area around 4am this morning,  It swooped down from the fog and did a loop and swooped back up into clouds/fog, it had no lights only a dark circle under its belly, the reason why I got a glimpse of it is because when it swooped down the glow of the city lights reflected off its belly, the size of this thing was about the size of a small aircraft and it was about 1200ft in the air and about 4mi away from my location over the hills, like I said I only saw what it did very briefly and never saw it again.  It might have been a military test drone, I've heard that the WV air force base in Charleston sometimes test aircraft over the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133247.html](http://www.nuforc.org/webreports/reports/133/S133247.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
