@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:35 on 21 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:32 on 21 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in hancock (MD) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>ufo spraying black gas cloudtraveling directly above Interstate 70 in Maryland right above the blue goose market.was moving west very slow at snail's pace right over the highway, three lights in a triangle configuration with originating from the center outwards very dark pitch black MOVING shadows (almost like a GAS being SPRAYED!!!!!! out) moving outward from the center through the middle of the 3 lights everything behind this craft just above and slightly below was pitch black thick fog cloud you could not see any stars at all, no moon either, just a wall of darkness right behind it as far as you could see.it was completely silent and I could sware I felt a downdraft as it went over me  I keep feeling little spasms in the back right side of my brain. I drove towards and into the cloud and out the other side to where I could see stars again barely kinda 40 miles to get out from under the black cloud cover  I got a couple of pictures, kept getting yelled at by my girl to start driving away so I didn't have time to get video, we sat there and looked at it for a good 10 mins we both recognized it as NOT natural and highly mysterious. I hope if this is nefarious extraterrestrial or terrestrial terrorism that the government is fighting for us and not just hiding in bunkers</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154309.html](http://www.nuforc.org/webreports/reports/154/S154309.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Hampton (VA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Stationary green sphere changed to red and beginning moving northwest.Observed single green stationery light, after about 2 minutes light changed to red and began moving Northwest.  Not blinking, stayed solid, no noise and moved at a good speed.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126488.html](http://www.nuforc.org/webreports/reports/126/S126488.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
