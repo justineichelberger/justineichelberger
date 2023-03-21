@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:23 on 21 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:28 on 21 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in University Place/Fircrest (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 22.0 - 22.0 minutes.</sub><blockquote><sub>3 yellow gold objects in triangle formationAt about 7:55 pm, I was traveling South on Orchard and had crested a hill near Praise Church, when I noticed 3 very bright yellow gold lights that were in a triangle formation.  The lights seemed to hover over what looked to be over the green belt area off of Emerson and Orchard.  As I got closer towards the intersection of Orchard and Emerson the objects appeared to hover and then the three objects changed direction, moving from right to left (eastward).  As they made this move, the triangle formation expanded and became bigger.  As I made a right turn from Orchard onto Emerson I pulled off to the road hand side of the road to watch them (https://www.google.com/maps/@47.2209661,-122.5086383,360m/data=!3m1!1e3). There was another car pulled off on the other side of the road we didn’t talk.  I stayed there about 10 mins watching the objects.  As I was watching them they flew in this bigger triangle towards the South, towards Lakewood.  I made a U turn back onto Emerson.  I made a right turn back onto Orchard and I was able to see the objects flying towards Lakewood… When I was on Lakewood Drive (Orchard turns into Lakewood Dr) and 80th St SW one of the objects started to fly off and the other two lights dimmed to a faint gold color and then the objects just went dark.  At this time I was near Stoney Creek Apts and across the street is the Fleet Creek open area (https://www.google.com/maps/@47.1807927,-122.5065424,352m/data=!3m), where I saw the objects black out in the sky and disappear. Of note the skies were clear and there were many vehicles on Orchard and Emerson.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108017.html](http://www.nuforc.org/webreports/reports/108/S108017.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Bright green light disappeared above Charlotte skyline.My husband and I were driving towards Uptown on South Blvd.  Between the tops of two of the tallest buildings, we saw what looked like a huge bright green-glowing light.  It appeared much closer to the buildings, and we ruled out planes since there were a few flying overhead at the same time. It suddenly arched up and to the left and just disappeared all within about 2-3 seconds.  We were wondering if anyone else saw this as well.  It was just about 8pm on Friday evening, March 21, 2008.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62287.html](http://www.nuforc.org/webreports/reports/062/S62287.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
