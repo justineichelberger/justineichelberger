@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:33 on 22 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:30 on 22 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Visalia (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1hr. - 1hr. minutes.</sub><blockquote><sub>2007, March 22 @ 19:30  Amber lights seen over Visalia, CA2007/03/22: The first time I saw the object was about 19:30. I was standing by my car when I saw the light about 2 miles away. Then within a matter of seconds it was over my head moving towards the east. It was a bright amber sphere and was moving extremely fast without sound or without leaving a contrail. I tried to drive to keep it in my sight. By the time I had driven three blocks the object had moved about 15 miles eastward. I decided that it would be pointless to pursue any further since it had traveled so fast. After that I headed towards the northwest side of town where my friend lived. Just before arriving at his home, I saw the same object fly over me again at an incredible speed, this time toward the west. I called my friend since the object would soon fly over his home. My friend didn’t believe me thinking I was making a joke. There were three of us at my friend’s house, when about 21:30 I decided to make a food run. As I was driving I saw the same object again, but this time there were two objects one just above the other. I stopped my car to make sure that it wasn’t a perception problem. I called my friend and immediately drove toward his home again. The three of us saw the objects slowly move, stop, hover, and move again. The movements of the objects were very erratic and they moved independently from one another. One friend, that was watching these objects with me, was in the navy and worked as an aircraft identifier on a carrier ship. He said that there was nothing to his knowledge that would exhibit that kind of movement and fly that close together. We watched these objects as they slowly moved across the sky. After about five minutes, they started blinking and then just vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55870.html](http://www.nuforc.org/webreports/reports/055/S55870.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Liverpool (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Witnessed an orange light rise above the tree line.  Proceeded slowly for approximately 1 minute then hovered in place.  Craft created no audible noise.  At this time I went inside to get my kids to see it, by the time I went in and came back out (less than 10 seconds) the object was gone.During the time of the sighting our dogs and bird had become agitated even though they could not visibly see the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154430.html](http://www.nuforc.org/webreports/reports/154/S154430.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162454.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162448.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162870.html)
-- [254](http://www.nuforc.org/webreports/reports/154/S154404.html)
-- [253](http://www.nuforc.org/webreports/reports/154/S154394.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
