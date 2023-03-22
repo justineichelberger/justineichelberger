@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:34 on 22 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:24 on 22 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1983, an anonymous witness in Milpitas (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>They were bright round objects huffering over the water  7-1-2011  First of all, am not a crazy, lonely, emotional person seeking fame or money?   After seeing this with my friend I didn’t tell anybody not even my family.  I just told them a couple years ago,  I don’t know about my friend,  I haven’t seen him since we worked together.Here is goes:  It was a Sunday afternoon around 3 to 4 o’clock, we were taking a drive past a reservoir and then these round bright light objects were just huffering (sic.  Hovering)) over the water, then stayed there about 2 to 3 minutes. Then they took off over the mountains, they took off at an incredibly speed.  I can’t even guess how fast they took off, but I know this, there is nothing on this planet that can go that fast. THAT’S IT((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82054.html](http://www.nuforc.org/webreports/reports/082/S82054.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Wilmington (NC) reported seeing craft that fit the description of some 'Cone' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>a bright light shined on me and 5 buddies and then we saw ufosI was walking out side and all of the sudden there was a bright light and it lasted for 10 seconds. Then i saw 3 flying objects in three sky spinning. they were changing shapes but mostly they were cones.   They were a greenish color and trhis lasted for 30 minutes and then they disapeared((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69344.html](http://www.nuforc.org/webreports/reports/069/S69344.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162454.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162448.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162870.html)
-- [254](http://www.nuforc.org/webreports/reports/154/S154404.html)
-- [253](http://www.nuforc.org/webreports/reports/154/S154394.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
