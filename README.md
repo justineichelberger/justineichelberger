@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:23 on 22 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:30 on 22 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1983, an anonymous witness in Milpitas (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>They were bright round objects huffering over the water  7-1-2011  First of all, am not a crazy, lonely, emotional person seeking fame or money?   After seeing this with my friend I didn’t tell anybody not even my family.  I just told them a couple years ago,  I don’t know about my friend,  I haven’t seen him since we worked together.Here is goes:  It was a Sunday afternoon around 3 to 4 o’clock, we were taking a drive past a reservoir and then these round bright light objects were just huffering (sic.  Hovering)) over the water, then stayed there about 2 to 3 minutes. Then they took off over the mountains, they took off at an incredibly speed.  I can’t even guess how fast they took off, but I know this, there is nothing on this planet that can go that fast. THAT’S IT((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82054.html](http://www.nuforc.org/webreports/reports/082/S82054.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Greenville (TN) reported seeing craft that fit the description of some 'Egg' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Truckers followed by pulsating red light for 2 nightsOn March 22nd, approx 21:30 hours, two gasoline tanker truck drivers were followed by a large pulsating red light down rural Interstate I-81 in east Tennessee.The light was first noticed by the second witness in a truck following the lead truck.He radioed the lead driver to notify him of the odd light which was moving with them at 70 mph. The light reminded them of a "beating heart" and it would go out, only to re-appear in another part of the sky. These drivers have been driving this same stretch of highway for years and have never seen this object before.The next night, the object re-appeared in the same location and followed them again but this time the object had a small green light on the bottom of the red pulsating one. As soon as they reached the I-40 exchange, the object "blinked out" and was gone. Witness #1 was a crew chief on a B-52 Bomber for many years and  assures us that this object was no conventional aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35912.html](http://www.nuforc.org/webreports/reports/035/S35912.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162454.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162448.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162870.html)
-- [254](http://www.nuforc.org/webreports/reports/154/S154404.html)
-- [253](http://www.nuforc.org/webreports/reports/154/S154394.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
