@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:14:39 on 22 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:26 on 22 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Dallas/(Irving) (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A huge multi-lighted object hovered stationary over the eastern part of DFW airport.I was walking my dogs at 9:45 pm local time.  Heading east along the backside of my apartment complex.(This faces DFW airport which is approx 4 miles away)  I walk my dogs this direction on a regular basis and am quite familiar with the flight paths of the airport.  I noticed a multi-level bank of lights approx 500-1000 ft above the ground.  At first I thought I must be seeing a top of a building.  However, I realized that there was no building of that height any where in that location.  As I continued to observe the object I noticed that it had some kind of blinking lights.  I attempted to climb a fence to gain a better vantage but was unable to gain any better view.  The night sky was clear.  I continued to observe the object for several more seconds.  At no time did it move.  I would estimate it was 20 times the size of a commercial aircraft. At no time was there any movement.  At the time I was unable to really comprehend what I had observed.  I began to return with my dogs to my apartment.  Before I arrived I began to shudder and sweat. Realizing that I had witnessed an unusual occurance I return to the location where I had observed the object and it was gone. I walked around the complex seeking to find anyone whom might have observed the same thing.  I couldn't find anyone.  I spent the next hour or so returning to the site where I had observed the object, I also drove to the area I felt it had been located to see if by chance there was a building or anything to explain what I had seen.  There was nothing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05983.html](http://www.nuforc.org/webreports/reports/005/S05983.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in New Port Richey (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>White oval object, moving from East to West.The object was 300 Feet in the air.  Color was all white.  Shape was oval to spherical. Travelling East to West in a straight line.  Moving at about 30 mph.  There was no sound. The object did not change direction.  Wind for the location was E 4 mph.  Visibility was clear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126490.html](http://www.nuforc.org/webreports/reports/126/S126490.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162454.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162448.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162870.html)
-- [254](http://www.nuforc.org/webreports/reports/154/S154404.html)
-- [253](http://www.nuforc.org/webreports/reports/154/S154394.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
