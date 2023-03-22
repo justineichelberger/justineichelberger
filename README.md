@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:34 on 22 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:32 on 22 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Brick/Lakewood/Toms River (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange lights over Parkway in Ocean County.I was headed South on the Garden State Parkway near exit 91 when I saw a bright orange light appear then disappear over the right hand side treeline.  I observed it do this 3 times each time in a different position.  I intially thought it was a light on a tower. One to three minutes passed and I again saw the light appear this time centered above the road in the distance.  It moved relativly slowly in a 45 degree upwards angle to the right (west).  As it did so it dropped smaller lights in grouos of three, three times which slowly descented and vanished after a second then diasappeared.  Roughly 30 seconds later it reappeared in a lower position slightly to the right and began the 45 degree path again, again dropping the smaller lights.  It reappeared a third time again in a lower position and began its 45 degree path this time without dropping the smaller lights.  barely a second after it reappeared the third time a second light appeared to the left of the first light and began dropping the groups of smaller lights.  I then exited the Parkway at exit 88 onto Rt 70 in Brick Township.  Across the street from the tollbooth is a Best Western Hotel, the light then reappeared over the hotel and lingered for a few seconds. I then turned onto Rt 70 west and lost sight of the light. I've lived in the area all my life and there are several small airports, and airforce base and a naval base within 30 minutes of the area of the sighting.  The lights did not appear to be or behave like aircraft, not could it have been a meteor as the speed was too slow and was headed in an odd trajectory.  Military flares also do not explain it as there was no aircraft in the area during the sighting, and the area is very densely populated as well as the military bases being only stop offs for larger cargo planes which fly low and are very noisy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43141.html](http://www.nuforc.org/webreports/reports/043/S43141.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Rocky Hill (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I think that I may caught a UFO on the NBC Nightly News that aired March 21st or 22nd.In this short clip of a Boeing 747, as the plane flies left to right, you can see a black circular object flying eradicably (sic.  Erraticly)) behind the tail wing,  I’m guessing at a distance of about 25-30 feet.If you slow the video down you can home in on the object more so.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145297.html](http://www.nuforc.org/webreports/reports/145/S145297.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162454.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162448.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162870.html)
-- [254](http://www.nuforc.org/webreports/reports/154/S154404.html)
-- [253](http://www.nuforc.org/webreports/reports/154/S154394.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
