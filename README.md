@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:31 on 22 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:41 on 22 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Doylestown (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Lights in the sky, hovering. No noise. It hovered over some trees. Then I heard sounds from jets, ( airforce? ). Before the jets, some little sesna type crafts were flying close to it.I saw hovering lights in the sky. It drew my attention 'cause there were an unusual amount of local private planes flying around. They were going to it, and coming back from it. Then the local small planes left and all that was there was the hovering craft.  A few mins. later I heard jets coming twords it and the before they got there it was gone. This all lasted about 5mins. The colors on the object were Blue, Red, Green, Yellow, and White. It was a disk shape and the lights surrounded it. Turning on and Off</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03381.html](http://www.nuforc.org/webreports/reports/003/S03381.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Windsor (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright light processed by a light blue light that flew away came back two minutes later seems like it interacted with the white light and both flew away within seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108012.html](http://www.nuforc.org/webreports/reports/108/S108012.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162454.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162448.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162870.html)
-- [254](http://www.nuforc.org/webreports/reports/154/S154404.html)
-- [253](http://www.nuforc.org/webreports/reports/154/S154394.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
