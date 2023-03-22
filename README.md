@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:33 on 22 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:54 on 22 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hamilton (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately flying - flying minutes.</sub><blockquote><sub>a Circle of  a fireball really brights lightYes this was crazy I work 3rd shift so I was leaving for work at 12:30am in when I walk outside I looked up n seen a fireball really bright round light it's was like a circle of fire my dog ran outsi. but really close it was moving slow n then it took off really fast n disappear it was so close that I would of new if it was a plane or a helicopter it was a UFO I new it in I was shock after I went to look it up what seen in to my surprise alot of people claim to see the same thing IM kinda scare cause  friend told me that if the government new what I really seen I would be watch n stuff..((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110806.html](http://www.nuforc.org/webreports/reports/110/S110806.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some '' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Caller first called at 2153 hrs. on Friday, 22MR96, and left a message. He was standing outside to look for the comet, when he noticed a V-shaped formation of points of light almost directly overhead.  Eadh "wing" of the "V" consisted of approximately 10 objects, each about the size of a small star.  Each side of the "V" was swept about 10 degrees behind the straight line oriented perpendicular to the line of flight of the formation. The formation had a very high angular velocity, and the observers estimate was that they were moving at a very high speed.  He stated that they looked like a formation of jet fighters, but there was no sound.  The formation was moving faster than a formation of fighters would have been moving.  The observer watched them pass through approximately 15 degrees of arc, moving from west to east--toward the lights of Houston to the east of his position--when they disappeared from his sight because of the brightness of the ambient light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01244.html](http://www.nuforc.org/webreports/reports/001/S01244.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162454.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162448.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162870.html)
-- [254](http://www.nuforc.org/webreports/reports/154/S154404.html)
-- [253](http://www.nuforc.org/webreports/reports/154/S154394.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
