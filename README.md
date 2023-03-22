@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:26 on 22 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:33 on 22 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Staten Island (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>2 bright spheres flying strange patterns.I was sitting in my home office and my desk is right in front of my window.  Something caught my attention so I looked up.  There's an airport nearby, so I'm constantly seeing planes, but this was unlike anything I've seen before.  Two spherical objects in the distance, probably silver in color (could not tell if it was the light reflecting off of it or if IT was shining light) where flying very strange patterns.  There is no commercial flying object that can fly these sort of patterns, of this I am certain.  The flying patterns were not even describable.  They were almost zig-zaggy in nature, with weird circling patterns.  This all lasted about 5-10 seconds and they suddenly just disappeared from the sky! I don't think it was birds because these objects looked like they were much, much higher than commercial airlines fly, and plus, they just didn't look like any bird I know.  Maybe it was some kind of space event (meteors, shooting stars, etc)?  I don't know.  It was definitely something weird.   Here's the thing though... about 10 years earlier, I saw something similar with my family while sitting in my backyard.  Except at that time there were far more than 2 of them, and the event lasted a little longer than 5-10 seconds.  Probably a couple of minutes, and then was followed by sighting of several military aircraft (jets) in the area.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117987.html](http://www.nuforc.org/webreports/reports/117/S117987.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lake Havasu City (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange orb in sky silent changed direction but looked the same, disappearedMy daughter and I were taking a walk in the neighborhood.  The sky is very big here, many stars, very little light pollution.  I noticed an object coming from approximately the southeast traveling west/northwest.  It was orange in color, at first I thought that it was probably a plane, but then I noticed that there was no sound at all, completely silent- it’s very quiet here too! When I studied it further, it looked like the flames in one of those fake fireplaces. My daughter and I watched it for a minute more, I looked down at the ground and when I looked back up it was gone. Completely gone, I saw absolutely no aircraft of any kind anywhere in the visible sky. I had her looking too- she’s seven and has great vision, but she couldn’t find it either. Unfortunately did not have my phone along to take a picture or video!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87954.html](http://www.nuforc.org/webreports/reports/087/S87954.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162454.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162448.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162870.html)
-- [254](http://www.nuforc.org/webreports/reports/154/S154404.html)
-- [253](http://www.nuforc.org/webreports/reports/154/S154394.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
