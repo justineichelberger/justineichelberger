@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:41 on 22 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:29 on 22 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Windsor (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright light processed by a light blue light that flew away came back two minutes later seems like it interacted with the white light and both flew away within seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108012.html](http://www.nuforc.org/webreports/reports/108/S108012.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Nampa (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>bright light moving rapidly accross the sky, stops then accelerates at a 90 degree angleMy son and I were in our living room which faces to the East. A light moving from the South to the North caught our eye through the upper windows of the room.  It was 5 or 6 times larger, and 7 or 8 times brighter than the North Star. It moved approx. 70 degrees in a flat trajectory in about a second and a half, stopped for about a second, and moved out of sight to the East in about 2 seconds. The deceleration and acceleration were both instantaneous. Altitude is hard to estimate, as we did not see it relative to the ground. About 4 or 5 minutes later a similar light moved across the windows from West to East, in the same direction as the first light moved after it stopped. It seemed to be moving  at the same speed as the first light and was gone in about 2.5 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62281.html](http://www.nuforc.org/webreports/reports/062/S62281.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162454.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162448.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162870.html)
-- [254](http://www.nuforc.org/webreports/reports/154/S154404.html)
-- [253](http://www.nuforc.org/webreports/reports/154/S154394.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
