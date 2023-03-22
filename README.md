@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:32 on 22 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:43 on 22 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in McComb (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>6:22 pm mccomb ohio circle shape stpped in mid air then was gonei was driving just outside of town lookimg to see some deer i just happnd to look up and saw a circle traveling fast trough the sky it stopped all of a sudden then was gone((NUFORC Note:  Given the paucity of data provided by the witness, we wonder whether it is intended as a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62284.html](http://www.nuforc.org/webreports/reports/062/S62284.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Shady Spring (WV) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Self-contained glass box of fireCan only be described as a square form, such as a glass box that appeared to contain a burning fire.   The object appeared to hover approximately 100 meters above the ground near my home.  Its motion was steady and traveled in a northwestern to southeastern path, moving in the direction of Summers County from Shady Spring.   It offered no noise, no change in trajectory, and constant speed of travel.  The glow was a bright, burning orange; yet it provided no illumination to the ground or any surrounding trees or landscape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80566.html](http://www.nuforc.org/webreports/reports/080/S80566.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162454.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162448.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162870.html)
-- [254](http://www.nuforc.org/webreports/reports/154/S154404.html)
-- [253](http://www.nuforc.org/webreports/reports/154/S154394.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
