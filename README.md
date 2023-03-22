@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:04 on 22 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:30 on 22 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Fontana (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>UFO over San Bernardino MountainsI saw a craft today 03/22/06 around 13:30 over the San Bernardino mountains just standing still flashing a light on an off as in sunlight being reflected on a mirror or ship to ship code signaling. It did this for over 15 minutes before a jetliner flew below it leaving a chemtrail; which turned very quickly into a linear cloud, which hid the object from view. The only day I leave my camera behind, and this happens.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49781.html](http://www.nuforc.org/webreports/reports/049/S49781.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Gainesville (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>UFO in the sky of University of FloridaDate/Time:     03/22/2003 around 22:00  Location:   Southwest of Lake Alice, University of Florida, Gainesville, FL, U.S.A. Observers:   Me, ((name deleted)) & my friend, ((name deleted)):  In Saturday evening around 9:00pm, March 22, 2003, my friend ((deleted)) and I went out to have a walk along the Southwest of Lake Alice. Because the sky was very clear in that evening and there were only a few lights around, it was perfect for watching the stars. Around 10:00pm, I happened to look into the sky, there was suddenly an ellipse-shaped dim object flying from Northwest to Southeast with very high speed along an almost straight line. I immediately told my friend ((name deleted)), so she saw the same thing flied to and disappeared in the further Southeast too. The total time for the object’s appearance was about 5 seconds. Only two or three seconds later, when we were still looking at the sky and wondering what we had seen, another ellipse-shaped dim object was seen flying from West to East with about the same speed and same straight line, which made an angle of 25-30 degree across the line the first one made. Both of us saw both of the objects clearly and surely. Although they looked gray, bright, outstanding in the dark sky, there were no flashes from these two objects, and they seemed much higher and flied much faster than normal planes. So they should not be planes or helicopters. We suspected that these objects were UFOs based on our analysis. If anyone happened to see the same thing on the same date, we are very interested in knowing the details in order to confirm our thoughts and make to report to pertinent Agency.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28297.html](http://www.nuforc.org/webreports/reports/028/S28297.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162454.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162448.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162870.html)
-- [254](http://www.nuforc.org/webreports/reports/154/S154404.html)
-- [253](http://www.nuforc.org/webreports/reports/154/S154394.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
