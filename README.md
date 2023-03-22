@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:54 on 22 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:14:39 on 22 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some '' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Caller first called at 2153 hrs. on Friday, 22MR96, and left a message. He was standing outside to look for the comet, when he noticed a V-shaped formation of points of light almost directly overhead.  Eadh "wing" of the "V" consisted of approximately 10 objects, each about the size of a small star.  Each side of the "V" was swept about 10 degrees behind the straight line oriented perpendicular to the line of flight of the formation. The formation had a very high angular velocity, and the observers estimate was that they were moving at a very high speed.  He stated that they looked like a formation of jet fighters, but there was no sound.  The formation was moving faster than a formation of fighters would have been moving.  The observer watched them pass through approximately 15 degrees of arc, moving from west to east--toward the lights of Houston to the east of his position--when they disappeared from his sight because of the brightness of the ambient light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01244.html](http://www.nuforc.org/webreports/reports/001/S01244.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Dallas/(Irving) (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A huge multi-lighted object hovered stationary over the eastern part of DFW airport.I was walking my dogs at 9:45 pm local time.  Heading east along the backside of my apartment complex.(This faces DFW airport which is approx 4 miles away)  I walk my dogs this direction on a regular basis and am quite familiar with the flight paths of the airport.  I noticed a multi-level bank of lights approx 500-1000 ft above the ground.  At first I thought I must be seeing a top of a building.  However, I realized that there was no building of that height any where in that location.  As I continued to observe the object I noticed that it had some kind of blinking lights.  I attempted to climb a fence to gain a better vantage but was unable to gain any better view.  The night sky was clear.  I continued to observe the object for several more seconds.  At no time did it move.  I would estimate it was 20 times the size of a commercial aircraft. At no time was there any movement.  At the time I was unable to really comprehend what I had observed.  I began to return with my dogs to my apartment.  Before I arrived I began to shudder and sweat. Realizing that I had witnessed an unusual occurance I return to the location where I had observed the object and it was gone. I walked around the complex seeking to find anyone whom might have observed the same thing.  I couldn't find anyone.  I spent the next hour or so returning to the site where I had observed the object, I also drove to the area I felt it had been located to see if by chance there was a building or anything to explain what I had seen.  There was nothing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05983.html](http://www.nuforc.org/webreports/reports/005/S05983.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162454.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162448.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162870.html)
-- [254](http://www.nuforc.org/webreports/reports/154/S154404.html)
-- [253](http://www.nuforc.org/webreports/reports/154/S154394.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
