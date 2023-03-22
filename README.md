@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:28 on 21 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:33 on 22 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately several minutes - several minutes minutes.</sub><blockquote><sub>White orb silently passing over metropolitan areaI was grilling out as it became dark on the back of my home on the deck, something I do once a week, weather permitting.  I'm familiar with the flight patterns in my locale, traffic to and from Columbus International Airport, hospital helicopters, and light aircraft to and from Don Scott Airfield.  I'm an avid stargazer, and grew up in the Air Force and very familiar with aircraft.    I spotted, what at first appeared to be an out of place bright headlight of an airliner approaching from the southwest, tracking to northeast headed directly toward me at approxiamately several thousand feet and in the wrong location and flight path for aircraft approaching Columbus International. This object flew directly over me and was a sigle uniform white light, with no sound and no blinking lights.  I saw no shape beyond the white orb.  It moved slightly slower than an airliner, and had a barely discernable surge in it's movement, that I noticed as it passed overhead and away from me.  As it passed northwest it actually crossed the path of a light aircraft moving SSE to NNE.    I observed it until it passed from view.  Intriguing.  Couldn't get it out of my mind and decided it was worth posting here.  Perhaps someone else has seen the same object. FYI You're posting site is Linux browser unfriendly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35968.html](http://www.nuforc.org/webreports/reports/035/S35968.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hamilton (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately flying - flying minutes.</sub><blockquote><sub>a Circle of  a fireball really brights lightYes this was crazy I work 3rd shift so I was leaving for work at 12:30am in when I walk outside I looked up n seen a fireball really bright round light it's was like a circle of fire my dog ran outsi. but really close it was moving slow n then it took off really fast n disappear it was so close that I would of new if it was a plane or a helicopter it was a UFO I new it in I was shock after I went to look it up what seen in to my surprise alot of people claim to see the same thing IM kinda scare cause  friend told me that if the government new what I really seen I would be watch n stuff..((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110806.html](http://www.nuforc.org/webreports/reports/110/S110806.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
