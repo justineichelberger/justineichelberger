@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:29 on 23 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:25 on 23 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Windsor (NY) reported seeing craft that fit the description of some 'Changing' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Kept changing shape. Started as 2 after circuling a military jet. I have pictures of the jet as well as the 2 round then cigar shaped then almost like a diamond types then split aprt and then back together. i have about 122 digital pictures of this occuresnce. I contacted the Airforce described what i saw and then said no type of aircraft like that exists. I have no idea what to do with these pictures however the military jety after being circled rather quickly by them made a very sharp turn.This occired in the middle of the day.We are in a rather remote area in a woode hills near PA boarder.No sounds however there was a radio on and the AM band got staticky for a few minutes .Imnot ver computor literate(53) and I dont know h0w to send the pictures.Anyone near me who could help with this?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28387.html](http://www.nuforc.org/webreports/reports/028/S28387.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Chaska (MN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>4 glowing red balls traveling east to west, no blinking, no noise, 2 witnessesLooked out north facing window and saw large glowing red object moving slowly east to west, approximately 1/4 the size of a full moon. No blinking, just solid glowing red ball. My first thought was it was Venus, but it was much too large and of course moving across the sky at a steady moderate pace. No change in elevation that I could see. It traveled almost due west and disappeared. Start to finish approximately 30 seconds for it slot eventually disappear, still traveling west. I was pretty sure I must be seeing something explainable, but it was like nothing I’ve ever seen before. I decided there must be an explanation, and was going to write it off as something unusual but not necessarily important. Then another large red glowing object appeared in the east, approximately same position as when I saw object 1. It was following the same path as object 1, and quickly a 3rd red glowing object appeared but further east, like they were traveling together one fol! lowing the other. Their speeds seemed to match. At this time I woke up my son who was sleeping and told him to meet me outside. When we got outside on the deck 10-15 seconds later, only one red glowing was visible. We watched as it passed by above the tree line, moving to the west the same as object 1 did. It was 1:30 am and the neighborhood was very quiet. I wondered if it was helicopter, but it made no noise. My son noted there were no blinking lights, it was just one glowing big orb ball type of share, very red and almost like it was on fire. We watched until it disappeared, and waited a few more minutes but no more appeared. We went to bed. In the morning, my son told me he saw one more go by, one of his bedroom windows faces north same as the window in my bedroom where I first saw object 1. He watched it move to the west, then went to sleep. I don’t know what we saw, but it was really odd. I didn’t bother trying take a pic, didn’t think they’d turn out and I didn’t wan! t to miss seeing them while looking for my phone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162455.html](http://www.nuforc.org/webreports/reports/162/S162455.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162742.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162450.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162451.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163289.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162465.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
