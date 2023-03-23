@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:29 on 23 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:26 on 23 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Fairbanks (AK) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3/23/16 three triangle shaped objects would appear and disappear for 15 minutes orangish in color. ((NUFORC Note:  We spoke via telephone with the witness, who sounded to us to be quite sincere and sober-minded.  He is going to submit a much more detailed report, as will at least one of his family members.  One family member took photos, and has pledged to send them to NUFORC so we can post them.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126521.html](http://www.nuforc.org/webreports/reports/126/S126521.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I don;t know if this is even any thing or not but I was watching Ten Thousand BC. 16 minutes into the movie is when I saw some lights in the back round it's the sine right after the early man had killed the mammoth. this movie is on cable ondemand check it out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69404.html](http://www.nuforc.org/webreports/reports/069/S69404.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162742.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162450.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162451.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163289.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162465.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
