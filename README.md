@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:28 on 23 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:30 on 23 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Murrieta (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Triangular shaped craft with 3 red lights and smaller blue lights.At around 9:30pm I looked out my window. I stood there looking at the stars for a few seconds. That night had a few low cumulus clouds. As I looked at the clouds an odd craft silently came into view through a break in the cloads. After observing it for a little while I called my two friends into the room. As the object approached slowly It looked like two rows of three golden lights. I thought it was a disk at first, but when me and my friends ran into another room to get a view from below, we could see that it was triangular. From the bottom view it had three red lights, one on the tip of the craft, and two on the back. In the middle of the bottom of the craft it had a large blue speckled light. There was also small blue lights scattered all over the bottom of the craft. And like I said it made only a small humming noise and was low to the ground. It was traveling at about 20 mph. When it went over my house, me and my friends felt some sort of energy...I don't know what but there was a charge in the air. I had never seen any UFOs before and I wasn't even a believer but after seeing this craft, which was unlike anything that I had ever seen before, I have become curius. Thank you((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45601.html](http://www.nuforc.org/webreports/reports/045/S45601.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Eugene (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I went to smoke a cigarette outside, when I noticed a triangle in sky.  I would say it was three separate orbs but in a perfect triangle.  The lights were vertical then flip sideways and faded out.  When it started to turn sideways another orb came into few for a few seconds before it faded as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126520.html](http://www.nuforc.org/webreports/reports/126/S126520.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162742.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162450.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162451.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163289.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162465.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
