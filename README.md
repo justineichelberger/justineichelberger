@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:32 on 23 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:28 on 23 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Allison (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I seen 3 triangle shaped air craft flying at 300 ft in perfect formation, not a sound was heard.One night in east Texas I was working on the drilling rigs just south of Allison Texas.  It was around 2 am and there was some fires to the west of us.  And we all knew that there was fire planes dropping either water or sand.  I looked off to the west and seen 3 air craft moving towards me.  I ran down stairs to tell my friend to come see this.  The craft was moving so slowly that just as the craft was close enough to be seen, he went back inside. I watched the Triangle shaped craft crusing over head about 300 ft.  There was no noise. and they were moving so slow I thought they could fall out of the sky.  They was in perfect formation and the formation they flew in was also triangle, and each point on the craft had a light. they flew west for a ways then they cut back heading to the north. I watched them flying until I could no longer see them.  Their speed was that of a air craft about to land. the whole thing lasted about 20 min. I was amazed cause I knew they were not of Earth.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70453.html](http://www.nuforc.org/webreports/reports/070/S70453.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Murrieta (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Triangular shaped craft with 3 red lights and smaller blue lights.At around 9:30pm I looked out my window. I stood there looking at the stars for a few seconds. That night had a few low cumulus clouds. As I looked at the clouds an odd craft silently came into view through a break in the cloads. After observing it for a little while I called my two friends into the room. As the object approached slowly It looked like two rows of three golden lights. I thought it was a disk at first, but when me and my friends ran into another room to get a view from below, we could see that it was triangular. From the bottom view it had three red lights, one on the tip of the craft, and two on the back. In the middle of the bottom of the craft it had a large blue speckled light. There was also small blue lights scattered all over the bottom of the craft. And like I said it made only a small humming noise and was low to the ground. It was traveling at about 20 mph. When it went over my house, me and my friends felt some sort of energy...I don't know what but there was a charge in the air. I had never seen any UFOs before and I wasn't even a believer but after seeing this craft, which was unlike anything that I had ever seen before, I have become curius. Thank you((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45601.html](http://www.nuforc.org/webreports/reports/045/S45601.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162742.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162450.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162451.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163289.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162465.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
