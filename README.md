@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:05 on 23 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:14:21 on 23 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Fast-moving low-flying light disappears over Chicago.Last night my boyfriend and I were walking to his apartment on Columbia Avenue in Chicago when we saw a low-flying light crossing the sky moving south to north.  The light was quite bright and low enough that my first thought was that it was a flare being fired from somewhere nearby.  I said, "What the f*** is that?", but the light vanished before I finished the sentence.  The light did not fade out or burst like a flare or fireworks would, it just vanished in the blink of an eye. The light was also moving in a straight line, like a flying object and not something shot into the sky (which would presumably travel in an arch across the sky).  It was moving quite fast before it disappeared.  The object was moving so quickly and was so bright my boyfriend and I were stunned into silence when it vanished.  Neither one of us know quite what to make of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62329.html](http://www.nuforc.org/webreports/reports/062/S62329.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Anthony (KS) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>There was a explosion in the air on the southeast side of ANTHONY KANSAS.  APPROX TIME 21:45 ON MARCH  23, 2013.THERE WAS A EXPLOSION IN THE AIR AROUND 20 MIN AGO IN ANTHONY, KS.  There was also another event about a week ago.  There was a explosion also in the air.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96761.html](http://www.nuforc.org/webreports/reports/096/S96761.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162742.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162450.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162451.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163289.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162465.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
