@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:14:21 on 23 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:29 on 23 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Anthony (KS) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>There was a explosion in the air on the southeast side of ANTHONY KANSAS.  APPROX TIME 21:45 ON MARCH  23, 2013.THERE WAS A EXPLOSION IN THE AIR AROUND 20 MIN AGO IN ANTHONY, KS.  There was also another event about a week ago.  There was a explosion also in the air.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96761.html](http://www.nuforc.org/webreports/reports/096/S96761.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Windsor (NY) reported seeing craft that fit the description of some 'Changing' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Kept changing shape. Started as 2 after circuling a military jet. I have pictures of the jet as well as the 2 round then cigar shaped then almost like a diamond types then split aprt and then back together. i have about 122 digital pictures of this occuresnce. I contacted the Airforce described what i saw and then said no type of aircraft like that exists. I have no idea what to do with these pictures however the military jety after being circled rather quickly by them made a very sharp turn.This occired in the middle of the day.We are in a rather remote area in a woode hills near PA boarder.No sounds however there was a radio on and the AM band got staticky for a few minutes .Imnot ver computor literate(53) and I dont know h0w to send the pictures.Anyone near me who could help with this?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28387.html](http://www.nuforc.org/webreports/reports/028/S28387.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162742.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162450.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162451.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163289.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162465.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
