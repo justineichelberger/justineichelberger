@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:29 on 23 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:27 on 23 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Asheville (NC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Object gave off a bright flash of light and disapearedUnidentified object spotted driving East on I-26 just south of Asheville, NC.  Object appeared to be moving at the speed of a large low flying plane and was cigar shaped.  I was traveling near the Asheville airport, so I thought it was only a low flying plane at a distance of approximately 3 miles; however it seemed rather odd shaped for a plane so I continued to glance up at the object while driving.The last time I looked up at the object it appeared to take a sharp turn south and gave off a bright silver flash of light and disappeared.  It was bright enough that it made me close my eyes for just a split second, then look back only to find the object no where in sight.  I watched the area that the flash came from for about 30 second, thinking I would see the object flying off.  The object had disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133273.html](http://www.nuforc.org/webreports/reports/133/S133273.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Ottawa (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>goverment tr3b antigravity eltromagnetic propulsionGreen light spotted in sky  I saw this green light in the sky it was moving very fast , dropping in altitude then it disappeared.This was in Ottawa, Canada, and ironically directly above a military base where they test military land vehicles.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96785.html](http://www.nuforc.org/webreports/reports/096/S96785.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162742.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162450.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162451.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163289.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162465.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
