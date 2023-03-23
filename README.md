@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:25 on 23 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:32 on 23 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Wabash (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>Around 10:00 P.M on March 23rd, 2012 I was standing outside of my apartment smoking a cigarette looking at the sky when I noticed something that appeared to be kite shaped about 60 feet overhead.  When it got closer I realized almost immediately that it was some sort of air craft, triangular in shape, with eight or nine lights on the bottom - though none were lit.  I had an exceptional look at the craft and have no doubt in my mind what it was.  The craft was traveling around 30 - 40 mph and was completely silent.  Upon noticing what I was looking at I became frightened and ran inside to alert my girlfriend.   We returned outside a few minutes later to notice two red non flashing lights traveling through the sky at high speeds and moving sporadically with seemingly no effort.  There were also several other aircraft in the sky, but were man made and a helicopter, all of them seemingly headed in the direction of the UFO. It then disappeared and that was the last that I saw of the craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87998.html](http://www.nuforc.org/webreports/reports/087/S87998.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Allison (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I seen 3 triangle shaped air craft flying at 300 ft in perfect formation, not a sound was heard.One night in east Texas I was working on the drilling rigs just south of Allison Texas.  It was around 2 am and there was some fires to the west of us.  And we all knew that there was fire planes dropping either water or sand.  I looked off to the west and seen 3 air craft moving towards me.  I ran down stairs to tell my friend to come see this.  The craft was moving so slowly that just as the craft was close enough to be seen, he went back inside. I watched the Triangle shaped craft crusing over head about 300 ft.  There was no noise. and they were moving so slow I thought they could fall out of the sky.  They was in perfect formation and the formation they flew in was also triangle, and each point on the craft had a light. they flew west for a ways then they cut back heading to the north. I watched them flying until I could no longer see them.  Their speed was that of a air craft about to land. the whole thing lasted about 20 min. I was amazed cause I knew they were not of Earth.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70453.html](http://www.nuforc.org/webreports/reports/070/S70453.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162742.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162450.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162451.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163289.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162465.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
