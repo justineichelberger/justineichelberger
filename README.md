@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:28 on 23 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:31 on 23 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Shawnee (OK) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>A large, fast, bright saucer, was flying west in Oklahoma.I was sitting on my couch watching tv, then I saw a very bright light to my left coming in through my window.  It was a very bright, fast moving, saucer shaped object.  It was traveling west. It appeared to be very close and bright for about 2 seconds, then it got farther and farther away and disappeared in the next 2-3 seconds. It was traveling very fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80574.html](http://www.nuforc.org/webreports/reports/080/S80574.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Lynchburg (VA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>update to eariler report (3/23/04)This is an update to my report submitted on 3/23/04.  In the NUFORC note at the bottom of my report it said that I didn't indicate which direction the object was.  It was spotted toward the west.  Also, NUFORC said that my description was not inconsistent with a sighting of Venus.  I thought that also, but what concerned me was that the object was VERY MUCH brighter than I have EVER seen Venus, plus the fact that it just disappeared after about 30 minutes.  Also, the next night, Venus was not in the same position in the sky.  The star or whatever we saw was down lower to the horizon and a little more towards the north than Venus. I'm not saying we saw anything, but it just was a very strange sight, unlike anything I've seen before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35929.html](http://www.nuforc.org/webreports/reports/035/S35929.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162742.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162450.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162451.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163289.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162465.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
