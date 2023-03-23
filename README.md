@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:45 on 23 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:28 on 23 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Windsor (CT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>On 91 ramp in Eindsor Licks saw a flat disk with two bright lights hovering.I was on an on ramp to get onto 91 south in the Windsor Locks area and I saw a flat dark disk with two bright lights on it.  I initially thought it was an airplane however when I pulled my car over to take a longer look it had disappeared.  There were no trees or faulty sight lines blocking it--it was too high up in the air.  It disappeared in less than ten seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145357.html](http://www.nuforc.org/webreports/reports/145/S145357.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Shawnee (OK) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>A large, fast, bright saucer, was flying west in Oklahoma.I was sitting on my couch watching tv, then I saw a very bright light to my left coming in through my window.  It was a very bright, fast moving, saucer shaped object.  It was traveling west. It appeared to be very close and bright for about 2 seconds, then it got farther and farther away and disappeared in the next 2-3 seconds. It was traveling very fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80574.html](http://www.nuforc.org/webreports/reports/080/S80574.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162742.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162450.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162451.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163289.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162465.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
