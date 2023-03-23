@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:23 on 23 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:42 on 23 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Soundless high speed craft with lightsLooking at night sky to  southeast just 10 mins prior to moon rise. Dragonfly flight characteristics at very high speed, almost un-stable. Star like white light that soundlessly covered approx. 1/3 of visible sky in under 1 second.. Each time flight direction changed (5 times), it came to very abrupt stops, flashed a bright unusual color red light 1 time (which over powered the white light) while making a 170 degree direction changes. About half the altitude of 8 to 10 airliners in sky at time of event on easterly take off.No discernible shape to far away. Disappeared to east at very high speed, straight stable line of flight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62316.html](http://www.nuforc.org/webreports/reports/062/S62316.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Avondale (AZ) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We were driving west on Buckey road crossing the Agua Fria River.  Noticed a chevron shaped formation of 3 amber bright lights.  The chevron was aligned east to west and pointing north.  The object seemed to be about 1.5 miles south and about 1500 feet up.  I stopped and got out to get a better view and could tell the lights were stationary in the sky.  The lights were the color of yellowish street lights, but were about three times as bright.  After a few minutes, the lights dimmed and blinked out from east to west one by one every 15 seconds until I could see no more. The never altered formation or even moved.  If I had held my fist out to measure the width, I would guess it to be about eight fists wide.((NUFORC Note:  Please note other reports of yellow lights from AZ.  Our best guess is that they may be flares over military areas, but that is ONLY a guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35792.html](http://www.nuforc.org/webreports/reports/035/S35792.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162742.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162450.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162451.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163289.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162465.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
