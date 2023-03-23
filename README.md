@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:30 on 23 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:27 on 23 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Eugene (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I went to smoke a cigarette outside, when I noticed a triangle in sky.  I would say it was three separate orbs but in a perfect triangle.  The lights were vertical then flip sideways and faded out.  When it started to turn sideways another orb came into few for a few seconds before it faded as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126520.html](http://www.nuforc.org/webreports/reports/126/S126520.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bedford (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>My 2 kids and they're 2 friends were having a fire outside of my house when they called in to us that they were seeing crazy lights in the sky.  Once i got outside they had already reported seeing at least 10 of them go by then they pointed them out to me. There where lights coming across the sky in perfect formation at the exact same distance apart heading at an upward angle at the same speed. They would glow bright then dim in the same exact spot passing by the tree in my front yard then they would reach a point past my house at a specific height then dissapear or fade away in the exact same location. This was so odd to me we live in a high air traffic area I've sit outside and watched every kind of plane and helicopter go past my property this was definitely neither. There were 40 to 50 of these they were traveling so perfectly spaced and at the same angle you would think it would be one unbelievably huge craft but u could see the sky inbetween these light! s. Also at the time these lights went be we seen no other aircrafts in the sky till about 5 minutes after it was over then there were several planes going by lije usual. If anyone else has seen this phenomenon i would love to know.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154436.html](http://www.nuforc.org/webreports/reports/154/S154436.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162742.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162450.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162451.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163289.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162465.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
