@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:25 on 23 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:29 on 23 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Sunriver (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Flashing lights in an inconsistent motion and round Venus last night.I was laying in bed looking out my window which faces west towards Mt. Bachelor and Venus -- as it was setting. I was admiring the brightness of Venus and then a bright flash caught my eye. I noticed it again ( in the same spot ) thinking it was a plain. Then I didn't see it again for about 4 seconds. Then I saw it appear again -- oddly a little be higher up then where it was before and I was waiting for it to appear horizontally like a plane light. Over the course of about 10 seconds the light gradually grew fainter as it flashed moving up -- by this time it was above Venus. When originally, it was far to the right of it. The light then vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154396.html](http://www.nuforc.org/webreports/reports/154/S154396.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Asheville (NC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Object gave off a bright flash of light and disapearedUnidentified object spotted driving East on I-26 just south of Asheville, NC.  Object appeared to be moving at the speed of a large low flying plane and was cigar shaped.  I was traveling near the Asheville airport, so I thought it was only a low flying plane at a distance of approximately 3 miles; however it seemed rather odd shaped for a plane so I continued to glance up at the object while driving.The last time I looked up at the object it appeared to take a sharp turn south and gave off a bright silver flash of light and disappeared.  It was bright enough that it made me close my eyes for just a split second, then look back only to find the object no where in sight.  I watched the area that the flash came from for about 30 second, thinking I would see the object flying off.  The object had disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133273.html](http://www.nuforc.org/webreports/reports/133/S133273.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162742.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162450.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162451.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163289.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162465.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
