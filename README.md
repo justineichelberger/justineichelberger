@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:26 on 24 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:30 on 24 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Fraser Lake (Canada) (BC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 00/03 - 00/03 minutes.</sub><blockquote><sub>Star like sphere appeared over ridge. Rose 5 degrees above horizon. Stayed stationary for 30 seconds. Went horizontal at incredible speed. Not sure if it was in atmospere.I was watching the stars from my bed. Very dark here in the North. A light appeared from the edge of the ridge and climbed a few degrees. I went to the window and tried to discern where it was. A very bright light that should have lit up the trees but didn't. Therefore I figured it was at a high altitude. The light remained stationary for a few moments and then sped off to the west at an incredible speed. More lights have been observed here off and on. I am a surveyor and I am very familiar with identifying landmarks from the air. I am also trained in airial photo interpretation and I habitually try to bring everything into perspective. I couldn't do that here though. There was nothing to judge by except the ridge.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08887.html](http://www.nuforc.org/webreports/reports/008/S08887.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Williamsburg (VA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>giant red light that came in fast then hovered silently about two minutes before vanishing.Bright red fireball looking object shot into the sky and appeared to be a comet at first. Very bright red and very fast moving.  It suddenly stopped in mid air, brightness turned to a subtle red flickering dot and sat in one position for about two minutes.  Silent!  Not one sounds from it at all.  A picture taken appears to be a long shaped red object. Video taken shows red object blinking and just sitting there.  Towards end of video the object is clearly visible with eyes but somehow quit showing up in video.  It then just disappeared completely.  Within ten minutes naval destroyer cruised up James river as did a helicopter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96783.html](http://www.nuforc.org/webreports/reports/096/S96783.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
