@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:18 on 24 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:29 on 24 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Vicksburg (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Object in sky lit up close above tree line hovering then disappears and reappears same spot.I spotted an object which was closer to the tree line.  I was unable to tell the shape exactly if I zoom in on the picture it is a bright light rectangle in shape.  It appears to have bright lights on bottom, it hovers in one spot.  It is very noticeable.  It appeared for a few minutes then went away and then reappeared for a minute and disappeared.  I also saw it in the same exact place a few nights ago.((NUFORC Note:  Planet?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118020.html](http://www.nuforc.org/webreports/reports/118/S118020.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Blanco (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately UNKNOWN - UNKNOWN minutes.</sub><blockquote><sub>I DONT KNOW WHAT IT IS?I WAS TAKING A PICTURE OF THE JET TRAILS AS THEY WERE IN A TURN MODE AND THE SKY WAS SO BLUE. MY CAMERA IS A KODAK 7430/ 4 MG./ I DID NOT SEE THE OBJECT UNTIL I DOWNLOADED MY CHIP THE NEXT DAY. I HAD TAKEN 2 PICTURES AND ONE HAD THIS IMAGE IN IT. I HAVE NO IDEA WHAT IT IS BUT I THOUGHT I WOULD REPORT IT. I CAN FORWARD PICTURES WHEN I GET YOUR E-MAIL ADDRESS.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43214.html](http://www.nuforc.org/webreports/reports/043/S43214.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
