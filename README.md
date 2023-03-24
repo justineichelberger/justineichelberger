@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:29 on 24 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:39 on 24 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Blanco (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately UNKNOWN - UNKNOWN minutes.</sub><blockquote><sub>I DONT KNOW WHAT IT IS?I WAS TAKING A PICTURE OF THE JET TRAILS AS THEY WERE IN A TURN MODE AND THE SKY WAS SO BLUE. MY CAMERA IS A KODAK 7430/ 4 MG./ I DID NOT SEE THE OBJECT UNTIL I DOWNLOADED MY CHIP THE NEXT DAY. I HAD TAKEN 2 PICTURES AND ONE HAD THIS IMAGE IN IT. I HAVE NO IDEA WHAT IT IS BUT I THOUGHT I WOULD REPORT IT. I CAN FORWARD PICTURES WHEN I GET YOUR E-MAIL ADDRESS.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43214.html](http://www.nuforc.org/webreports/reports/043/S43214.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Moab (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I saw two reddish-orange soft colored lights traveling horizontally perfectly in line together at a low altitude with no sound.At about 1:45 or 2:00 am, I was outside in my back yard.  I was sitting in a chair, looking up at the sky on a clear night.  I looked down and when I looked up again, I immediately saw two amber or reddish-orange, soft-colored (not extremely bright) round-shaped lights nearly directly over my head.  They were traveling from the east, rounding towards the north, slightly northwest.  As they rounded towards the north, I stood up because the corner of my house blocked my view.  I walked to the corner of my house to continue watching the lights until they faded out of sight.The lights were consistent – no blinking or changes in the size, color or brightness of the lights.  They were low in the sky.  As a comparison, it was about the distance of a low-flying helicopter and the size of each light was roughly one-fourth the size of a low-flying helicopter being viewed from the ground.  They passed almost directly over my head, where I could very clearly view the two lights – one traveling at the exact same speed and direction, close behind the other.  From my view, there was no change in the distance between the two lights.  They traveled very smoothly in a horizontal direction, directly in line with each other.  There was no sound, and it was an extremely quiet night, so if there had been any sound, it would have been easy to hear it.  I watched them as they traveled towards the northwest and faded out of my sight.  As they traveled to the northwest, I was watching them from behind the second light, but could still see the light that was pointed in the direction they were traveling – until they got too far for me to see them.  All of this took place in about 15 seconds (maximum of 30 seconds) – from the moment I first saw the lights overhead to the point that they faded from my sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108061.html](http://www.nuforc.org/webreports/reports/108/S108061.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
