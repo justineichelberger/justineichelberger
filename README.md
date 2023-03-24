@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:32 on 24 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:30 on 24 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>Singular light followed by multiple surrounding lights and large shadows/sounds.  Focused over Vancouver Lake.There are lights hovering over Vancouver Lake in Vancouver, WA.  Roughly 800 ft in the air.  I was thinking to myself when I looked out my window and noticed a large amount of fog.  But it was all focused on one major area, I focused as well as I could on that area, and noticed a slowly rising cluster of lights (as if it all belonged to one vessel), flashing around.  I then noticed multiple flashes of light around the singular cluster, as if it were firing upon something.  I then started to notice EXTREMELY large shadows in the dense fog around my house, and I am right now, hiding in my house, hearing large noises of unknown origin outside my window.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118012.html](http://www.nuforc.org/webreports/reports/118/S118012.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Marana (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>A series of bright round orange lights appearing in 5-10 minute intervals high in the sky over Marana, AZAt 20:45 from shopping center at Tangerine/Oracle Rd in Oro Valley, AZ I saw a series of orange round lights in far, far distance looking West. The shopping center is in a 'bowl' so the lights were high on the horizon, but from our position in the bowl, it was probably a 15 degree angle.Light appeared, lighting up one by one, stayed momentarily, then disappeared. Five minutes later lights returned, I told friend, who turned and saw them too. Lights disappeared. We stood and waited, they reappeared again, in a series of 2-3 round orange lights, one set of three lit up, then the other set which was near but not attached to the other set. At best from far away it looked like two different objects each with three lights, but this is an assumption, we didn't see object, only the lights.At 20:55pm we drove out along Tangerine Rd towards the adjacent town of Marana, we would see the lights on compass setting West. We continued to head West, taking the new Twin Peaks Rd from Tangerine down and over Interstate-10. Along this time we continued to see the series of lights intermittently. We could now tell they were not a plane nor helicopters, not a tower. (They were much higher in the horizon than a tower.) We lost track of them around the intersection of Coachline and Silverbell in Marana. When we lost site of them we felt as if the lights were still slightly West of here, but we felt we were in the immediate area.Lights were definitely high in the sky for us to see from so far away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80591.html](http://www.nuforc.org/webreports/reports/080/S80591.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
