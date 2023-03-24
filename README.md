@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:52 on 24 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:25 on 24 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bella Vista (AR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>16+ solid white lights moving along same trajectory and all perfectly evenly spaced .Time of the event was somewhere between 9pm and 10pm. I stepped out back to let the dogs out during which time I always like to look at the night sky to catch a shooting star or the occasional satellite maybe. After a few minutes for my eyes to adjust to the night sky I noticed what appeared to be a satellite coming across the night sky in the area of the Pleiades constellation and moving directly toward Orion's belt and continuing in a straight line across the sky. There were several aircraft in view to get a fair judgement of altitude and speed. It moved exactly as a satellite however, it was only visible to the eye as a solid white light. No strobe or pulse and I can't recall seeing satellites that did not have a red light as well. Strange I thought. Once it was nearing out of sight I noticed another white light traveling about 5 seconds behind the first and moving along the exact same path. Again, strange but then came a third and fourth...I counted 16 i! n total while I was outside but I did not stay until it was over so I don't know the actual number of lights in total. All the lights moved along the exact same path and appeared to be spaced out perfectly evenly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154472.html](http://www.nuforc.org/webreports/reports/154/S154472.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Summerland (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>36 lights flying in line formation east over the Pacific Ocean towards the mountain range. Varying speeds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154441.html](http://www.nuforc.org/webreports/reports/154/S154441.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
