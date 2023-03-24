@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:36 on 24 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:31 on 24 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Ferris (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>My father was standing outside of the garage and noticed four lights traveling the exact same speed going on the exact same path. He ran to the backyard to show me, but I was in my room. He found me and we hurried outside to see nothing. He told me what he had seen and less than moments later a path of lights, way too high too be planes, which were a faint gray-blue color follow one another into the sky above us.  The convoy lasted for about ten minutes.  I used binoculars to observe some of the lights and while watching closely, one shot another light out of the side of it towards the east at the same speed the convoy was heading southeast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154438.html](http://www.nuforc.org/webreports/reports/154/S154438.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Santa Barbara (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Three round chevron-formation lights in Santa Barbara sky March 24, 2008 at 8:30 p.m.I was on an after-dinner walk with my family in Santa Barbara, Calif., at approximately 8:30 p.m., March 24, 2008. We were naming the constellations, when we noticed three, not-very-bright lights (outlining a chevron--one light at the point, two lights at either end of the chevron)cruising very smoothly and at amazing speed through the sky. I thought it was a airplane, but there were no flashing lights. The lights were round and chalk-colored. My husband, both of my young children and I witnessed the lights. The lights flew above us (at the height of a low-flying airplane) and then seemed to speed up and, instead of lowering in the north near our airport, whisked away into the upper reaches of the sky until we couldn't see them anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62338.html](http://www.nuforc.org/webreports/reports/062/S62338.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
