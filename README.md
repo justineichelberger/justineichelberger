@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:30 on 24 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:26 on 24 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Marana (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>A series of bright round orange lights appearing in 5-10 minute intervals high in the sky over Marana, AZAt 20:45 from shopping center at Tangerine/Oracle Rd in Oro Valley, AZ I saw a series of orange round lights in far, far distance looking West. The shopping center is in a 'bowl' so the lights were high on the horizon, but from our position in the bowl, it was probably a 15 degree angle.Light appeared, lighting up one by one, stayed momentarily, then disappeared. Five minutes later lights returned, I told friend, who turned and saw them too. Lights disappeared. We stood and waited, they reappeared again, in a series of 2-3 round orange lights, one set of three lit up, then the other set which was near but not attached to the other set. At best from far away it looked like two different objects each with three lights, but this is an assumption, we didn't see object, only the lights.At 20:55pm we drove out along Tangerine Rd towards the adjacent town of Marana, we would see the lights on compass setting West. We continued to head West, taking the new Twin Peaks Rd from Tangerine down and over Interstate-10. Along this time we continued to see the series of lights intermittently. We could now tell they were not a plane nor helicopters, not a tower. (They were much higher in the horizon than a tower.) We lost track of them around the intersection of Coachline and Silverbell in Marana. When we lost site of them we felt as if the lights were still slightly West of here, but we felt we were in the immediate area.Lights were definitely high in the sky for us to see from so far away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80591.html](http://www.nuforc.org/webreports/reports/080/S80591.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Rakhine State (Myanmar) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>One UFO was sighted  Maught Pya village of Pya Yune  Ga Island, Rakhine state.Ball/umberlla shape.  Making no noice.  3 coloured with brown top, pink middle and red bottom.  Tried to land two times and fly away when villagers approch the ufo.(see  narinjara.com  25/mar/2014)((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108129.html](http://www.nuforc.org/webreports/reports/108/S108129.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
