@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:03 on 24 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:15:27 on 24 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Villas (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>On 3/24/15 at about 11:30pm, I was laying with my son trying to get him to sleep looking out of the window as usual.  We live near an airport so seeing things in the sky is not uncommon.This night I observed a helicopter I'd say 5 or 6 miles away headed away from the airport with an orb type object in front of it keeping pace.  I thought it might be a reflection in the window or maybe a spot light on the chopper itself, but then said object went straight up into the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118021.html](http://www.nuforc.org/webreports/reports/118/S118021.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in St. Johnsbury (VT) reported seeing craft that fit the description of some '' over a period of approximately Continuing - Continuing minutes.</sub><blockquote><sub>France de-classifies UFO information & Sightings ReportsFrance de-classifies UFO files...Go To: http://www.cnes,fr They are listing a small number each day, so return often to read latest releases.Check it out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55897.html](http://www.nuforc.org/webreports/reports/055/S55897.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
