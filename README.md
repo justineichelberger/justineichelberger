@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:30 on 24 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:40 on 24 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Sioux Falls (SD) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Large triangular delta wing looking 10 to 15 lights not bright dull and dim it moved very fast.I need to tell you about what I just seen at 10:15pm central time March 24 2008. I live in Sioux Falls SD and had just gotten home.  I do not smoke in the house so i go out on the deck in the back yard to smoke.  at night I'm always looking at the southern sky and looking at the stars when the weather permits. At first I thought this thing was a cloud when I seen it out of the corner of my eye.  But when I looked strait at it my heart felt like it was going to jump out of my chest.  Then I thought it might of been a plane with no landing lights on coming in to the airport. Then my eyes focused on it more and I thought it looked like a hang glider or a stealth bomber but this thing had a lot of dim blue/grey glowing lights on it at least 10 maybe 15.  This thing came in from the south east and swung in and up to the north it did not get right over head looking up I'd say it got to an 75 to 80 degree angle off the horizon.  I cant tell the distant but it looked fairly high up. If you hold a ruler out at arms length it was 3 1/2 to 4 inches wide from what looked like wing tip to tip it looked big! From the time I first seen it to the time it faded away in the northern sky only took 30 sec to 1 min.  IT WAS AMAZING! I am going to work on some drawings of what it looked like and the path it took, Oh yeah it did not move like you would think some thing shaped like a stealth bomber would it looked like it was kind of side ways.((NUFORC Note:  See other reports for Chandler and Tempe, AZ, for the same date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62340.html](http://www.nuforc.org/webreports/reports/062/S62340.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lockport (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>a friend and I were leaving from work in Clarence heading down Salt rd towards Lockport when the whole sky lite up like it was daylight and we observed a perfectly round object that seemed to be omitting orange flames.we watched for 5-10 seconds and the object disappeared.  we both looked at each other in disbelief.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118349.html](http://www.nuforc.org/webreports/reports/118/S118349.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
