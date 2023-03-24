@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:27 on 24 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:36 on 24 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Springdale (AR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>triangle  very weird odd buzzing humming sound and solid lights Well i went out to get pics of the frost i document all types of weather etc and i also chase storms when i was doing so something hummed like a buzzing noise so i looked up couldnt see it and finally caught glimpse of it and snapped one pic before it rushed off didnt stay after i witnessed it for maybe 10 seconds my mom thought it was weird real weird so i decided to report it to you</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96813.html](http://www.nuforc.org/webreports/reports/096/S96813.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Ferris (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>My father was standing outside of the garage and noticed four lights traveling the exact same speed going on the exact same path. He ran to the backyard to show me, but I was in my room. He found me and we hurried outside to see nothing. He told me what he had seen and less than moments later a path of lights, way too high too be planes, which were a faint gray-blue color follow one another into the sky above us.  The convoy lasted for about ten minutes.  I used binoculars to observe some of the lights and while watching closely, one shot another light out of the side of it towards the east at the same speed the convoy was heading southeast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154438.html](http://www.nuforc.org/webreports/reports/154/S154438.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
