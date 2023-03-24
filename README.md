@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:40 on 24 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:27 on 24 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lockport (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>a friend and I were leaving from work in Clarence heading down Salt rd towards Lockport when the whole sky lite up like it was daylight and we observed a perfectly round object that seemed to be omitting orange flames.we watched for 5-10 seconds and the object disappeared.  we both looked at each other in disbelief.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118349.html](http://www.nuforc.org/webreports/reports/118/S118349.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Springdale (AR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>triangle  very weird odd buzzing humming sound and solid lights Well i went out to get pics of the frost i document all types of weather etc and i also chase storms when i was doing so something hummed like a buzzing noise so i looked up couldnt see it and finally caught glimpse of it and snapped one pic before it rushed off didnt stay after i witnessed it for maybe 10 seconds my mom thought it was weird real weird so i decided to report it to you</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96813.html](http://www.nuforc.org/webreports/reports/096/S96813.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
