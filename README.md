@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:30 on 24 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:24 on 24 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Williamsburg (VA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>giant red light that came in fast then hovered silently about two minutes before vanishing.Bright red fireball looking object shot into the sky and appeared to be a comet at first. Very bright red and very fast moving.  It suddenly stopped in mid air, brightness turned to a subtle red flickering dot and sat in one position for about two minutes.  Silent!  Not one sounds from it at all.  A picture taken appears to be a long shaped red object. Video taken shows red object blinking and just sitting there.  Towards end of video the object is clearly visible with eyes but somehow quit showing up in video.  It then just disappeared completely.  Within ten minutes naval destroyer cruised up James river as did a helicopter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96783.html](http://www.nuforc.org/webreports/reports/096/S96783.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Napa (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Hello,  Around Thursday 1am. I witnessed a large bright ball of orange red that was traveling in a left to right fashion. It was in the Northern direction about 40 degrees of horizon, and traveling at a slow pace compared to meteors I've witnessed. Twice I saw small embers fall off the ball and head downward towards earth, and the whole time period might have been between 30 to 60 seconds.  It finally disappeared totally above the horizon line from my view. Have any ideas about what I saw?  One of my old teachers said it wasn't a satellite due to wrong aerial positioning, and didn't sound like a launch of some kind. Thanks....gary wong,napa,ca.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43169.html](http://www.nuforc.org/webreports/reports/043/S43169.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
