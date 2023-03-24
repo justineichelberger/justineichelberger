@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:34 on 24 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:32 on 24 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Johnstown (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright light spotted in skyI was awaken just after 6AM, and looked out the sliding glass doors, presumably facing east. A bright light in the sky caught my eye, which at first looked like a regular star, but it was awfully bright and it would flash every 10-15 seconds. It was already starting to turn daylight at the time of this sighting, plus I can't recall seeing any clouds (it was mostly clear all night long with distant visibility) that might've hindered this light. I shall add that there were trees outside, but quickly concluded that the trees were not causing the flashing, as I witnessed this light flashing without the branches blocking the view. To clarify location of sighting, it is located about 7 miles north of Johnstown and about a mile south of U.S. Route 22. There is also a small airport about 10 miles southeast, but I doubt it was a plane, the light was stationary too long.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69374.html](http://www.nuforc.org/webreports/reports/069/S69374.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>Singular light followed by multiple surrounding lights and large shadows/sounds.  Focused over Vancouver Lake.There are lights hovering over Vancouver Lake in Vancouver, WA.  Roughly 800 ft in the air.  I was thinking to myself when I looked out my window and noticed a large amount of fog.  But it was all focused on one major area, I focused as well as I could on that area, and noticed a slowly rising cluster of lights (as if it all belonged to one vessel), flashing around.  I then noticed multiple flashes of light around the singular cluster, as if it were firing upon something.  I then started to notice EXTREMELY large shadows in the dense fog around my house, and I am right now, hiding in my house, hearing large noises of unknown origin outside my window.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118012.html](http://www.nuforc.org/webreports/reports/118/S118012.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
