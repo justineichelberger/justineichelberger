@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:23 on 25 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:28 on 25 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Estes Park (CO) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 156</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155710.html](http://www.nuforc.org/webreports/reports/155/S155710.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Stockton (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>A triangle shaped object with three orangish red lights,  was silent and large, that was low to the ground.My Brother and a group of four friends were walking back to our house about four or five blocks away following a large craft that went from being glowing bright light to turning off the light, by that time they had arrived at my moms place were they startled us out of my house with screams of bloody murder, me and my youngest brother ran out to a black craft that lit up with three large orangeish red lights one light on each end of the triangle shaped craft. The completely,silent object had absolutely no sound and was so low to the ground that I felt as though I could throw a rock at it. I won't forget seeing the orangeish red lights come on one at a time it was so scary they were giant I had two brothers and three family friends that saw it and were so scared they won't even talk about it. Oh and when I came outside they were screaming about something falling out of the back of it. I watched it and followed it as it went off into the distance. I lived in the middle of a densely populated city of Stockton I can't believe no one reported it to the media I was only seventeen at the time and was pretty shook up and scared they were coming back. Oh and Hail-Bop comet was visible in the sky at that time which was scary enough to look at. I will try and have one of the others come forth and tell their story about that night in 1997 they may have a better way of explaining what they saw. Thank you very much for this opportunity to tell my story.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61350.html](http://www.nuforc.org/webreports/reports/061/S61350.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/162/S162481.html)
-- [289](http://www.nuforc.org/webreports/reports/163/S163150.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162489.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162490.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162486.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
