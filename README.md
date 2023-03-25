@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:14:01 on 25 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:25 on 25 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Fallbrook (CA) reported seeing craft that fit the description of some '' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Green laser lights coming from sky on west side of interstate 15, north of 76.((NUFORC Note:  Source of the report elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133305.html](http://www.nuforc.org/webreports/reports/133/S133305.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Wallkill (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>2 formations of lights were spotted, one of which rotated as went from being very far to very close in a very short time before we ran.I live in Wallkill, NY.  On Monday March 25th, 2014, my friend and I were looking at the stars out my bedroom window which faces the mountains.  We had all the lights off in my room so it was pitch black.  As I’m looking at the stars I notice this one light almost jumping up and down in the distance.  I say to my friend, “Do you see that moving over there?  What is that?”  Initially she goes it’s a plane but I pointed out the way it was moving up and down so quickly there’s no way it could have been a plane.  It was still moving up and down from the left of our field of view to the right. We both stared at it for another 20 seconds trying to determine what it was.  Soon I notice it is getting closer to us as it’s moving to the right.  I mention this to my friend and she agrees it’s coming closer to us.  I ask her to shut the window but she insists on not doing so yet.  In silence we both stare the object coming closer to my house through the sky.  I can now fully make out the object which is in a shape which is almost similar to that of a peppermint..  It has black rectangular windows evenly spaced around it and the object is rotating counterclockwise as it is moving through the sky closer to my house.  There are small slights spaced around the top and bottom of the circular craft.  We can both also see that there is another craft to the left of it.  The shape we could not determine could only see it was large and possible flat with lights spaced around the perimeter moving downward next to the other craft.  Nether of the crafts made any sound.  As this point we both panic and shut the windows.  My friend sees the second craft go over my house and loses the original one.  We go inside and hide in my closet.  We come out after 10 min and whatever was there was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108083.html](http://www.nuforc.org/webreports/reports/108/S108083.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/162/S162481.html)
-- [289](http://www.nuforc.org/webreports/reports/163/S163150.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162489.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162490.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162486.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
