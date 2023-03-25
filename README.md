@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:34 on 25 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:25 on 25 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Amman (Jordan) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>cigar shaped, 50 cm of size, no sound, no wings or so on, no side moves, staying completely straight heading northMy son and me were looking at taurus constellation close to the moon when we registered sonmething passing by heading direction north (coming xouth) appx. 50 meters high. We thought first it was a bird or a bat, but there were no wings or so, just this cigar shaped object (50cm long) passing by without any sound. The colour was something like cherrywood. It made some 100 meters within 10 seconds.Maybe somebody els has seen it in the northern part of Jordan or Syria.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35815.html](http://www.nuforc.org/webreports/reports/035/S35815.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in New-Wes-Valley (Canada) (NF) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Oval disk like shaped object that flew through the night's sky.All of the names in this report have been fictional. They have been changed to protect the witnesses privacy. Full Description of event/sighting:  It was 10:15 in the evening, my brother,  my friend Jenny and I were driving to Jenny's house to drop her off for the night. Early that night around 7:30 p.m. Jenny and I had seen something strange. The same thing happen the night before and I personally think that it's because of the planets lining up. It was a oval disk like shaped object that flew through the night's sky a lot faster than a plane. The object had up to 6 blinking lights that flashed and blinked in a circular motion. My friend Crystal and I had seen it the night before & then Jenny & I saw it the night after. My parents thought I was crazy, but we all knew what we saw. My brother was driving Jenny home but I screamed and made him pull over. It was around 10:15 p.m. when this disk shaped blinking light object was spotted in the sky. It flew so fast and the lights kept going in a circular motion with red blinking lights, the others white. Brian Vike, Director HBCC UFO Research  Home - Phone 250 845 2189 email: hbccufo@telus.net Website: http://www.hbccufo.com((NUFORC Note:  We express our gratitude to Brian Vike for sharing this report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35828.html](http://www.nuforc.org/webreports/reports/035/S35828.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/162/S162481.html)
-- [289](http://www.nuforc.org/webreports/reports/163/S163150.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162489.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162490.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162486.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
