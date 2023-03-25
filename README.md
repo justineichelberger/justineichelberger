@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:22 on 25 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:22 on 25 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bainbridge Island (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>My friend and I were outside looking at the stars, when we saw this light moving across the sky.  First we thought it was a satellite, but then it started to curve down fast and behind the trees.  We ran over to were we could see it and when we saw it it wasn't moving.  After about 30 seconds it slowly started to move out of view so we ran back to were we we were at the start.  It then reappeared on the left side of the trees and became at least 3 times the brightness and size of Jupiter on a really clear night then became the brightness of a satellite again.  Then it continued behind us and disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126544.html](http://www.nuforc.org/webreports/reports/126/S126544.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Freer (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Was driving on Hwy. 16, 12 miles south of Freer TX, object apeared in front and above my vehicle at an altitude of 1000 ft., object distingushed it self by switching on 2, red lights in a row, the lights were at least 40 to 50 feet apart, it was at 1.5 minutes into sighting that the 3rd light began to glow, I estimate that the the 3 lights were about 100 foot long. Object apeared to be moving east to west, or west to east, not sure.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62354.html](http://www.nuforc.org/webreports/reports/062/S62354.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/162/S162481.html)
-- [289](http://www.nuforc.org/webreports/reports/163/S163150.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162489.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162490.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162486.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
