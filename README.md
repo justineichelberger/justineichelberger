@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:34 on 24 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:35 on 25 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Southport (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Orange fireball very fast and near at low altitudeSitting with my wife on front porch in Southport, NC with a limited skyward view due to large live oaks, facing southeast. My wife is on my left, as i look to my right southeast I have a brief glimpse, 1-2 seconds, of what looks like a rocket booster tail of very bright orange fire, somewhat white at the front. This fireball was headed from east to west into the setting sun, but no reflection was visible. I looked very hard at the leading edge and saw no type of craft and the fireball appeared to burn out or disappear into thin air. No sound at all. The amazing part was it traveled totally horizontal, was at approx. 45% in height, just above the tree line of neighbors house, and seemed very close, approximately 1-2 miles. Upon reflection, i wonder if this "thing" was taking off instead of burning out? The size and length of the "firetail" was the size of a cigarette, held at arms length. My neighbor has witnessed two sitings over the years, one very large and very close with lights, he's color blind, but this object was very near and just disappeared when he thought it saw him looking? The second siting flew very fast overhead, from direction of power plant and ammo dump.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12483.html](http://www.nuforc.org/webreports/reports/012/S12483.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Redlands (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two fast lights matching speed and distance across the night skyMy fiance and myself were out on our balcony having a cigarette, when we saw a bright light high in the sky.  There were a number of commercial aircraft in the air to compare the light to.  The light we saw was not blinking, emitted no noise, and appeared to be moving faster than an aircraft and much higher up in the sky.  It moved at a steady, unchanging pace across the sky for about a minute before it was joined by a second light behind it.  We approximated it's distance from the first light to be about 30,000 feet, and the trailing light maintained this distance until both lights vanished from view on the horizon.  The trailing light at no point moved faster or slower than the leading light, nor got closer or father away.  Neither produced any sound, or any light besides a single bright colorless point of light (which in both cases dimmed perceptibly to a pinprick of light before brightening back up.  This occurred as a slow fade in and out, and did not seem to be a strobe or airplane marker light.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62352.html](http://www.nuforc.org/webreports/reports/062/S62352.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
