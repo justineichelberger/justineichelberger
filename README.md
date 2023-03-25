@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:35 on 25 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:53 on 25 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Redlands (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two fast lights matching speed and distance across the night skyMy fiance and myself were out on our balcony having a cigarette, when we saw a bright light high in the sky.  There were a number of commercial aircraft in the air to compare the light to.  The light we saw was not blinking, emitted no noise, and appeared to be moving faster than an aircraft and much higher up in the sky.  It moved at a steady, unchanging pace across the sky for about a minute before it was joined by a second light behind it.  We approximated it's distance from the first light to be about 30,000 feet, and the trailing light maintained this distance until both lights vanished from view on the horizon.  The trailing light at no point moved faster or slower than the leading light, nor got closer or father away.  Neither produced any sound, or any light besides a single bright colorless point of light (which in both cases dimmed perceptibly to a pinprick of light before brightening back up.  This occurred as a slow fade in and out, and did not seem to be a strobe or airplane marker light.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62352.html](http://www.nuforc.org/webreports/reports/062/S62352.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Atlantic City (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I'm on a bus and the craft was stationery as we went by.  Other strange things have been going on in my legs as well.  I have had another sighting that I failed to report in Fairfield nj on March 22 at 6:40 am.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80594.html](http://www.nuforc.org/webreports/reports/080/S80594.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/162/S162481.html)
-- [289](http://www.nuforc.org/webreports/reports/163/S163150.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162489.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162490.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162486.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
