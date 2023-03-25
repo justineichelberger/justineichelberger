@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:07 on 25 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:21 on 25 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Kingston (Canada) (ON) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Green fireballIt was late a night when my fiancee and myself were standing on our balcony that faces north.  We were looking up at the sky and saw what looked to be a green fireball streak across the sky in a north by north east direction.  It only lasted about 20 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17159.html](http://www.nuforc.org/webreports/reports/017/S17159.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Coaldale (CO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Second orange sphere seen by family memberI am submitting a second report of the same type of object I reported seeing on 3/22/04. This second object was witnessed by my mother-in-law (who is 82 and very credible) on the morning of 3/25/04. She awoke about 4:45am as she occasionally does and as she looked out of her bedroom window, she saw a bright orange ball she described as a basketball, hovering above the road approx. 75 feet from her bedroom window and about 20 feet off of the ground. She said it was motionless and was kind of fuzzy around it. About 5 seconds later it just vanished completely. She lives 20 miles east of me in a rural vicinity with a neighbor living across the road from her. The neighbors house is on a small hill and above hers, yet this object was below the neighbors house with the hill as a background. It was also completely dark at this time of the morning. She has observed a similar object about a year ago moving fairly fast northward across her hay pasture in the late evening. Neither her or myself knew of each others sighting until she told my wife later in the day on 3/25/04. Needless to say i was astounded!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35901.html](http://www.nuforc.org/webreports/reports/035/S35901.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/162/S162481.html)
-- [289](http://www.nuforc.org/webreports/reports/163/S163150.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162489.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162490.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162486.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
