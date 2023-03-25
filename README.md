@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:24 on 25 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:23 on 25 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>F-22 like star shaped (7 point star) object flying extremelly fast, no sound/no lightI was laying in the pool deck of my housing complex (in Baldwin Park) with my chase chair against the sun observing the beautiful blue blue sky that day and watching the aircrafts crossing by.  Therefore, I was watching the sky up, but facing North-Northeast (Ursa Major) direction to be more precise.   That's when I noticed a single flying object crossing the sky in the same direction (Ursa Major) and disappearing behind the club house.  Time was between 5:30-5:45pm EST.  Sighting took about 3 seconds, it almost looked like a shooting star (but a bit slower) and the most intriguing part was its shape and rate of speed.It looked like an F-22, but more star shaped (7 points), grayish/light blue almost blending with the sky color, traveling between 20,000-30,000ft altitude, extremely fast I would estimate over 3,000mph given its height and the sighting duration but no sound, no trail, nor lights.  Measured 2/16 inches (squared).And given my background in the space program I can certainly say I have never seeing something like that before.  I have seeing in naked eyes satellites, space station, space shuttles, shooting stars but this sighting does not compare to anything technological that I know of.  And fighter planes usually scream in the air, and commercial planes you can still hear them. </sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88085.html](http://www.nuforc.org/webreports/reports/088/S88085.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Estes Park (CO) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 156</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155710.html](http://www.nuforc.org/webreports/reports/155/S155710.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/162/S162481.html)
-- [289](http://www.nuforc.org/webreports/reports/163/S163150.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162489.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162490.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162486.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
