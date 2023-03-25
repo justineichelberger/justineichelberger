@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:27 on 25 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:27 on 25 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Orange Spring (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Round light went straight up east of me, did a 90° turn, went over me, and went west to the gulf and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133321.html](http://www.nuforc.org/webreports/reports/133/S133321.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Peoria (AZ) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large  object with multiple white lights- Peoria AzDriving home from the store, at 87th and deer valley I saw a large craft that took up over half of my drivers side window flying silently over me, I was heading east, the object was heading south. Stunned and driving I looked repeatedly to see if there were any blinking lights. All lights were solid bright white light 6-8. At first I thought maybe it was an airliner flying really low, but the object was traveling really slow, and again only white non blinking lights. It appeared to be 2 forward, 1 recessed, 2 forward 1 recessed, 2 forward. I couldn’t get a solid visual on shape. I am reporting this, curious to see if others report something. There was a decent amount of traffic while this happened. Feel free to contact me if you have additional questions.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162475.html](http://www.nuforc.org/webreports/reports/162/S162475.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/162/S162481.html)
-- [289](http://www.nuforc.org/webreports/reports/163/S163150.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162489.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162490.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162486.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
