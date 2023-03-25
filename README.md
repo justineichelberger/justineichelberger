@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:20 on 25 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 25 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Sequim (WA) reported seeing craft that fit the description of some 'Cone' over a period of approximately 1.1666666666666667 - 1.1666666666666667 minutes.</sub><blockquote><sub>UFO fleet!Yellowish. Different sizes, moving extremely fast west to east.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162491.html](http://www.nuforc.org/webreports/reports/162/S162491.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Amman (Jordan) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>cigar shaped, 50 cm of size, no sound, no wings or so on, no side moves, staying completely straight heading northMy son and me were looking at taurus constellation close to the moon when we registered sonmething passing by heading direction north (coming xouth) appx. 50 meters high. We thought first it was a bird or a bat, but there were no wings or so, just this cigar shaped object (50cm long) passing by without any sound. The colour was something like cherrywood. It made some 100 meters within 10 seconds.Maybe somebody els has seen it in the northern part of Jordan or Syria.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35815.html](http://www.nuforc.org/webreports/reports/035/S35815.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/162/S162481.html)
-- [289](http://www.nuforc.org/webreports/reports/163/S163150.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162489.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162490.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162486.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
