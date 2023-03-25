@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:25 on 25 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:24 on 25 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Corvallis (just north of) (OR) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>((NUFORC Note:  Witness provides no detailed information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162488.html](http://www.nuforc.org/webreports/reports/162/S162488.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Conyers (GA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I saw a blue sphere drop vertically from the sky.On my way home from church and I saw a bright blue spherical object fall from the sky in what seemed to be a perfectly vertical fashion.  I shouted and simultaneously slammed on my breaks to an almost complete stop because it scared me.  The two passengers in my car did not see the object in time and were probably more focused on my erratic driving and shouting to see it in time.  I am an avid sky watcher have seen bolides, meteors and know my stars well.  This was nothing like anything I have ever seen before.  It seemed different because the light was constant with no tail and no fade.  The object seemed to drop faster than free fall and disappeared as the tree line near the hospital shielded my view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88031.html](http://www.nuforc.org/webreports/reports/088/S88031.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/162/S162481.html)
-- [289](http://www.nuforc.org/webreports/reports/163/S163150.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162489.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162490.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162486.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
