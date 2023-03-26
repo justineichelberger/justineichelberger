@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:36 on 26 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:07 on 26 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Single white light moved accross the horizon then vanishedI notice a very bright round light, like a star in the  clear sky.  It was moving fast accross the horizon.  I first thought it was an airplane except that it was moving much too fast.  I kept my eye on the object looking for blinking lights to indicate that it was an airplane but never saw them.  I watched it cross the horizon over my house then it vanished.  Approximately 20 seconds later there were 3 aircrafts in the sky which did not appear to be commerical carriers then 4 more appeared for a total of 7.  My house is approximately 5 miles from MacDill Airforce Base in Tampa,FL.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43188.html](http://www.nuforc.org/webreports/reports/043/S43188.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in St. Cloud (south of, over Lake Tohopekilagia) (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 9.0 - 9.0 minutes.</sub><blockquote><sub>seen one light at first so my wife and i took a ride to clay whaleys landing"a public boat ramp on lake Tohopekiliga" and then four lights in a straight line appeared like fireball lights and lingered for about ten minutes. also seen the same lights on 3/24/98 around 10:00pm but differnt formation.seen four fireball lights in straight line over lake Tohopekilagia looking south from St.Cloud,Fl on3/26/98 9:50pm seen from end of road on Clay Whaleys Landing. all four lights just glowed orange and then dissapperd.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03395.html](http://www.nuforc.org/webreports/reports/003/S03395.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162506.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162753.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162960.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162479.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162476.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
