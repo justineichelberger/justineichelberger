@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:46 on 26 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:40 on 26 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in St. Cloud (south of, over Lake Tohopekilagia) (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 9.0 - 9.0 minutes.</sub><blockquote><sub>seen one light at first so my wife and i took a ride to clay whaleys landing"a public boat ramp on lake Tohopekiliga" and then four lights in a straight line appeared like fireball lights and lingered for about ten minutes. also seen the same lights on 3/24/98 around 10:00pm but differnt formation.seen four fireball lights in straight line over lake Tohopekilagia looking south from St.Cloud,Fl on3/26/98 9:50pm seen from end of road on Clay Whaleys Landing. all four lights just glowed orange and then dissapperd.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03395.html](http://www.nuforc.org/webreports/reports/003/S03395.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Pembroke Pines (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Shocking, caught me off guard!Fireball came from the South just west of US 27 over the Everglades moving N/NW slowly.  Looked like a large balloon on fire from a distance, and then kept traveling instead of coming down.  I recorded it on my cell phone, but only a moving white dot appeared on the camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126554.html](http://www.nuforc.org/webreports/reports/126/S126554.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162506.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162753.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162960.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162479.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162476.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
