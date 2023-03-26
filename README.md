@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:07 on 26 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:29 on 26 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in St. Cloud (south of, over Lake Tohopekilagia) (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 9.0 - 9.0 minutes.</sub><blockquote><sub>seen one light at first so my wife and i took a ride to clay whaleys landing"a public boat ramp on lake Tohopekiliga" and then four lights in a straight line appeared like fireball lights and lingered for about ten minutes. also seen the same lights on 3/24/98 around 10:00pm but differnt formation.seen four fireball lights in straight line over lake Tohopekilagia looking south from St.Cloud,Fl on3/26/98 9:50pm seen from end of road on Clay Whaleys Landing. all four lights just glowed orange and then dissapperd.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03395.html](http://www.nuforc.org/webreports/reports/003/S03395.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in New Brunswick (NJ) reported seeing craft that fit the description of some 'Other' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>a noiseless, rotating cluster of shiny metal-like objects seen floating at a slow steady pace over a chapel on my university campusI was sitting outside on some steps behind a chapel on my university campus when I noticed an object rising in the distance from the direction of the river and Route 18.  At first, because it had an irregular shape, I thought it was a plastic bag floating in the wind (there was a significant breeze).  As it got higher, I thought it might have been a kite.  As the object kept rising, it also kept moving closer to me at a slow but steady pace.  I watched it the entire time and by the time it was directly overhead, it was flying about twice as high as the church steeple.  It seemed to be a cluster of metal objects which were very shiny and appeared to have shapes like large flat letters (N? S?) It almost looked like a cluster of mixed metal chairs or picture frames.  The entire cluster, about 10 feet in diameter, was rotating in different directions as it kept moving south. By this point I thought it might be some kind of remote control object or part of some kind of air vehicle that had fallen off.  As it passed overhead it made no noise (that I could distinguish from the general din of air traffic from above).   I gathered up my books and by the time I rounded the church, it was very far in the distance beyond the library. I pointed it out to someone nearby who works at the library.  He had been sitting on the front steps of the church but had been looking down until I came around.  We watched it together for several minutes and could see that it continued to rise and move farther south, rotating all the while.  Maybe it was someone's science experiment?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35853.html](http://www.nuforc.org/webreports/reports/035/S35853.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162506.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162753.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162960.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162479.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162476.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
