@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:19:04 on 26 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:29 on 26 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Globe (AZ) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>lights over globe as 3-26-16On 3-26-16 I seen 3 lights in a triangle shape  flying  over pineal mountains  in globe as at about 18:30 I flashed  my car lights  at it and that went out so I was driving  down town globe and saw people looking up so I pulled over and about 12 lights fly over globe as that were about have the size of a car about a 1000 feet above the ground thy looked like large sodium vapor  lights</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126724.html](http://www.nuforc.org/webreports/reports/126/S126724.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Camden (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large orange immobile "star"; suddenly began to move slowly across the sky.I got up at 5 am to turn off my alarm and my fiance called me the bedroom window.  "Look at that," she said,  "What is that?"  I looked out and saw an unusually bright star or planet to the southwest.  It was very bright orange and large.  "Wow," I said.  "It looks like a planet or something."  I then went to the bathroom, where I was when she suddenly called me back in.  A!  Come in here, quick! It's moving!"   I looked out and, indeed, it was moving across the sky in a northeasterly direction, very bright and steady.  I got chills down my spine, as it had been totally stationary just moments before. Within 3 minutes, the event was over and the light had passed out of our sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96791.html](http://www.nuforc.org/webreports/reports/096/S96791.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162506.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162753.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162960.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162479.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162476.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
