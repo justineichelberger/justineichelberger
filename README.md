@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:41 on 26 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:21 on 26 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Irwin (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Saw one object moving and one hovering.  Both had bright lights on each end with a blinking red light between them.  Not directly in middle though.  I watched the one hovering with binoculars for a few minutes.  It never moved.  I went inside to get a coat.  Came back out and it was gone.  I wish I could have seen it fly away like the first one.  I saw planes tonight also.  These were not planes. Not even close.  Unless planes can sit still in the air.  This was really exciting and scary at the same time.  Never saw anything like it before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108114.html](http://www.nuforc.org/webreports/reports/108/S108114.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Benson (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>The ufo was triangular with lights all aroung it I only saw it for a couple minutes but it was so awsome.It was about two months ago. my brothers and I where walking to the quick pic to get some hting to eat and my brother started tripping out and told me and my other brother to look in the sky at the left and I could not beleve it, it was an triangular looking ufo there was lights all around it. the ufo was high in the sky and it was only minutes befor it was gone I was so amazed it was the frist one ive ever saw. although Im 15 years old i wll probly see more in my life but it was awsome.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63603.html](http://www.nuforc.org/webreports/reports/063/S63603.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162506.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162753.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162960.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162479.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162476.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
