@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:40 on 26 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:19:04 on 26 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Pembroke Pines (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Shocking, caught me off guard!Fireball came from the South just west of US 27 over the Everglades moving N/NW slowly.  Looked like a large balloon on fire from a distance, and then kept traveling instead of coming down.  I recorded it on my cell phone, but only a moving white dot appeared on the camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126554.html](http://www.nuforc.org/webreports/reports/126/S126554.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Globe (AZ) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>lights over globe as 3-26-16On 3-26-16 I seen 3 lights in a triangle shape  flying  over pineal mountains  in globe as at about 18:30 I flashed  my car lights  at it and that went out so I was driving  down town globe and saw people looking up so I pulled over and about 12 lights fly over globe as that were about have the size of a car about a 1000 feet above the ground thy looked like large sodium vapor  lights</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126724.html](http://www.nuforc.org/webreports/reports/126/S126724.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162506.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162753.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162960.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162479.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162476.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
