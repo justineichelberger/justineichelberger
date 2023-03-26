@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:23 on 26 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:27 on 26 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in East Northport (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>triangle object, blue red white lights, rotated 360 degrees without turning then made a U turn and dissappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35882.html](http://www.nuforc.org/webreports/reports/035/S35882.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Wenatchee (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I was heading northbound on White Trails rd between quincy wa and wenatchee wa on my way to wenatchee wa. I was a couple miles south of 28 w when up in the sky, above my truck, from east to west, a red orb lower than a plane ought to have been, between 500-1000 ft, went across the sky faster than any aircraft I have ever seen. No sound, exhaust or tail. It seemed like a shooting star but way slower and no tail. It was the weirdest aerial phenomenon I have ever seen. It crossed the entire sky in a matter of seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162504.html](http://www.nuforc.org/webreports/reports/162/S162504.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162506.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162753.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162960.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162479.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162476.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
