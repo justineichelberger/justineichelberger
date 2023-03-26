@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:32 on 26 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:22 on 26 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Hickman (NE) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Hickman Ne.  3:30am Thursday ((sic-Friday)) , two or three weeks ago (I know I should have remembered the exact date)  I was pulling into my driveway in the country and sat to finish listening to a radio program.  I noticed a yellow search light or clearance light rotating on what I assumed was on the top of a tractor on a not to distance hill between me and the lake.  There are two hills creating a spill way or overflow for the lake.  In the dark I could not figure out if it was on the close hill (1/8th of a mile) or the far hill (1/4th of a mile).  The object seemed to glide up the hill and sit there for 40 seconds and then go back down the hill.  I was in complete amazement as to why a tractor with no headlights and only a yellow revolving light on top would be out on restricted government land closed to gas vehicles.  I then noticed no sounds, not even country noises from bugs and related night noises.  As the object went behind the hill again I realized I was seeing the bottom of something as the yellow revolving lights were on the grass and trees without a shadow of the object.  This realization made me want the safety of my home and bed (I am 47 but the little boy inside me was not going to make the walk to the lake in the dark and figure it out).    In my mind I now know I saw something off the ground as the area is too steep with trees for a land vehicle; also the lights were below the object.  The object glowed bright yellow from the bottom.  One revolving light did a 360 degree turn every second or so and appeared to be scanning the ground for something.  The spillway is rather long and isolated from the half dozen or so houses near by.  It could be used as a landing strip for a small plane.  Very wide and flat and a half mile long .  I heard nothing and have heard or seen nothing since. The next day I asked the neighbor if he heard or saw anything the night before, but he did not.((name deleted))((ADDENDUM FROM WITNESS))update:  I just filed a report.  Then I went to your tab saying enter site.  I was interested to see a report listed from a air traffic controller stating an aircraft spotted two or four ufo's outside Omaha going west at 1900 hours on Thursday March 25th.  That could fit my timeline on what I saw.  I said Thursday, rather it was early Friday morning at 3:30. I also got the impression that I saw the object and the object saw me.  We both retreated.((END ADDENDUM))((NUFORC Note:  Date is approximate.  We have encouraged the witness to attempt to reconstruct the precise date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36320.html](http://www.nuforc.org/webreports/reports/036/S36320.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Chennai (India) () reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.8333333333333334 - 0.8333333333333334 minutes.</sub><blockquote><sub>Saw a red ball of fire and reddish/orange lights in the sky at 19:15 (Chennai).....  The lights were vertically and cylindrically shaped..  Moving slowly above and then disappeared quickly (approx for 50 sec)..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118067.html](http://www.nuforc.org/webreports/reports/118/S118067.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162506.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162753.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162960.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162479.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162476.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
