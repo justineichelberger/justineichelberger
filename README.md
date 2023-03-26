@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:23 on 26 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:28 on 26 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Morrisville (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Weird glowing orange ball flying over Morrisville, Pa on 3/26/11.While sitting in the cold on my front porch smoking a cigarette with my friend, I looked across the street toward the top of the trees and noticed this very weird round orange glowing ball.  At first I thought maybe someone shot a flare-gun off and was waiting to see the sky light –up the way it would from a flare.  Well nothing happened and the orange glowing ball was coming toward my house from the west going east.  We knew it wasn’t a plane, no red or green lights.  It was just this glowing round ball.  My friend said to me “are we expecting a meteor shower at all?”  I said to her, “are you stupid”?  If that was a meteor it would drop out of the sky.  Whatever this is, is traveling parallel to us.As it past by the side of my house the orange glow went away and you could see nothing behind it.  No light following it, nothing.  Just plain weird.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80623.html](http://www.nuforc.org/webreports/reports/080/S80623.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Mt Sterling (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>A string of aircraftI witnessed these aircraft flying straight line as fast as they would disappear more would appear counting 27 total. They were flying too close together to be our aircraft</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154520.html](http://www.nuforc.org/webreports/reports/154/S154520.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162506.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162753.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162960.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162479.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162476.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
