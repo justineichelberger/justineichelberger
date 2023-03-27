@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:35 on 27 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:29 on 27 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Hamden (CT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Several blinking red, white, blue, and green objects in sky moving to one spot.I woke up a little after midnight. I looked out the bathroom window and a red and white blinking object was in the sky.  t stayed in one spot for about 3 minutes and proceeded to move faster and blink red.  It went towards the backyard.  I looked out the back window and saw one white, another white, and red flashing lights light up the sky in a line.  Looking around the sky, several more triangle shaped objects all oddly moved DOWN towards this line of flashing lights.  Two were disc shaped and were fastly blinking red, white, blue, and even green.  My mom and I also heard a powerful unordinary sound.  Once ALL these objects made it to this line of flashing lights, we saw continued blinking but the objects seemed to vanish.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145306.html](http://www.nuforc.org/webreports/reports/145/S145306.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Montcalm (WV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Aircraft following a possible UFO?First of all, Im not sure what we saw that night but it had everyone thinking. The four of us were boating down the river doing some fishing when I noticed something moving in the sky around the Little Dipper.  It was circular and a bright white color moving from left to right.  As I was looking at this object the other people in the boat noticed it too and one of them made the comment that it was just a plane but it was moving too fast, and there were no other lights, just a solid white light. The next conclusion was that it could have been a satelite which it could have been, but the speed and the amount of area that it covered as it moved across the sky was amazing. In about a minute or so this object appeared at my far left and streaked across the sky to my far right before we lost it over the mountain. I was in the military and have seen and been around planes, jets, helo's and I've never seen something move this fast, I was astonished. Maybe twenty to thirty seconds after we lost sight of this object, my friend pointed out a group of aircraft behind us. They were in fairly perfect formation with the same lights with a differant aircraft behind them (I say diff. because the lights were diff. on this one) and were moving in the direction of where we last saw the object before it went out of sight over the mountain. In all there were five aircraft, and all seemed to be tailing this object that we saw. We watched for another minute before they too moved across the mountain out of sight. This may not be a ufo sighting but it was too wierd not to report to someone. If anyone else had the same sighting that night, hopefully they report it so that we can find out what it was or wasn't.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62449.html](http://www.nuforc.org/webreports/reports/062/S62449.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [236](http://www.nuforc.org/webreports/reports/162/S162516.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162496.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162503.html)
-- [233](http://www.nuforc.org/webreports/reports/162/S162500.html)
-- [232](http://www.nuforc.org/webreports/reports/162/S162754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
