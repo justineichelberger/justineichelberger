@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:41 on 27 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:35 on 27 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Prince Edward County (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Extremely bright twin clouds with yellow light within.Driving thru prince edward county on 460 east..clear sky..no moon or reflections from anything..ie sun or clouds.  I witnessed two illuminated number 2 shaped cloudlike formations as bright as the new lights ln expensive cars..pulled over under an overpass saw a dull yellow light seeming to be on the backside of the cloud configuration of the one on what would be my left.the light headed east in a downward motion within the number 2 shaped cloud having a sudden white flash(dull).. then disappearing.the other light to my right was very faint within the number 2 shaped cloud not as easy to see.i watched those two for about 3 minutes waiting...nothing else happened..the excessively bright shaped cloud dissipated and clear sky with stars reappeared...strange...airforce??((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88064.html](http://www.nuforc.org/webreports/reports/088/S88064.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Hamden (CT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Several blinking red, white, blue, and green objects in sky moving to one spot.I woke up a little after midnight. I looked out the bathroom window and a red and white blinking object was in the sky.  t stayed in one spot for about 3 minutes and proceeded to move faster and blink red.  It went towards the backyard.  I looked out the back window and saw one white, another white, and red flashing lights light up the sky in a line.  Looking around the sky, several more triangle shaped objects all oddly moved DOWN towards this line of flashing lights.  Two were disc shaped and were fastly blinking red, white, blue, and even green.  My mom and I also heard a powerful unordinary sound.  Once ALL these objects made it to this line of flashing lights, we saw continued blinking but the objects seemed to vanish.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145306.html](http://www.nuforc.org/webreports/reports/145/S145306.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [236](http://www.nuforc.org/webreports/reports/162/S162516.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162496.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162503.html)
-- [233](http://www.nuforc.org/webreports/reports/162/S162500.html)
-- [232](http://www.nuforc.org/webreports/reports/162/S162754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
