@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:27 on 27 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:24 on 27 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Wellesley (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>unusual night light, has been stationary for an hour, yet has a definite strobing, flashing & changing of colors.I didn't know where to ask, but we have noticed a very bright, strobing light in the south west horizon, we live in Southern Ontario & have watched this light change from white to green & it has a red glow from beneath, keeping a stationary position in the sky, so we know its not a plane or helicopter. We are merely curious as to what it is, if you know what this phenomena might be, please email us. Thank you((NUFORC Note:  This report appears to us to be consistent with an observation of the star, "Sirius," a very bright star in the western sky at the time and date indicated.  It is a dramatically "twinkling" star.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12460.html](http://www.nuforc.org/webreports/reports/012/S12460.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Aachen (near Cologne) (Germany) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Fast moving neon-green orb of light with a green tail.Neon-green orb of light with a green tail. Moving very fast and w/o any noise, low altitude.((NUFORC Note:  Possible meteor, we believe, but that is only a guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35848.html](http://www.nuforc.org/webreports/reports/035/S35848.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [236](http://www.nuforc.org/webreports/reports/162/S162516.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162496.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162503.html)
-- [233](http://www.nuforc.org/webreports/reports/162/S162500.html)
-- [232](http://www.nuforc.org/webreports/reports/162/S162754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
