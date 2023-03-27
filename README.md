@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:27 on 26 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:38 on 27 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Wenatchee (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I was heading northbound on White Trails rd between quincy wa and wenatchee wa on my way to wenatchee wa. I was a couple miles south of 28 w when up in the sky, above my truck, from east to west, a red orb lower than a plane ought to have been, between 500-1000 ft, went across the sky faster than any aircraft I have ever seen. No sound, exhaust or tail. It seemed like a shooting star but way slower and no tail. It was the weirdest aerial phenomenon I have ever seen. It crossed the entire sky in a matter of seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162504.html](http://www.nuforc.org/webreports/reports/162/S162504.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bend (OR) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Major organized line of crafts all heading in same directionBright lights in a precise row headed SW to NE.  Initial event lights heading to and from then just one direction.  One craft illuminated very bright white for 2 seconds then returned to less bright.  Checked planes live app which showed only 4 commercial planes, none headed NE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154594.html](http://www.nuforc.org/webreports/reports/154/S154594.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162506.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162753.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162960.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162479.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162476.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
