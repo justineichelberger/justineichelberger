@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:38 on 27 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:04 on 27 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bend (OR) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Major organized line of crafts all heading in same directionBright lights in a precise row headed SW to NE.  Initial event lights heading to and from then just one direction.  One craft illuminated very bright white for 2 seconds then returned to less bright.  Checked planes live app which showed only 4 commercial planes, none headed NE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154594.html](http://www.nuforc.org/webreports/reports/154/S154594.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Williston (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Summary : I was standing out side looking at Hail-Bop, when I saw a huge sphear of light fly about 50 ft. off the ground and burn a hole through my Oak trees...  There's a strange smell too...  Like sulfur.  I don't know what it was, but it scared the crap out of me!It was a sphearical shaped ball of light.  It just zipped up about 50 ft. off the ground and shot away, up at an angle through an oak tree, burning a hole right through a giant limb; just like a hot knife through butter! I'm just a normal person that went out side to look at the comet, hail-bop.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02109.html](http://www.nuforc.org/webreports/reports/002/S02109.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [236](http://www.nuforc.org/webreports/reports/162/S162516.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162496.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162503.html)
-- [233](http://www.nuforc.org/webreports/reports/162/S162500.html)
-- [232](http://www.nuforc.org/webreports/reports/162/S162754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
