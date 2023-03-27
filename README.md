@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:33 on 27 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:48 on 27 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Kensington (NH) reported seeing craft that fit the description of some 'Cone' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Object was observed through a window and caught my eye when the sun reflected off it.  It was moving just above the tree tops moving about 35 to 40 mph.  I mean  maybe 10ft above and just tooling along.  Someone else must of seen it.  The front was a large cone shape silver mettalic in color  with a tube connecting  another cone that faced the opposite of the front. It was about the size of a large bus maybe bigger.  I know I'm not crazy, but whatever it is was very quite and was heading east toward the ocean.  Never had a chance to grab my camera.  Not sure if anyone in the area seen it but going to watch the news just in case.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88077.html](http://www.nuforc.org/webreports/reports/088/S88077.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Vernon Hills (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>pinpoint lights in V formation seen in the night skyMy daughter and I were out on our balcony looking for the Andromeda galaxy.  When we suddenly noticed what looked like a lone wisp of smoke traveling across the clear, night sky.  As we focused on this movement, we both realized that it was multiple pin-point lights that traveled in a V formation, with an occasional slight wave-like movement in this formation, like a flock of birds.  We followed it until it went out of our vision over the roof.  We went to the front of the house to continue looking and it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118058.html](http://www.nuforc.org/webreports/reports/118/S118058.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [236](http://www.nuforc.org/webreports/reports/162/S162516.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162496.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162503.html)
-- [233](http://www.nuforc.org/webreports/reports/162/S162500.html)
-- [232](http://www.nuforc.org/webreports/reports/162/S162754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
