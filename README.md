@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:14:33 on 27 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:25 on 27 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Milwaukee (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Dozens of orange lights traveling over Milwaukee south west side sky.Orange triangular lights traveling north east  to south west gaining altitude while overhead. Would appear from horizon as multiple single file groups down to one every several seconds.  Orange changed to red, and greenish blue at epox and continued gaining height until disappearing in southwest. Several neighbors witnessed from our back yards.  One post on Facebook.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118052.html](http://www.nuforc.org/webreports/reports/118/S118052.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Rigaud (Canada) (QC) reported seeing craft that fit the description of some 'Light' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>Il érait environ 8 heures lorsque nous roulions sur l'autoroute 40. J'ai dit à mon copain de regarder le ciel car il y avait une planète.Mais se n'était pas une planète cela brillait fortement et à certain moment cela arrètait. Rendu chez nous nous avons sorti notre caméra et nos jumelles. Cela devenais de plus en plus bizare. Lorsque nous la regardions avec les jumelles nous avons vu une grosse boule lumineuse qui cachait quelque chose en arrière.On aurrait dit que le cercle était une sorte de gaz. Sur la caméra nous pouvons voir le cercle et l'intencité de la lumière qui grossi et diminu. Elle décendait toujours. Vers dix heures la elle était décendu très vite elle était devenu orange et des chose bixare arrivais à coter,j'ai du mal 'a l'expliquer en l'écrivant mais contacté nous nous avons l'enregistrement et nous aimerons en savoir d'avantage.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35865.html](http://www.nuforc.org/webreports/reports/035/S35865.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [236](http://www.nuforc.org/webreports/reports/162/S162516.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162496.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162503.html)
-- [233](http://www.nuforc.org/webreports/reports/162/S162500.html)
-- [232](http://www.nuforc.org/webreports/reports/162/S162754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
