@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:04 on 27 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:14:33 on 27 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Williston (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Summary : I was standing out side looking at Hail-Bop, when I saw a huge sphear of light fly about 50 ft. off the ground and burn a hole through my Oak trees...  There's a strange smell too...  Like sulfur.  I don't know what it was, but it scared the crap out of me!It was a sphearical shaped ball of light.  It just zipped up about 50 ft. off the ground and shot away, up at an angle through an oak tree, burning a hole right through a giant limb; just like a hot knife through butter! I'm just a normal person that went out side to look at the comet, hail-bop.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02109.html](http://www.nuforc.org/webreports/reports/002/S02109.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Milwaukee (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Dozens of orange lights traveling over Milwaukee south west side sky.Orange triangular lights traveling north east  to south west gaining altitude while overhead. Would appear from horizon as multiple single file groups down to one every several seconds.  Orange changed to red, and greenish blue at epox and continued gaining height until disappearing in southwest. Several neighbors witnessed from our back yards.  One post on Facebook.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118052.html](http://www.nuforc.org/webreports/reports/118/S118052.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [236](http://www.nuforc.org/webreports/reports/162/S162516.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162496.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162503.html)
-- [233](http://www.nuforc.org/webreports/reports/162/S162500.html)
-- [232](http://www.nuforc.org/webreports/reports/162/S162754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
