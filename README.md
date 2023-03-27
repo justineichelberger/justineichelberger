@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:33 on 27 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:27 on 27 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in East Stroudburg (PA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1:30 - 1:30 minutes.</sub><blockquote><sub>Electronics not working,Engine not working,Air fuzzy around ship.Red white and blue lights on the ship.saw it over the highway.  three in flying formation.  flew low and fast.  black in color with red white and blue lights.  hovered over a field for 12 mins.  we stoped to watch it.  at first i thought it was fake, but  then i took a closer look at it and it wasnt fake.then it got really quiet as i went to get closer. the only reason we saw it was cause my engine died. my friend tryied to use his cell phone but he couldnt get a singal.  the ship was in the shape of a cigar.  it was wider but flatter then a flying saucer.  nothing came out of the ship when it was hoving.  it left about an hour n half later.  it flew east  over or car.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35955.html](http://www.nuforc.org/webreports/reports/035/S35955.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Wellesley (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>unusual night light, has been stationary for an hour, yet has a definite strobing, flashing & changing of colors.I didn't know where to ask, but we have noticed a very bright, strobing light in the south west horizon, we live in Southern Ontario & have watched this light change from white to green & it has a red glow from beneath, keeping a stationary position in the sky, so we know its not a plane or helicopter. We are merely curious as to what it is, if you know what this phenomena might be, please email us. Thank you((NUFORC Note:  This report appears to us to be consistent with an observation of the star, "Sirius," a very bright star in the western sky at the time and date indicated.  It is a dramatically "twinkling" star.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12460.html](http://www.nuforc.org/webreports/reports/012/S12460.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [236](http://www.nuforc.org/webreports/reports/162/S162516.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162496.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162503.html)
-- [233](http://www.nuforc.org/webreports/reports/162/S162500.html)
-- [232](http://www.nuforc.org/webreports/reports/162/S162754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
