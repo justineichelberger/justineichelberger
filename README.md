@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:27 on 27 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:33 on 27 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Rochester (NH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I took my dog out at 10pm to notice a glowing orange light heading my way in the sky!  As soon as it passed by my house the glow stopped and all you could see is a disk shaped saucer swaying side to side in the sky until it was out of sight!  A plane look as if it was turning around to get a better look at it!!  Never seen anything like that in my life!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154600.html](http://www.nuforc.org/webreports/reports/154/S154600.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in East Stroudburg (PA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1:30 - 1:30 minutes.</sub><blockquote><sub>Electronics not working,Engine not working,Air fuzzy around ship.Red white and blue lights on the ship.saw it over the highway.  three in flying formation.  flew low and fast.  black in color with red white and blue lights.  hovered over a field for 12 mins.  we stoped to watch it.  at first i thought it was fake, but  then i took a closer look at it and it wasnt fake.then it got really quiet as i went to get closer. the only reason we saw it was cause my engine died. my friend tryied to use his cell phone but he couldnt get a singal.  the ship was in the shape of a cigar.  it was wider but flatter then a flying saucer.  nothing came out of the ship when it was hoving.  it left about an hour n half later.  it flew east  over or car.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35955.html](http://www.nuforc.org/webreports/reports/035/S35955.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [236](http://www.nuforc.org/webreports/reports/162/S162516.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162496.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162503.html)
-- [233](http://www.nuforc.org/webreports/reports/162/S162500.html)
-- [232](http://www.nuforc.org/webreports/reports/162/S162754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
