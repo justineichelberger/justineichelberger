@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:28:15 on 27 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:11:33 on 27 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Southington (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Working on a hill overlooking I84. Noticed 2 objects moving across the sky,then started to loop in circles following each other over lapping one another.  Every time they circled in the direction of the sun they reflected like they were so sort of shiny alloy.  By time I called a coworker over they vanished.  No trails,  No sound, moving very fast flying in jet territory.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154588.html](http://www.nuforc.org/webreports/reports/154/S154588.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Melbourne (Australia) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Set in the northern sky was a precise grouping of arrow shaped star like lights with a tail that fanned out at the end of the shaft. The lights remained stationary for about three minutes then disappeared behind a cloud. I waited for about an hour to see if they would reappear as the clouds passed but they didn't.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108137.html](http://www.nuforc.org/webreports/reports/108/S108137.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [236](http://www.nuforc.org/webreports/reports/162/S162516.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162496.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162503.html)
-- [233](http://www.nuforc.org/webreports/reports/162/S162500.html)
-- [232](http://www.nuforc.org/webreports/reports/162/S162754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
