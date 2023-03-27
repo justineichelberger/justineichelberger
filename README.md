@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:29 on 27 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:30 on 27 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Sauk Centre (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>ONE LIGHT BECAME 3 LIGHTS IN TRIANGLE FORMATION AND SHOT ACROSS THE SKY.I WAS GATHERING FIREWOOD AND LOOKED UP AT FIRST THOUGHT IT WAS A SHOOTING STAR.  ONE LIGHT BECAME 3 LIGHTS IN A TRIANGLE FORMATION AND SHOT FROM SOUTH TO NORTH ACROSS THE SKY.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154741.html](http://www.nuforc.org/webreports/reports/154/S154741.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Wellington (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately continuous - continuous minutes.</sub><blockquote><sub>Lights moving in pattern in cloudsThere was lights going in a pattern in the sky on a cloud.  The lights seem to move to different clouds and they seem to still follow a pattern.  This is in the country so no big events could cause the lights and they were very large.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108127.html](http://www.nuforc.org/webreports/reports/108/S108127.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [236](http://www.nuforc.org/webreports/reports/162/S162516.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162496.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162503.html)
-- [233](http://www.nuforc.org/webreports/reports/162/S162500.html)
-- [232](http://www.nuforc.org/webreports/reports/162/S162754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
