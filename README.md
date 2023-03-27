@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:29 on 27 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:40 on 27 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Montcalm (WV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Aircraft following a possible UFO?First of all, Im not sure what we saw that night but it had everyone thinking. The four of us were boating down the river doing some fishing when I noticed something moving in the sky around the Little Dipper.  It was circular and a bright white color moving from left to right.  As I was looking at this object the other people in the boat noticed it too and one of them made the comment that it was just a plane but it was moving too fast, and there were no other lights, just a solid white light. The next conclusion was that it could have been a satelite which it could have been, but the speed and the amount of area that it covered as it moved across the sky was amazing. In about a minute or so this object appeared at my far left and streaked across the sky to my far right before we lost it over the mountain. I was in the military and have seen and been around planes, jets, helo's and I've never seen something move this fast, I was astonished. Maybe twenty to thirty seconds after we lost sight of this object, my friend pointed out a group of aircraft behind us. They were in fairly perfect formation with the same lights with a differant aircraft behind them (I say diff. because the lights were diff. on this one) and were moving in the direction of where we last saw the object before it went out of sight over the mountain. In all there were five aircraft, and all seemed to be tailing this object that we saw. We watched for another minute before they too moved across the mountain out of sight. This may not be a ufo sighting but it was too wierd not to report to someone. If anyone else had the same sighting that night, hopefully they report it so that we can find out what it was or wasn't.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62449.html](http://www.nuforc.org/webreports/reports/062/S62449.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Glendale (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>we dont know if they where space crafts or not. htye where to high up. two of them would head strait for eachother then suddenly break off. they where to high up so we couldnt see the shape. they could have been stunt plains for all we know.it wasnt just me who saw them so i know they where there. like i said they where to high up so we dont know if they where space crafts or people in stunt plains.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69406.html](http://www.nuforc.org/webreports/reports/069/S69406.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [236](http://www.nuforc.org/webreports/reports/162/S162516.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162496.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162503.html)
-- [233](http://www.nuforc.org/webreports/reports/162/S162500.html)
-- [232](http://www.nuforc.org/webreports/reports/162/S162754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
