@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:33 on 27 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:29 on 27 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bridgewater (MA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Was driving into bridgewater by route 24 seen something flashing in the sky but in was not visible in between the flashes I got it on video it flashes so fast it's very tough to pause it in time but it can be done with some patience and when you you can see an outline of some type of craft it looks almost translucent see for your self you be the judge!!  Also there was alot of other smaller anomalies flying around at one point in front of car idk if its bugs but there hasn't been any bugs out at all and these move super quick and are super small white and black</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154614.html](http://www.nuforc.org/webreports/reports/154/S154614.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Sauk Centre (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>ONE LIGHT BECAME 3 LIGHTS IN TRIANGLE FORMATION AND SHOT ACROSS THE SKY.I WAS GATHERING FIREWOOD AND LOOKED UP AT FIRST THOUGHT IT WAS A SHOOTING STAR.  ONE LIGHT BECAME 3 LIGHTS IN A TRIANGLE FORMATION AND SHOT FROM SOUTH TO NORTH ACROSS THE SKY.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154741.html](http://www.nuforc.org/webreports/reports/154/S154741.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [236](http://www.nuforc.org/webreports/reports/162/S162516.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162496.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162503.html)
-- [233](http://www.nuforc.org/webreports/reports/162/S162500.html)
-- [232](http://www.nuforc.org/webreports/reports/162/S162754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
