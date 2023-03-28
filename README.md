@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:31 on 28 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:32 on 28 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Bouse (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Looking to the NNE towards Prescott Az, saw two amber lights. Twice as large as previous sightings beneath the big Dipper at it's 9 position in the sky.  The two amber lights were the same distance apart as the two top stars of the Big Dipper. Highest light on right hand side..looking NNE.  Second light was down at 45 degree angle on Left hand side.I was pluging in a light on an outbuilding when I looked in the Prescott Az direction NNE from my position and saw two amber lights. Each light was twice the size of the largest star in the Big Dipper.  Duration of time was 10 seconds approx.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12466.html](http://www.nuforc.org/webreports/reports/012/S12466.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Burbank (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Sunday 28march2010 9:50pm Burbank Ca USA  2nd fl apt build facing east was looking out window talking on cell phone, zero noise, very low clouds dark gray,a little foggy, DISK CRAFT GRAY COLORED came over the apt build very very low 200 feet over top of apt buildings.bottom of CRAFT red/green flashing lights. my first time seeing this my adrenaline rushed and I ran to go out side to see more as it was moving from south east going north west, I missed it. very very cool my parents were in the front room as I ran to goto balcony and I was yelling with my voice almost could not scream the words out...."Flying Space Craft look look as I was pointing" Im 16 years old straight A student, my uncle would tell me about objects like this and my stepfather.Im happy to report this to NUFORC</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75280.html](http://www.nuforc.org/webreports/reports/075/S75280.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/162/S162541.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162518.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162536.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162517.html)
-- [241](http://www.nuforc.org/webreports/reports/162/S162519.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
