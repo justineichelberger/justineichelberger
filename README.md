@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:25 on 28 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:42 on 28 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Morganton (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>we saw a bright white light in the sky surrounded by airplanes.My boyfriend my roommate and I stepped outside to get some air and look at the stars and noticed a bright burning white light in the sky.  It was not a star.  It was brighter than the stars.  There were airplanes circling all around the object.  At least four planes were in the sky with this object.  When we first saw it, it was extremely bright and bi.  Then it seemed to get dimmer and farther away.  Then it looked like it was coming towards us. Then it remained in the same spot just became more dim.  By this time most of the planes had left, there were only one or two left in the sky with the light.  We got tired of waiting out there because it was freezing cold so we went back in the house.  About an hour later we went back outside to go to the store and it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118075.html](http://www.nuforc.org/webreports/reports/118/S118075.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Kuna (ID) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Driving down clover dale road towards the kuna road cross street I saw a huge green fireball fall from the sky and into the earth.  It lasted only a few seconds and was at approximately 4:50 a.m.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145375.html](http://www.nuforc.org/webreports/reports/145/S145375.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/162/S162541.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162518.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162536.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162517.html)
-- [241](http://www.nuforc.org/webreports/reports/162/S162519.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
