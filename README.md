@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:47 on 28 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:40 on 28 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>amorphous and undefinable low-flying object on a clear blue sky afternoonIt was just after 12:30 PM in the afternoon when my wife first saw the object. She was talking to me in my office on the second floor of our home. She had a puzzled look on her face to which I asked “What is it?“ and she replied “I am trying to figure out what the heck is in the sky.”  I got up and looked out the window to see what I can only describe as a shapeless or shapeshifting flying object. It was low in the sky, silent, and only a few hundred feet but less than 1000 feet above the ground. It was moving in a west to northwesterly direction. I estimate the distance away at 1-2 miles. The color was silver but was shifting in terms of brightness. It appeared to be reflective at times and transparent the next. The silvery/reflective color and shape changes were bizarre and difficult to explain. It appeared to have hard edges one second and rounded edges the next then back and forth without any pattern of shape change. After watching the object for about 30 seconds I grabbed my phone to record but it had moved out of view behind some houses. We have a rooftop deck and we both went outside to the roof for a better look. The object was still visible but seemed to have sped away from when we had lost sight of it only seconds before. It appeared to have chan! ged course to a more north-northwesterly direction. It continued to move in total silence, flying farther away and slowly gaining altitude. The air was calm, not a cloud in the sky. As it moved away, I filmed the object. I was easier to see with the naked eye. The digital video does not show as much detail but in both the video and with our eyes we could see what appeared like fast-flickering lights. At times this flickering made it look like 2 objects. It was brighter than I would have expected from a reflection. The object was also quite large. Larger than the small planes and helicopters that are commonly seen from my rooftop deck. We watched and filmed the object as it flew away from us and eventually out of view, past more than 10 miles or so. The whole sighting was approximately 5 minutes. The location was the northwest suburbs of Las Vegas, close the mountains.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164301.html](http://www.nuforc.org/webreports/reports/164/S164301.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Oak Island (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Bright light, sparkler-like comet tail.  Seemed to burn out then burned bright again before burning out completely.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139306.html](http://www.nuforc.org/webreports/reports/139/S139306.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/162/S162541.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162518.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162536.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162517.html)
-- [241](http://www.nuforc.org/webreports/reports/162/S162519.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
