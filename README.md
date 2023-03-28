@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:16:33 on 28 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:30 on 28 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Gilbert (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>There were about 8 fireballs in the sky tonight they were just big balls of fire.  They started off low and went higher. It looked just like fire that was traveling in the sky like the back of a rocket ship.  But it wasn't going very fast.  They flew for a few minutes and then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118077.html](http://www.nuforc.org/webreports/reports/118/S118077.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Brooksville (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Possible UFO on Cortez blvd in Brooksville FLDriving on Cortez blvd towards Cobb road saw an object in the sky had red and blue flashing lights was flying slow across roadway then turning and flying in all different directions very fast and flexible,  saw a few white flashing lights but lights blue and white we're turning on and off red lights were continuous.  Last saw object flying over post office on Cortez blvd near sheriff's department</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118056.html](http://www.nuforc.org/webreports/reports/118/S118056.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/162/S162541.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162518.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162536.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162517.html)
-- [241](http://www.nuforc.org/webreports/reports/162/S162519.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
