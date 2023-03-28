@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:27 on 28 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:28 on 28 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in El Cajon (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I live behind rancho san diego elementary school. 92019.  Looking over Mt Miguel I saw a space craft move in unorthodox directions zipping very fast around the sky then glow different colors and eventually emanate blue and then went up and down several times and then seemed to land near Mt Miguel near rancho san diego.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108169.html](http://www.nuforc.org/webreports/reports/108/S108169.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Boston Area (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Ball of moving light witnessed from an airplane's window.On March 28, 2015 at approximately 9am Eastern Standard Time, I was aboard Southwest Airlines flight 2602 from Chicago Midway to Boston Logan.  The plane had started its descent into Boston and because of the weather, we were in the clouds most of the way to the runway.  This sighting occurred roughly 10 minutes before the plane landed.I had a window seat and I kept looking out the window, wondering when I’d be able to see the ground below.  I saw a bright sphere through the clouds, immediately to the left of the plane.  I assumed I was seeing the sun, diluted through the clouds, but realized that it didn’t look quite right. It was in the wrong place in the sky and it was smaller than it should look (between grapefruit and beach ball size).I thought maybe the plane was tilted and I was seeing a bright light from below, something to explain what I was seeing, when I noticed that the light was heading straight toward the plane (I don’t know exactly what speed the object was moving, but it seemed like it was moving at a car’s pace rather than an airplane’s speed).  As soon as I realized this, I got scared and my heart rate began to increase, worried that this object was going to hit the plane.I turned my head momentarily and told myself that this object was not going to hurt the plane. It didn’t even seem solid.  I turned back toward the window and watched as the object passed over the plane probably 1 to 2 feet above the airplane.The best way that I can describe this object is that it looked exactly like the sun looks in the sky on a cloudy day, except that it was smaller.  The object was white and had a soft brightness that didn’t hurt my eyes, rather than a blinding light. It seemed to move at a steady pace and course of direction.  It was a three-dimensional sphere.I was traveling by myself and the two people seated next to me were sleeping.  I didn’t notice if anyone else on the airplane noticed the object or not, meaning I didn’t hear any gasps or anything.I’m a 35-year-old parent and I teach English at a community college.  This is the first time I’ve ever seen something like this where I couldn’t find a logical explanation for what I was seeing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118100.html](http://www.nuforc.org/webreports/reports/118/S118100.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/162/S162541.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162518.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162536.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162517.html)
-- [241](http://www.nuforc.org/webreports/reports/162/S162519.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
