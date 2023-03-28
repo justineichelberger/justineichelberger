@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:55 on 28 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:24 on 28 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Gainesville (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Yellowish light moving across the sky at a high rate of speed made a quick circle into a zig zag then quickly back in the direction it came from.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118071.html](http://www.nuforc.org/webreports/reports/118/S118071.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Springview (NE) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We watched it for 10 to 15 minutes,it went to the east,appeared to be very large,or there was more than oneIt had orangish/red flashing lights,could move very fast and very slow. Looked to be a very large whatever,could change dirictions very quickly, Also saw it the 29th just for a few seconds. Would seem to have the ability to appear and dissapear and appear some where else in the matter of a second or two,and move a mile or more in that time.I am 59 and my wife was with me, and we have ranched here for 31 years.We have seen things before but never reported them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17194.html](http://www.nuforc.org/webreports/reports/017/S17194.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/162/S162541.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162518.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162536.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162517.html)
-- [241](http://www.nuforc.org/webreports/reports/162/S162519.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
