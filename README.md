@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:38 on 28 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:31 on 28 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Woodland Park (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>2 circles chasing each other in sky2 bluish light circling in the sky high speed chasing each other.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96818.html](http://www.nuforc.org/webreports/reports/096/S96818.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Bouse (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Looking to the NNE towards Prescott Az, saw two amber lights. Twice as large as previous sightings beneath the big Dipper at it's 9 position in the sky.  The two amber lights were the same distance apart as the two top stars of the Big Dipper. Highest light on right hand side..looking NNE.  Second light was down at 45 degree angle on Left hand side.I was pluging in a light on an outbuilding when I looked in the Prescott Az direction NNE from my position and saw two amber lights. Each light was twice the size of the largest star in the Big Dipper.  Duration of time was 10 seconds approx.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12466.html](http://www.nuforc.org/webreports/reports/012/S12466.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/162/S162541.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162518.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162536.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162517.html)
-- [241](http://www.nuforc.org/webreports/reports/162/S162519.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
