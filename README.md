@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:29 on 28 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:26 on 28 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Kuna (ID) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Driving down clover dale road towards the kuna road cross street I saw a huge green fireball fall from the sky and into the earth.  It lasted only a few seconds and was at approximately 4:50 a.m.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145375.html](http://www.nuforc.org/webreports/reports/145/S145375.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Boonville (AR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.5833333333333333 - 1.5833333333333333 minutes.</sub><blockquote><sub>We was driving up a hill and saw these orange lights and as soon as we cleared hill they was gone((NUFORC Note:  We attempted to contact the witness, but he refused to speak.  We suspect a hoax.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118084.html](http://www.nuforc.org/webreports/reports/118/S118084.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/162/S162541.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162518.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162536.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162517.html)
-- [241](http://www.nuforc.org/webreports/reports/162/S162519.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
