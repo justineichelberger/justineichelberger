@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:40 on 28 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:35 on 28 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Oak Island (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Bright light, sparkler-like comet tail.  Seemed to burn out then burned bright again before burning out completely.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139306.html](http://www.nuforc.org/webreports/reports/139/S139306.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Stoughton (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Drone flight video captures unkown circular object, fast approaching, and pulsating appearance.My daughter and I were practicing drone flights in our backyard 2 miles northeast of Stoughton, Wisconsin.  I recorded an HD video of the flight, from the drone, just as practice.  After recording the drone flight that flew to an elevation of about 100 feet, looking West, we reviewed the video and noticed an object entering the video in the upper left corner of the viewing field.  The object faded into view, increasing in size and approaching, circular in shape, but well defined.  The camera's lens had been cleaned prior to flight.  The object remained stationary in the viewing area as well.  It did not follow the motion of the camera which also caused us to believe the object was actually airborne and not on the camera lens.  The object can be seen during 3 diferent time intervals during the short video.  At one point, the object begins to pulse or flash at the drone.  I would have stayed in the air longer had I known I was actually recording an ojbect.  No aircraft ! were in the area at the time the drone was airborne.  We could not see the object visually from where we were standing because the tree line in our backyard was blocking the area where the object was recorded by our drone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145433.html](http://www.nuforc.org/webreports/reports/145/S145433.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/162/S162541.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162518.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162536.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162517.html)
-- [241](http://www.nuforc.org/webreports/reports/162/S162519.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
