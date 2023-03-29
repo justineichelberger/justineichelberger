@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:02:46 on 29 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:08:39 on 29 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Indian Shores (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Accelerated UFO Flight Pattern with abrupt stop and continuation of flightWhile taking my dog out during the late evening hours of the 29th of March, 2017, I witnessed a green/red light appearing side by side.  The lights caught my eye due to the speed at which it was flying.  Flight path was east to south west out and over the Gulf Of Mexico.  The factor in which the UFO came to an abrupt stop, and then made a 90 degree flight movement to the south, and at a speed not commensurate with a jet or prop plane was the key factor in this report.  Conditions that night were clear, no clouds, no heavy winds, nor rain/lightning.  Moon phase was a waning crescent of 24 percent illumination.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133380.html](http://www.nuforc.org/webreports/reports/133/S133380.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Kokomo (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>multiple occurrence of bright points of light separating into 3'ssaw orang amber points of light tonight.  started as one and appeared to separate into 3  saw this happen 5 times tonight over 20 minute period with one other witness seeing one occurrence.  appeared directly west of my south central kokomo location and reoccurred slowing moving north.  one time two sets of 3 lights occurred simultaneously.  no sound no other aircraft near or evident.  lasted 4-5 seconds each occurrence.  nite sky was predominantly clear but first occurrence there was a cloud cover with high ceiling .. lites were on this side of cloud ceiling but  i cannot tell how high or how far away. these things are veryu strange</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49864.html](http://www.nuforc.org/webreports/reports/049/S49864.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162542.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162526.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162537.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162758.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162763.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
