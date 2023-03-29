@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:34 on 29 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:26 on 29 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Iriga City (Philippines) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately sightings - sightings minutes.</sub><blockquote><sub>somewhere in the mountain of mt. asog of iriga city, philippines we have seen a strange cigar-shaped object flying in the sky just above the mountain, it changes color alternately from yellow to blue then to red. then after a few minutes of observation at a distance approximately 5 kilometers from us,those 2 strange cigar-shaped objects disappeared in the clouds. we dont know where they go.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28300.html](http://www.nuforc.org/webreports/reports/028/S28300.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Three objects flying in strange speeds and maneuvers closing in to eachother and dispersing away.There were 3 visible lights formed in a triangle.  Two of them accelerated away from the last one.  The frontal two maneuvered closer to eachother, then the third one aught up in an extremely fast manner.  They all slowed down in an extreme manner and then disappeared.  Strange formation activity not appearing to be flying with FAA regulations or military strategy.  They appeared to be different than jets.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35896.html](http://www.nuforc.org/webreports/reports/035/S35896.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162542.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162526.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162537.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162758.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162763.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
