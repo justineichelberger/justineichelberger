@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:08:39 on 29 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:39 on 29 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Kokomo (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>multiple occurrence of bright points of light separating into 3'ssaw orang amber points of light tonight.  started as one and appeared to separate into 3  saw this happen 5 times tonight over 20 minute period with one other witness seeing one occurrence.  appeared directly west of my south central kokomo location and reoccurred slowing moving north.  one time two sets of 3 lights occurred simultaneously.  no sound no other aircraft near or evident.  lasted 4-5 seconds each occurrence.  nite sky was predominantly clear but first occurrence there was a cloud cover with high ceiling .. lites were on this side of cloud ceiling but  i cannot tell how high or how far away. these things are veryu strange</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49864.html](http://www.nuforc.org/webreports/reports/049/S49864.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Decorah (IA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two amber colored orbs moving together.I was out getting a set of cows for milking and as I closed up the gate I saw the first amber orb coming out from behind the shed. Shortly after another one appeared just slightly offset from the first but both of them were the same size and moving the same speed. I watched it for over a minute when the first orb faded out and the second one shortly after.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108236.html](http://www.nuforc.org/webreports/reports/108/S108236.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162542.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162526.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162537.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162758.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162763.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
