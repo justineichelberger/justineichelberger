@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:39 on 29 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:21 on 29 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Evergreen (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>25+ satellite-looking objects flying across the Ursa Major constellationOver the course of at least 20 minutes my family and I saw at least 25 satellite-looking objects fly across the Ursa Major constellation.  Initially we presumed they were typical satellites given their speed and size though considering the number of them as well as their linear path and equidistant spacing we believe they couldn’t have been average satellites.  We stood outside of our home with all indoor and outdoor lights turned off for the duration of the sighting, counting a minimum of 25 of them.  We also saw multiple planes flying and in comparison we determined there was no possible way they were planes of any kind.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154609.html](http://www.nuforc.org/webreports/reports/154/S154609.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Canton (MI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two pulsing lights traveling in perfect formationMy 11-year-old daughter and I were taking a walk around the neighborhood on the evening of March 29, 2007.  The time was between 9:00 and 9:30 p.m. We live in Canton, Michigan, which is located approximately 12 to 15 miles north, northwest of the Detroit Metropolitan airport.  It was a very clear, starry night with a great deal of air traffic. We were looking to the south, above the houses, at the stars.  We thought we were looking at a constellation, but upon closer observation, these two stars were moving in unison from east to west, approximately 40 to 45 degrees above the horizon. They did not appear to be moving fast.  They appeared to be moving about the same as the other air traffic in the sky.  It took them 2 to 3 minutes to move across the sky, east to west.  They also appeared to be moving in the air corridor for take offs and landings from metro airport. The two points of light were approximately 2 inches apart in the sky from our point-of-view and were arranged one above the other, with the top point of light lagging slightly behind the other.  They were points of light that both pulsed from white to red to purple to white again (the colors were not distinct and the light was not strong from our distance). There were no other lights or flashes associated with them like on a plane.  We watched these two points travel across the sky without their formation ever varying in the slightest.  Either the two lights were on opposite ends of an enormous craft or they were intelligently linked and working together in some fashion. I am 45 years old and have been interested in the UFO phenomenon most of my life, but this was the first time I have ever seen anything in the sky that I could not explain.  These two  points of light were unusual and did not appear to aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56049.html](http://www.nuforc.org/webreports/reports/056/S56049.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162542.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162526.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162537.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162758.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162763.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
