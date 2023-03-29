@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:39 on 29 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:26 on 29 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Decorah (IA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two amber colored orbs moving together.I was out getting a set of cows for milking and as I closed up the gate I saw the first amber orb coming out from behind the shed. Shortly after another one appeared just slightly offset from the first but both of them were the same size and moving the same speed. I watched it for over a minute when the first orb faded out and the second one shortly after.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108236.html](http://www.nuforc.org/webreports/reports/108/S108236.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Smilax (KY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A line of 5 orbs that disappeared!My Mom and I were sky watching.  We  see a line of 5 orbs move in a line from east to west. in the same path.  At first I thought this could be Elon Musk’s Star Link .  I thought this until  they each got to a certain point in the “clear” sky(no clouds) and disappeared.  It was like they went into something invisible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154755.html](http://www.nuforc.org/webreports/reports/154/S154755.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162542.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162526.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162537.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162758.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162763.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
