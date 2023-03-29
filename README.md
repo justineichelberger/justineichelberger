@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:34 on 29 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:34 on 29 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Jacksonville Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>4 orange lights following each other in the sky and fading outAt 9:15 PM I walked outside to get something out of my vehicle when I saw what I thought was a shooting star. I noticed that it was a bright orange glowing light that was lasting much too long to be a shooting star.  After watching it for 30 seconds or so, I started recording it with my cell phone.  I video taped it traveling from the south east towards the north west. After video taping it for 2 minutes or so, the orange light began to blink and faded out. Immediately following it fading out, another one appeared over the tree line at the same exact spot the previous one started. 3 more orange lights followed in the same exact line.  While traveling in the same direction, the lights appeared to be swaying or moving in a faint zig-zag line.  In other words, they appeared to not be traveling in an exact straight line.  The lights were brighter than stars but not brighter than the moon.  Airplanes were flying during the same time frame and this showed us there was a! clear difference in the airplanes and the orange glowing lights,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96909.html](http://www.nuforc.org/webreports/reports/096/S96909.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Sheridan (IN) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>two extremely bright pulses of white light followed by brief sound of a loud charge like you use to hear in the old frankenstein movies.  No transformer problems, no surge in my computer that I was on, no electrical surge in the house no fire sirens in our small town going off.  Our dog wanted immediately out so we let him out in the yard and and he stopped dead in the center of our yard and looked straight up into the sky for several minutes with his head turning as if to follow something.  It was a cloudy cold day so nothing was visible except the intense flash of light that was piercing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69452.html](http://www.nuforc.org/webreports/reports/069/S69452.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162542.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162526.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162537.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162758.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162763.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
