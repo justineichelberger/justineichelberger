@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:31 on 29 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:39 on 29 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Farmersville (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Observed bright light traveling rapidly northwest to northeast.Time of sighting is approximate; we went outside at 18:45 and had been out for several minutes at the time of the sighting.  Observed bright light traveling roughly northwest to northeast from our location (approximately 36.317N, 119.204W).  Light was about 30 degrees above the horizon.  The light was traveling very fast.  The light faded in and out similar to an Iridium satellite, but much faster and not as high in elevation.  Also, we have never seen an Iridium traveling in this direction.  When the light faded, there were no marker lights visible.  It was very dim when it faded, but still barely visible.  Before we went out to stargaze, I printed out a list of satellites from the Heavens Above website.  Using the flashlight, I looked on the list for something of a similar brightness, time and direction.  The brightness was matched for ISS, but it was in the south.  The next would have been the Shenzhou III, but we saw it several minutes later; the altitude was much higher (59 degrees) compared to the earlier light.  The light appeared to be at an elevation similar to a jet, but did not make any sound.  We are close to several flight paths, primarily Fresno (FAT) and Lemoore Naval Air Station.  After the light disappeared, I looked around for any planes; saw what appeared to be a jet to the northwest that was at a much higher elevation and farther away and I could hear jet noise.  We are familiar with the local air traffic, satellites and meteors; this did not appear to be any of those.  Weather was clear, temperature probably close to 70 degrees or a little above.  No breeze noted.((NUFORC Note:  We are always grateful to receive such an excellent report, as this one appears to us to be.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22383.html](http://www.nuforc.org/webreports/reports/022/S22383.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Evergreen (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>25+ satellite-looking objects flying across the Ursa Major constellationOver the course of at least 20 minutes my family and I saw at least 25 satellite-looking objects fly across the Ursa Major constellation.  Initially we presumed they were typical satellites given their speed and size though considering the number of them as well as their linear path and equidistant spacing we believe they couldn’t have been average satellites.  We stood outside of our home with all indoor and outdoor lights turned off for the duration of the sighting, counting a minimum of 25 of them.  We also saw multiple planes flying and in comparison we determined there was no possible way they were planes of any kind.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154609.html](http://www.nuforc.org/webreports/reports/154/S154609.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162542.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162526.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162537.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162758.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162763.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
