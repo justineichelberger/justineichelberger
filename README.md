@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:34 on 29 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:34 on 29 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Sheridan (IN) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>two extremely bright pulses of white light followed by brief sound of a loud charge like you use to hear in the old frankenstein movies.  No transformer problems, no surge in my computer that I was on, no electrical surge in the house no fire sirens in our small town going off.  Our dog wanted immediately out so we let him out in the yard and and he stopped dead in the center of our yard and looked straight up into the sky for several minutes with his head turning as if to follow something.  It was a cloudy cold day so nothing was visible except the intense flash of light that was piercing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69452.html](http://www.nuforc.org/webreports/reports/069/S69452.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Iriga City (Philippines) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately sightings - sightings minutes.</sub><blockquote><sub>somewhere in the mountain of mt. asog of iriga city, philippines we have seen a strange cigar-shaped object flying in the sky just above the mountain, it changes color alternately from yellow to blue then to red. then after a few minutes of observation at a distance approximately 5 kilometers from us,those 2 strange cigar-shaped objects disappeared in the clouds. we dont know where they go.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28300.html](http://www.nuforc.org/webreports/reports/028/S28300.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162542.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162526.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162537.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162758.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162763.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
