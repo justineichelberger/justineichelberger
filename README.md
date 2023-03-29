@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:24 on 29 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:31 on 29 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Madison (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>IT WAS NOT SOMETHING OF THIS EARTH NOT MAN MADE FLYS AROUND LIKE THIS THING DIDOBJECT APPEARED IN THE SOUTH SOUTHWEST SKY AT ABOUT 2 O'CLOCK POSITION.  OBSERVED FOR ONLY 10 MIN.  CIRCULAR IN SHAPE NOTE THAT IT WAS AT A LONG DISTANCE AWAY SO NOT SURE OF SHAPE.  OBJECT MOVED IN STRANGE WAYS SO IT COULD NOT HAVE BEEN MAN MADE AIRCRAFT.  IT SEEMED TO BE A RED AN YELLOW COLOR.  I HAD TAKEN A VIDEO OF THIS OBJECT, IT'S BRIEF AND IT'S HARD TO TELL WHAT IT WAS BUT ITS MOVEMENT WAS WEIRD GOING IN MANY DIRECTIONS.  I HAD SAW A CRESENT MOON SHAPED OBJECT IF YOU CAN IMAGINE A CRESENT MOON UPSIDE SIDE DOWN WITH THE CRESENT AT THE TOP.  THAT WAS BACK IN LATE OCTOBER.  BOTH TIMES THE SKY WAS CLEAR AND JUST BEFORE SUNRISE</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108166.html](http://www.nuforc.org/webreports/reports/108/S108166.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Lakeville (MN) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>It was sort of a small V-shape, high above the truck stop.  It could've been farther away because of my viewpoint from the highway.  Flashed really bright for a few seconds, then disappeared.  I kept trying to find it again and almost ran off the road.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139302.html](http://www.nuforc.org/webreports/reports/139/S139302.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162542.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162526.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162537.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162758.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162763.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
