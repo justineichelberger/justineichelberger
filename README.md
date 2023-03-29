@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:26 on 29 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:27 on 29 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in North Little Rock (AR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orange Sphere in Northern Pulaski County, ArkansasOn the night of 29MAR14 @ 9:30pm CST I live in northern Pulaski County, Arkansas.  I was lying on the couch watching the basketball game.  I see a bright Orange ball approach from the west of my property it was so bright I could see it threw the closed blinds in the window.  I got up ran out on the porch and there was a large orange ball hovering over my neighbor’s house to the south of me for about 30-45 seconds.  I called my wife out on the porch and she says what ((deleted)) is that?  Then the ball slowly moved about a quarter mile south and hovered again for about another minute.  I ran into the house to get my smart phone to get a picture of this thing.  But when I got back out there the ball shot to the south towards North Little Rock and disappeared in about 2-3 seconds.  I live between 2 military bases so I see all kinds of Jets, C130’s, and helicopters flying around my property all the time.  This made no sound and there were no other aircraft in the area all ni! ght.  I have never seen anything this color or shape out here ever; I have lived here for over 10 years.  I’m a medical professional and my wife has 2 college degrees, we are not people that would just make up a story for notoriety.  Actually I didn’t think much of it till I got on the internet and saw that a lot of people have seen the same thing we have seen….</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108223.html](http://www.nuforc.org/webreports/reports/108/S108223.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in EL Cajon (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>At 1130 PM I looked out of my back yard West towards Mt San Miguel.   I initially saw two objects one that was Large and Blue/Purple and one that was Orange.  After a period of time I saw another orange glowing orb.  These objects initially looked like they were lowered down from the sky on a string but then began to dip and fly all over the place at a very high rate of speed.  At the end of my viewing the Large Blue Object Flew very close to me.  I would estimate its size to be about 100FT Long. The Blue Glowing Orb intensified its Glowing and began to rise to altitudes that made the object hard to see and then would drop straight down to maybe a mile or so above the earth.  The orb then lowered to just above the ground and two Military Helicopters showed up and the thing disappeared and the helicopters circled for maybe a half an hour after the thing left.... The three orbs seemed to almost touch frequently.This Video is exactly the same thing that i saw:http://www.youtube.com/watch?v=sQ6hdV81DaY</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108308.html](http://www.nuforc.org/webreports/reports/108/S108308.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162542.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162526.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162537.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162758.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162763.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
