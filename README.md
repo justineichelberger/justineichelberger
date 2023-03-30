@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:29 on 30 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:31 on 30 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Dorchester (MA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 360.0 - 360.0 minutes.</sub><blockquote><sub>One ufo after another last night. 8 or 9 total.I dont know what happened last night. I continue to vacillate between thinking im crazy to thinking i really saw what i saw. so around seven thirty i reported a starlight point moving, then two orbs glowing and moving across the sky.  i then proceeded to watch and lay in my backyard. the first one i saw included 4 orbs. it was in a v shape. then i saw   three points of light intersect in and out, going from three points of light to one point of light. this one was the most uncomfortable to watch because at one point it got very close. after an hour of watching the final point of light remain stationary, i saw the same double orb shape from earlier in the night fly over head three more times. coming from the same direction. then another hour goes by and i see two points of light like stars dancing around one another and then they both went off in different directions. as im bringing in my blanket (by this point i had made camp in my backyard) i see the final o! ne. as if to say goodnight, just as i head inside i see a solitary point of light like the first one move slow, even across the sky and dissapear into the halo of the moon. not two min later a plane with a chem trail behind it shot of in the same direction pretty fast (the plane was clearly illuminated by the moon) overall im pretty intrigued and plan on looking again tonight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96891.html](http://www.nuforc.org/webreports/reports/096/S96891.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>At 12:25 p.m in Tacoma WA.i was sitting outside looking into the beautiful sky and I noticed a black disk coming out of the clouds very slowly (very distinct ) as my mind was processing what I'm seeing this disk makes like a z shape and then shoots up towards the sky this disk was very low 5-7 thousand feet.  when I went to get my phone to the video section it had flown off.this was so surreal.  i have not stopped thinking of this all day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118130.html](http://www.nuforc.org/webreports/reports/118/S118130.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162643.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162641.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162761.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162608.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162538.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
