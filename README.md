@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:31 on 29 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:28 on 30 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Lakeville (MN) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>It was sort of a small V-shape, high above the truck stop.  It could've been farther away because of my viewpoint from the highway.  Flashed really bright for a few seconds, then disappeared.  I kept trying to find it again and almost ran off the road.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139302.html](http://www.nuforc.org/webreports/reports/139/S139302.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Arlington (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>A bright pulsing light in DFW area of Texas with multiple colors, slowly moving down after 15 minutesTuesday night around 11 I walked out on my back porch and noticed a blinking or flashing bright light that appeared to be multiple colors. I recorded it with my phone and it was almost stationary and slowly dropped below the house behind me and my line of sight over a 15 minute period. The elevation of the Clouds that night were low and some passed between myself and the object blocking it while passing by. Even when the object seemed to be moving downwards it appeared to be the same brightness leading me to believe it was not moving away from me but lowering in altitude. The main light was bright and whitish blue looking and would pulse lighter and dimmer with multiple colors seeming to be going outwards from the center outwards in all directions.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162641.html](http://www.nuforc.org/webreports/reports/162/S162641.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162542.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162526.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162537.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162758.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162763.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
