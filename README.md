@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:26 on 30 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:29 on 30 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Porter Ranch (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Rectangular object in the sky just after sunrise in the Valley.  Can only be seen through camera Lens!Just after 6:30 this morning, March 30 2013, I went to the usual spot (North San Fernando Valley, facing south/southeast towards Burbank and downtown L.A.) from where I watch the sunrise whenever I can. With that said, I have been there many times and have seen many interesting things, but nothing quite like this.I started recording video on my iPhone 3S, because I had forgotten the batteries to my digital camera.  I figured why not give it a try especially since I had recently listened to an interview discussing the abilities of digital cameras compared to the human eye.At first, I filmed a quick, less than 30 second video and remembered I had my Samsung camera in the glove box and stopped recording on the iPhone.  But, before grabbing the other camera, I noticed the screen image displayed after the video was finished saving.At about the center of the frame, set against the morning blue sky, was a light blue, rectangular/square shape.  It clearly stood out and was not common or normal.  After that, I just stuck with the iPhone.  I tried to capture it from different angles, moving the camera back and forth, trying to satisfy the doubts in my own head.  I compared the view from inside the car through the windshield to an unobstructed view outside.  Nothing changed.  The object never moved or changed appearance in any way.  That was until I looked at it with my own eyes.When not looking at the screen, I could not see the object at all.  I kept going back and forth looking at the screen, then with my own eyes.  It was quite remarkable.  Like in the movies when a vampire cant see himself in the mirror hes standing in front of.  I am certain, without a doubt in my mind, what is seen on the video is not and cannot be a glitch or glare or fragment of something floating around in the air.Im then narrating what Im seeing (not seeing) and the object virtually disappears!  After watching the video, to me at least, it looks as if the object had been sucked away at light speed.  Almost immediately after, the closest street lamp shuts off.  This, of course, created all kinds of questions and doubt in my mind.  These were dismissed after I opening the video in an editor.  When looked at frame by frame, it is clear that the object leaves before the light is turned off, which would indicate that the light was not the source of the “rectangular” object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96903.html](http://www.nuforc.org/webreports/reports/096/S96903.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Trenton (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Low flying yellow/reddish light flying towards me. Video as we'llA yellow to reddish ball moving in all directions.  I check the current satellite info which there are none at this time.  The object is to low anyways.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108217.html](http://www.nuforc.org/webreports/reports/108/S108217.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162643.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162641.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162761.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162608.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162538.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
