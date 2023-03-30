@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:37 on 30 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:30 on 30 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in New York (NY) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node  85</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155705.html](http://www.nuforc.org/webreports/reports/155/S155705.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange light or object in North Phoenix skyIt was 10:59 pm on 03/30/2016. I was sitting out back having a smoke. And just to the North of where we stay.  Is another apartment building which you see in the photos i sent.  Now what captured my attention was the light captured was flashing which I could see very clearly with my eyes.  And it had a orange color to it which made it stand out even more.  When I retrieved my camera and picked up the light. Clearly like I had mentioned before the light was indeed flashing on my photo screen which made it much more clearer to notice.  Now in the photos there are 2 lights you will see in the center of the screen.  The lower one being almost center with the other light just above it and to the right a bit.  The lower light you see is actually some piece of the roof top that is to the north of us which you see in the photo as well.  So the light that is above the one I just mentioned is the one that has me stuck on stupid. The photos were taken one after another.  And somehow the light or object in question when you zoom closer to it.  Seems to change shape or form from one photo to the next.  And not only that in every photo in the middle of whatever it is.  Is a very bright energy source or light that is really strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126725.html](http://www.nuforc.org/webreports/reports/126/S126725.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162643.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162641.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162761.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162608.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162538.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
