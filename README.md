@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:12 on 30 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:17:01 on 30 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Corydon (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately All night - All night minutes.</sub><blockquote><sub>Why are there silent aircraft flying over Corydon at night? Also why are there so many going in the same direction?Every night around 12:00am I notice lots of triangular shaped aircraft flying directly over Corydon.  These aircraft are completely silent and look like they are military.  I just think it's weird that they are silent and that I only see them at night as well as why there are so many passing.  I've been told it could be the military looking for a lost aircraft, but why?((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126616.html](http://www.nuforc.org/webreports/reports/126/S126616.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Grand Rapids (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I was standing on my back deck facing south.  When out out of the corner of my eye I noticed a very bright white light.  My first thought was, "Wow, Venus is really bright tonight!"  Then, I noticed it was in front of the clouds, moving with them at the same speed. I watched this for about 10 seconds, then it just vanished.  No sound, no Noise.  And only the one bright light.  It was constant and steady, there were no other flashing, blinking lights with it.  Just the solitary one white light.  It was going from East to West.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133371.html](http://www.nuforc.org/webreports/reports/133/S133371.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162643.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162641.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162761.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162608.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162538.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
