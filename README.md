@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:36 on 30 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:32 on 30 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Shelburn (IN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>While viewing my security monitor, watching a floating orb in the sky, 2 black or dark flying objects appeared and began flying in perfect formation, close to the orb.  I have all of it on video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154682.html](http://www.nuforc.org/webreports/reports/154/S154682.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in East Windsor (Cranbury) (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 75.0 - 75.0 minutes.</sub><blockquote><sub>NEAR MAIN STREET IN CRANBURY, NJ.  VERY LARGE BRIGHT WHITE LIGHT OBJECT ROTATING OVER 1 HREast Windsor-Cranbury, New Jersey 11:12PM Friday- Midnight Hour+ Saturday  75 minutes Cranbury,NJ(East of Main Street) VERY Bright LARGE White Light Rotating Clockwise in the partly cloudy night sky. High as cloud cover.Watched it over 1 hour in same spot rotating.  Not a tower too high & none are currently out there. Definitely not a plane.  A UFO! ANYONE WITNESS IT PLEASE POST ALL INFORMATION FOR NUFORC.  Unfortunately I did not have or was able to get camera at the time.((NUFORC Note:  Source of report elects to remain anonymous; provides e-mail address only.  PD))((NUFORC Note:  Advertising light??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56038.html](http://www.nuforc.org/webreports/reports/056/S56038.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162643.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162641.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162761.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162608.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162538.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
