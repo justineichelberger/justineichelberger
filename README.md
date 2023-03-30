@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:31 on 30 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:27 on 30 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>At 12:25 p.m in Tacoma WA.i was sitting outside looking into the beautiful sky and I noticed a black disk coming out of the clouds very slowly (very distinct ) as my mind was processing what I'm seeing this disk makes like a z shape and then shoots up towards the sky this disk was very low 5-7 thousand feet.  when I went to get my phone to the video section it had flown off.this was so surreal.  i have not stopped thinking of this all day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118130.html](http://www.nuforc.org/webreports/reports/118/S118130.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Flat Rock (MI) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Large object almost falling out of the sky, bright white, like if it was burning up shrouded in a green aura.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108200.html](http://www.nuforc.org/webreports/reports/108/S108200.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162643.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162641.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162761.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162608.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162538.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
