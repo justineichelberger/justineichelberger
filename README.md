@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:23 on 30 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:31 on 30 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Los Alamitos (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>This one has bin seen before it has 4 spheres.This is in regard to the oject seen and reported on 3/29/04 on your home page today 3/30/04. This 4 sphere ufo was seen a few years ago over the military reserve base here in los alamitos. (Just thought this was interesting.) I saw this along with 3 other people, 2 of us looked at this object through a monocular. The way it is discribed is very close to what we witnessed, but for one thing the obect we saw changed in the number of spheres from 4 to 3. Also this was moving into the wind and out over the ocean,(NOT BALLOONS).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35917.html](http://www.nuforc.org/webreports/reports/035/S35917.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Hanover (MD) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node  77</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155707.html](http://www.nuforc.org/webreports/reports/155/S155707.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162643.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162641.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162761.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162608.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162538.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
