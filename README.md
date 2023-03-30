@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:32 on 30 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:33 on 30 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in East Windsor (Cranbury) (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 75.0 - 75.0 minutes.</sub><blockquote><sub>NEAR MAIN STREET IN CRANBURY, NJ.  VERY LARGE BRIGHT WHITE LIGHT OBJECT ROTATING OVER 1 HREast Windsor-Cranbury, New Jersey 11:12PM Friday- Midnight Hour+ Saturday  75 minutes Cranbury,NJ(East of Main Street) VERY Bright LARGE White Light Rotating Clockwise in the partly cloudy night sky. High as cloud cover.Watched it over 1 hour in same spot rotating.  Not a tower too high & none are currently out there. Definitely not a plane.  A UFO! ANYONE WITNESS IT PLEASE POST ALL INFORMATION FOR NUFORC.  Unfortunately I did not have or was able to get camera at the time.((NUFORC Note:  Source of report elects to remain anonymous; provides e-mail address only.  PD))((NUFORC Note:  Advertising light??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56038.html](http://www.nuforc.org/webreports/reports/056/S56038.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Burbank (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Ghostly enormous lights of soft color with a foggy auora fly across Burbank, CAOn my way home from work. And walking up the steps to my apartment that has an open courtyard. When I got about half way up I looked up through the courtyard and saw something so colorful and bright. It moved towards the north. It had no shape it looked almost natural. Huge. I ran to the back of the apartments to see where it went, but it was gone. I waited and stared at the night sky hoping to see something. I must say that when I saw it, I kept waiting to hear a big boom. I got this overwhelming feeling that the ghostly sight with rainbow colored, soft, round orbs with in it, was some sort of attack. My friend who had picked me up from work, caught something she describes as angelic. She froze. I ran. We compared what it was we experienced by not explaining it to one another, but, by writting it down and letting each other read it. So as if not to allow our emotions to find a bond. The only thing about this that made me decide to share it, is that it flew to the north across us. Towards Burbank Airport. Which does not allow flights over the area after 10:00 p.m.And also that while I looked up to the sky hoping for more I noticed that about 1 minute after we saw it, something flew out of Burbank Airport quietly and headed west.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35907.html](http://www.nuforc.org/webreports/reports/035/S35907.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162643.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162641.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162761.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162608.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162538.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
