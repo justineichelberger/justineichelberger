@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:29 on 30 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:25 on 30 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Seneca (SC) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I saw five orange round lights that were spaced out on a craft that appeared to be about two miles long.My boyfriend and I saw 5 round orange lights in what appeared to be the shape of a large ship.  The first light(at what appeared to be the front of the ship) was approximatley 2 miles from the last light. In the center of the ship were three more lights in the shape of a triangle. The craft slowly passed over our home, and as it was moving towards the west the three orange lights went out, then a minute or so later the light at the front of the ship went out. Several minutes later as the craft appeared to go higher in the sky, the light at the end of the ship went out.Before the final light went out, an airplane crossed its direct path.  When I first spotted the ship it appeared to be only a mile or so above where we were standing on my back porch.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108219.html](http://www.nuforc.org/webreports/reports/108/S108219.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Boston (MA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Dark shape landed on roof top, than flew away as bright light, no sound.I was working security on t4he 30th of March, 2012 for the MCHC on Blue Hill Ave. in Mattapan (Boston) along with a co-worker. At approximately 4:00am I noticed a large dark shape, almost like smoke on the building directly next to the health center on the roof.The object or entity appeared to glide along the roof top and stop for a few moments. I could see what looked like eyes and got the distinct impression whatever it was new I was looking at. After about 3 min of observing it, it gained a tremendous amount of speed and jumped or flew off the building. I than observed it. I’m not sure if the object was generating light or if it was the reflection of the moon on it, but it was a observable bright light flying in an odd pattern of an up and down, side to side motion. It was headed in the direction of Milton and Quincy.I than rejoined my co-worker in her car and told her I just saw the strangest thing. She replied “you mean that dark, misty, looking thing that was on that roof over there?” I couldn’t believe she saw the exact same thing and described it before I even said anything.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92906.html](http://www.nuforc.org/webreports/reports/092/S92906.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162643.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162641.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162761.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162608.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162538.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
