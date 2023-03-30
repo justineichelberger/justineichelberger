@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:28 on 30 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:12 on 30 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Arlington (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>A bright pulsing light in DFW area of Texas with multiple colors, slowly moving down after 15 minutesTuesday night around 11 I walked out on my back porch and noticed a blinking or flashing bright light that appeared to be multiple colors. I recorded it with my phone and it was almost stationary and slowly dropped below the house behind me and my line of sight over a 15 minute period. The elevation of the Clouds that night were low and some passed between myself and the object blocking it while passing by. Even when the object seemed to be moving downwards it appeared to be the same brightness leading me to believe it was not moving away from me but lowering in altitude. The main light was bright and whitish blue looking and would pulse lighter and dimmer with multiple colors seeming to be going outwards from the center outwards in all directions.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162641.html](http://www.nuforc.org/webreports/reports/162/S162641.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Corydon (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately All night - All night minutes.</sub><blockquote><sub>Why are there silent aircraft flying over Corydon at night? Also why are there so many going in the same direction?Every night around 12:00am I notice lots of triangular shaped aircraft flying directly over Corydon.  These aircraft are completely silent and look like they are military.  I just think it's weird that they are silent and that I only see them at night as well as why there are so many passing.  I've been told it could be the military looking for a lost aircraft, but why?((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126616.html](http://www.nuforc.org/webreports/reports/126/S126616.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162643.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162641.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162761.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162608.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162538.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
