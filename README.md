@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:34 on 31 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:43 on 31 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Amsterdam (Netherlands) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>As it broadened in shape the centre of it would turn dark as if hallow(empty) in fact at a point it was so large that it seemed like onI am an interdiscipinary artist and since I am not seldom to watch outside up in the dark at night. That's what I did as usual last night from my balcony. This time though since I know that there are no airplains flying above the city at night I was right away brought into thinking that something different from an light airplain was visible up in the sky. It went on and off at intervals and it had a glare at times wide around itself at others that glare would shrink rapidly, although not compleately disappearing. It stood still for approx. 1 minute and a half then it started moving slowly westward. It stopped and went into shining again, like if it were a star pulsing. It was evident however that a star it was not. Hanging immobile there in the darkness it enlarged in shape still keeping a formidable and very bright light all around itself. But the strange thing it happened to be that as it broadened in shape the centre of it would turn dark as if hallow(empty) in fact at a point it was so large that it seemed like one could see the dark sky through it. 2 minutes approx. and as I was watching it shrunk again. It became a bright point in the sky and then begun moving further westward, slowly and it eventually disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22396.html](http://www.nuforc.org/webreports/reports/022/S22396.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Pullmam (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>A metal disk 'blinking' moving up and down.LOoking off a friend's deck we saw a metal disk with a blinking light floting up and down for about a hour.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59003.html](http://www.nuforc.org/webreports/reports/059/S59003.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/162/S162638.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162757.html)
-- [248](http://www.nuforc.org/webreports/reports/162/S162545.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162669.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162543.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
