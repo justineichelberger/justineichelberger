@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:32 on 31 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:28 on 31 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Went on a bike ride with my headphones in, was almost home I looked left casually and looked in the sky.  I saw a VERY WHITE bright light descending towards earth then it vanished.  It was in fog.  I biked home quickly.((NUFORC Note:  We have attempted to contact the young person who submitted the report, to inquire whether it is a serious report, or a hoax.  He assures us that it is a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126637.html](http://www.nuforc.org/webreports/reports/126/S126637.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Hiddenite (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 300.0 - 300.0 minutes.</sub><blockquote><sub>Green/white lights of several UFOs seen by two private citizens.At first I thought the first one I saw was a bright star but suddenly it darted to LSF in one quick surge. I began watching and noticed it changed colors from green to bright white. There appeared to be a grouping of lights in one vehicle but they all seemed to be one light also. The vehicle appeared to be hovering for a while then moving to another location within a pattern. The light constantly moved as in a searching pattern. As I watched for over an hour I saw other vehicles appear at a distance then disappear.  I finally went to bed with my feelings unresolved about what I was seeing.  I arose at 5:39 this morning and walked out the back door to see if it was still there.  It appeared to be gone when all of a sudden a bright flash almost directly overhead showed the vehicle was still here but in a different.  At that point there were sudden flashes of other vehicles scattered throughout the general area.  I have never seen a UFO before and feel pretty i! gnorant about reporting my sighting, but I am positive of what I have seen this night and am thoroughly confused to the duration and number of vehicles I have seen.  I hope this report can be of some small help to your organization.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88147.html](http://www.nuforc.org/webreports/reports/088/S88147.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/162/S162638.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162757.html)
-- [248](http://www.nuforc.org/webreports/reports/162/S162545.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162669.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162543.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
