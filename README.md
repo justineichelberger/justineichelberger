@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:39 on 31 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:26 on 31 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Escondido (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Intense green pulsing light in skyQuiet evening, just after midnight, setting out the trash for pickup. At first I thought it was an unusually bright star in the north west sky. As it got closer I realized it was a bright green color (like a green laser). I called my wife out with the binoculars for a second opinion. It was a single point of intense green light that pulsed on and off at different speeds and intervals (almost like morse code at times). It slowly traversed directly overhead in in a southeast direction, slightly changing velocity and direction as it went. Its movement was slower than a passing satellite (taking about 10 minutes from horizon to horizon). When it was overhead it was much brighter than Sirius. Even with binoculars it still looked like a single point of light.It made no sound, but it did frighten my wife. She was grabbing on to me and hiding behind me. I have never seen her react this way to anything.This sighting happened over a year ago. At the time we saw it, I documented all the details. Hearing Peter Davenport on the radio motivated me to file this report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89878.html](http://www.nuforc.org/webreports/reports/089/S89878.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in San Dimas (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>UFO over LakeI did not observe the sighting at the time but rather when reviewing the images later that night. I am not sure what is on the image but it looks like it needs closer attention.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22402.html](http://www.nuforc.org/webreports/reports/022/S22402.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/162/S162638.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162757.html)
-- [248](http://www.nuforc.org/webreports/reports/162/S162545.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162669.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162543.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
