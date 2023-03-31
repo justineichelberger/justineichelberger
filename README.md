@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:23 on 31 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:39 on 31 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Omaha (NE) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>White disc sighted while driving in Omaha.I was driving North on 50th St coming up to the F St. Intersection. Glancing to my right I noticed a white disc shaped object rising up from the tree line at an angle on the horizon moving in a easterly direction. The object moved straight east for a short distance before I lost sight of it behind a large double billboard. Slowing the car down I caught sight of it again just past F St. as  50th St. dips to head steeply down towards a tunnel. The object made a very quick turn and headed north just before I lost sight of it again due to the dip in the terrain. I went through the tunnel and under the interstate 80 bridge. I tried to spot the object again as I came up the hill on the other side. I was unable to get a good look at the portion of the sky where I had seen the object until I came up to Grover St. due to the amount of trees and homes blocking my view. When I got to the Grover St. intersection and looked around the sky as I waited for the green light. The object was nowhere to be seen. The Object was a smooth briliant white. It had no wings. Its movements were quick yet gracefull. Ive purchased a pocket sized digital camera as a result of this sighting. If I see anything like this again I will be ready to photograph it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43265.html](http://www.nuforc.org/webreports/reports/043/S43265.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Escondido (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Intense green pulsing light in skyQuiet evening, just after midnight, setting out the trash for pickup. At first I thought it was an unusually bright star in the north west sky. As it got closer I realized it was a bright green color (like a green laser). I called my wife out with the binoculars for a second opinion. It was a single point of intense green light that pulsed on and off at different speeds and intervals (almost like morse code at times). It slowly traversed directly overhead in in a southeast direction, slightly changing velocity and direction as it went. Its movement was slower than a passing satellite (taking about 10 minutes from horizon to horizon). When it was overhead it was much brighter than Sirius. Even with binoculars it still looked like a single point of light.It made no sound, but it did frighten my wife. She was grabbing on to me and hiding behind me. I have never seen her react this way to anything.This sighting happened over a year ago. At the time we saw it, I documented all the details. Hearing Peter Davenport on the radio motivated me to file this report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89878.html](http://www.nuforc.org/webreports/reports/089/S89878.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/162/S162638.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162757.html)
-- [248](http://www.nuforc.org/webreports/reports/162/S162545.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162669.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162543.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
