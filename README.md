@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:30 on 31 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:51 on 31 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Washington (ME) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Very unusual sphere with multiple flashing colored lights, high in the southwestern sky.In the southwestern sky, high on the horizon, we watched for over two hours an object the size of 3 large bright stars that stayed in one position and flashed various colors of light such as white, red, green, turquoise, and purple. With the naked eye, it was visible.  With a spotting scope,it was incredible. Small parts would pulsate with the same colors and break off the original just to reattach again. I contacted the county police, who referred me to the state police, who referred me to the FAA, and the local TV station.  All were very unconcerned.  The gentleman from the FAA did say he heard on the news there was supposed to be "some sort of event" in the southeastern sky in the Boston area, but he didn't know anything more.  It's very frustrating to try to convince anyone especially the police, to just step ouside their vehicle and look up!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69495.html](http://www.nuforc.org/webreports/reports/069/S69495.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Adelaide (Australia) (SA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>White lights flashing on off 1 1/2 sec intervals Height and speed could not have been a commercial aircraft.My interest in the night sky came in the month of December 2014.  My father had passed away as a result of an accident.  Like all families there are items that must be past on or sold.  My fathers car had a pair of binoculars in the back seat.   One night I took them out to view the night sky, I haven't stop since.  This morning I was up early as I have a very painful disease called peripheral neuropathy, chronic pain.  I took my medication and thought its a clear sky I'll take a look outside.  I saw many satellites over head in all directions, I was about to head in when I saw a white light flash, I immediately pointed the binoculars to that position, it wasn't a plane as there were no flashing navigation lights as 2 at or around 35-40 feet had come from the west with vapour trail minutes before.   Secondly this track is not used by aviation airlines.  There is no land mass south south west of Australia.  Only the great Australian bight.  This was not a passenger aircraft, and the height and speed would have been similar to a low range orbiting satellite.  It had a flashing on white light, every 1 1/2 seconds,  Correct me if I am wrong, but satellites don't emit flashing white lights on and off?  I would be interested if anyone else had the same experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118124.html](http://www.nuforc.org/webreports/reports/118/S118124.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/162/S162638.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162757.html)
-- [248](http://www.nuforc.org/webreports/reports/162/S162545.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162669.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162543.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
