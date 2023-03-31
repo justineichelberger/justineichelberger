@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:32 on 31 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:32 on 31 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Lincoln (NE) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.5 - 2.5 minutes.</sub><blockquote><sub>Two yellow lights trailing dropping sparks seen heading slowly south over Lincoln, NELeaving the mall toward the parking lot we witness two lights flying south about as fast as helicopters would fly. To us they appeared about the size and shape of a yellow street lamp seen from aobut 8 blocks away. They were tailing or dropping what ap[peared to be sparks. My wife saw this first as her eyes are much younger and better. The first craft was dropping these sparks first. Then I witnessed the second one dropping sparks. At first, I thought it was maybe a bomb, or perhaps parachutes. The sparks appeared for only about 2 seconds and then dissipated. It is hard to judge distance, but I would guess they crossed the sky about 2 miles away, maybe more. I called 911 and they checked it out for us. We called back later on a non emergency number and they had no radar records nor were there any military exercises.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49914.html](http://www.nuforc.org/webreports/reports/049/S49914.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in San Bernardino (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>I WAS DRIVING ON THE FREEWAY AND A BRIGHT BALL OF LIGHT WAS JUST THERE IN THE SKY IT SEEMED TO HAVE A TAIL FOR ABOUT 8 SECOUNDS AND THEN IT WAS GONE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17082.html](http://www.nuforc.org/webreports/reports/017/S17082.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/162/S162638.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162757.html)
-- [248](http://www.nuforc.org/webreports/reports/162/S162545.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162669.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162543.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
