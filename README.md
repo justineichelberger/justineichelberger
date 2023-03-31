@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:25 on 31 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:32 on 31 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Corona (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>UFO corona caAwoke to a vibration sound shaking my home around 1am.  Quickly stepped out to balcony and noticed one blinking red light and a white light approximately 30 feet above heading north west at very high speed.  No noise other than the vibration sound when the objects passed over my home.  After about 1.5 min, the white light turned left crossing in front of the blinking red light, then disappeared.  Was unable to see any shape, just the light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96886.html](http://www.nuforc.org/webreports/reports/096/S96886.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Bristol (CT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Ufo Sighted Very Bright Lights Bristol,Connecticut,U.S.A.Ufo News Report Connecticut U.S.A. as follows Thursday March 31st,2000 at 9:45 pm est a ufo was sighted by adam 11 years old from Bristol,Ct. . The sighting lasted according to ((deleted)) for only 2 minutes. The ufo moved from northwest to southwest then south. Bright lights were seen from his driveway that at first looked like a helicopter.The colours he described were blue,red,pink,yellow,and green. The craft made very little noise almost like wind blowing.The ufo was 200 feet from ground level.((deleted)) was looking at this craft from between 1500 to 2000 feet away from the end of his driveway in front of his house.The sighting of the craft was between allentown and fall mountain roads in bristol,ct.A large wooded area is where the object was seen and at one point the object sent a large bean of bright light toward the wooded area with that had various colours which circled the wooded area with that two minutes and the ufo itself went in circles as well then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12543.html](http://www.nuforc.org/webreports/reports/012/S12543.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/162/S162638.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162757.html)
-- [248](http://www.nuforc.org/webreports/reports/162/S162545.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162669.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162543.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
