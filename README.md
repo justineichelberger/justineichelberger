@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:39 on 31 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:03 on 31 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Eagle River (AK) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Zig-zaging light moves over north horizon of Alaska town.I live in Eagle River, Alaska.  There is an air force and army base about 15 miles from here.  March 31 at about midnight I went out to have a cigarette.  About a minute after I got outside I looked over the horizon.  There was a light with an odd haze/glow moving around just above the tree line.  I decided it was an airplane until I noticed that the light stayed there for a second, zig-zaged around, and then shot down under the trees.  The light then came back up to a higher area and repeated the same movement. At this time I realized it was definitely not and airplane that I knew of.  The object continued this for quite some time, at least 20 min, and then disappeared.  It took place above the north horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62456.html](http://www.nuforc.org/webreports/reports/062/S62456.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Camillus (NY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Cluster of three bright lights</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162545.html](http://www.nuforc.org/webreports/reports/162/S162545.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/162/S162638.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162757.html)
-- [248](http://www.nuforc.org/webreports/reports/162/S162545.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162669.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162543.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
