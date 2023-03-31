@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:32 on 31 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:23 on 31 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in San Bernardino (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>I WAS DRIVING ON THE FREEWAY AND A BRIGHT BALL OF LIGHT WAS JUST THERE IN THE SKY IT SEEMED TO HAVE A TAIL FOR ABOUT 8 SECOUNDS AND THEN IT WAS GONE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17082.html](http://www.nuforc.org/webreports/reports/017/S17082.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1962, an anonymous witness in Shenandoah (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>3 lights in formation from the moonmoon was full in th NW ski-clear night--3 lights  came from around the back of moon in a upside down V formation-flew abput 10 sec. and light on right broke formation and went back behind moon--not sure of exact date but between 1961-1963. told no one because next day was april 1 and figured they'd think a joke. lights were white in color--looked like round stars but they came from behind moon. seemed to movce fast. can't remember where the other 2 went after the one broke formation. friends and i were just lying on our backs looking at ski when it occured. i state that this true. these lights were not in our skies, they were in the outer spaces of the moon, because they came from behind the moon, and it was not ours since this was during the ealy age of our space flights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08469.html](http://www.nuforc.org/webreports/reports/008/S08469.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/162/S162638.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162757.html)
-- [248](http://www.nuforc.org/webreports/reports/162/S162545.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162669.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162543.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
