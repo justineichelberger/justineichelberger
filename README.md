@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:28 on 31 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:23 on 31 March 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Hiddenite (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 300.0 - 300.0 minutes.</sub><blockquote><sub>Green/white lights of several UFOs seen by two private citizens.At first I thought the first one I saw was a bright star but suddenly it darted to LSF in one quick surge. I began watching and noticed it changed colors from green to bright white. There appeared to be a grouping of lights in one vehicle but they all seemed to be one light also. The vehicle appeared to be hovering for a while then moving to another location within a pattern. The light constantly moved as in a searching pattern. As I watched for over an hour I saw other vehicles appear at a distance then disappear.  I finally went to bed with my feelings unresolved about what I was seeing.  I arose at 5:39 this morning and walked out the back door to see if it was still there.  It appeared to be gone when all of a sudden a bright flash almost directly overhead showed the vehicle was still here but in a different.  At that point there were sudden flashes of other vehicles scattered throughout the general area.  I have never seen a UFO before and feel pretty i! gnorant about reporting my sighting, but I am positive of what I have seen this night and am thoroughly confused to the duration and number of vehicles I have seen.  I hope this report can be of some small help to your organization.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88147.html](http://www.nuforc.org/webreports/reports/088/S88147.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Omaha (NE) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>White disc sighted while driving in Omaha.I was driving North on 50th St coming up to the F St. Intersection. Glancing to my right I noticed a white disc shaped object rising up from the tree line at an angle on the horizon moving in a easterly direction. The object moved straight east for a short distance before I lost sight of it behind a large double billboard. Slowing the car down I caught sight of it again just past F St. as  50th St. dips to head steeply down towards a tunnel. The object made a very quick turn and headed north just before I lost sight of it again due to the dip in the terrain. I went through the tunnel and under the interstate 80 bridge. I tried to spot the object again as I came up the hill on the other side. I was unable to get a good look at the portion of the sky where I had seen the object until I came up to Grover St. due to the amount of trees and homes blocking my view. When I got to the Grover St. intersection and looked around the sky as I waited for the green light. The object was nowhere to be seen. The Object was a smooth briliant white. It had no wings. Its movements were quick yet gracefull. Ive purchased a pocket sized digital camera as a result of this sighting. If I see anything like this again I will be ready to photograph it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43265.html](http://www.nuforc.org/webreports/reports/043/S43265.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/162/S162638.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162757.html)
-- [248](http://www.nuforc.org/webreports/reports/162/S162545.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162669.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162543.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
