@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:32 on 1 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:23 on 1 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in  () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>around five years ago, while on one of my many engineering rated work assignments, I spotted three very large triangular objectsbig trianglular shapped objects...hovered for a while, few minutes, then took off quickly...large cirles or dark spots were on these objects...can't recall how many...I thought that these were military craft at first...it was almost unreal  I was on a work assignment out of state...either in the south carolina area, nebraska, or texas...I can't really recall becasue I didn't make a big deal about it...the the description fits quite closely to what the other reports here indicate  I'm an engineer by the way working in a large company, I have a business on the side, and working on an MBA part time...((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45433.html](http://www.nuforc.org/webreports/reports/045/S45433.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Johnson City (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Many lights in mesh pattern, some autonomous.4 adults and 2 kids witnesses a flying mesh of what appeared to be satellites, a LOT of them, Most looked like faint stars, no flashing. Some followed a non-standard geo-synchronous orbit and appeared to be autonomous. We felt the presence of a much larger craft and even observed holographic distortions in the sky during this time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154772.html](http://www.nuforc.org/webreports/reports/154/S154772.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/163/S163283.html)
-- [436](http://www.nuforc.org/webreports/reports/162/S162614.html)
-- [435](http://www.nuforc.org/webreports/reports/162/S162639.html)
-- [434](http://www.nuforc.org/webreports/reports/162/S162609.html)
-- [433](http://www.nuforc.org/webreports/reports/162/S162642.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
