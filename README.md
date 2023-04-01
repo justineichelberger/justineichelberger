@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:30 on 1 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:32 on 1 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in St. Charles (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Four orange lights, similar looking to candle flame or fire balls of some sort, in a triangular formation floating across the sky with one lagging. They all kept up in the same speed in the same shape, they looked similar to Chinese lanterns but there's no way they could've kept up in that same formation.  The first two disappeared at the same time then the last two 20 seconds one after the other.I was not there to witness the following, but my boyfriend said before he called me outside to see it there was a first wave that disappeared before the second one that I am reporting now came along.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108260.html](http://www.nuforc.org/webreports/reports/108/S108260.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in  () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>around five years ago, while on one of my many engineering rated work assignments, I spotted three very large triangular objectsbig trianglular shapped objects...hovered for a while, few minutes, then took off quickly...large cirles or dark spots were on these objects...can't recall how many...I thought that these were military craft at first...it was almost unreal  I was on a work assignment out of state...either in the south carolina area, nebraska, or texas...I can't really recall becasue I didn't make a big deal about it...the the description fits quite closely to what the other reports here indicate  I'm an engineer by the way working in a large company, I have a business on the side, and working on an MBA part time...((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45433.html](http://www.nuforc.org/webreports/reports/045/S45433.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/163/S163283.html)
-- [436](http://www.nuforc.org/webreports/reports/162/S162614.html)
-- [435](http://www.nuforc.org/webreports/reports/162/S162639.html)
-- [434](http://www.nuforc.org/webreports/reports/162/S162609.html)
-- [433](http://www.nuforc.org/webreports/reports/162/S162642.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
