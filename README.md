@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:37 on 1 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:38 on 1 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lawrenceville (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>fiery ball evading jetWe were sitting in back of our home and saw a medium circular orange fiery ball falling from the sky.It didn't fall straight but moved away from a jet plane trying to avoid it.  The jet plane seemed to be chasing it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108261.html](http://www.nuforc.org/webreports/reports/108/S108261.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Wapato (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Watched one bright speeding light go across the sky, head towards the moon, and was met by another bright speeding light and they crossMy husband, who is 50 and a orchardist, went outside to get something from his pickup. It was nice today, so we had the sliding glass door open. It was a cool, clear night. My youngest son who is 17 was in the kitchen and I was in the office on the computer (I am 48, and a housewife)and I suddenly heard my husband hollar at me.  He told me to look outside. My youngest son and I ran out onto the back porch, and my other son who just had gotten out of the shower (21, two years of college, works at Costco)also came out to see what was the matter. My husband told us to look at that bright light in the sky that was moving north at a high rate of speed.  We watched it and then it turned back south. My youngest son went and got our binoculars and we all took turns looking at it. Suddenly it stopped and then went straight up into the sky towards the moon. I was looking into the binoculars at that time, and as it was almost to the moon, my husband and both sons yelled out,"There is another one!" As I was looking at the first object which was going straight toward the moon, out of the left came the second one straight toward the first one.  I watched them as their paths crossed. They were both just bright objects like a star, but my husband said for us to be able to see them so clearly at such a far distance, they had to be huge. The second one continued to the South and we lost sight of it quit quickly, but the first one came back from behind the moon and turned back toward us and then went in a NW direction.  We watched it for a couple more minutes and then lost sight of it. My oldest son, when he was looking at it through the binoculars, described it's movement like a worm, and so did my youngest, although he wasn't sure if it was because he was shaking! Needless to say, we are now believers in UFOS.  My husband has always been, I thought I saw one once, but never really believed to much that they existed, but after seeing what we saw tonight, we all do. If I hadn't seen the second one, I might! have thought it was a satallite, but like my husband said, it was going way to fast to be one, and it wasn't going in one direction.  When that second one showed up, it was just too much. The sad thing is is that it happened on April 1, and no one will believe us. We called our daughter in Seattle, and she kept saying April Fools, I don't know if she yet believes us! But we know what we saw, and it was for real.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35949.html](http://www.nuforc.org/webreports/reports/035/S35949.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/163/S163283.html)
-- [436](http://www.nuforc.org/webreports/reports/162/S162614.html)
-- [435](http://www.nuforc.org/webreports/reports/162/S162639.html)
-- [434](http://www.nuforc.org/webreports/reports/162/S162609.html)
-- [433](http://www.nuforc.org/webreports/reports/162/S162642.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
