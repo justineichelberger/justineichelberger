@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:23 on 1 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:25 on 1 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Holyoke (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange moving light over Holyoke Ma in 1995When I was 17, my family and I were driving from Northampton south on I-91. It was in the spring, I believe in late April.  When we got close to a rest stop that overlooks Holyoke Ma, we noticed a bright star like white light over the city. At first it looked like a helicopter, and we only noticed it because we kids were in the back seat and looking out the window over the city.The "white star" then suddenly turned purple and began to do zigzag maneuvers we had never seen an aircraft do. It changed colors from red to blue to purple to green and back to white. There was only one light, and no other lights on it to suggest an aircraft. (No blinking lights etc). Just the steady star-like light that coninued to change color every few minutes.  My father pulled over at the rest stop (this was the one where the old Mt Tom sign used to be years ago) and all 5 of us jumped out of the mini van.We were not the only ones who saw it. Several carloads of people stopped. There might have been as many as 20 folks. We watched it moved in these zigzags, several times appearing to even move against the wind very quickly. It then vanished in an odd way. It almost appeared that the sky slid over it, as if a reflective cover was moved over the light that reflected the sky back at us. No sooner had it vanished than one of the viewers (a young woman) who had turned to go back to her car cried, "There it is!"  We all turned to see that it had in the span of about three seconds, appeared behind Mount Tom with no noise that we could hear. It then shot straight up into the sky above the clouds and vanished for good.I wanted to report this because this report: http://www.nuforc.org/webreports/076/S76260.html  Appears to have been seen in the exact same area over 10 years later, and I’m wondering if there is a regular sighting of odd things in the sky.  I’ve not heard myself of much (and I live the in the area.) but I would be interested to know if this is a hotspot for this kind of thing.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77618.html](http://www.nuforc.org/webreports/reports/077/S77618.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Watsonville (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately Two nights - Two nights minutes.</sub><blockquote><sub>Moon rose in two different spotsWhat I saw has to do with the rising of the moon. One night the moon rose from the North-esst horizon and then a week later the moon rose slightly south east. It basically rose in two different places a week or so apart. I don't know what this may mean. Thanks</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163283.html](http://www.nuforc.org/webreports/reports/163/S163283.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/163/S163283.html)
-- [436](http://www.nuforc.org/webreports/reports/162/S162614.html)
-- [435](http://www.nuforc.org/webreports/reports/162/S162639.html)
-- [434](http://www.nuforc.org/webreports/reports/162/S162609.html)
-- [433](http://www.nuforc.org/webreports/reports/162/S162642.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
