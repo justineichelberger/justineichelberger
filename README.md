@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:23 on 1 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:28 on 1 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Johnson City (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Many lights in mesh pattern, some autonomous.4 adults and 2 kids witnesses a flying mesh of what appeared to be satellites, a LOT of them, Most looked like faint stars, no flashing. Some followed a non-standard geo-synchronous orbit and appeared to be autonomous. We felt the presence of a much larger craft and even observed holographic distortions in the sky during this time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154772.html](http://www.nuforc.org/webreports/reports/154/S154772.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Santa Fe (NM) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Large cylinder object hung in sky for long time until bottom came off & moved beside the top-2 pieces flew off together into the cloudsI rented a room in a house that lay on the southern outskirts of Santa Fe, New Mexico next to BLM land.  I was driving to the convenience store that was on the other side of the freeway when I saw a large polished silver cylinder in the sky to the southwest.  It was pretty high in the sky.  The light from the sun descending in the west reflected off of it.  I reached the convenience store and went inside, came out, and it was still there. I was pretty scared as I drove back home.When I arrived, my roommate and his brother, who lived in the house next door, were out in front of our house also watching it.  I joined them, very grateful they were there.  The cylinder just hung in the sky in the same place for a long time.  Suddenly the bottom of cylinder separated from the top and came up next to it so that the top and bottom were side by side.  The two pieces then flew off very fast in an upward angle toward the south into high clouds and disappeared from view.People reported seeing it all over Santa Fe, and I remember it being mentioned on the news, but as a I recall the official explanation was that it was supposed to be a weather ballon.  What we saw was no weather balloon.  I am glad I finally found a place to report it after all these years.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133559.html](http://www.nuforc.org/webreports/reports/133/S133559.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/163/S163283.html)
-- [436](http://www.nuforc.org/webreports/reports/162/S162614.html)
-- [435](http://www.nuforc.org/webreports/reports/162/S162639.html)
-- [434](http://www.nuforc.org/webreports/reports/162/S162609.html)
-- [433](http://www.nuforc.org/webreports/reports/162/S162642.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
