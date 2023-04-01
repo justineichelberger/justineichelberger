@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:34 on 1 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:39 on 1 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in South Windsor (CT) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>2 ufos seen so.windsor connecticut,06074My name is ((name deleted)) in april of 2003 i was driving on I-291, it was dark. i ws with a friend of mine, ((name deleted)), who has since moved to california. we had our two daughters with us, it was about 6-7 pm. in front of us approx 15 cars ahead and about 3 full grown pine trees high, we saw a bright light not too big , shaped oval, like a hamburger. it had same size top and bottom but the middle was slightly bigger and brighter. it flowed across very straight lined and slow moving it looked as if it was getting closer to land. we got off the high way and searched for it but it had been long gone. there is no over pass where we saw it. My family also encountered one about 2001 same area, as a bright oval light, that came over their car many feet high and behind. only one. but it hovered there, my mother informed me. thank you for your time.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42229.html](http://www.nuforc.org/webreports/reports/042/S42229.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Johnson City (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Many lights in mesh pattern, some autonomous.4 adults and 2 kids witnesses a flying mesh of what appeared to be satellites, a LOT of them, Most looked like faint stars, no flashing. Some followed a non-standard geo-synchronous orbit and appeared to be autonomous. We felt the presence of a much larger craft and even observed holographic distortions in the sky during this time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154772.html](http://www.nuforc.org/webreports/reports/154/S154772.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/163/S163283.html)
-- [436](http://www.nuforc.org/webreports/reports/162/S162614.html)
-- [435](http://www.nuforc.org/webreports/reports/162/S162639.html)
-- [434](http://www.nuforc.org/webreports/reports/162/S162609.html)
-- [433](http://www.nuforc.org/webreports/reports/162/S162642.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
