@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:31 on 2 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:26 on 2 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Logan (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately on-going - on-going minutes.</sub><blockquote><sub>Looked out my window and saw a bright light, much larger and brighter than the surrounding stars.  At first, it seemed to be stationary, but 20 minutes later, it appeared to have moved slightly to the Northeast.  Also observed a small plane coming into Logan Airport.  The plane had blinking lights and moved under the bright object, causing the object to appear to be much father out in space than the plane.  The plane seemed to be making a routine landing at the airport.  It is now 22:15 and observation of the light continues.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88177.html](http://www.nuforc.org/webreports/reports/088/S88177.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Center Line (MI) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Rectangular, blueish light, flying silently at high altitude, but below cloud level, at incredibly high velocity.  Heading south, turned abruptly right then left, right and left again and then out of view.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126682.html](http://www.nuforc.org/webreports/reports/126/S126682.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
