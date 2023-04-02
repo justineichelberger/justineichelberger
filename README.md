@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:14 on 2 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:28 on 2 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Nashua (NH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>basket ball shuting up from the grounda fire colerd ball brite orange shuting up from the ground at the bae test site just inside or outside the fence. the ball was about the sise of a basket ball((NUFORC Note:  Report submitted by witness who describes self as a student.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43297.html](http://www.nuforc.org/webreports/reports/043/S43297.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Kenner (LA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0833333333333333 - 1.0833333333333333 minutes.</sub><blockquote><sub>Looking SOUTHEAST towards the moon, I noticed a few stars in the sky.  A bright circular object, similar to a star, was stationary in the sky.  As I continued looking at it, the object started moving towards the moon, accelerating from right to left.  The bright circular object went from stationary to full speed in a short amount of time.  I took a video from my phone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118187.html](http://www.nuforc.org/webreports/reports/118/S118187.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
