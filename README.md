@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:00 on 2 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:14:10 on 2 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Barre (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>a ship consisting of 3 orange white lights passed by my living room window the shape of the ship was a near perfect triangle and a light was at each tip of the craft which passed slowly and disaperred almost imediatly after 2 to 5 minutes((NUFORC Note:  Date is approximate.  Witness provided a paucity of data.  Possible hoax, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22299.html](http://www.nuforc.org/webreports/reports/022/S22299.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Fort Defiance (Navajo Nation) (AZ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>"It felt like my heart was going to jump out of my chest!"Last week tuesday my friend and I were walking back from my auntie's house - we left her house about 9:05 in the evening.   As we were walking near my uncles house I notice a dark pink (red) glo coming from the sky.  It looked like a falling star, at first I thought it was a star, meter, then a plan, chooper?  Then it started to move back in forth - in a zig zag motion...It seemed like it was trying to hide behind a telephone pole then a tree but we seen it go back in forth in the sky then move out into the dark sky.I'm 45 years old Native American Navajo and this is my first incounter with anything like this and my friend. It moved like a red lazor light - and I'm pretty sure it seen us - just the feeling we felt… I felt pressure behind my head and he felt pressure in his back.  It was pretty amazing - Very happy I seen something like this in my life...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97081.html](http://www.nuforc.org/webreports/reports/097/S97081.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
