@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:25 on 2 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:24 on 2 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Lake Oswego (OR) reported seeing craft that fit the description of some 'Changing' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Dark, squarish non-aerodynamic object floating at high altitude from south to north.I initially saw the object from the driver's side of my car as I approached my house. After parking my car, I went immediately to our south facing outside deck. The object was dark in apparent color and in my initial view of it seemed to be squarish in shape. It had caught my attention because it definitely was not a powered airplane or helicopter and made no noise. I've lived in our house for 17 yrs. and am used to seeing and hearing aircraft flying over from the south towards PDX. There was cloud cover (elevation of which I have not yet been able to confirm) and the object appeared to be at least 2,500 ft. in altitude. As for it being an ultra-light or a powered or unpowered hang-glider, it did not to my naked eye appear to have any sort of aerodynamic shape. It was slowly moving from south to north and it seemed to almost be tumbling or rotating through the air and in so doing presenting different shape and outline profiles. I will supply some sketches as a supplement to this text.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43321.html](http://www.nuforc.org/webreports/reports/043/S43321.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Lithonia (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orange glowing ballHovering over woods deep in the back of mothers home was an orange ball.  Reminds me of a basket ball in shape not very, very bright like a light but more of an internal orange glow.  Did not bounce or move at all just seems like someone placed it in the sky like a picture.  Got out of my car in the subdivison with mouth open and just stared.  There was a person who pulled up along side of me also staring.  He ask me do I see that!  I asked him does he see it!  Very strange first and only experience! Proceeded to mothers house to see if she was o.k.  Woke her up to see if she heard or saw anything.  Went back outside and walked up the street to turn and see if it was still there.  It was not!((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56084.html](http://www.nuforc.org/webreports/reports/056/S56084.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
