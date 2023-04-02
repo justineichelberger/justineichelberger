@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:29 on 2 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:32 on 2 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Roswell (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Strangr light, hovering in NM sky.At around 0100 MST I noticed a strange, pulsating light. This light flashed red, and white, and appeared to be moving in various zig-zag, up and down, circular, and back and forth patterns.  To confirm the object was moving, I placed my thumb 2-3 inches in front of one eye, and closed the other.  Sure enough, a few seconds later, the light moved back into view.  To ensure the natural movement of my body did not effect the test, I tried again twice, yielding same results.  Afterward, I went inside, and used the blinds as a reference point. I repeated the test 3 times, all yielding the same result as the previous test. I proceeded to try signaling with a flash light, which yielded a few distinctly brighter, white flashes from the bottom portion of the light.  As I write this report the light continues to hover around the same coordinates as when I first sighted it, yet appears to be becoming dimmer, as if moving away from my location.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118173.html](http://www.nuforc.org/webreports/reports/118/S118173.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Gallatin (TN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>saw a mass of objects, grouped together in an unorganized formation, very high in the atmosphere, disappearWhile walking my dog on a very clear day in the midafternoon, I heard the sound of a jet , nearly overhead and looked up and saw not only the jet airliner, but also what I would describe as a  mass of objects, maybe 20 or so that appeared much higher than the jet aircraft.  It was obvious they were not birds, way too high and not in any formation.  They instantly vanished  and I did not see them again.  I have never seen anything like that in the sky before. It reminded me of pictures I have seen  of  ufo swarms.  The sighting lasted only a couple of seconds before disappearing.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74954.html](http://www.nuforc.org/webreports/reports/074/S74954.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
