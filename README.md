@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:31 on 2 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:25 on 2 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Oak Ridge (TN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Shooting star? Thats what I thought until....Approaching a gate to secure where I work, I drove towards it on the road where trees cover both side of road. As I put the vehicle in park to exit it. I seen a fireball type falling star, which started above me out of view but I happened to catch it once in it came over the vehicle and in view through the windshield. It followed the line of the road directly overhead. I thought I was watching a shooting start. It was blue in color and left a nice long blue tail as it streak down the sky. I would almost describe as a typical falling start, fireball blue with blue tail. I wasn't surprised at all since I have seen many fireballs over the years. I even began making a wish when out of my amazement the falling star had stopped falling and actually shot horizontily across the sky. When first observed, it was approx 90degrees overhead (directly overhead, very high like a typical shooting star)traveling from north to south. I was facing south with my vehicle. Apporx right in front of me (south) at about 30 degrees ahead of me the object shot due east and out of sight over the tree line. It never stopped but moved continusely. Like I said I was making a wish like you typically due when you see a shooting star and as I was near the end of my wish is when this star? just shot east. I am very confused as what I saw and never have seen anything like this before. I know what time it was exactly because the gate was supposed to be closed at a certain time. The duration of this lasted about 4-7seconds. I never heard anyhting but the crickets in the woods.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36313.html](http://www.nuforc.org/webreports/reports/036/S36313.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lebanon (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Sighting on I-78.I was traveling on I-78 at approximately 3:50am by exit 24, when for whatever reason I decided to look up at the sky.  Towards the right of the highway I noticed what I thought was a star (because it was momentarily stationary) until it streaked across the sky and disappeared.  I definitely know for act that it was not a shooting star because I have seen them before and this did not resemble a shooting star.  It was undoubtedly a UFO because the distance in which it streaked and disappeared was so short.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118177.html](http://www.nuforc.org/webreports/reports/118/S118177.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
