@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:28 on 2 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:14 on 2 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in La Quinta (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Three bright circles of light with centre activity over our heads.15 minutes duration.La Quinta CAMy wife and I were on vacation in the dessert staying in a rented house.We were in the hot tub at the time of the incident.Looking up at the stars we observed three circular objects of light going round in a circle.After a few minutes these objects came from a great height to around what seemed like 50 or 60 feet above our heads.All the time they appeared to be chasing each other round in a circle.Once they just circled our house one could see inside each ring activity or what I would describe as electrical charges.After a few more minutes one of the circles just broke off and flew upwards at great speed.The same thing then happened to the other two.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89792.html](http://www.nuforc.org/webreports/reports/089/S89792.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Nashua (NH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>basket ball shuting up from the grounda fire colerd ball brite orange shuting up from the ground at the bae test site just inside or outside the fence. the ball was about the sise of a basket ball((NUFORC Note:  Report submitted by witness who describes self as a student.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43297.html](http://www.nuforc.org/webreports/reports/043/S43297.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
