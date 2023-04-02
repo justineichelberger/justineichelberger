@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:32 on 2 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:28 on 2 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Gallatin (TN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>saw a mass of objects, grouped together in an unorganized formation, very high in the atmosphere, disappearWhile walking my dog on a very clear day in the midafternoon, I heard the sound of a jet , nearly overhead and looked up and saw not only the jet airliner, but also what I would describe as a  mass of objects, maybe 20 or so that appeared much higher than the jet aircraft.  It was obvious they were not birds, way too high and not in any formation.  They instantly vanished  and I did not see them again.  I have never seen anything like that in the sky before. It reminded me of pictures I have seen  of  ufo swarms.  The sighting lasted only a couple of seconds before disappearing.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74954.html](http://www.nuforc.org/webreports/reports/074/S74954.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in La Quinta (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Three bright circles of light with centre activity over our heads.15 minutes duration.La Quinta CAMy wife and I were on vacation in the dessert staying in a rented house.We were in the hot tub at the time of the incident.Looking up at the stars we observed three circular objects of light going round in a circle.After a few minutes these objects came from a great height to around what seemed like 50 or 60 feet above our heads.All the time they appeared to be chasing each other round in a circle.Once they just circled our house one could see inside each ring activity or what I would describe as electrical charges.After a few more minutes one of the circles just broke off and flew upwards at great speed.The same thing then happened to the other two.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89792.html](http://www.nuforc.org/webreports/reports/089/S89792.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
