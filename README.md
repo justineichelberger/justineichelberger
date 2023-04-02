@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:58 on 2 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on 2 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Yadkinville (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright slow moving light.Saw what looked like a extremely bright star that moved very slowly across the sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88175.html](http://www.nuforc.org/webreports/reports/088/S88175.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Nampa (ID) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>It was aware that I was following it.I was driving SW, i saw an object in the sky with a bright red glow and triangular in shape changed driving direction to South to match objects trajectory.i was able to get almost underneath the object had no aircraft hazard lights or any rotor wash, it was moving to slow to be a jet or prop plan and because of its releativly close proximity to me i could see that it did not contain any fixed wings or landing gear or avions that would identify it as a commercial or private aircraft.  After i followed it for about 4 minutes, it stoped above me i stopped bellow it and proceded to exit my vehicle then it accelerated and began to decend i re entered my vehicle and followed after a minute i  increased speed from 30mphs to 55 mph to attempt to keep up i saw a bright flash then it proceded to climb vertically and disappear into the cloud cover, because of the trajectory and the the decent vector no terrestial aircraft could have made that change in trajectory without a stale after it disapeared i drove around for another 10 minutes trying to get another visual on the contact</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126692.html](http://www.nuforc.org/webreports/reports/126/S126692.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
