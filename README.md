@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:29 on 2 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:20 on 2 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Kenai (AK) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright white oval seemed to come out of nowhere and hovered silently towards the mount Redoubt area.Spotted while observing a large jet leaving a strange thick spraying contrail traveling in the opposite direction and much higher.Object traveled steadily and silently in a fixed position until it was too far away to see.Object seemed to travel in a hovering manner.  No sound or appearance of engines or wings.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108285.html](http://www.nuforc.org/webreports/reports/108/S108285.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Logan (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately on-going - on-going minutes.</sub><blockquote><sub>Looked out my window and saw a bright light, much larger and brighter than the surrounding stars.  At first, it seemed to be stationary, but 20 minutes later, it appeared to have moved slightly to the Northeast.  Also observed a small plane coming into Logan Airport.  The plane had blinking lights and moved under the bright object, causing the object to appear to be much father out in space than the plane.  The plane seemed to be making a routine landing at the airport.  It is now 22:15 and observation of the light continues.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88177.html](http://www.nuforc.org/webreports/reports/088/S88177.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
