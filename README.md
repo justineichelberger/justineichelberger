@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:25 on 1 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 2 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Watsonville (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately Two nights - Two nights minutes.</sub><blockquote><sub>Moon rose in two different spotsWhat I saw has to do with the rising of the moon. One night the moon rose from the North-esst horizon and then a week later the moon rose slightly south east. It basically rose in two different places a week or so apart. I don't know what this may mean. Thanks</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163283.html](http://www.nuforc.org/webreports/reports/163/S163283.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in South Amherst (OH) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two backward slanted cylinders flying in a "momma duck" formation.  One huge, one smaller (still large in size) in broad daylightWent outside while talking on the phone.  Sky was clear blue with no clouds.  Clear visability.  Very windy day with wind gusts up to 26mile with a WNW18 wind.  As I was talking, I was looking up at some buzzards gliding in the wind....I saw two objects that looked like clylinders that were tipped at a diagonal...with the slant going left to right...like this:   \ \ The top cylinder was twice as large as the bottom one. Both were slanted the same way and heading INTO the west winds....I was trying to figure out what the heck these things could be.  They were both stark white and pretty big as they seemed to be pretty far up in the Northern sky.  We get alot of Cleveland and Elyria air traffic, and this was definitely not anything I have ever seen.  They were gliding or flying smoothly and kept the same space distance between them.  The smaller object was below and slightly behind the larger one....and as they flew they kept a precise distance between them.  Definitely two separate objects. No overhead noise and no chemtrails....but as I was watching them, an aircraft flying east and higher than these objects came by...this jet/aircraft made noise and had a chemtrail, just as this aircraft was about over or on top of these objects they just disappeared....or blinked out...right in the blue, blue skies!!!  The larger one must have been really huge because the smaller one was big, and they both just "stood out" in the blue skies because they were so big and stark white.  I am perplexed.  As I said they flew against the wind at a steady pace.....faster than normal air traffic and with no noise, no trail...and vanished before the jet was going to fly on top of them....They were very smooth in flight.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56069.html](http://www.nuforc.org/webreports/reports/056/S56069.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/163/S163283.html)
-- [436](http://www.nuforc.org/webreports/reports/162/S162614.html)
-- [435](http://www.nuforc.org/webreports/reports/162/S162639.html)
-- [434](http://www.nuforc.org/webreports/reports/162/S162609.html)
-- [433](http://www.nuforc.org/webreports/reports/162/S162642.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
