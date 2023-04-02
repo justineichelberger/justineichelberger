@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:23 on 2 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:29 on 2 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Colfax (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Triangle UFO seen South of Colfax, WA on HWY 195I am a business man, and I was driving South on US HWY 195 from Spokane to Pullman, WA., to spend the night and attend a meeting.  I was just South of Colfax, WA, when I saw an aircraft with white lights head South toward Dayton, WA, area.  It appeared to be traveling at quite a fast speed, I would estimate 300 to 400 MPH.  Then it abruptly rose and headed due north parallel to HWY 195.  It was traveling quite fast then slowed and seemed to hover somewhat about 1/2 mile off Hwy.  I was very curious but some what scared to stop car and get a closer look.  I went fwd up HWY about 2 miles then U-turned to come back and get a better look.  I saw light off in distance but it was heading North towards Spokane and now a good 10 Mi or so North.  Therefore, I stopped pursuing it.  The craft was Triangle in shape and appeared to have a 90 degree angle on the sides.  It looked like a triangle box.  It looked black and had 3 white lights on the side with one red light.  It was about the size of a couple 35 to 40 Ft Motor Home on one side of the triangle.  It appeared to make no significant sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118214.html](http://www.nuforc.org/webreports/reports/118/S118214.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Kenai (AK) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright white oval seemed to come out of nowhere and hovered silently towards the mount Redoubt area.Spotted while observing a large jet leaving a strange thick spraying contrail traveling in the opposite direction and much higher.Object traveled steadily and silently in a fixed position until it was too far away to see.Object seemed to travel in a hovering manner.  No sound or appearance of engines or wings.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108285.html](http://www.nuforc.org/webreports/reports/108/S108285.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
