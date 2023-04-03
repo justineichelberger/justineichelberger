@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:24 on 3 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:39 on 3 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Brigg (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Blue/Pink LightWhilst walking to the shed at the end of my garden to fetch some wood for the fire I spotted a bright blue circular light flying at low-level over some fields and woods a couple of miles away from my home.  As the light moved eastwards it stopped, turned pink, then turned blue again, then shot upwards at break-neck speed.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96964.html](http://www.nuforc.org/webreports/reports/096/S96964.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Over a hundred UFO's flying the skys of Cancun, Mexico.I was in Cancun, Mexico. Partying with my friends at Daddy Rocks (nightclub).  I went to get some fresh air up on the top floor outdoor deck.  I see about 30 spectators (including 3 security doormen) lookin' to the sky, claping and screaming in joy. I look up and see, what seems to be flying stars. I instantly know there not stars becuase the way they are moving.  There where lots (probably around a hundred all together).  I would see some moving as a group (like 5 or 6) ,but not in Unisen, all where traveling at there own speed and direction. they would fly in one direction then pause in one spot then dart off in the oppisite direction. They would fly up then down and zig zag across the sky. I seen some fly in real close to each other, pause next to each other, then dart of in different directions.  There was huge lights at this club that shot up in the sky (around 8 lights formed in a circle) that would go left to right, right to left.  When these lights went to the right hand side of the sky (where most of the UFO's where) the UFO's would get brighter and more active (almost like it was putting on a show for us). At one point about 8-10? UFO's joined in what seemed a sloppy circle in the sky, paused for a brief couple seconds, then they all darted off in there own direction. (kind of like a childs drawing of the sun. They took off like the lines around the circle).  I seen a few that seemed like they where goin so fast towards each other like they where goin to crash, but they went right by each other (real close). After about a half hour of seeing this, I went into the club and tried gettin all my friends to come out and see what I seen, there first reaction was that I was high or drunk and was seeing things, after getting up on the deck though they relized I wasn't seeing things. They too seen what appeared to be UFO's. We starred at the sky for about another hour till we finally left (it was still going on when we left, but I noticed there were less of them and where slightly dimmer).I just wish I broug! ht my vi deo camera.((NUFORC Note:  We spoke with this witness, and we found him to be seemingly sober-minded.  We have requested reports from anyone else who apparently witnessed these objects.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17242.html](http://www.nuforc.org/webreports/reports/017/S17242.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
