@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:28 on 3 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:29 on 3 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Soddy Daisy (TN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>light moving in eliptical pattern, with sudden increase in intensity and disappearanceSky was 100% clear, no clouds.  Observing the night sky I noticed a light about the intensity of an average star moving from north to south at about one inch per second at arms lenght.  Then the object made an eliptical loop that would approximate the outline of my thumb at arms lenght.  At the end of the loop the object stopped, increased in intensity and size to about 4 times the size of venus with a brilliant white light forming a beam towards earth. The object did not move for 5 seconds.  Then the object decreased it's intensity incrementatlly until it vanished.  I watched the same spot in the sky for 15 minutes and it did not appear.  There were no aircraft strobes visible and the weird flight pattern, sudden stop, no noise and disappearnce rules out aircraft or ballon etc.  The objects illumination would be about like that of a airliner's landing light at about 3000 feet which I see frequently.  The behavior pattern did not fit that of any meteor I am aware of.  There was no sound associated with this and I would estaimate the altitude to be in excess of 10,000 and more likly 30,000 or higher.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43341.html](http://www.nuforc.org/webreports/reports/043/S43341.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Bahamas () reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>At 6 :00am, I was staing on the balcony on the cruz ship Royal Carribean Explorer of the sea.  I saw what I sing was UFO.  The sky was bright and it was a bright circle with different colors inside the circe and changing the shape from circe to flat and than like a sigar. After about 15 minutes is moved away.  I was able to make a picture .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108446.html](http://www.nuforc.org/webreports/reports/108/S108446.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
