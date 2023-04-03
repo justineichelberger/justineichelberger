@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:30 on 3 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:36 on 3 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Latonia (KY) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Segmented, white rectangular object travelling very slowlySegmented, white rectangular object approximately 35 degrees above the horizon, travelling very slowly with the direction of the wind.  The object was sighted very close to Latonia Elementary School in Latonia, Kentucky.  Within many of the "segments" the object was partially colored black.  The object was not reflective.  Its depth was perhaps one third of its total length.  Sighting lasted approximately 10 seconds.  There was no sound.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50001.html](http://www.nuforc.org/webreports/reports/050/S50001.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Union (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Ufos Over NJ/NYCI am a amatuer UFO enthusiest, I reported my sightings to MUFON. Only to have them tell me there planes,helicopters,blimps,etc. with no real investigation ever done? I received emails from there head investigator telling me he was an expert..and was even abducted. OK so what do I care!!! This is where it gets strange,in the beginning my pics were all over the net, I use earthcam and wired New York web cams to capture my pictures. Well lately I’ve noticed that the page will never refresh every 30 seconds like it used to and sometimes they block me completely??? Why?, I have no clue.Anyone can use these cams to see these objects, I believe the cameras have infarred view and that’s why I get so many Strange pictures. I am sending my first report to you guys in a hope that you will show my evidence and investigate this matter further..??? If you don’t believe me just watch the cams for yourself and you’ll see…Trust me on that !!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88190.html](http://www.nuforc.org/webreports/reports/088/S88190.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
