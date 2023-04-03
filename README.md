@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:31 on 3 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:23 on 3 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Muskegon (MI) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Star clusters moves and changes shape  This was in total darkness, we looked up to admire the stars and there was a cluster straight ahead of us a little above horizon line.  At first it looked like an unusal cluster of stars but it began to contract and expand.  It moved closer and back, my partner just said, "What the HELL!"   It looked like a bunch of stars that were oblong in appearence but then condensed together as if you would hold hands and stand in a cirdle and then all run together as a group, in and out close/far.  It then seemed to move father away and then literally was gone into the darkness. We stood speechless.  We are in our 40's and very level headed and I normally would not become involved, I even called the police, I tried to call the airport too.  The best I can explain it was an oblong chain of lights that moved forward/backwards, condensed and expanded and then disappeared.((NUFORC Note:  We spoke via telephone with theses witnesses, and they seemed to us to be both sincere, and sober-minded.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74874.html](http://www.nuforc.org/webreports/reports/074/S74874.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Dubuque (IA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Round object moving slowly across sky and goes opposite direction in a secondAt 8:28 on Thursday night, i was standing on my deck, when i saw some lights coming from the south.  At first I wondered why a plane was flying so low and thought it must be a helicopter because it looked round the closer it got.  Then I realized it was not making any noise and was going very slow maybe 80 mph. As it got closer I could see the bottom of the object and it was round with 12 lights on the outside edge of it.  There were 6 rows and each row had 2 lights which were whitish in color.  It was heading straight north, stopped for a second and went straight east and up.  The whole thing lasted about 2 minutes and I am still having a hard time believing what i saw.   It's the things that happen to someone else i thought. I am a bit reluctant to send this but i guess you've heard it all.  It sounds crazy i guess.  But at the same time i know what i saw. In case you need to know i do not smoke, drink or do any type of illegal drug.  Maybe I should start lol.     Thanks for your time.((NUFORC Note:  We wonder whether the object may have been a model "quadcopter," with LED lights affixed.  A worldwide hoax is planned by owners of those radio-controlled craft for about this time in April.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108394.html](http://www.nuforc.org/webreports/reports/108/S108394.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
