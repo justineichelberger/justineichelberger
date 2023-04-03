@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:43 on 3 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:22 on 3 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>About 9:30 P.M., 4/3/02,  a large Y shaped, lighted object  hovered south of Sacramento and west of CA Hwy 99 for about 45 minutes.I saw a strange object from my patio at about 9:30 p.m. I could be off on the time, though not much. It seemed to be hanging in the sky some distance south of Sacramewnto, California and west of Highway 99. It was defined only by its lights, making it hard to tell its exact shape. It looked like a Y at first and then seemed to turn & become triangular, without changing its location. One light was pulsing, the others, in a row, were steady. The pulsing light was in front of the others and vanished as it turned. Even at that distance it looked very large. I watched it alone for about 20 minutes, going to the fence and looking between the posts to be sure it didn't move. Then I went to get a friend. We were back within 5 minutes and watched it for another 15 or 20. It was getting cold, so we went inside. I looked out again about an hour later, but a mist had closed in and I didn't see it. I left a message at the UFO forum & was given this site to try for a response.I'd appreciate knowing if anyone else in this area saw it when I did.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22443.html](http://www.nuforc.org/webreports/reports/022/S22443.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Palm Desert (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>15-20 white disk shaped objects circling in the sky as if orbiting something.We were at the pool when I say about 15-20 white disks moving in a circle as if orbiting something in the middle. After a minute they soared off pretty fast and were out of sight in 10 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108299.html](http://www.nuforc.org/webreports/reports/108/S108299.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
