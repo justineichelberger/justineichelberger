@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:24 on 3 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:37 on 3 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Wilmont (AR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>neon green lights hovering just above the treeline near wilmont,ar.On 4/03/11 at about 9;30pm, my friend and I saw an unusually bright neon green appearing light going up and down moving behind trees in a wooded area 5 miles south of Wilmont,Ar.  This is an area that is not very populated and has mostly farmland and swamps.  It was so bright that it looked like one object but when I took the pictures with my phone it turned out to be 4 lights which seemed weird to us.  I guess because it was super bright.  It seemed to be just moving around very slowly just about high as the trees and then just disappeared.  The object looked to be about 2-3 miles away from us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80783.html](http://www.nuforc.org/webreports/reports/080/S80783.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Lubbock (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>That was no falling  star!!I was driving southwest on a calm clear night,coming on to an overpass.The overpass gave me good sight,because it was a high bridge,due to going over train tracks.While at the top ,I noticed a bright blue,I thought it was a falling star or peace of meteor.but the speed of it falling gave me a good look,as it looked to be slower than a usual falling star.                                                                       This blue glowing triangle ,the color of plasma sparkles coming off of it.As it caught my attention, I remember saying wow!!! But what it did next,really blew me away.From wow to what the hell!!!                                                                This was not a falling star. It looked large .In the glow ,I could make out the outline of a triangle.But with the corners being rounded.                                      I thought I was  going to see it crash into the earth. But it did an L shape move .A perfect stop and lets go t! his way.But real fast,like the shape of a carpenters level .Direction toward the west.Disappeared into the darkness.Toward New Mexico.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78592.html](http://www.nuforc.org/webreports/reports/078/S78592.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
