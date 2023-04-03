@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:35 on 3 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:12:25 on 3 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Buffalo Grove (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I was watching T.V. when I saw lights and then the disk  I was at home watching T.V. All of a sudden I looked out my window and saw a light making a circular motion. It was a smaller circle and then grew to a bigger circle of light. When the clouds cleared I saw a circular disk. It moved around. Am I crazy? Well, anyway I went to get my camera and it was gone.  No lights no disk.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59956.html](http://www.nuforc.org/webreports/reports/059/S59956.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Trivandrum (India) () reported seeing craft that fit the description of some 'Cross' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>the object moved at a steady speed from one place to enotherA moving object like a star.  Reflection was shining and dimming.  Suspected that ISS, but current time ISS path is not above Trivandrum.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118191.html](http://www.nuforc.org/webreports/reports/118/S118191.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
