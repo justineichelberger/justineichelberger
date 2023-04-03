@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:33 on 3 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:24 on 3 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Watched a light move at a steady pace, but then swiftly for a split second and back again to its steady pace.  Looked like a star moving.  I recorded it.  It moved from southwest Miami area towards northeast Miami.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118206.html](http://www.nuforc.org/webreports/reports/118/S118206.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Dundalk (MD) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>THE OBJECT WAS STATIONARY FOR CLOSE TO THE 2 MILES IT TOOK FOR ME TO APPROACH IT AND THE WAS NO SOUND COMING FROM THE OBJECTI WAS DRIVING HOME FROM THE NIGHT CLUB I WORK AT AROUND 3AM THURSDAY MORNING AS I EXITED UNTO I 695 EAST FROM I 97 NORTH I SAW WHAT I THOUGHT TO BE AN AIRPLANE COMING TOWARDS BWI AIRPORT FROM AN UNUSUAL DIRECTION AS I DROVE EAST FOR APROXIMATELY 2 MILES THE OBJECT WHICH LOOKED LIKE CAR HEADLIGHTS IN THE SKY DIDN'T MOVE IT WAS STATIONARY THE LIGHTS WERE A DULL WHITE (LIKE 2 SOFT WHITE LIGHT BULBS) I ROLLED MY WINDOW DOWN SO I COULD HEAR THE OBJECT AND AS I APPROACHED THE FRANCIS SCOTT KEY BRIDGE I ALSO SAW 2 SMALLER WHITE LIGHTS BLINKING ON OPPOSITE SIDES AS IF THEY WERE PULSATING. I THEN AGAIN THOUGHT MAYBEE THEY WERE ON TOP OF A TOWER OR POSSIBLY A HELICOPTER. THERE WAS NO SOUND COMING FROM THE OBJECT AND THE SMALLER LIGHT TOWER NEXT TO THE ROAD WAS ONLY 30 FEET OFF THE GROUND. AS I SLOWED MY TRUCK TO GET A CLOSER LOOK AT THE OBJECT WHICH AT THIS TIME HAD A ROUND SHAPE (THE LIGHTS WERE IN A ROUND PATTERN) I WAS AFRAID TO PULL OVER. THE OBJECT WAS JUST TO MY RIGHT AS IF IT WERE OVER THE FAR SECTION OF FORT SMALLWOOD MAYBE 200 FEET OFF THE GROUND. AS I SLOWLY APPROACHED THE BRIDGE THE OBJECT STILL STATIONARY DISAPEARED FROM MY SIGHT AS I WENT UNTO THE BRIDGE. I SLOWLY PRECEEDED OVER THE BRIDGE LOOKING IN MY MIRRORS AND OUT THE BACK WINDOW AND WHEN I GOT TO THE OTHER SIDE OF THE BRIDGE I STOPPED THE OBJECT HAD DISSAPEARED. I TOLD THE TOLL CLERK AND ASKED IF ANYONE HAD SEEN ANY WIERD LIGHTS OR ANYTHING SUSPICIOUS BUT SHE SAID NO. I HAVE BELIEVED IN U.F.O.'S SINCE I WAS A YOUNG KID. I'VE WATCHED NUMEROUS DOCUMENTARIES AND READ MANY MAGAZINES AND ARTICLES FROM THIS AND OTHER WEB SITES. I HAVE WITNESSED MANY OBJECTS IN THE SKY IN THE DAYTIME AND NIGHT BUT THEY HAVE ALWAYS BEEN IDENTIFIABLE. THIS OBJECT WAS NOT MOVING AND DIDN'T MAKE ANY SOUNDS IT WAS JUST HOVERING I THE SAME SPOT AT THE SAME HEIGHT FOR THE DURATION OF MY RIDE HOME. I NEVER HAVE BEEN SCARED OF VISIBLE LIGHTS LIKE THIS BEFORE ESPECIALLY FOR ME TO PULL OVER CLOSE TO UNDERNEATH THE OBJECT AND GET A CLOSER LOOK. I'M NOT SCARED OF M! UCH BUT THIS WAS A VERY TROUBLING FEELING I HAD WHEN I GOT CLOSE TO THE OBJECT. IF ANYONE (THERE WERE A COUPLE CARS AND FREIGHT TRUCKS GOING BY SLOWING DOWN TO TAKE A LOOK) HAS WITNESSED WHAT I SAW AND FREQUENT THIS WEB SITE PLEASE REPORT YOUR SIGHTING. I KNOW WHAT I SAW !!!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28302.html](http://www.nuforc.org/webreports/reports/028/S28302.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
