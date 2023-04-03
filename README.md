@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:01 on 3 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:33 on 3 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hyderabad (India) () reported seeing craft that fit the description of some 'Flash' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright Orange Blob observed moving across Evening Eastern Sky of HyderabadA fairly fast moving orange blob of light with no blink was observed at about 1915 hrs in Hyderabad from Balanagar Area (observer position : 17°28'2.75"N, 78°26'58.97"E).  First it looked like Mars/Procyon in lower angle and was found to be moving from East to South East in a pace similar to aircraft or slightly fast.No sound was observed.  Color was characteristically orange and faded as it headed away from the spot.  Similar large blob was once observed going from East to North some three years ago at similar time.  Satellite may be ruled out since the blob did not show any alteration in luminosity.It can not be an aircraft since no sound or blink was observed and there can’t be such a bright tail lamp to it.  Even if a craft shines it should fade as it angles away from the sun rays in setting time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108313.html](http://www.nuforc.org/webreports/reports/108/S108313.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Watched a light move at a steady pace, but then swiftly for a split second and back again to its steady pace.  Looked like a star moving.  I recorded it.  It moved from southwest Miami area towards northeast Miami.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118206.html](http://www.nuforc.org/webreports/reports/118/S118206.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
