@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:36 on 3 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:24 on 3 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Union (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Ufos Over NJ/NYCI am a amatuer UFO enthusiest, I reported my sightings to MUFON. Only to have them tell me there planes,helicopters,blimps,etc. with no real investigation ever done? I received emails from there head investigator telling me he was an expert..and was even abducted. OK so what do I care!!! This is where it gets strange,in the beginning my pics were all over the net, I use earthcam and wired New York web cams to capture my pictures. Well lately I’ve noticed that the page will never refresh every 30 seconds like it used to and sometimes they block me completely??? Why?, I have no clue.Anyone can use these cams to see these objects, I believe the cameras have infarred view and that’s why I get so many Strange pictures. I am sending my first report to you guys in a hope that you will show my evidence and investigate this matter further..??? If you don’t believe me just watch the cams for yourself and you’ll see…Trust me on that !!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88190.html](http://www.nuforc.org/webreports/reports/088/S88190.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Wilmont (AR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>neon green lights hovering just above the treeline near wilmont,ar.On 4/03/11 at about 9;30pm, my friend and I saw an unusually bright neon green appearing light going up and down moving behind trees in a wooded area 5 miles south of Wilmont,Ar.  This is an area that is not very populated and has mostly farmland and swamps.  It was so bright that it looked like one object but when I took the pictures with my phone it turned out to be 4 lights which seemed weird to us.  I guess because it was super bright.  It seemed to be just moving around very slowly just about high as the trees and then just disappeared.  The object looked to be about 2-3 miles away from us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80783.html](http://www.nuforc.org/webreports/reports/080/S80783.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
