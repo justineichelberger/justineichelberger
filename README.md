@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:27 on 3 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:31 on 3 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Birmingham (AL) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>A disk was hovering then disappeared then re-appeared then there was a flash and it disappeared again.There was a disk hovering about 20,000 feet in the air.  It was not moving forward or backwards, just hovering.  It started to move a bit but then zoomed away and disappeared, I stood in the same place for a couple of minutes hoping to see it again and sure enough I did, but this time for about 5 seconds it was hovering and then suddenly there was a flash where the disk was and then after the flash it wasn't there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22428.html](http://www.nuforc.org/webreports/reports/022/S22428.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Muskegon (MI) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Star clusters moves and changes shape  This was in total darkness, we looked up to admire the stars and there was a cluster straight ahead of us a little above horizon line.  At first it looked like an unusal cluster of stars but it began to contract and expand.  It moved closer and back, my partner just said, "What the HELL!"   It looked like a bunch of stars that were oblong in appearence but then condensed together as if you would hold hands and stand in a cirdle and then all run together as a group, in and out close/far.  It then seemed to move father away and then literally was gone into the darkness. We stood speechless.  We are in our 40's and very level headed and I normally would not become involved, I even called the police, I tried to call the airport too.  The best I can explain it was an oblong chain of lights that moved forward/backwards, condensed and expanded and then disappeared.((NUFORC Note:  We spoke via telephone with theses witnesses, and they seemed to us to be both sincere, and sober-minded.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74874.html](http://www.nuforc.org/webreports/reports/074/S74874.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
