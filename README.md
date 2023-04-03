@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:26 on 3 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:35 on 3 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Slippery Rock (PA) reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>blue flashes during night snowstorm with power disruptionMy wife woke me at about 5 am on 4/3/05 saying there was a blue light out back. The conditions were windy and very thick snowfall. As I peered outside, the night lit up blue as our household power went out. This happened several times in the course of maybe five minutes. As soon as the light went out, power was restored. The duration of the blue light was maybe 1 to 2 seconds. It was similar to lightning, except blue & intermittent with our electricity loss. I was looking out towards the power lines about 20 yards in front of the house and there was no arcing. The light seemed to be coming from above the house. We have inground power lines to the house. I went outside to get a better vantage point but by then it had stopped. My wife phoned the power co. they said they had no reported power outages. The next morning i spoke with my neighbor who slept through it but said his son saw the same thing. His son lives about 150 yards up the road. We live in a rural area with no high tension power lines around. The post from North of Akron on 4/2/05 caught my eye since that incident occurred 6 or 7 hours earlier and about 70-80? miles away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43653.html](http://www.nuforc.org/webreports/reports/043/S43653.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Buffalo Grove (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I was watching T.V. when I saw lights and then the disk  I was at home watching T.V. All of a sudden I looked out my window and saw a light making a circular motion. It was a smaller circle and then grew to a bigger circle of light. When the clouds cleared I saw a circular disk. It moved around. Am I crazy? Well, anyway I went to get my camera and it was gone.  No lights no disk.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59956.html](http://www.nuforc.org/webreports/reports/059/S59956.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
