@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:41 on 3 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:27 on 3 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Catonsville (MD) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Round, silvery object floating over Catonsville MD.Yesterday in Maryland, the weather was gorgeous - bright blue sky, sun and gorgeous fluffy clouds. I stopped to take a break from painting my front step railings and just looked up at the sky. A very bright reflection immediately caught my attention to the south west.  I watched it to see what was so bright. The silver object appeared to be "floating" in one area with no movement from side to side or up or down. It stayed this still for about 25 seconds and made no sound. It was approximately a mile from my house but I could not begin to judge the altitude.  I realized that this was not an airplane or a helicopter because it had no shape other than round.  I changed my position to see if I could see another angle of the object but it still continued to look like a ball.  It was definitely NOT a balloon.  I was about to go into my house to get my husband so he could see the object, I turned from the direction of the object to go into my house then looked around one last time to see it, and in that short a time, it disappeared completely. I have never seen anything like this in the sky before.I am a 43 yr. old wife and mother of three sons.  I am a level headed, college educated artist and currently home school my 16 yr old son due to his chronic migraine condition.  My husband is a high ranking employee of the DOD.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69547.html](http://www.nuforc.org/webreports/reports/069/S69547.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Birmingham (AL) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>A disk was hovering then disappeared then re-appeared then there was a flash and it disappeared again.There was a disk hovering about 20,000 feet in the air.  It was not moving forward or backwards, just hovering.  It started to move a bit but then zoomed away and disappeared, I stood in the same place for a couple of minutes hoping to see it again and sure enough I did, but this time for about 5 seconds it was hovering and then suddenly there was a flash where the disk was and then after the flash it wasn't there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22428.html](http://www.nuforc.org/webreports/reports/022/S22428.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
