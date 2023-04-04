@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:34 on 4 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:25 on 4 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Richmond (Canada) (BC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Triangular object travelling at very high speed with three light with no audiable sound = UFO?A very quiet and clear sky night with lots of star in the sky. I was smoking outside of my house looking up the sky to check out the beautiful sky. I saw an (triangular) object with 3 dim lights travel at a rather high speed from east to west. I live rather close to the airport so I can tell what kind of normal airplane speed looks like up in the sky. What I saw was a high speed UFO with three dim lights travelling at a high speed without any audiable sound. I waited for at least for another 10 secs to see if sound can be heard. There was absolutely no sound. I couldn't really see the shape of the object because the it was dark but I certainly saw three dim lights with identical intensity.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50019.html](http://www.nuforc.org/webreports/reports/050/S50019.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Melbourne (Australia) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I saw a black steady object in the sky at approx 18:35. It stayed really steady for a few minutes before moving in the sky and disappearing in the dark.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162610.html](http://www.nuforc.org/webreports/reports/162/S162610.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [275](http://www.nuforc.org/webreports/reports/162/S162606.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162603.html)
-- [273](http://www.nuforc.org/webreports/reports/162/S162605.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163711.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162843.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
