@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:14:16 on 4 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:26 on 4 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Virginia Beach (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Extra star in the sky...I was sitting out back smoking my tobacco pipe and saw an extra star in the sky.  I thought to myself what star is that.  When I focused my eyes on it, it moved slightly to the right.  I than looked at the other star that is usually in the sky at this time during the night and than back at the other light and than it went out.  It brought a smile to my face.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133438.html](http://www.nuforc.org/webreports/reports/133/S133438.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Atlanta (GA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Daytime sighting of spheres over Midtown Atlanta.I was taking off work early to take pictures of Hale-Bopp in a rather dark part of the state, SW of Atlanta, later that night. I don't recall the exact date, but Hale-Bopp was pretty bright, the weather wasn't too cool and it was mostly overcast and windy (westerly) that day and clear that night (around Columbus, GA). Anyway, I left work in Midtown Atlanta and as I approached my truck I looked up at the sky, hoping it would clear by night and noticed in a clear area first 3 objects that were stationary in a triangle formation and then a 4th object that was nearby them and to the south of the three. I saw these objects as I was facing the west and they were to the NE of me, pretty high up. They where all alike, silver spheres and intially were stationary. They looked like many of the objects in home movies objects seen in Mexico. I framed them against a tall building to see if they were moving and they were not. The wind was moving the clouds at a pretty good rate so I didn't think they were ballons. They seemed above the clouds. Then, one by one, they slowly moved to the south. As they started moving and with all the cloud cover, I lost them pretty quickly. I wished I had a pair of binoculars and the next week I put a pair in the truck. The next week, looking for the objects as I was heading to the parking lot, I saw a similar object that with the naked eye looked like a silver sphere. It was lower and moving faster then the first objects that had seemed to almost drift. Through the binoculars it looked like it had a small red tail. The only thing I could think of is that it was a helicopter. But the original group seemed too high for helicopters unless they have pressurized cabins.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38433.html](http://www.nuforc.org/webreports/reports/038/S38433.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [275](http://www.nuforc.org/webreports/reports/162/S162606.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162603.html)
-- [273](http://www.nuforc.org/webreports/reports/162/S162605.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163711.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162843.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
