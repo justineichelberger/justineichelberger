@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:34 on 4 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:48 on 4 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Frazier Park (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>The Love of my Life is snoring so I can’t sleep, I go into the kitchen and watch the snow fall, and it is 1:00 A.M. A star is trying to shine through the snow clouds, it fades in and out. I find that strange, because the cloud cover appears to be thick, and the snowfall is substantial, and it is just one light and it is quite bright. I go back to bed and the snorer starts up again. Now it is 2:00 a.m. and I go back to the kitchen, grab a glass of water, sit on the sofa bench and look out the window, it is still snowing substantially. In the same spot, as the bright light, in the western night sky, I see a cluster of stars, no particular pattern. I think maybe there is a break in the clouds. It is a captivating sight with the snow fall. After about a minute, the whole cluster of stars tilts upwards, and I can clearly see it is a circle, because I can see the outline of what appears to be something reflective, maybe metal? encircling the entire cluster of stars. It is definitely a ship, circular, dark black on the bottom with lights that when angled correctly, looks like a regular group of stars. The titled object remains in this position for several seconds before going over our roof silently towards the east. The object started high, flew lower, aprox. 25ft above the pine trees, from that distance it appeared to be the size of a two car garage, that’s my best technical description. I make no judgment as to what I saw, and the following is just an observation: I had the worst stomach ache I have ever had since giving birth. I couldn’t stay in bed as I was going pee every few minutes for two solid hours, and I had a raised mark, circular, about an inch in diameter, on my left hip. Our son woke up late that night, his pillow drenched in blood from one of the worst bloody noses I have ever heard of. It probably doesn’t mean anything; I am just noting it for the record and comparison.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49993.html](http://www.nuforc.org/webreports/reports/049/S49993.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Haslet (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange glowing orbs in formation slowly moving across the night sky.I was on my way home at night and noticed about 8 orange lights in the sky, 7 of which were in an arrow formation, and a single light behind the arrow formation.  They were softly glowing and appeared to be all slowly moving to the right, and then one by one they started to slowly fall and fade away until there was one left, just falling.  I tried to keep watching the last one fall, but it fell out of my view.  It appeared to be getting pretty close to the ground, though.  Right as I was about to turn into my neighborhood, just moments after the last orange glowing light was out of sight, I saw an orange burst of light out in the distance, maybe a couple of miles away.  I'm not sure if the burst of light was connected with the UFO, but it could have been.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118228.html](http://www.nuforc.org/webreports/reports/118/S118228.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [275](http://www.nuforc.org/webreports/reports/162/S162606.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162603.html)
-- [273](http://www.nuforc.org/webreports/reports/162/S162605.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163711.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162843.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
