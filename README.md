@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:30 on 4 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:26 on 4 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Seneca (SC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>white disk came through contrail of large plane and veered away at fast speed.I saw a large plane at altitude a guess of 50,000 ft.  The disk either popped through the contrail or out of same came toward me then sharp 90 to its right, my left.  It came up beside the large plane for 1 to 2 seconds then veered away and passed at approx. 45 degree angle and left plane like it was standing still.  I then lost sight of it.  The plane was traveling east to west.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118233.html](http://www.nuforc.org/webreports/reports/118/S118233.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Venice (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>My brother was coming home from work at 03.00 a.m. morning and waken me up and take a look at this Cloud  The Cloud was shape like a Big V shape, over south west Los Angeles.it was weird looking.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80751.html](http://www.nuforc.org/webreports/reports/080/S80751.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [275](http://www.nuforc.org/webreports/reports/162/S162606.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162603.html)
-- [273](http://www.nuforc.org/webreports/reports/162/S162605.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163711.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162843.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
