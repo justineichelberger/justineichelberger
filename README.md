@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:48 on 4 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:32 on 4 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Haslet (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange glowing orbs in formation slowly moving across the night sky.I was on my way home at night and noticed about 8 orange lights in the sky, 7 of which were in an arrow formation, and a single light behind the arrow formation.  They were softly glowing and appeared to be all slowly moving to the right, and then one by one they started to slowly fall and fade away until there was one left, just falling.  I tried to keep watching the last one fall, but it fell out of my view.  It appeared to be getting pretty close to the ground, though.  Right as I was about to turn into my neighborhood, just moments after the last orange glowing light was out of sight, I saw an orange burst of light out in the distance, maybe a couple of miles away.  I'm not sure if the burst of light was connected with the UFO, but it could have been.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118228.html](http://www.nuforc.org/webreports/reports/118/S118228.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Oval' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>UFO over Las Vegas NV 4/4/2011 8:30PMI went out to my patio and looked up at the sky and noticed an object in the sky.  I called my wife to look at it and she also thought it looked strange.  I tried to take vidoe on my iphone but I had it in camera mode so I was able to take a quick picture before my battery died.  I went inside and grabbed my camera and filmed 16 seconds before the battery died in that.  So, I finally just grabbed my laptop and utilized the hd webcam to record 25 minutes of ameteur video.  I will upload soon.  What you are going to view is the 16 seconds plus the still picture zoomed in.http://www.youtube.com/watch?v=EOtmFccDt3c</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80936.html](http://www.nuforc.org/webreports/reports/080/S80936.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [275](http://www.nuforc.org/webreports/reports/162/S162606.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162603.html)
-- [273](http://www.nuforc.org/webreports/reports/162/S162605.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163711.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162843.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
