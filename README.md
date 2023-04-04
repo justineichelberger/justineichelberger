@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:23 on 4 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:28 on 4 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in South Bend (IN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>150 foot glowing redish-orange object over northern Indiana on April 4th, 2004 (23:00).The date was Sunday April 4th 2004, at exactly 10pm (23:00). I can be sure of the time because the news had just started on the television and it was time to let my Irish setter outside to do his job. One thing I want to point out here, is that my wife and I live just south of South Bend, Indiana city limits and We have a completely unabstructed veiw of the horrizon to the south. I had no sooner hooked the dog chain up, when my Irish Setter lunged out the door and started barking up in the air at an object flying over our backyard and off into the distance. I stood tranfixed on the sight.  The object was a bright orange-red color like somthing on fire but with no actual flames or tail coming from it. It appeared to be a sphirical shape. It made no sound at all. The object was not falling to the ground, but rather on a level flight path. The night ski was pretty much clear that night. Judging the size would be to much of a guess but if I were being pressed, I would say that it had to be nearly 150 feet or more in diamiter and seemed to be traveling at a very high speed. The object took a direct path due south. I stood outside on my back porch and watched the object until I could no longer see it beyond the horizon. The whole episode took maybe 15 seconds. I see airplanes and gliders and such all the time out my backyard view and I can tell you that this was non of these. I am a well known Business owner in the community and well respected. I am a Buddhist LAma, I have several Degrees and am not prone to flights of fancy. If the truth be known, I would have just forgot about this, but after seeing other reports a few weeks later in the same area, I thought that this should be reported to someone. (I would like to add, that 25 years ago while driving south toward Odessa texas, I and at least 5 other drivers saw this EXACT SAME OBJECT FLY OVER US. aT LEAST FIVE OTHER CARS AND TRUCTS ALL PULLED TO THE SIDE OF THE ROAD AND GOT OUT TO ASK IF WE HAD ALL JUST SEEN THAT OBJECT. AGAIN, THIS SEEMS TO BE THE EXACT SAME OBJECT THAT I SAW ON APRIL 4TH 2004.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36311.html](http://www.nuforc.org/webreports/reports/036/S36311.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Perryville (KY) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Pulsing shape shifting small craft that seemed to hold a minor hypnotic trance upon me.I witnessed from my porch a aircraft of some fashion that seemed to appear out of nothing the shape was hard to recall as it seemed to pulse and shape shift, it had a blue haze like aura looking light about it.  upon seeing it I noticed that no noise was comeing from it and it was mearly 3ft. or so from me the whole size of the "craft as far as I could determain was only about the size of a large truck tire.  the sight of it kinda made me oddly calm as if it was somehow hipnotizing me,a feeling that dissapered as soon as the craft left.  this was the singular most odd experiance I've ever had in my whole life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108337.html](http://www.nuforc.org/webreports/reports/108/S108337.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [275](http://www.nuforc.org/webreports/reports/162/S162606.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162603.html)
-- [273](http://www.nuforc.org/webreports/reports/162/S162605.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163711.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162843.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
