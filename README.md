@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:28 on 4 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:34 on 4 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in New Westminster (Canada) (BC) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>2 red fireballs with yellow tails travelling parallel across the sky for about 2 seconds then disappearedSitting on my balcony (which has a view of Portmann Bridge and mountains of Maple Ridge, Pitt Meadows, etc) when at approximately midnight 2 objects appeared over my balcony going horizontally across the sky headed north) These objects were parallel to each other and close together with bright red fiery heads and bright yellow tails (almost as if I was looking at the fire coming out of the back of a jet but without seeing the jet) The colours were extremely bright and the objects stayed beside each other for about 2 seconds and then disappeared!! They didn't fade out or sputter or spark, just disappeared.  I've never seen anything like this before and would be very interested to know if I am alone in this sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36062.html](http://www.nuforc.org/webreports/reports/036/S36062.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Richmond (Canada) (BC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Triangular object travelling at very high speed with three light with no audiable sound = UFO?A very quiet and clear sky night with lots of star in the sky. I was smoking outside of my house looking up the sky to check out the beautiful sky. I saw an (triangular) object with 3 dim lights travel at a rather high speed from east to west. I live rather close to the airport so I can tell what kind of normal airplane speed looks like up in the sky. What I saw was a high speed UFO with three dim lights travelling at a high speed without any audiable sound. I waited for at least for another 10 secs to see if sound can be heard. There was absolutely no sound. I couldn't really see the shape of the object because the it was dark but I certainly saw three dim lights with identical intensity.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50019.html](http://www.nuforc.org/webreports/reports/050/S50019.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [275](http://www.nuforc.org/webreports/reports/162/S162606.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162603.html)
-- [273](http://www.nuforc.org/webreports/reports/162/S162605.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163711.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162843.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
