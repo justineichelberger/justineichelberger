@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:29 on 4 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:37 on 4 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Virginia Beach (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Glowing pale blue sphere moving very fast across the sky heading in an easterly direction. Seen from Dahlia Drive, near the intersection of Front Royal Road.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145503.html](http://www.nuforc.org/webreports/reports/145/S145503.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Great Lakes (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>blinking light over lake michiganI am in the united states navy in school at Great Lakes. I was sitting I'm my room playing a video game when I noticed a bright light in the sky that was not there earlier.  It was positioned over lake michigan blinking in and out numerous times.  During this event it looked as if little red lights were coming from it but I'm not sure if my eyes were playing tricks on me.  Our base is about 35 miles from O'Hare airiport and you could see other planes flying around but this one object did not move. It only seemed to get higher in the air.  To make sure I was not seeing things I called my roommate to come and look and he also saw the same thing I did. It just does not seem right.  As I am typing this report I am still looking out my window looking at this light or what ever it is blinking in and out.  I have been around the military all my life and have seen many different airplanes and this was not any kind of plane I have ever seen.  It might be a planet or something I don't know. I just thought this was interesting enough to report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56100.html](http://www.nuforc.org/webreports/reports/056/S56100.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [275](http://www.nuforc.org/webreports/reports/162/S162606.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162603.html)
-- [273](http://www.nuforc.org/webreports/reports/162/S162605.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163711.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162843.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
