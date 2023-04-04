@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:31 on 4 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:35 on 4 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Mocksville (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Bright light hovering over tree lineBright light, yellowish gold tint, larger than the north star with no sound.  It hovered over the tree line for a few minutes and the light went out.  Numerous planes were flying around the area.  This is the third time I have seen this in the last four months, on those dates it did not go out, would just move horizontal, stop, move forward, stop, move vertical, etc... there is never any sound and the light is always consistent in strength, never dimming until this event when it just "cut off".((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36009.html](http://www.nuforc.org/webreports/reports/036/S36009.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Congress (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Square lights appeared in sequence, then disappeared simultaneously.I was watching blinking airplane lights in the distance, when suddenly four large yellow square lights came on in sequence, then went off at the same time.  The lights were large, rectangular, and appeared to be about a mile from where I was standing and about one half the height of the passing airplanes. They did not reappear in the 30 minutes I watched.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56115.html](http://www.nuforc.org/webreports/reports/056/S56115.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [275](http://www.nuforc.org/webreports/reports/162/S162606.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162603.html)
-- [273](http://www.nuforc.org/webreports/reports/162/S162605.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163711.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162843.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
