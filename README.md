@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:01 on 4 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:28 on 4 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Fast moving light that stopped, moved backwards and took off again.One early spring morning as I was waiting for school to open I witnessed a glowing blue light in the sky.  I was usually the first student at school and remember many mornings waiting for the janitor or the principal to open the school.  On this particular morning I was alone in the side of the school hanging around a ramp when all of a sudden I saw a fast moving blue light go by.  It appeared that it might have been a shooting star, but as it went by it stopped moved backwards and then took off again.  The light was round in shape and it left a white streak as it traveled.((NUFORC Note:  Date is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34154.html](http://www.nuforc.org/webreports/reports/034/S34154.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in New Westminster (Canada) (BC) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>2 red fireballs with yellow tails travelling parallel across the sky for about 2 seconds then disappearedSitting on my balcony (which has a view of Portmann Bridge and mountains of Maple Ridge, Pitt Meadows, etc) when at approximately midnight 2 objects appeared over my balcony going horizontally across the sky headed north) These objects were parallel to each other and close together with bright red fiery heads and bright yellow tails (almost as if I was looking at the fire coming out of the back of a jet but without seeing the jet) The colours were extremely bright and the objects stayed beside each other for about 2 seconds and then disappeared!! They didn't fade out or sputter or spark, just disappeared.  I've never seen anything like this before and would be very interested to know if I am alone in this sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36062.html](http://www.nuforc.org/webreports/reports/036/S36062.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [275](http://www.nuforc.org/webreports/reports/162/S162606.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162603.html)
-- [273](http://www.nuforc.org/webreports/reports/162/S162605.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163711.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162843.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
