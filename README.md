@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:37 on 4 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:01 on 4 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Hollywood (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Orange Orbs in Broward County Florida.I was sitting in a chair facing east talking to my former brother-in-law out side of his parents house in the driveway.  I first saw 3 round orange orbs above the tree line heading south.  They were equal distance apart from each other and if you put both arms foward and made them into a circle that about how big they were from my point of view.  They made no noise and all traveled at the same speed. The only way to explain the speed is as I saw the orbs and I said to my former brother-in-law look and pointed with my finger by the time he turned around they were out of our view.  I saw a few more and my former brother-in-law still did not see them and thought I was screwing around.  I ran inside and got the phone.  I called the FT. Lauderdale airtraffic control tower.  I told them that this was not a prank call and they could call the police and I explained what I had saw and he told me their was nothing on radar.  I sat outside for a few more hours this time with a camera but they were to fast to focus on.  I counted a total of 11 with in 2 hours all going south, all flying the same pattern.  I believe this was in 1994 but I can't be sure.  I have told some people but I think they thought I was making it up.  I know what I saw, I know your thinking why did I not write sooner.  I have no answer to you except that I want people to know now what I saw then.  I have another incident to share with you but I will wait to see how this one goes.  KEEP LOOKING UP!((NUFORC Note:  Date is approximate.  Witness elects to remain totally anonymous.  We wonder whether the lights might have been military flares, launched near PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42016.html](http://www.nuforc.org/webreports/reports/042/S42016.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Fast moving light that stopped, moved backwards and took off again.One early spring morning as I was waiting for school to open I witnessed a glowing blue light in the sky.  I was usually the first student at school and remember many mornings waiting for the janitor or the principal to open the school.  On this particular morning I was alone in the side of the school hanging around a ramp when all of a sudden I saw a fast moving blue light go by.  It appeared that it might have been a shooting star, but as it went by it stopped moved backwards and then took off again.  The light was round in shape and it left a white streak as it traveled.((NUFORC Note:  Date is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34154.html](http://www.nuforc.org/webreports/reports/034/S34154.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [275](http://www.nuforc.org/webreports/reports/162/S162606.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162603.html)
-- [273](http://www.nuforc.org/webreports/reports/162/S162605.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163711.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162843.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
