@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:24 on 4 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:30 on 4 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Peoria (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Bright craft light sighting in Peoria, AZI let my dog out in the backyard before putting her to bed. Shortly after sitting down in a chair on my patio, I noticed a light approaching that seemed quite a bit lower than the aircraft I’m used to seeing in the area, including military aircraft. In fact, within my same view, I could see two commercial aircraft with blinking lights. The craft in question had a solid white light and it wasn’t blinking at all. I’m estimating that the craft was approximately 7-10 thousand feet up and was approaching at a low speed. I watched it for at least 2-3 minutes. It seemed to be on a path that would bring it right over my house, which in near N Dysart Rd and W Jomax Rd. I started to feel like it was actually coming right towards me at one point. My dog then ran over by me and I called my grandson outside. We both stared at it for around 1 minute and commented how it was so low and that there was no noise. It slowly began to climb in altitude and within 5 seconds, it a! ccelerated upwards so fast that it went from a bright light to looking like a small star, and then totally disappeared. The whole sighting was so surreal that I unfortunately didn’t even think about filming it with my cell phone. I'll be ready when/if it happens again. Feel free to let me know if you have any further questions.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162591.html](http://www.nuforc.org/webreports/reports/162/S162591.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Malibu (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>On April 4th, 2015, a plane flew southeast over Malibu and a silver tube with a fuzzy white dot in front of it and crossed the planes path through two clouds and underneath.I was watching a plane, to see if the plane was at an altitude above the clouds.  It was higher and as it passed over the clouds I saw a silver tube with a fuzzy white dot in front of it that appeared in the cloud to the right, then it traveled through clean/clear air (between clouds) and crossed under the plane and into the cloud on the left where it disappeared.  The plane continued on and I grabbed a camera for a photo reference.  Approximatley 60 seconds later.The ‘Tube’ was metallic blue/gray and almost blurry, the white fuzzy dot in front of it kept a distance that remained the same distance throughout the sighting.  I say fuzzy white dot because it did not strike me as a light.Very Odd and I can’t stop wondering what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118779.html](http://www.nuforc.org/webreports/reports/118/S118779.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [275](http://www.nuforc.org/webreports/reports/162/S162606.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162603.html)
-- [273](http://www.nuforc.org/webreports/reports/162/S162605.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163711.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162843.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
