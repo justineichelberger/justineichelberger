@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:35 on 4 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:26 on 4 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Congress (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Square lights appeared in sequence, then disappeared simultaneously.I was watching blinking airplane lights in the distance, when suddenly four large yellow square lights came on in sequence, then went off at the same time.  The lights were large, rectangular, and appeared to be about a mile from where I was standing and about one half the height of the passing airplanes. They did not reappear in the 30 minutes I watched.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56115.html](http://www.nuforc.org/webreports/reports/056/S56115.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Panama City (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1:30 - 1:30 minutes.</sub><blockquote><sub>I went outside to smoke a cigarette and looked up in the night sky as I normally do and almost immediately my attention was drawn to the SW at a bright light slightly bigger and brighter than the stars,  I watched its course and the light itself wondering if maybe it was a plane at high altitude.  I am 100% certain it was not, its course was not a straight line but looked almost like it were a fire fly trying to fly straight the speed was eerily constant and slowish. As I watched the light come in from the SW, I continued to watch it until it was the the NE of me, where it seemed to slow down and turn a bland orange color, and proceeded to disappear completely.  I do not mean it traveled until I could no longer see it; it faded like flame dying in darkness.  This is the first time I have ever encountered something I can not explain.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108326.html](http://www.nuforc.org/webreports/reports/108/S108326.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [275](http://www.nuforc.org/webreports/reports/162/S162606.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162603.html)
-- [273](http://www.nuforc.org/webreports/reports/162/S162605.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163711.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162843.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
