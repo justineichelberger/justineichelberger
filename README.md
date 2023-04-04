@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:34 on 4 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:07 on 4 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Princeton (WV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>blue orb and dream  I was watching TV with some friends at the time.  We cant smoke in his house so 3 of us went outside on the porch to smoke.  They were facing east and only I was facing west south west and I looked up and seen it.  Was a huge blue orb in the sky i would have to day the size of two school buses put together was pretty close.  Moving moving southeast to northweast very fast close to the ground no trail or anything to tell you the truth gave me the chills! I was so shaken i told everyone there they just laughed like i was telling a joke but it was not ! And i still havent been able to sleep well since !  And the reason im posting this is because just the other night end of may 2010 I had a dream !  I was in my car it was night and one of my friends was driving but i didnt like it and we went into the interssection and all the power went out.  he said that he knew what it was and started to look up into the sky and the same time I felt a violent vibration on my ! body even effected my vision so violent....shaking me..and i felt myself being pulled in a thousand different ways ... like my particals being pulled a part moving up!  Then I woke up abruptly so scared and rememberd so vividly and felling a scratching feeling on my side on the left just above the hip and seen a pale white line but after scratching was gone !  scared the shit out of me was scared shitless.... i fest!  Is ther any meaning to this please if anyone has anything just let me know!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75684.html](http://www.nuforc.org/webreports/reports/075/S75684.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Venice (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>International Space Station flew over Los Angeles.  Coming from Northwest to Southeast on 4th July at 8:41 to 8:45 p.m. It was announce on local T.V and Radio.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82501.html](http://www.nuforc.org/webreports/reports/082/S82501.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [275](http://www.nuforc.org/webreports/reports/162/S162606.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162603.html)
-- [273](http://www.nuforc.org/webreports/reports/162/S162605.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163711.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162843.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
