@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:28 on 5 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:31 on 5 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fort Wayne (IN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Red glowing globes moving west to east in formation at what appeared to be about 10k feet.Several red glowing object moving west to east hovering for a bit then moving rapidly and increasing in elevation.  Near Fort Wayne, international airport/122nd fighter wing. Lights went out in succession. Called 911 to verify no aircraft seen on radar. They moved in formation and teams of 2.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108393.html](http://www.nuforc.org/webreports/reports/108/S108393.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Vero Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Yellow-orange light over Vero Beach.My boyfriend & I were on Ocean Drive in Vero Beach on Sat. 4/5/14 at about 9:30 pm.  We saw a yellow/orange light “gliding” from south to north in a straight line.  It was silent and had no typical red & white lights of  a normal airplane.  (Having been married to a pilot  for 30+ years, I am very familiar with what airplanes look like.)  It continued past us, then veered slightly to the northwest until we could no longer see it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108436.html](http://www.nuforc.org/webreports/reports/108/S108436.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162581.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162589.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163237.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163899.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162765.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
