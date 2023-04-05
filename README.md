@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:31 on 5 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:34 on 5 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Vero Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Yellow-orange light over Vero Beach.My boyfriend & I were on Ocean Drive in Vero Beach on Sat. 4/5/14 at about 9:30 pm.  We saw a yellow/orange light “gliding” from south to north in a straight line.  It was silent and had no typical red & white lights of  a normal airplane.  (Having been married to a pilot  for 30+ years, I am very familiar with what airplanes look like.)  It continued past us, then veered slightly to the northwest until we could no longer see it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108436.html](http://www.nuforc.org/webreports/reports/108/S108436.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Randle (near) (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Summary : Large bright object moving horizontal in the evening sky, very low, made no noise.A friend and myself where viewing the comet Hale-Bop Saturday  April 5th  near the Cispus River in Lewis County, WA.  We observed a object best described as a very bright light at a very low altitude about  5,000 to 6,000 ft moving in a horizontal trajectory towards Mt. Adams at a speed faster then a jet but not at a streaking speed, both of us were able to run down the dirt road for about 200 yds while tracking the object across the sky.  I have never seen anything like this in the sky.  I have watched the skies for many years and what amazed us most, was that there was no sound at all, only frogs chirping.  If this was a plane we would have heard jet sounds.  I am a computer Instructor and my friend a painter what we saw that night is something we still cant explain.  We hope to update our story as we will be going back up this week to hopefully see more and get some answers to our question.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02132.html](http://www.nuforc.org/webreports/reports/002/S02132.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162581.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162589.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163237.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163899.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162765.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
