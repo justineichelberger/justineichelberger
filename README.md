@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:47 on 5 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:37 on 5 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Eureka (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>me and my roommate saw a fast moving object.  it covered a large distance in a matter of seconds.  we observed this object until it disapBright light moving at very fast velocity.  No contrails or noise heard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108372.html](http://www.nuforc.org/webreports/reports/108/S108372.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Me and my girlfriend were traveling down 410 exiting onto Hwy 151, when I witnessed something out of the norm in the sky to the south of us.  I noticed 6 objects to the left of me that looked bright fire red in the sky.  The objects were formed in a triangular shaped with one of the objects in the center, the other 2 objects were to the right of the triangular shape one atop of the other. Not moving just at a stand still. Couldn't been a plane or helicopter I told my girlfriend if she can see what I was seeing. She then was just as curious as I was, she told me to exit Hwy 151, and I then proceeded onto Ingram Rd.  By then the objects began to move in a slow pace parting from each other.The skies were cloudy and a light mist, couldn't have been chinese lanterns, we then parked our vehicle in a suburban area, which the objects the began to disappear one by one into the clouds traveling towards the west in a very slow speed.  We then researched after and there have been actual eyewitness of the same objects we spotted.  We do believe it was an actual UFO sighting without a doubt.  No blinking lights so this couldn't have been an aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108389.html](http://www.nuforc.org/webreports/reports/108/S108389.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162581.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162589.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163237.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163899.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162765.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
