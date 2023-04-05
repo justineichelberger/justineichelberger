@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:06:43 on 5 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:51 on 5 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Gainesville (FL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Very large aircraft, moving at 30 knots, at about 2500 feet, rectangular in shape.It was a very clear night, no clouds in the sky, full moon and the temperature was in the mid 50's F.  We were standing on the back porch looking at the stars.  A few small planes were flying in the distance, we could see and hear them clearly.  Also, routine commercial flights were flying to the north of us. Then, over the trees, coming from the north, flying in a southernly direction was an object.  I put it between 2000 and 3000 feet in altitude.  It looked like a Motorola Slvr phone.  It was black, blacker then the night.  It also had two orbs of light, one on it front underside, and back underside. the front light was white, the back blue.  The lights were odd, more orbs than the bright points normally seen on aircraft.  The also did not blink.  They did not turn off or blink.  It moved very slow, maybe 30 knots.  It took a long time for it to travel over us and down its flight path.  It also wasn't oriented in a direction a normal plane would be in.  It flew with it's smaller sides oriented to the front and back (meaning, it had no wings).  There was also no sound from it, even though it was directly above us.  It was big.  It's length was like a C-5 Galaxy or B-1B. It's width little less than half its length.Large Aircraft Very Low No Sound  At the speed and alt. it was flying at, only a helicopter could mimic it. If a helicopter was flying that low, we would have heard it, and felt it. It also would have been the world's biggest helicopter, too. If it was a regular aircraft, it would have had to have been flying at a great altitude for it to appear to move slowly to us. And if it was flying at 50,000 feet, its actually size would have been like a mile long.I know a lot about planes. I know what all (known) modern American Air Force planes look like and can easily identify them. This was bizarre.I didn't see it in a box down there, but I wouldn't mind an email back with information regarding other sigthings similar to this.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56002.html](http://www.nuforc.org/webreports/reports/056/S56002.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Wildwood Crest (NJ) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>White trail travelling north, making abrupt U-turn, then trail becoming erratic, losing altitude and disappearing from sight.This was seen over the Atlantic Ocean on a sunny, clear, cloudless day as a single white trail and looked like the white trail a jet makes when travelling at a very high altitude. Travelled north at high rate of speed, then made an abrupt, very tight U-turn and headed south for about one minute with white trail continuing. Turned eastward with white trail becoming erratic then lost altitude before suddenly disappearing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17174.html](http://www.nuforc.org/webreports/reports/017/S17174.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162581.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162589.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163237.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163899.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162765.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
