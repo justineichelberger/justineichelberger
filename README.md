@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:26 on 5 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:47 on 5 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Simi Valley (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Three orange lights in a triangular formation hovered over my neighborhood for several minutes and disappeared last night.Electrical power went out in our neighborhood at 8:00 PM, so it was quite dark in the night sky. My next-door neighbor was on Facebook on his phone when he saw a posting from another neighbor, XXXX, down the street about the unidentified lights in the sky. So XXX, my next-door neighbor, went outside to look at what XXXX was writing about.  Dan got very excited and called me and my husband outside, to see the lights.  They appeared in the north sky in an equilateral triangle formation, with one light at the apex of the triangle and two at the bottom.  The lights were orange in color and looked rather like flames or that they were shimmering.  All three lights hovered in the triangular pattern for a few minutes, and then it appeared that the two lights at the bottom of the triangle were growing dimmer until they finally disappeared. I ran into the house and got a pair of binoculars, through which I viewed the remaining light. It was still a bit blurry for me, so I! gave the binoculars to my husband. He said the remaining light appeared to be an array of parallel lights numbering 4 on each side, with a white light on the top and bottom of the array, in the middle of the parallel. The remaining light began to move slowly west in the sky for several minutes until it too, disappeared. When the lights disappeared, it looked like they were turning sideways until they were no longer visible.  At no time did any of us hear any sound and the lights did not move quickly.  There were a few distant airplanes in the sky, whose blinking running lights appeared quite different from these orange lights.  Another of XXX’s friends, whom he called, also saw the lights from a different perspective about a quarter mile away from our house.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96991.html](http://www.nuforc.org/webreports/reports/096/S96991.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Eureka (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>me and my roommate saw a fast moving object.  it covered a large distance in a matter of seconds.  we observed this object until it disapBright light moving at very fast velocity.  No contrails or noise heard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108372.html](http://www.nuforc.org/webreports/reports/108/S108372.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162581.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162589.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163237.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163899.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162765.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
