@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:28 on 5 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 5 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in South Portland (ME) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large triangle craft moving slow over Maine Mall area.Somewhere around 0236-ish While riding in a car, saw bright light halfway above horizon, dismissed it as a bright Venus, but I didn’t think the direction was correct.  As we got closer, could see head on, two bright “headlights” with two small blinking lights, one on either side.We drove underneath it, and then I realized it was either moving very slow or not at all.  From underneath, could see the light, almost grayish, color of the triangle against a clear dark sky.  In the triangle were 3 larger lights on the points, and a series of many smaller lights forming an inner diamond.  Outside of the colored portion where you could only see black sky, were the blinking lights, one on each side, one red, one green.The driver of the car thought me crazy, and didn’t want to look at it.  So we kept the same speed, drove head on, underneath, then away, in about the course of a mile or less, with me watching it the entire time.  I could only hear the sound of the car we were in.I’m trying to dismiss it as a drone or secret plane, but the size, slowness, and definitive shape were a very new sight for me.  I’m not sure of the height because I’m not sure of the size, but I could see actual details in the underside like I was looking at model plane up close, but there were too many to recall with accuracy.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126733.html](http://www.nuforc.org/webreports/reports/126/S126733.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Baltimore (MD) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>My husband and I were traveling north on Rt. 295, leaving Baltimore Washington Airport.  When looking north to the city of Baltimore, we saw a green fireball which seemed to change direction from a straight fall to a flat, then a straight fall again.We were traveling north on the Baltimore Washington Parkway last night at 9:40 (21:40) and were about to turn off onto Rt. 895 when we both noticed a green fireball falling from the south of Baltimore City.  It seemed to fall straight, then turn or flatten and fall straight again.  This is the second such fireball that we have seen in the past five years.  Although I didn't document it at the time, it was the same type of fireball.   We are very interested in teh crop circle phenomena and went to England in 1995 and managed to find several on our own.  We attend MUFON meetings occasionally in Cecil County, Maryland and I have attended state functions in the past.  My husband, a school psychologist is firmly rooted in scientific tradition, yet has come to believe that there are unexplained mysteries to explore!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/006/S06098.html](http://www.nuforc.org/webreports/reports/006/S06098.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162581.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162589.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163237.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163899.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162765.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
