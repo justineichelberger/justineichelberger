@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:30 on 5 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:34 on 5 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hobbs (NM) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Three circular craft changing shape SW of Hobbs, NM.Just got out of work with my friend at the school cafeteria at my college and seen these weird shapes in the sky.  They seemed to be changing shape but could not tell from what to what.  I zoomed in with my junk cell phone camera and snapped a pic. It was just before sunset looking southwest from the NMJC campus.  It vanished and my buddy said, "It's gone."((NUFORC Note:  We have looked at the photo, and believe that the three objects are street lamps.  The pole beneath them is visible in the photo.  We have encouraged the witness to take another photo of the same area, to certify whether there is a street lamp at the location shown in the photo.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108364.html](http://www.nuforc.org/webreports/reports/108/S108364.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Shelton (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>12 red lights over Shelton.As I was driving home on John's Prairie rd. I saw a string of 12 or so red lights behind me in my rear view mirror.  Because I made that drive so often I knew the lights didn't belong.  I slowed way down and took a closer look in the mirror.  It seemed as if the lights were not high at all and looked slightly larger than a major star.  They also seemed to be only about 1000 yards away.  The thing that really freaked me out though was that when I looked behind me rather than in the mirror I didn't see anything and then after taking two looks behind me and not seeing it (yet still seeing it in the mirror) it disappeared from the mirror to.  The objects were to the west of me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56120.html](http://www.nuforc.org/webreports/reports/056/S56120.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162581.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162589.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163237.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163899.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162765.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
