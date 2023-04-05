@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:34 on 5 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:06 on 5 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Shelton (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>12 red lights over Shelton.As I was driving home on John's Prairie rd. I saw a string of 12 or so red lights behind me in my rear view mirror.  Because I made that drive so often I knew the lights didn't belong.  I slowed way down and took a closer look in the mirror.  It seemed as if the lights were not high at all and looked slightly larger than a major star.  They also seemed to be only about 1000 yards away.  The thing that really freaked me out though was that when I looked behind me rather than in the mirror I didn't see anything and then after taking two looks behind me and not seeing it (yet still seeing it in the mirror) it disappeared from the mirror to.  The objects were to the west of me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56120.html](http://www.nuforc.org/webreports/reports/056/S56120.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Paw Paw (near) (WV) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Saw a bright, very short cylinder or oval move across the night sky, brighten intensely, then disappear, all within about 25 seconds.My friend and I were star gazing at around 4:30 am about 9 miles outside the town of Paw Paw, West Virginia. The night sky is unlike anywhere else I have ever seen up there because we were so far away from lights.I noticed a point of light, which at first just looked like another star (a relatively bright one) moving across the sky from right to left. When I looked closer I could see that the object wasn’t exactly round like a star but rather kind of elongated, like an oval or very short cylinder. Think of it this way: I will compare a normal star that is circular in shape to a BB (like a BB Gun BB), but smaller, and this object was similar to a grain of rice. The overall size difference wasn’t great but I could definitely tell that this thing had a long side and a short side, although it was very minute.After seeing this thing moving I got my friend to look at it too. He saw it moving and said how unusual it looked. After about 10 or 15 seconds the object got much brighter instantly and within a few seconds disappeared completely.This was not a shooting star because it was going much slower than that. I think it could be a satellite because I have read that they have been seen to brighten when they hit a certain sun angle and can also disappear when sunlight is no longer reflecting from them. However, it seemed like once we started talking to each other about how odd this thing was an what it could be, that’s when it got very bright and then disappeared like it knew that we were aware of it.I wonder if anyone else has had this kind of sighting. I would like to know more about what we witnessed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69593.html](http://www.nuforc.org/webreports/reports/069/S69593.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162581.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162589.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163237.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163899.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162765.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
