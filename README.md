@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:32 on 5 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:33 on 5 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Everglades (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>70 lights in the sky make formation. straight lines and diagonalI pulled over on Highway to take pictures; a highway patrol also pulled over to ask me what was wrong.  I told him to turn around.  He could not believe it.  The lights were bright and perfectly formed.  I was not able to take a picture unfortunately because it was dark.  Also very short.  After about 2 minutes, they all disappeared.((NUFORC Note:  We wonder whether the date of the sighting may be Saturday, April 5th, the date the report was submitted, and the date on which so many reports were submitted from other locations in Florida.  The source of the report provides no contact information, so we are not able to contact her.  We have amended the date above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108379.html](http://www.nuforc.org/webreports/reports/108/S108379.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Baraboo (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>A bright white light, tens of thousands of feet in the air, swooped downward, left a lingering impression or reflection, and disappeared.Information included in my previous posting about ny 3/31/98 sighting in Baraboo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03477.html](http://www.nuforc.org/webreports/reports/003/S03477.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162581.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162589.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163237.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163899.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162765.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
