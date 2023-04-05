@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:30 on 4 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:27 on 5 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Malibu (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>On April 4th, 2015, a plane flew southeast over Malibu and a silver tube with a fuzzy white dot in front of it and crossed the planes path through two clouds and underneath.I was watching a plane, to see if the plane was at an altitude above the clouds.  It was higher and as it passed over the clouds I saw a silver tube with a fuzzy white dot in front of it that appeared in the cloud to the right, then it traveled through clean/clear air (between clouds) and crossed under the plane and into the cloud on the left where it disappeared.  The plane continued on and I grabbed a camera for a photo reference.  Approximatley 60 seconds later.The ‘Tube’ was metallic blue/gray and almost blurry, the white fuzzy dot in front of it kept a distance that remained the same distance throughout the sighting.  I say fuzzy white dot because it did not strike me as a light.Very Odd and I can’t stop wondering what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118779.html](http://www.nuforc.org/webreports/reports/118/S118779.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>two red slowly pulsating lights.  Brightest things in the sky.  Have video.  Slowly moved south and then just vanished one by one.I have them on video tape.  I talked to Peter regarding this sighting years back.  This is the correct date. On your records this took place on the 7th from two military guys in the gaslamp quarter.  It is the 6th, and i also rememeber their being more information on this site concerning this sighting from other witnesses.  2 red pulsating lights about 30-40 from POV. Eastern skies of San Diego.I have footage which i sent to Peter. Called news stations and reported objects.  They were aware of them.  Commercial jet cut final approach to Lindberg early. One news station carried the story only to end it with FAA has no comment.((NUFORC Note:  They may have returned on 06AO96, but we checked our handwritten telephone logs, and the reports were submitted over the telephone on the evening of 05AP96, at between 2100 and 2105 hrs. on that night.  We have taken the liberty of amending the date for this report, although we recognize that we may err in doing so.  We have amended the time, as well, assuming that the witness means "9:00 p.m.," not a.m.., as indicated here.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17584.html](http://www.nuforc.org/webreports/reports/017/S17584.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [275](http://www.nuforc.org/webreports/reports/162/S162606.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162603.html)
-- [273](http://www.nuforc.org/webreports/reports/162/S162605.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163711.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162843.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
