@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:50 on 5 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:56 on 5 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in East Otis (MA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>the brightist  light  being in the front of the obect- coming from the north and headed northwest-it was extremly fastI was looking out my bedroom window and I saw a bright white bluish light cigar shaped quickly come in my view above the tree tops stop and abruptly turn like a boomarang and travel away very quickly out of sight!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43340.html](http://www.nuforc.org/webreports/reports/043/S43340.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in New Castle (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Zig zag formation lighted object Highland Ave.I was a passenger in a vehical with my father driving and we were facing south and at first I though it was a glare on the window but then I realized that it was not a glare and It was traveling at a high rate of speed the altitude of the object was very low and it made a zig zag formation first heading in the direction of South East then it made a very sharp turn heading south west and I lost sight when it went over trees.It had lights on it and to me it looked mushroom shaped, other people had to have seen It. My dad is the only witness that I know so far.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80768.html](http://www.nuforc.org/webreports/reports/080/S80768.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162581.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162589.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163237.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163899.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162765.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
