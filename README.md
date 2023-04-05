@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:27 on 5 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:21:36 on 5 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>two red slowly pulsating lights.  Brightest things in the sky.  Have video.  Slowly moved south and then just vanished one by one.I have them on video tape.  I talked to Peter regarding this sighting years back.  This is the correct date. On your records this took place on the 7th from two military guys in the gaslamp quarter.  It is the 6th, and i also rememeber their being more information on this site concerning this sighting from other witnesses.  2 red pulsating lights about 30-40 from POV. Eastern skies of San Diego.I have footage which i sent to Peter. Called news stations and reported objects.  They were aware of them.  Commercial jet cut final approach to Lindberg early. One news station carried the story only to end it with FAA has no comment.((NUFORC Note:  They may have returned on 06AO96, but we checked our handwritten telephone logs, and the reports were submitted over the telephone on the evening of 05AP96, at between 2100 and 2105 hrs. on that night.  We have taken the liberty of amending the date for this report, although we recognize that we may err in doing so.  We have amended the time, as well, assuming that the witness means "9:00 p.m.," not a.m.., as indicated here.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17584.html](http://www.nuforc.org/webreports/reports/017/S17584.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Raymond (NH) reported seeing craft that fit the description of some '' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Series of Green Flashes (Light up whole neighborhood)during Power outage /w No sound. Brighter than lightening. Cloudy sky and Snow. I wondered if the seabrook Nuclear power station was errupting. I was to surprised to take a photo. For the full two hours.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56110.html](http://www.nuforc.org/webreports/reports/056/S56110.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162581.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162589.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163237.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163899.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162765.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
