@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:01:09 on 6 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:27 on 6 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Glendale (AZ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>1 object sighted, 9 pm 4/6/2015 Glendale, ArizonaJust after 9 pm, I took the dog out in the backyard to go potty before bedtime, I looked up and there it was, at first I thought it was a plane crashing down, then it zoomed up, side to side, then up and down again..   I called out for my roommate , he came out and saw it too!!  It was purplish pink, and white on bottom,   with it moving so fast, it was hard to see the actual shape.. but it was round or oval.  Now we live near an airport and we see planes and helicopters constantly, day and night..  this was NOT an airplane or helicopter..    now you could see this thing as clear as you see a stop sign, and there's lots of traffic here , ground and air, now I KNOW other people had of seen it..   I saw a report of people seeing globes hovering in 1 spot for about 20 minutes, this is not what we saw.. we saw 1 object.. and from the back n forth movements..  It looked as if it was searching for something..  it was moving quickly and almost erratically.( it almost! looked like a object being held from a string..  like kids do.. but clearly this was not the case.. it was large.. but at some distance and that made it hard to gauge the actual size).  but did slow down during this duration and hovered still at one point before moving again..  then it was going away from us.. and we lost sight of it past the horizon.  I will have the camera ready tonight in case we see it again..  People rarely believe these stories until you see it with your own eyes..  I know what we saw.. and it was no plane!! or any other aircraft I've ever seen.  and while we saw this.. there were planes in the distance!!  There are always planes in the sky here, 24 hours a day..  So they had to of seen it too!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118269.html](http://www.nuforc.org/webreports/reports/118/S118269.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Mount Poccono (PA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>appeared as stars until they started coming towards me and I think I fell asleep don't recall the pics or videoWas at a truck stop when felt extremely tired out of nowhere and don't remember taking pictures or videos but felt freaked out after waking up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118409.html](http://www.nuforc.org/webreports/reports/118/S118409.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/163/S163034.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162551.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162582.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162764.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
