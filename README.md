@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:32 on 6 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:37 on 6 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Little Falls (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangle shaped with 5 very bright lights 20-30' wing span, couldn't tell from how dark it was the back end shape as it flew over me.Driving down hwy 10 heading south from Brainard, MN, I noticed 5 very bright lights just over some tree tops and didn't see it again for another 10 min then I seen it very clearly, maybe 200' off the ground going slightly faster than me at 65 mph.  It went away and I took my next available exit where I seen it coming straight towards me.  I got out of my vehicle to watch it fly over my head. It was triangle almost boomerang shaped with a roughly 20-30' wingspan from my point of view, with 5 lights on the front like headlights on a car but very bright and big it was to dark to tell what the tail end looked like when it flew over me.  The sound of it sound like someone going shhhhhhhhhhh quietly. I'm not saying this thing was from outer space; I just couldn't identify this thing from anything I've ever seen.  Maybe military?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133491.html](http://www.nuforc.org/webreports/reports/133/S133491.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Doylestown (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two bright orange orbs fly above neighborhood, one sends out a drone then blink out.Me my brother, sister, and a friend saw 2 bright orange orbs flying with each other then a piece of one broke off of one which was also orange. It floated around for a minute then rejoined the original craft and then both craft blinked out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108401.html](http://www.nuforc.org/webreports/reports/108/S108401.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/163/S163034.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162551.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162582.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162764.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
