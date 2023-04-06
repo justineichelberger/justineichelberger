@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:29 on 6 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:28 on 6 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in East Islip (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Circle metallic craft, extraordinary speed, then disappearedCircle craft accelerated through the sky at an extraordinarily speed, without sound.  Metallic disc, then came to a complete stop, and hovered for over a minute, before disappearing completely.  I saw this object by complete chance, happend to look up, and see it come to an abrupt stop.  I was also able to get part of this filmed on my phone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145525.html](http://www.nuforc.org/webreports/reports/145/S145525.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Reading (PA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Left Lebanon Pa.towards Reading Pa.around 9:35PM about 10-15 minutes into our trip  before Myerstown i noticed an extremely Bright,Silvery,Clean,Intense set of 4 Rectangular lights to the Right(1 to 2 O'clock High)in the sky with a Strobe/Wave like effect going from Left to right flowing once through all 4 rectangular lights at a time also noticed different type of lights on both sides of light 2 & 3 where they met like car lights. At first thought it was lights on top of a mountain until we cleared the trees blocking my bottom view and this is when i noticed they were not hill top lights because the mountains were very low compared to altitude of lights they at first were almost straight in sky but then turned up from bottom right hand side then light #4 started to get smaller and dissapeared then 3 then 2 then 1 until all that was left was a "BIG" BLACK MASS that looked kind of Roundish but also like the form of an egg (like it was moving) with a small spe! ck of a Light in back then it just stayed there for a few seconds then vanished. I think this looked like what police officers witnessed years ago in Ohio. (At first looked someting like this)>  -- --**-- --</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88368.html](http://www.nuforc.org/webreports/reports/088/S88368.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/163/S163034.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162551.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162582.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162764.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
