@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 5 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:38 on 6 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Baltimore (MD) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>My husband and I were traveling north on Rt. 295, leaving Baltimore Washington Airport.  When looking north to the city of Baltimore, we saw a green fireball which seemed to change direction from a straight fall to a flat, then a straight fall again.We were traveling north on the Baltimore Washington Parkway last night at 9:40 (21:40) and were about to turn off onto Rt. 895 when we both noticed a green fireball falling from the south of Baltimore City.  It seemed to fall straight, then turn or flatten and fall straight again.  This is the second such fireball that we have seen in the past five years.  Although I didn't document it at the time, it was the same type of fireball.   We are very interested in teh crop circle phenomena and went to England in 1995 and managed to find several on our own.  We attend MUFON meetings occasionally in Cecil County, Maryland and I have attended state functions in the past.  My husband, a school psychologist is firmly rooted in scientific tradition, yet has come to believe that there are unexplained mysteries to explore!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/006/S06098.html](http://www.nuforc.org/webreports/reports/006/S06098.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Oakdale (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orange glowing object zig zagging across the sky at a high rate of speed and was silent.The object was moving at a high speed from the NW to the SE. It was round and glowing orange and it was completey silent. The object was zig zaging while it flew accross the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43355.html](http://www.nuforc.org/webreports/reports/043/S43355.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162581.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162589.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163237.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163899.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162765.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
