@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:39 on 6 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:13:12 on 6 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Fair Oaks (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>low flying aircraft light blue in color was there and then goneI was driving back to work after lunch and my fiance was in the car with me.  We were getting ready to cross the Sunrise Bridge over the American River when I noticed a low flying airplane, light blue in color, almost like the sky.  I pointed it out to my fiance but it was gone before he could catch a glimpse of it.  I was expecting a big crash due to how low it was flying but it was there, and then gone.  We looked in the sky all over for it.  I thought I was going crazy and then did a research online about sightings of the same thing.  I know I'm not insane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36038.html](http://www.nuforc.org/webreports/reports/036/S36038.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Windsor (CO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Bright Yellow object heading east bound at a pretty decent speed, no binky lights at all, just one solid color.  Another object appeared heading north west bound for about 20 seconds then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154845.html](http://www.nuforc.org/webreports/reports/154/S154845.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/163/S163034.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162551.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162582.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162764.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
