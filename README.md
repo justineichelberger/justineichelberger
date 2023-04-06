@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:27 on 6 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:29 on 6 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Mount Poccono (PA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>appeared as stars until they started coming towards me and I think I fell asleep don't recall the pics or videoWas at a truck stop when felt extremely tired out of nowhere and don't remember taking pictures or videos but felt freaked out after waking up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118409.html](http://www.nuforc.org/webreports/reports/118/S118409.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in East Islip (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Circle metallic craft, extraordinary speed, then disappearedCircle craft accelerated through the sky at an extraordinarily speed, without sound.  Metallic disc, then came to a complete stop, and hovered for over a minute, before disappearing completely.  I saw this object by complete chance, happend to look up, and see it come to an abrupt stop.  I was also able to get part of this filmed on my phone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145525.html](http://www.nuforc.org/webreports/reports/145/S145525.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/163/S163034.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162551.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162582.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162764.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
