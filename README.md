@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:42 on 6 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:30 on 6 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Hildale (UT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Black triangular craft flies erratically after passing airplane.I was looking out my back window just before we sat down to dinner and watching a high flying plane spraying contrails in an already very saturated sky.  The plane was flying directly west and I noticed another craft flying in the exact opposite direction, from west to east, crossing just beside the plane.  At first glance, I figured it was another airplane just like the first one, but quickly realized it was definitely not.  It appeared to be triangular, black in color.  I watched it pass the airplane in a straight line, then abruptly, it began performing impossible circling and zig zagging maneuvers before abruptly veering off quickly to the north and disappearing from view when obscured by the mountains behind our town.  I watched it for approximately 45 seconds or so before it disappeared behind the mountain line.  It should also be noted that during the time I watched this spectacle, it weaved in and out of contrail clouds before finally disappearing from view behind the group of mountains.  It stood out as stark black even through the haze of the clouds and was still traceable when partly shrouded by cloud cover because of this.  The object was soundless, but from my perspective, seemed too high up to detect any sound, had any been made.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126750.html](http://www.nuforc.org/webreports/reports/126/S126750.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Passaic (NJ) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>slilver and blue colorwe were outside at the backyard playing around when we saw the UFO moving around in a circle I wanted to take picture but it flew very fast.  The were lights on the craft it flew in circles it was a sliver color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88250.html](http://www.nuforc.org/webreports/reports/088/S88250.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/163/S163034.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162551.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162582.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162764.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
