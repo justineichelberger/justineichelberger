@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:56 on 6 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:42 on 6 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Cuba (north of; at sea; on cruise ship) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Caribbean Sea, revolving boomerang shape with lightsDuring a cruise in the Caribbean (somewhere north of Cuba) my wife and I were looking out to sea from our balcony and noticed a light (star sized moving in a north easterly direction). At first I thought it must be a satellite but it then changed direction very rapidly (90 degrees) as it approached our ship at an unknown height. We could clearly see it had a boomerang shape and was revolving (with multicoloured lights). It then passed over the top of the ship so we lost sight. I looked at my wife and said "did you see that?" and she confirmed. Any idea what it could have been? Anyone else se it?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43524.html](http://www.nuforc.org/webreports/reports/043/S43524.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Jonesboro (GA) reported seeing craft that fit the description of some 'Flash' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>I had just gotten off the phone with my wife and i was getting ready to go to bed. All the lights flickered and then they all went out. I was a little worried but i did not think anything of it. I went outside to see if the street lights had gone out as well and i noticed that they had.I began to walk back into the house when i heard a noise that sounded like a train. It was very loud and i thought it was coming from the sky so i looked up and i saw a bright flash of light. It was so intense that i turned away and i remember the sensation of falling.The next thing i knew i was opening my eyes to find the light from the street lamps shining on me. I thought that i had just passed out but when i went back into the house i noticed that it was four o'clock. I do not know what happened but i think i was abducted. There are numerous bruises on my body. Some on my neck but most around my genital area. I also had a powerful urge to piss but i could not.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17198.html](http://www.nuforc.org/webreports/reports/017/S17198.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/163/S163034.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162551.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162582.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162764.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
