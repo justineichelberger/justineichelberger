@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:30 on 6 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:34 on 6 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Passaic (NJ) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>slilver and blue colorwe were outside at the backyard playing around when we saw the UFO moving around in a circle I wanted to take picture but it flew very fast.  The were lights on the craft it flew in circles it was a sliver color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88250.html](http://www.nuforc.org/webreports/reports/088/S88250.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Daytime bright white light with 'heat wave' aura around it, flutters near Tampa airport.After landing at Tampa International Airport, and while riding a shuttle bus to a car rental agency nearby, I observed what I first thought was a helicopter because of its slow speed and maneuvering, reflecting light from the sun.  As I continued to observe I saw that the object was round, very bright, and with a 'shimmering' aura around it.  It was about 1500 feet in the air and near the airport. It traveled in an 'up and down' pattern.  While watching it the object just disappeared, only to reappear again in the same spot.  It was a very bright white light, oval or round, with a 'heat wave' around it.  It then disappeared again and did not return.  I would estimate that the object was a mile away from my location.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126818.html](http://www.nuforc.org/webreports/reports/126/S126818.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/163/S163034.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162551.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162582.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162764.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
