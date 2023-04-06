@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:37 on 6 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:30 on 6 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Doylestown (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two bright orange orbs fly above neighborhood, one sends out a drone then blink out.Me my brother, sister, and a friend saw 2 bright orange orbs flying with each other then a piece of one broke off of one which was also orange. It floated around for a minute then rejoined the original craft and then both craft blinked out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108401.html](http://www.nuforc.org/webreports/reports/108/S108401.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Morgantown (WV) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>This light I'm seeing appears to be moving in a short distance back and forth.At 11:29 pm est, I noticed what appeared to be a bright star.  After focusing on it while lying in bed I noticed it changer colors, mostly white and changed to red several times.  Also, it was moving back and fourth also up and down but in no paticular pattern.  It's moved angled up and down also side to side.  Also the object is flickering.  I used a compass and it is roughly 60 to 63 degrees NE.  I am currently monitoring it now.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118827.html](http://www.nuforc.org/webreports/reports/118/S118827.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/163/S163034.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162551.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162582.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162764.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
