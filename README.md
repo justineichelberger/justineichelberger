@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:23 on 6 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:23 on 6 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Dawsonville (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Reddish orange light that passed southwest to northwest and then vanished in a clear sky.  No wind present, no sounds, no other indicating factors.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97000.html](http://www.nuforc.org/webreports/reports/097/S97000.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Saint James (MN) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I saw a cluster (7 min.) of tiny lights stationery in the sky like stars with shimmering lights for at least a half hour.I looked out my window as I was in bed and noticed a cluster of tiny lights in the sky. I thought at first that it was an airplane but the cluster didn't move. I watched diligently for about a half hour before falling asleep. The lights shimmered slightly and stayed in the irregular shaped formation. At 2:30 A.M. I awoke and checked the area in the sky. The cluster had disappeared. This was a very clear night I have seen reflections from satellites and man made objects in space but this did not appear like those. I couldn't estimate a distance but it looked like tiny stars. The shimmering lights reminded me of looking through an astronimic telescope and seeing the atmospheric shimmering effect. I am a retired Industrial Designer, of sound mind, and always interested in details. This is the only sighting I have witnessed of a supposed anomaly in space.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28342.html](http://www.nuforc.org/webreports/reports/028/S28342.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/163/S163034.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162551.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162582.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162764.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
