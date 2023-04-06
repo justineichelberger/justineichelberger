@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:42 on 6 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:30 on 6 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Jonesboro (GA) reported seeing craft that fit the description of some 'Flash' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>I had just gotten off the phone with my wife and i was getting ready to go to bed. All the lights flickered and then they all went out. I was a little worried but i did not think anything of it. I went outside to see if the street lights had gone out as well and i noticed that they had.I began to walk back into the house when i heard a noise that sounded like a train. It was very loud and i thought it was coming from the sky so i looked up and i saw a bright flash of light. It was so intense that i turned away and i remember the sensation of falling.The next thing i knew i was opening my eyes to find the light from the street lamps shining on me. I thought that i had just passed out but when i went back into the house i noticed that it was four o'clock. I do not know what happened but i think i was abducted. There are numerous bruises on my body. Some on my neck but most around my genital area. I also had a powerful urge to piss but i could not.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17198.html](http://www.nuforc.org/webreports/reports/017/S17198.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Worksop (UK/England) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Undetermined shape, with wings and fin, with continuous row of lights round the side and back, with red green and orange lightsHi   I was on my way home from work, it was 00.56am sunday morning, I saw something in the sky with a row of lights underneath all different colours, red orange and green. it was slow moving at cloud level, and was larger than most planes would be at that hight, nearly double the size. i pulled over and watched it for 5 + minutes, until i could see the rear of it, and it too had a row of flashing lights, I thought I could make out wings and a fin pointing upwards. can't confirm shape, as memory hazing over since i got home from seeing it. i called the police straight away. I tried to take a photo of it with my phone, but my phone would not pick up the image, all it could see was black sky. it was very slow moving, slower than a plane would be.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63342.html](http://www.nuforc.org/webreports/reports/063/S63342.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/163/S163034.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162551.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162582.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162764.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
