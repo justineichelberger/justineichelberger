@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:24 on 7 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:22 on 7 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 20:03 - 20:03 minutes.</sub><blockquote><sub>The object was as high as a star and it was moving kinda fast leaving no trail of dust or light. Soon after, it stoped and vanishedAt about 8:30 pm me and my cousin was sitting on the porch talking. Thats when I looked up at the sky and noticed what seemed to be a star moving.I have seen a shooting star before and I know that what I saw was not. I live in Miami and airplanes can be seen alot at night but this object was way to high to be an airplane. Like i said it appeared to be a moving star. I then stopped my cousin in the middle of the conversation and said "a look in the sky and tell me what you see". At first he said i cant see anything then  I pointed him in the direction and his response was "what the @#$%". We watched it move in the same direction and then it just stopped and vanished. We talked about it for a while after the sighting and we could not come to a conclusion to what we witnessed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36054.html](http://www.nuforc.org/webreports/reports/036/S36054.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Barrie (Canada) (ON) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.0 - 0.0 minutes.</sub><blockquote><sub>FROM WHAT I COULD SEE IT FLEW THROUGH ABOUT 20 OR 30 MILES OF SKY IN LESS THAN 6 OR 7 SECONDSI FIRST SAW IT FLY FROM SOUTH TO NORTH AT VERY HIGH SPEED THEN GOING OUT OF VIEW, THEN ABOUT 10 SECONDS LATER IT FLEW BACK SOUTH ABOUT HALF THE DISTANCE THAT IT CAME FROM.  IT SLOWED DOWN ALMOST TO A STOP AND DID 2 COMPLETE 360S ON A DOWNWARD SPIRAL AND THEN WENT BACK TO THE NORTH AND DISAPPEARED -  IT DID THIS MANOUVER IN LESS THAN 3 SECONDS COVERING WHAT I COULD TELL WERE MILES.  FROM WHAT I COULD SEE IT HAD A BODY ALMOST LIKE A SMALL AIRCRAFT WITH A LIGHT SOURCE ON THE LEFT AND RIGHT SIDES.  THE LIGHTS WERE NOT FLASHING OR SHINING BUT IT WAS EMITTING LIGHT.  IT WAS VERY DISTURBING.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80799.html](http://www.nuforc.org/webreports/reports/080/S80799.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/162/S162568.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162566.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162563.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162565.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
