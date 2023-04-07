@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:23 on 7 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 7 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in De Pere (WI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately Only saw it in photos aft - Only saw it in photos aft minutes.</sub><blockquote><sub>When I got home and looked at pictures I took off the sun setting, I noticed what looked like an orb with lights in it.  In the first photo, it appears to be in the sky; in the second photo, it appears to be in the water; in the third, it's in the sky again.  There was a small partial rainbow in the sky during the time the photos were taken.((NUFORC Note:  Small, round object in photo is lens flare, caused by pointing a camera at a bright object.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133484.html](http://www.nuforc.org/webreports/reports/133/S133484.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Fort Lauderdale (near) (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>On April 7 or 8, a relative happened to notice a bright white light directly above while looking for Venus and stars.  He was outside his workplace and had to be at his station by 22:00.  He observed the light change  gradually from a point to a ring.  The ring produced a cloud or smoke from inside its circumference.  He then went to work.  I assume the ejecta were also white in color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155191.html](http://www.nuforc.org/webreports/reports/155/S155191.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/162/S162568.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162566.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162563.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162565.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
