@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:23 on 6 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:35 on 7 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Saint James (MN) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I saw a cluster (7 min.) of tiny lights stationery in the sky like stars with shimmering lights for at least a half hour.I looked out my window as I was in bed and noticed a cluster of tiny lights in the sky. I thought at first that it was an airplane but the cluster didn't move. I watched diligently for about a half hour before falling asleep. The lights shimmered slightly and stayed in the irregular shaped formation. At 2:30 A.M. I awoke and checked the area in the sky. The cluster had disappeared. This was a very clear night I have seen reflections from satellites and man made objects in space but this did not appear like those. I couldn't estimate a distance but it looked like tiny stars. The shimmering lights reminded me of looking through an astronimic telescope and seeing the atmospheric shimmering effect. I am a retired Industrial Designer, of sound mind, and always interested in details. This is the only sighting I have witnessed of a supposed anomaly in space.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28342.html](http://www.nuforc.org/webreports/reports/028/S28342.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Amarillo (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A very long string of white lights appearing to be of the same enormous object configured in a line traveling silently at a high speed.Very visible long straight line of white lights, not blinking but constant, very close together appearing to be originating from the same craft.  Craft was moving from NW to SE at a rapid rate but gave no sound at all. Craft appeared to be high in the sky, approximately 7000 ft.  Was not low, which adds to the enormous size of the craft.  Craft faded out very high in the sky after passing over, which again proves it was enormous and not an optical illusion. Craft flew at a constant speed.  Could not see a defined shape of the craft, only the lights. Took photo with camera on phone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162565.html](http://www.nuforc.org/webreports/reports/162/S162565.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/163/S163034.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162551.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162582.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162764.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
