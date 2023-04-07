@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:26 on 7 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:24 on 7 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Las Cruces (NM) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Black disc with greenish/bluish/white corona traveled parallel with I10 between Las Cruces and El Paso.Heading south along I10 towards El Paso, an enormous, black, disc-shaped object flew parallel with I10 at a high rate of speed, heading south/southeast on the right side of the highway between Las Cruces and El Paso. It had a brilliant corona effect with white closest to the disc-shaped field of black and then bleeding out into light green and blue pastels.  Underlit by the reddish haze that seems to hang over El Paso, it looked like a round rainbow with a pitch black center as it remained heading south.  In my mind it was momentarily accepted as a meterorite, until it veered sharply back on it's path heading east/northeast and appeared to go into an almost oval shape as it shot past directly back over the city of Las Cruces.  It should have been visible to anyone traveling on I10 south that morning.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/006/S06169.html](http://www.nuforc.org/webreports/reports/006/S06169.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 20:03 - 20:03 minutes.</sub><blockquote><sub>The object was as high as a star and it was moving kinda fast leaving no trail of dust or light. Soon after, it stoped and vanishedAt about 8:30 pm me and my cousin was sitting on the porch talking. Thats when I looked up at the sky and noticed what seemed to be a star moving.I have seen a shooting star before and I know that what I saw was not. I live in Miami and airplanes can be seen alot at night but this object was way to high to be an airplane. Like i said it appeared to be a moving star. I then stopped my cousin in the middle of the conversation and said "a look in the sky and tell me what you see". At first he said i cant see anything then  I pointed him in the direction and his response was "what the @#$%". We watched it move in the same direction and then it just stopped and vanished. We talked about it for a while after the sighting and we could not come to a conclusion to what we witnessed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36054.html](http://www.nuforc.org/webreports/reports/036/S36054.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/162/S162568.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162566.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162563.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162565.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
