@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:35 on 7 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:35 on 7 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Cardross (UK/Scotland) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>it was a green fireball like a firework or a flare coming from the sky and it lit up the road which i was driving on, it then flew across the sky and exploded into a massive green light and then disappeared.As i was driving home on a dark road on my own when the sky above me suddenly lit up in a bright green colour and a fireball like object travelled across the sky like a flare or comet then it exploded into a massive green light then disappeared. as it flew across the sky it left a trail of the path it flew but when it disappeared the trail disappeared with it. the area was totally dark with no road lights for a few miles and i was the only car in the area. a friend of mine also seen the ufo at approximately the same time but in a different area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12563.html](http://www.nuforc.org/webreports/reports/012/S12563.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1963, an anonymous witness in Vero Beach (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Vero Beach Fla, 1960's; low, huge hovering disk over highway shooting colored lights out the back  with illuminated windows.In about 1963, making me about 10 yrs old, and my family, (my father, a mechanical engineer for Carrier Corporation, my Mother, and my 15 yr old sister, all of sound mind), were on a highway in Vero Beach Fla.just about 8 PM, as I remember.Just above us, appeared a stationary UFO, hovering without sound.This was huge and very close overhead, causing all traffic to come to a halt.People exited their cars and just stared at this huge metallic disk with white lights in windows, shooting colored lights out the bottom in one horozontal direction; red, green- I can’t remember how many colors absolutely. It was a clear, unobstructed, overhead view.It was nothing else, but a UFO, and everyone outside their cars were pointing at it.  We got in the car to continue to our lodging, watching the news for an explanation.  In the morning, the newspaper or TV (I can’t remember, but my parents said that the reports of the sighting were numerous, but the official release was "weather balloons").My family knew that explanation was impossible.   I remember how disappointed we were that they were NOT truthful in disclosing what it really was! We then visited my grandparents (in Vero Beach) and they were telling them about the UFO sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84899.html](http://www.nuforc.org/webreports/reports/084/S84899.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/162/S162568.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162566.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162563.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162565.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
