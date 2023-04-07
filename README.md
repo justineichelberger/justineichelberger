@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:49 on 7 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:28 on 7 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Richmond (near) (VT) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two lines of horizontal lights stationary.Driving down interstate by Richmond there were two horizontal lines of lights about six lights on each level it hovered stationary while we drove under it we had photographed it but the photo did not come out so well</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118279.html](http://www.nuforc.org/webreports/reports/118/S118279.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in San Jacinto (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright light craft flew with no soundAt approximately 20:00 hrs on April 7th, 2014 (San Jacinto CA), I was sitting by our front porch having a cigarette and talking with my brother.  I looked at the constellation Orion by chance and then I seen a bright light come from the right side of Orions belt and leg.  It just blinked on very bright and travelled West to East.  There were no beacon lights or navigation lights to be seen.  It then took a slight curved path that then went North East.  I noticed a very small vapor trail.  This object gave no sound (piston plane engine or jet noise) that could be heard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108426.html](http://www.nuforc.org/webreports/reports/108/S108426.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/162/S162568.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162566.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162563.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162565.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
