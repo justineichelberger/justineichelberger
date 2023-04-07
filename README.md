@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:26 on 7 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:27 on 7 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Millville (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>Now the weren't ufos but the other day we seen at least 5 craft heading directly into space and a few weeks ago maybe a week i the biggest ring around the moon the give an example take ur pencil and make a normal circle now put a small dot in the middle (the moon is the dot).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126779.html](http://www.nuforc.org/webreports/reports/126/S126779.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Grindelwald (Switzerland) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Wonder it is a snow particle or a metal thing.We found the objects in the picture almost 2 and half months later when we were rearranging the pictures taken during Europe travel on early April.AT the first time when I saw the objects in the picture, I thought it was just dust or snow particle.  But when I enlarged it, I noticed it can be something else.Please identify what this is.((NUFORC Note:  We have not received the photos, yet.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141971.html](http://www.nuforc.org/webreports/reports/141/S141971.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/162/S162568.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162566.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162563.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162565.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
