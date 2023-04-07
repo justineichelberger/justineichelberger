@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:34 on 7 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:47 on 7 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Fort Lauderdale (near) (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>On April 7 or 8, a relative happened to notice a bright white light directly above while looking for Venus and stars.  He was outside his workplace and had to be at his station by 22:00.  He observed the light change  gradually from a point to a ring.  The ring produced a cloud or smoke from inside its circumference.  He then went to work.  I assume the ejecta were also white in color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155191.html](http://www.nuforc.org/webreports/reports/155/S155191.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in El Dorado Hills (Sacramento) (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Plane/Comet looking craft in Sacramento area.I was just about to enter the building where I work and I happened to look West and I noticed what appeared to be an airplane (very slow moving). The craft was only visible as a orangeish reddish light about the size of two large stars. I watched it for about ten seconds or so and looked down for about 5 seconds. When I glanced back up the craft had covered a pretty good amount of distance, became twice as bright, three times as large, and appeared to be shining a broad flood light just south of my location, which I found very odd. As I continued to watch I noticed low hanging, wispy clouds which accounted for the distinct appearance of the "beam" of light, but now the light spread was facing the rear of the craft. The object now looked like a comet without the long tail. At this point it now had my complete undivided attention, which is good because the next event made me cast all doubts as to weather or not this was a publicly known craft. In a odd way the craft had now either exploded or accelerated in  a completley different direction, the best I can describe is NNW (45* difference in original path) and about 10* higher. When it did this, a very distinct shockwave caused the surrounding clouds to curl on themselves, similar to a plane breaking the sound barrier but in a much larger fashion (no noise at all for the entire duration of sighting). When this happened, the appearance of the craft slowly faded out. From the time I looked back up at the craft to the time it was no longer visible was about 50 seconds or so. I have seen many many meteors, 1 meteorite and a couple of balzacks (the term I believe is given to a meteor exploding in the atmosphere, occasionaly audible) and as far as my experience has taught me, this was niether a rock nor known plane. Perhaps it was a satillite re-entering but I was under the impression that those are brighter and not nearly as slow moving. This craft did not at any time leave a debris trail as such other objects tend to do. In summary, it looked like a very slow moving plane at first with no blinking lights, then it looked like a police helecopter with a searchlight (but MUCH broader) and then a comet without its charachteristic long tail and finally, *pow*, gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50004.html](http://www.nuforc.org/webreports/reports/050/S50004.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/162/S162568.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162566.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162563.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162565.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
