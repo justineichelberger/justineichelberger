@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:12:10 on 7 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:35 on 7 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Bacolod (Philippines) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>We saw a changing colors circular object here in Bacolod Cityme and my sister heard a news in the radio that people in one of the places here in Bacolod City saw a UFO,so we also decided to go out of the house to prove if what said in the radio is true.then we saw this circular object floating in the air,it was changing it colors,it changes from green to blue and turn to red and i can also see it changes to orange.it is moving very slow and it is i think just 20 to 23 kilometer s high from the ground.it then flew away after i think more or less than 10 seconds.But not only us saw the UFO,many people here in Bacolod saw this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36330.html](http://www.nuforc.org/webreports/reports/036/S36330.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Cardross (UK/Scotland) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>it was a green fireball like a firework or a flare coming from the sky and it lit up the road which i was driving on, it then flew across the sky and exploded into a massive green light and then disappeared.As i was driving home on a dark road on my own when the sky above me suddenly lit up in a bright green colour and a fireball like object travelled across the sky like a flare or comet then it exploded into a massive green light then disappeared. as it flew across the sky it left a trail of the path it flew but when it disappeared the trail disappeared with it. the area was totally dark with no road lights for a few miles and i was the only car in the area. a friend of mine also seen the ufo at approximately the same time but in a different area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12563.html](http://www.nuforc.org/webreports/reports/012/S12563.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/162/S162568.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162566.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162563.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162565.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
