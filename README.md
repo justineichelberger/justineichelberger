@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:44 on 7 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:34 on 7 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Black, shape changing high altitude objects, one stationary, one changing shape and movingTwo objects, very high, visible from walking lost dog wash.  Objects changed from appearing thin to thick. They were very black in color.  The higher altitude object was motionless, the smaller craft was swaying.  When we left they had disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154847.html](http://www.nuforc.org/webreports/reports/154/S154847.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Lake Stevens (WA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Object vanished behind a tree.I seen the chrome looking object slowly moving across the the sky along the tree line.  As it was coming closer I could see a heatwave coming off the back of it.  It started going behind a tree but never appeared from the other side.  The object was maybe the size of a small plans.  It made no sound or made no fast movements it just vanished as soon as it appeared.  Very soon after it was gone I seen a complete black helicopter fly past the area I seen the object.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108144.html](http://www.nuforc.org/webreports/reports/108/S108144.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/162/S162568.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162566.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162563.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162565.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
