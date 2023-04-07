@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:34 on 7 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:49 on 7 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Brentwood (contra costa) (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>UFO in the EAST BAY,CA 4/07/2008?Huge Boomerang shaped gliding silently about 30 feet from the roof of my house. I thought it was a glider but theres no light and it is 30X the size of a regular glider and it is gliding at night. No sound, no light. I just saw it by accident while star gazing looking towards the Big Deeper. It was green and black in color. Maybe a stealth bomber? but flying way too low and has a different shape. Anyone else had seen this object on monday night in the East Bay area of California?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62800.html](http://www.nuforc.org/webreports/reports/062/S62800.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Richmond (near) (VT) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two lines of horizontal lights stationary.Driving down interstate by Richmond there were two horizontal lines of lights about six lights on each level it hovered stationary while we drove under it we had photographed it but the photo did not come out so well</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118279.html](http://www.nuforc.org/webreports/reports/118/S118279.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/162/S162568.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162566.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162563.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162565.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
