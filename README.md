@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:35 on 8 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:23 on 8 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Baltimore (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Stationary white light then picking up speed from the east to the west; arcing across sky; too fast for planeStationary light (slightly larger than a star & slightly brighter); then travelled at an increasing speed from almost due east, going towards the south. Angle of original trajectory was about 20 degrees upwards towards the south and bending in a south-southeasterly direction; slowly, at first, then increasing its speed (was much faster than a plane, that would appear as the same size). Travelled in a small arc (towards the west), until going out of sight. There were no colors; just the bright white star-like dot. No sound (although it looked too high for any sound to be detected.)When first seen, it was slightly above the tree-tops in the east of my position. Could easily be seen, even with the ground lights below it. (Had a similar sighting about 10 months ago, which was not reported)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56152.html](http://www.nuforc.org/webreports/reports/056/S56152.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Cheshire (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two bright lights merging then disappeared over herizon.I was on my porch smoking a cigarette when I looked at mount graylock when I noticed two very bright lights that flew parallel to each other for about ten minutes before merging into in to one another they were about the hight of a commercial plane and about the same size but we have planes go over head all the time at night the light was steady not blinking and it was no plane I have ever seen</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118434.html](http://www.nuforc.org/webreports/reports/118/S118434.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162557.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162556.html)
-- [251](http://www.nuforc.org/webreports/reports/162/S162559.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162554.html)
-- [249](http://www.nuforc.org/webreports/reports/164/S164665.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
