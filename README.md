@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:57 on 8 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:24 on 8 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Rosemount (MN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Seen UFO when getting a little airI went outside last night because I wanted to get some air from cooking all day and I looked at the sky because I wanted to se the stars like I always do. Then about 3 minutes later I see a disk like object in the sky floating there. I thought that it was a star at first because it was a little bright. The object left an aura and had lights. I stared at the disk and was stunned. The disk floated in the same spot for about two minutes then it zipped away in almost a blink of an eye. I was very stunned to see what had happened.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88287.html](http://www.nuforc.org/webreports/reports/088/S88287.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Quakertown (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Saw circular object in the sky holding steady which did not appear to be a star.  I filmed it and watched it for a while until it started to lift up and disappear.  I then watched the video and it appear to be constantly slightly moving in the sky during the video and the bottom was lit up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154994.html](http://www.nuforc.org/webreports/reports/154/S154994.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162557.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162556.html)
-- [251](http://www.nuforc.org/webreports/reports/162/S162559.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162554.html)
-- [249](http://www.nuforc.org/webreports/reports/164/S164665.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
