@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:30 on 8 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:21 on 8 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Indiana (IN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>mysterious trip to indianaIt was about 5:00 am, me and my mom were on our way back to our house in indiana (we were visiting chicago and i had to go too school monday) so anyways we were near ALOT of wind mills and i starzed to o see this ovalish strange looking shape move up, and i told my mom about it and she quickly turnes around and saw it and i also noticed it had 3 legs, to land on.   So im going to go through it again it had an ovalish shape, a big window in the front or side, and 3 legs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97062.html](http://www.nuforc.org/webreports/reports/097/S97062.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Glouster (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>3 lights in a triangle shape over a few housesA few minutes before 1:00 am, I exited my house and went next door to my apartment to reheat some dinner, as I am redoing my kitchen and use the apartment to cook.  Around 10 minutes after 1:00 am, I was making my way back up to the house to eat, when I looked across the small downtown area and saw a trio of lights above a house and some trees on the top of the eastern hill.  I paused for a few seconds trying to make out what I was seeing as I have lived in this house for over three years and do not recall seeing the light before.Since I live on the smaller hill on the western side of the city we do experience a fair amount of fog, as it was slightly foggy on this night so I was unable to see any craft, just the three lights in a triangle pattern.After I ate, my dog started to whine, so I took him out.  This was at least 15 minutes later, and possibly 20 minutes.  I took him to the spot he prefers and looked across to the lights again.  At this point I saw what I can only explain as a shimmer.  The rear most light shimmered as if someone put a fine cloth in front of it. This happened at least twice as I looked away as my dog started growling.  He was also looking across to the area of the lights.This part becomes a little odd for me as I just wanted to get back inside and return to playing a game online.  I paused at the door and looked at the light one last time saw only the back light shimmer one more time and I went inside.  I thought as I went in the door I was going to get my binoculars and see if I can see anything, but I just didn't feel like it.The next day as I had made my way back up to the house after eating breakfast I paused and looked across to the hill on the other side of town, no more than half a mile away and maybe only one quarter of a mile, I did not see the new cell phone tower that I was sure had been installed in that area, or at least that is what I felt I had saw the previous night.The light, from my estimate was about 50-75 feet above the house and didn't move during the 15-20 minutes that the light was there</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118462.html](http://www.nuforc.org/webreports/reports/118/S118462.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162557.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162556.html)
-- [251](http://www.nuforc.org/webreports/reports/162/S162559.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162554.html)
-- [249](http://www.nuforc.org/webreports/reports/164/S164665.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
