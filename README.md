@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:29 on 8 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:26 on 8 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Noida (India) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>It was making some smoke like aeroplane does and going upward in an 60 degree angle and triangular in shape as the twinking light was in triangular. Seen for 3 minutes approx.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88281.html](http://www.nuforc.org/webreports/reports/088/S88281.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Beardstown (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>30-50 white/silver discs in broad daylight.While in the dentist's chair, I looked out the window and saw 30-50 objects in 2-3 tight formations hovering in the western sky.  All of the objects were identical in size and shape and very near each other, in patterns not unlike that of birds.  The objects were white, and in the course of their movements tilted from side to side.  It was a clear day, and when the objects tilted toward the sun, they flashed silver glints.  They remained in the same patch of sky for the entire 10 min. + period, moving up and down slightly.  One group of objects, on the right hand side of the cluster, swirled around each other.  As far as I could tell, none of them ever bumped into each other or crossed paths, and there was always the same amount of space between them no matter which direction they moved.  I got to look at them twice, but the third time I checked, they were gone.  I didn't see what direction they moved off, or at what speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50051.html](http://www.nuforc.org/webreports/reports/050/S50051.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162557.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162556.html)
-- [251](http://www.nuforc.org/webreports/reports/162/S162559.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162554.html)
-- [249](http://www.nuforc.org/webreports/reports/164/S164665.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
