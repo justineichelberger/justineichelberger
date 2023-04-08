@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:26 on 8 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:30 on 8 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Fortuna (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>3 weeks of nightly sightings of several white hot glowing UFOS.So this sighting may be a bit unique because it is current and ongoing.  The sighting I have entered in is the most significant one.  It actually goes back to April 3, 2018, until this morning (April 19, 2018).  On April 3, I was letting my dog out the side garage door facing east.  Up about 30 degrees in the sky was seemingly a very bright star which began to move.  It was very bright and did slow circles and a triangle pattern.  I watched for about ten minutes and went to let the chickens out and went around to the backyard and spotted another southwest a bit higher in angle in the sky.  I had to go to work so the sighting ended.  That night there were objects in the same location in the sky and one more due west.  It was a very clear night and star filled.  These stick out because of how bright they are.  White hot light that sparkles.  As I scanned the sky I noticed 4 more in other locations.  I didn't pay attention to the others however because of the significance of ! the other 3.  Every clear night and early morning since then I have spotted these and have spoken to a close friend and a few other people that have seen them.  The significant report that I have filled into the boxes is the Sunday night following the incident.  We contacted one another via text message and updated on what we were seeing.  The three main ones were in the same positions in the sky plus I spotted 9 more.  The three main ones have stayed in the same locations only deviating by a few miles sometimes getting sort of close and sometimes out towards the ocean.  They appear daily from approximately 20:00 to 6:00.  The pattern changed last night and they are no longer in the same locations.  I spotted one east and one west that seemed very close to town.  The flying patterns don't deviate much from circles to dipping up and down, sometimes dipping down and back up in a teardrop shape.  They seemingly look like they are scanning around or signaling something.  My parents live 12 miles south, and they have been seeing them west over the mountains towards the ocean.  These sightings are picking up attention in the area.  I didn't file a report at first because the photos and videos I have are only like stars in appearance and don't do them justice.  They should be seen in person.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139511.html](http://www.nuforc.org/webreports/reports/139/S139511.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Indiana (IN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>mysterious trip to indianaIt was about 5:00 am, me and my mom were on our way back to our house in indiana (we were visiting chicago and i had to go too school monday) so anyways we were near ALOT of wind mills and i starzed to o see this ovalish strange looking shape move up, and i told my mom about it and she quickly turnes around and saw it and i also noticed it had 3 legs, to land on.   So im going to go through it again it had an ovalish shape, a big window in the front or side, and 3 legs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97062.html](http://www.nuforc.org/webreports/reports/097/S97062.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162557.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162556.html)
-- [251](http://www.nuforc.org/webreports/reports/162/S162559.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162554.html)
-- [249](http://www.nuforc.org/webreports/reports/164/S164665.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
