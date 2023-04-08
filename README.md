@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:27 on 8 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:31 on 8 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Oley (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A bright star looking object very quickly rose straight upward out of sight.We were driving home from eating (My stepmom, my dad, and I), when I saw what I thought was a star iin the sky. I soon noticed that it was awfully bright and in an area where no other stars were. I kept an eye on it, and it wasnt doing anything, then all of the sudden, it started going quicklystraight upward. In a few seconds, it had dissapeared from sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50032.html](http://www.nuforc.org/webreports/reports/050/S50032.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Summary : large, erratic, black object, movement reminiscent of paper falling, almost invisible edge on.Hmmmm- perhaps you can help clear up an incident that has been nagging at me.  I was attending the National Association of Broadcasters convention in Las Vegas starting 4/5/97- I believe it was Tuesday the 8th, about 8pm, I looked out the window of the Flamingo Hilton and saw what looked to like a dark piece of paper caught in an updraft. It shifted erratically in a descending pattern and at times almost disappeared from view when it was "on edge". As the object moved lower and it became framed by the backdrop of mountains I came to the conclusion that it was much farther away than I had initially thought and well outside of the city.  I tried to reassess the scale of the object, but found it difficult. At a guess I would say the object was 15 or more miles from the city and looked like a windblown piece of construction paper at 100 feet. The scale of horizontal and vertical shifts in trajectory also took on the appearance of a much greater distance and considerable implied ! speed. The object dissappeared from view perhaps 10-15 seconds after initial siting. Perhaps 2 or 3 minutes later 2 sets of dual vapor trails emmerged along the horizon and as they reached the point where the object appeared to have descended the planes (these were obviously planes and what looked to be military planes) forked out in opposite directions. I mentioned it to a couple of colleagues in the airport the next day on the return to Seattle, a woman in line overheard me and suggested that it could have been a Stealth aircraft. Could be- my impression was that if it was "a plane " it was only a piece of it- perhaps a wing. I am not convinced that I saw a "flying saucer". But by any definition it was an unidentified flying/airborn object that evoked a military response. Do you have any other reports of objects seen or military maneuvers in that locality at that time?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02567.html](http://www.nuforc.org/webreports/reports/002/S02567.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162557.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162556.html)
-- [251](http://www.nuforc.org/webreports/reports/162/S162559.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162554.html)
-- [249](http://www.nuforc.org/webreports/reports/164/S164665.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
