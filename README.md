@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:32 on 8 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:27 on 8 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Palm Springs (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Sighting above Palm Springs, California!Flying in formation above Palm Springs, CA, from southwest sky into the northeast sky, quickly disappeared with in 10-12 seconds into the horizon.((NUFORC Note:  We suspect an evening sighting, and have amended the time above.  We have requested more information about the sighting.  PD))((ADDENDUM FROM WITNESS))Sighting was 8:50 p.m..  ((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118301.html](http://www.nuforc.org/webreports/reports/118/S118301.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Oley (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A bright star looking object very quickly rose straight upward out of sight.We were driving home from eating (My stepmom, my dad, and I), when I saw what I thought was a star iin the sky. I soon noticed that it was awfully bright and in an area where no other stars were. I kept an eye on it, and it wasnt doing anything, then all of the sudden, it started going quicklystraight upward. In a few seconds, it had dissapeared from sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50032.html](http://www.nuforc.org/webreports/reports/050/S50032.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162557.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162556.html)
-- [251](http://www.nuforc.org/webreports/reports/162/S162559.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162554.html)
-- [249](http://www.nuforc.org/webreports/reports/164/S164665.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
