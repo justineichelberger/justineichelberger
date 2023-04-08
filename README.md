@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:24 on 8 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:21 on 8 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Quakertown (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Saw circular object in the sky holding steady which did not appear to be a star.  I filmed it and watched it for a while until it started to lift up and disappear.  I then watched the video and it appear to be constantly slightly moving in the sky during the video and the bottom was lit up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154994.html](http://www.nuforc.org/webreports/reports/154/S154994.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Hubbard (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Spotted in Southern sky hovering over Hubbard, Ohio.  They were reddish orange in color, no sounds, no flashing lights.  ((NUFORC Note:  High quality photo provided.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154905.html](http://www.nuforc.org/webreports/reports/154/S154905.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162557.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162556.html)
-- [251](http://www.nuforc.org/webreports/reports/162/S162559.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162554.html)
-- [249](http://www.nuforc.org/webreports/reports/164/S164665.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
