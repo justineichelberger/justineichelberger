@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 8 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:25:56 on 8 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Caribbean Sea (at sea) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Strange green object seen hovering over the Caribbean Sea.On April 8, 2017, I was standing on an open deck of a cruise ship headed to San Juan, Puerto Rico, from Grenada in the Caribbean Sea.  At 5:28 PM, EST, I began taking pictures of the sunset over the ocean.  I continued to take numerous photos until 6:31 PM.Later that evening as I was reviewing my photos, I was shocked to see an object in a frame that was taken at 6:16 PM.  It appeared to be hovering on the water.  It was iridescent green, hat shaped, and upon zooming in on the picture I could see bump like ridges.  In subsequent frames, but not all, it appeared again higher up in the sky in different positions - several times in an orb shape, and once changing shape to what I would describe as a three quarter uneven circle with clear indentations.I showed the photos to the ship’s photographer in search of a logical explanation, thinking it must have been a lens flash from my camera.  But he explained that it did not have the characteristics of same or any reflection from the sun when it appeared on the water, as it was a distinct shape.  Additionally, I showed the photos to a ship’s officer.  He replied that it looked alien in nature.The next morning I heard that some fellow passengers were baffled over observing something that seemed to be “darting” over the ocean the night before but they could not capture it on film.Sunday – April 16, 2017, 8:00 PM, EST, AHC (American Heroes Channel) aired a program called “UFOs: The Lost Evidence.”  The entire segment was devoted to the theory, supported by evidence, some from the military, that the oceans are used as bases for UFOs.  Two images shown in the television segment resembled two of my photos.  One was the hat shape with ridges.  Another was an object found on the bottom of the ocean suspected to be a spacecraft – that shape resembled one of my photos of the object when it was in the sky.((NUFORC Note:  The source of this report attempted to send photos to NUFORC, but they do not open, or perhaps were deleted from the e-mail.  We have requested that she try again.  We wonder whether the green objects may have been so-called "lens flares," caused by pointing a camera at a bright source of light.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133655.html](http://www.nuforc.org/webreports/reports/133/S133655.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Bonita Springs (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Very bright solid gold disc sighted in Bonita Springs, FLVery bright solid gold flash in the shape of an oval or disc, streaked across the sky as I drove north on Highway 41 in Bonita Springs, FL around 10pm on 4/8/09.  It too was traveling north.It was quite low, maybe 200 yards high, and moved at an incredible rate of speed.Sighting only lasted approximately 2-3 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69585.html](http://www.nuforc.org/webreports/reports/069/S69585.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162557.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162556.html)
-- [251](http://www.nuforc.org/webreports/reports/162/S162559.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162554.html)
-- [249](http://www.nuforc.org/webreports/reports/164/S164665.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
