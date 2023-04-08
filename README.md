@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:31 on 8 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:32 on 8 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Kuala Lumpur - Wilayah Persekutuan (Malaysia) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Full Description of event/sighting: I poked my head through my window to invite my friend who lives upstairs to eat dinner with me. Before going, we had a little chat. I looked up at him and suddenly noticed a black object which was hovering close by. I immediately saw it because I'm a bird-watcher, I thought it was an eagle at first. Unfortunately I was shocked when I realized it was not a bird. It is an aircraft and a weird one which I never have witnessed before. I saw that it is a black disc-shaped object, so the first thing that came to my mind is that this is a UFO. I hoped that it was actually a flattened balloon slowly dropping down, but it wasn't. It floated at the same attitude going forward. I realized that it is nothing I ever seen. I quickly told my friend to look at it to see if he saw it or not, and whether he knew what the heck it was. He looked back at me after he watched for a while. I could see the same curious look on his face. He thought it was the so-called UFO too. We looked carefully at it as it slowly hovered, just like what helicopters does. I estimated it to be about 100 meters from ground and about the size of a car. As we are living on the 5th and 6th floor we should have heard a sound coming from it, if it had of been a helicopter at that altitude. The disc flew in a very unique way, it flew like something injured, because it sloped 45 degree to the left then right then left again as it traveled along. If it was flown by humans, they would easily be affected by nausea in such aircraft. I noticed a red light flashing at the back of the craft. Since it is still bright outside, I could barely tell whether it was glowing or not, but I saw the atmosphere near it was a little lighter than normal, maybe it is due to the contrast or maybe it is shimmering. It disappeared in the distance. We noticed that no one each from our hostel actually saw the object. I'm still in shock and still try my best to understand what it was I saw!  Thank you to the witness for the report. Brian Vike, Director HBCC UFO Research Home - Phone 250 845 2189 email: hbccufo@telus.net Website: http://www.hbccufo.com</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36258.html](http://www.nuforc.org/webreports/reports/036/S36258.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Palm Springs (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Sighting above Palm Springs, California!Flying in formation above Palm Springs, CA, from southwest sky into the northeast sky, quickly disappeared with in 10-12 seconds into the horizon.((NUFORC Note:  We suspect an evening sighting, and have amended the time above.  We have requested more information about the sighting.  PD))((ADDENDUM FROM WITNESS))Sighting was 8:50 p.m..  ((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118301.html](http://www.nuforc.org/webreports/reports/118/S118301.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162557.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162556.html)
-- [251](http://www.nuforc.org/webreports/reports/162/S162559.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162554.html)
-- [249](http://www.nuforc.org/webreports/reports/164/S164665.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
