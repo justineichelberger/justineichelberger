@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:23 on 8 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:26 on 8 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Cheshire (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two bright lights merging then disappeared over herizon.I was on my porch smoking a cigarette when I looked at mount graylock when I noticed two very bright lights that flew parallel to each other for about ten minutes before merging into in to one another they were about the hight of a commercial plane and about the same size but we have planes go over head all the time at night the light was steady not blinking and it was no plane I have ever seen</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118434.html](http://www.nuforc.org/webreports/reports/118/S118434.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Fortuna (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>3 weeks of nightly sightings of several white hot glowing UFOS.So this sighting may be a bit unique because it is current and ongoing.  The sighting I have entered in is the most significant one.  It actually goes back to April 3, 2018, until this morning (April 19, 2018).  On April 3, I was letting my dog out the side garage door facing east.  Up about 30 degrees in the sky was seemingly a very bright star which began to move.  It was very bright and did slow circles and a triangle pattern.  I watched for about ten minutes and went to let the chickens out and went around to the backyard and spotted another southwest a bit higher in angle in the sky.  I had to go to work so the sighting ended.  That night there were objects in the same location in the sky and one more due west.  It was a very clear night and star filled.  These stick out because of how bright they are.  White hot light that sparkles.  As I scanned the sky I noticed 4 more in other locations.  I didn't pay attention to the others however because of the significance of ! the other 3.  Every clear night and early morning since then I have spotted these and have spoken to a close friend and a few other people that have seen them.  The significant report that I have filled into the boxes is the Sunday night following the incident.  We contacted one another via text message and updated on what we were seeing.  The three main ones were in the same positions in the sky plus I spotted 9 more.  The three main ones have stayed in the same locations only deviating by a few miles sometimes getting sort of close and sometimes out towards the ocean.  They appear daily from approximately 20:00 to 6:00.  The pattern changed last night and they are no longer in the same locations.  I spotted one east and one west that seemed very close to town.  The flying patterns don't deviate much from circles to dipping up and down, sometimes dipping down and back up in a teardrop shape.  They seemingly look like they are scanning around or signaling something.  My parents live 12 miles south, and they have been seeing them west over the mountains towards the ocean.  These sightings are picking up attention in the area.  I didn't file a report at first because the photos and videos I have are only like stars in appearance and don't do them justice.  They should be seen in person.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139511.html](http://www.nuforc.org/webreports/reports/139/S139511.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162557.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162556.html)
-- [251](http://www.nuforc.org/webreports/reports/162/S162559.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162554.html)
-- [249](http://www.nuforc.org/webreports/reports/164/S164665.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
