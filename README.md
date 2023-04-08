@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:21 on 8 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:26 on 8 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Hubbard (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Spotted in Southern sky hovering over Hubbard, Ohio.  They were reddish orange in color, no sounds, no flashing lights.  ((NUFORC Note:  High quality photo provided.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154905.html](http://www.nuforc.org/webreports/reports/154/S154905.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Rochester (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Round orange colored lights in the sky that lasted only seconds and disappeared.I was looking to the west from my front door and seen these cicles in the sky which were orange in color.They were only there a very short time and disappeared. Then my husband went to our kitchen table to get a snack to eat and looked out the window to the south west and seen what i had seen minutes earlier.By the time i got to the window to look out they had disappeared again.We didnt know what they were,but wondered if it might be a ufo.The next day i told my daughter about what we had seen and she told me to report it because another woman in the Rochester erea had seen the same thing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36192.html](http://www.nuforc.org/webreports/reports/036/S36192.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162557.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162556.html)
-- [251](http://www.nuforc.org/webreports/reports/162/S162559.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162554.html)
-- [249](http://www.nuforc.org/webreports/reports/164/S164665.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
