@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:20 on 9 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:32 on 9 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Melbrook (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>At approx 3:20am at the UPS FREIGHT parking lot, another driver and i, were talking on our way to our trucks, when a light about 400 feet above slowly passed by it was v-shaped, but the front was more u shaped, the light was super bright but did not project any light. There were no blinking lights if i even thought it could be a plane i would not bother writing, there was no noise at all, it was not a falling meteor i see them allot and know what they look like.  they are located on kneelytown road when i go into work tonight, i will bring a compass and find out for sure what direction it was moving,((NUFORC Note:  Witness elects to remain totally anonymous; provides e-address only.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69599.html](http://www.nuforc.org/webreports/reports/069/S69599.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Independence (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>7 to 10 lights in the sky an hour before sunset.  Way high in the sky moving really fast.  First few lights were white followed by green lights with an occasional yellow light and finished with 2 green lights.  Too far apart to belong to one vehicle.  I estimate 5 mile plus or minus separation between lights and maybe they were at airliner altitude.  No falling arc, no sparking like a falling star.  Just lights in the sky moving very fast in a flat plane straight west.  I estimate that due to location in the sky, they would have actually flown over south Kansas City, MO.  Total viewing period was approx. 20 seconds and occurred over a 60 degree field of vision.  Both witnesses were left wondering exactly what we saw.  Viewing took place in a Sam's Club parking lot looking directly south.  Didn't notice anyone else reacting as if they saw it too.  Have seen NO report in the local press, of course!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74988.html](http://www.nuforc.org/webreports/reports/074/S74988.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
