@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:22 on 9 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:21 on 9 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Melbourne (VIC, Australia) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Shocking Triangle citing on the fields of our farmI am a farmer who lives in outback Victoria, Australia. We own 7 acres of land. We live in rural Victoria with our whole family. As me and my young brother and father were walking through our land on the 9th of April on a Friday night we seen an object floating in the sky. At the beginning we dismissed it as being a helicopter but as it drew closer we grew with fear that it might be an unidentified flying object. The object was coming closer. It was probably first at 12,000 feet above but we started fearing when it dropped quickly to about 7,000 feet. The object which looked like a triangle with three bright balls in each corner was resonating a bright light from all three corners. We got very scared and ran to our home in shock and disbelief but we also kept watching it to see what it was doing. We will never forget what happened for the rest of our lives. The Triangle object then dropped in altitude to about 3000 feet then 2000 feet. It was getting closer the ground. My mother immeditly called the local police and told what was happening. The police skeptically agreed to come to our residence to see what was going on due to the fear that they could hear in my mothers voice. In disbelief we watched the object. My mather and sister were crying as my father and brother and me watched as the object vertically dropped to about 1000 feet. It then navigated for a couple of minutes around the sky brightening the fields. The object then started moving right, then it travelled directly up into the sky - then it camoflaged into a star in the sky. It was the most shocking and emotionally disturbing experience that our family experienced. We do not suffer from a family with mental health issues. The police arrived five minutes after the triangular object left vanishing vertically into the sky. We told them everything what had happened in exact detail. The police were very skeptical but told us to contact the Australia Government at http://www.defence.gov.au/ We contacted them and we are awaiting to recieve a response. The sighiting has changed our lives forever, and we have been looking for groups to discuss what we have experienced but in this rural area where we live we cannot find anything. The local people even thing we are crazy as they did not witness it. We do not know what to do and we are seeking help and we feel emotionally scared from what we experienced. It seems like the internet is the only source to find information pertaining to UFO sightings. We would like to know your advise to help us. Our family has been deeply shocked by this whole incident. And we would like some information to bring some sort of relief.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36357.html](http://www.nuforc.org/webreports/reports/036/S36357.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Weard light moving southeast of Charlotte, oval shape moving really slow,no sound or nothing, then picking up speed and disappearing in a blink of a eye!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56164.html](http://www.nuforc.org/webreports/reports/056/S56164.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
