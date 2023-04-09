@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 9 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:00 on 9 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Brantford (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Brantford Metallic orbs dancing at 500 ft., then pursued by black helicopterWhile working in my yard, a helicopter slowly approached very low and slow.  Not unusual, I live near a municipal airport.  This helicopter was different, totally black, even the windows were blacked out and had no markings.  I watched it circle the area for a few minutes until it disappeared to the south.  Still looking up, something caught my eye to north.  Two metallic orbs about 6-8 feet in diameter, 500 ft. in altitude were dancing, swirling around each other and bobbing up and down.  This went on for about 90 seconds until out of nowhere, the helicopter came racing towards the orbs at full speed.  The orbs stopped dancing, came together in formation and took off at about mach 2 to the west with the helicopter in full pursuit !  I thought: good luck trying to catch them!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80917.html](http://www.nuforc.org/webreports/reports/080/S80917.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Apr. 9, 04 Phoenix AZ a dark huge triangular shaped, noiseless object flew over my home heading due NorthOn April 9th at 9:50 pm my girlfriend and I were sitting in my backyard in Phx looking at the stars when she spotted something moving overhead. I didn't see it at first but then I saw the stars of Leo blink out as the object flew over. It was a black triangular shape that was maybe 1000' off the ground, and about 20" wide at arms length. It made no noise. As it passed directly overhead (heading due north) she noticed a line of dim orangish lights along the trailing edge. But they appeared to be more like exhaust ports than actual lights. We only saw the object for about 30 seconds. Both of us are avid amature astronomers and have witnessed a number of other sightings before. But nothing like this has ever been observed by either of us. I contacted Whiteman AFB 509th Bomber Div. but they told me they didn't have any Stealth bombers out that night over Phx. They told me I should contact Edwards AFB but they were of no help. Since then I have contacted Luke AFB but have not yet received a reply. This object moved at a moderate rate of speed but almost seemed like it was coasting in for a landing. Which is obviously not an option in my area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36447.html](http://www.nuforc.org/webreports/reports/036/S36447.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
