@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:26 on 9 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:29 on 9 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Ewing (KY) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Ambulance or UFOGoing home my wife saw what appeared to be an ambulance at our house.  I look and saw it too.  We were only about 0.1 miles away.  When we got there, there was no sign of the ambulance.  We looked around and could not see any possible cause of the lights.  We are not sure if we saw a UFO or some kind of time shift or what.  I thought this was the best way to report it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162687.html](http://www.nuforc.org/webreports/reports/162/S162687.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in New York City (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Incredible speed and amount of light projected from the object was astounding.From my 6 story building on my rooftop i was looking west towards the sunset.  I spotted what i thought to be a shooting star but came to an abrupt halt.  A bright light flying at incredibly high speed and smooth maneuvers, ascending and descending and banking.  The light would dim and brighten.  It looked to be over the Hudson River at approximately 23rd street.  The sun was setting although the sky was still bright and very pink.Within flight paths of many planes and helicopters this object had only one constant light. No flashing or colored lights.  It looked to be under 2k altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159164.html](http://www.nuforc.org/webreports/reports/159/S159164.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
