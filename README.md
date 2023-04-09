@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:21 on 9 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:21 on 9 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Fayetteville (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Orange-red fireball near Fort Bragg.I was outside in my front yard looking at stars in a clear sky. I am 37 Yrs. old. I saw a small blinking light the size of a star almost directly overhead that I knew was a plane. About 1Min. behind it was another plane. They were traveling N/NE. This is normal because I live 15Min. from Fayetteville Regional Airport and 25Min. from Fort Braggs front gate. I am used to seeing planes of all types. As are most people that live here. Suddenly under the first plane flew a orange-red fireball from out of nowhere. It left a trail like a meteor. It was the size to me of a dime at arms length. It was traveling opposite the planes (S/SW.) From the direction of Fort Bragg. The fireball passed the first plane and vanished. I figured it was a meteor. Then it reappeared and passed under the second plane and vanished again. I waited and it reappeared again and vanished. It traveled like a stone skipping on water except the stone would be vanishing every time it hit the water. It did this a total of five times and was gone almost making the horizon. This event happened at 21:10 in the evening. The object went from directly over head to the horizon in less than 5 Seconds. It was obviously in a hurry. There was no sound. The planes did not change direction afterward.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36116.html](http://www.nuforc.org/webreports/reports/036/S36116.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Pilar, Azores (Portugal) () reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A 15 year old sees a small hovering cylinder in the Azores, Portugal.I was aware of a faint pulsing sound which was keeping me from getting to sleep. This pulsing had been going on for about 7 minutes, so I decided to have a look out of my bedroom window to see what was causing this sound. I looked out, and as we live in a small village with no street lights it was hard to see. The bungalow opposite us has a 40 feet high water tower behind its garden, and I noticed a small 'trash can' sized cylinder slowly moving up and down over it.  It was hard to see what color it was, but it was light, maybe white or a pale gray. It had a domed roof.  I was able to look at it for a minute or so before it quickly headed west and gained height.  The pulsing stopped when it left. My parents laughed when I told them and said it was probably a helicopter (my dad used to fly Sea Kings for the RCAF), but I know it was too small and quiet to be a heli. Another thing I noticed was that it left a smell of burnt rubber. 100% sure it wasn't a helicopter.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69659.html](http://www.nuforc.org/webreports/reports/069/S69659.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
