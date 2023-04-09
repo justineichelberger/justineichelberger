@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:30 on 9 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:26 on 9 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Sidney (TX) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Peculiar military craft witnessed near Sydney, Texasthis isnt a report of a sighting, but it is in regards to the topic of the sighting over sydney, texas. I was stationed at Holloman Air Force Base, home of the f117 stealth fighter. The markings the individual saw were consistent with the underside rear of the aircraft. It has a feature that will deploy a rod that will grasp thick wires if it has a problem upon landing and cant brake intime to slowdown before reaching the end of the runway. Similar to carrier landings for aircraft carriers in the navy.I dought he saw a f117 though. It must be something else outhere.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44609.html](http://www.nuforc.org/webreports/reports/044/S44609.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Ewing (KY) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Ambulance or UFOGoing home my wife saw what appeared to be an ambulance at our house.  I look and saw it too.  We were only about 0.1 miles away.  When we got there, there was no sign of the ambulance.  We looked around and could not see any possible cause of the lights.  We are not sure if we saw a UFO or some kind of time shift or what.  I thought this was the best way to report it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162687.html](http://www.nuforc.org/webreports/reports/162/S162687.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
