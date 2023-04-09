@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:26 on 9 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:25 on 9 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Playa del Carmen (Mexico) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>ufo seen in playa del carmen, mexicoIt was my second night of vacation in Playa Del Carmen, Mexico. My boyfriend(22) and I(20) left a beach club around 11:00pm. We were walking home along the beach and we decided to sit down. We were sitting right under a palm tree about 2 feet away from each other facing the island of Cozumel. He told me to look up and see this shooting star. Just a few seconds later he jumps up and says that its coming back in the opposite direction. I immediately jump up and see what is a white glowing, circular object dimming in and out. I couldn’t even catch my breath, I was too shocked. It was just one light/object by itself and it seemed to be way up there with the stars. The object was shooting from star to star quicker than anything I’ve ever seen in the sky. The light then shot off and disappeared very quickly. It came and left 3 different times. I took a minute to try and replay the images in my head when it suddenly shot back into the sky. It repeated to just hover and move across the sky for about 2 minutes. It then disappeared again. I didn’t ever see it again. This experience definitely made me a believer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63294.html](http://www.nuforc.org/webreports/reports/063/S63294.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Smyrna (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>yellow (fire like) object flying thru sky at very very high speed.I dont know if it was actually a craft. Me and my 5 yr. old niece were playing on the trampoline waiting for the sun to go down, so we can star gaze. I went to show my niece one of the stars we could already see and when we both looked up there was a yellow light flying over head. The speed was great. It was gone within seconds. It was like fire yellow.  It actually looked like fire shooting across the sky. I live close to an Dobbins Air Force Base and Lockheed. I may have just been seeing the tale of a jet hitting mach speed. But normally I can hear the jets as they go buy, but no sound was coming from this. I see alot of things in the sky around here. I just mark it up to the base and Lockheed testing some new stuff. I</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36187.html](http://www.nuforc.org/webreports/reports/036/S36187.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
