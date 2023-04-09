@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:28 on 9 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:21 on 9 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Clyde (NC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>We first saw the object towards the Northwest.  It would move side to side, up and down and then disappear  for about 30 seconds then would show back up.  After doing this for 20 minutes or so it moved quickly above us.  You could see lights inside but no noise and then it sped off and was just gone.((ADDENDUM FROM WITNESS))Peter,It looked to be 1/10th the size of the moon.  It was oval in shape.  Not perfectly round though if that makes sense.  Because of its side to side movements and being stationary for minutes, I that it might be a helicopter.  I was in the Army and was Air-Assault, so I have sling loaded and have ridden in many helicopters, so I soon realized that's not what it was.  It was about 6000 feet in the air at first and it took off over our home and slowed to almost a full stop.  It was higher in elevation as it went above my home but you could see the outline.  It was kinda round and you could see a light around it coming from the inside.  Like a revolving lit restaurant looking from outside of it.  It actually started scaring me when I realized it had no sound coming from it.  It moved slow but then quickly.  Faster than a plane can fly.  The lights were a smoky white light coming from inside.  You could just see a hazy light at farther distance.  Clear when it was close.  There were no flashing lights on it.  I hope this helps as this was the first time seeing something like this.((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133975.html](http://www.nuforc.org/webreports/reports/133/S133975.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Fayetteville (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Orange-red fireball near Fort Bragg.I was outside in my front yard looking at stars in a clear sky. I am 37 Yrs. old. I saw a small blinking light the size of a star almost directly overhead that I knew was a plane. About 1Min. behind it was another plane. They were traveling N/NE. This is normal because I live 15Min. from Fayetteville Regional Airport and 25Min. from Fort Braggs front gate. I am used to seeing planes of all types. As are most people that live here. Suddenly under the first plane flew a orange-red fireball from out of nowhere. It left a trail like a meteor. It was the size to me of a dime at arms length. It was traveling opposite the planes (S/SW.) From the direction of Fort Bragg. The fireball passed the first plane and vanished. I figured it was a meteor. Then it reappeared and passed under the second plane and vanished again. I waited and it reappeared again and vanished. It traveled like a stone skipping on water except the stone would be vanishing every time it hit the water. It did this a total of five times and was gone almost making the horizon. This event happened at 21:10 in the evening. The object went from directly over head to the horizon in less than 5 Seconds. It was obviously in a hurry. There was no sound. The planes did not change direction afterward.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36116.html](http://www.nuforc.org/webreports/reports/036/S36116.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
