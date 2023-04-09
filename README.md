@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:26 on 8 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:37 on 9 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Sylvan Lake (Canada) (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>High-altitude white dot over Sylvan Lake, Alberta.  It did a curly que upwards and vanished.  3 second sighting.After listening to your coast to coast report last night (April 18, 2019), I also seen a high-altitude white object in the sky.  Just a dot really. It than did a curly que up wards and went out of sight.  The sighting lasted only 3 seconds.  I was at a political event at a ranch and waiting for the main speaker.  I was focusing on an eagle or osprey very high up in the sky over the lake.  That is the only reason I seen it.  We were 1 mile from the south west edge of Sylvan Lake, Alberta, Canada.  This happened at 7 pm, April 8, 2019.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145748.html](http://www.nuforc.org/webreports/reports/145/S145748.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Brantford (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Brantford Metallic orbs dancing at 500 ft., then pursued by black helicopterWhile working in my yard, a helicopter slowly approached very low and slow.  Not unusual, I live near a municipal airport.  This helicopter was different, totally black, even the windows were blacked out and had no markings.  I watched it circle the area for a few minutes until it disappeared to the south.  Still looking up, something caught my eye to north.  Two metallic orbs about 6-8 feet in diameter, 500 ft. in altitude were dancing, swirling around each other and bobbing up and down.  This went on for about 90 seconds until out of nowhere, the helicopter came racing towards the orbs at full speed.  The orbs stopped dancing, came together in formation and took off at about mach 2 to the west with the helicopter in full pursuit !  I thought: good luck trying to catch them!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80917.html](http://www.nuforc.org/webreports/reports/080/S80917.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162557.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162556.html)
-- [251](http://www.nuforc.org/webreports/reports/162/S162559.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162554.html)
-- [249](http://www.nuforc.org/webreports/reports/164/S164665.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
