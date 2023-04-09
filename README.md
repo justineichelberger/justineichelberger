@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:21 on 9 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:33 on 9 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Pilar, Azores (Portugal) () reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A 15 year old sees a small hovering cylinder in the Azores, Portugal.I was aware of a faint pulsing sound which was keeping me from getting to sleep. This pulsing had been going on for about 7 minutes, so I decided to have a look out of my bedroom window to see what was causing this sound. I looked out, and as we live in a small village with no street lights it was hard to see. The bungalow opposite us has a 40 feet high water tower behind its garden, and I noticed a small 'trash can' sized cylinder slowly moving up and down over it.  It was hard to see what color it was, but it was light, maybe white or a pale gray. It had a domed roof.  I was able to look at it for a minute or so before it quickly headed west and gained height.  The pulsing stopped when it left. My parents laughed when I told them and said it was probably a helicopter (my dad used to fly Sea Kings for the RCAF), but I know it was too small and quiet to be a heli. Another thing I noticed was that it left a smell of burnt rubber. 100% sure it wasn't a helicopter.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69659.html](http://www.nuforc.org/webreports/reports/069/S69659.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Edmond (OK) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>west bound I 44 10miles east okla city ok fireball flash and then something faling to ground estimated altitude 18000 feet. light so bright it was like daylightdriving westbound on I 44 10 miles east of oklahoma city ok. observed something that loooked like lightning in a distant thunderstorm however there was less than 2/10 cloud cover. Next a large fireball that turned the entire 23:45 scene into daylight. This lasted for about 5 seconds.... then a firery trail fell to the ground. x military college educated x national weather service employee.now a second tier cabinet level government employee. This event had to be observed by at least 50 to 100 cars on the interstate at the time. local radio and t.v. had nothing....This really spooked the family. Further this thing appeared to be in the flight pattter of Will Roger International Airport.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/006/S06142.html](http://www.nuforc.org/webreports/reports/006/S06142.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
