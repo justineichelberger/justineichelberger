@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:25 on 9 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:30 on 9 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Smyrna (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>yellow (fire like) object flying thru sky at very very high speed.I dont know if it was actually a craft. Me and my 5 yr. old niece were playing on the trampoline waiting for the sun to go down, so we can star gaze. I went to show my niece one of the stars we could already see and when we both looked up there was a yellow light flying over head. The speed was great. It was gone within seconds. It was like fire yellow.  It actually looked like fire shooting across the sky. I live close to an Dobbins Air Force Base and Lockheed. I may have just been seeing the tale of a jet hitting mach speed. But normally I can hear the jets as they go buy, but no sound was coming from this. I see alot of things in the sky around here. I just mark it up to the base and Lockheed testing some new stuff. I</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36187.html](http://www.nuforc.org/webreports/reports/036/S36187.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Sidney (TX) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Peculiar military craft witnessed near Sydney, Texasthis isnt a report of a sighting, but it is in regards to the topic of the sighting over sydney, texas. I was stationed at Holloman Air Force Base, home of the f117 stealth fighter. The markings the individual saw were consistent with the underside rear of the aircraft. It has a feature that will deploy a rod that will grasp thick wires if it has a problem upon landing and cant brake intime to slowdown before reaching the end of the runway. Similar to carrier landings for aircraft carriers in the navy.I dought he saw a f117 though. It must be something else outhere.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44609.html](http://www.nuforc.org/webreports/reports/044/S44609.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
