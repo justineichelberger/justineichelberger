@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:21 on 9 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:29 on 9 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Weard light moving southeast of Charlotte, oval shape moving really slow,no sound or nothing, then picking up speed and disappearing in a blink of a eye!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56164.html](http://www.nuforc.org/webreports/reports/056/S56164.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Annapolis (MD) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Stationary light over Annapolis MDLooking out at night sky-some small planes-one light that I thought was a plane did not move.  Watched it for 5 minutes and since it didn't move thought it must be a star.  I got my binoculars and looked at it and it was a sphere-white greenish in color.  The strange thing was with my naked eye it appeared it had lights or glittering like a star but through the binoculars no light appeared.  It did not move after 10 minutes--then I went inside. I have never seen anything like this in 51 years.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81014.html](http://www.nuforc.org/webreports/reports/081/S81014.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
