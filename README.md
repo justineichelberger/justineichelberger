@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:27 on 9 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:25 on 9 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lake Worth (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>ufo between clouds4/9/09 8.12 pm I went out to the parking lot   Look at the stars I looked sw then I turn right, and when I look to the north a blog transparent and camouflaged for the blue tone of the sky was moving very slowly.  Extending my arm the UFO was the size of my hand.It was oval and long, wider in the center.  The UFO kept going from the north to south and then made a very soft turn south, then turned to the west and disappeared. I went out at 8.30 and I saw the same shape coming from the sw and made a left turn, went north and then a left turn west and disappeared, all what I can see is the shape and the borders blending with the sky.  It was a blue sky with a kind of fog and the shape was between the upper and lower part of the "cloud"</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69605.html](http://www.nuforc.org/webreports/reports/069/S69605.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Newport Coast (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>As with three other postings to this sighting.  It was around 1:10AM in the south south east sky.  But from my location the fireball appear to be heading straight down toward the ocean.  It green in color, with a longish tail.  I hadn't thougt anything more about it until I read the other reports for April 9, 2000.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12681.html](http://www.nuforc.org/webreports/reports/012/S12681.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
