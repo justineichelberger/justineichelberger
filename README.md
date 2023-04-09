@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:32 on 9 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:28 on 9 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Independence (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>7 to 10 lights in the sky an hour before sunset.  Way high in the sky moving really fast.  First few lights were white followed by green lights with an occasional yellow light and finished with 2 green lights.  Too far apart to belong to one vehicle.  I estimate 5 mile plus or minus separation between lights and maybe they were at airliner altitude.  No falling arc, no sparking like a falling star.  Just lights in the sky moving very fast in a flat plane straight west.  I estimate that due to location in the sky, they would have actually flown over south Kansas City, MO.  Total viewing period was approx. 20 seconds and occurred over a 60 degree field of vision.  Both witnesses were left wondering exactly what we saw.  Viewing took place in a Sam's Club parking lot looking directly south.  Didn't notice anyone else reacting as if they saw it too.  Have seen NO report in the local press, of course!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74988.html](http://www.nuforc.org/webreports/reports/074/S74988.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Clyde (NC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>We first saw the object towards the Northwest.  It would move side to side, up and down and then disappear  for about 30 seconds then would show back up.  After doing this for 20 minutes or so it moved quickly above us.  You could see lights inside but no noise and then it sped off and was just gone.((ADDENDUM FROM WITNESS))Peter,It looked to be 1/10th the size of the moon.  It was oval in shape.  Not perfectly round though if that makes sense.  Because of its side to side movements and being stationary for minutes, I that it might be a helicopter.  I was in the Army and was Air-Assault, so I have sling loaded and have ridden in many helicopters, so I soon realized that's not what it was.  It was about 6000 feet in the air at first and it took off over our home and slowed to almost a full stop.  It was higher in elevation as it went above my home but you could see the outline.  It was kinda round and you could see a light around it coming from the inside.  Like a revolving lit restaurant looking from outside of it.  It actually started scaring me when I realized it had no sound coming from it.  It moved slow but then quickly.  Faster than a plane can fly.  The lights were a smoky white light coming from inside.  You could just see a hazy light at farther distance.  Clear when it was close.  There were no flashing lights on it.  I hope this helps as this was the first time seeing something like this.((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133975.html](http://www.nuforc.org/webreports/reports/133/S133975.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
