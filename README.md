@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:24 on 9 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:26 on 9 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Cape Coral (FL) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright shimmering object spotted at high altitude.Object spotted at high altitude.  Bright shimmering light followed by dull appearance at about 3 second intervals.  Watched through binoculars.  Appeared to be diamond shaped and stationary for several minutes and then slowly drifted off to the east.  No further information observed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126782.html](http://www.nuforc.org/webreports/reports/126/S126782.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Fremont (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>UFO Spotted in Fremont HillsHello,  I just witnessed a rather strange event in Fremont. I'm located in the Mission Hills, and noticed a very loud noise, assuming it to be an aircraft.However, it did not fly over as usual, and considering we have no airport I was perplexed. I looked out the window and assumed that it was a helicopter of some sort. However, the flight pattern and speed was unlike any helicopter, and I fail to understand why a helicopter would be in near barren hills.The aircraft made several rounds, rather than concentrating a search if it was for a search, and upon closer direct inspection it had no helicopter blades and thus was not a helicopter. However, it did have the ability to levitate. The craft was in sight for around 20 minutes, circling around a few times and eventually leaving. I do have some video off of my camera phone that I can provide. If you could provide an explanation, it would be appreciated, but as far as I am concerned, I cannot explain what I saw. This occurred at about 12:30am tonight in Fremont. There was two bright lights, one on front and back, and a bluish light.Thanks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63307.html](http://www.nuforc.org/webreports/reports/063/S63307.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
