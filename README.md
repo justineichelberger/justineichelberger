@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:32 on 9 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:26 on 9 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately Ongoing - Ongoing minutes.</sub><blockquote><sub>Triangle shaped craft sighted in Chicago sky making unnatural movements.Tonight I walked outside to smoke a cigarette on my front porch.  It's a very clear night right now.  I looked off to the southern sky and noticed what I thought must be a satellite.I have lived near ohare airport for most of my life, this was absolutely not any type of airplane.  The light had a reddish rusty tinge to it.  It appeared to be slowly moving towards the west, in a steady motion.  After roughly 30 seconds of observation it immediately changed its direction.  I was very startled and got an immediate rush of fear.This object then appeared to sway back and forth in a slow steady way.  I got the feeling I was being watched. This object then stopped movement for a good 5 min.  I ran inside to grab my phone to take a picture. I was inside for less than a min and when I returned I noticed the object had changed position.  The object was too far up to get any good pictures. I then noticed that there was three distinct edges that had very dim lighting on them.  By now this object was almost above me, there were two closely placed lights that seemed to be on the underside of the object.I had another strong rush of fear and feeling it knew it had been spotted.  The craft then moved in arc like path beck towards the west and behind the tree line out of my sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108508.html](http://www.nuforc.org/webreports/reports/108/S108508.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Playa del Carmen (Mexico) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>ufo seen in playa del carmen, mexicoIt was my second night of vacation in Playa Del Carmen, Mexico. My boyfriend(22) and I(20) left a beach club around 11:00pm. We were walking home along the beach and we decided to sit down. We were sitting right under a palm tree about 2 feet away from each other facing the island of Cozumel. He told me to look up and see this shooting star. Just a few seconds later he jumps up and says that its coming back in the opposite direction. I immediately jump up and see what is a white glowing, circular object dimming in and out. I couldn’t even catch my breath, I was too shocked. It was just one light/object by itself and it seemed to be way up there with the stars. The object was shooting from star to star quicker than anything I’ve ever seen in the sky. The light then shot off and disappeared very quickly. It came and left 3 different times. I took a minute to try and replay the images in my head when it suddenly shot back into the sky. It repeated to just hover and move across the sky for about 2 minutes. It then disappeared again. I didn’t ever see it again. This experience definitely made me a believer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63294.html](http://www.nuforc.org/webreports/reports/063/S63294.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
