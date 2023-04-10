@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:37 on 10 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:26 on 10 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Williams Lake (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>The object was visible for approx:1 minute, it then broke into two.HBCC UFO Research is investigating sighting. Date: April 10, 2004 Time: Approx: 11:30 p.m.I took a call from a witness who resides in Williams Lake, B.C. who reported seeing a large orange shaped object sitting stationary at a distance and close to the tops of the trees. The object was visible for approx:1 minute, it then broke into two orange colored lights and disappeared very quickly. The object was seen in the southwest. No sudden moments were noted, no sound was heard. There were also clear skies that night. Thank you to the witness for the report. Brian Vike, Director HBCC UFO Research Home - Phone 1 250 845 2189 email: hbccufo@telus.net Website: http://www.hbccufo.com</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36327.html](http://www.nuforc.org/webreports/reports/036/S36327.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Tumwater (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Ball of light moved at high speed, down and then went straight up into the skyI looked up into the sky and saw what at first looked like a shooting star, a ball of light zoomed FAST down and then it went straight up. This was MUCH faster than an airplane and it went down and then up very fast, color was redish and seemed to be blinking.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162649.html](http://www.nuforc.org/webreports/reports/162/S162649.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [339](http://www.nuforc.org/webreports/reports/162/S162745.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162697.html)
-- [337](http://www.nuforc.org/webreports/reports/162/S162782.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162933.html)
-- [335](http://www.nuforc.org/webreports/reports/162/S162722.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
