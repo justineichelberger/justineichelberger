@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:44 on 10 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:12:25 on 10 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Crestview (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately Few minutes - Few minutes minutes.</sub><blockquote><sub>White flashes in the sky and a triangular craft with three red lights.I was looking up at the stars in my backyard for several minutes when I kept noticing random flashes of white light it the sky.  The flashes were too fast to be a shooting star, and came too close to my house to be a shooting star.  By then I was intently looking at the sky to find some sort of explanation, when I saw a triangular shaped cloudy craft with three distinct faint red lights at each point of the craft.  The object was entirely silent and shot across the sky and disappeared behind the tree line.  Seconds later I saw one more flash through the trees where the plane disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108565.html](http://www.nuforc.org/webreports/reports/108/S108565.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Freeport (TX) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Rectangular, spinning, multi-colored UFO after seeing two shooting stars leaving green trailWe first saw, what we thought, were two shooting stars.  They were very very bright both leaving behind a green trail.  Not long after the sun started to rise and we noticed a very bright light in the sky.  It moved in very fast motions.   It looked like it would go miles the the left or right or up and down within seconds.   When zoomed in on with camera it looked like a rectangle standing vertical and it was continuously turning.   With every side that appeared to us it was a different color; blue, red, green, etc.  Throughout watching it, it seemed like there was a colored glow around it and at one point there was like this burst of white dots that shot out from the right side of it in an open cone shape.  I got pictures of it but it turned out like a line with bulbous sections, so I'm not sure if it was moving or if it was due to me moving.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80842.html](http://www.nuforc.org/webreports/reports/080/S80842.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [339](http://www.nuforc.org/webreports/reports/162/S162745.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162697.html)
-- [337](http://www.nuforc.org/webreports/reports/162/S162782.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162933.html)
-- [335](http://www.nuforc.org/webreports/reports/162/S162722.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
