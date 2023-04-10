@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:25 on 10 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:41 on 10 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Edmond (OK) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>12 yellow fireballs that made patterns with a cylindrical object below the lights not visible with the naked eye.Approx. 12 yellow fireballs were observed. Shooting up from the west horizon to the northwest up high.  The first 4 made a square then one would fade off and another would shoot up and join the others and make a triangle, then one would fade off and others would come up and make more of an arrow.  My sister and I saw it and I grabbed my cell phone and took some video.  When I uploaded the video to my desktop and larger screen you could see a cylindrical shaped object down below the lights that we could not see with the naked eye.  We were surprised to see it.  We first thought it might be Chinese lanterns but clearly there was control over the fireballs to make the patterns. We thought maybe drones, but then what was the cylindrical shaped object. There was no sound at all. I reported it to one of our news stations and they said they had several reports but were blaming it on the Starlink satellites that were launched on Thursday.  These were not the Starlin! k satellites that appear in a straight line.    Very strange and would love to hear a logical explanation. Here is a link to the video:  https://www.dropbox.com/s/6gb38aylbes15yp/20210410_214642no%20audio.mp4?dl=0</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162745.html](http://www.nuforc.org/webreports/reports/162/S162745.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Tumwater (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Ball of light moved at high speed, down and then went straight up into the skyI looked up into the sky and saw what at first looked like a shooting star, a ball of light zoomed FAST down and then it went straight up. This was MUCH faster than an airplane and it went down and then up very fast, color was redish and seemed to be blinking.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162649.html](http://www.nuforc.org/webreports/reports/162/S162649.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [339](http://www.nuforc.org/webreports/reports/162/S162745.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162697.html)
-- [337](http://www.nuforc.org/webreports/reports/162/S162782.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162933.html)
-- [335](http://www.nuforc.org/webreports/reports/162/S162722.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
