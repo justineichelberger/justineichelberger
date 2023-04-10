@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:19 on 10 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:08 on 10 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Fargo (ND) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Six pairs of side by side amber lights moving in a V formation.I was at work and on a break when I witnessed six pairs of dark amber colored lights, in a V formation, moving from SSE to NNW.  One pair of lights would be described as being two straight lines side by side similar to an equal sign, “ = “. This "=" seemed to be one craft. They were moving fast, with no sound, and were at an altitude of maybe 500-600 feet.   As there was no sound, I did not see them until they were almost directly overhead.  As I watched, the sides of the V crossed over each other and then “swirled” together.  At that point, they separated out again and they either increased speed and disappeared in the distance or just blinked out.  I really couldn’t say which it was. I am a veteran police dispatcher and can honestly say I have always been a little skeptical when I took calls reporting this same type of report.  Never again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74970.html](http://www.nuforc.org/webreports/reports/074/S74970.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>A soft white couple of opposing chevrons flew silently over.I am a sober middle aged man with glasses. I haven't been diagnosed with mental illness nor ever had a hallucination, to my knowlege. I was outside on my front porch which faces West when movement in the sky drew my attention. I saw a soft white series of lights that looked more like reflections of moonlight than self luminous. There seemed to be two chevrons, one pointed forward and one pointed to the rear at a slight askew, upwards angle, with a distorted, perhaps reflective area between. It blocked out the stars and hazy high level clouds as it passed but some distorted lights seemed to be reflected in the area between the chevrons, which I assumed were reflected city lights. It's size was slightly larger than a silver dollar held at arms length.  Within 4-6 seconds it passed from about 40 degrees to the Southwest to 45 degrees to the Northeast where it faded from sigh. It made no sound and there was no way to judge speed or size, other than getting an impression that it was larger than a private plane in size and much faster than any normal aircraft, but I cannot say with certainty. There were no standard navigation or running lights and I am fairly familiar with aircraft. I am convinced this was something unusual. This was over Tucson, between downtown and the University.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162782.html](http://www.nuforc.org/webreports/reports/162/S162782.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [339](http://www.nuforc.org/webreports/reports/162/S162745.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162697.html)
-- [337](http://www.nuforc.org/webreports/reports/162/S162782.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162933.html)
-- [335](http://www.nuforc.org/webreports/reports/162/S162722.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
