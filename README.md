@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:26 on 10 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:23 on 10 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in South Whitley (IN) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bumbbell shaped ship sighted. Beings onboard!I was driving to work around 10:00am. It was April of 2000. The sky was overcast with loght grey clouds. As I was making my way around a curve in the road, something caught my eye. Something very large was moving very slowly just cross the tree tops. I slowed down even more to get a good look at this thing. I stopped and hung in the air over the road about 30 yards in front of me. I stopped to look at it. It was dark grey. About 50 feet long. (The road is about 25 feet wide, and this thing was more than twice that long.) The shape put me in mind of a dumbbell. Larger sphears on each end with a narrower cylendar like center. Each end had a window that was about 5 feet high and went the width of more than half of the radius. The center cylendar also had a like window down the side. The out side of the ship was made up of triangle panles. In the window I could see at least 3 beings looking at me. The one turned his head to another, then quickly looked back at me. the other one moved very fast to the other end of the ship. I could see him through the windows. Then the ship took off with amazing speed. I hit the gas to see if I could tell where it was going. It shot off at tree top level, then made a curve up to the sky. The ship went from standing still to vanishing in less than 3 seconds. I have thought of this everyday from that moment on. I have told a few people, but it sounds kind of crazy, so I have not brought it up. Has anybody seen anything like this? It made no sounds. No lights. Nothing.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49382.html](http://www.nuforc.org/webreports/reports/049/S49382.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Langenfeld (Germany) () reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>At around 22:21 I saw a light in the shape of like a star,, however I thought plain at first but then it zig zagd and bopped up and down, I immediately started a live video, then it stopped and just stayed where I filmed for a while 10 minutes later I looked again it was gone,, at around 23:45 I incidentally looked out the window to see it zigzag its way back to the same spot where it sits,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154942.html](http://www.nuforc.org/webreports/reports/154/S154942.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [339](http://www.nuforc.org/webreports/reports/162/S162745.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162697.html)
-- [337](http://www.nuforc.org/webreports/reports/162/S162782.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162933.html)
-- [335](http://www.nuforc.org/webreports/reports/162/S162722.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
