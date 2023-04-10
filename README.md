@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:25 on 10 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 10 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Union Gap (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>a big star-like like that closed from one side to the other, not reappearingI went out back for a ciggarette as I often do, looking up at the sky.  Immediately after lighting my ciggarette I noticed something unusual, right off the handle of the little dipper.   Thinking to myself,  is that a big star, a plane ... probably a plane.  I began to watch it to see if it moved.   However, without moving, it merely 'closed' from my left to right, as if someone holding a flashlight turned away from me.  I kept watch for nearly 15 minutes without any other site of this.Keep in mind, this was little more than twice the size of any other star in the sky.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62567.html](http://www.nuforc.org/webreports/reports/062/S62567.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Chalfont (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Blue-green ball of light seen over Chalfont, PaI was watching television at home around 2:15 in the morning and the curtains to my sliding glass back door were closed but they’re very sheer so you can see right through them. My TV is right next to the door so both are within your view when you’re watching and I could clearly see the moon just above some trees out back through the curtains. The moon was low so part of it was blocked by the tops of the trees.Then, I saw a bright blue-green ball of light above the moon traveling in an arc. I got up and moved the curtains to get an even clearer look and watched it.  After about 20 seconds, it disappeared. It didn’t go below the trees because it was still above the moon and the moon was at the tree tops. It just vanished.The best way I can describe how it looked was that it looked like the end of a firework when all the balls of light are flying toward the ground and eventually going out. The only differences were that there was only one instead of multiple like a firework and there was no audible explosion beforehand. Keep in mind, it was 2:15 in the morning so an explosion from a firework or even from a flare would have been clearly audible. Also, it was much bigger than a firework remnant or flare and wasn’t flying directly at the ground like either would. It was still flying in an arc, but more parallel to the ground then anything.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88372.html](http://www.nuforc.org/webreports/reports/088/S88372.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [339](http://www.nuforc.org/webreports/reports/162/S162745.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162697.html)
-- [337](http://www.nuforc.org/webreports/reports/162/S162782.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162933.html)
-- [335](http://www.nuforc.org/webreports/reports/162/S162722.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
