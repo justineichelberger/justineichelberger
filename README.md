@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:38 on 10 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:37 on 10 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Merseyside (UK/England) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Mixed silver oval shape, sunlit reflexion centre right hits small cloud cover at speed and doesn't appear again!We have a giant expanse of sky at the back of the house. I look up to see an object moving at a very fast speed as I stepped closer to the window I begin to really notice it's shape very oval shaped, fairly fat in the middle, no wings! It didn't look like it was solely made of just one metal, hard to explain, but it looked like it had an aura around it. It was moving east to west and in a perfectly horizontal line, it was neither ascending or descending. It passed into cloud cover and at the speed it was traveling it should have been in the clearing blue sky within a few seconds! Nothing came out the other side and that is what's really puzzling to me. I know it wasn't a plane, I saw it long enough to know that, but whatever it was, at that speed, height and trajectory it had to by our law of physics come out the other side of the cloud cover, but nothing did.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162596.html](http://www.nuforc.org/webreports/reports/162/S162596.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Williams Lake (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>The object was visible for approx:1 minute, it then broke into two.HBCC UFO Research is investigating sighting. Date: April 10, 2004 Time: Approx: 11:30 p.m.I took a call from a witness who resides in Williams Lake, B.C. who reported seeing a large orange shaped object sitting stationary at a distance and close to the tops of the trees. The object was visible for approx:1 minute, it then broke into two orange colored lights and disappeared very quickly. The object was seen in the southwest. No sudden moments were noted, no sound was heard. There were also clear skies that night. Thank you to the witness for the report. Brian Vike, Director HBCC UFO Research Home - Phone 1 250 845 2189 email: hbccufo@telus.net Website: http://www.hbccufo.com</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36327.html](http://www.nuforc.org/webreports/reports/036/S36327.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [339](http://www.nuforc.org/webreports/reports/162/S162745.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162697.html)
-- [337](http://www.nuforc.org/webreports/reports/162/S162782.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162933.html)
-- [335](http://www.nuforc.org/webreports/reports/162/S162722.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
