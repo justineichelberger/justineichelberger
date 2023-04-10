@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:33 on 10 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:34 on 10 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Indian Rocks Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Watched a light hover way above night sky that swayed and dimmed in and out many times. Too high for a drone and longer than a drone would last. Seen hovering over the gulf in spurts and then eventually took off in a quick motion.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154948.html](http://www.nuforc.org/webreports/reports/154/S154948.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>White Sphere loiters than darts towards eastThis incident occurred a week and one day prior to the first incident I filed tonight  I was on a break with a coworker (he did not witness the event), and I get up to check the area between the store I work at and the one next to it. Since this area is the darkest in the entire property, I take a look at the stars and quickly notice a white brightly lit sphere (it was at a low enough altitude I could tell its shape) loitering and wandering over the sky above a nearby high school. Suddenly it "boosts" and crosses a couple degrees of the sky in less than a second, before shooting towards the east so fast it seemed to disappear in an instant.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62622.html](http://www.nuforc.org/webreports/reports/062/S62622.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [339](http://www.nuforc.org/webreports/reports/162/S162745.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162697.html)
-- [337](http://www.nuforc.org/webreports/reports/162/S162782.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162933.html)
-- [335](http://www.nuforc.org/webreports/reports/162/S162722.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
