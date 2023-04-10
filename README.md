@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:33 on 9 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:45 on 10 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Edmond (OK) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>west bound I 44 10miles east okla city ok fireball flash and then something faling to ground estimated altitude 18000 feet. light so bright it was like daylightdriving westbound on I 44 10 miles east of oklahoma city ok. observed something that loooked like lightning in a distant thunderstorm however there was less than 2/10 cloud cover. Next a large fireball that turned the entire 23:45 scene into daylight. This lasted for about 5 seconds.... then a firery trail fell to the ground. x military college educated x national weather service employee.now a second tier cabinet level government employee. This event had to be observed by at least 50 to 100 cars on the interstate at the time. local radio and t.v. had nothing....This really spooked the family. Further this thing appeared to be in the flight pattter of Will Roger International Airport.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/006/S06142.html](http://www.nuforc.org/webreports/reports/006/S06142.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Charlotte (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A red  sphere followed my car, then vanished the minute it was noticed.  Then car turned  back on.Husband was driving home at night.  He got just outside town, when his car shut off.  He said he saw a red light just behind the car, but it was moving strangly.  He saw it for a split minute, when it just vanished.  There were no other cars on the road, and there was no roads leading either direction for it to have gone off the road.  We have always seen things at our ranch in Charlotte.Neighbors have also seen the same things. There is always a diffrent experience each time.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Date may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76530.html](http://www.nuforc.org/webreports/reports/076/S76530.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
