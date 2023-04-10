@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:45 on 10 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:44 on 10 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Charlotte (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A red  sphere followed my car, then vanished the minute it was noticed.  Then car turned  back on.Husband was driving home at night.  He got just outside town, when his car shut off.  He said he saw a red light just behind the car, but it was moving strangly.  He saw it for a split minute, when it just vanished.  There were no other cars on the road, and there was no roads leading either direction for it to have gone off the road.  We have always seen things at our ranch in Charlotte.Neighbors have also seen the same things. There is always a diffrent experience each time.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Date may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76530.html](http://www.nuforc.org/webreports/reports/076/S76530.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Crestview (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately Few minutes - Few minutes minutes.</sub><blockquote><sub>White flashes in the sky and a triangular craft with three red lights.I was looking up at the stars in my backyard for several minutes when I kept noticing random flashes of white light it the sky.  The flashes were too fast to be a shooting star, and came too close to my house to be a shooting star.  By then I was intently looking at the sky to find some sort of explanation, when I saw a triangular shaped cloudy craft with three distinct faint red lights at each point of the craft.  The object was entirely silent and shot across the sky and disappeared behind the tree line.  Seconds later I saw one more flash through the trees where the plane disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108565.html](http://www.nuforc.org/webreports/reports/108/S108565.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [339](http://www.nuforc.org/webreports/reports/162/S162745.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162697.html)
-- [337](http://www.nuforc.org/webreports/reports/162/S162782.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162933.html)
-- [335](http://www.nuforc.org/webreports/reports/162/S162722.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
