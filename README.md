@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:28 on 10 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:25 on 10 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Silver Spring (MD) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>My friend and I watch them for about 20 minutes. they would go across the sky and uniform spacing and then disappear when it got to the Little Dipper.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154960.html](http://www.nuforc.org/webreports/reports/154/S154960.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Union Gap (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>a big star-like like that closed from one side to the other, not reappearingI went out back for a ciggarette as I often do, looking up at the sky.  Immediately after lighting my ciggarette I noticed something unusual, right off the handle of the little dipper.   Thinking to myself,  is that a big star, a plane ... probably a plane.  I began to watch it to see if it moved.   However, without moving, it merely 'closed' from my left to right, as if someone holding a flashlight turned away from me.  I kept watch for nearly 15 minutes without any other site of this.Keep in mind, this was little more than twice the size of any other star in the sky.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62567.html](http://www.nuforc.org/webreports/reports/062/S62567.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [339](http://www.nuforc.org/webreports/reports/162/S162745.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162697.html)
-- [337](http://www.nuforc.org/webreports/reports/162/S162782.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162933.html)
-- [335](http://www.nuforc.org/webreports/reports/162/S162722.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
