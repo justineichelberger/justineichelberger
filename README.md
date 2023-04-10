@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:28 on 10 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:28 on 10 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>GREEN SPEEDING LIGHT THAT STOPS AND THEN SPEEDS OFF AND DISAPPEARSWAS WALKING OUTSIDE HOMEDEPOT LOOKED UP SEE WHAT LOOKED LIKE A GREEN FALLING STAR, BUT IT STOPPED FOR A BRIEF SECOND THEN IT SPED AWAY AND DISAPPEARED.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133519.html](http://www.nuforc.org/webreports/reports/133/S133519.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Silver Spring (MD) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>My friend and I watch them for about 20 minutes. they would go across the sky and uniform spacing and then disappear when it got to the Little Dipper.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154960.html](http://www.nuforc.org/webreports/reports/154/S154960.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [339](http://www.nuforc.org/webreports/reports/162/S162745.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162697.html)
-- [337](http://www.nuforc.org/webreports/reports/162/S162782.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162933.html)
-- [335](http://www.nuforc.org/webreports/reports/162/S162722.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
