@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:32 on 11 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:28 on 11 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Slidell (LA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Morphing Chromatic Craft with ChaserIn the sky above our house on a clear day I spotted an object that was bright with chrome reflection. The object seemed to be about anywhere from 2000 to 5000 feet high. There where no clouds in the sky to guage height. There were no other aircraft in the sky to guage scale. My wife noticed it as well, and she agreed to keep an eye on it as I ran in the house and got my camera. I shot several images of the craft. In the max zoom of my telephoto lens (70 to 210) the object appeared to be a series of chrome spheres that seemed to be constantly moving and changing shape. Several times the objects formed a verticle "V" shape. The "V" shape was made twice in a very short time of say 3 seconds. I have photos of this, (as negatives as I haven't developed the images yet.) The group of orbs totaled 7 objects in all. They approached our house from the west and then began to travel south once they where over our house. Soon another sigular orb apeared from the north and started to follow the grouped orbs south. The group of orbs picked up speed slightly, and were soon covered from view by trees. Sight was lost on the sigular orb after the group moved south. The group continued to change shape the entire sighting. I reported this with the understanding that I may be reporting a few Mylar baloons that got loose from somewhere. I have access to Mylar baloons at the car lot I work at but, I have never seen them behave in the manner I have described. I will update this story after I have the photos developed.  I have included an illustration for reference.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36334.html](http://www.nuforc.org/webreports/reports/036/S36334.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Canterbury (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Orange light in the skyOn April 11 at 2:17 am my girlfriend and I were driving to work on I-93 South in NH near the Canterbury Exit.  We both saw an orange light traveling through the southwest sky from right to left diagonally towards the horizon.  The light was dark orange in color and did not have a tail. It travelled for approximately 3 seconds and then disappeared.  It travelled fast than a satellite but slower than a meteor and did not appear to fizzle out, it just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118421.html](http://www.nuforc.org/webreports/reports/118/S118421.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162674.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162655.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162675.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162676.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162656.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
