@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:29 on 11 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:27 on 11 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Hyderabad (India) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Spherical UFO seen in India, Apr 11-2012Towards, morning 6.30 in Hyderabad city, India, we saw a sphere ( something like a silver ball) in the sky; it was moving slowly towards east.After around 30 min, one silvery ring which was so shining was seen towards the bottom of the sphere. It was so gliteering as if we see in eclipse!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88361.html](http://www.nuforc.org/webreports/reports/088/S88361.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Omaha (NE) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>there was a lighting that was coming down and then stopped and dissappered in mid air.We was driving on soresen parkwaywwere coming across some streetlight & i saw I circular lighting come down and i said " mom do you see that " and she said " yes" and she stopped the car and then it dissappered in mid air.  It looked like a firecracker but with no sound or explosion.  And we proceeded driving .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88343.html](http://www.nuforc.org/webreports/reports/088/S88343.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162674.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162655.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162675.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162676.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162656.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
