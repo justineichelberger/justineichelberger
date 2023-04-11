@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:23 on 11 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:27 on 11 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Oswego (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2:00 - 2:00 minutes.</sub><blockquote><sub>Triangle shaped space craft that has followed my friends and I when we drive through our neighborhood and is definetly not an airplane.My friends and I have seen these crafts many times before and they sometimes follow us.  They are not planes, they become very bright looking like a shooting star but then dim down and follow us if we drive out of our neighborhood.  They are shaped like small triangles and can be bright white or sometimes red.  Also, the street lights would go out as it passed them like the energy was too strong.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118340.html](http://www.nuforc.org/webreports/reports/118/S118340.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Tarpon Springs (FL) reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saw a star-like light moving back and forth across the sky.Observed a light moving across the sky above Tarpon Springs, FL, on 4/11/15 from the south east to the NNW direction.  The whole event took about 5-6 minutes and ended at 21:15.I thought it was a falling star or meteor at first moving across the sky because it was so high up, but it had slower, steadier pace than either of those.  There were no other visible lights on it.  I made my husband come outside and look at it because I thought it looked strange.  Then it turned around.It went back almost the exact way it came.  It crossed the entire view of horizon available to me in about 3 minutes, so it had to of been extremely fast.  Just before it disappeared from my view, I saw a very small streak of light.  I then checked my phone to get the exact time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118408.html](http://www.nuforc.org/webreports/reports/118/S118408.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162674.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162655.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162675.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162676.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162656.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
