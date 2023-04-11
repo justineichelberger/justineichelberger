@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:36 on 11 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:31 on 11 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Kennewick (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>On the night of April 11, 2011, at 10:30 pm I observed what I believe to be a UFO over the Columbia River.  I just happened to be looking out at the sky when I observed 3 large white orbs stacked vertically in a tight formation.  They were travelling east to west at a very high rate of speed.  The lights were round and bright white in color.When I first saw them I was looking northeast and watched as they crossed in front of me, now looking north and watched as they headed northwest, disappearing out of sight looking west.I live in Kennewick, along the river, and from my viewpoint the angle of height was approximately 30 degrees.  From my viewpoint, looking east, where I first saw it, to looking west, where they disappeared.  Horizontally, the angle was approximately 100 degrees of view.  It took approximately 10 seconds from the time they first came into view until the time they disappeared.  I noted that the bright white lights never blinked like an aircraft would.  Nor were there any jet engine sounds.These objects appeared to be close to where my house is and appeared to be following the Columbia River at a low altitude and a very high rate of speed.  My view was unobstructed.I certify this to be true and correct under penalty of perjury.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80890.html](http://www.nuforc.org/webreports/reports/080/S80890.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Sumter (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Triangle shape.  3 red/orange flashing lights at each corner of the triangle.  Going in circular and triangular motion.  Then up and down.I saw a triangle shape.  Alone.  No stars.  No airplanes.  At each corner of the triangle, there was a flashing orange light.  The triangle was moving in a circular motion... then a triangular motion.  And kept doing that on and off.  Would get closer to me.  Then would go back closer to te sky.  They seem as if they wanted to communicate and send a warning...  I was by myself.  I watched this for 30 minutes and I got bored bc they kept doing the same thing. So I went back inside while they continued to do this for a long time.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139517.html](http://www.nuforc.org/webreports/reports/139/S139517.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162674.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162655.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162675.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162676.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162656.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
