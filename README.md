@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:48 on 11 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:47 on 11 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Holden Beach (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright red light with a flashing center that followed my flash light beam for over five minutes.My son , his friend and I was looking out over the ocean a little before 9:00 pm when we noticed a bright red light that seemed to hover over the ocean about 5 to 6 miles out.  I thought at first it was a boat with a flashing beacon but as I was explaining to the other two that on tv I noticed that sky watchers like to flash a bright flashlight at them to see if they resond.I flashed a bright Mag flashlight beam at the light expecting nothing but when I flashed it off to the right of it , The light suddenly flew straight to where I flashed the light.  This went on for over five minutes . Where ever I flashed my beam it flew straight to it.  After a while I made a cure with my light beam like a half circle with it ending in the ocean and when it followed the movment it disapered into the ocean. We were on the beach at the time and the only noise we could hear was the ocean waves..I have been to sky watchs before but I never had this kind of reaction.  The light was a very bright red , flashing a red light from its middle.  I held out my hand to guess its size and when I made a fist I could barly see the red light around my fist , IT WAS BIG. I wish I brought my phone to get pictures but because we were close to the water I left it in the house ( that was right behind us ).We went back out the next two nights watching to see if it returned but it did not.  When I first seen this light I thought it was on the ocean's surface but was able to tell it wasnt because I could see the ocean's surface below its glow.  It also moved at great speed to each spot my lights beam flashed at, much faster then anything I know of and the way it stopped , like on a dime.  Were talking a long distance between where each light beam was flashed at.  If I had to guess I would say most of the distances was atleast twelve inchs apart using my right hand being held out as a guide.  This was an experience all three of us will have as a memory forever.  I am hoping to go back out to this same beach house this summer and if I do I will be ready and be watching again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88443.html](http://www.nuforc.org/webreports/reports/088/S88443.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in India (city not specified) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Orange sphere shaped object.Seen a orange sphere moving towards moon.  I was not a flight as I had seen one flight 5 minutes before, and flights lights are red and they blink.((NUFORC Note:  Source of the report elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133528.html](http://www.nuforc.org/webreports/reports/133/S133528.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162674.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162655.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162675.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162676.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162656.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
