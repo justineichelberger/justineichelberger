@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:27 on 11 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:30 on 11 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Omaha (NE) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>there was a lighting that was coming down and then stopped and dissappered in mid air.We was driving on soresen parkwaywwere coming across some streetlight & i saw I circular lighting come down and i said " mom do you see that " and she said " yes" and she stopped the car and then it dissappered in mid air.  It looked like a firecracker but with no sound or explosion.  And we proceeded driving .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88343.html](http://www.nuforc.org/webreports/reports/088/S88343.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Watford (UK/England) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Formation of 6-8 glowing orange lights flying across sky then disappearing.We had been driving back from a fireworks display in Watford and going to a nearby shop when we saw a bright glowing orange light moving South overhead. At first I thought it was a plane but my boyfriend told me it was not as there were no other lights on it as there would be on aircraft. My boyfriend told me to pull over so he could get a better look.  As we stopped another one could be seen following the first one, about half a mile behind the first one.  Then came another one behind that one,  more followed and it looked like a staggered line/formation of approximately 6-8 orange glowing balls.  We thought it was very strange and were a bit freaked out. We called my boyfriend's parents and Uncle who both had seen the lights.  At first I thought it could be a formation of special military jets which don’t have lights or sound but my boyfriend said that was not possible. After 5-10 minutes they went behind a cloud and disappeared south of Watford.  I have always believed in life outside Earth but this was extremely strange and I would like to know if anyone has any pictures I could see and whether there is any other logical explanation for this?  Does anyone know if they are special planes or U.F.O’s?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54977.html](http://www.nuforc.org/webreports/reports/054/S54977.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162674.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162655.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162675.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162676.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162656.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
