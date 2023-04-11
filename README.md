@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:13:09 on 11 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:26 on 11 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Watertown (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>flashing object moving north across constellation Leo, then turning sharply to the west (a 90% turn).My son and I were looking for galaxies through our telescope in the constellation Leo when suddenly we noticed an object moving directly across it to the North.   At first I didn't think anything of it because that night we had seen three planes and five satellites crossing the sky in the same area.  This object flashed a strange bluish-white light that gave off a sharp triangular appearance.  I soon realized that it couldn't have been a plane because those give off repetative rythmical flashes.  This object's flash was not like that.  It would flash, pause a second, flash two or three times, pause a couple seconds, then back to one flash, then one long pause, then flash again.  It just repeated like this, very unrandomly for about 7 or 8 secs.   Then suddenly and without warning it made a sharp and quick 90% turn west, flashed again, then was gone.  I also noticed that when it wasn't flashing, the object seemed to have a grayish-metallic spherical appearance to it.    I don't know what I saw, I just know I've never seen anything like it before. I should also probably mention that an aircraft came to the exact position of this object.  It arrived only seconds after it left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22520.html](http://www.nuforc.org/webreports/reports/022/S22520.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Harvest (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>While star gazing near a camp fire, 2 white/light blue orbs were spotted at high altitude 'dancing' around one another.  I stood up and pointed at them to the person with me, at the exact moment I pointed at them, one shot off at a high speed and disappeared, the other shot down directly at us within 2-3 seconds, at that point we ran back into the house, not looking back to the sky.  Around 30 seconds to 1 minute later we went back outsite to put the fire out and witnessed one of the objects hovering in the distance for a few seconds and then disappeared.  The objects made no noise.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118356.html](http://www.nuforc.org/webreports/reports/118/S118356.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162674.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162655.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162675.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162676.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162656.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
