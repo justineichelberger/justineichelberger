@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:31 on 11 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:23 on 11 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Sumter (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Triangle shape.  3 red/orange flashing lights at each corner of the triangle.  Going in circular and triangular motion.  Then up and down.I saw a triangle shape.  Alone.  No stars.  No airplanes.  At each corner of the triangle, there was a flashing orange light.  The triangle was moving in a circular motion... then a triangular motion.  And kept doing that on and off.  Would get closer to me.  Then would go back closer to te sky.  They seem as if they wanted to communicate and send a warning...  I was by myself.  I watched this for 30 minutes and I got bored bc they kept doing the same thing. So I went back inside while they continued to do this for a long time.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139517.html](http://www.nuforc.org/webreports/reports/139/S139517.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Oswego (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2:00 - 2:00 minutes.</sub><blockquote><sub>Triangle shaped space craft that has followed my friends and I when we drive through our neighborhood and is definetly not an airplane.My friends and I have seen these crafts many times before and they sometimes follow us.  They are not planes, they become very bright looking like a shooting star but then dim down and follow us if we drive out of our neighborhood.  They are shaped like small triangles and can be bright white or sometimes red.  Also, the street lights would go out as it passed them like the energy was too strong.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118340.html](http://www.nuforc.org/webreports/reports/118/S118340.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162674.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162655.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162675.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162676.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162656.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
