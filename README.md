@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:26 on 11 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:38 on 11 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Cincinnati (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Videotaped a yellow blinking sphere and another orange orb belowCame outside to look up again, and spotted a yellow sphere like shape that was flashing or almost spinning. Took my camera out and began recording and a smaller orange sphere appeared below the brighter yellow twinkling/spinning sphere. It would blink but not in any specific pattern like an airplane. It continued to blink and look as if it was rising toward the larger sphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162685.html](http://www.nuforc.org/webreports/reports/162/S162685.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Suwanee (GA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>At approximately 22:00 pm I went onto my deck in the back of house to call our friends that live in the San Francisco area. I went outside as sometimes I can  obtain better reception when outside the house. It had been raining most of the day so the night was overcast but no rain. As we back up to the woods we are somewhat isolated from other neighbors so there were no distractions or any other lighted areas. I was leaning on the South side of my deck at around 10:10 pm talking to our friends when in the distance coming from the north I saw through the trees a flash of light I could not initially distinguish the color as looking thru the trees dulled any color recognition. I want to add that our house sits in a slight valley as we are in the foot hills of the appalation mountains so  there are many high and low areas.I did not think to much of this light but noticed it was coming in my direction low and in my direction. Once it came over the tree line I [which is about 150 yards from where I was standing] had a better view of something traveling south putting out a bright green light. The light  looked to me like a straw or a cigar object. The light came on every approx. 2 to 3 seconds directly over our house continuing south then out of sight over another tree covered area. There were no engine noises, no other lights. It was not a shooting star. This situation was so unusual that I had to report it. As far as my background is concerned I am presently a Vice President of an insurance company.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22507.html](http://www.nuforc.org/webreports/reports/022/S22507.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162674.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162655.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162675.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162676.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162656.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
