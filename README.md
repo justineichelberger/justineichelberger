@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:51 on 11 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:13:09 on 11 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Was working late night security near Willamette river downtown.  Saw six silent, slow moving red fireballs taking off.  They moved slowly north east across the river.  They progressively got higher and higher.  They went behind a cloud and disappeared.  This was a personal third sighting since June of 2012.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118344.html](http://www.nuforc.org/webreports/reports/118/S118344.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Watertown (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>flashing object moving north across constellation Leo, then turning sharply to the west (a 90% turn).My son and I were looking for galaxies through our telescope in the constellation Leo when suddenly we noticed an object moving directly across it to the North.   At first I didn't think anything of it because that night we had seen three planes and five satellites crossing the sky in the same area.  This object flashed a strange bluish-white light that gave off a sharp triangular appearance.  I soon realized that it couldn't have been a plane because those give off repetative rythmical flashes.  This object's flash was not like that.  It would flash, pause a second, flash two or three times, pause a couple seconds, then back to one flash, then one long pause, then flash again.  It just repeated like this, very unrandomly for about 7 or 8 secs.   Then suddenly and without warning it made a sharp and quick 90% turn west, flashed again, then was gone.  I also noticed that when it wasn't flashing, the object seemed to have a grayish-metallic spherical appearance to it.    I don't know what I saw, I just know I've never seen anything like it before. I should also probably mention that an aircraft came to the exact position of this object.  It arrived only seconds after it left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22520.html](http://www.nuforc.org/webreports/reports/022/S22520.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162674.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162655.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162675.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162676.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162656.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
