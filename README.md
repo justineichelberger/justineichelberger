@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:29 on 12 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:51 on 12 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Fouke (5-10 miles south of) (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Airplane type craft 2,500 - 4,000ft elevation yellow/white lightsDriving south on I-49 in southwestern Arkansas, between mile markers 20 and 10.  I always watch sky on drive home from work.  Using flight radar 24 app I watch for planes.  This craft came in at low altitude (compared to commercial flights in area).  It immediately caught my eye.  I was moving around to make sure it wasn't a reflection on windshield.  Craft came in with lights on.  West to east.  Came into my vision slowed down within 2-4 seconds.  Then, went at high rate of speed, turned lights off and disappeared.  The way it was moving was much different than a plane.  It was effortless.((NUFORC Note:  We spoke with the witness, and he sounded to us to be very serious, and sober-minded.  We suspect that he is an excellent witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145623.html](http://www.nuforc.org/webreports/reports/145/S145623.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Little Falls (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>I was walking my dog last evening when all of a sudden he started acting very very strange.All of a sudden he started elevating about ten feet in the air, then he slowly came back down. As he was elevating towards the sky, I did not notice anything in the sky other than my dog. I was obviously very upset and freaked out that my dog has just floated into the air, actually,he scared me. As I was rushing awayy from the scene, Three giant triangular shaped very flat looking objects with three very large roaming white spotlights appeared out of the sky, almost out of nowhere, with absolutely no noise. All of a sudden all of the lights on all three of the objects concentrated on one area of the ground, and a very large hissing noise came from out of the craft. At this point I started to run back towards my house and wasn't looking back. As I turned a corner to get out of that area, I noticed an orangy glow coming from an area in the trees, there directly in that glow were several people, humans standing looking like they were on some type of anestesia or something,(these people did not look familiar to me) Then suddenly, a very skinny silvery shiny, person started moving around these people with a bluish metallic wand and was passing it over each person like a metal detector, once he finished, the orangr glow, the people, and he being, floated towards the crafts.((NUFORC Note:  We will request corroborating reports from the other witnesses, who reportedly were under the effectof the "bluish metallic wand."   PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17246.html](http://www.nuforc.org/webreports/reports/017/S17246.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162696.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162689.html)
-- [322](http://www.nuforc.org/webreports/reports/165/S165889.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162694.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162739.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
