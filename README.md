@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:24 on 12 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:30 on 12 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Easley (SC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>8 Red/Orange spheres flying slow and very low at night.The objects are sphere like and are orange or red in color.  They fly low and slow, sometimes seeming to just stop and hover, before fading out to nothing.  You cannot hear any noise at all, like with a plane or helicopter flying over.  While staring at them closely they appear to have bursts of the same color light around them.  They are solid red or orange and do not blink at all.  I saw 8 tonight, first two, then 2 more, then 3, then one.  No more than 3 were in sight at one time.  I have seen them before about 6 months ago.  At that time it was only 3 and they all hovered in one spot for over 10 minutes in a triangle pattern, then just faded out to nothing.  I have never really believed in UFO'S, but I really like to know what these are!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145619.html](http://www.nuforc.org/webreports/reports/145/S145619.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Waldorf (MD) reported seeing craft that fit the description of some 'Oval' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>Object appeared in a photograph that was taken Easter Sunday 1998.  None of the 5 persons present during the actual photographing remember seeing the object.  It was not known untill the film was developed a few days later.Myself and a group of friends were shooting off model rockets in the parking lot of West Lake High School here in Waldorf Maryland around 17:00 Easter Sunday 1998.  I snapped this photo of my nextdoor neighbor prepairing another rocket for launch, and when the photo came back from CVS, the object in the upper right hand courner was present.  It appears to be roughly oval in shape with what might be a triangular construction on top.  The triangular region seems to be highly reflective, while the lower oval portion of the overall object is dark and featureless. I have ruled out the possibility of lens contamination, it only appears on the one frame, and there were no rockets in the air at the time, and no other persons in the area.  Noone from the group remembers seeing anything, and we were all suprised by the photo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03538.html](http://www.nuforc.org/webreports/reports/003/S03538.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162696.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162689.html)
-- [322](http://www.nuforc.org/webreports/reports/165/S165889.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162694.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162739.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
