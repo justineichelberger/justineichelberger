@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:26 on 12 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:31 on 12 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Destin (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>100 ft within the Okaloosa-Walton County line located on Highway 98, seven miles from Eglin AFB. 0420 hours I witnessed a triangular shapped object with four to six white lights along each side. Whether conditions:partly cloudy. Sighting traveled from north to south along gulf coast line, coming out of thunderclouds into very wide clearing. I stood 1/8th to a quarter a mile away as formation flew to the southeast direction. Its'altitude was 600-1000ft above and flew over singular apartment/hotel six story building. I compared size with building; its' area encompassed entire roof of apartment building. No moving or flapping motions as it flew. This early in morning on saturday I can hear engines from over a mile away. object flew back southeast into clouds passing passing quickly in straight line within ten seconds. What is pronounced is the way the sighting blended with the sky's physical characteristics.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62887.html](http://www.nuforc.org/webreports/reports/062/S62887.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in El Paso (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately minutes - minutes minutes.</sub><blockquote><sub>Local news KVIA reports blue light with fire being shot down to Earth. Sightings seen from El Paso to Albuquerque and as far away as Phoenix.  Reports state that witnesses could feel the ground tremble when fire hits the Earth.  This was breaking news to start the newscast...((NUFORC Note:  We have amended the time above, to reflect an evening event.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108585.html](http://www.nuforc.org/webreports/reports/108/S108585.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162696.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162689.html)
-- [322](http://www.nuforc.org/webreports/reports/165/S165889.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162694.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162739.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
