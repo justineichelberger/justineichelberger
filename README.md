@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:51 on 12 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:13:27 on 12 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Little Falls (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>I was walking my dog last evening when all of a sudden he started acting very very strange.All of a sudden he started elevating about ten feet in the air, then he slowly came back down. As he was elevating towards the sky, I did not notice anything in the sky other than my dog. I was obviously very upset and freaked out that my dog has just floated into the air, actually,he scared me. As I was rushing awayy from the scene, Three giant triangular shaped very flat looking objects with three very large roaming white spotlights appeared out of the sky, almost out of nowhere, with absolutely no noise. All of a sudden all of the lights on all three of the objects concentrated on one area of the ground, and a very large hissing noise came from out of the craft. At this point I started to run back towards my house and wasn't looking back. As I turned a corner to get out of that area, I noticed an orangy glow coming from an area in the trees, there directly in that glow were several people, humans standing looking like they were on some type of anestesia or something,(these people did not look familiar to me) Then suddenly, a very skinny silvery shiny, person started moving around these people with a bluish metallic wand and was passing it over each person like a metal detector, once he finished, the orangr glow, the people, and he being, floated towards the crafts.((NUFORC Note:  We will request corroborating reports from the other witnesses, who reportedly were under the effectof the "bluish metallic wand."   PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17246.html](http://www.nuforc.org/webreports/reports/017/S17246.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Woodbury (TN) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.001 - 0.001 minutes.</sub><blockquote><sub>As stated above....I was just a witness to a flash of light that started to look like a shooting star and then abruptly turned and sped off into what I believe to be just over a 45° angle. It lasted less than 2 seconds....... I am not a believer, but after this....I would like something explained!!!   :(</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108579.html](http://www.nuforc.org/webreports/reports/108/S108579.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162696.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162689.html)
-- [322](http://www.nuforc.org/webreports/reports/165/S165889.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162694.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162739.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
