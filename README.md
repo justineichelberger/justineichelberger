@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:38 on 12 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:29 on 12 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Livermore (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>UFO sighting over Livermore, CA. Bright Blue lights on wings.Boomerang shaped object.  Completely silent.  Circled neighborhood for best part of 3 hours. Had two rows of very bright blue lights at the front. From the back had two wing lights in bright blue and two large white glowing lights (possibly engines). Lights would turn out occasionally.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97137.html](http://www.nuforc.org/webreports/reports/097/S97137.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Surrey (Canada) (BC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>This morning around 5 am i was smoking out i noticed at first 3 lights flying above me at slow speed.  Then i noticed 8 more behind them all same speed and distance.  Bright round light, then i noticed 3 other objects in a triangle formation behind other objects.  I kind of afraid so i called my daughters bf to look at the sky. we noticed more in a straight line behind i would say 14 - 15 objects already.  He said those are planes. I express how is that possible too many one after another and no sound.  I have heard planes flying greater heights many times before and i can clearly hear engine roaring.  This group of objects make any sound. He left but i continued to keep watching, when i notice approximately another 5 behind the 15 - 16 except 1 object flow in a different direction north west same speed. The others were going the same speed same distance apart all the same size heading from south towards north east. I started thinking they possibly maybe be satell! ites. But i started feeling scared at that point and went inside.  After 20 minutes or so i was curious if the objects were still visible.  Unfortunately the sky was brighter and could see any more lights or objects.  Hopefully others witness this event this morning.  What i did realized is the speed they all were traveling is same as plane normally except the absence of sound.  Last thoughts is why would 30 or more planes be flying in that formation??  I wished i continued watching!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154999.html](http://www.nuforc.org/webreports/reports/154/S154999.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162696.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162689.html)
-- [322](http://www.nuforc.org/webreports/reports/165/S165889.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162694.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162739.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
