@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:30 on 12 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:38 on 12 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Montgomery/Oswego (IL) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Huge object hovers then disappears?So I went out to my back yard right after my friend had left to smoke a cigarette.  A bird fly's really low behind me to my right so I look to the right.  Which is south and i'm facing east where the sun rises from.  I see this really big bright metallic elongated disc looking thing.  I had to turn away because the reflection of the sun on this thing hurt my eyes.  I look back with my hand trying to shade my eyes from the reflection and see this thing still there only for like a second before it just disappears. It made no noise at all the whole time.  So I finish my cigarette and see two air planes get kind of close to each other.  One small plane heading south and one larger commercial air liner heading east. The eastward plane seemed to fly into some invisible haze.  The sky was blue with no clouds in the area. The plain was still somewhat visible and I could hear the both planes like I normally do.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80851.html](http://www.nuforc.org/webreports/reports/080/S80851.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Livermore (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>UFO sighting over Livermore, CA. Bright Blue lights on wings.Boomerang shaped object.  Completely silent.  Circled neighborhood for best part of 3 hours. Had two rows of very bright blue lights at the front. From the back had two wing lights in bright blue and two large white glowing lights (possibly engines). Lights would turn out occasionally.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97137.html](http://www.nuforc.org/webreports/reports/097/S97137.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162696.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162689.html)
-- [322](http://www.nuforc.org/webreports/reports/165/S165889.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162694.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162739.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
