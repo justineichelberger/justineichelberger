@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:35 on 12 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:34 on 12 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in Pleasant Hill (MO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO over Pleasant HillThe date of occurance is approximate as this is not my sighting but a friend of the families sighting. The man was mowing is yard in the early evening hours and as he did he noticed the sky turning  colors as if a storm was moving in. He looked up and over at the field by his house and saw a flyin saucer, he ran into the house and told his wife and I believe he had a child or two. He grabbed a camera and was able to get to pictures of it, as he took the camera way from his eyes the object zoomed away. I have a copy of one of those pictures.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41519.html](http://www.nuforc.org/webreports/reports/041/S41519.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Kissimmee (FL) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>It was a cylinder shaped craft that appeared out of no where and descended towards the ground very quickly. It looked like it had gold streaks all around the aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162688.html](http://www.nuforc.org/webreports/reports/162/S162688.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162696.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162689.html)
-- [322](http://www.nuforc.org/webreports/reports/165/S165889.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162694.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162739.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
