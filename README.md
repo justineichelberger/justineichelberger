@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:41 on 12 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:25 on 12 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>It was dark above the sky and there was three circle with white lights moving very slowly. We pulled over and park at the parking lot.  We watched the three UFOs above the sky moved very slowly.  The first object moved slowly and then disappeared so fast.The 2nd and the third objects moved very slowly and then disappeared so quickly.  We do not see any objects above the sky.  It was quiet night tonight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97131.html](http://www.nuforc.org/webreports/reports/097/S97131.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Acworth (GA) reported seeing craft that fit the description of some 'Cross' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>was blueish purple color, still, no sound, cross shaped over west cobb county, watched for 30+ minutes no movement,small red object came circled object, left at high speed, then the cross object disappeared, i left , approx. three miles down the road i pulled over and could see the cross shaped object was back again off in the distance to the south, the object was solid color</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133583.html](http://www.nuforc.org/webreports/reports/133/S133583.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162696.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162689.html)
-- [322](http://www.nuforc.org/webreports/reports/165/S165889.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162694.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162739.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
