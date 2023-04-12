@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:28 on 12 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:28 on 12 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Beaufort (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Unexplained light in Beaufort, SC sky.I was standing outside my house talking to a relative when a very large, bright, white light passed through the sky in the east behind my house.  It moved quickly and disappeared behind the tree line.  My relative is much shorter than me and from their position was unable to glimpse the object.It is also worth noting that there is a Marine Corps training depot and air station in the area.It was silent at the time with no helicopters or airplanes around.  An investigation of meteor activity showed that sightings of meteors were lightly unlikely due to lunar patterns.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133561.html](http://www.nuforc.org/webreports/reports/133/S133561.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Wyoming (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>red light moving and stopping before turning green and flying circlesone red light moving across the sky.  then stopped and held position for 5 minutes before moving to a new position. stopped again for 5 minutes.  then it turned into a green light and began to fly in large circles until it sank below viewing distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126829.html](http://www.nuforc.org/webreports/reports/126/S126829.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162696.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162689.html)
-- [322](http://www.nuforc.org/webreports/reports/165/S165889.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162694.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162739.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
