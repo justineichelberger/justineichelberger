@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:32 on 12 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:24 on 12 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Pensacola (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Witnessed 2 sets of lights in the sky first around 9pm above my fiance's work while on my way to pick him up. One was triangle shaped and the other cyllinder. I only glimpsed these a moment before the lights faded out. The second time I saw them was less than a minute later, not far up the road, the same to sets of lights. They lasted about 30 seconds and then also faded out. I picked my fiance up and we headed home. about 1 1/2 miles from my fiance's work on the same road the same set of lights again appeared behind us and I pointed them out to my fiance. My 2 children also in the car turned around and also saw them. This time they were over a baseball field and lasted about 45-55 seconds before fading out. We all agreed they couldn't be flares or fire, the shape was too perfect and didn't shift at all while we watched. (This happened in Pensacola, FL on 9 mile rd. the road was fairly busy and others had to have seen the lights as well.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50107.html](http://www.nuforc.org/webreports/reports/050/S50107.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Easley (SC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>8 Red/Orange spheres flying slow and very low at night.The objects are sphere like and are orange or red in color.  They fly low and slow, sometimes seeming to just stop and hover, before fading out to nothing.  You cannot hear any noise at all, like with a plane or helicopter flying over.  While staring at them closely they appear to have bursts of the same color light around them.  They are solid red or orange and do not blink at all.  I saw 8 tonight, first two, then 2 more, then 3, then one.  No more than 3 were in sight at one time.  I have seen them before about 6 months ago.  At that time it was only 3 and they all hovered in one spot for over 10 minutes in a triangle pattern, then just faded out to nothing.  I have never really believed in UFO'S, but I really like to know what these are!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145619.html](http://www.nuforc.org/webreports/reports/145/S145619.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162696.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162689.html)
-- [322](http://www.nuforc.org/webreports/reports/165/S165889.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162694.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162739.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
