@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:31 on 12 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:28 on 12 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Mississauga (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>my girlfriend and I were just doing a little star gazing in the backyard using 10x50 binoculars, we were looking in the direction of 'orion' when the object went by from SE to NW, we could clearly see the shape, it had lights on the edges.......and very freaky.......there was no sound whatsoever.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43447.html](http://www.nuforc.org/webreports/reports/043/S43447.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Beaufort (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Unexplained light in Beaufort, SC sky.I was standing outside my house talking to a relative when a very large, bright, white light passed through the sky in the east behind my house.  It moved quickly and disappeared behind the tree line.  My relative is much shorter than me and from their position was unable to glimpse the object.It is also worth noting that there is a Marine Corps training depot and air station in the area.It was silent at the time with no helicopters or airplanes around.  An investigation of meteor activity showed that sightings of meteors were lightly unlikely due to lunar patterns.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133561.html](http://www.nuforc.org/webreports/reports/133/S133561.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162696.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162689.html)
-- [322](http://www.nuforc.org/webreports/reports/165/S165889.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162694.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162739.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
