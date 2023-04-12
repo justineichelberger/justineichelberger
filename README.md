@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:31 on 12 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 12 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in El Paso (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately minutes - minutes minutes.</sub><blockquote><sub>Local news KVIA reports blue light with fire being shot down to Earth. Sightings seen from El Paso to Albuquerque and as far away as Phoenix.  Reports state that witnesses could feel the ground tremble when fire hits the Earth.  This was breaking news to start the newscast...((NUFORC Note:  We have amended the time above, to reflect an evening event.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108585.html](http://www.nuforc.org/webreports/reports/108/S108585.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Waldorf (MD) reported seeing craft that fit the description of some 'Oval' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>Object appeared in a photograph that was taken Easter Sunday 1998.  None of the 5 persons present during the actual photographing remember seeing the object.  It was not known untill the film was developed a few days later.Myself and a group of friends were shooting off model rockets in the parking lot of West Lake High School here in Waldorf Maryland around 17:00 Easter Sunday 1998.  I snapped this photo of my nextdoor neighbor prepairing another rocket for launch, and when the photo came back from CVS, the object in the upper right hand courner was present.  It appears to be roughly oval in shape with what might be a triangular construction on top.  The triangular region seems to be highly reflective, while the lower oval portion of the overall object is dark and featureless. I have ruled out the possibility of lens contamination, it only appears on the one frame, and there were no rockets in the air at the time, and no other persons in the area.  Noone from the group remembers seeing anything, and we were all suprised by the photo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03538.html](http://www.nuforc.org/webreports/reports/003/S03538.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162696.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162689.html)
-- [322](http://www.nuforc.org/webreports/reports/165/S165889.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162694.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162739.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
