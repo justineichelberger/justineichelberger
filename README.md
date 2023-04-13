@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 12 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:32 on 13 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Earl Park (IN) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>7+ Craft spotted from rooftop.  Quickly changing direction.  Not convinced to be extraterrestrial.My friend and I were on my roof, smoking a cigarette (where we normally smoke, to avoid going downstairs) and we saw a bright light that appeared to be a few miles outside Kentland.  We actually thought it was a rocket because of its upward motion.  I have no judge on how fast it was travelling, but it came to an abrupt stop and moved horizontally right, then stopped and moved vertically upward.  After a brief stop, it moved diagonally upwards and to the right.  Then, it covered a distance of over six miles in under a minute, flew directly over-head, at some altitude past Earl Park and over Fowler.  When it flew by, it looked like a normal aircraft carrier.  But the speeds it was moving suggested it couldn’t have been, as it was making several tight turns and had only one bright light on the nose.  When we looked upwards we counted around seven different craft, but none came close to us.  They all had similar movements, vertical to dead stop to lateral movements.  They kept changing directions.  We headed inside to do a quick google, and because it was rather cold, but when we went outside (around five minutes after ten thirty) the craft were gone.  When we went downstairs, my dog was staring at the door and when we came close he snapped at us.  Which is incredibly unusual for him.  He has never bitten a member of this family.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126820.html](http://www.nuforc.org/webreports/reports/126/S126820.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Bourbonnais (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Orange lights that moved in a strange, cohesive pattern in the south sky of Bourbonnais, IL.My family has seen 50+ UFO's south of Bourbonnais Illinois.  They described them at "Orange lights" that were in a straight line that moved in unison. My stepfather has called the local police station and they have gotten multiple reports of people saying the same thing, though cloud cover has caused them to disappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97146.html](http://www.nuforc.org/webreports/reports/097/S97146.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162696.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162689.html)
-- [322](http://www.nuforc.org/webreports/reports/165/S165889.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162694.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162739.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
