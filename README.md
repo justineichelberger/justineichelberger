@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:29 on 13 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:26 on 13 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Sunnyside (WA) reported seeing craft that fit the description of some '' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Amend previous report: It was heading West-Northwest, not East.  Got confused.  Sorry.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75014.html](http://www.nuforc.org/webreports/reports/075/S75014.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Ronkonkoma (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Hovering black object seen in Ronkonkoma NY going eastbound on the Long Island ExpresswayAround 6:20 p.m. on April 13th, 2017, in Ronkonkoma, NY, I was headed eastbound on the Long Island Expressway, when I noticed a strange object in the sky.  The object looked like a plane at first, but then I noticed it was "hovering" over the one spot in the sky.  I've never seen a plane hover and it wasn't a helicopter.  It was certainly smaller than a plane, but bigger than a hand held drone.  It wasn't someone paragliding either (which is common in the region).  It looked like a distorted shaped black object slightly elongated, just hovering in the sky.  I drove off the expressway and looped around and still could see it in relatively the same spot as I drove closer to it.  I tried to get closer, but it ended up being blocked by the noise barrier walls. I drove up further until it was in the view again, but it was gone by that point.  This was near the Long Island MacArthur Airport but certainly was not a plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133584.html](http://www.nuforc.org/webreports/reports/133/S133584.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/162/S162809.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162721.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162699.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162741.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
