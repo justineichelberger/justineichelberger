@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:22 on 13 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:36 on 13 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Nashville (TN) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Three white spheres separate, then connected and rotating in the afternoon.My two boys and I (ages 6 and 7) were playing baseball in the backyard when I just thought I should look up for a vague but unknown certain reason, if that makes sense.  "Look! Parachuters!," I yelled, noticing two bright white spots just hanging in the sky, seeming to drift around.  The sky was a deep blue with just one large wispy feather-like cloud stretching from over our heads to the horizon.  Visibility was excellent.  One of my boys pointed out a third object.  We watched for a while as they moved further away, maybe higher, couldn't tell. I am terrible at judging heights, so I will not try to guess their altitude.  Two of them were in the same general area.  One was off to the northeast of the others.  My husband pointed out to the boys that these couldn't be parachuters because they were not coming down.  Then I decided they weren't going to vanish because they weren't darting around or just staying still like ufos are often reported to do.  I though! t they must be weather balloons. I ran inside, came back out with the binoculars and couldn't get an eye on them. They finally got too far away to see.  I gave up, went in for water and ate a little snack, came back and there was another one, or one came back, just as low as when I first spotted them.  This time I supported my elbows on the trunk of my car and got a good look through the binoculars.  I watched this thing for about five minutes.  Maybe more.  There were three large spheres all apparently connected, and they were rotating, not like those balloon arches do that people think are space worms or whatever.  This was steady as clockwork. It was like the hand of a clock going around but the hand was made of spheres.  It did this the entire time I was watching.  For a while they were roating vertically, then turned horizontal. Its movement appeared to me to not be subject to the wind.  It was steadily sailing to the east with no variation in direction.  At one point, I don't k! now if it was the light reflecting or my eyes, but they had a ! rainbowi sh glow on the edges.  The object or objects appeared white.  They did seem to be connected. I watched until it got too small to see.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97168.html](http://www.nuforc.org/webreports/reports/097/S97168.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Monona (WI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I looked up and saw a saucer like object in the sky.  It was like that one amusement ride the gravatron.  At least the shape.  It was going pretty fast and had a lot of red lights on it that were scattered.  It was too large for a plane and too low as well.  It also dis not just go the same direction.  It went back and forth for a bit then disappeared quickly after we turned on another street.  It WAS NOT an airplane.  It wad like the size of 4-5 airplanes.  The object its self was hard to tell the color, but obviously dark, with the red lights on it.  It was just gone so fast, I didn't think of using my phone.  It was amazing.((ADDENDUM FROM WITNESS))Sorry date was 04/13/17. ((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133592.html](http://www.nuforc.org/webreports/reports/133/S133592.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/162/S162809.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162721.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162699.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162741.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
