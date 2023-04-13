@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:32 on 13 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:42 on 13 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Bourbonnais (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Orange lights that moved in a strange, cohesive pattern in the south sky of Bourbonnais, IL.My family has seen 50+ UFO's south of Bourbonnais Illinois.  They described them at "Orange lights" that were in a straight line that moved in unison. My stepfather has called the local police station and they have gotten multiple reports of people saying the same thing, though cloud cover has caused them to disappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97146.html](http://www.nuforc.org/webreports/reports/097/S97146.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Bellevue (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Pulsating triangle object moving across a blue sky matching People video:https://people.com/human-interest/pentagon-confirms-that-shocking-video-of-a-pyramid-shaped-ufo-is-real/</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162732.html](http://www.nuforc.org/webreports/reports/162/S162732.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/162/S162809.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162721.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162699.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162741.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
