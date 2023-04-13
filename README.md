@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:57 on 13 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:46 on 13 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Birdsboro (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Sudden light and disappearance.Driving home from friends house and saw a disc shaped object with lights surrounding disappear into sky.  Moved quickly as in the shape of a check mark.  No other siting after the first.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145631.html](http://www.nuforc.org/webreports/reports/145/S145631.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Bentonville (AR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2 or three seconds - 2 or three seconds minutes.</sub><blockquote><sub>out of control  object over bentonville ARMy son and I were watching laying outside our appartment . I was telling him about the constellations. I looked up and we both saw a falling object moved slower than a shooting star from the east moving southwesterly was very blue and made a whirring sound this object was in trouble it was headed for the oklahoma border around siloam springs area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17276.html](http://www.nuforc.org/webreports/reports/017/S17276.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/162/S162809.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162721.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162699.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162741.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
