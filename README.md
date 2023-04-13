@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:29 on 13 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:24 on 13 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Mont Laurier (Canada) (QC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.6333333333333333 - 0.6333333333333333 minutes.</sub><blockquote><sub>Cigar shape object, is it a drone?March 4th, 2012  Mr. Davenport, I live in Canada, province of Quebec, in the town of Mont Laurier.In early morning of April the 13th 2010 in a clear blue sky i saw a flying object, that i didnt recognized as being an aiplane. It didnt make any sound  and  it flew right above  the houses of my neighborhood  and since i never knew  what to think of it  i am writing to have your opinion.I would like to excuse the poor quality of this  38 seconds video since i had all the difficulty in the world to make a decent focus on this object in the distance.  I had  just recently purchased my camera , a power shot a 1000 from Canon at the time i videotaped this.  Not knowing videofilms cant be turned vertically.In the video the first 7 to 10 seconds many sounds you will be hearing are from trucks and cars traffic in the street aside from the crows.Through the years many times a week i have heard  helicopters fly over my house in that neighborhood ( i have moved since last year) and unless I am making a mistake (which i very well could be) i think i can recognized the sound of an helicopter. It is very loud.Recently, i heard on national radio that Quebec Province had no drones aloud to fly over populations.  It was said that only Ontario had those in activity for special crime search or ecological disasters research.  Since the borders are not far from where i live it  could very well be coming from the Province  next door.My question is , could it be a drone? Aside from an helicopter or anything else? Thank you for you time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87488.html](http://www.nuforc.org/webreports/reports/087/S87488.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Sunnyside (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Two dark orange balls moving eastward over Sunnyside WA, Yakima County.I saw two dark orange colored balls come from an area that was obscured by a tree and travel eastward.  At first one was behind the other, and then they moved to side by side.I initially thought it was one of those spotlight things like at a car dealership, but this is in the country, and there are no clouds.  It wasn't moving particularly fast, and I perceived them to be rather low.  I don't know if this was caused by what I saw, but there seemed to be some noise, as if from a glider.I'm not exactly a UFO believer, I just would like to know what just flew over my house.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75013.html](http://www.nuforc.org/webreports/reports/075/S75013.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/162/S162809.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162721.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162699.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162741.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
