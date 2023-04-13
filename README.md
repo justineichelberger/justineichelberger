@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:46 on 13 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:29 on 13 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Bentonville (AR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2 or three seconds - 2 or three seconds minutes.</sub><blockquote><sub>out of control  object over bentonville ARMy son and I were watching laying outside our appartment . I was telling him about the constellations. I looked up and we both saw a falling object moved slower than a shooting star from the east moving southwesterly was very blue and made a whirring sound this object was in trouble it was headed for the oklahoma border around siloam springs area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17276.html](http://www.nuforc.org/webreports/reports/017/S17276.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some '' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Observed 3 orange orb like shapes moving north to south in direction just east of downtown Chicago.  Altitude less then 5k feet.  Orbs appeared to be moving in a deliberate fashion and seemed to be in a loose formation initially then one broke off and the other two headed due south out of view at a more rapid speed.  The remaining ord appeared to slow considerably and then was lost in the heavy cloud cover.  Light insensity of the orbs remained constant throughout viewing.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97217.html](http://www.nuforc.org/webreports/reports/097/S97217.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/162/S162809.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162721.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162699.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162741.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
