@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:34 on 13 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:37 on 13 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Eugene (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>((NUFORC Note:  Anonymous report.  We have not way to verify authenticity of report, or witness.))Yellow to Golden Orange object moving over central Eugene, appeared just smaller than a lentil at arms length, moving slowly west to east across partly cloudy sky.  I watched the object pass between the moon and myself and saw no physical body just the glowing globe and a slight residual light trailing upward. I ran to a nearby friends house and she saw it as well, then the object pulsated between bright and dim four times and streaked out of sight EastNE with amazing speed!I was in route to a friends house about ten blocks from downtown Eugene and noticed what I first thought to be a star or planet that was an interesting yellow/orange color, upon closer observation, the object appeared to be moving from west to east across the night sky, but made no sound.  I crossed the street to situate myself where I could watch the object pass the moon.  As it passed, I saw that there was no physical body to the object outside of the glowing ball and a slight residual light (same color) trailing upward.  I ran the remainder of the way to my friends house and got her to come outside as well.  The object was now some distance across town to the east, but still visable.  After aproximately five seconds, the object began to pulsate between a brillant light and fading out four times and then took off in a flash EastNE with amazing speed, leaving a meteorite like streak trailing behind it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12617.html](http://www.nuforc.org/webreports/reports/012/S12617.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in New Castle (PA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>8 orange lights seen over New Castle, PAI was travelling eastbound on Route 422 south of New Castle, PA on 4/13/2013 at 2314. I witnessed eight orange lights to my north. The color was similar in nature to the orange lights used to illuminate roads near interchanges. I pulled the truck over about a mile from the Route 65 exit.  This afforded me a clear view across the valley to my north. The lights appeared to travel out of the north to the southeast in a loose trail formation with the lead light about one mile ahead of the other 7. I shut off the enhine and the radio. I did not hear any sound that would indicate rotors, propellors, or turbine engines. I am very accustomed to these sounds as I was a helicopter crewchief inthe Army and an aircraft technician for a number of years.  The lights faded from view one at a time (lead light first) before they had even gotten to the north end of the valley.  They did not display aircraft anti-collision lights, navigation lights, or landing lights.  The orange ! glow cast form these objects was constant (did not flicker, flash or change colors) until it faded. From the moment I first viewed these lights until the last one faded from view was about four minutes long. Lat/Long of my position could not be obtained (didn't have my GPS). Lat/Long can be obtained as well as an asmuth to the location of the first light's location when it faded from view and the last light's location at the same time (the first faded from view before it entered the constallation Libra.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97154.html](http://www.nuforc.org/webreports/reports/097/S97154.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/162/S162809.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162721.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162699.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162741.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
