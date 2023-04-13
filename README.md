@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:42 on 13 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:13:03 on 13 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Bellevue (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Pulsating triangle object moving across a blue sky matching People video:https://people.com/human-interest/pentagon-confirms-that-shocking-video-of-a-pyramid-shaped-ufo-is-real/</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162732.html](http://www.nuforc.org/webreports/reports/162/S162732.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Morgantown (WV) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>My wife and I were sitting in the garage after putting our children to bed and I commented on a strange light in the sky that didn't move for quite some time. We joked about it at first, but became curious as it seemed to change colors. It was a very clear evening and it didn't appear to look like anything else in the sky. Because the curiosity got the est of me, I went and got the video recorder. I started taping and was amazed at what I was seeing with the camcorder on full zoom. The object would change it's shape and display what appeared to be multiple colors. My battery needed to be recharged on 2 occassions due to not using the camcorder in several months. I would recharge for about 15 minutes and then head back out. On the third time out, the object had moved to another location. I tried to record what I believe was still the same light, but it was much further away and I wasn't able to see it doing the same things as before. We watched the tape that I recorded and was amazed and puzzled. We have no idea what we were watching. I have never believed in UFO's, but feel pretty certain that what we saw was not normal. I could be wrong? I have absolutely no experience in this area. Whatever it was, I have never seen anything like it before in my 39 years.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43476.html](http://www.nuforc.org/webreports/reports/043/S43476.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/162/S162809.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162721.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162699.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162741.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
