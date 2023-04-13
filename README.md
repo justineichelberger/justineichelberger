@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:24 on 13 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:32 on 13 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Sunnyside (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Two dark orange balls moving eastward over Sunnyside WA, Yakima County.I saw two dark orange colored balls come from an area that was obscured by a tree and travel eastward.  At first one was behind the other, and then they moved to side by side.I initially thought it was one of those spotlight things like at a car dealership, but this is in the country, and there are no clouds.  It wasn't moving particularly fast, and I perceived them to be rather low.  I don't know if this was caused by what I saw, but there seemed to be some noise, as if from a glider.I'm not exactly a UFO believer, I just would like to know what just flew over my house.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75013.html](http://www.nuforc.org/webreports/reports/075/S75013.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Bensalem (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately Several minutes - Several minutes minutes.</sub><blockquote><sub>Square shape with 4 glowing circles in the middle.  Circles were rotating. off in the distance at first then directly over our house.My husband and I were on our deck talking, listening to music and looking at the stars. Directly off our deck in the direction of the tree line on the SE horizon, I noticed an object, and told my husband “come look at this.”  The object wasn't moving like a plane or helicopter, as it kept going up down left right very fast.  It had 4 round areas that were lit up and rotating (the individual circles were not rotating but the entire object) and a flashing light in the middle.  It went out of sight for about 30 seconds then appeared again but this time it went way up in the sky then came above our heads.  It had 4 circles but didn't rotate, the circles were blue with pink around it, it made no noise and we didn't noticed any flashing light in the middle.  It hovered there for about 7-10 seconds.  My iphone was on the table but by the time I grabbed it, turned it on and pressed the camera it had moved away from our house back towards the SE horizon (that's when i was able to take 2 pictures and 3 videos (2 seconds, 14 seconds and 1:22 minutes) I had the graph on the video and was trying to keep the object inside the middle box.  I did move a few times when i was trying to look up at it towards the end. We were not afraid in the least, as you can hear from the video that my husband was yelling at it to come back.  We waited for about 45 minutes but it never did.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139787.html](http://www.nuforc.org/webreports/reports/139/S139787.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/162/S162809.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162721.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162699.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162741.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
