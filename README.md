@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:37 on 13 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:28 on 13 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in New Castle (PA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>8 orange lights seen over New Castle, PAI was travelling eastbound on Route 422 south of New Castle, PA on 4/13/2013 at 2314. I witnessed eight orange lights to my north. The color was similar in nature to the orange lights used to illuminate roads near interchanges. I pulled the truck over about a mile from the Route 65 exit.  This afforded me a clear view across the valley to my north. The lights appeared to travel out of the north to the southeast in a loose trail formation with the lead light about one mile ahead of the other 7. I shut off the enhine and the radio. I did not hear any sound that would indicate rotors, propellors, or turbine engines. I am very accustomed to these sounds as I was a helicopter crewchief inthe Army and an aircraft technician for a number of years.  The lights faded from view one at a time (lead light first) before they had even gotten to the north end of the valley.  They did not display aircraft anti-collision lights, navigation lights, or landing lights.  The orange ! glow cast form these objects was constant (did not flicker, flash or change colors) until it faded. From the moment I first viewed these lights until the last one faded from view was about four minutes long. Lat/Long of my position could not be obtained (didn't have my GPS). Lat/Long can be obtained as well as an asmuth to the location of the first light's location when it faded from view and the last light's location at the same time (the first faded from view before it entered the constallation Libra.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97154.html](http://www.nuforc.org/webreports/reports/097/S97154.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some '' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Observed 3 orange orb like shapes moving north to south in direction just east of downtown Chicago.  Altitude less then 5k feet.  Orbs appeared to be moving in a deliberate fashion and seemed to be in a loose formation initially then one broke off and the other two headed due south out of view at a more rapid speed.  The remaining ord appeared to slow considerably and then was lost in the heavy cloud cover.  Light insensity of the orbs remained constant throughout viewing.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97217.html](http://www.nuforc.org/webreports/reports/097/S97217.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/162/S162809.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162721.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162699.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162741.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
