@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:26 on 13 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:28 on 13 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Ronkonkoma (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Hovering black object seen in Ronkonkoma NY going eastbound on the Long Island ExpresswayAround 6:20 p.m. on April 13th, 2017, in Ronkonkoma, NY, I was headed eastbound on the Long Island Expressway, when I noticed a strange object in the sky.  The object looked like a plane at first, but then I noticed it was "hovering" over the one spot in the sky.  I've never seen a plane hover and it wasn't a helicopter.  It was certainly smaller than a plane, but bigger than a hand held drone.  It wasn't someone paragliding either (which is common in the region).  It looked like a distorted shaped black object slightly elongated, just hovering in the sky.  I drove off the expressway and looped around and still could see it in relatively the same spot as I drove closer to it.  I tried to get closer, but it ended up being blocked by the noise barrier walls. I drove up further until it was in the view again, but it was gone by that point.  This was near the Long Island MacArthur Airport but certainly was not a plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133584.html](http://www.nuforc.org/webreports/reports/133/S133584.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Speedy Craft captured in photos over Lake Marston, Denver.While photographing the beautiful full moon... We captured on our digital camera an object moving at a VERY high rate of speed.  We took 4 pictures in a matter of 10 seconds or so. First picture dictates the craft being Miles and Miles and Miles away Beyond the city lights across the lake. Second photograph dictates the object being within 1 mile of our residence and on an axis as if it were turning.  The Third photo dictates the object level again, headed south. Fourth photo shows no object in site. The object was shaped almost like an airplane however the speed it was moving was much too fast, so fast that we didnt notice that we actually had seen anything until we looked at the photos- and NO noise was heard. These photographs were captured over Lake Marston, in Denver.We did not hear or see this object. We only captured it in photos. Weird experience!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50144.html](http://www.nuforc.org/webreports/reports/050/S50144.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/162/S162809.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162721.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162699.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162741.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
