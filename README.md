@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:36 on 13 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:41 on 13 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Monona (WI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I looked up and saw a saucer like object in the sky.  It was like that one amusement ride the gravatron.  At least the shape.  It was going pretty fast and had a lot of red lights on it that were scattered.  It was too large for a plane and too low as well.  It also dis not just go the same direction.  It went back and forth for a bit then disappeared quickly after we turned on another street.  It WAS NOT an airplane.  It wad like the size of 4-5 airplanes.  The object its self was hard to tell the color, but obviously dark, with the red lights on it.  It was just gone so fast, I didn't think of using my phone.  It was amazing.((ADDENDUM FROM WITNESS))Sorry date was 04/13/17. ((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133592.html](http://www.nuforc.org/webreports/reports/133/S133592.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Wellington (New Zealand) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Brief unusual star-like flareHi, after reading a story posted on the 8th april I thought something I saw relates to whatever they saw.Unfortunately, I cant say I saw a craft of any description, but it was quite odd.I was looking almost directly up, perhaps a little south, looking at the starry night, when all of a sudden almost exactly where I was looking, a bright light flared, it looked exactly like a bright star, not moving or anything. Just as abruptly as it appeared it went completely dark. The brightness did not last longer than a second or two but I cant be sure.The only thing I could think it was was a meteor coming straight at me from above, something I've never seen before. I stayed out for another half hour to see if it would happen again... sadly no. Not much of a report but I thought it worth mentioning.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22685.html](http://www.nuforc.org/webreports/reports/022/S22685.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/162/S162809.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162721.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162699.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162741.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
