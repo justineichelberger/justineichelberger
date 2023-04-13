@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:29 on 13 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:34 on 13 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some '' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Observed 3 orange orb like shapes moving north to south in direction just east of downtown Chicago.  Altitude less then 5k feet.  Orbs appeared to be moving in a deliberate fashion and seemed to be in a loose formation initially then one broke off and the other two headed due south out of view at a more rapid speed.  The remaining ord appeared to slow considerably and then was lost in the heavy cloud cover.  Light insensity of the orbs remained constant throughout viewing.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97217.html](http://www.nuforc.org/webreports/reports/097/S97217.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Eugene (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>((NUFORC Note:  Anonymous report.  We have not way to verify authenticity of report, or witness.))Yellow to Golden Orange object moving over central Eugene, appeared just smaller than a lentil at arms length, moving slowly west to east across partly cloudy sky.  I watched the object pass between the moon and myself and saw no physical body just the glowing globe and a slight residual light trailing upward. I ran to a nearby friends house and she saw it as well, then the object pulsated between bright and dim four times and streaked out of sight EastNE with amazing speed!I was in route to a friends house about ten blocks from downtown Eugene and noticed what I first thought to be a star or planet that was an interesting yellow/orange color, upon closer observation, the object appeared to be moving from west to east across the night sky, but made no sound.  I crossed the street to situate myself where I could watch the object pass the moon.  As it passed, I saw that there was no physical body to the object outside of the glowing ball and a slight residual light (same color) trailing upward.  I ran the remainder of the way to my friends house and got her to come outside as well.  The object was now some distance across town to the east, but still visable.  After aproximately five seconds, the object began to pulsate between a brillant light and fading out four times and then took off in a flash EastNE with amazing speed, leaving a meteorite like streak trailing behind it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12617.html](http://www.nuforc.org/webreports/reports/012/S12617.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/162/S162809.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162721.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162699.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162741.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
