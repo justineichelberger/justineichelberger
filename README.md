@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:31 on 13 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:27 on 13 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Sawgrass area (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Sawgrass area round orange bright.There was just a video on FB ..i shared it ..i tried to download it.. i commented on it ..wsvn was tagged in it .. the friend on my FB was trying to go live  All feed is gone .. my video didnt download..links i coppied say error now   This was in minutes of video being put up    Orange round bright motion is quick .. bottom looks like its got a large symbol maybe</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133589.html](http://www.nuforc.org/webreports/reports/133/S133589.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Atenas (Costa Rica) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>on the morning of April 13, 2002 I was working taking photos of a construction project for my client. I did not notice this object until I developed the pictures on Monday the 15th of April. Equipment used was a Canon EOS-ELAN II  35MM. Zoom Lens 28-105 Canon Ultra Sonic. Mode of Camera was in Auto focus. I think this objest is real and reported to the Local Police and local news media. CHANNEL 4 FROM San Jose ran a story on my report last night and a friend suggested I send you the photo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22578.html](http://www.nuforc.org/webreports/reports/022/S22578.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/162/S162809.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162721.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162699.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162741.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
