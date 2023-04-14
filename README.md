@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:31 on 14 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on 14 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Bowling Green (KY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>We saw flying fireballs in the sky.I saw fireballs moving left to right in the sky.  There was at least six.  They got really bright then they dimmed out.  Me and my two friends saw them they both are working at the local speed way  I do not have a job at the time.  Just a side note this is not the first time that I've been with my friends and we have seen these fireballs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75096.html](http://www.nuforc.org/webreports/reports/075/S75096.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ben Lomond (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright light that pulsed from orange to red, before fading away and "disappearing" into the darkness.I took my 2 year old son outside to look at the stars, at approx. 21:35 (9:35pm).  He is a total night-owl, and I was trying to him to calm down so he would go to sleep.  The sky was very (VERY) clear, with virtually zero visible fog or moisture in the air, and the moon wasn't directly visible, and there was not a whole lot of "light pollution" from the ground.We looked around for a few minutes, when a flying object of some sort appeared from behind an oak tree.  It produced a relatively bright orange light, brighter than any star, but not by a whole lot. It was bright enough that it produced a clear halo.  The light was pulsing from orange to red at a steady rate, approx. 60-80 pulses per minute. (I am a musician so I am pretty good at determinating pulse/rate.)  It appeared to be at a fairly low altitude, I would say less than 2000 ft. possibly less than 1000ft.The object continued pulsing as it travelled, maintaining a straight line. I watched the object closely as it approached our location, for 10-15 seconds, and when it was just about directly over our heads, it began to "disappear" into the darkness.  Again, I was watching it VERY closely, and it looked like it was passing behind clouds or fog, but there was clearly no fog or clouds in the sky.  It disappeared compeletely for about 2 seconds, but then I was able to make it out faintly for about 2-3 seconds. I swear it looked just like when you see a plane pass behind a remnant of a cloud or thick fog.  Then it desappeared completely and never re-appeared. I scanned the whole area for 3-4 more minutes, hoping it would re-emerge, but it didn't.I turned to my son and said "Whoa dude, you just saw your first UFO!"   The object did not necessarily look like a solid object that was producing light.  I couldn't make out a solid mass, just a bright pulsing light. I wonder if it could have been an earth produced, gaseous ball of fire, but it was such a slow and steady pulse, which seemed to be deliberate, or mechanized.  The object also did not necessarily appear to be under "intelligent control."  It very well could have been a manmade aircraft, maybe some new technology perhaps?   NOTE: I live about 15 miles from a Lockheed-Martin Facility which is very remotely located at the end a winding two lane road road, in the densely wooded Redwood forest, which is also very close to the coastline.  I am pretty certain that they are doing research/development and testing of experimental aircraft and/or propulsion systems at this particular site.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88415.html](http://www.nuforc.org/webreports/reports/088/S88415.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/162/S162992.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162723.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163370.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163259.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162707.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
