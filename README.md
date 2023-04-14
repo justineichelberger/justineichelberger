@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:28 on 13 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:34 on 14 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Speedy Craft captured in photos over Lake Marston, Denver.While photographing the beautiful full moon... We captured on our digital camera an object moving at a VERY high rate of speed.  We took 4 pictures in a matter of 10 seconds or so. First picture dictates the craft being Miles and Miles and Miles away Beyond the city lights across the lake. Second photograph dictates the object being within 1 mile of our residence and on an axis as if it were turning.  The Third photo dictates the object level again, headed south. Fourth photo shows no object in site. The object was shaped almost like an airplane however the speed it was moving was much too fast, so fast that we didnt notice that we actually had seen anything until we looked at the photos- and NO noise was heard. These photographs were captured over Lake Marston, in Denver.We did not hear or see this object. We only captured it in photos. Weird experience!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50144.html](http://www.nuforc.org/webreports/reports/050/S50144.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Oberlin (OH) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Lights coming together to form a moving formation.My friend's girlfriend called him acting hysterical talking about seeing 7 lights in the sky while driving around. She said there were four in the shape of a square and three in a triangular shape. The lights were orange- red in color. I was told by her over the phone to go outside and look, because her boyfriend's knee is injured. I went outside and saw the same thing but they were moving. I eventually made my back into the house and told my friend who was upstairs still. I looked out the window to see if I could see anything, and i saw the four lights combine with the three lights, into what I can only imagine was one massive object, because when they moved close together a bunch more lights popped up around and they all moved together the left and eventually vanished. The Formation moved fairly slowly. My friend had managed to hobble to the window to see the same thing, after he heard me yelling about it. His girlfriend got home and I and she went outside to see if we could see anything more, but nothing was out there. There’s no way it was a plane or orb lightning. Wow.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62824.html](http://www.nuforc.org/webreports/reports/062/S62824.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/162/S162809.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162721.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162699.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162741.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
