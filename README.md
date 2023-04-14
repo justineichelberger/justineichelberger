@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:34 on 14 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:49 on 14 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Oberlin (OH) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Lights coming together to form a moving formation.My friend's girlfriend called him acting hysterical talking about seeing 7 lights in the sky while driving around. She said there were four in the shape of a square and three in a triangular shape. The lights were orange- red in color. I was told by her over the phone to go outside and look, because her boyfriend's knee is injured. I went outside and saw the same thing but they were moving. I eventually made my back into the house and told my friend who was upstairs still. I looked out the window to see if I could see anything, and i saw the four lights combine with the three lights, into what I can only imagine was one massive object, because when they moved close together a bunch more lights popped up around and they all moved together the left and eventually vanished. The Formation moved fairly slowly. My friend had managed to hobble to the window to see the same thing, after he heard me yelling about it. His girlfriend got home and I and she went outside to see if we could see anything more, but nothing was out there. There’s no way it was a plane or orb lightning. Wow.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62824.html](http://www.nuforc.org/webreports/reports/062/S62824.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Jasper (AR) reported seeing craft that fit the description of some 'Changing' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>it was kind of traingular/x shaped blue and red flashing lights hovering,twisting moving slowly across the sky ((NUFORC Note:  Possible sighting of Sirius??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43475.html](http://www.nuforc.org/webreports/reports/043/S43475.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/162/S162992.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162723.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163370.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163259.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162707.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
