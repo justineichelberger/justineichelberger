@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:42 on 14 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 14 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Palm Springs (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>3 CIRCLE BALLS IN FLYING  FORMATION YELLOWISH/ORANGE  PALM SPRINGS,CA.THE UFO WAS MOVING FASTER THAN AIRPLANE AT A HIGH RATE OF SPEED  AT NIGHT TIME . MOVING FROM THE SOUTH OF PALM SPRINGS, CA.  FLYING  TOWARDS THE NORTH OF PALM SPRINGS, WHICH APPEARED TO BE FLYING OVER THE AIRPORT.  IT MADE NO SOUND WHILE FLYING OVER THE CITY.  THE UFO WAS 3 CIRCLE BALLS THAT WHERE CLOSE TO EACH OTHER SIDE BY SIDE,  WITH AN ORANGISH, YELLOWISH GLOWING WITH A WHITE RING LIGHT BUT THE LIGHTS KIND OF FLICKERING NOT BRITE BUT DIMMED LIGHTS, FLYING ACROSS THE SKY AND THEN PICKED UP SPEED AND DISAPPEARED.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88485.html](http://www.nuforc.org/webreports/reports/088/S88485.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lake Havasu City (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Pre-dawn sighting of 3 blue orbs followed by a 4thSighting Lake Havasu, April 14, 2011 0450  My eye’s popped open this morning at (according to the clock on my stove) 4:45 am.  I had a glass of milk and headed back to bed when I had a feeling I should go take a look at the sky.  I am a private researcher and have been since the early 70’s.  When I walked outside I was facing NE and I noticed a very bright object coming out of the NW and heading SE, it was fairly low in the sky and I immediately thought it was the ISS.  I grabbed my binoculars and yes after viewing the object I knew from past experience that it was the ISS.It was then I turned to face W and I looked straight up.  Immediately, I noticed another bright object then another, then another.  These objects were glowing blue in color through my binoculars.  They were initially coming from the South and heading North, I followed them maybe 20 degrees in the sky and they all, in formation changed course and headed in an Easterly direction.These objects made no sound and were spaced in a diagonal line, far enough apart that I could only see two at a time in the field of view of my binoculars.  I kept shifting from binocular view to naked eye view to make sure that I was actually seeing three objects.  I continued to watch them as they eventually went out of site.Oddly enough I retrained my view back directly overhead and once again, I saw another object.  This one was also coming from the south and heading north.  This object was also blue and gaging by my view through the binoculars it seemed to be the same but at a higher altitude.  Just as I began to think that this one was a satellite, it began to change its course to follow the three that had just passed overhead.I checked the satellite charts online and the only satellite confirmed at that time was the ISS.These sightings have been occurring on a fairly regular basis here.  The only difference is that I usually see the orange orbs.  I am going to check with the local press to see if there are any other reports to follow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80878.html](http://www.nuforc.org/webreports/reports/080/S80878.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/162/S162992.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162723.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163370.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163259.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162707.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
