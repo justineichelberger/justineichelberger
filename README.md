@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:26 on 14 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:42 on 14 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Westfield (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Went outside to let dog out..noticed triangle shape with 3 lights moving very very slow headed south east.. started almost over head.. decided to go inside grab glasses and binoculars took 3 seconds came outside.. gone.. and i can see for miles.. no noise either.. moved way to slow for aircraft</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126852.html](http://www.nuforc.org/webreports/reports/126/S126852.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Palm Springs (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>3 CIRCLE BALLS IN FLYING  FORMATION YELLOWISH/ORANGE  PALM SPRINGS,CA.THE UFO WAS MOVING FASTER THAN AIRPLANE AT A HIGH RATE OF SPEED  AT NIGHT TIME . MOVING FROM THE SOUTH OF PALM SPRINGS, CA.  FLYING  TOWARDS THE NORTH OF PALM SPRINGS, WHICH APPEARED TO BE FLYING OVER THE AIRPORT.  IT MADE NO SOUND WHILE FLYING OVER THE CITY.  THE UFO WAS 3 CIRCLE BALLS THAT WHERE CLOSE TO EACH OTHER SIDE BY SIDE,  WITH AN ORANGISH, YELLOWISH GLOWING WITH A WHITE RING LIGHT BUT THE LIGHTS KIND OF FLICKERING NOT BRITE BUT DIMMED LIGHTS, FLYING ACROSS THE SKY AND THEN PICKED UP SPEED AND DISAPPEARED.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88485.html](http://www.nuforc.org/webreports/reports/088/S88485.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/162/S162992.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162723.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163370.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163259.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162707.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
