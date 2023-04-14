@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:31 on 14 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:28 on 14 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1966, an anonymous witness in Geneva (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>An glowing, orange colored disk moving from south to north traveled directly over my house...It was mid-April 1966, and the buds were just coming out on the trees.  I was laying on my bed, looking out my window at the sky, about 10:30 PM. I notice an orangish light moving in the distance - heading in my direction.  It was unusual, so I ran and got my parents (I was 14 at the time).  They both came to my room, and we all looked out my window. By now, the thing was nearly overhead.  It looked low - maybe only a couple hundred feet high.  No sound.  My folks opened the window, and pushed me away from it.  I went to a northern exposure window, and watched this glowing disk continue northward.  It dropped three small whitish or glowing lights out, then continued northward and disappeared in the distance.  The whole event happened in a minute or less. Years later, I saw that same orange color while paging through a magazine about Auroras.  Ionized diatomic oxygen gives off that orange glow.  Whatever this thing was, it must have been electrically ionizing the air around it! One other thing.  This occurred about the same time as the Catalina Island sighting.  I have a feeling that one was a real sighting (too)!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12633.html](http://www.nuforc.org/webreports/reports/012/S12633.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Chapel Hill (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Bright descending burst of light.I was standing by a creek in the woods south of my apartment complex.  I was alternating looking at the stars and at the canopy of trees across the creek bank.I was looking at the sky and saw a brilliant blue/white flash traveling at a rapid rate of descent in the SSE section of the sky.  It flew in a straight line with no noise and the light remained the same brightness, velocity, and direction throughout the flight.The entire incident took less than 2 seconds.  It did not seem like any meteorite that I had ever seen before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63357.html](http://www.nuforc.org/webreports/reports/063/S63357.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/162/S162992.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162723.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163370.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163259.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162707.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
