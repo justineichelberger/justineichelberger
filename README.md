@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:28 on 14 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:26 on 14 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Chapel Hill (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Bright descending burst of light.I was standing by a creek in the woods south of my apartment complex.  I was alternating looking at the stars and at the canopy of trees across the creek bank.I was looking at the sky and saw a brilliant blue/white flash traveling at a rapid rate of descent in the SSE section of the sky.  It flew in a straight line with no noise and the light remained the same brightness, velocity, and direction throughout the flight.The entire incident took less than 2 seconds.  It did not seem like any meteorite that I had ever seen before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63357.html](http://www.nuforc.org/webreports/reports/063/S63357.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Harrison Twp. (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>5 lights circling one light then stopping and convirging into the middle light.  5 lights coming out from the middle light and circuling again and then repeating the cycle again and again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97162.html](http://www.nuforc.org/webreports/reports/097/S97162.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/162/S162992.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162723.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163370.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163259.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162707.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
