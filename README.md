@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:53 on 14 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:18 on 14 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Sighting:  Distance was 1500-2000 feet in altitude, and was around 60 degrees off the horizon.  Weather conditions were clear with some light high clouds.  Size of craft was approx. 75 feet long and 10-15 feet wide. Location:  Inverness neighborhood- North Seattle.After school, two friends and I witnessed a large, sleek saucer type UFO.  It was dull grey in color and exhibited a thin band of red pulsating light that traveled quickly around the center body of the craft.  It hovered approximately 1500-2000 feet off the ground and was not far away from our position.  The craft would remain stationary, then quickly traveled in an elliptical path of 100-125 yards only to return to its original position and again quietly hover in place.  It traveled in this pattern four times.  A Seattle Police helicopter flew into the area, and proceeded to engage the UFO.  As soon as the helicopter neared the craft, it silently sped off and was out of sight in seconds.Witness Background:  Senior Transportation Planner/Project Manager((NUFORC Note:  We have exchanged several communications with the source of this report, and he sounds to us to be quite sincere and reliable.  PD))((ADDENDUM FROM WITNESS))Hi Peter, I'm sorry about the input error.  I don't recall the exact date in April 1972.  However, I know for certain it was on a Friday.  So the four possible dates would be 4/7, 4/14, 4/21,or 4/28.  I did not want to guess as which Friday the sighting occurred, so I left it as 4/00/1972.   I'm not sure why 1972 did not come out correctly?Next week, I plan to speak with my two friends and encourage them to report the sighting on the database as well.  Will they be required to fill out their names, address, etc?  (Even though the information is held in confidence, I think it will be problematic for them to complete that step).  Please advise.  Thank you Peter Sincerely,((name deleted))((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119380.html](http://www.nuforc.org/webreports/reports/119/S119380.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lake Havasu City (AZ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>bright white/oval traveling at high rate of speedWhile walking our dog, I observed a bright white, oval object traveling at a high rate of speed coming from the north heading to the south.  I watched it for about three seconds and told my girlfriend to look and she turned and observed it, too, for a couple of seconds before it disappeared.  The object appeared to be at least 4 times the size of Jupiter.I was walking the dog with my boyfriend and he told me to look at that pointing to the left in the sky. I saw a big, bright white sphere with a small trail of white going down from left to right.It was bigger than any of the planets in the sky and took a couple of seconds, much longer than any shooting star or meteor I have ever seen, before it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97063.html](http://www.nuforc.org/webreports/reports/097/S97063.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/162/S162992.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162723.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163370.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163259.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162707.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
