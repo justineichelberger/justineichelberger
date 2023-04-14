@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:31 on 14 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:31 on 14 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in San Luis Obispo (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Oval/egg shaped metalic craft hovered 3am over San Luis Obispo, then accelerating South at blinding speed.My wife, a Registered Nurse, stayed up late one night last year, in our home on a ranch located on top of a hill that gave her a clear unobstructerd view towards the city of San Luis Obispo and beyond. She told me the next morning that she observed a metallic looking object that was oval or egg shaped hovering low over the city.  The object appeared to "sense" that it was being observed, because it suddenly accelerated at fantastic speed in a Southern direction, disappearing from sight within a few short seconds (Much too fast for any normal aircraft). The object was approx. 6 to 8 miles away.  The night was clear and illuminated by city lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16911.html](http://www.nuforc.org/webreports/reports/016/S16911.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Bowling Green (KY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>We saw flying fireballs in the sky.I saw fireballs moving left to right in the sky.  There was at least six.  They got really bright then they dimmed out.  Me and my two friends saw them they both are working at the local speed way  I do not have a job at the time.  Just a side note this is not the first time that I've been with my friends and we have seen these fireballs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75096.html](http://www.nuforc.org/webreports/reports/075/S75096.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/162/S162992.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162723.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163370.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163259.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162707.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
