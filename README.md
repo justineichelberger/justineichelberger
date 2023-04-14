@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:48 on 14 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:26 on 14 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Conway (SC) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately Few seconds - Few seconds minutes.</sub><blockquote><sub>Long side to side, not front to back figure.  2 rectangle bright white lights and a square white light on the right.  Disappeared.Driving from work at night, I see a long 3 lighted figure coming down so fast I thought a plane was about to crash right in front of me.  At first I didn't think about how long the lights were, I was too scared something was going to crash in front of me.  The lighted figure went back up slowly then completely disappeared.  I watched the sky waiting for it to reappear, but it never did.  The only clouds that were in the sky were too spread apart and thin for the figure to not be seen behind.  The lights were rectangular with the farthest left light being a long rectangle, the next light was a shorter rectangle and the last light was all the way to the right and was a square.  Airplanes are long front to back, this figure was long side to side. I watched the sky the whole rest of my drive and even when I got to my destination and the figure never reappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108637.html](http://www.nuforc.org/webreports/reports/108/S108637.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Westfield (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Went outside to let dog out..noticed triangle shape with 3 lights moving very very slow headed south east.. started almost over head.. decided to go inside grab glasses and binoculars took 3 seconds came outside.. gone.. and i can see for miles.. no noise either.. moved way to slow for aircraft</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126852.html](http://www.nuforc.org/webreports/reports/126/S126852.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/162/S162992.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162723.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163370.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163259.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162707.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
