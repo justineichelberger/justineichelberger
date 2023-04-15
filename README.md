@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:27 on 15 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:23 on 15 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Doncaster (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I had a really good look at thi object for around 2 min, wasn't a sound coming from it and was as bright as a star.I was outside with my dog of my home, I was looking up and noticed a very bright light moving quite fast in a south direction, I couldn't here a sound and it was a quite clear night, the object passed over head and towards an aircraft, we see a lot of aircraft as I live close to an airport so I'm used to seeing aircraft over my house, the object seemed to be traveling around 3 times as fast as the aircraft  and was heading or seemed to be heading straight for the aircraft, the must have seen it..in my opinion, it wasn't us</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88433.html](http://www.nuforc.org/webreports/reports/088/S88433.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Meriden (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>I saw a bright light hovering outside my window and it moved in a way I’ve never seen before.  It would move up, down, side to side, sometimes fast and sometimes slow, then stop and then keep moving.((NUFORC Note:  We suspect a star.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145658.html](http://www.nuforc.org/webreports/reports/145/S145658.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [574](http://www.nuforc.org/webreports/reports/162/S162737.html)
-- [573](http://www.nuforc.org/webreports/reports/162/S162717.html)
-- [572](http://www.nuforc.org/webreports/reports/162/S162706.html)
-- [571](http://www.nuforc.org/webreports/reports/162/S162733.html)
-- [570](http://www.nuforc.org/webreports/reports/162/S162715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
