@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:20 on 15 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 15 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Crestwood (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>formation of UFO'sMy wife and I were standing out on our backporch when these 5 hovering craft flew in from the Northeast at very high speed. They stopped over the shopping center on Rt 83 and Cicero Ave and hovered for about 10 minutes. Then they took off very fast towards space.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62786.html](http://www.nuforc.org/webreports/reports/062/S62786.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Leeds (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Circular light seen over mountains in washington countyI was traveling north on I-15 around 10pm when I saw what looked like a shooting star falling straight down from the sky, but it was brighter and had no tail.  Then the circular light stopped suddenly right above the mountains north of Toquerville.  It hovered for about a minute then started flashing red and blue lights as it got dimmer.  I could see it was in front and lower the mountain ridge.  As I got closer I lost sight because of some trees.  When I did see it again it was moving a rapid pace flying north toward Cedar City.  I observed it for a total of about ten minutes and finally lost sight because of the hills.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145705.html](http://www.nuforc.org/webreports/reports/145/S145705.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [574](http://www.nuforc.org/webreports/reports/162/S162737.html)
-- [573](http://www.nuforc.org/webreports/reports/162/S162717.html)
-- [572](http://www.nuforc.org/webreports/reports/162/S162706.html)
-- [571](http://www.nuforc.org/webreports/reports/162/S162733.html)
-- [570](http://www.nuforc.org/webreports/reports/162/S162715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
