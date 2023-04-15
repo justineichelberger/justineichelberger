@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:20 on 15 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:30 on 15 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Newport News (VA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Multiple ballistic-like fireballs/rockets?From 2130 until 2200, there were at least eight (8) instances of a bright fireball like object traveling across the sky.  From the approximate coordinates of (37.0923673,-76.4544147), near The Chesapeake living community in Newport News, VA, the object could be seen traveling in a somewhat ballistic trajectory.  Each object would originate from the south-southeast and travel north.  The objects were low on the horizon.  There would only be one object at a time, with a few minutes between each instance.  The objects seemed to be far  away, possibly over the Chesapeake bay.  The objects were very bright and constant, and did not have flashing lights like an airplane.  They looked very similar to rockets, similar to ones launched from Wallops Island.  No sound could be heard.  Other air traffic (planes, etc) would be seen flying but not typically when these object were seen.  The fireball was spherical in shape and bright orange/red.  I have a video of a few of ! them.  They all seemed to follow the same path.  I can also send the original (uncompressed) video files if possible.At about 14 seconds into the video:  https://goo.gl/photos/2hNrGd9ZBk7VtPKQ7  Most of this video has the object traveling right to left across the sky:https://goo.gl/photos/B6tovEx15obqjAfJ7  Can be seen at about 15 seconds:  https://goo.gl/photos/pj4mbqkCrVDTVJxw5  At about 52 seconds, the object can be seen in this video. I believe this was through an optic: https://goo.gl/photos/ivg48NRx8DZXVTyu9</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133652.html](http://www.nuforc.org/webreports/reports/133/S133652.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Ottsville (PA) reported seeing craft that fit the description of some '' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>First saw in direction of Allentown-Bethlehem airport to the North.  Several bright and one very bright flashing light.  Lights far enough apart to suggest low flying plane and also appeared to move at moderate speed but sound of jet engine lagged way behind the lights, suggesting it was very high.  If that high it must have been very large.  Very Strange.  Watched it for several minutes flying south toward Philadelphia.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118329.html](http://www.nuforc.org/webreports/reports/118/S118329.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [574](http://www.nuforc.org/webreports/reports/162/S162737.html)
-- [573](http://www.nuforc.org/webreports/reports/162/S162717.html)
-- [572](http://www.nuforc.org/webreports/reports/162/S162706.html)
-- [571](http://www.nuforc.org/webreports/reports/162/S162733.html)
-- [570](http://www.nuforc.org/webreports/reports/162/S162715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
