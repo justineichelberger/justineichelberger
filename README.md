@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:38 on 15 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:57 on 15 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ossian (IA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Very large, bright green object with tail streaking across night sky in southern Winneshiek County, Iowa.On April 15, 2016, I was working in my farm field, when at approximately 10:15 p.m., I witnessed a large, bright green object, with a tail, streak across the sky, going northeast to southeast.  It came at about a 45 degree downward angle and suddenly disappeared at what appeared to be 250 ft. above ground.The size of this object was considerably larger than a typical falling star and definitely green in color.  By stretching my arm out about 3-4 feet the object was about the size of a golf ball.  I would guess the object was anywhere from two to ten miles away from me.My wife was at home, about 1/4 mile from the farm field. I called to tell her of my sighting and she said our dog was unusually excited and nervous.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126863.html](http://www.nuforc.org/webreports/reports/126/S126863.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Gastonia (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red pulsating light hovering in sky over Gastonia, NC.I noticed a red light above the tree line to the southwest of my apartment’s patio and it caught my attention because it did not look like any aircraft beacon I have seen.  I work at a major international airport in the vicinity for airport operations on the airfield and have spent over seven years in the aviation and airport industry, so I know pretty well what an airplane or helicopter looks like flying at night.  This definitely didn’t look like either.This red light was several miles away but clearly visible.  It pulsated very slowly, I would guess 5 times slower than an aircraft’s red beacon light, but it never faded or disappeared.  At times it would get brighter and almost to an amber color then back to red.  At one point it appeared that another smaller red light appeared just slightly above the main light but soon went away.  The light hovered in the same area for about a minute and a half just slowly moving left and right ever so slightly before finally starting to pick up speed and move toward the West where I lost sight of it behind the trees.In total, the event lasted about 2 minutes.  I called my girlfriend over to the porch and she witnessed the light as well and suggested that it may be a planet or satellite, but this was not possible as there was cloud cover in the sky behind the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97199.html](http://www.nuforc.org/webreports/reports/097/S97199.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [574](http://www.nuforc.org/webreports/reports/162/S162737.html)
-- [573](http://www.nuforc.org/webreports/reports/162/S162717.html)
-- [572](http://www.nuforc.org/webreports/reports/162/S162706.html)
-- [571](http://www.nuforc.org/webreports/reports/162/S162733.html)
-- [570](http://www.nuforc.org/webreports/reports/162/S162715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
