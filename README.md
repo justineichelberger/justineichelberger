@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:29 on 15 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:25 on 15 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in  (NM) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>3 People in 2 states witness flying cigar, disc and triangular shaped objects across sky.Combination of disc shaped and cigar shaped and 1 larger triangular shaped with approximately 100 of them flying in single file formation from southern direction to northern direction. On the phone with friends in California that were witnessing them at the same time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155161.html](http://www.nuforc.org/webreports/reports/155/S155161.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Wichita (KS) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 2.5 - 2.5 minutes.</sub><blockquote><sub>Stationary cylinder object lights up sky and rockets out of sight.The cylinder object came into view below the "Blood Moon."  It stayed stationary for about a solid minute, then started to move in circles, the circles got bigger and bigger.  The object began to glow a aqua blue color and finally rocketed directly up.  The farther it went the brighter it got.  Finally it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108658.html](http://www.nuforc.org/webreports/reports/108/S108658.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [574](http://www.nuforc.org/webreports/reports/162/S162737.html)
-- [573](http://www.nuforc.org/webreports/reports/162/S162717.html)
-- [572](http://www.nuforc.org/webreports/reports/162/S162706.html)
-- [571](http://www.nuforc.org/webreports/reports/162/S162733.html)
-- [570](http://www.nuforc.org/webreports/reports/162/S162715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
