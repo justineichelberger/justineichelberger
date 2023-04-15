@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:26 on 15 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:20 on 15 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Kenner (LA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Clear sphere seenI live near an airport and was on my way home from work. I was watching an airliner taking off while exiting the interstate. I noticed something shining well above the jet. I saw a small sphere that seemed to be invisible, but it was reflecting sunlight and you could see the outline. Kind of like the camouflage on the Predator movies. I saw it for about 10 seconds. I then looked down to see where the traffic was. When I looked back up, I couldn't find it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36376.html](http://www.nuforc.org/webreports/reports/036/S36376.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Color changing bright light spotted over downtown TorontoI was standing on the balcony of my friend’s apartment (9th floor) in downtown Toronto looking north-west when I noticed what at first appeared to be a very bright star.  As I continued to observe the light I noticed that it kept changing color from blue to red to white.  At first I thought that it was an airplane as there was some air traffic in the distance.  But as time went by it appeared as though the light stood still while the air traffic passed by at a higher altitude.  After staying in one spot for almost 30 minutes (at least from when I began observing it) it suddenly began to climb in altitude and then it vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56257.html](http://www.nuforc.org/webreports/reports/056/S56257.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [574](http://www.nuforc.org/webreports/reports/162/S162737.html)
-- [573](http://www.nuforc.org/webreports/reports/162/S162717.html)
-- [572](http://www.nuforc.org/webreports/reports/162/S162706.html)
-- [571](http://www.nuforc.org/webreports/reports/162/S162733.html)
-- [570](http://www.nuforc.org/webreports/reports/162/S162715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
