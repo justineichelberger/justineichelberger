@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:21 on 15 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:34 on 15 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>SEEN IN BROAD DAYLIGHT- large craft that looked like two pie plates facing each other with a short cylinder in between, yellow and orange...I was sitting in history class in the eighth grade (four years ago) when I happened to glance out the window and see a large object about 50 yards in diameter floating over my neighborhood in the northwestern suburbs of Austin. It looked to be about half a mile away and moving slowly at a speed of 20 to 30 mph. It was only about 50 feet off the ground so I know that others must have seen it as well. The top and bottom pie plate-shaped portions of the craft were orange and the center cylindrical portion was yellow. I don't think it was metallic because I couldn't see any kind of a shine (and the sun was very bright at the time with no cloud cover at all). I blinked a few times to make sure I wasn't seeing things and then turned to one of my classmates to see if I could get another witness. When I turned back to look out the window 2 seconds later the object had completely vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11181.html](http://www.nuforc.org/webreports/reports/011/S11181.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>At approximately 6:00a.m., I witnessed an odd, oval, slightly glowing object (12" or so) move in a zig-zag pattern and at extreme speed.At approximately 6:00a.m. today, I awoke to take our dog for her early morning constitutional. Everyone in the house knows I have a thing for looking out of the windows when I first wake up, maybe to make certain the World is still here...anyway, I walked across the living room and looked out of the window behind the love seat. At first, I thought it was a bird...but, I realized that birds don't glow. Then I looked more closely at the shape...kind of oval, but more like when you cup your hands and put them together, and roughly twice that size...the difference being that where your fingertips would come together, there was a dark wedge shape dividing the 2 halves, but only half way down. I didn't see any head, or tail, nor feet...just this shape. And the glowing was a muted glow, not bright, and the color was somewhere between a light grey and white. And it was pulsating, but only slightly. The next thing I know, one of the stray kittens we feed came bounding around the corner of the house and pounced at it...that is when I became absolutely certain it was not a bird. It moved so fast, from a completely stationary position, faster than anything I have ever seen move, at least in person and not on the big screen...The pattern of its movement was a sloppy zig-zag, and it moved at about the height of the cat's head...maybe 10 inches off the ground. After about 2 zigs and one zag, all the while staying ahead of the cat, they both disappeared around the corner of another house... Again, as it moved, there was no sound...no tail...no wings...and nothing that could have been a head...it retained its "cupped hands" shape the entire time. I went to see if I could find any trace of it, and there was nothing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36358.html](http://www.nuforc.org/webreports/reports/036/S36358.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [574](http://www.nuforc.org/webreports/reports/162/S162737.html)
-- [573](http://www.nuforc.org/webreports/reports/162/S162717.html)
-- [572](http://www.nuforc.org/webreports/reports/162/S162706.html)
-- [571](http://www.nuforc.org/webreports/reports/162/S162733.html)
-- [570](http://www.nuforc.org/webreports/reports/162/S162715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
