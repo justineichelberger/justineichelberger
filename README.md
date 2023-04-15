@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:26 on 14 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:38 on 15 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Harrison Twp. (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>5 lights circling one light then stopping and convirging into the middle light.  5 lights coming out from the middle light and circuling again and then repeating the cycle again and again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97162.html](http://www.nuforc.org/webreports/reports/097/S97162.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ossian (IA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Very large, bright green object with tail streaking across night sky in southern Winneshiek County, Iowa.On April 15, 2016, I was working in my farm field, when at approximately 10:15 p.m., I witnessed a large, bright green object, with a tail, streak across the sky, going northeast to southeast.  It came at about a 45 degree downward angle and suddenly disappeared at what appeared to be 250 ft. above ground.The size of this object was considerably larger than a typical falling star and definitely green in color.  By stretching my arm out about 3-4 feet the object was about the size of a golf ball.  I would guess the object was anywhere from two to ten miles away from me.My wife was at home, about 1/4 mile from the farm field. I called to tell her of my sighting and she said our dog was unusually excited and nervous.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126863.html](http://www.nuforc.org/webreports/reports/126/S126863.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/162/S162992.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162723.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163370.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163259.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162707.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
