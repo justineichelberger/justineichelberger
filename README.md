@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:26 on 15 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:21 on 15 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Lawrenceville (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I live a few miles from a small airport so I see alot of planes day an night,  I was outside smoking a cigarette an looked up at this plane (no big deal) then it made a complete right angle turn at triple its current speed, then imiditley returned to its normal speed at this direction,  this was not a spotlight or anything like that it was a craft and I never seen anything like that((NUFORC Note:  Source of the report elects to remain anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133901.html](http://www.nuforc.org/webreports/reports/133/S133901.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>SEEN IN BROAD DAYLIGHT- large craft that looked like two pie plates facing each other with a short cylinder in between, yellow and orange...I was sitting in history class in the eighth grade (four years ago) when I happened to glance out the window and see a large object about 50 yards in diameter floating over my neighborhood in the northwestern suburbs of Austin. It looked to be about half a mile away and moving slowly at a speed of 20 to 30 mph. It was only about 50 feet off the ground so I know that others must have seen it as well. The top and bottom pie plate-shaped portions of the craft were orange and the center cylindrical portion was yellow. I don't think it was metallic because I couldn't see any kind of a shine (and the sun was very bright at the time with no cloud cover at all). I blinked a few times to make sure I wasn't seeing things and then turned to one of my classmates to see if I could get another witness. When I turned back to look out the window 2 seconds later the object had completely vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11181.html](http://www.nuforc.org/webreports/reports/011/S11181.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [574](http://www.nuforc.org/webreports/reports/162/S162737.html)
-- [573](http://www.nuforc.org/webreports/reports/162/S162717.html)
-- [572](http://www.nuforc.org/webreports/reports/162/S162706.html)
-- [571](http://www.nuforc.org/webreports/reports/162/S162733.html)
-- [570](http://www.nuforc.org/webreports/reports/162/S162715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
