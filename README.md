@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:23 on 15 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:23 on 15 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Meriden (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>I saw a bright light hovering outside my window and it moved in a way I’ve never seen before.  It would move up, down, side to side, sometimes fast and sometimes slow, then stop and then keep moving.((NUFORC Note:  We suspect a star.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145658.html](http://www.nuforc.org/webreports/reports/145/S145658.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>ufo visual miami florida weston a early morning of the above date on or about nw 59th ave., and 2nd street, miami, florida, near my house in broad daylight my mother(80 years old) and i(45years old) were sitting on the porch conversing. we were facing the west at 270 degrees/0 degrees north.we both looked for a moment to the west about 60+ plus miles distance at about 50,ooo+ feet near the florida everglades. we saw a rectangular ufo(similar match box shape)enter the atmosphere. a still and a strange calm all of the sudden was felt by the residents/neighbors in the air, as if you lock yourself in a closet and tune out the world. ufo colors were a combined black and silver color with very very bright square lights in front. i would swear the ufo lights were on!it happened for just a moment, i would estimate less than 3 minutes. the sky was clear and no rain-beautiful day.the ufo width i would estimate about 1/3 of a mile wide. i explained this sighting to the us air force by e-mail. the base near to us has already recieved the intelligence. myself having trained and educated eyes - engineer and ex-us marine warrior, i am very certain as to what we saw. mother and i do not take drugs. at the time we saw the ufo remained calm. my neighbors new truck car horn on the steering wheel sounded while he was not in the truck as the saucer entered the earth atmosphere. it was not his truck alarm. my neighbor luis, told me the day after that his house lights were blinking on and off and the floor under his feet began to feel hot for just a moment during the craft entry. mother(school teacher) the next day had another visual now at 310 degrees north. as we sat and witnessed what was happening in the homes near us i looked for binocular to observe closely. the ufo lights faded in the sky. i had the impression that if they have the capabilities to scan our lives and motions then when binocular was picked up by me they may have viewed this in board their ship on their screens. can not say to much more on ly that occured about two da! ys back to back.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63157.html](http://www.nuforc.org/webreports/reports/063/S63157.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [574](http://www.nuforc.org/webreports/reports/162/S162737.html)
-- [573](http://www.nuforc.org/webreports/reports/162/S162717.html)
-- [572](http://www.nuforc.org/webreports/reports/162/S162706.html)
-- [571](http://www.nuforc.org/webreports/reports/162/S162733.html)
-- [570](http://www.nuforc.org/webreports/reports/162/S162715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
