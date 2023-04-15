@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:33 on 15 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:20 on 15 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Clearence Center (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>close encounter in nyas I was rounding a curve approaching my home one night in the rural town of clearence center outside of buffalo,ny I saw this approx 300ft wide oval shaped object moving slowly from right to left about 100ft in the air. It had 3 predominat lights(2 on each bottom corner and one center top)besides those there were hundreds of smaller lights dispersed thruout the oval shape(guesing on the shape since lights were the only way to define it) I stopped and got out of my car,focusing on the three bright lights I could see the vessel slowly gyrating. It made no sound as it stood in the air. I got back in my car and flashed my highbeams rapidly at it,suddenly it stopped moving from right to left and a single small light left it, made an arcing swoop to line up with the road about 50 yards in front of me and 50 ft up. It then turned on this bright white beam aimed at the road approx 45deg angle and started towards me.I then put my car in reverse and as I was scared. At that point both objects immediately disapeared from the sky in opposite directions.Not sure on date but I do know there was another reported in lakawanna,ny on the same night(25mi)((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22475.html](http://www.nuforc.org/webreports/reports/022/S22475.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Crestwood (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>formation of UFO'sMy wife and I were standing out on our backporch when these 5 hovering craft flew in from the Northeast at very high speed. They stopped over the shopping center on Rt 83 and Cicero Ave and hovered for about 10 minutes. Then they took off very fast towards space.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62786.html](http://www.nuforc.org/webreports/reports/062/S62786.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [574](http://www.nuforc.org/webreports/reports/162/S162737.html)
-- [573](http://www.nuforc.org/webreports/reports/162/S162717.html)
-- [572](http://www.nuforc.org/webreports/reports/162/S162706.html)
-- [571](http://www.nuforc.org/webreports/reports/162/S162733.html)
-- [570](http://www.nuforc.org/webreports/reports/162/S162715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
