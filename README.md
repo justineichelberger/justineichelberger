@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:26 on 15 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:27 on 15 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Eastaboga (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Three lights equal distance apart and level were flying west.  Within 10 minutes, no fewer than four jets with lights flashing rapidly approached and one light (outside left) was extinguished.  The remaining lights continued on their path west with the jets in pursuit.((NUFORC</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133623.html](http://www.nuforc.org/webreports/reports/133/S133623.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Doncaster (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I had a really good look at thi object for around 2 min, wasn't a sound coming from it and was as bright as a star.I was outside with my dog of my home, I was looking up and noticed a very bright light moving quite fast in a south direction, I couldn't here a sound and it was a quite clear night, the object passed over head and towards an aircraft, we see a lot of aircraft as I live close to an airport so I'm used to seeing aircraft over my house, the object seemed to be traveling around 3 times as fast as the aircraft  and was heading or seemed to be heading straight for the aircraft, the must have seen it..in my opinion, it wasn't us</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88433.html](http://www.nuforc.org/webreports/reports/088/S88433.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [574](http://www.nuforc.org/webreports/reports/162/S162737.html)
-- [573](http://www.nuforc.org/webreports/reports/162/S162717.html)
-- [572](http://www.nuforc.org/webreports/reports/162/S162706.html)
-- [571](http://www.nuforc.org/webreports/reports/162/S162733.html)
-- [570](http://www.nuforc.org/webreports/reports/162/S162715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
