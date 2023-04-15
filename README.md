@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:20 on 15 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:21 on 15 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Color changing bright light spotted over downtown TorontoI was standing on the balcony of my friend’s apartment (9th floor) in downtown Toronto looking north-west when I noticed what at first appeared to be a very bright star.  As I continued to observe the light I noticed that it kept changing color from blue to red to white.  At first I thought that it was an airplane as there was some air traffic in the distance.  But as time went by it appeared as though the light stood still while the air traffic passed by at a higher altitude.  After staying in one spot for almost 30 minutes (at least from when I began observing it) it suddenly began to climb in altitude and then it vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56257.html](http://www.nuforc.org/webreports/reports/056/S56257.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Sighting of multiple illuminated craft hovering and assending over Boise, idahoBetween 9:00 and 10:00 pm Satuday, April 15, 2017, I was exiting a parking lot in shopping center in sw Boise and saw a large illuminated object hovering above approximately 500-1000 feet. Within a few seconds the object ascended vertically and blinked out. I saw three other ufo's above the city and drove back in the parking lot and took photos with my cellphone as they ascended and disappeared from sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147625.html](http://www.nuforc.org/webreports/reports/147/S147625.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [574](http://www.nuforc.org/webreports/reports/162/S162737.html)
-- [573](http://www.nuforc.org/webreports/reports/162/S162717.html)
-- [572](http://www.nuforc.org/webreports/reports/162/S162706.html)
-- [571](http://www.nuforc.org/webreports/reports/162/S162733.html)
-- [570](http://www.nuforc.org/webreports/reports/162/S162715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
