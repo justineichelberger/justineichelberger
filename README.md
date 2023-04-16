@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:29 on 16 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:25 on 16 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Atoka (OK) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Single line formation, fast moving, star-like in the western sky.Looking into the night sky above the north star, approximately 25 UFO's were spotted in a spaced single formation traveling faster and higher than a jet with no flashing or colored lights. These were higher in altitude than the path jets take overhead and were not in the flight path taken by most planes in this area. These UFO'S were dim white, fast moving lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155238.html](http://www.nuforc.org/webreports/reports/155/S155238.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Rome (Italy) () reported seeing craft that fit the description of some 'Chevron' over a period of approximately Not Sure - Not Sure minutes.</sub><blockquote><sub>This is a solid white Chevron to the left of the palm tree in the photoI was shooting a picture of a palm tree located in the park near the Spanish steps.  Later when I was at the hotel I noticed a white “V” in the sky to the left of the tree.  I zoomed in and it clearly looks like other Chevron’s I have seen reported.  I used my iphone to take the photo.  It was about 65-70 degrees and calm winds.  Most of the sky was clear with a few clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109389.html](http://www.nuforc.org/webreports/reports/109/S109389.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/162/S162807.html)
-- [420](http://www.nuforc.org/webreports/reports/162/S162808.html)
-- [419](http://www.nuforc.org/webreports/reports/162/S162731.html)
-- [418](http://www.nuforc.org/webreports/reports/162/S162904.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162790.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
