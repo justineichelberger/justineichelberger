@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:29 on 16 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:21 on 16 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>I was at ny parents' house, sitting on the porch swing out in the county (country-side), talking on the phone, when an object that looked like the sun (yellow) came into my view, traveling at an average jet-airplane speed, coming from the SW and heading NE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145683.html](http://www.nuforc.org/webreports/reports/145/S145683.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Briarwood (Queens) (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>Abuction with temporary awarenessI am a financial services representative and I am reporting this event for the first time here.  I lived in an apartment building's top floor (6th) with my wife and 5 year old daughter at the time.  Our daughter slept in a bed that was in our bedroom.One night (during late hours), I was awakened because I heard my daughter crying.  I sat up on my bed, and to my surprise, I saw a short being with gray skin and large eyes that fit the description of the beings that people report as alien beings.There were two more at each side of my bed as well (total of three). Being that I am also a martial arts expert it was clear that these small beings were no match, at least physically to me. It all happened in milliseconds...I saw my daughter sitting on her bed as well and in the middle of the commotion my wife would not wake up.I felt numbing vibrations aimed at the lower portion of the back of my head. I had the sensation that the sensation was some form of attempt to restrain me. I did not like the scene at all, I was fully awake and not unders what is known as sleep paralysis.I decided to instantly repell the intruders to protect my family as a triggered instinct. It was clear they could not understand or prevent my initial attack but before even touching the closest one to my bed I was incapacitated by a sharp energy shock. It was aimed to my back and delivered instantly to my spinal cord approximately below my shoulder plate bones.I was immobilized falling back into my own bed as I could still hear my daughter cry. These beings surrounded me and were curious as to how I was able to resist their first attempt to shut my motor functions down.I was scared and unable to move. What was more, listening to my daughter cry in fear was the worst experience in my life yet.Everything faded and I have a partial recolelction of being inside a large oval metallic craft with other people in there as well. They appeared to be awake and yet out of it, simply sitting and waiting for 'nothing'.I tried to communicate with the 'crew members' and with my peers but I do not remember anything after that.I woke up the next day on my bed, I was fully aware of what had transpired and my child kept asking me who were the little men in the room last night.She drew their pictures, my wife and I told her it was just a dream to minimize her fear but I know all too well what really happened.Who do you call in these matters? Thank you, RR((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48981.html](http://www.nuforc.org/webreports/reports/048/S48981.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/162/S162807.html)
-- [420](http://www.nuforc.org/webreports/reports/162/S162808.html)
-- [419](http://www.nuforc.org/webreports/reports/162/S162731.html)
-- [418](http://www.nuforc.org/webreports/reports/162/S162904.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162790.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
