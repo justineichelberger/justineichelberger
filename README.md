@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:16:53 on 16 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:32 on 16 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Tracy (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>((NUFORC Note:  Witness provides no information about sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155251.html](http://www.nuforc.org/webreports/reports/155/S155251.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Naples (ME) reported seeing craft that fit the description of some 'Flash' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>2 in car followed by ship others around town sawdriving to a friends house in Naples late night had to drop off a family member get half way between town of liminton and naples when we both saw bright falshing blue/white lights in the woods the seemed to go away when they came back about a mile an a half down the road we kept driving the light is now brighter higher and more freakwent we drive on being followed by this thing i tell my friend to speed up but he dosnt want to break the speed limit after a few  min he sadi screw it and the when he went to go speed the car started to runn strange and the radio went static we finally go about 5 miles from our friends house and a car went by us when i looked back to see the car there were no break lights that freaked me out even more i was about in tears we didnt sleep that night we both were wacthing each other like hawks as if we were against each other i had never been so scared in my life the dog barked all night the next day we went to the stor for our friend and stoped by my boyfrinds house on the way when he had seen the lights too in the stor about a hr later i overherd a guy talking baout how strang things were happening at nights around " these parts " it was strange((NUFORC Note:  One of two similar reports from Maine, submitted by the same witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28989.html](http://www.nuforc.org/webreports/reports/028/S28989.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/162/S162807.html)
-- [420](http://www.nuforc.org/webreports/reports/162/S162808.html)
-- [419](http://www.nuforc.org/webreports/reports/162/S162731.html)
-- [418](http://www.nuforc.org/webreports/reports/162/S162904.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162790.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
