@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:43 on 16 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:25 on 16 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Brentwood (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>High flying lights one after the other  heading NE may be 20 lights or more.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155262.html](http://www.nuforc.org/webreports/reports/155/S155262.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Minneapolis (MN) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>20-30 orbs in birdlike formation heading east from west. City lights illuminated bottoms of orbsMy wife and I just witnessed approximately 20-30 orbs flying high in the sky. They are currently heading east (from the west). The formation is almost birdlike. The orbs were moving in a group type formation in what looks like a flying w type formation. The bottoms or the visible portions were what looked like a mirror. The tops were not visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62803.html](http://www.nuforc.org/webreports/reports/062/S62803.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/162/S162807.html)
-- [420](http://www.nuforc.org/webreports/reports/162/S162808.html)
-- [419](http://www.nuforc.org/webreports/reports/162/S162731.html)
-- [418](http://www.nuforc.org/webreports/reports/162/S162904.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162790.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
