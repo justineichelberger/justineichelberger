@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:22 on 16 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:29 on 16 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Pataskala (OH) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Silver object seen by 2 witnessesMy boyfriend and I were driving westbound on I-70 towards Columbus, near Pataskala, when I noticed a shiny object in the sky to our right.  At first I thought it was an airplane but on second look I saw that it was larger and fatter than an airplane.  It was oblong cigar-shaped, very shiny like the Sun reflecting on silver metal.  It was sort of hanging in the sky at a slight angle.  I pointed at it, and my boyfriend said he saw it too.  When I looked back it was gone.  The sky was clear blue with no clouds.  We did see an airplane very high in the sky leaving a Chemtrail.  The object appeared again, and then disappeared completely.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126888.html](http://www.nuforc.org/webreports/reports/126/S126888.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>I was at ny parents' house, sitting on the porch swing out in the county (country-side), talking on the phone, when an object that looked like the sun (yellow) came into my view, traveling at an average jet-airplane speed, coming from the SW and heading NE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145683.html](http://www.nuforc.org/webreports/reports/145/S145683.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/162/S162807.html)
-- [420](http://www.nuforc.org/webreports/reports/162/S162808.html)
-- [419](http://www.nuforc.org/webreports/reports/162/S162731.html)
-- [418](http://www.nuforc.org/webreports/reports/162/S162904.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162790.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
