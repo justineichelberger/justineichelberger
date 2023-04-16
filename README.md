@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:21 on 16 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:31 on 16 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in North Riverside (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright ball light craft.White ball craft looking thing stayed in same position for like 10 minutes and then moved to a completely different spot and then stayed at new spot which was way to the right and way lower than it originally was. A few minutes later it disappeared.I took a photo and you can pretty much see what we saw. but i don't know  how to send it here.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56268.html](http://www.nuforc.org/webreports/reports/056/S56268.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Amarillo (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately Few seconds - Few seconds minutes.</sub><blockquote><sub>Four lights seen in morning sky.Early this morning, taking my dog out, I was observing the sky looking for satellites.  It was calm and clear.  I as was facing north and three white dots accompanied by a fourth were heading in a north west direction.  To me it seemed like a triangle with the fourth as an escort.  The color never changed, or blinked.  There was no jet trail, no noise.  They stayed in formation at a constant speed until they were out of my sight.  They were about the same luminosity as a star (but not as bright as Mars is right now in the morning sky.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155224.html](http://www.nuforc.org/webreports/reports/155/S155224.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/162/S162807.html)
-- [420](http://www.nuforc.org/webreports/reports/162/S162808.html)
-- [419](http://www.nuforc.org/webreports/reports/162/S162731.html)
-- [418](http://www.nuforc.org/webreports/reports/162/S162904.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162790.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
