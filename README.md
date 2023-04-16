@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:33 on 16 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:04 on 16 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Thousand Oaks (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Almost appeared as bright Satellites  moving in a straight line formation evenly spaced. Just above Venus in the night sky, heading in a Northern direction.. Counted 42 over a 20 minute period.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155281.html](http://www.nuforc.org/webreports/reports/155/S155281.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Boulder (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.7833333333333333 - 0.7833333333333333 minutes.</sub><blockquote><sub>ufo sighted over North Boulder.I saw a triangular shaped craft with 3 very dim lights one each end flying rather fast west over north boulder.  It flew in a straight direction but seemed to vanish at an angle I assume is 45 degrees from my vantage point.  It was a dark color but was visible because of its dim lights.  It seemed to be flying low and if so was very silent and not very large so there was no possibility it was a drone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139473.html](http://www.nuforc.org/webreports/reports/139/S139473.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/162/S162807.html)
-- [420](http://www.nuforc.org/webreports/reports/162/S162808.html)
-- [419](http://www.nuforc.org/webreports/reports/162/S162731.html)
-- [418](http://www.nuforc.org/webreports/reports/162/S162904.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162790.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
