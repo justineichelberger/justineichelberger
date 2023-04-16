@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:26 on 15 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:33 on 16 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Lyndhurst (NJ) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Small creatures from the skyAt about 2:45am I awoke, it was cold and a steady dripping rain was occurring. I went into my pick-up and started it to warm my cold bones. There were only two other campsites in use since it was the 'early' season. One site had a few young folks and was noisy till 11pm. When I woke the sky was cloud covered, dark, and the storms had died down but the staedy rain had not. I left my tent and went into my pick-up, started the engine to warm-up, and lit a cig. Now after my 1974 UFO incident; and all the "Talk" after that one this was unique. All of a sudden a stream of Universal Pictures Stars decended from the low clouds. They shot straight down out of the clouds, fromed a circle, just like in the movie intro, and then spread out. There were about 15 little stars flying down, they seemed to hit the water and spread out to the west. These small lights flew at about 200mph when they came close to the water, never touched it, and spread out on the west side of the Sawmill Lake. I have been camping here at that time 30yrs. and never saw anything like this! These little lites streamed through the trees like firflies. But at 200mph! 4 of them stopped at what I knew to be an abandoned trail, the others were still flying through the campsites. One of the lites left the area on the far but close side of the lake and flew through the woods towards me. I lost track of the rest, this one was coming right for me. It landed on my windshield! I have drawn a picture, and it is not a UFO, but a small creature. The one that left the fold of 4 flew through the woods towards me; and landed on my windshield. It almost looked like a grasshopper. It had the same oval dark eyes; suchtion-cup finger tips, and was about 5"tall. I spoke to it mentally... I Thought i Had died and they were there for me...NO! It flew away, wings and all, rejoined the other lights at the center of the lake and flew straight, with his/her friends; straight UP from where they came. This was not a UFO, but some kind of close encounter...s! o has an yone reported something like this? Aliens not in a ship? Aliens just here in some sort of glowing gold bubble? with wings, feet, hands, etc.etc. WOW Someone help me here.... my 2nd; and VERY different CE3rdK. Theses small creatures were most certianly Alien but not what you might expect. Free flying, free falling, and it seemed, free-thinking!((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61456.html](http://www.nuforc.org/webreports/reports/061/S61456.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Thousand Oaks (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Almost appeared as bright Satellites  moving in a straight line formation evenly spaced. Just above Venus in the night sky, heading in a Northern direction.. Counted 42 over a 20 minute period.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155281.html](http://www.nuforc.org/webreports/reports/155/S155281.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [574](http://www.nuforc.org/webreports/reports/162/S162737.html)
-- [573](http://www.nuforc.org/webreports/reports/162/S162717.html)
-- [572](http://www.nuforc.org/webreports/reports/162/S162706.html)
-- [571](http://www.nuforc.org/webreports/reports/162/S162733.html)
-- [570](http://www.nuforc.org/webreports/reports/162/S162715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
