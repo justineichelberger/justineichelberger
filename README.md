@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:31 on 16 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:21 on 16 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Amarillo (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately Few seconds - Few seconds minutes.</sub><blockquote><sub>Four lights seen in morning sky.Early this morning, taking my dog out, I was observing the sky looking for satellites.  It was calm and clear.  I as was facing north and three white dots accompanied by a fourth were heading in a north west direction.  To me it seemed like a triangle with the fourth as an escort.  The color never changed, or blinked.  There was no jet trail, no noise.  They stayed in formation at a constant speed until they were out of my sight.  They were about the same luminosity as a star (but not as bright as Mars is right now in the morning sky.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155224.html](http://www.nuforc.org/webreports/reports/155/S155224.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Kokomo (IN) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Formation of 6 silent white lights that hovered and dissappeared.On April 16, 2005 at 21:30, myself and 2 other adults saw a series of about 6 white/yellow round lights in formation in the western part of the night sky. Initially, the lights stood still then the northen end of the formation began to move upwards, and then disappeared. The lights made no noise and did not appear to resemble any type of aircraft usually seen in the area. The sky was mostly clear.I saw a very similar formation in October of 2002.  That sighting took place in Indiana near the intersection of US31 N and SR 38 at about 22:30. The sighting were nearly identical.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43532.html](http://www.nuforc.org/webreports/reports/043/S43532.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/162/S162807.html)
-- [420](http://www.nuforc.org/webreports/reports/162/S162808.html)
-- [419](http://www.nuforc.org/webreports/reports/162/S162731.html)
-- [418](http://www.nuforc.org/webreports/reports/162/S162904.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162790.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
