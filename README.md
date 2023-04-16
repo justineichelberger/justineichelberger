@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:26 on 16 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:28 on 16 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Lafayette (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>this aint no hoax, it for real, i saw what i saw!im at the holiday inn at lafayette, In. and i looked out the window and saw a light the was moving across the sky and then it all of a sudden turned into like 5-6 sepperate lights that looked like stars. way to high for firworks. and then i saw airplanes close by, i'm sure the pilots of those planes saw it too. i tried to call the airport to see if they might have saw what i saw , but i found this insted and this is what i wrote, and saw, no hoax here , i'll bet this aint the only report you get. call me 517-206-5108 Michael J. Dix. hope to here that someone else reported the same thing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63349.html](http://www.nuforc.org/webreports/reports/063/S63349.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Yakima (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>One big light going straight then looked like it was spinning, near miss to a plane flying by.I went outside for a smoke and saw this bright circular light looking like a satellite but very much lower and very bright.  It first went straight to the east and then it started moving like it was out of balance (drunk).  Then coming from the west was a plane heading to Sea Tac and I thought was a near miss to the plane.  I yelled if anyone else can see it but no response, so I ran in side for my girlfriend to run out, when I ran back it was gone, damn I should have stayed out the whole time.  Also check the flight logs of SeaTac traffic and see if any passengers in that plane witness what I saw, someone on that plane had to see what I saw, have too!!!  One more thing the light was on the whole time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118480.html](http://www.nuforc.org/webreports/reports/118/S118480.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/162/S162807.html)
-- [420](http://www.nuforc.org/webreports/reports/162/S162808.html)
-- [419](http://www.nuforc.org/webreports/reports/162/S162731.html)
-- [418](http://www.nuforc.org/webreports/reports/162/S162904.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162790.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
