@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:18 on 16 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:26 on 16 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Altadena (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Hiking way up in the mountains of Altadena, around 8:30pm witnessed a total of 51 unidentified flying objects (single distant unblinking lights) traveling in a somewhat straight trajectory appearing near Orion's Belt traveling by Venus in a NW trajectory. They all were maintaining the same speed and direction one appearing after the next. My friend and I both watched this transpire over about an hour. When looking up above us,we also noted additional distant lights but traveling in several different directions.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155242.html](http://www.nuforc.org/webreports/reports/155/S155242.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.3333333333333335e-05 - 3.3333333333333335e-05 minutes.</sub><blockquote><sub>Unknown fast object appears in down-loaded photoOn April 16th 2021 at 11:32am I took a photo of a cloud that had caught my attention due to the bright very light yellow glow of the cloud. I was facing southeast (approx. 100 deg. magnetic); this glow was like a sundog. Approximate elevation of the cloud was 45 degrees. The sun was high in the south-southeast. The cloud was also the only “formed” cloud in the area of my vision. I was using a Canon Power-Shot SX620-HS; I was zoomed at 25.65mm,f5.6 aperture at 1/500 of a second. After that shot, I zoomed out to 9.61mm and took a second photo from the same stance at f4.5 aperture at the same, photo data recorded 11:32AM and at a faster speed: 1/640 of a sec.I personally did not see the object when I took the photo! When I downloaded the camera there was the object. Then I looked at the second photo and there is no object. The area I was facing is toward the Davis-Monthan AF base (?)That object crossed my camera frame in less than a second. I am a former Navy asst. navigator and currently a retired professor.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162938.html](http://www.nuforc.org/webreports/reports/162/S162938.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/162/S162807.html)
-- [420](http://www.nuforc.org/webreports/reports/162/S162808.html)
-- [419](http://www.nuforc.org/webreports/reports/162/S162731.html)
-- [418](http://www.nuforc.org/webreports/reports/162/S162904.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162790.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
