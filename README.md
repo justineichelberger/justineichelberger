@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:28 on 16 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:43 on 16 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Yakima (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>One big light going straight then looked like it was spinning, near miss to a plane flying by.I went outside for a smoke and saw this bright circular light looking like a satellite but very much lower and very bright.  It first went straight to the east and then it started moving like it was out of balance (drunk).  Then coming from the west was a plane heading to Sea Tac and I thought was a near miss to the plane.  I yelled if anyone else can see it but no response, so I ran in side for my girlfriend to run out, when I ran back it was gone, damn I should have stayed out the whole time.  Also check the flight logs of SeaTac traffic and see if any passengers in that plane witness what I saw, someone on that plane had to see what I saw, have too!!!  One more thing the light was on the whole time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118480.html](http://www.nuforc.org/webreports/reports/118/S118480.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Brentwood (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>High flying lights one after the other  heading NE may be 20 lights or more.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155262.html](http://www.nuforc.org/webreports/reports/155/S155262.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/162/S162807.html)
-- [420](http://www.nuforc.org/webreports/reports/162/S162808.html)
-- [419](http://www.nuforc.org/webreports/reports/162/S162731.html)
-- [418](http://www.nuforc.org/webreports/reports/162/S162904.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162790.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
