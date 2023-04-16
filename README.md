@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:25 on 16 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:18 on 16 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Umpqua Nat. Forest (Idleyld Park) (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Two balls of light, moving in formation, by Mt. Theilsen was observed in Umpqua national forest by dosens of campersTwo balls of non-directional, full spectrum, bright light in perfect formation moving swiftly up the river valley, before veering up and shooting off into space near Mt Theilsen.  A chase plane was observed about one minute later.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118509.html](http://www.nuforc.org/webreports/reports/118/S118509.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Altadena (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Hiking way up in the mountains of Altadena, around 8:30pm witnessed a total of 51 unidentified flying objects (single distant unblinking lights) traveling in a somewhat straight trajectory appearing near Orion's Belt traveling by Venus in a NW trajectory. They all were maintaining the same speed and direction one appearing after the next. My friend and I both watched this transpire over about an hour. When looking up above us,we also noted additional distant lights but traveling in several different directions.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155242.html](http://www.nuforc.org/webreports/reports/155/S155242.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/162/S162807.html)
-- [420](http://www.nuforc.org/webreports/reports/162/S162808.html)
-- [419](http://www.nuforc.org/webreports/reports/162/S162731.html)
-- [418](http://www.nuforc.org/webreports/reports/162/S162904.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162790.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
