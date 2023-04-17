@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:28 on 17 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:27 on 17 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Green tennis ball-like object above Los Angeles Airport.It was about 4:00pm in the afternoon. I was in an airplane above LAX, and we were flying above the clouds. The sun was shining brightly. I looked out the window and saw a lime green sphere in the sky. It resembled a tennis ball. I could not estimate the size of it; it was hard to tell if it was near or far. It passed the plane on the left side. The object was either hovering in one spot as the plane was passing it or it was moving past the plane in the opposite direction. I watched it pass from the front of the plane to the back. I am a 21 year old college student going into graphic design and illustration. I have had an ongoing interest in the paranormal since I was about 7 years old.((NUFORC Note:  Date is approximate; witness is anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18001.html](http://www.nuforc.org/webreports/reports/018/S18001.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Murrells Inlet (SC) reported seeing craft that fit the description of some 'Flash' over a period of approximately less than minute - less than minute minutes.</sub><blockquote><sub>UFO was approximately 2000-5000 above the ocean, hard to guage how far away they were.  First pulses of light brought object to our attention.  Three pulses of dim yellow light that grew rapidly in intensity, dimmed rapidly then reappeared very close to the preceeding pulse within a half second before the first light had dimmed fully like 3 lights from the same object just happening at different intervals. Same three pulses happened further down the coast within 15 seconds and further out to sea, estimate distance travelled in the 15 seconds was 5 miles.  That was the last sighting.  All who viewed the lights were around 45 to 50.  The reason for the report is the pulses of light were unusual and everyone noticed how unusual they were.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69777.html](http://www.nuforc.org/webreports/reports/069/S69777.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/162/S162743.html)
-- [352](http://www.nuforc.org/webreports/reports/162/S162773.html)
-- [351](http://www.nuforc.org/webreports/reports/162/S162775.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162806.html)
-- [349](http://www.nuforc.org/webreports/reports/162/S162738.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
