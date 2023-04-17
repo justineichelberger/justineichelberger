@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:29 on 17 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:26 on 17 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Slovan (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>flashing object in southwest sky, changed colors from red to blue to white staying in same spot  for 30 minutes, then vanishedOn thursday April 17, 2008, my son wanted to ride his bike at around 8:45 pm. He asked what an object was up in the sky, and upon looking, I saw that it was a star and told him that. He for some reason has a fear of aliens. He thought the star was a ufo and to comfort him, I looked for other stars to point out. I pointed to the southwest sky and sid that there was another one. Upon looking though, I noticed it was changing changing colors from blue to red to white etc. He even asked why it was flashing and I told him that it was probably the effects of the atmosphere...what do I know, it sounded good to me. I thought it was strange but didn't think that much of it. The next day at work, one of the guys ( Bill, whom I didn't talk to at this time) who lives about 40 miles from me in Irwin, PA said that he saw a ufo. He told the guy that I'm working with that it was changing colors from red to white to blue, and I said that was exactly what I had seen. On monday the 21st, I saw Bill and asked him about it. He said that it was in the southwest sky, and then I knew I saw what he had seen. He said that he looked at it through a telescope, and that it was surrounded by five other lights that would go on and off intermittently. He said that it had moved at one point also. He also said that it appeared on friday the 18th as well, although I didn't look for it that night. I decided that I would look for it on monday the 21st. Sure enough, it was there in the southwest sky, and the odd thing was that very few stars were visible due to the cloud cover, but this was a very brilliant light. This was at 9:15 pm. I went in and got my mini dv camcorder and took about a two minutes of video. I zoomed in with the optical zoom as much as I could. I made a dvd so I could watch it in slow mo. It actually changes from red to green to blue to white purple etc. Not neccisarilly in those orders. At some frames it almost appears to have a sort of diamond shape that is flat on the top and bottom. At 10:15 pm, I hap! pened to be looking at it, and it just sort of vanished and I didn't see it the rest of the night. If it is there tonight I am going to try zooming in with the digital zoom.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62934.html](http://www.nuforc.org/webreports/reports/062/S62934.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Sonora (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A probe light intercepts a miltary jet at high speed; pauses next to it; and departs very rapidlyhttp://home.earthlink.net/~andrewppp/sonora/  for a video and a report.((NUFORC Note:  We have looked at the video footage of the alleged event, and do not see the intercept that is alluded to in the report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43559.html](http://www.nuforc.org/webreports/reports/043/S43559.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/162/S162743.html)
-- [352](http://www.nuforc.org/webreports/reports/162/S162773.html)
-- [351](http://www.nuforc.org/webreports/reports/162/S162775.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162806.html)
-- [349](http://www.nuforc.org/webreports/reports/162/S162738.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
