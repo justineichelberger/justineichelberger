@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:33 on 17 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:53 on 17 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Timber (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Tons of lights flying in from Oregon CoastClear black sky.  Many lights coming in from west coast flying in a straight line.  Some would break and go in a different direction.  There was not a sound from any of them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155325.html](http://www.nuforc.org/webreports/reports/155/S155325.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in LaPorte (IN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>random picture taking outside our apartmentAlmost everyday I am outside taking pictures at random because this is the way that I usually capture pictures of what I call "ufo's"  Every time that I do this the object is never seen with the naked eye. This picture is taken looking northeast pointed toward the corner of the roof of our apartment while standing on the sidewalk.((NUFORC Note:  This is the first of seven reports we have received from this source.  He has been very generous in sharing 23 e-messages, with 32 attached photographs of objects he has captured with a camera.  Most of the objects he did not witness, at the time the photos were taken, but rather later, as he inspected the photos.  NUFORC has looked at all of the photos, and although we cannot identify all of the anomalous objects captured photographically, but most of the objects we believe are birds.  In most of those cases, we are even able to determine the type of bird involved, and its position in flight.  We believe that none of the photos is of a genuine UFO.  We, nevertheless, express our gratitude to the source for his having shared the information with our Center, who has had to use a computer at a public library, in order to submit the information to NUFORC!  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81517.html](http://www.nuforc.org/webreports/reports/081/S81517.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/162/S162743.html)
-- [352](http://www.nuforc.org/webreports/reports/162/S162773.html)
-- [351](http://www.nuforc.org/webreports/reports/162/S162775.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162806.html)
-- [349](http://www.nuforc.org/webreports/reports/162/S162738.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
