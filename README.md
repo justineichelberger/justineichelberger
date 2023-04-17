@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:34 on 17 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:34 on 17 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>2 luminous triangular shaped objects pulsating white and blue lights in sky for 3 to 4 minutes.4/17/08 At 1:35 pm I was looking out my living room window and saw 2 objects that did not resemble any airplane or helicopter. I picked up my binoculars to get a better look and saw 2 luminous triangular shaped objects with pulsating white and light blue lights I'm not sure how far apart they were from each other. I watch them hover for approximately 3 to 4 minutes moving slowing higher into the sky until I could no longer see them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63381.html](http://www.nuforc.org/webreports/reports/063/S63381.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Industry (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>White Ball over City of IndustryI work right off Gale Rd in the City of Industry..For lunch I always eat in the back of our building next to the railroad tracks. I had finished lunch and reclined my seat all the way back for a short rest before returning to work..I was praying (in my head) as I usually do and noticed a bunch of birds just acting screwy, flying in circles as if they were playing Tag. As I continued with my prayers, the birds flew off but one went way up high in the sky then turned left and disappeared. At that time, I noticed something even higher and assumed it was another bird...I thought "how could it be flying so high?" Well I focused on it a little more and realized it wasn't a bird but an object. It looked like a white ping pong ball though I could see some reddish tint above it and almost what looked like a band of black around the center..The object was traveling normally from left to right in the sky, just like a plane would but then it stopped..The thing stopped then went backwards, then up, down and stayed there for another few seconds. The wind was blowing pretty good so the clouds started coming together where I was looking at this thing. I fumbled in my purse for my disposable camera that I always carry with me but I didn't want to take my eyes off the sky. I finally had to because I couldn't find the darn thing in my purse. Well when I looked back, the object was gone and the clouds had now settled in. What's even more weird is the way the clouds came in. Two big masses were combining but when it got to that spot, it became a donut and the hole got smaller and smaller..Then to make things even more weird, I turned on my car to look at the time and the CD player started up okay but my clock started going haywire..It was going berserk, then it just stopped at 4:19 and re-set itself to the correct time which was 2:07pm....I've only had this car for about 2 months and nothing has ever happened with the clock or the radio/cd player...I have seen UFO's before and just submitted a story last week about a 1977 experience I had as a child. This was very weird and I almost feel as if it were there "for my eyes only"..Everything just seemed to play out as if I were watching my own TV screen at home...Now I truly wonder what the significance of the number "419" means which is what the clock settled on before returning to normal..Thanks for listening...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50162.html](http://www.nuforc.org/webreports/reports/050/S50162.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/162/S162743.html)
-- [352](http://www.nuforc.org/webreports/reports/162/S162773.html)
-- [351](http://www.nuforc.org/webreports/reports/162/S162775.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162806.html)
-- [349](http://www.nuforc.org/webreports/reports/162/S162738.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
