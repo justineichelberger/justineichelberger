@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:14:04 on 17 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:23 on 17 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Ropar (Punjab)(India) () reported seeing craft that fit the description of some 'Other' over a period of approximately 1:30 - 1:30 minutes.</sub><blockquote><sub>me, my wife, and our son (3.5 years old) we all were on bike, and suddenly my son starts saying plane in the sky the we saw that the light was splitting suddenly  I stopped bike and that lights were as far as stars and with in few seconds they start moving towards us from height like a bullet then I run bike few meters forward and then again stop to identify that why was it not moving now but it was a trap and I come to understood when we stood aside and lights again started moving towards us i quickly rush my bike and shelter myself and family into a shop till then these lights (ufo) was so near on the moment when my son screamed then 2-3 people standing over there also noticed but it suddenly disappeared, it was shaped like a huge craft lil sound came like air-condition in house, due to night nothing was clear but the lights were like gost fearing, scary view  they were actually bonding with us but we understood by the activities that something is wrong.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133664.html](http://www.nuforc.org/webreports/reports/133/S133664.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Marysville (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Coming off 1-5 Marysville seen triangle object with red, blue, white lights fading in and out. Object was completely still appeared to be 20ft in size.  Started to descend very slowly then COMPLETELY DISSAPEARED.. NO SOUND.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133686.html](http://www.nuforc.org/webreports/reports/133/S133686.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/162/S162743.html)
-- [352](http://www.nuforc.org/webreports/reports/162/S162773.html)
-- [351](http://www.nuforc.org/webreports/reports/162/S162775.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162806.html)
-- [349](http://www.nuforc.org/webreports/reports/162/S162738.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
