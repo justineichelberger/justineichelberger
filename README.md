@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:30 on 17 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:30 on 17 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fishing Lake (AB) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Yellowish streak in the skyAfter a day of driving to southern Saskatchewan and returning home, my nephew and I noticed what appeared at first to look like the northern lights.  The problem was the lights were behind a cloud from the evening rain as the road was wet.  I was now the passenger so I was able to observe but my nephew kept looking at the spray of light from behind the cloud and as a result he slowed down to 60 kilometers and was looking and asking questions.  We were driving in a northeast direction and were at the top of a high point on the road which gave us a "BIG" view of the northern sky.  Upon returning to his home and parking the vehicle, I proceeded to get out of my side of the vehicle which was on the north.  As I got out I looked up at the cloud area and immediately seen an object appearing to be oval, bright yellow like a light bulb, moving from the north to the south in what seemed to be a slow to totally gone in a flash of 1 to 2 seconds.  It had what appeared to be a streak behind it at first site then just nothing.  Initially I thought it was a "falling star" but second guessed what I said and what I just seen.  I have seen shooting stars, meteorite that light the sky up totally but each one move so fast and emit a "blue" glow and are either falling at a sharp angle or burning out as they cross the sky.  This particular sighting did not have those characteristics and it seemed as though it had a streak at first then just vanished with what I thought was a flash after it disappeared way to the south.  The next day as I spoke of this to my brother, my other nephew said to me that he too saw the same thing.  He was next door and was just walking to his truck to go home from visiting.  We are close to an Air Force Base and there a lot of unusual noises and lights around the area lately.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108759.html](http://www.nuforc.org/webreports/reports/108/S108759.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Soddy Daisy (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Its lights were red, blue, and green.I have never believed in aliens until this weekend. I was coming home with my family and i just happened to look at the moon. Then it caught my eye. I watched it for about 30 minutes before it disappeared. It looked like it was spinning around because of the different colors that woukld keep repeating: red, blue, and green.It would shoot out yellow beams of light. It hasd been in the same spot for 3 days now and I'm really concerned. Right before it would disappear you would hear a sonic boom.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63353.html](http://www.nuforc.org/webreports/reports/063/S63353.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/162/S162743.html)
-- [352](http://www.nuforc.org/webreports/reports/162/S162773.html)
-- [351](http://www.nuforc.org/webreports/reports/162/S162775.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162806.html)
-- [349](http://www.nuforc.org/webreports/reports/162/S162738.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
