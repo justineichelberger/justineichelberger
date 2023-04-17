@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:46 on 17 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:26 on 17 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Queensbury (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 00:02:00 - 00:02:00 minutes.</sub><blockquote><sub>Firey-reddish- orange craft traveling fast then vanshingthe craft came from over the mountains heading towards my direction the craft appeared to be illuminating a reddish orange glow it was traveling at a very descent speed there was no blinking lights indicting a plane of any kind it stayed illuminated as a firey orange glow gliding across the sky making absolutely no noise completely silent above me as I called my second viewer to confirm what I was seeing we both watched it in disbelief as it went over us which was very visible among the clear night sky it appeared to be almost a teardrop circular shape we continued to watch it head away where it was still visible and then all of a sudden it started getting smaller and just vanished as if it wasn't there at all this took place around 2 minutes where we had tried to capture video but was unsuccessful with the camera phones we were using mine just looks like a dot of light moving in blackness but brighter than the stars that weren't showing up at all just this craft as a dot of light on my video</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118490.html](http://www.nuforc.org/webreports/reports/118/S118490.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ottawa (Canada) (ON) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Orange Lights - Out of This World.I was walking my dog for his last of the evening.  I looked towards the moon, whereas Jupiter was in close proximity.  Above, as though it came out from behind Jupiter, orange lights which seemed to possibly be attached, since they moved in uniform together travelled from south/east to north/west at a very rapid pace.  At first glance, I believed I was watching separate lights, unattached, since I was unable to see anything in the middle holding them together.  There were 9-12 in total orange round lights.  I was not under the influence of alcohol or any drugs/medication, nor was I tired.  My heartbeat raced. I've never seen anything like this before.  The mass of the lights were tremendously large, as well there was no sound or echo, having me come to the conclusion, the unit was not directly in earth's atmosphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126907.html](http://www.nuforc.org/webreports/reports/126/S126907.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/162/S162743.html)
-- [352](http://www.nuforc.org/webreports/reports/162/S162773.html)
-- [351](http://www.nuforc.org/webreports/reports/162/S162775.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162806.html)
-- [349](http://www.nuforc.org/webreports/reports/162/S162738.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
