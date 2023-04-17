@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:27 on 16 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:33 on 17 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Imperial (MO) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 25</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162810.html](http://www.nuforc.org/webreports/reports/162/S162810.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Timber (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Tons of lights flying in from Oregon CoastClear black sky.  Many lights coming in from west coast flying in a straight line.  Some would break and go in a different direction.  There was not a sound from any of them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155325.html](http://www.nuforc.org/webreports/reports/155/S155325.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/162/S162807.html)
-- [420](http://www.nuforc.org/webreports/reports/162/S162808.html)
-- [419](http://www.nuforc.org/webreports/reports/162/S162731.html)
-- [418](http://www.nuforc.org/webreports/reports/162/S162904.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162790.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
