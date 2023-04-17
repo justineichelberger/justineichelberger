@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:25 on 17 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:29 on 17 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Changing' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>04/17/2012  23:00  Las Vegas NV   Donut 4-5 minutes pulsating red and green donut 6/26/2013My girlfriend and I were on the outside patio of Club Chateau at the Paris Hotel overlooking the strip.  It was a clear evening, and I noticed a pulsating donut shaped red and green object to the north.  The only reference points were the large buildings on the other side of the strip, as I estimate this object could have been 2-3 miles away and above 2000+ feet up in the night sky.  The "Christmas Donut" as I called it was proceeding in a slow pace to the west.I had my small digital camera which also takes video with me.  I proceeded taking 8 photos and 2 videos of this object, my girlfriend also saw this object, as did numerous patrons and associates of the club.  What was kind of strange is that other people that I excitedly exclaimed about the object, could care less, also they closed the patio and made everyone go inside the building.  They could have closed the patio at 11pm, I don't know. I watched the object intensely as I photographed and videoed the object, what was unique is how the object changed shape as it progressed across the sky and there was some type of strobe light on the second video I recorded. My photos are somewhat blurred due to no tripod, but as I stated this object was a donut, where you could see through the middle, and was quite large due to the distance. I posted the first video on U-Tube as April 17, 2012 Las Vegas UFO. The illuminated sphere of the Eifel Tower is the picture with my video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98932.html](http://www.nuforc.org/webreports/reports/098/S98932.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Burnt Hills (NY) reported seeing craft that fit the description of some 'Egg' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was sitting in class and looked out of my class window and noticed a small egg-shaped object made of metal.  It was floating above my school, but since I was taking a test I didn’t point it out to anyway.  But since I had my phone in my pocket I tried to take a photo, but as I opened my camera, the object was gone.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139480.html](http://www.nuforc.org/webreports/reports/139/S139480.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/162/S162743.html)
-- [352](http://www.nuforc.org/webreports/reports/162/S162773.html)
-- [351](http://www.nuforc.org/webreports/reports/162/S162775.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162806.html)
-- [349](http://www.nuforc.org/webreports/reports/162/S162738.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
