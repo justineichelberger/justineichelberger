@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:27 on 17 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 17 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Murrells Inlet (SC) reported seeing craft that fit the description of some 'Flash' over a period of approximately less than minute - less than minute minutes.</sub><blockquote><sub>UFO was approximately 2000-5000 above the ocean, hard to guage how far away they were.  First pulses of light brought object to our attention.  Three pulses of dim yellow light that grew rapidly in intensity, dimmed rapidly then reappeared very close to the preceeding pulse within a half second before the first light had dimmed fully like 3 lights from the same object just happening at different intervals. Same three pulses happened further down the coast within 15 seconds and further out to sea, estimate distance travelled in the 15 seconds was 5 miles.  That was the last sighting.  All who viewed the lights were around 45 to 50.  The reason for the report is the pulses of light were unusual and everyone noticed how unusual they were.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69777.html](http://www.nuforc.org/webreports/reports/069/S69777.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>2 luminous triangular shaped objects pulsating white and blue lights in sky for 3 to 4 minutes.4/17/08 At 1:35 pm I was looking out my living room window and saw 2 objects that did not resemble any airplane or helicopter. I picked up my binoculars to get a better look and saw 2 luminous triangular shaped objects with pulsating white and light blue lights I'm not sure how far apart they were from each other. I watch them hover for approximately 3 to 4 minutes moving slowing higher into the sky until I could no longer see them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63381.html](http://www.nuforc.org/webreports/reports/063/S63381.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/162/S162743.html)
-- [352](http://www.nuforc.org/webreports/reports/162/S162773.html)
-- [351](http://www.nuforc.org/webreports/reports/162/S162775.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162806.html)
-- [349](http://www.nuforc.org/webreports/reports/162/S162738.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
