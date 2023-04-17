@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:35 on 17 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:45 on 17 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Philadelphia (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A round pitch black craft with a small triangle shape tail and some gray area with ridges on what looked like small round wingsIt was about 12:30am a rainy night, the whole sky was full of heavy pure white clouds, I saw a round pitch black craft with a small triangle shape tail, with some gray area with ridges on top of both sides on what looked like small round wings, it made no sounds and it had no lights and it left no trail. It came shooting down right out of the white clouds and when it try to straighten its self it wobbled side to side like it was out of control for a few seconds and that is how we seen a lot of details, I mean a had enough time to see it all, it almost looked like a flying stingray. It was not a stealth, because the next day I went on the internet and I looked up the stealth and it was nothing like what we saw. It was really a scary thing to experience, I could not believe what I was seen and I was glad that my wife saw it too. I'll never forget what we saw that night.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24535.html](http://www.nuforc.org/webreports/reports/024/S24535.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Owings Mills (MD) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I sat in the passenger side of the vehicle when I noticed a blue sphere circling over a nearby housing development,  I then began filming with my smart phone.  The movements were unusual so we began to drive closer to the object.  As we approached the object it changed color from a royal blue to a bright white and stopped in mid air.  It then changed course and began moving in the direction of the car and changed color 2 more times before changing course again and moved back towards the development.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118487.html](http://www.nuforc.org/webreports/reports/118/S118487.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/162/S162743.html)
-- [352](http://www.nuforc.org/webreports/reports/162/S162773.html)
-- [351](http://www.nuforc.org/webreports/reports/162/S162775.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162806.html)
-- [349](http://www.nuforc.org/webreports/reports/162/S162738.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
