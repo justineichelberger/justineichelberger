@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:27 on 17 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:23 on 17 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Hovering object flickering overtop Toronto!We were looking for stars in the night when we spotted a flickering object in the sky.  This was like no object we have ever seen.  It was flickering diferent colors unlike a plane because it was not a constant flicker. Also it was not an airplane because it was hovering in the same place for over 20 min. We watched the aircraft hover in the exact same place for this time until slowly it moved to the direction of missausaga slowly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69684.html](http://www.nuforc.org/webreports/reports/069/S69684.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Alachua (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Seen two lights crossing 241 not plane lights or helicopter lights very large in size moved at a slow speed across the sky lost them in some trees try to get another view but they disappeared by the time I could get another view very very strange have never witnessed anything like this the lights seemed to big to be on any plane or human craft they were connected for sure both moved at same speed and there was possibly another light I was a good distance from them.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118527.html](http://www.nuforc.org/webreports/reports/118/S118527.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/162/S162743.html)
-- [352](http://www.nuforc.org/webreports/reports/162/S162773.html)
-- [351](http://www.nuforc.org/webreports/reports/162/S162775.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162806.html)
-- [349](http://www.nuforc.org/webreports/reports/162/S162738.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
