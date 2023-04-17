@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:26 on 17 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:26 on 17 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ottawa (Canada) (ON) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Orange Lights - Out of This World.I was walking my dog for his last of the evening.  I looked towards the moon, whereas Jupiter was in close proximity.  Above, as though it came out from behind Jupiter, orange lights which seemed to possibly be attached, since they moved in uniform together travelled from south/east to north/west at a very rapid pace.  At first glance, I believed I was watching separate lights, unattached, since I was unable to see anything in the middle holding them together.  There were 9-12 in total orange round lights.  I was not under the influence of alcohol or any drugs/medication, nor was I tired.  My heartbeat raced. I've never seen anything like this before.  The mass of the lights were tremendously large, as well there was no sound or echo, having me come to the conclusion, the unit was not directly in earth's atmosphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126907.html](http://www.nuforc.org/webreports/reports/126/S126907.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1991, an anonymous witness in New Boston (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I believe now, especially after the craft hovered over me, only feet above my head!!!We were coming home from church on a Wednesday night.  It was me, my mom, my sister and a friend of hers.  I saw a starlike object in the sky from a few miles away, and told my mom that I didn't remember seeing that there.  I love to watch the sky.  Anyway, we got closer, and it was the most amazing thing I have ever seen in my whole life.  We saw a UFO.  I screamed for my mom to pull over, because it was getting lower and lower and I wanted to see it.  She pulled into a driveway, and we were in awe gazing out the window.  Being in such amazement, I stumbled out of the car, my family screaming in fright.  I was directly under this thing.  It was a huge oval shaped craft about 20 feet above my head.  Lights went around it, different colors.  They blinked.  I heard nothing.  It just sat there, over my head as if to let me look at it.  I saw a small square in the bottom, like a door.  The dimensions were hard to tell, I was only 16 at the time.  I do remember though, there was definetly not enough room for an adult to stand up in there.  I was so dumbfounded, as I had always read about UFO's but never really believed.  There I was, a young small town girl, seeing what was the most amazing thing in my life.  It hovered there, what seemed like hours, but was 2 or 3 minutes.  Then, before I could blink, it sped off like lightning.  NO SOUND!! Nothing, no whirr, no hum, nothing.  I was in shock.  Thank you for listening.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17514.html](http://www.nuforc.org/webreports/reports/017/S17514.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/162/S162743.html)
-- [352](http://www.nuforc.org/webreports/reports/162/S162773.html)
-- [351](http://www.nuforc.org/webreports/reports/162/S162775.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162806.html)
-- [349](http://www.nuforc.org/webreports/reports/162/S162738.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
