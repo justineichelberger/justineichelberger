@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:27 on 18 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:33 on 18 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Beverly (NJ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 54.0 - 54.0 minutes.</sub><blockquote><sub>Immensely bright, white, saucer shaped, object directly positioned directly over our home for 54 minutesOn the night of April 18, 2019, upon returning to our home, my husband and I saw an immensely bright, white, saucer shaped object directly over our home.  I remarked how bright it looked.  My husband replied that it was too bright to be the moon.  I proceeded to take some photos.  After a short while my husband went into the house. I continued to observe this, for what I thought was only a short time, but my husband recalls it being around 45 minutes.  The time recorded on the pictures supports my husband’s recollection of time.  The first photo taken at 9:23 p.m., the second photo at 9:24 p.m., the third photo at 10:17 and the fourth photo taken at 10:18 p.m.  Spanning a total time of 54 minutes of the object silently hovering above our house.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147486.html](http://www.nuforc.org/webreports/reports/147/S147486.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Papillion (NE) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>At approximately 9:15 PM this evening, while sitting out on the back deck of our house, we observed the first object moving from WSW to NE across the night sky.  From observing the ISS over several years, this definately was moving at a speed that far exceeded any commercial jet.  About one minute later, two more appeared about 10 degrees apart and following the exact same flight path.  Over the next 25 minutes, approximately nine more appeared, all following the same flight path and crossing the night sky at the same speed.  I've never observed multiple objects like this before that appeared at the same location in the sky, transit in the exact same direction and at the same high rate of speed.  All appeared as singular solid lights, with a couple of them almost as bright as the ISS.  No flashing lights or changes of color were observed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155482.html](http://www.nuforc.org/webreports/reports/155/S155482.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/162/S162771.html)
-- [326](http://www.nuforc.org/webreports/reports/162/S162792.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162899.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162779.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162780.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
