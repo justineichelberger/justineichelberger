@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:29 on 17 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:29 on 18 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Burnt Hills (NY) reported seeing craft that fit the description of some 'Egg' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was sitting in class and looked out of my class window and noticed a small egg-shaped object made of metal.  It was floating above my school, but since I was taking a test I didn’t point it out to anyway.  But since I had my phone in my pocket I tried to take a photo, but as I opened my camera, the object was gone.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139480.html](http://www.nuforc.org/webreports/reports/139/S139480.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Les Cayes (Haiti) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>It'd a huge circle with the sun shining in the center of it.  Inside of it was also a bunch of red images.((NUFORC Note:  Lens flares.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133754.html](http://www.nuforc.org/webreports/reports/133/S133754.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/162/S162743.html)
-- [352](http://www.nuforc.org/webreports/reports/162/S162773.html)
-- [351](http://www.nuforc.org/webreports/reports/162/S162775.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162806.html)
-- [349](http://www.nuforc.org/webreports/reports/162/S162738.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
