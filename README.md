@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:41 on 18 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:23 on 18 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Waynesboro (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright red firey light moving silently across the sky, then went up and dissapeared.Myself and two other people were working on a lawn tractor in a nice suburban neighborhood trying to get it started.  We are in the age range of late teen to early 20's. We do not drink. I had already gotten dark.   My one friend said, “woa, look at that!”. In the west/northwest sky we saw a very bright red light.  It came up over the houses, and then began to silently hover.	We thought it was a parachute flare because it looked fairly low, however I know for a fact that most parachute flares only stay lit for 40 seconds.  It had that bright red fiery glow flares have!  They also make noise when being fired off when you’re at a close distance. This stayed lit for around 5 minutes.  It began to fade, but never came down.  In fact I believe it faded because it was going up!  Eventually it looked like it went up into the clouds.  It then disappeared.	Well, it was very interesting.  That alone made us excited.  Then after around 10 minutes later, the same light came back down briefly!  It hovered again for maybe a minute, then went back up again and disappeared.  Nobody else saw it from what I know. I don’t understand how somebody else could not  have seen it!  It was too amazing to be ignored.  This is the second time I have seen this type of ufo in my town.  The first was about two years ago.  We are close to several military bases including Site R, and Camp David if that has anything to do with it.  I take my video camera with me wherever I go...of coarse on this night I decided to leave it home!  Never again will I make this mistake.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108772.html](http://www.nuforc.org/webreports/reports/108/S108772.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Longwood (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Formation of 8-10 lights suddenly disbursing in opposite directionsAs four of us (my husband, my cousin and his wife, and myself - 4 four adults in our 30s) were driving on 427 we arrived at the traffic light on the intersection of 427 & Dock Track Rd, we immediately noticed a formation of bright lights glowing very brightly, much brighter than the stars.  We almost assumed it was a constellation but they began to move, 2 of the lights simultaneously began pulling apart from the constellation, hovering further away from the other bright lights, and suddenly they shot upward and disappeared.  As we turned left onto Dog Track Rd, we observed the other lights moving away, all in formation - they couldn't have been planes, these lights where amber/yellowish and super bright, they stood out from the sky and a lot of cars stopped to look, it was an amazing sight!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108877.html](http://www.nuforc.org/webreports/reports/108/S108877.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/162/S162771.html)
-- [326](http://www.nuforc.org/webreports/reports/162/S162792.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162899.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162779.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162780.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
