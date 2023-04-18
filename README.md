@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:27 on 18 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:25 on 18 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mt. Pleasant (MI) reported seeing craft that fit the description of some 'Egg' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright lights power gone from car.Took power from car bright lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108741.html](http://www.nuforc.org/webreports/reports/108/S108741.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Riverdale (UT) reported seeing craft that fit the description of some 'Formation' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>My husband and I were UFO hunting from our yard on the nights of April 17 and 18, we were using 15x70 Celestron binoculars.  On the night of the 17th, we sighted 3 fleets of flying craft.  The first fleet had 10-15 lights visible, the second fleet had around 30 lights visible, the last fleet had 5-7 lights visible.  The lights would maintain a V formation for most of the flight, but the individual lights would shift around and change position, at times the lights would cluster into a loose ball and rearrange back into a V formation.  The craft moved around the same on both nights.On the night of the 18th I first started seeing fleets around 20:00, the first couple of fleets had around 20-30 craft, I soon lost count of how many fleets I had seen, I believe I saw at least 20-30 fleets, all traveling from South to North.  There seemed to be 2 different craft, there were smaller ones that only showed up as a round light, and there were bigger ones that had a light on the underside that was reminiscent of a crane flying overhead.  This incident lasted around an hour.  We could barely see the lights with the naked eye, but with the binoculars we were able to see them much more clearly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162780.html](http://www.nuforc.org/webreports/reports/162/S162780.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/162/S162771.html)
-- [326](http://www.nuforc.org/webreports/reports/162/S162792.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162899.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162779.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162780.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
