@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:27 on 18 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:24 on 18 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Delano (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>lit up orange triangular hover  craft seen by two non-believersmy freind and i had just gotten back to my house and were smoking a cigerette outside when we saw and orange triangular object with lights, kind of hovering over the pond in my back yard. it stayed floating in the air for a bit then moved irratically around and then, flew away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56348.html](http://www.nuforc.org/webreports/reports/056/S56348.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Santa Rosa (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Aliens seen in metallic sphere lights in Santa Rosa CaliforniaWe saw and counted about 100 extremely fast moving bright lights in the sky. There is no way there were a plane or satellite.  There was zero sounds or noises. The speeds were unbelievably fast. We saw one light coming down were we were gathered.  It was actually completely metallic chrome silver but in a spherical shape. We all could see what look like humans wearing plain colored clothing but they looked too perfect and they were smiling at us.  We all think they were aliens.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155455.html](http://www.nuforc.org/webreports/reports/155/S155455.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/162/S162771.html)
-- [326](http://www.nuforc.org/webreports/reports/162/S162792.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162899.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162779.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162780.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
