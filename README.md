@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:32 on 18 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:29 on 18 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Delano (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>lit up orange triangular hover  craft seen by two non-believersmy freind and i had just gotten back to my house and were smoking a cigerette outside when we saw and orange triangular object with lights, kind of hovering over the pond in my back yard. it stayed floating in the air for a bit then moved irratically around and then, flew away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56348.html](http://www.nuforc.org/webreports/reports/056/S56348.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>One pinpoint of light moved northward across the sky joining another before I lost them in the haze.I was reading on the CU Denver campus and took a cigarette break laying on the grass and looking up into the clear blue sky with my sunglasses clipped on as the sun was going down over the Rockies.  I saw a tiny pinpoint of light way up in the sky which I first thought was a star but then I noticed it was heading northward very slowly so I thought it was a satillite.  I took off the clips and it was white with what looked like a corona.  It was very far up and/or very small.  I looked around and no one was looking up so I followed it about 20 degrees across the sky.  I looked around again and when I found it again there was two.  At that point I wanted someone to confirm it and  I got up to go get somebody to look and I couldn't find it again as the further north it went, it got into a whiter part of the hazy/sunset horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17309.html](http://www.nuforc.org/webreports/reports/017/S17309.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/162/S162771.html)
-- [326](http://www.nuforc.org/webreports/reports/162/S162792.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162899.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162779.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162780.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
