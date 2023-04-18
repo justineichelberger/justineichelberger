@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:44 on 18 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:27 on 18 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in San Jacinto (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>I saw what appeared to be a while light shooting toward earth but apperaed green by the time it hit earth, It did not slow down and hit earth as fast as it was traveling from start, it did not explode. I drove as far as I could till I hit a mountain and it appeared to land on other side of mountain. This has changed how I view mankind, this will haunt me forever</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62769.html](http://www.nuforc.org/webreports/reports/062/S62769.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mt. Pleasant (MI) reported seeing craft that fit the description of some 'Egg' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright lights power gone from car.Took power from car bright lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108741.html](http://www.nuforc.org/webreports/reports/108/S108741.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/162/S162771.html)
-- [326](http://www.nuforc.org/webreports/reports/162/S162792.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162899.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162779.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162780.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
