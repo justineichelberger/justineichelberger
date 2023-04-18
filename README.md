@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:23 on 18 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:27 on 18 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Longwood (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Formation of 8-10 lights suddenly disbursing in opposite directionsAs four of us (my husband, my cousin and his wife, and myself - 4 four adults in our 30s) were driving on 427 we arrived at the traffic light on the intersection of 427 & Dock Track Rd, we immediately noticed a formation of bright lights glowing very brightly, much brighter than the stars.  We almost assumed it was a constellation but they began to move, 2 of the lights simultaneously began pulling apart from the constellation, hovering further away from the other bright lights, and suddenly they shot upward and disappeared.  As we turned left onto Dog Track Rd, we observed the other lights moving away, all in formation - they couldn't have been planes, these lights where amber/yellowish and super bright, they stood out from the sky and a lot of cars stopped to look, it was an amazing sight!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108877.html](http://www.nuforc.org/webreports/reports/108/S108877.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Delano (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>lit up orange triangular hover  craft seen by two non-believersmy freind and i had just gotten back to my house and were smoking a cigerette outside when we saw and orange triangular object with lights, kind of hovering over the pond in my back yard. it stayed floating in the air for a bit then moved irratically around and then, flew away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56348.html](http://www.nuforc.org/webreports/reports/056/S56348.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/162/S162771.html)
-- [326](http://www.nuforc.org/webreports/reports/162/S162792.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162899.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162779.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162780.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
