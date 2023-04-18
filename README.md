@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:25 on 18 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:32 on 18 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in New Mexico (southern) (NM) reported seeing craft that fit the description of some 'Other' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>witnessed 5 to 6 aleins glowing red in color on the ground under crafts lights.seen while i was on my saddle horse,the horse went uncontrolble. At this time their was a unknown smell in the air the distanst was apporoximately 1000 yrds. west of hermenus rd @ MILE MARKER 6. i contacted borader control they met wit me . The next day several black hoppers were seen flying in the area, were the craft was sighted. if you need any compformation freel free to contact me at my home phone @ 505-((number and name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07966.html](http://www.nuforc.org/webreports/reports/007/S07966.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Delano (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>lit up orange triangular hover  craft seen by two non-believersmy freind and i had just gotten back to my house and were smoking a cigerette outside when we saw and orange triangular object with lights, kind of hovering over the pond in my back yard. it stayed floating in the air for a bit then moved irratically around and then, flew away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56348.html](http://www.nuforc.org/webreports/reports/056/S56348.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/162/S162771.html)
-- [326](http://www.nuforc.org/webreports/reports/162/S162792.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162899.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162779.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162780.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
