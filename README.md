@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:32 on 18 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:27 on 18 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bermuda Dunes (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Dark disc-shaped object moving across night sky with great(supersonic+) speed, no visible lights, no sound, VERY FAST.On April 18, 2012, at or near 11:45pm PST, a friend and I observed a dark round/oval-shaped object fly with great speed across the night sky.  The object moved from west to eat at a speed which I have never seen any object in the sky move.  It covered the entire span of the viewable sky over my backyard in a matter of 3 seconds before it seemed to dissapear into the night sky. It made absolutely no sound for the speed at which appeared to be moving(supersonic at the very least).  There were absolutely no lights on the object that could be seen.  The underside of the object seemed to be lit up from the ground due to light pollution caused by a nearby auto dealer mall, indicating the object was fairly close to the ground. perhaps only a few thousand feet.If you've ever seen an owl or other night bird flying over a lit-up area at night, thats what it reminded me of.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89282.html](http://www.nuforc.org/webreports/reports/089/S89282.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Beverly (NJ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 54.0 - 54.0 minutes.</sub><blockquote><sub>Immensely bright, white, saucer shaped, object directly positioned directly over our home for 54 minutesOn the night of April 18, 2019, upon returning to our home, my husband and I saw an immensely bright, white, saucer shaped object directly over our home.  I remarked how bright it looked.  My husband replied that it was too bright to be the moon.  I proceeded to take some photos.  After a short while my husband went into the house. I continued to observe this, for what I thought was only a short time, but my husband recalls it being around 45 minutes.  The time recorded on the pictures supports my husband’s recollection of time.  The first photo taken at 9:23 p.m., the second photo at 9:24 p.m., the third photo at 10:17 and the fourth photo taken at 10:18 p.m.  Spanning a total time of 54 minutes of the object silently hovering above our house.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147486.html](http://www.nuforc.org/webreports/reports/147/S147486.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/162/S162771.html)
-- [326](http://www.nuforc.org/webreports/reports/162/S162792.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162899.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162779.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162780.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
