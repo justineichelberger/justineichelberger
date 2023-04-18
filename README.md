@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:23 on 18 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:41 on 18 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in North Salt Lake (UT) reported seeing craft that fit the description of some 'Changing' over a period of approximately Continued - Continued minutes.</sub><blockquote><sub>Twinkling flashing horizontal/lengthwise lights over Wasatch Mtn Range, North Salt Lake, UTSeen east over the Wasatch Mtn range high in the sky...could be saucer shaped or cigar. Has flashing lights with an occasional red flash...has not moved in an hour.  Star like twinkling but seems lights are flashing horizontal/lengthwise (so not like a star).Also, a misty angled long flash appeared next to it lasting only a split second. Saw flashes of pin lights surrounding it.Has only moved slightly wast from its position over the last 1 1/2 hrs.We are out on the deck every night and have not seen this one before.  An activity seen has usually been between the hours of 1am to 6am, though on 2 occasions one at 21:30 and 23:00hrs but didn't look like this.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139499.html](http://www.nuforc.org/webreports/reports/139/S139499.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Waynesboro (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright red firey light moving silently across the sky, then went up and dissapeared.Myself and two other people were working on a lawn tractor in a nice suburban neighborhood trying to get it started.  We are in the age range of late teen to early 20's. We do not drink. I had already gotten dark.   My one friend said, “woa, look at that!”. In the west/northwest sky we saw a very bright red light.  It came up over the houses, and then began to silently hover.	We thought it was a parachute flare because it looked fairly low, however I know for a fact that most parachute flares only stay lit for 40 seconds.  It had that bright red fiery glow flares have!  They also make noise when being fired off when you’re at a close distance. This stayed lit for around 5 minutes.  It began to fade, but never came down.  In fact I believe it faded because it was going up!  Eventually it looked like it went up into the clouds.  It then disappeared.	Well, it was very interesting.  That alone made us excited.  Then after around 10 minutes later, the same light came back down briefly!  It hovered again for maybe a minute, then went back up again and disappeared.  Nobody else saw it from what I know. I don’t understand how somebody else could not  have seen it!  It was too amazing to be ignored.  This is the second time I have seen this type of ufo in my town.  The first was about two years ago.  We are close to several military bases including Site R, and Camp David if that has anything to do with it.  I take my video camera with me wherever I go...of coarse on this night I decided to leave it home!  Never again will I make this mistake.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108772.html](http://www.nuforc.org/webreports/reports/108/S108772.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/162/S162771.html)
-- [326](http://www.nuforc.org/webreports/reports/162/S162792.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162899.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162779.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162780.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
