@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:38 on 18 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:23 on 18 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Orleans (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>My girlfriend and I were getting in our car in the drive way. We both looked up to see a steady stream of individual 50+ lights equally distances apart she told me to grab my gun knowing it has a 9x scope on it. I grab it and point it at the brightest of te lights and saw a triangular shape with a mint and a bright light in the very center</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155572.html](http://www.nuforc.org/webreports/reports/155/S155572.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in North Salt Lake (UT) reported seeing craft that fit the description of some 'Changing' over a period of approximately Continued - Continued minutes.</sub><blockquote><sub>Twinkling flashing horizontal/lengthwise lights over Wasatch Mtn Range, North Salt Lake, UTSeen east over the Wasatch Mtn range high in the sky...could be saucer shaped or cigar. Has flashing lights with an occasional red flash...has not moved in an hour.  Star like twinkling but seems lights are flashing horizontal/lengthwise (so not like a star).Also, a misty angled long flash appeared next to it lasting only a split second. Saw flashes of pin lights surrounding it.Has only moved slightly wast from its position over the last 1 1/2 hrs.We are out on the deck every night and have not seen this one before.  An activity seen has usually been between the hours of 1am to 6am, though on 2 occasions one at 21:30 and 23:00hrs but didn't look like this.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139499.html](http://www.nuforc.org/webreports/reports/139/S139499.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/162/S162771.html)
-- [326](http://www.nuforc.org/webreports/reports/162/S162792.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162899.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162779.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162780.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
