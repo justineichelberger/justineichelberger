@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:24 on 18 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:29 on 19 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Santa Rosa (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Aliens seen in metallic sphere lights in Santa Rosa CaliforniaWe saw and counted about 100 extremely fast moving bright lights in the sky. There is no way there were a plane or satellite.  There was zero sounds or noises. The speeds were unbelievably fast. We saw one light coming down were we were gathered.  It was actually completely metallic chrome silver but in a spherical shape. We all could see what look like humans wearing plain colored clothing but they looked too perfect and they were smiling at us.  We all think they were aliens.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155455.html](http://www.nuforc.org/webreports/reports/155/S155455.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in New Smyrna Beach (FL) reported seeing craft that fit the description of some '' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Man witnesses four strange lights in formation in NW sky.  2 lights  were bright & large; 2 were dull & smaller.  Disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00433.html](http://www.nuforc.org/webreports/reports/000/S00433.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
