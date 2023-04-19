@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:27 on 19 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:35 on 19 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Orlando/Lake Buena Vista (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Orlando SigntingBlue Lights flasing on and off on a round objet close to I-4 and the Disney area. Traveled like nothing i have every seen before in the sky. Was not a shooting star or comet know that for sure.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43562.html](http://www.nuforc.org/webreports/reports/043/S43562.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Cocoa (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Four green lights seen close to the ground while drivingAt approximately 21:20 I saw for green lights very low to the ground, just above the tree line while driving in my car.  These were not helicopters as they had no light sticking out the back that I could see.  Two of the lights were stationary and the other two appeared to be doing circles around each other.  When I exited the highway I could still see them, however when I turned around to go back they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75122.html](http://www.nuforc.org/webreports/reports/075/S75122.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
