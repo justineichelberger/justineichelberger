@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:40 on 19 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:54 on 19 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Elyria (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>Strange, stationary, bright lights in Elyria, Ohio.This particular night I was driving home and saw “strange lights” in the sky.  No particular formation but they were different than the “weird lights” that have been spotted recently.  They were a dim orange color looking to be at varying altitudes.  They appeared to not be moving or moving very slowly.When I got home I looked up and all they were the “typical” weird lights we’ve had on and off for a while now.  Usually they are stationary; they look very low, and very bright.  Sometimes they are flashing, sometimes not.  But they typically show up around nightfall and I’ve done my best for quite a while to ignore them and chalk it up to a planet or something.  There have been off times that one would shoot across the sky then stop suddenly and remain still.  I have never stayed out to watch them for longer than a few minutes here and there because I find the whole thing very uncomfortable.  I don't believe in "aliens" but I do find this occurance very strange and I just want to contribute if I can because the strange formation I saw while driving was very unsettling.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88515.html](http://www.nuforc.org/webreports/reports/088/S88515.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in St. Augustine (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO sighting in Northeast FloridaStopped at red light at 312 and A1A intersection, in the eastern sky there was one large craft that was similar to a blimp in appearance, with a thick black stripe through the center of the craft. Under the large craft there was a small craft below it to the left, which appeared to be silver/metallic in structure and also a circular/disclike shape. They were stationary, I didn’t see them move the entire duration at the red light which was over a minute and a half.  I noticed and snapped pictures with my camera phone that did not come out. I decided to drive closer to the crafts to try and take more pictures and they disappeared. Previous to this sighting the observer has had a number of dreams with extraterrestrials in them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62624.html](http://www.nuforc.org/webreports/reports/062/S62624.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
