@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:30 on 19 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:28 on 19 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Egg' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Strange object in the night skyseen what appearedto be a egg shaped craft moving at a enormous speed disspaeared across the horizon in a matter of a few seconds.  looked like it had a blue green haze over the unit.  was very strange this was flying way to low to be a satelite and way to fast to be anything man made that i am aware off((NUFORC Note:  One of four reports, submitted in rapid sequence, from the same computer.  We do not know if the reports are serious, or whether they are intended to hoax.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36475.html](http://www.nuforc.org/webreports/reports/036/S36475.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Jackson (TN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>2 large orange balls traveling north to west in west TNMy husband and I were watching tv, when I noticed a very bright orange light in the sky.  We got the binoculars but it was really to far away to know the shape of the craft.  But it was obvious it wasn't an airplane.  It traveled north to the west.  As we stood there talking about what we just seen, another massive orange ball appeared on the north horizon.This time we could see just how huge it was and they the binoculars I could see a clear ball with bright orange lights coming from inside the ball.  It traveled north to west and at a speed slightly slower than a jet.  They made no sound.  It went up into the sky and eventually out of sight.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109127.html](http://www.nuforc.org/webreports/reports/109/S109127.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
