@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:23 on 19 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:29 on 19 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 116</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145839.html](http://www.nuforc.org/webreports/reports/145/S145839.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Washington (UT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Mirror sphere being pulled smoothly across the skySphere shape with dark mirror like reflection in the center of the sphere. We saw it move exactly South to North across the sky. Approximately .25 miles to .75 miles above the ground.  It had light reflecting and bending across the front of it while it seemed to be pulled smoothly in the direction going northward.  We recently purchased a telescope and we were stargazing watching the Lyrids meteor shower looking near the star Vega.  It came above our roofline and we saw it because of the light bending across the front of it and thought it was a shooting star but watched it move smoothly across the sky for about 5-6 seconds until it disappeared across another roofline.  It was smaller than an airplane about the size of a car.  No noise was made.  No flashes were made, just reflections around a perfect dark sphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155446.html](http://www.nuforc.org/webreports/reports/155/S155446.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
