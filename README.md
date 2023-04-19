@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:58 on 19 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:14:45 on 19 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Ludhiana (India) () reported seeing craft that fit the description of some 'Diamond' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Me and my brother were on night walk.  Suddenly we saw yellow coloured diamond shaped lights in sky, first one disappeared and next appeared in the moving direction toward east south direction and disappeared.  Later on five in row yellow diamond were seen in a single line in sky and planes were flying there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139501.html](http://www.nuforc.org/webreports/reports/139/S139501.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Neptune (NJ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>3 glowing bright Red/orange orbs fading out and reapearing in same location.Coming home from Monmouth mall with girlfriend.  Stopped at shopping center and could see in the distance a bright red/orange orb coming from the east towards the ocean.  It started out of nowhere, being brightly lit and then filming out after about 2-4 min..only to appear in the same exact spot where it first appeared...  This happend 3 consecutive times one after the other (appearing brightly lit then moving and dimming out into nothing!!!)  And all three moved along the same exact path did the same exact motions and brightness but each time a new one popped up it was brighter then the previous.  I would also like to state we had seen this previously in the same town on Christmas night but it was two instead of three and in anoyher area but still coming from the east and still red/orange and fading out only to appear in The same location and repeat process.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108799.html](http://www.nuforc.org/webreports/reports/108/S108799.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
