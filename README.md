@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:28 on 19 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:30 on 19 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Jackson (TN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>2 large orange balls traveling north to west in west TNMy husband and I were watching tv, when I noticed a very bright orange light in the sky.  We got the binoculars but it was really to far away to know the shape of the craft.  But it was obvious it wasn't an airplane.  It traveled north to the west.  As we stood there talking about what we just seen, another massive orange ball appeared on the north horizon.This time we could see just how huge it was and they the binoculars I could see a clear ball with bright orange lights coming from inside the ball.  It traveled north to west and at a speed slightly slower than a jet.  They made no sound.  It went up into the sky and eventually out of sight.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109127.html](http://www.nuforc.org/webreports/reports/109/S109127.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Vankleek Hill (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Sitting in the hottub to look up at 20+ star-like objects (first assumption satellite) flying EQUAL distance behind one another up until last 5 unknown objects.  Every single one would also light up spot light style when passive a certain point in the sky *assumption of entry of atmosphere*</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155545.html](http://www.nuforc.org/webreports/reports/155/S155545.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
