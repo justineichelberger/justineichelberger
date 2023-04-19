@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:35 on 19 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:40 on 19 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Cocoa (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Four green lights seen close to the ground while drivingAt approximately 21:20 I saw for green lights very low to the ground, just above the tree line while driving in my car.  These were not helicopters as they had no light sticking out the back that I could see.  Two of the lights were stationary and the other two appeared to be doing circles around each other.  When I exited the highway I could still see them, however when I turned around to go back they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75122.html](http://www.nuforc.org/webreports/reports/075/S75122.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Elyria (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>Strange, stationary, bright lights in Elyria, Ohio.This particular night I was driving home and saw “strange lights” in the sky.  No particular formation but they were different than the “weird lights” that have been spotted recently.  They were a dim orange color looking to be at varying altitudes.  They appeared to not be moving or moving very slowly.When I got home I looked up and all they were the “typical” weird lights we’ve had on and off for a while now.  Usually they are stationary; they look very low, and very bright.  Sometimes they are flashing, sometimes not.  But they typically show up around nightfall and I’ve done my best for quite a while to ignore them and chalk it up to a planet or something.  There have been off times that one would shoot across the sky then stop suddenly and remain still.  I have never stayed out to watch them for longer than a few minutes here and there because I find the whole thing very uncomfortable.  I don't believe in "aliens" but I do find this occurance very strange and I just want to contribute if I can because the strange formation I saw while driving was very unsettling.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88515.html](http://www.nuforc.org/webreports/reports/088/S88515.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
