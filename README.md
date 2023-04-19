@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:37 on 19 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:31 on 19 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Detroit (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>appearing in the sky in front of our eyes and just drifting across the sky looked like stars but shooting stars are much faster.seen at least 30 lights in the sky while out for a smoke seen another 15 moving across the sky over Detroit MI. 9:25 p.m. to 9:35 p.m. weren't shooting stars or memorial candles or balloons. they were appearing out of no where and moving across the sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155522.html](http://www.nuforc.org/webreports/reports/155/S155522.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Orlando/Lake Buena Vista (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Orlando SigntingBlue Lights flasing on and off on a round objet close to I-4 and the Disney area. Traveled like nothing i have every seen before in the sky. Was not a shooting star or comet know that for sure.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43562.html](http://www.nuforc.org/webreports/reports/043/S43562.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
