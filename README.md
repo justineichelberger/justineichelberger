@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:30 on 19 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:27 on 19 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Vankleek Hill (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Sitting in the hottub to look up at 20+ star-like objects (first assumption satellite) flying EQUAL distance behind one another up until last 5 unknown objects.  Every single one would also light up spot light style when passive a certain point in the sky *assumption of entry of atmosphere*</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155545.html](http://www.nuforc.org/webreports/reports/155/S155545.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in East Derry (NH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Multiple triangles with white lites in corners and one red flashing light in the middle, moving fast and erracticWe were having a camp fire in the pit looked up in the sky and saw white and red flashing lights moving quickly across the sky from e to w., very fast and in an erratic pattern.  Further to the west was another one, sitting still.  The three got real close to each other and then quickly moved off into opposite directions.  Off to the right was another light that was flashing and moving very erratic and fast. This one appeared to have a smoke tail.  Not knowing the distance, but having seen the shuttle in the sky a few weeks ago, the speed of this was more than a plane. Then another one appeared out in the east and this is the one we got a real good view of. He saw three white lights in a triangle with a red flashing light.  As this point, wow look at that we said.  I did not hear him say triangle.  Later when talking about it and how it was in a triangle, and I said I didn’t here him say that.  And then I told him I had seen a UFO show of triangles, and Belgium.  Then tonight we looked on the computer and found videos of triangle UFO’s.  The one on u2 is exactly what he saw in the sky.  And the triangle ones are exactly what I saw on a television show.We live in Derry, NH; we are 50-60 years old.  Both work.  Have a grown up family.  And we not scared.  We were very interested.  And thought it was cool.  They finally went away for a little while and then came back again.  They were very far away.  He does not have good eye sight and he could see the lights.  So they must have been very big.((NUFORC Note:  We spoke with both these two witnesses, and we found them to be quite sincere and sober-minded.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69733.html](http://www.nuforc.org/webreports/reports/069/S69733.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
