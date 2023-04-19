@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:29 on 19 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:58 on 19 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in New Smyrna Beach (FL) reported seeing craft that fit the description of some '' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Man witnesses four strange lights in formation in NW sky.  2 lights  were bright & large; 2 were dull & smaller.  Disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00433.html](http://www.nuforc.org/webreports/reports/000/S00433.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Ludhiana (India) () reported seeing craft that fit the description of some 'Diamond' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Me and my brother were on night walk.  Suddenly we saw yellow coloured diamond shaped lights in sky, first one disappeared and next appeared in the moving direction toward east south direction and disappeared.  Later on five in row yellow diamond were seen in a single line in sky and planes were flying there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139501.html](http://www.nuforc.org/webreports/reports/139/S139501.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162750.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162798.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162785.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163115.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
