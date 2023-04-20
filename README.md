@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:39 on 20 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:32 on 20 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Powell (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Huge object with lights seen by jogger, then his mother and the boy's stepfather.A young man was running with his Iphone and headphones on, listening to music in his yard at night.  The object was behind him, then he saw it, and it seemed to stop overhead.  He went into the house to tell his mother and stepfather to come and look at it.  His mother went outside first to look on the porch but did not see anything until she went to their driveway, and then saw a huge object.  She reported that something was coming across the sky, slowly, and was huge, white, and glowed very brightly.  It had blue lights on top and red on the bottom of it,  She called her son and his stepdad over and told them she had seen it.  They went over and saw it again and tried to get a picture,  It stayed in one place for a while, then spun around making a loud whizzing sound, then it went across the sky and was gone.  (MUFON) 55630, 55631</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139687.html](http://www.nuforc.org/webreports/reports/139/S139687.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Gilman (VT) reported seeing craft that fit the description of some '' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Young man on Rte. 135 hears rear defroster  buzz, sees huge, very bright boomerang-shaped obj. overhead. Rnd. bubble on bottom.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01438.html](http://www.nuforc.org/webreports/reports/001/S01438.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/162/S162816.html)
-- [365](http://www.nuforc.org/webreports/reports/162/S162799.html)
-- [364](http://www.nuforc.org/webreports/reports/162/S162793.html)
-- [363](http://www.nuforc.org/webreports/reports/162/S162796.html)
-- [362](http://www.nuforc.org/webreports/reports/163/S163582.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
