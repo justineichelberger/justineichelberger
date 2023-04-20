@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:26 on 20 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:25 on 20 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two objects appear in the night sky and disappear,We were sitting in an area near the city’s downtown and I sat gazing at the stars directly above us in the sky. The sun was below the horizon and since we were near city lights, only a handful of stars were visible.  An object appeared that looked at first to be similar to a star or satellite and started to move slowly (as I recollect in a southwesterly direction) about as slow as a satellite or airplane normally would. It did not have any blinking lights as airplanes do and was only a white light about the brightness of a small star.  There was also not any audible sound either.  As it moved along, another light appeared not too far away from the first at the same approximate height (possibly the stratosphere) and adjacent to where the first had begun.  As it followed parallel to the first in the same direction, the first light disappeared and the second light followed to the location where the first had vanished and did so as well.  Two of us saw the same thin! g.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88603.html](http://www.nuforc.org/webreports/reports/088/S88603.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Norwich (CT) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Wow.I was sitting on my roof observing the night sky like i usually do, when out of nowhere a rectangular object dashed across the sky. It made no sound, and appeared to be fairly close to the ground.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108805.html](http://www.nuforc.org/webreports/reports/108/S108805.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/162/S162816.html)
-- [365](http://www.nuforc.org/webreports/reports/162/S162799.html)
-- [364](http://www.nuforc.org/webreports/reports/162/S162793.html)
-- [363](http://www.nuforc.org/webreports/reports/162/S162796.html)
-- [362](http://www.nuforc.org/webreports/reports/163/S163582.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
