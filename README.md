@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 20 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:40 on 20 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10-15 - 10-15 minutes.</sub><blockquote><sub>Black dot moved silently across the sky in different directions like an observation pattern.I just saw a UFO. I was walking down the street and I looked up for some reason and lo and behold: a black spherical object really high up in the sky.  It was kinda just moving around slowly like it was observing.  I kept following it with my eyes and eventually it got to the point where it was behind a tree and some buildings I couldn't get past. At that point I was not sure and I thought it could be a weather balloon because it got slightly higher as I was looking at it.  So, I continued to walk my dog.  When I was heading back into the direction of my house I was able to confirm that it was a UFO because it was lower this time and I could see it clearly.  I followed it for a while with my eyes then eventually it moved across the sky and got higher and higher going in different direction that it disappeared.  It appeared as if it was doing some sort of observation operation by the way it behaved.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56309.html](http://www.nuforc.org/webreports/reports/056/S56309.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Fort Collins (CO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>MOVED AT SPEEDS , ANGLES THAT ARE NOT NORMALOBJECT SHOT STRAIGHT UP ABOVE WHERE JETS FLY AND STOPED THEN SHOT TO THE RIGHT ABOUT 5 MILES OR MORE AND STOPED THEN SHOT UPWARD OUT OF SIGHT THE OBJECT WAS REAL SHINNY AND LOOKED OVAL</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69769.html](http://www.nuforc.org/webreports/reports/069/S69769.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/162/S162816.html)
-- [365](http://www.nuforc.org/webreports/reports/162/S162799.html)
-- [364](http://www.nuforc.org/webreports/reports/162/S162793.html)
-- [363](http://www.nuforc.org/webreports/reports/162/S162796.html)
-- [362](http://www.nuforc.org/webreports/reports/163/S163582.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
