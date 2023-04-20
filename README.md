@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:24 on 20 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:28 on 20 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>white spheres7 slow moving white bright spheres seen more easily with sunglasses as very bright metallic looking.  Travelled together, 7th sphere trailing.  Passed in front of some clouds then seemed to gather together.  Thought might be weather balloons but apparently not going in direction of wind.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108846.html](http://www.nuforc.org/webreports/reports/108/S108846.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Bridgton (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was outside at midnight on April 20th 2021 when I saw what I think was multiple UFOS.  I was out in the backyard in Bridgton, Maine, when I looked up next to a big star right above the tree lines, right next to the star was a bright light that floated up and disappeared.  Then another light came right after and did the same thing and then it started repeating this cycle of lights going straight up then disappearing. I was with a group of people of more than 10 persons. They all saw this as well. This lasted for awhile,I’d even say for more than 10 minutes. The UFOS were silent,you could not hear anything.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162799.html](http://www.nuforc.org/webreports/reports/162/S162799.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/162/S162816.html)
-- [365](http://www.nuforc.org/webreports/reports/162/S162799.html)
-- [364](http://www.nuforc.org/webreports/reports/162/S162793.html)
-- [363](http://www.nuforc.org/webreports/reports/162/S162796.html)
-- [362](http://www.nuforc.org/webreports/reports/163/S163582.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
