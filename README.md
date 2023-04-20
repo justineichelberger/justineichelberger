@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:24 on 20 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 20 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in longboat Key (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>4/12 18 orange star like objects flying low, one at a time over area in precision-like timing.  Longboat key, FlI counted at least 18 orange colored resembling the north star, flying in total precision one at a time in a straight line low enough to hear engine if there had been any.  One would fly over, and as soon as it did, I could see another one coming in the distance.  This was repeated at least 18 times. at 5-10 second intervals perfectly timed.  When I contacted policeman, he told me he had seen the exact same thing three weeks ago in approximately the same place, and pulled over to see it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88598.html](http://www.nuforc.org/webreports/reports/088/S88598.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Thomasville (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately ? - ? minutes.</sub><blockquote><sub>I had dreams of being "chipped," and the next night I was abducted and chipped.I do not remember much of it, but:  Well, the night before the abduction, I had a dream of being chipped (it was square and translucent, It went into my flesh without needing it to be cut beforehand), then the next night I was abducted by tall aliens (like 220 cm minimum) that were very pale (albino like).  I then had a white tool put onto my hand, and when it was taken away a minute later, there was a cut.  I can feel the chip, it is not scar tissue, as there is no scar.  I do not remember there being any pain during this, but I am not good at remembering things other than words and pictures.The next morning, I woke up with a purple hand and the cut still there.(I do not know if this is related to anything, but...)  My leg has been going numb for no reason since then.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118552.html](http://www.nuforc.org/webreports/reports/118/S118552.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/162/S162816.html)
-- [365](http://www.nuforc.org/webreports/reports/162/S162799.html)
-- [364](http://www.nuforc.org/webreports/reports/162/S162793.html)
-- [363](http://www.nuforc.org/webreports/reports/162/S162796.html)
-- [362](http://www.nuforc.org/webreports/reports/163/S163582.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
