@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:29 on 20 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:36 on 20 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Pullman (WA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Pullman, WA UFO SightingAs I'm lying in bed in my apartment, I see outside my window a really bright light, so I kept staring at it.  It was a fixed white light with a red flashing light right beside it, sometimes it looked like it was underneath the white light and sometimes it looked like it was to the side of it.  As if it was changing direction.  I first womdered if it was a planet because some flash colors but it started to move really fast up and down, and side to side.  I watched for two hours as it hovered and moved back and forth across the sky, to eventually disappear.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118535.html](http://www.nuforc.org/webreports/reports/118/S118535.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Glasgow (UK/Scotland) () reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Moving starI was walking back from the gym and was looking at the stars as it was a clear night which is rare as it is usually cloudy here. While admiring the stars i noticed that one star was moving slowly, so i stood still and kept watching it.  I thought it might had been a plane or helicopter but it was moving far too slow to be a plane and was far too silent to be a helicopter.  Also, there was no flashing lights on it.  After about 4 minutes  it was moving over the treeline, shortly after i saw a plane fly past, im not sure whether it was a passenger plane or not but it seemed to follow the same path.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43572.html](http://www.nuforc.org/webreports/reports/043/S43572.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/162/S162816.html)
-- [365](http://www.nuforc.org/webreports/reports/162/S162799.html)
-- [364](http://www.nuforc.org/webreports/reports/162/S162793.html)
-- [363](http://www.nuforc.org/webreports/reports/162/S162796.html)
-- [362](http://www.nuforc.org/webreports/reports/163/S163582.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
