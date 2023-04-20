@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:28 on 20 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:32 on 20 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Norwood (NJ) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 145</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145840.html](http://www.nuforc.org/webreports/reports/145/S145840.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Columbia (MO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>MISSOURI INVESTIGATORS GROUP:  B. Becker. UFOMIG@yahoo.com. Part 2: Still wondering what we had just seen go down by Hinkson Creek, but driven by the need for ice cream, we continued to Andy’s and queued up at the drive-up window.  It had only been about 5 minutes since the first observation.  I was looking west; the sun was setting, when I saw a quickly moving object traveling from the northwest to the southeast.  It appeared silverish and spherical.  It was either quite high or very small.  Then I saw another object which seemed to be trying to overtake the first one, and another one and another one, 6 in all, following the first one.  Of course my first thought was helicopters but we did not hear any kind of mechanical sound.  It finally occurred to me to use my cell phone and try to get a picture.  All I got was small dots, but they are there.  The time was 8:07.  Interestingly a helicopter did fly over to Boone Hospital and it was easily seen and heard of course! it was landing.As an addendum to this report, a friend, who lives in Salem, Missouri, “was entering Columbia on 63 Hwy and saw a white glowing object between 500 and 1000 feet in altitude going over the Femme Bonne Creek.  Estimated speed was 40 mph.  This was on April 6, 2017.  It was traveling south.”</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133921.html](http://www.nuforc.org/webreports/reports/133/S133921.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/162/S162816.html)
-- [365](http://www.nuforc.org/webreports/reports/162/S162799.html)
-- [364](http://www.nuforc.org/webreports/reports/162/S162793.html)
-- [363](http://www.nuforc.org/webreports/reports/162/S162796.html)
-- [362](http://www.nuforc.org/webreports/reports/163/S163582.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
