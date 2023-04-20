@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:25 on 20 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:37 on 20 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0:02 - 0:02 minutes.</sub><blockquote><sub>objects over central texas so bright look like stars except its broad daylightthere are many ufo stories but this one is mine. i was walking home one afternoon after work. now the sky was chrystal clear a beautiful blue texas sky. suddenly i saw a bright light in the sky it was so bright and intense it instantly reminded me of a star yeah thats right it was the size of a star that one can see at night, a clear black night only it was broad daylight. well my mind began running the scenarios;must be the sun reflecting off of a jet. im sure you have seen a reflection off of a jet before. have you noticed when the jet makes its turn that the suns reflection rolls off leaving a silouete of the plane against the sky. well not this one as i was expecting the reflection subsided yet there was no sillouete of any craft let alone a jet. the light i saw was so bright it looked like a star you would see at night it must of been the suns reflection right? well 2 weeks later i was traveling from austin to san antonio with a buddy in his truck we were headed south i i35 when it happened again i am now witnessing the same effect as 2 weeks ago only now i have a witness to confirm me. i said hey do you see that light in the sky and he said yeah its a plain right? i said maybe but if im right this light in the sky will dissappear and no plane will be seen. well it happened just as i said it would and he was stumped ive had 2 more sightings of these strange blazingly bright objects since then. the sightings only last a few seconds so if you are not looking up you probably have no chance to ever see them but folks i tell you we are not alone and thats all there is to it!!!((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37415.html](http://www.nuforc.org/webreports/reports/037/S37415.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Sanford (FL) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 91</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156340.html](http://www.nuforc.org/webreports/reports/156/S156340.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/162/S162816.html)
-- [365](http://www.nuforc.org/webreports/reports/162/S162799.html)
-- [364](http://www.nuforc.org/webreports/reports/162/S162793.html)
-- [363](http://www.nuforc.org/webreports/reports/162/S162796.html)
-- [362](http://www.nuforc.org/webreports/reports/163/S163582.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
