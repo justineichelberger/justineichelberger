@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:40 on 20 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:13:04 on 20 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Fort Collins (CO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>MOVED AT SPEEDS , ANGLES THAT ARE NOT NORMALOBJECT SHOT STRAIGHT UP ABOVE WHERE JETS FLY AND STOPED THEN SHOT TO THE RIGHT ABOUT 5 MILES OR MORE AND STOPED THEN SHOT UPWARD OUT OF SIGHT THE OBJECT WAS REAL SHINNY AND LOOKED OVAL</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69769.html](http://www.nuforc.org/webreports/reports/069/S69769.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Willow Springs (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Large bright orange object seen twice in the same nightA friend and i were out at about 10 pm hunting coyotes. We were sitting down overlooking a large field, when i got a strange feeling and turned around. Just around the corner of a hill, about 1/2 a mile off, i was a large bright orange object. I told my friend to look, and he did. We saw it for less than 5 seconds, and the light just faded out and disappeared. There was no noise. About 20 minutes later, we were sitting in a different place, and were looking over another field, about 200 yards from where the first sighting appeared. Suddenly, a large bright orange object just appeared in the sky above us. It seemed to have a total of 5 lights, 3 in a trianuglar shape on the bottom, and possibly 2 on top. It was there for about 5 seconds, and then just disappeared. I believe it was the same craft as before, and it seemed to be watching us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22662.html](http://www.nuforc.org/webreports/reports/022/S22662.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/162/S162816.html)
-- [365](http://www.nuforc.org/webreports/reports/162/S162799.html)
-- [364](http://www.nuforc.org/webreports/reports/162/S162793.html)
-- [363](http://www.nuforc.org/webreports/reports/162/S162796.html)
-- [362](http://www.nuforc.org/webreports/reports/163/S163582.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
