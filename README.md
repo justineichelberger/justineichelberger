@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:28 on 20 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:31 on 20 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Bridgton (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was outside at midnight on April 20th 2021 when I saw what I think was multiple UFOS.  I was out in the backyard in Bridgton, Maine, when I looked up next to a big star right above the tree lines, right next to the star was a bright light that floated up and disappeared.  Then another light came right after and did the same thing and then it started repeating this cycle of lights going straight up then disappearing. I was with a group of people of more than 10 persons. They all saw this as well. This lasted for awhile,I’d even say for more than 10 minutes. The UFOS were silent,you could not hear anything.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162799.html](http://www.nuforc.org/webreports/reports/162/S162799.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Countryside (IL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was driving home from Michigan and on the phone with a friend... As I was pulling into my driveway which heads east I noticed how beautiful the moon looked with what I thought was Mars next to it. It was a beautiful red next to the moon. And I commented to my friend "are you a moon person? You have to go outside and check out MEs next to it tonight. (It was a beautiful clear night) she was already in bed and didn't want to go outside in pajamas) as I got out of my car I stood in my driveway looking up while still on the phone talking about how cool it looked.  And then it moved.... I said oh my God it just moved what is that? It moved just a short distance to the point I questioned if it had actually moved... Then it moved again... And then.... It split into two red "planets"... I said it just split!!! Now there is two!  Then as fast as it split...(the both kind of moved back and forth)it went back into one red planet then.... Went black in ! the shape of a hexagon, I could barely still make it out.. then shot to the east at crazy speed. From the Tim it moved to going away was a short period of time I can't say exactly how long.. I just stood in my driveway with my jaw dropped on the phone with my friend saying "what the "fish" did I just see!".  The next day I searched for any artical about it. Nothing. I search what do drone look like at night... Nothing like what I saw.  And I can't get it out of my head now.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163582.html](http://www.nuforc.org/webreports/reports/163/S163582.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/162/S162816.html)
-- [365](http://www.nuforc.org/webreports/reports/162/S162799.html)
-- [364](http://www.nuforc.org/webreports/reports/162/S162793.html)
-- [363](http://www.nuforc.org/webreports/reports/162/S162796.html)
-- [362](http://www.nuforc.org/webreports/reports/163/S163582.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
