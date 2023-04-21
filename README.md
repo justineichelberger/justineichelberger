@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:29 on 21 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:30 on 21 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Henderson (NV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I saw a silvery white objects approximately 8 of them flying above the Walmart in Henderson Nevada near Sunset and Marks Street</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156621.html](http://www.nuforc.org/webreports/reports/156/S156621.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Disc shaped light over ChicagoSitting out side in the backyard with family enjoying a fire at night. We looked up at the stars and see a disk shaped light moving across the sky.  It was highe r then any plane and definitely not a shooting star.  It goes far north out of the field of vision. About 5-8 minutes later we see a jet way up in the sky with flashing lights.  And behind the plane we see the same disc shaped light trailing behind the plane.  Heading north then the ufo veers to the east and It then continues.  We are all watching it and then the light disappears.  If this would have been a plane or some other known object it would of been complete visible at that distance. This was a clear night sky many stars visible almost no clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155587.html](http://www.nuforc.org/webreports/reports/155/S155587.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162802.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162801.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162813.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163134.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163120.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
