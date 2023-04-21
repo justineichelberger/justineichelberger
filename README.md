@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:08 on 21 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:27 on 21 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sparks (NV) reported seeing craft that fit the description of some 'Oval' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Large, dim, asymetrical and constantly changing shape, faintly colored object, moving from NW to SE.Report of an Unidentified Object Over Sparks, Nevada, April 21, 2012 Sky  At approximately 21:30 PDT, April 21, 2012 my wife and I stood outside observing the stars and planets in the clear moonless sky.  She had her iPad so that we could identify the planets; the brightest of which we figured was Venus. It was Venus.And then, at approximately 21:40 PDT, I suddenly noticed a large, dimly-visible, ethereal object to the right of Venus, at about 45-degrees above the Northwest horizon moving toward the Southeast at about the rate of speed of a high-flying jet aircraft (or the ISS space station). I next noted that it might be under tow, as a dim dot way ahead of it seemed to be moving at the same speed and direction. (That could have been an unrelated satellite.)  The object would take about four minutes to cross overhead.It was on a steady course and I was able to predict where it would appear after I walked through the house to the front yard.  There we watched it continue on the same path and disappear to the Southeast.  My wife then called a Reno TV Station, and the Fleischman Planetarium at the University of Nevada, Reno but there had been no other reports of phenomena.I would describe it as being asymmetrical and slightly ovoid in shape, with variable shades of pinkish-gray (or pinkish-tan) and was larger than a blimp would appear at 1,000-feet of altitude a half-mile away.   Neither of us heard any sound during its transit of the night sky, and it was a very calm, quiet evening.We searched the internet for clues. I found nothing that would correspond with what I saw.  She went to a NASA website and found the IOTD (Image of the Day) which consisted of three red-and-white parachutes being tested over Arizona by the Orion Test Team.   Could our sighting be a related test? Or was it totally unrelated and will forever remain a mystery to us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88635.html](http://www.nuforc.org/webreports/reports/088/S88635.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Hansville (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Woman repts. multiple sightings of object with blue lights streaking overhead above her residence. (Facts unclear)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00440.html](http://www.nuforc.org/webreports/reports/000/S00440.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162802.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162801.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162813.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163134.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163120.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
