@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:38 on 21 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:45 on 21 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Versailles (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>On this day my BF and I saw a light in the sky.  Greenish.  It was swimming like a sperm in the sky.  A meteorite flashed by.  We saw another bright object that stayed stationery.  My phone would not record any film, it was too dark.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139536.html](http://www.nuforc.org/webreports/reports/139/S139536.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Sanford (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I was driving on I-4 headed east when I seen what I thought was an airplane because I was close to the Sanford Airport.  As I got closer to the St. Johns River, I noticed it wasn't moving, it had 5 white lights and two red lights and was triangular in shape it had a lower base on the shape that was rectangular this is where the two red lights were.  I'm doing bout 80 and I thought maybe it was just a tower so I'm looking, but I can't see any pod or any kind of stand that this thing is standing on; these are just lights on a triangle shape with a rectangular shape on the bottom of the triangle.  As I'm driving, I passed a guy who's parked in the median with no hazards on or anything.  I realized later that he may have seen it too and was stopped and filming it, or taking a picture, and all the traffic that was behind me slowed way down, so I know they seen it too.  The aircraft hovered above the St. Johns River from the time I was in Sanford by the zoo all the way till I couldn't see it anymore which was passed DeBary.  Again the craft was triangular in shape with a rectangle base there were two red lights on the rectangular base and there were five lights 3 on each point of the triangular shape and two white ones about Midway down the sides of the craft.  It was about the length of half a football field it was about thirty feet above the St. Johns River and about 10 feet away from the bridge the object was clearly visible the lights were so bright I can't even explain it.  My windows were down and there was zero large engine noise.  My car and maybe 5 other cars behind me but absolutely no airplane, helicopter, nor drone sound was heard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126971.html](http://www.nuforc.org/webreports/reports/126/S126971.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162802.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162801.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162813.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163134.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163120.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
