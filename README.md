@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:38 on 21 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:29 on 21 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Palm Springs (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>UFO  over Palm Springs  Metallic object sighted west of Pam Springs, CA around 11:40am on Sunday April 21st.  Object was stationary over the mountains at a high altitude and appeared to have other metallic objects surrounding it, almost like a swarm.  The object maintained altitude and position for 10 minutes or so before drifting to the North West over the next 20 minutes where I lost sight of it.  I describe the object as metallic only because it reflected sunlight. I was barely able to see these reflections without polarized glasses.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97285.html](http://www.nuforc.org/webreports/reports/097/S97285.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ozark (5 miles south of) (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Colorful Green, Blue, and Red lights, so bright with color in a trianglular shape.We were driving home after working all day along Highway 65.  We were about 5 miles south of Ozark when I noticed a triangle shaped craft with three lights on it flying south.  What caught my attention was how vibrant the color of the lights were.  They were green, blue, and red.  I have never seen lights on an airplane look so colorful.   We watched it fly over head from the moon roof in my vehicle.  There were two of us in the car.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109143.html](http://www.nuforc.org/webreports/reports/109/S109143.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162802.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162801.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162813.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163134.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163120.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
