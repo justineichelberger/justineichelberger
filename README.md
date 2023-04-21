@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:32 on 21 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:24 on 21 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lakewood (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Helicopter chasing ball of light, disappearsMy friend and I were on the back porch smoking a cigarette when a whi8te ball of light with a helicopter 50 yards behind it flew over the house heading south.  They seemed to fly completely in tandem, or like they were connected, but I'm sure the distance between them was at least 40 yards.  They continued south and then suddenly the ball of light slowly faded out and the helicopter flew right through where it had been.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88585.html](http://www.nuforc.org/webreports/reports/088/S88585.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Jonesboro (AR) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 143</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156334.html](http://www.nuforc.org/webreports/reports/156/S156334.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162802.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162801.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162813.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163134.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163120.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
