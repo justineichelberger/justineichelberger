@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:32 on 21 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:25 on 21 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large, dark, almost rectangular object tumbling and ascendingA large, dark somewhat rectangular object floating below the clouds, moving SE to NW. Was low in the sky (below clouds) when first sighted.. Movement was awkward, wobbly, tumbling.. but moved slowly and perpetually.. object ascended into the clouds. There was no wind.  Very still evening.  Could not see much detail, but the shape appeared flat on one side with a subtle dome on the other..  Shade was lighter on one side, but predominantly black. There were no lights on this object and no sound.  It doesn't seem possible that anyone could travel inside of it, so we are thinking it could be some sort of surveillance craft.  A very ominous object.((NUFORC Note:  Witness describes himself as a public employee in an administrative position.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43586.html](http://www.nuforc.org/webreports/reports/043/S43586.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Palm Coast (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Unusual droning sound and rapidly pulsating blue/white lightsMonday April 21, 2008, Palm Coast, Florida  Went to bed shortly after 12:30a.m., could have been as late as 1:00a.m.Was awaken up about 3:30a.m. to a strange, high pitched droning noise.  At first, I thought perhaps it was a storm brewing and the sound was a result of the wind blowing through the trees.  As the sound continued, I got up to investigate.  I walked into the living room and opened the sliding doors to the lanai.  I was amazed to learn that there was, in fact, zero wind.Perplexed, I returned to bed and tried to sleep.  The droning sound seemed to fade away.  Then the sound began to increase, getting much louder than before.  In fact, it was loud enough to awaken my wife.  She was alarmed and asked me what the strange noise was.  I told her it's been going on for some time, but that I would check it out.  I got out of bed, put on my robe, and walked through the bedroom door into the living/dining room area.  As I stepped through the doorway, a very bright pulsing  blue/white light came through the dining room windows.  It was bright an pulsing and quite frankly scared me.  I put my hand up to my eyes and backed into the bedroom.  My intent was to dial 911, but as quickly as the lights came, they stopped and the droning sound began to fade away.  The next morning, I went to the Sherriff's office and asked if they had reports of anything odd that occurred in our development during the early morning hours.  The officers checked the police log and said nothing unusual was reported!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63119.html](http://www.nuforc.org/webreports/reports/063/S63119.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162802.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162801.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162813.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163134.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163120.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
