@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:33 on 21 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:25 on 21 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Sherman Oaks (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Stationary bright light observed foor over an hour.At approximately 7:30 PM, I looked out the window and noticed a very bright "star" in the night sky. I stepped out onto the porch to observe it. The light was very bright, about two to three times the size of Venus, and it's luminosity remained constant, with no "flicker". Los Angeles was overcast and rainy, and looking around I couldn't see any other "stars", and even the moon was having trouble shining through the haze. (the moon was directly overhead). The object was about 20 degrees off the West-Northwest horizon, so thinking it could be Venus, I sat and watched it for over an hour. During that time it never moved, although it did fade in and out, probably due to the moving cloud cover. I watched several helicopters fly across the horizon at varying distances, and all of them were easily identifiable. Eventually I came into the house to get ufocenter's phone number, and upon returning to the window I saw the object had vanished. I don't know what it was, but it was unusual. I have enclosed a photo of the object, taken with a cellphone camera, and gamma enhanced. (Please excuse the poor quality).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75142.html](http://www.nuforc.org/webreports/reports/075/S75142.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Barnstable (MA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Low flying/gliding diamond, three white lights, one blinking red.I believe in UFO's and stuff but have never seen anything out of the ordinary. Tonight around 8:30 I saw this shape moving across the sky on a highway.  The light in front was blinking red, three others solid white in a diamond shape.  Thought it was just a plane but thought it was weird to be so low.  When i drove farther and saw the object on my left I was freaked out because I did not see a different orientation, rather the same shape of lights.  There was no noise.  Seemed to be only a few hundred yards max above the tree level.  By the time I would have thought of taking a picture it was gone. Weirdest thing.  There is an air force base in the town over so it was probably just an aircraft but still thought I'd report. Made this: http://i.imgur.com/ywNmUaQ.png Seems similar to this article: http://www.sott.net/article/151115-Florida-UFO-captured-on-tape-in-Pasco</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97289.html](http://www.nuforc.org/webreports/reports/097/S97289.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162802.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162801.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162813.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163134.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163120.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
