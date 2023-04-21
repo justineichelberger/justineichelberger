@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:32 on 21 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:32 on 21 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Albany (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was eating at local restaurant on Wolf Rd., looking towards the western sky, and saw a straight black object flying straight up and down, moving fast with no lights, no wings, no sound, no smoke..  Slightly wider in the center moving towards west..  Video on cell phone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126962.html](http://www.nuforc.org/webreports/reports/126/S126962.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large, dark, almost rectangular object tumbling and ascendingA large, dark somewhat rectangular object floating below the clouds, moving SE to NW. Was low in the sky (below clouds) when first sighted.. Movement was awkward, wobbly, tumbling.. but moved slowly and perpetually.. object ascended into the clouds. There was no wind.  Very still evening.  Could not see much detail, but the shape appeared flat on one side with a subtle dome on the other..  Shade was lighter on one side, but predominantly black. There were no lights on this object and no sound.  It doesn't seem possible that anyone could travel inside of it, so we are thinking it could be some sort of surveillance craft.  A very ominous object.((NUFORC Note:  Witness describes himself as a public employee in an administrative position.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43586.html](http://www.nuforc.org/webreports/reports/043/S43586.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162802.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162801.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162813.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163134.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163120.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
