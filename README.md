@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:29 on 21 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:32 on 21 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ozark (5 miles south of) (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Colorful Green, Blue, and Red lights, so bright with color in a trianglular shape.We were driving home after working all day along Highway 65.  We were about 5 miles south of Ozark when I noticed a triangle shaped craft with three lights on it flying south.  What caught my attention was how vibrant the color of the lights were.  They were green, blue, and red.  I have never seen lights on an airplane look so colorful.   We watched it fly over head from the moon roof in my vehicle.  There were two of us in the car.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109143.html](http://www.nuforc.org/webreports/reports/109/S109143.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Albany (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was eating at local restaurant on Wolf Rd., looking towards the western sky, and saw a straight black object flying straight up and down, moving fast with no lights, no wings, no sound, no smoke..  Slightly wider in the center moving towards west..  Video on cell phone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126962.html](http://www.nuforc.org/webreports/reports/126/S126962.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/162/S162802.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162801.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162813.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163134.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163120.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
