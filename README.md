@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:27 on 22 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:23 on 22 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Maumee (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Distant dot of light crossed night sky from west to east in 5 or 6 seconds, too slow for meteor, far too fast for jet.On about April 22, 2014, at about 21:30 in Maumee, Ohio, I witnessed a very small white dot in the night sky, consistent with a jet at high altitude and about the same brightness.  The light moved across the sky from west to east in about 5 or 6 seconds, moving much faster than any aircraft but also much slower than any meteor I have seen.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108976.html](http://www.nuforc.org/webreports/reports/108/S108976.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lewisville Tx (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I did see a UFO!!!! NO KIDDING!!! Had No Lights on it and looked like a big Glider. Made no sound at all and was really kind of hard to see.If I had not been looking for Stars would have never known it was there..  I saw it for about 30sec before it went behind a big church we have near by. I ran to the other side to try and see it again. It was gone. VERY STRANGE!!  We should be having a meteor shower tonight..  That was what I was looking for. No Lights no sound Looked man made like a Air Glider but this was after 2am and a very clear night</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88581.html](http://www.nuforc.org/webreports/reports/088/S88581.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162818.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162804.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162829.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162817.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163196.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
