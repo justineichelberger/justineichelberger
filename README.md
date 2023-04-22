@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:47 on 22 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:14:10 on 22 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Elk Grove (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>A long bodied object hovered in the air over Elk Grove, too high in the sky to be a chopper.  The object hovered up and down and side to side.The object had what appeared to be white lights along the body approx 3 in a row from my vantage point, but as it moved, various different colored lights flickered around it.  It stayed in on spot for over and hour and has gradually moved down the horizon but is still there now (22:34)  My 2 housemates also viewed the occurence along with me.  We attempted to take video but did not have a camera with that range of zoom available.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97315.html](http://www.nuforc.org/webreports/reports/097/S97315.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in LaGrangeville (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Object with bright pulsating white lights seen on skidmore road  in LagrangeI was driving home from a friends house in pleasant valley going into Lagrange. It was a quarter to 11 at night I decided to take a longer way home down back roads. As i came to a stop sign at the intersection of mountain road and skidmore road, as i came to the stop sign in front of me across the rd was an object over a field with a green , red and 2 bright pulsating white lights, it could have been between 500 ft to 1000 feet above the ground since it was dark i could not see a shape but it could have been a cigar shape. I could not tell if it was hovering or just moving very slowly towards me i took a right onto skidmore rd. At this point the object was behind me but i could see it out of my driver side window as it was more on my left side but behind me, I  drove a little over 2 miles to the next rd as i was driving i kept looking back and it seemed to be moving in my direction but at a slow speed i passed 2 other cars on skidmore rd they were going towa! rds it i assume they had to see this thing. The red light was blinking the green light was stationary and the 2 white lights were just pulsating slowly back and forth with each other, these were the brightest lights iv`e ever seen and i havent seen pulsating lights like this, even though they were bright nothing else was lit up not even this object. As soon as i seen this thing i could tell it was not a plane. There is an airport not far from here just across the river and its also used by the military so i see commercial and military cargo planes a lot over here, this thing was moving north west not even in the direction of the airport. Right before i made the turn off skidmore rd i looked back again and it was gone. Up to this point i seen this thing for the whole 2 mile drive by looking out my driver side window. I know about other sightings around here from friends and family, one of them even though not a recent sighting was on this same rd.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75205.html](http://www.nuforc.org/webreports/reports/075/S75205.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162818.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162804.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162829.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162817.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163196.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
