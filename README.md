@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:21 on 22 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:23 on 22 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Burke (VA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 23.31 - 23.31 minutes.</sub><blockquote><sub>We think we saw a ufo with very bright lights.Me and my friends where at my birthday party. It was in Oak Leather Community Center in Burke Virginia. When we were eating dinner one of my friends saw something so me and my other friend looked up.It was some kind of shape. The light around it were colorful and bright also it was the border of the saucer. The lights were so bright I could see the disk (not the shape the disk but the the real disk). I have done research on U.F.O's and this one went very slow. it was also low flying or it must have been HUGE. Also the U.F.O was kinda of tilted to the left. P.S. I thing if we can make a fake magneticfield the let the spacecraft fall into it we could go maybe about the same speed of UFO's.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12715.html](http://www.nuforc.org/webreports/reports/012/S12715.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in San Felipe (Mexico) () reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>We were out looking at huge saquaro catus and taking pictures. When we got home and were looking at the pictures on T.V we noticed a silver object in one of the pictures. There were 3 pictures taken infront of this one catus,all about 5 seconds apart.((NUFORC Note:  Witness does not indicate date and time of photo.  We have assigned an artificial date above.  To the best of our knowledge, we have not received the photos.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50236.html](http://www.nuforc.org/webreports/reports/050/S50236.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162818.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162804.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162829.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162817.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163196.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
