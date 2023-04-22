@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:27 on 22 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:27 on 22 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Morristown (TN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>UFO, 3 larger lights form triangle, 1 smaller dim light on top, all non flashing, fast/silent flight, military jet in pursuit (slower).I was outside walking when I noticed a large solid ball of yellowish/white glowing light.  I thought I was seeing a planet at first (but way too large).  It appeared to not be moving, so I called for my father and grandmother to look. We watched, it began moving closer until it flew over us at a much lower altitude than any commercial jet would fly, and was moving to other horizon, and by the time I got to the backyard to finish watching, it had vanished.  When I was in backyard trying to find it again, a Military Jet appeared in same flight path about 2 minutes later, and my father and I confirmed that it was a military jet from our military experience, and we knew it was a jet from the obvious sound we heard once it had moved on as well.  The UFO had a very fast/smooth flight with no noise, 3 lights form triangle/very Bright, 1 small dimmer light on top, all non flashing (couldn't make out the individual lights until it was over head, at distance it was huge g! lowing ball of hovering light). We are in shock. I'm 30 years old (Navy Brat), Father is 62 (20 Year Navy Veteran), grandmother age 86.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108855.html](http://www.nuforc.org/webreports/reports/108/S108855.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Maumee (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Distant dot of light crossed night sky from west to east in 5 or 6 seconds, too slow for meteor, far too fast for jet.On about April 22, 2014, at about 21:30 in Maumee, Ohio, I witnessed a very small white dot in the night sky, consistent with a jet at high altitude and about the same brightness.  The light moved across the sky from west to east in about 5 or 6 seconds, moving much faster than any aircraft but also much slower than any meteor I have seen.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108976.html](http://www.nuforc.org/webreports/reports/108/S108976.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162818.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162804.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162829.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162817.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163196.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
