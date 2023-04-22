@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:40 on 22 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:21 on 22 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Fairport (NY) reported seeing craft that fit the description of some '' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>3-4 twirling noise whith no engine sound at all  -just a twirling noiseThis noy really a sighting but more tha noise and my curiosty since it happened, and I'm wondering if anyone from my area may have reported hearing/seeing something. On the day I listed 4/22 in the morning I was asleep and woke up hearing a weird "twirling" which had a 3-4 different type of tones like noise, which seemed to be coming from my backyard/backwindow, and just "hovering out gavk.  Still somewhat in a sleep mode and as i was becoming more alert to the noise. I sat up and looked in the direction of my back windows where i was hearing the noise, and saying to myself, "what the hell is that?" by now I was somewhat fully awake to notice that this is not a normal noise and as I got up to go check it out, my two cats were both under the drapes looking out the window, One hissed and the other one ran to the sliding door to the deck. As I got closure to the window the  noise start to fade and then it stopped by the time I got to the window. I looked out and saw nothing, went out to the deck and looked around for anything odd, looked up in the sky for an aircraft and saw nothing. I own a house in a suburb and the sky was clear and I didn't see any "blinking light" from an aircraft/helicopter/ that they would have, the noise was so different from any type of noice that I ever heard from any aircraft. So at that time I decided to go back to bed. Waking up later, the sound still in my head, I was so sure that the noice was in my backyard that when I was finally up and about I went out my bsck yard and looked around for any thing that would be able to make that twirling noise.I found nothing of course, but the moise was so odd and so weird that it has not left my mind still to this day.You may conatct me and if not no biggie likes I said iin the begining, it was a noise..realy weird though.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50897.html](http://www.nuforc.org/webreports/reports/050/S50897.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Burke (VA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 23.31 - 23.31 minutes.</sub><blockquote><sub>We think we saw a ufo with very bright lights.Me and my friends where at my birthday party. It was in Oak Leather Community Center in Burke Virginia. When we were eating dinner one of my friends saw something so me and my other friend looked up.It was some kind of shape. The light around it were colorful and bright also it was the border of the saucer. The lights were so bright I could see the disk (not the shape the disk but the the real disk). I have done research on U.F.O's and this one went very slow. it was also low flying or it must have been HUGE. Also the U.F.O was kinda of tilted to the left. P.S. I thing if we can make a fake magneticfield the let the spacecraft fall into it we could go maybe about the same speed of UFO's.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12715.html](http://www.nuforc.org/webreports/reports/012/S12715.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162818.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162804.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162829.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162817.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163196.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
