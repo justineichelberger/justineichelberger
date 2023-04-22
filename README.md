@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:45 on 22 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:27 on 22 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Slater (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Very bright light traveling slowly from West to East then shooting straight upwardAbout 10 PM on night given my husband and I went out to walk our dogs.  We were watching off to the West because there was an amazing lightning show going on.  Then, from the same area I spotted a bright light that looked like a star only it was brighter than any star or planet I had seen before and it was actually lower than even a small airplane would normally fly.  We were walking, so I stopped to look at it better and thats when I realized it was moving.  I pointed at it and my husband seen it also.  It was coming towards us from the West. It did not dim or brighten any and it did not make a sound.  We watched it as went right over the top of us and it was moving slowly.  Slower than an airplane but not as slow as a blimp.  I would say it was flying a little lower than you would see a small plane fly.  We watched it until it got just to the East of us and were just getting ready to walk again when the light stopped.  It just stopped in mid air.  It never dimmed, it was still very bright.  Then it shot straight up and traveled about 2 seconds, then stopped again.  Then we watched it as it very very slowly dimmed out and disapeared. I never seen a shape because the light was so bright.  It definately was not something on fire or something falling. It had amazing control.  Also there was absolutely no sound. Thank you</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50272.html](http://www.nuforc.org/webreports/reports/050/S50272.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Morristown (TN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>UFO, 3 larger lights form triangle, 1 smaller dim light on top, all non flashing, fast/silent flight, military jet in pursuit (slower).I was outside walking when I noticed a large solid ball of yellowish/white glowing light.  I thought I was seeing a planet at first (but way too large).  It appeared to not be moving, so I called for my father and grandmother to look. We watched, it began moving closer until it flew over us at a much lower altitude than any commercial jet would fly, and was moving to other horizon, and by the time I got to the backyard to finish watching, it had vanished.  When I was in backyard trying to find it again, a Military Jet appeared in same flight path about 2 minutes later, and my father and I confirmed that it was a military jet from our military experience, and we knew it was a jet from the obvious sound we heard once it had moved on as well.  The UFO had a very fast/smooth flight with no noise, 3 lights form triangle/very Bright, 1 small dimmer light on top, all non flashing (couldn't make out the individual lights until it was over head, at distance it was huge g! lowing ball of hovering light). We are in shock. I'm 30 years old (Navy Brat), Father is 62 (20 Year Navy Veteran), grandmother age 86.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108855.html](http://www.nuforc.org/webreports/reports/108/S108855.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162818.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162804.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162829.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162817.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163196.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
