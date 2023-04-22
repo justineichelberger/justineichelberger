@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:24 on 22 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:25 on 22 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Renton (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>driving home around 10ish.  I looked up into the sky and saw a bright light hovering.  Just as quickly as I saw it, it flew away at a tremendous rate of speed and disappeared.  Too slow to be an airplane or a hovering helicopter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50265.html](http://www.nuforc.org/webreports/reports/050/S50265.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Garrison (NY) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>This was definitely one of the strangest things that I have ever seen. It was a sunny Sunday afternoon. My wife and I were on the back deck enjoying the weather. I noticed an object come into view over the top of the trees toward the rear of our property. We have large cliffs in our backyard with trees on top, so the height of the object was about 200 ft and about 500 ft away. At first, I did not know what I was looking at. I then realized that it was something highly unusual. It had no wings; it was cylindrical and was spinning on its long axis. It was about 10ft long by 5ft wide. It was spinning clockwise. I stepped off the deck and walked into the yard to get a better look of it. What I know now is that it was keeping a consistent height off the ground to the top of the trees, so as it cleared the cliff area it got closer to the ground. I got as close as I could to it and starred at it intensely. It was spinning about one revolution per second and moved i! n a straight line at around five miles per hour. It was completely silent. There was something like a pipe that was on its side that was attached at a slight diagonal. I remember the color as a dark gray and also brown. I watched it as it moved away. Looking at it, I felt a strange sensation of an otherworldly presence.  I noticed a part on top of the object that I did not see from the side. The fact that the entire object was spinning leads me to think that it may have been “morphing” or changing shape. The object moved away in a very strait and precise line. It was moving so steadily that it appeared to be shrinking in size opposed to getting farther away. I have never seen anything in the sky travel in such a precise strait line and so smoothly. It traveled across the valley and over the tops of the trees. That was it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162470.html](http://www.nuforc.org/webreports/reports/162/S162470.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162818.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162804.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162829.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162817.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163196.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
