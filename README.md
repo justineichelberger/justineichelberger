@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 22 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:47 on 22 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Golden Valley (MN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Vivid green fireballI was sitting in our living room when I saw a green fireball shoot through a portion of the sky that is visible through one of the windows in the room.  It was so clear that it almost looked like some sort of firework.  It was visible to me for approximately 1-2 seconds before trees in our yard blocked the view.  I assume that it was a meteor or something similar but figured I should report it in case it corroborates with someone elses report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28515.html](http://www.nuforc.org/webreports/reports/028/S28515.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Elk Grove (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>A long bodied object hovered in the air over Elk Grove, too high in the sky to be a chopper.  The object hovered up and down and side to side.The object had what appeared to be white lights along the body approx 3 in a row from my vantage point, but as it moved, various different colored lights flickered around it.  It stayed in on spot for over and hour and has gradually moved down the horizon but is still there now (22:34)  My 2 housemates also viewed the occurence along with me.  We attempted to take video but did not have a camera with that range of zoom available.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97315.html](http://www.nuforc.org/webreports/reports/097/S97315.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162818.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162804.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162829.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162817.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163196.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
