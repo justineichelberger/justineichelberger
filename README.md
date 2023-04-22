@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:23 on 22 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:27 on 22 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lewisville Tx (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I did see a UFO!!!! NO KIDDING!!! Had No Lights on it and looked like a big Glider. Made no sound at all and was really kind of hard to see.If I had not been looking for Stars would have never known it was there..  I saw it for about 30sec before it went behind a big church we have near by. I ran to the other side to try and see it again. It was gone. VERY STRANGE!!  We should be having a meteor shower tonight..  That was what I was looking for. No Lights no sound Looked man made like a Air Glider but this was after 2am and a very clear night</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88581.html](http://www.nuforc.org/webreports/reports/088/S88581.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Asheville (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>2 UFO sightings in my area in the last week!Last night, while taking my nightly stroll through my apartment complex, I was looking up at the sky observing the stars. The sky was pretty clear considering we had thunderstorms earlier that day. I spotted what I took at first to be a star because It was a bright yellowish white colour, solid throughout and very high in the sky. However, I then noticed it was moving. I stopped walking and watched it. It was flying in a strait pattern but going rather too fast and smooth for an airplane. I took off my headphones to listen for sound, to make sure it wasn't a plane or for some bizaree reason a helicopper (though it seemed too high up for this) I couldn't hear anything but the normal car noises ect. It didnt have any light changes and I didn't see any red lights or pulsating lights like on a plane. I walked forwards to watch it until it disapeared behind a tress near by. I continued on my walk, shortly afterward, maybe three minutes later, a plan flew over head. It looked nothing like what I saw minutes before and was at the normal height in the sky.This is strange to me because its the second sighting I've had in the last week. I can't remember the exact day, I think It was Tuesday or Wednesday. It was about 1:30-2:00pm I was driving to see a friend at work when I noticed a a silvery object really high in the sky, higher then I had ever seen a plane go. It's shape was somewhat circular and I couldn't make out any wings. I observed it until I turned a corner and it was gone from my view. Both sighting I was alone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50249.html](http://www.nuforc.org/webreports/reports/050/S50249.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162818.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162804.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162829.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162817.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163196.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
