@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:20 on 22 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:24 on 22 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Pearl River (LA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Pearl River, La fast moving, SILENT, imperfect circular object, 1 bright light in front surrounded by green/yellow soaring low in sky.On Monday April 22, 2013 at 11:30PM, the same night of the meteor shower event, was an unidentified flying object appearing low in altitude. In the night sky the moon illuminated much of its light.  In addition, the clouds traveled in a fast pace manner in the direction, diagonally, towards this object. For clarity, an x shape could be formed in terms of the clouds and object.  Furthermore, this object seemed to be a diamond/imperfect circular shape.  A bright white light in the front glowed as it moved toward my direction. It moved at an incredibly fast speed with no sound following.  And had a short tail of vapor, not smoke, coming from the back end in the shape resembling a drawn out triangle.  This vapor dissipated rapidly.  When it approached directly overhead of my view I determined the shape and saw green and yellow lights going around the craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97313.html](http://www.nuforc.org/webreports/reports/097/S97313.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Arlington Heights (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Formation of three orange/red orbs, followed by another orb several minutes later pass overhead.Was out walking our dogs when I saw 3 orange/red orbs in sky flying in triangle formation, keeping perfect pace with each other.  They were bright, made no noise and kept a constant rate of speed, formation and altitude.  They did not flash or blink like an airplane.  My neighbor puledl into his driveway so asked if he'd seen them. He told me he didn't see anything but as we spoke, another orb appeared, following the exact course as the others.  It was identical in every way to the group of three that passed overhead 5 minutes before. Chinese lanterns?  Maybe so, but Monday night at 10 pm is an unusual time for something like that.  I watched them fly for a distance of several miles before the ambient light drowned them out.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97314.html](http://www.nuforc.org/webreports/reports/097/S97314.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162818.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162804.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162829.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162817.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163196.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
