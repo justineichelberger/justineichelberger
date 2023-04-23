@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:27 on 23 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:34 on 23 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>flying orbs over las vegasi stept outside my house my family was already watching the ufo's and my brothers wife was already recording them and the objects where flying up and then they disappeared after about 3 more minutes more started to appear and right after they where all gone we saw a lot oh helicopters flying to that direction of the ufo's  link to video's   http://www.youtube.com/watch?v=HZJIcpctdwQ http://www.youtube.com/watch?v=yYh0kmIEgOI</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88769.html](http://www.nuforc.org/webreports/reports/088/S88769.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Sandpoint (ID) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>An aqua blue sphere with a long trail shot across the night sky.While riding my motorcycle north toward Sandpoint from the Westmond area on hwy. 95 at approx. 11:45 P.M. a very bright, aqua colored, round object with an extremly long trail, caught my attention as it came across the sky traveling from east to west and downward in a fashion that suggested it would impact the ground just out of my line of sight to the west. I expected to see a flash or perhaps feel a jolt from the event but neither occured. It was simply there and gone. The color was quite remarkable and unlike anything I have ever witnessed in the night sky due to a natural event (shooting star etc. etc.).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28530.html](http://www.nuforc.org/webreports/reports/028/S28530.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
