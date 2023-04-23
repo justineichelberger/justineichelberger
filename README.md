@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:25 on 23 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:22 on 23 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Summary : bright light travelling east to west veryhigh in the sky similar to headlights comingthrough fog then disappeared suddenlyWhile sitting on my front porch around 2100 Iobserved a very bright light travelling fromeast to west but incredibly high  in the skymuch higher than a plane can fly. It lookedlike a headlight coming through the fog but itwas a clear night with no clouds. It wastraveling at a great rate of speed but couldnot see a shape. Then before my eyes itdisappeared. No lights were to left, right orbehind, just gone. It did not have any blinkinglights which I have observed on aircraft before.strangest thing I have ever seen, and I am astar-gazer who watches for such things.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02277.html](http://www.nuforc.org/webreports/reports/002/S02277.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Thompson's Station (TN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.45 - 3.45 minutes.</sub><blockquote><sub>I was outside looking at the night sky and then my two friends both saw an UFO.  I passed out for two minutes they said and then I woke up with scratches on my leg.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145846.html](http://www.nuforc.org/webreports/reports/145/S145846.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
