@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:19 on 23 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:22 on 23 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Plainfield (CT) reported seeing craft that fit the description of some 'Formation' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright flash of light in the sky followed by two large formations of lights in the span of an hour or less.Having a bonfire, my friend first witnessed a bright flash of light in the sky, followed by what he could best describe as seeing a hole open up behind it. His dog barked at it, possibly reacting to my friends unease.  I did not witness this, but about 10-20 minutes later four of us saw what at first looked like 4-5 planes flying very high in formation. When we got to a better vantage point we counted as many as 14 white single point strobe lights, in a V formation. No noise that we could hear, and they were either very high or in space. I felt they were moving extremely fast, given their distance from us.  The center two lights appeared to cross each other's paths while they were moving.  They were in our north eastern sky, appearing to be travelling south easterly. They disappeared into the distance and we went back to our fire. About 15-20 minutes after this, we saw the same, or a second formation come over again, travelling in the same direction. This time all the lights stayed fixed in their positions but were in the same shape and moving at the same rate of speed. We identified several planes all at different altitudes, arrivals and departures from the major airports and several cross Atlantic flights that all looked regular. There was a fair amount of normal air traffic, and someone else must have seen this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127005.html](http://www.nuforc.org/webreports/reports/127/S127005.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Pawtucket (RI) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Pawtucket RI/Attleboro MA line.  Two lights one being bright moving very slowly along tree line.  To the NE closer prox drone w/ light</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156068.html](http://www.nuforc.org/webreports/reports/156/S156068.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
