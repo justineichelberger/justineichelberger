@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:23 on 22 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:35 on 23 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Memphis (TN) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>40 to 50 objects hovering over memphis tennesseeme, my wife and daughter were driving from memphis to collierville corinth ms and i realized that there was an unidetified object just hovering right over byhalia. we were coming to all kinds of conclusions, helicopters or jets etc. but then we noticed atleast 30 more over the freeway pointing towards our way. they had red and white lights but you could tell that they werent normal lights. the lights were traveling around the object very fast as if it was only one light, and the red ones were just blinking. as i was looking at the first one we seen it was like it knew we was looking at it and flashed a light as if it winked at me. and even when i got to corinth ms i could still see them far out just hovering. they were so close together and so close to the ground that it was unbelievable! planes and helicopters make noises but these obvjects were quiet, no noise at all. i think theyre planning something just waiting for the right time to pop it off. they wer! e diamond shaped objects. it was just crazy. i searched on the internet to see if anyone else seen the objects but, nothing. i tried recording the objects but my phone mysteriously shut down! ive always been aware of the fact that they were out there but no one else ever believed me, even my wife! but now she knows that im not crazy. they were lined up for a while as if in formation. it was like we was walking down the aisle on the freeway.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97320.html](http://www.nuforc.org/webreports/reports/097/S97320.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Branford (CT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright orange fireball moving slow speed over trees, hovering and disappearing. Second encounter recorded, clear sky and moonlight.Overhead, a clear sky and moon. A very bright fireball moving at slow speed twice in the same direction over trees. No sound and disappears. Bright orange in color radiating light all over its circular shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162841.html](http://www.nuforc.org/webreports/reports/162/S162841.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162818.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162804.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162829.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162817.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163196.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
