@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:20 on 23 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:30 on 23 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Warden (WA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>We saw a light that resembled a star over the horizon that shot straight up, and not like any aircraft we've ever seen.  We continue to watch it for about 10 mins, until it started to come closer.  It stopped as it started getting closer, and flashed bright lights.  Then it shape shifted into a aircraft.  When it flew over we heard nothing.  Also, two satellite looking things came out from underneath it.  Tried take a video but it didn't even show up or wanted to work and I have a brand new phone too.  Weird.  Got a photo though thankfully of its bright light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139609.html](http://www.nuforc.org/webreports/reports/139/S139609.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Chesaprake (VA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange object over ChesapeakeSaw the orange object in the almost dead East.  The object came toward us then went upward then to the right then quickly proceeded away and was gone..Thanks for having this site.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97326.html](http://www.nuforc.org/webreports/reports/097/S97326.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
