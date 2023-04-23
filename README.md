@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:18 on 23 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:19:55 on 23 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I have actual footage and photos of my abduction.In July of 2019 I was abducted and fortunate enough to video record and get photographs. I was relaxing in the back of my van on a beautiful rainy evening in Phoenix Arizona.  The day had already been quite weird, such as electronics not working correctly, lots of forgetfulness etc.  Anyhow, I was sitting in the pitch dark enjoying the rainfall when I was moved to turn on my video camera on my phone. I have no idea why I decided to go ahead and just start recording in the dark, but I did.  After about a minute I decided that this was stupid and it was time to go inside my friends home to sleep.  I laid on the couch and decided to watch the video.  What I captured was unbelievable. I recorded a landing of extraterrestrial nature, mind you I did not see this happening while I was recording.  It only showed up in the video. I was stunned at what my camera picked up and began to zoom in and take screenshots of the activity. The more screenshots I took the more in dept! h I saw what had happened. I saw myself walk into the craft as well as these light beings who were performing acts I did not understand. I became obsessed and couldn’t stop going deeper. The next day I became very ill and could barely function. I stayed sick for about a week before I started feeling normal again. A couple weeks down the road I felt strange and I had skipped my period. I had not been intimate with anyone for months but felt the need to get a pregnancy test. So I did and it was positive. I started to freak out because there was no way possible and I had no one to confide in. A few days later I ended up having a miscarriage and was devastated as well as relieved. Since this experience my life has never been the same. I want to share my footage and my story with others because I know I am not the only one who has experienced this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149486.html](http://www.nuforc.org/webreports/reports/149/S149486.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Los Altos Hills (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>Triangle with lights seen hovering near highway 280 in Los Altos Hills, CA.Unidentified aircraft seen hovering very low and very still near highway 280.  Though it was very dark, a faint, triangular outline was visible. 5 lights were visible from point of observation, three of which were positioned on the points of the triangle, one positioned in the exact middle of the triangle, and one positioned laterally between two points.  Object seemed to be slightly larger at its largest dimension than the largest dimension of a Bell 206 helicopter.  No mechanical or engine noises were heard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75157.html](http://www.nuforc.org/webreports/reports/075/S75157.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
