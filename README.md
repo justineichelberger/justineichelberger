@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:22 on 23 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:27 on 23 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I was driving down I-95 south and just over the trees on the right I saw a triangle UFO with one light up top a few on the bottom and a few in the middle. It flew at an angle, I was doing 65- 70 mph and it stayed just about 300 yards ahead of me to the right, - as I stared at it.. ( thank God I didnt get in a wreck) lol - after about a min or so it took off full speed cut over the highway and disappeared. It was a mile to the next exit, and this thing went to that exit then cut accross with in the matter of 2- 3 seconds..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42983.html](http://www.nuforc.org/webreports/reports/042/S42983.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Midland (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately Sky watching - Sky watching minutes.</sub><blockquote><sub>Shape changing orb with bright light in the middle that seems to take pictures.I'm always star gazing but I know stars arent supposed to move. These objects keep changing shape and direction. They always seem to keep coming back every two days.I know other people in this area sees the same thing because I see camera flashes like someone else is taking pictures. I was always skeptical about this kind of thing but what Im seeing is without reason. It has bright white lights and a stream of flashing lights around it. They seem to hover around houses late at night like they are observing studying.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50284.html](http://www.nuforc.org/webreports/reports/050/S50284.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
