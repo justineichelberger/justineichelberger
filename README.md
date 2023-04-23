@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:34 on 23 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:47 on 23 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Sandpoint (ID) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>An aqua blue sphere with a long trail shot across the night sky.While riding my motorcycle north toward Sandpoint from the Westmond area on hwy. 95 at approx. 11:45 P.M. a very bright, aqua colored, round object with an extremly long trail, caught my attention as it came across the sky traveling from east to west and downward in a fashion that suggested it would impact the ground just out of my line of sight to the west. I expected to see a flash or perhaps feel a jolt from the event but neither occured. It was simply there and gone. The color was quite remarkable and unlike anything I have ever witnessed in the night sky due to a natural event (shooting star etc. etc.).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28530.html](http://www.nuforc.org/webreports/reports/028/S28530.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Greenland () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Clear photo of UFO over Greenland at 35,000 feetI was 35,000 feet up over Greenland, I looked out the window, I snapped this photo.  I know that this is real.  I know now that we are not alone.  A sphere is not in our aircraft arsenal to my knowledge and this is not a balloon.((NUFORC Note:  Photo shows a tiny object, seemingly suspended, and possibly outside the aircraft.  The only explanation, of terrestrial origin, is that the photo indicates the pressure relief hole, drilled in the outer plastic windshield.  If it is not that, then we do not know what the object is.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68341.html](http://www.nuforc.org/webreports/reports/068/S68341.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
