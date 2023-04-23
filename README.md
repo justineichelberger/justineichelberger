@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:28 on 23 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:20 on 23 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Mount Vernon (MO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Very large bright green ball of light zoomed across the sky with no trail of any sort and ring of gold light around it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126989.html](http://www.nuforc.org/webreports/reports/126/S126989.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Vero Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was driving and saw something strange in the sky pulled the car over immediately. It was shaped as a bullet at this point and time. II seen a shooting star that was bright orange. I captured a picture of it. Was really excited. a few minutes later I turn around and I see two SUPER bright lights behind the clouds. At first I thought it was the moon but I seen that there were two. As the clouds moved away from the lights- I was alarmed. THere were two bright lights ( not planes) that were pulsating light rays downward to the ground every 5 or 6 seconds.  ( like a sonar) They were hovering at a slow speed towards the ocean. ( I was at the riverside dog park). I am 30 years old and have never seen anything like this in my life. I was in a trance just looking at it . Speechless. They soon drifted slowly into the sky and vanished. I was stunned.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162822.html](http://www.nuforc.org/webreports/reports/162/S162822.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
