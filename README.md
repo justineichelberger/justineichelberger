@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:19:55 on 23 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:27 on 23 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Los Altos Hills (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>Triangle with lights seen hovering near highway 280 in Los Altos Hills, CA.Unidentified aircraft seen hovering very low and very still near highway 280.  Though it was very dark, a faint, triangular outline was visible. 5 lights were visible from point of observation, three of which were positioned on the points of the triangle, one positioned in the exact middle of the triangle, and one positioned laterally between two points.  Object seemed to be slightly larger at its largest dimension than the largest dimension of a Bell 206 helicopter.  No mechanical or engine noises were heard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75157.html](http://www.nuforc.org/webreports/reports/075/S75157.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>flying orbs over las vegasi stept outside my house my family was already watching the ufo's and my brothers wife was already recording them and the objects where flying up and then they disappeared after about 3 more minutes more started to appear and right after they where all gone we saw a lot oh helicopters flying to that direction of the ufo's  link to video's   http://www.youtube.com/watch?v=HZJIcpctdwQ http://www.youtube.com/watch?v=yYh0kmIEgOI</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88769.html](http://www.nuforc.org/webreports/reports/088/S88769.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
