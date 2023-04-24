@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:23 on 24 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:30 on 24 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately while I am in here - while I am in here minutes.</sub><blockquote><sub>This one is no obect- it moves about and doesn't seem to ever need any sleep though.This one Extra-terrestrial has been an annoyance now for over a week.  I'm sure it's a male though.  It's not very friendly but at least it's better than the other one. It seems to need to try and make that it's a human being!  He doesn't have me convinced.  That room is supposed to be vacant and he's making noises and was it seems constanly dropping those. A few weeks ago I heard some craft fly over making that old harmonica melody I used to play when on board.  They must have left it off to annoy me when in here is where I stay.  Is there any number to UFO police in this website?  I checked the 2nd box from the botton in the list of characteristics because it's closest but should be : there was an aircraft in the vicinity that seemed extraterrestrial but left and that is why I am reasonably sure that they left him someplace above.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50275.html](http://www.nuforc.org/webreports/reports/050/S50275.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in New Orleans (LA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>it was like it was made of mercury and molded to the most arodynamic shape posible. it flew very fast and was only seen because a reflection of light hit it and allowed me to kind of make out what shape it was. i thout it was compltly silent but i was to stuned by the event.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56403.html](http://www.nuforc.org/webreports/reports/056/S56403.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
