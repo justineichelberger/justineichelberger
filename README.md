@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:27 on 24 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:23 on 24 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>6 objects. Round. Bright as full moon. Size of seeing venus but larger. Moving west to east. 4 in a diamond formation with two following. Total of six. No sound. No flashes. Speed of an airliner in fast cruise. Not over head but instead maybe airliner in lower cruise altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162844.html](http://www.nuforc.org/webreports/reports/162/S162844.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Theodore (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Driving home, saw 4 Orange lights in the sky.  3 small 1 big.  Thought it was a trick of light until I saw it again further up the road. The big one was brighter than the 3 little ones. They were all in a spaced out line. The big one would glow bright ,them one by one the smaller ones would blink out. They did this twice before I couldn't see them again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139607.html](http://www.nuforc.org/webreports/reports/139/S139607.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
