@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:32 on 24 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:34 on 24 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Highland Village (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Saw boomerang shaped, low-flying craft gliding at high rate of speed; shooting star immediately followedAt approximately 10.30 pm CST I was in my backyard trying to coax my cat down from the patio roof. I live in the flight path of an international airport so it’s quite normal to see low-flying airplanes moving overhead, and at first, that’s what I thought I saw.However, the object in the sky that I observed was traveling at a high rate of speed, and, with the light pollution making its outline visible, I could tell it was boomerang shaped.  Several dim lights emanated from its undercarriage.  This “craft” was flying quite low, much lower than typical airplanes, and it was silent as it glided overhead.  I ran onto my walkway and could still see the craft, which kept its rate of speed. As it disappeared towards the east, (meaning, I couldn’t see its outline as it faded into the darkness), I was startled by a shooting star that seemed to have streaked into the craft’s path.I do not believe this was an airplane or a bird. I have never seen anything like this and I tend not to jump to conclusions, but this was just very, very odd.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88643.html](http://www.nuforc.org/webreports/reports/088/S88643.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Selkirk (MB) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Two objects that appeared to be satellites but changing speed and direction.- [ ] Was looking at the Big Dipper April 24/2020 at 4:15 am. Noticed two bright circular objects coming from the north west. At first I thought it might be the satellites from starlink but there were only 2.  They were travelling way too fast for modern aircraft and still too fast for satellites.  Not only did they change speed but were weaving in and out from each other like two people joy riding.  The northern craft was a little behind the southern craft then suddenly sped up again too catch up too southern craft then they both just disappeared.  No other air craft around.  No sound from either of craft.  I estimate their altitude that of the iss.  They did look like satellites but again travelling way too fast for a low earth orbit and also they changed speed and directions .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155717.html](http://www.nuforc.org/webreports/reports/155/S155717.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
