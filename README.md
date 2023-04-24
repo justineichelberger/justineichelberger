@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:25 on 24 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:26 on 24 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Debary (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>This would be the third sighting by me, but the first with a witness, a bright white would appear suddenly.  Thicker and brighter than a satellite would appear.  It would then move linear from north to south for a duration of 20-60 seconds.  It would then fade to low luminance before disappearing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108894.html](http://www.nuforc.org/webreports/reports/108/S108894.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Haverhill (MA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>small object floating moving up and down blinking.I'm looking at an object right now. I've been watching it for a good 20 mins.  It looked like a star at first and then when i put my glasses on i saw it was blinking a white light and light seems to turn red every once in a while.  It moves up and down, reft and right but says in the same area. It can't be a plane because it hasn't moved away. Now it's gone it just dissapeared!  I never thought there were ufos but i might be wrong.  I tried to take a picture of it but it was too small</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75164.html](http://www.nuforc.org/webreports/reports/075/S75164.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
