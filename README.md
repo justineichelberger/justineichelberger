@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:30 on 23 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 24 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Port Townsend (10 nm so.) (WA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Sighted WW II barrage balloon at 1500' AGL (no lights) which accelerated rapidly as I approached in my light aircraft.I was southbound in my light aircraft from Jefferson County Airport during some pleasure and proficiency flying.  The weather was clear, very light to no wind; my altitude was approximately 1500 AGL, airspeed 90 knots.  Appproximately 5-6 nm south of Jefferson County Airport (10-11 nm south of the town of Port Townsend), directly ahead approximately 1 nm ahead and at about my altitude I saw what I immediately thought was a WW II barrage balloon, like those used in the Battle of Britain--it was so like that that no other thought or association came to my mind. It was brown or olive drab in color and seemed too small to be a modern blimp. The "balloon" was stationary, as if tethered in the fields below, though I saw no tethering lines; it had no airfoils or control surfaces except the fin-like empennage typical of barrage ballons and blimps, and it had no engine, propellor or other visible source of power. I saw no lights anytime during the episode.  It was pointed in a westerly direction.  My immediate thought was to wonder why anyone would tether a barrage balloon in at this point.  I altered my heading to pass behind (east of) the balloon and take a closer look. When I was approximately 1/4 nm from it, the balloon suddenly accelerated at a very high rate of speed to the west, toward the Olympic Mountains; I turned to follow it;  in a few seconds it had gone from my sight.  There was no visible exhaust or other indication of power or motion.  I have been a certified flight instructor for approximately 30 years and was in instructor in the Strategic Air Command.  I have seen interesting sights while flying but I can remember no other sight that I could not explain to my self.  I recently learned of your web sight, which is one reason for the timing of this report.  My memory of the episode is vivid; I have identified the date in my pilot log book.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12919.html](http://www.nuforc.org/webreports/reports/012/S12919.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Ortonville (MI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The objects where in a straight line turned green with several white dots across the sky moving in a line slow</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155673.html](http://www.nuforc.org/webreports/reports/155/S155673.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162832.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162837.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162841.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162833.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
