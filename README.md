@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:30 on 24 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:23 on 24 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in New Orleans (LA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>it was like it was made of mercury and molded to the most arodynamic shape posible. it flew very fast and was only seen because a reflection of light hit it and allowed me to kind of make out what shape it was. i thout it was compltly silent but i was to stuned by the event.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56403.html](http://www.nuforc.org/webreports/reports/056/S56403.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in St. John’s (Canada) (NF) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>2 Triangular craft seen in Newfoundland with 3 lights centred on the bottom, lasting an hour, then leaving.I saw an 2 Ovni, 1 over my workplace overhead, whilst smoking American pipe tobacco.  It was rather startling to say the least.  I later saw another craft in the distance.  The event lasted about an hour in duration.  They had a 3 light configuration in the centre, no noise, slowly moving, and appeared to stop overhead of me, as if it did some sort of sortie, intel op.? Late April, 2018, spring.  It may of triggered an altered state.  I was rather traumatized by the weird occurrence.  A month later I lost my job, and ended up in the asylum on medications, after drinking American beer on Canada Day.  I never did drink it again.  Live and learn ... PS.” The objects appeared in St. John’s, NL. 1 over 57 Bonaventure Ave., at the rear entrance heading south, the other over the horizon in the direction of the international airport, headed west. I haven’t seen craft like this before.  The triangular light configuration was red in colour.”Cheers!  ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147583.html](http://www.nuforc.org/webreports/reports/147/S147583.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
