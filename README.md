@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:23 on 24 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:32 on 24 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Theodore (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Driving home, saw 4 Orange lights in the sky.  3 small 1 big.  Thought it was a trick of light until I saw it again further up the road. The big one was brighter than the 3 little ones. They were all in a spaced out line. The big one would glow bright ,them one by one the smaller ones would blink out. They did this twice before I couldn't see them again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139607.html](http://www.nuforc.org/webreports/reports/139/S139607.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Highland Village (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Saw boomerang shaped, low-flying craft gliding at high rate of speed; shooting star immediately followedAt approximately 10.30 pm CST I was in my backyard trying to coax my cat down from the patio roof. I live in the flight path of an international airport so it’s quite normal to see low-flying airplanes moving overhead, and at first, that’s what I thought I saw.However, the object in the sky that I observed was traveling at a high rate of speed, and, with the light pollution making its outline visible, I could tell it was boomerang shaped.  Several dim lights emanated from its undercarriage.  This “craft” was flying quite low, much lower than typical airplanes, and it was silent as it glided overhead.  I ran onto my walkway and could still see the craft, which kept its rate of speed. As it disappeared towards the east, (meaning, I couldn’t see its outline as it faded into the darkness), I was startled by a shooting star that seemed to have streaked into the craft’s path.I do not believe this was an airplane or a bird. I have never seen anything like this and I tend not to jump to conclusions, but this was just very, very odd.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88643.html](http://www.nuforc.org/webreports/reports/088/S88643.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
