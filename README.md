@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:37 on 24 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:27 on 24 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Blue River (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We noticed a large triangular object hovering above road.  Three lights underneath, no sound.  Blinking red one that rotated colors.  Started moving slowly after we stopped to look at it.  Have a short video.  Size was larger than a car.  We started driving and noticed a large barrel in middle of road, was scared to stop and kept going.  We saw it again with what appeared to be two other craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146850.html](http://www.nuforc.org/webreports/reports/146/S146850.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>6 objects. Round. Bright as full moon. Size of seeing venus but larger. Moving west to east. 4 in a diamond formation with two following. Total of six. No sound. No flashes. Speed of an airliner in fast cruise. Not over head but instead maybe airliner in lower cruise altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162844.html](http://www.nuforc.org/webreports/reports/162/S162844.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
