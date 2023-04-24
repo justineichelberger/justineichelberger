@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:33 on 24 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:30 on 24 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Spring Creek (NV) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Large lime-green luminescent rectangle, lights moving within it,   in the southeastern sky at 9:10pm Pacific Time.Looking southeast out my window before going to bed, it was totally black outside. This was quite unusual.(I live in a rural area and always see a few house lights, snow on the mountains, and occasional car headlights in the distance.) In the upper left corner of my window I saw a large luminescent lime green rectangular object with rounded corners. In the 2-3 seconds I saw it, it did not appear to be moving. There was no glow, trail, aura or beams from this object going to the ground or sky. All the luminescence and color were contained in the rectangle. Inside the rectangle there appeared to be other colors of perhaps yellow-green or silver-white that I can only say reminded me of plumbing pipe shapes. There appeared to be movement of the light within these shapes.  All of this happened within a few seconds and as I thought "what in the world is this?", before the whole sentence was formed in my mind, the rectangle light flickered out, as if a switch had been turned off. It was still completely black outside my window. I went outside within five seconds. All looked "normal". No airplanes, satellites, barking dogs - nothing to indicate anything out of the ordinary had just happened.((NUFORC Note:  Source of report indicates that date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62840.html](http://www.nuforc.org/webreports/reports/062/S62840.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Marietta (GA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>tri-colored phosphorous looking oval gliding effortlessly and silently over-head.As my custom, I took my dog out the front door into my lawn for one last break before retiring to bed.  Customarily I use this time to look over-head to check the night sky.  Peering into a beautiful, clear, cool night sky, I spotted a glowing oval shaped craft which appeared to be tri-colored and emitting a phosphorescent glow as it glided silently over-head.  The object appeared to be two inches in length if held at an arm's length distance.  If I had to venture a guess I would say the object was approximately 400-600 feet elevation at an angle of 60 degrees.  The duration did not exceed 2 seconds in length, but will last a lifetime in my memory.  I was stunned at the fluidity of it's flight and it's complete lack of sound.  If I had a camera posed and ready to shoot, it would have been a miracle to capture this swift flying object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127049.html](http://www.nuforc.org/webreports/reports/127/S127049.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
