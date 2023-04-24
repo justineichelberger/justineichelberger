@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:33 on 24 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:32 on 24 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Hammond (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>UFO that appeared out of the corner of my eye, hovering up and down while going vertically southeast.I was out on a star watch when I noticed an object appear out the corner of my eye about..not to high off the ground. To be brief about this as possible, I could not tell if the object had any shape but it had 2 red lights ( one of which faded on and off)1 green light and 1 white light. Now I was about to dismiss this as a plane except for 2 odd factors. I stared at the object through my 12x50 binocs, noticing it was going up and down while traveling. I thought it was just me shaking the binos till I saw it better with my eyes and noticed it was infact going up and down :-). Now I thought this would be weird for any object I've ever seen. The other factor was the NO SOUND that came from it. A brief second after I spotted it, I looked up and saw a jet flying HIGH up, over 30,000 that made a loud noise but this object I was staring at..made NO SOUND. So I thought it was odd, So I just followed it for a while till it almost dissappeared over a concrete wall but then it stopped for a moment, so I continued to stare at it, then it stareted to hover up a bit and travel some more ( What was odd about it..was it stopped when it was almost out of my view twice, as if it didn't want me to not miss it!) It eventually dissappeared over the horizon after making a few zig zag patterns and stopping a few more times.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28636.html](http://www.nuforc.org/webreports/reports/028/S28636.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Mt. Charlston (NV) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2 1/2 hr's - 2 1/2 hr's minutes.</sub><blockquote><sub>Formations seen from Mt. Charleston, Nevada, at very south end of Nellis Air Force Base.We watched these lights, 6 white - 3 red ones create formations over an area 2 miles or more long. One broke away and came clear across the valley (several miles) to were we campefired - and hovered approx. 1-2 minues and  went back to the 'others'. It was incredible bright, white - no distinct shape in this light. Typical non-terrestrial hover. >From our look out point, we had free vision northwards over Nellis AFB - no houses or other residential lights except due west a small village. The lights seemed to switch off and reappear elsewhere, creating new formations. We left at near 03.00. Came back 5 other occasions over the following 3-4 weeks,  had sightings on three more of them. Always more than one ship - always more than one witness. One time we had one in front of us ascending Mt. Charelston. This one was red. It appeared and dissapeared a few times as we made our way up. Then later - an hour maybe, (23:45) - we saw it 'sitting' down below our vista point, on an area no roads are. In the middle of wilderness. This evening we also saw formations over the valley on the south side of Nellis Air Force base. 6 objects. Observation time this event was ongoing til we left at 03:00 and they were still there when we left. This is totally non restricted air space.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05819.html](http://www.nuforc.org/webreports/reports/005/S05819.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
