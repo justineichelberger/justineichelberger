@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 24 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:00 on 24 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Ortonville (MI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The objects where in a straight line turned green with several white dots across the sky moving in a line slow</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155673.html](http://www.nuforc.org/webreports/reports/155/S155673.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Henderson/Las Vegas (NV) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was sitting in my car, after coming home from a dinner, when I looked into the sky and saw two soild, white circular lights moving at the same speed, in the same direction.  The light in front of the other one was more faint, and both lights were consistent with their brightness.  These looked very high in the sky.I tried tracking these lights as far as I could, but eventually they faded into the night sky.   After observing more, I saw two blinking planes flying in the same pattern, in the same direction as the previous two lights! I was shocked!  After these planes were far in the distance, I looked directly up, and saw, YET ANOTHER faint orb travelling what seems to be very high in the sky, possibly above our atmosphere. It was moving in the opposite direction of the two previous sightings.  After this, I saw the last UFO, very similar to the previous one, and on the same path, except it was moving in the opposite direction.I have a video and picture of the first sighting.  I have lived in Las Vegas my entire life (22yo), and I know what planes (both commercial and military, we have bases near here) look like in the sky... the four orbs were NOT planes! I do believe the blinking objects were planes, but I found it quite curious they were in the same formation and flying in the same direction. :)  Maybe our military keeping an eye on things?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108899.html](http://www.nuforc.org/webreports/reports/108/S108899.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
