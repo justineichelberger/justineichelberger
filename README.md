@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:14:53 on 24 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:25 on 24 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Rochester (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Silent craft moving across the skyI was walking outside at night when I looked up in the sky and saw 2 object, one directly in front of the other, going across the sky.  I could not tell the shape of the object, it looked like a star. I know it wasn't a star because you could tell that it was lower than the stars. At first I thought it could be 2 satellites, one in front of the other.  Except I have seen satellites and that isn't what this was. It actually could have been one craft with one light in the front and one in the rear.  I saw it move across the sky, away from me, for about 20 seconds before it just disappeared.  It didn't appear to just shoot off into space.  I just moved across the sky and disappeared. If this was 2 objects, they were moving in formation at the same speed.  This wasn't a know aircraft, it was completely silent. From my point of view the object looked like this:   . .   Could this have been 2 satellites moving across the sky in formation?  Sure.  Only I've seen satellites!  before and satellites always appear smaller, and stay in the sky a lot longer.  Plus I've never seen 2 move across the sky in a formation like this. Let alone seem to appear and disappear so quickly   (Previously reported. I gave the wrong date, i said 2012. This happend 2013)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98609.html](http://www.nuforc.org/webreports/reports/098/S98609.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Debary (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>This would be the third sighting by me, but the first with a witness, a bright white would appear suddenly.  Thicker and brighter than a satellite would appear.  It would then move linear from north to south for a duration of 20-60 seconds.  It would then fade to low luminance before disappearing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108894.html](http://www.nuforc.org/webreports/reports/108/S108894.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
