@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:34 on 24 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:27 on 24 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Selkirk (MB) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Two objects that appeared to be satellites but changing speed and direction.- [ ] Was looking at the Big Dipper April 24/2020 at 4:15 am. Noticed two bright circular objects coming from the north west. At first I thought it might be the satellites from starlink but there were only 2.  They were travelling way too fast for modern aircraft and still too fast for satellites.  Not only did they change speed but were weaving in and out from each other like two people joy riding.  The northern craft was a little behind the southern craft then suddenly sped up again too catch up too southern craft then they both just disappeared.  No other air craft around.  No sound from either of craft.  I estimate their altitude that of the iss.  They did look like satellites but again travelling way too fast for a low earth orbit and also they changed speed and directions .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155717.html](http://www.nuforc.org/webreports/reports/155/S155717.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Sterling Heights (MI) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Two teardrop shape crafts with orange lights hovered over parking area. Stayed high up.large, teardrop shape with orange lights. Two large crafts hovered over a parking lot.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50418.html](http://www.nuforc.org/webreports/reports/050/S50418.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
