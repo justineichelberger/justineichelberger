@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:30 on 24 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:25 on 24 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Marietta (GA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>tri-colored phosphorous looking oval gliding effortlessly and silently over-head.As my custom, I took my dog out the front door into my lawn for one last break before retiring to bed.  Customarily I use this time to look over-head to check the night sky.  Peering into a beautiful, clear, cool night sky, I spotted a glowing oval shaped craft which appeared to be tri-colored and emitting a phosphorescent glow as it glided silently over-head.  The object appeared to be two inches in length if held at an arm's length distance.  If I had to venture a guess I would say the object was approximately 400-600 feet elevation at an angle of 60 degrees.  The duration did not exceed 2 seconds in length, but will last a lifetime in my memory.  I was stunned at the fluidity of it's flight and it's complete lack of sound.  If I had a camera posed and ready to shoot, it would have been a miracle to capture this swift flying object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127049.html](http://www.nuforc.org/webreports/reports/127/S127049.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Tallinn (Estonia) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5333333333333333 - 0.5333333333333333 minutes.</sub><blockquote><sub>Just appeared in the sky,stars in the shape of wings started moving fast forwards.It seemed like wings,with a disguise,that it blended in with the sky and stars.seemed like a pack of stars were moving together as wings in the sky very quickly.((NUFORC Note:  Witness does not indicate date of incident.  We have assigned an artificial date above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50261.html](http://www.nuforc.org/webreports/reports/050/S50261.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
