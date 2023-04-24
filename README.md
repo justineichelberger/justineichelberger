@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:23 on 24 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:33 on 24 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in St. John’s (Canada) (NF) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>2 Triangular craft seen in Newfoundland with 3 lights centred on the bottom, lasting an hour, then leaving.I saw an 2 Ovni, 1 over my workplace overhead, whilst smoking American pipe tobacco.  It was rather startling to say the least.  I later saw another craft in the distance.  The event lasted about an hour in duration.  They had a 3 light configuration in the centre, no noise, slowly moving, and appeared to stop overhead of me, as if it did some sort of sortie, intel op.? Late April, 2018, spring.  It may of triggered an altered state.  I was rather traumatized by the weird occurrence.  A month later I lost my job, and ended up in the asylum on medications, after drinking American beer on Canada Day.  I never did drink it again.  Live and learn ... PS.” The objects appeared in St. John’s, NL. 1 over 57 Bonaventure Ave., at the rear entrance heading south, the other over the horizon in the direction of the international airport, headed west. I haven’t seen craft like this before.  The triangular light configuration was red in colour.”Cheers!  ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147583.html](http://www.nuforc.org/webreports/reports/147/S147583.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Spring Creek (NV) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Large lime-green luminescent rectangle, lights moving within it,   in the southeastern sky at 9:10pm Pacific Time.Looking southeast out my window before going to bed, it was totally black outside. This was quite unusual.(I live in a rural area and always see a few house lights, snow on the mountains, and occasional car headlights in the distance.) In the upper left corner of my window I saw a large luminescent lime green rectangular object with rounded corners. In the 2-3 seconds I saw it, it did not appear to be moving. There was no glow, trail, aura or beams from this object going to the ground or sky. All the luminescence and color were contained in the rectangle. Inside the rectangle there appeared to be other colors of perhaps yellow-green or silver-white that I can only say reminded me of plumbing pipe shapes. There appeared to be movement of the light within these shapes.  All of this happened within a few seconds and as I thought "what in the world is this?", before the whole sentence was formed in my mind, the rectangle light flickered out, as if a switch had been turned off. It was still completely black outside my window. I went outside within five seconds. All looked "normal". No airplanes, satellites, barking dogs - nothing to indicate anything out of the ordinary had just happened.((NUFORC Note:  Source of report indicates that date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62840.html](http://www.nuforc.org/webreports/reports/062/S62840.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
