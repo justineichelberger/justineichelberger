@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:29 on 24 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:23 on 24 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>my brother and i wached 4 cigar shaped figures for about 20 min.it was my birthday and my brother and myself were out side cleaning out an ice chest. as we were going back inside my brother saw a cigar shaped figure in the sky. he tapped me on the shoulder and said what is that i thaugt it was a plain. then all of a sudent it darted away, then came back with 3 more objects with it. they sat ther for about 20 min then shot off in the same direction leaving with a weird light around them.((NUFORC Note:  Student report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51042.html](http://www.nuforc.org/webreports/reports/051/S51042.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately while I am in here - while I am in here minutes.</sub><blockquote><sub>This one is no obect- it moves about and doesn't seem to ever need any sleep though.This one Extra-terrestrial has been an annoyance now for over a week.  I'm sure it's a male though.  It's not very friendly but at least it's better than the other one. It seems to need to try and make that it's a human being!  He doesn't have me convinced.  That room is supposed to be vacant and he's making noises and was it seems constanly dropping those. A few weeks ago I heard some craft fly over making that old harmonica melody I used to play when on board.  They must have left it off to annoy me when in here is where I stay.  Is there any number to UFO police in this website?  I checked the 2nd box from the botton in the list of characteristics because it's closest but should be : there was an aircraft in the vicinity that seemed extraterrestrial but left and that is why I am reasonably sure that they left him someplace above.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50275.html](http://www.nuforc.org/webreports/reports/050/S50275.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
