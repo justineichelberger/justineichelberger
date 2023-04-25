@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:02 on 25 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:14:35 on 25 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Durham (NC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Object viewed over I-40 during daylightA friend and I were travelling on I-40 West during broad daylight.  We both noticed in the distance a small black oval moving erratically over the highway. We had the same reaction 'What is that?'. It seemed to sway back and forth across the interstate.  As we continued travelling, it was briefly blocked by overhead road signs.  When it came back into view, it was slightly larger and still black in color.  Within about 30 seconds, it seemed to make a quick 90 degree turn towards the North and appeared much larger in shape... it was very bright as if was metallic and the sun was reflecting from it.  As soon as it made it's turn, it very rapidly 'swooshed' downwards and flew off towards the North at a very fast pace.  It moved so quickly, we lost sight of it as it flew behind the treeline.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63210.html](http://www.nuforc.org/webreports/reports/063/S63210.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1958, an anonymous witness in Atlantic Ocean (Troopship/ USS ROSE) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>An object that looked like a star until it moved.On the Oceancoming back from GermanyWent up topside to have a cigarette when two G.I.`s in front of me were discussing it. One said he reported it and was told not to say anything. They didn`t know I was standing behind them. I was looking at the star`s and one of them appeared to move , then stop dead. I watched this for a while and became convinced it was tracking the ship. It would stop and after a while it would move again. It moved so fast and stopped so fast, even then I knew there was not any aircraft that could do that. When I tried to discuss it with the 2 G.I.`s they wouldn`t say anything .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05577.html](http://www.nuforc.org/webreports/reports/005/S05577.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162848.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163302.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162846.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163307.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162845.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
