@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:14:35 on 25 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:25 on 25 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1958, an anonymous witness in Atlantic Ocean (Troopship/ USS ROSE) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>An object that looked like a star until it moved.On the Oceancoming back from GermanyWent up topside to have a cigarette when two G.I.`s in front of me were discussing it. One said he reported it and was told not to say anything. They didn`t know I was standing behind them. I was looking at the star`s and one of them appeared to move , then stop dead. I watched this for a while and became convinced it was tracking the ship. It would stop and after a while it would move again. It moved so fast and stopped so fast, even then I knew there was not any aircraft that could do that. When I tried to discuss it with the 2 G.I.`s they wouldn`t say anything .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05577.html](http://www.nuforc.org/webreports/reports/005/S05577.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Mecca (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Unknown Spotlight flashes on CanyonThe event in question took place just outside of a very small farming town called Mecca, Ca. This town is very close to the Salton Sea in Southern California. It was a very dark night, me and my good friend were just driving through a small canyon, this canyon was very short with windy roads, so you can’t drive fast thru this canyon. The sky was clear with very few clouds. We were driving the speed limit which was 40 MPH through this short canyon.  We were just about to reach the end of this small canyon, when all of a sudden I saw out the corner of my eye a very bright spotlight, similar to a spotlight that police helicopters use. It was showing at the top of the canyon, at that moment I told my friend to look, the spotlight seemed to be moving parallel to the car. The spotlight flashed on for about 20-30 seconds, then it would disappear, we turned off the music in the car, rolled down the windows to listen for any sound, we heard nothing, it was really shocking to me, I am a very logical person, who was very skeptical about UFO’s. But on that night I became a believer. My friend and I could not see the source of this very bright spotlight, we could not hear any sound of any kind.  This is what had my friend and I shocked. The spotlight was following parallel to our vehicle for another 3-4 minutes. It would flash on for about 20-30 seconds, it was moving, it must have flashed on and off five or six times, reflecting of the tops of the short canyons. I turned to my friend and said, No one is going to believe what we just saw, he looks at me in amazement, and said, I know. We both still have this encounter very fresh in our minds; we will never forget what we saw that night. I am a believer!((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61119.html](http://www.nuforc.org/webreports/reports/061/S61119.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162848.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163302.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162846.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163307.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162845.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
