@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:51 on 25 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:25 on 25 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Rio de Janeiro (Brazil) () reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>I am on a vessel anchored in Guanabara Bay near Rio de Janeiro.  I observed strange red and white flashing lights high above the corcavado mountain.  The brighter lights were 2 red lights which seemed to move closer with white lights randomly flashing in the same area.  There are lots of flights in and out of Rio and there are also masts in the area of corcavado.  These lights were at a much higher altitude and did not move like a plane would.  One of the red lights appeared to move vertically up in a slow manner. Possible some completely normal explanation, but i did find the event curious.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75188.html](http://www.nuforc.org/webreports/reports/075/S75188.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Cambridge Township (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I was on my back porch and saw a bright white light when I looked west to the top of the trees.  It was 4 to 5 times the size of the larger stars in the sky.  I thought it might be a plane, but then it moved sideways quickly.  It seemed to "buzz" around (like an insect) and moved toward the west, then east again. I went inside to grab my phone to video tape it, and it was still moving around.  My neighbors looked from their vantage point (after I texted them to see if they had a drone or something out, which they didn't), but couldn't see it through the thicker trees.  I went upstairs and could still see it, although it had moved further west.  It was still there and "flitting about" 35 minutes after first sighting it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155752.html](http://www.nuforc.org/webreports/reports/155/S155752.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162848.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163302.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162846.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163307.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162845.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
