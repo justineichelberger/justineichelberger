@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:31 on 25 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:21 on 25 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Wickenburg (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately night - night minutes.</sub><blockquote><sub>2 orange lights in the sky stayed stationary and disappered and reaperedThey were floating in the sky about 2 miles high.  It was bright oarge and they kept appearing an disapearing.  They stayed preaty much stationay</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50324.html](http://www.nuforc.org/webreports/reports/050/S50324.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Chandler/Queen Creek (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>It looked like a cat paw on fire.On the way back from work me and my wife noticed something like the bottom of a shuttle when its taking off. It looks like a cat paw on fire, it was pretty high but it never moved from when we noticed it we pulled up to our place and it remained on the same spot for  a few seconds then it moved upward where you can see the paw disapear.((NUFORC Note:  We spoke at length with this witness, and we found him to be sincere, lucid, and quite convincing.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17404.html](http://www.nuforc.org/webreports/reports/017/S17404.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162848.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163302.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162846.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163307.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162845.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
