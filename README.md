@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:36 on 25 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:25 on 25 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Cedar Falls (IA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Amber light.Amber colored light traveling in NE to SW direction at moderate speed, altitude was lower than normal aircraft and absolutely no sound, no flickering of light, no aircraft in the are or near this object</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108924.html](http://www.nuforc.org/webreports/reports/108/S108924.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Frisco (CO) reported seeing craft that fit the description of some 'Oval' over a period of approximately 150.0 - 150.0 minutes.</sub><blockquote><sub>lights act like a star then  zoom!In 1998 while living in the mountains in Colorado,I used to go out snowmobiling on a reg basis "in evening" I went out to start my sled and being a minor astronomy buff at the time , had been learning star charts. I was admiring ophiuchus and othere southern oriented constalations when I noticed "sw about halfway from zenith" a extreamly bright star? pulsing red and blue. I have seen stars look this way when aurora or sunspots are active" but not this bright!" So as my sled warmed up I ran in and grabed my trusty spining sky chart and could not find where this mag -3.8+  - -6mag star was?  it would have been just lower right of Spica  and above crater.I thought hmmm maby its a variable star not knowing it was too bright to be that at the time.Then I thought I saw it do a quick loop back to its origanal spot,first I though maby I shouldnt be snowmobiling I must be tired "seeing things" But then I saw it do a quick j type turn and bounce back to it's spot before NOW I KNEW I SAW THAT I THOUGHT! I ran in grabed roommate and tried to get him to focus on object lining it up w/ a pole as refference to see if it moved. It did and he reluctanly said" I think I see what your seeing" It moves quick and then stops and pulses right? Yep.I jumped on my sled and moved to a darker location w/ less lightpolution.I set up a stick as reffernce point and layed on sled seat to stay still/steady and watched as this object did loops and figure 8,jturns always very fast and ending in same spot then it would get brighter red and blue pulses. I did have a cheap pair of spotting binoc. with,   all I could see was it was like a squashed circle very bright seeming to have 2 or 3 points of light at edges blending together red and blue some white.My first guess after seeing it at 8x was "damn smart it acts like a star moves fast,must be military test platform way up above NM.But the more I watched it I kept thinking how do they deal with that g-force,this was amazing! I wish my camera was w/ me I didnt even think of grabing it! if I would have locked shutter open it would have shown up perfect.I also cursed myself for not buying a video camera and even more importantly a good telescope as I would have loved to see this thing at 100x power or better. I  now spend many nights looking up and out. I saw a simalar object 3 years later same area @ zenith did 2 zigzags then backed up took off NW "Gone" same size bright blue light some red pulsing.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51748.html](http://www.nuforc.org/webreports/reports/051/S51748.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162848.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163302.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162846.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163307.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162845.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
