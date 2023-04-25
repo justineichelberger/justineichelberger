@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:26 on 25 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:28 on 25 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Coventry (UK/England) () reported seeing craft that fit the description of some 'Formation' over a period of approximately not known - not known minutes.</sub><blockquote><sub>Photographs of a strange formation the appears to be in the sky.I have photogaphs of a strange formation  that appears to be in the sky over the Norfolk area of England at a location named Wells next the Sea.  There are 4 single white lights in a square formation and 3 horizontal light lines that are paralle to each other.  Their a 3 photographs in total. the formation is not in the same posintion for all the photos suggsting that it is not a foult with the camera.  They are taken at different angle but the formation seems to stay in the same position in the sky.  Not sure what it is, but I guess that their is a logocal explanation,  Hope you can help.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13031.html](http://www.nuforc.org/webreports/reports/013/S13031.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Newark (NJ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I witnessed this event that took place, have definitely cited previous ufo activity in the sky seeing two obejcts. I know what I saw.I went to my balcony door window this morning at 5:15a.m. I noticed an object sitting stationery in the sky about 30 degrees NE, the size of star, knowing that this object was not a star. As I got my camcorder position the object was moving from right to left in the sky.  I have no calculated measure of distance between my balcony door window and the position the object was sitting stationery in.  I don’t want to give an incorrect measure. I prepared my camcorder at 5:17 a.m. – 5:30 a.m. and videotaped the event I noticed for about 13 minutes. I spotted bright high beam lights bright enough to be blinding to the human eye, I noticed a blue color trying to detect the shape of this object unknown taking a guess maybe round shaped; I counted about 6 large round high beam lights.  I was alone when I videotaped this activity in the sky this morning and this is not my first time spotting this type of activity. I heard no sound of an engine, it was very quiet.  Counting some auto activity driving down the street at that time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108966.html](http://www.nuforc.org/webreports/reports/108/S108966.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162848.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163302.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162846.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163307.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162845.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
