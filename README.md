@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:30 on 25 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:26 on 25 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lake Stevens (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>translucent white massive creature flying above lake stevenstranslucent white bird or plane-shaped craft, could clearly see a massive curved set of wings and a body, flying well above normal cruising altitude for birds, completely silent, flying from west to east across the lake. Gliding semi-slowly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155746.html](http://www.nuforc.org/webreports/reports/155/S155746.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Coventry (UK/England) () reported seeing craft that fit the description of some 'Formation' over a period of approximately not known - not known minutes.</sub><blockquote><sub>Photographs of a strange formation the appears to be in the sky.I have photogaphs of a strange formation  that appears to be in the sky over the Norfolk area of England at a location named Wells next the Sea.  There are 4 single white lights in a square formation and 3 horizontal light lines that are paralle to each other.  Their a 3 photographs in total. the formation is not in the same posintion for all the photos suggsting that it is not a foult with the camera.  They are taken at different angle but the formation seems to stay in the same position in the sky.  Not sure what it is, but I guess that their is a logocal explanation,  Hope you can help.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13031.html](http://www.nuforc.org/webreports/reports/013/S13031.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162848.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163302.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162846.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163307.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162845.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
