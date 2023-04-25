@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:21 on 25 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:51 on 25 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Chandler/Queen Creek (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>It looked like a cat paw on fire.On the way back from work me and my wife noticed something like the bottom of a shuttle when its taking off. It looks like a cat paw on fire, it was pretty high but it never moved from when we noticed it we pulled up to our place and it remained on the same spot for  a few seconds then it moved upward where you can see the paw disapear.((NUFORC Note:  We spoke at length with this witness, and we found him to be sincere, lucid, and quite convincing.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17404.html](http://www.nuforc.org/webreports/reports/017/S17404.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Theodore (AL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saw orange glowing balls of fire above Theodore.Me and my husband were driving north on US 90 at approximately 10:30pm. I was driving so I saw it first.  As we were approaching Theodore Dawes and US 90 red light I saw a formation of orange glowing lights/balls of fire hovering.  As we got closer they began to disperse and three moved off in another direction and one hovered above our vehicle about 100ft up for about 7-10 seconds as we sat at the light.  I had my head out of the drivers window looking up at it for the full 10 seconds while the light was red.  It was in a circle shape but not perfect, kind of like a ball of gas that was burning but not out of control, it was like a forcefield or entity.  Looked as if you could touch the object but it may not have been completely solid.  It's hard to explain the texture of what I saw.  As the light turned green I had to drive so I started forward but I could still see this orange glowing ball of fire in my side mirror.  It moved in a very controlled manner and sort ! of glided.  It also changed direction and hovered. As I continued north on 90 I saw the object in my rear side mirror until the trees obstructed it so I'm not sure if it just disappeared or flew away.  I have never seen anything in my life I cannot explain except for this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108948.html](http://www.nuforc.org/webreports/reports/108/S108948.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162848.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163302.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162846.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163307.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162845.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
