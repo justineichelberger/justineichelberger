@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:28 on 24 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:31 on 25 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Elm Mott (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Lighted triangular craft seen north of waco tx.While driving south on hwy 35 from Dallas To Waco at 0030 in the morning on wednesday, in the area approx. three miles north of elm mott or about twelve miles north of Waco I saw a single triangular shaped craft cross the hwy approx. 1\4 of a mile in front of my truck. The craft was traveling from the west over the hwy towards the east at about three hundred feet in altitude. It then decended to approx. two hundred feet and made a ninety degree turn to the south.When it made this turn it did so abruptly yet only apeared to roll about three degrees from the horisontal while doing so. The craft had a width that I estimate at 70ft it was traveling at aprox. 150 kts. And was in view for about 1.5 minutes. In addition the whole unerside was lit up with lights. There also apeared to be two dim lights that resemble anti collision lights seen on military aircraft. Even tho I had the window down I could hear no sound above the road noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22772.html](http://www.nuforc.org/webreports/reports/022/S22772.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Moriarty (NM) reported seeing craft that fit the description of some 'Circle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>UFO in front of the moonMy boyfriend and I were driving and noticed something in front of the moon.  We pulled over and seen a flying saucer slowly pass in front of the moon like it was floating.  We could see the shape perfectly from the light of the moon.  It passed through the middle then went up the right side of the light of the moon then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155749.html](http://www.nuforc.org/webreports/reports/155/S155749.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162844.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164434.html)
-- [283](http://www.nuforc.org/webreports/reports/155/S155776.html)
-- [282](http://www.nuforc.org/webreports/reports/155/S155673.html)
-- [281](http://www.nuforc.org/webreports/reports/155/S155690.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
