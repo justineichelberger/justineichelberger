@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:24 on 25 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:26 on 25 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Grandbay (AL) reported seeing craft that fit the description of some 'Formation' over a period of approximately Few minutes - Few minutes minutes.</sub><blockquote><sub>One orange light would show, then one beside it and then a third and they would disappear.((NUFORC Note:  We assume a night sighting, and have changed the time of the sighting to reflect that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108933.html](http://www.nuforc.org/webreports/reports/108/S108933.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1973, an anonymous witness in Grand Chenier (LA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Have always felt certain it was a meteorite, It was a burning ball of fire about 3 to 4 foot in diameter. This object hit the earth. After hearing Peter Davenport on Coast to Coast 5-9-00 I am not so sure it was meteorite.Myself, my brother and two other teens at the time were hanging out in my parents front yard. I was looking accross the flat land east of my parents home when low on the horizon i saw what at first glace was children shooting a Roman Candle. Within less than a second a realized the ball of fire was too large to be a Roman Candle firework. (plus i thought it was strange that the children at my neighbors would be shooting fireworks at this time of the year. The ball of fire was low on the horizon and moving from east to west. It was not moving at a large rate of speed. It looked sort of how a jumbo jet seems to float when it passes close over head. The object continued to move from east to west and flew almost directly overhead. It looked to be aproximately 300 feet over us. It was a ball of fire approximately 3 to 4 feet in diameter. It passed so close we could easily hear the sizzling of the fire. The object was yellowish orange in color. Just prior to passing overhead the object broke into two pieces. The larger continuing along the same trajectory, but the smaller one still traveling horizontally began a sharp decent. The smaller object appeared to have fallen appx. an eighth of a mile west of my parents house. My friends and i scouted the area on bicycles knowing the object would have to be smoking or burning. We found no sign of the object. We were certain it hit the Earth. The next day on the school bus to school we were telling the story, when we noticed a group of kids began to crowd around the back of the bus. I went to see what could be more interesting than my story. Two friends of mine were out in a boat ( the Mermentau River runs just behind my parents house) running fish or crab lines, when the ball of fire fell from the sky hitting so close to thier boat that it actually splashed water on them. The object is still on the bottom of the Mermentau River, All witnesses are still alive. And with the right metal detectors could most likely still be recovered.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12846.html](http://www.nuforc.org/webreports/reports/012/S12846.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162848.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163302.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162846.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163307.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162845.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
