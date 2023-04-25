@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:37 on 25 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:21 on 25 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.008333333333333333 - 0.008333333333333333 minutes.</sub><blockquote><sub>Downtown Houston, Texas, 3 people witnessed a quick oval flash through the sky at a fast speed.st saw my first ufo.  It was so fast.  There is heavy cloud coverage and contrails are heavy here in Houston.  I am downtown.  I am.. just Shocked.  It was just like a quarter second of lights through the clouds.  2 guys in front of me saw it too.  Compass pointing south.  About 45 degrees from horizon line.  Saw it around 945pm central. Located at east down warehouse in downtown Houston  d. I honestly thought it was a plane at first.  We have lots of air traffic here, but it was too big and the lights were different.  It could have just been the right time right place for a cloud to open up to the meteor that skid across only a small patch of clouds  It was fast.  It felt close, like in a low cloud.  It was so fast.  The lights seemed out of this world.  They are a blur in my memory now, but they were amazing from what I remember</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118643.html](http://www.nuforc.org/webreports/reports/118/S118643.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Tylertown (MS) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>bright lights, like spot lights, motor sounded like chainsaw((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88822.html](http://www.nuforc.org/webreports/reports/088/S88822.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162848.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163302.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162846.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163307.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162845.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
