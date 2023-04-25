@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:25 on 25 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:31 on 25 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Mecca (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Unknown Spotlight flashes on CanyonThe event in question took place just outside of a very small farming town called Mecca, Ca. This town is very close to the Salton Sea in Southern California. It was a very dark night, me and my good friend were just driving through a small canyon, this canyon was very short with windy roads, so you can’t drive fast thru this canyon. The sky was clear with very few clouds. We were driving the speed limit which was 40 MPH through this short canyon.  We were just about to reach the end of this small canyon, when all of a sudden I saw out the corner of my eye a very bright spotlight, similar to a spotlight that police helicopters use. It was showing at the top of the canyon, at that moment I told my friend to look, the spotlight seemed to be moving parallel to the car. The spotlight flashed on for about 20-30 seconds, then it would disappear, we turned off the music in the car, rolled down the windows to listen for any sound, we heard nothing, it was really shocking to me, I am a very logical person, who was very skeptical about UFO’s. But on that night I became a believer. My friend and I could not see the source of this very bright spotlight, we could not hear any sound of any kind.  This is what had my friend and I shocked. The spotlight was following parallel to our vehicle for another 3-4 minutes. It would flash on for about 20-30 seconds, it was moving, it must have flashed on and off five or six times, reflecting of the tops of the short canyons. I turned to my friend and said, No one is going to believe what we just saw, he looks at me in amazement, and said, I know. We both still have this encounter very fresh in our minds; we will never forget what we saw that night. I am a believer!((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61119.html](http://www.nuforc.org/webreports/reports/061/S61119.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Wickenburg (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately night - night minutes.</sub><blockquote><sub>2 orange lights in the sky stayed stationary and disappered and reaperedThey were floating in the sky about 2 miles high.  It was bright oarge and they kept appearing an disapearing.  They stayed preaty much stationay</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50324.html](http://www.nuforc.org/webreports/reports/050/S50324.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162848.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163302.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162846.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163307.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162845.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
