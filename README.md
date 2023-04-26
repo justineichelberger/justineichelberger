@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:54 on 26 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:14:21 on 26 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Toledo (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Seven Fireball-like objects spotted in Toledo, OhioOn the evening of April 26, 2013, Myself along with three other adults and five children were enjoying an evening on the neighbor's porch.  At approximately 10:15 p.m. one of the children yelled, "UFO!"  We all looked into the sky (Southeast) and saw what appeared to be a fireball making a straight line from the horizon.  Directly behind it, another appeared and then another, until there were six.  Eventually, a seventh emerged, following the same path.  They moved slowly, about the pace you would expect a very high jet to move across the sky.  They followed a straight path moving in a Northward direction and then one by one rose up into the sky and disappeared.  None of us could come up with any explanation of what these could be.  Initially, I thought they were Chinese lanterns but they were far too precise in their path and coordination.  Oddly, no sound was observed as these objects crossed the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97456.html](http://www.nuforc.org/webreports/reports/097/S97456.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Changed different colors and stayed stationary like a planet or blinking star. Till it descended to earth.Saw blinking light for a few minutes that never moved. Turned bright red, with no blink for a few minutes. Then started to blink again. Turned greenish blue color with no blink. Turned bright red after a few minutes. Then started to get blink again. That's when we saw it descend down at a very fast pace with two bright red lights. Till u can see it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155765.html](http://www.nuforc.org/webreports/reports/155/S155765.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
