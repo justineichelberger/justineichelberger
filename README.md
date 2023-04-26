@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:25 on 26 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:27 on 26 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pella (IA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>Ultra-sonic diskMetallic Disk hovering 300 feet about the ground near east side of Pella.  The sun was reflecting off the object making it easy to see its shape and size.  It had to be at least 30 feet wide and 8 feet in height.  For nearly 11 seconds it hovered and just after that it instantly launched Northwestern across the town of Pella.  With a slight incline of perhaps 5 - 10 degrees in a perfect straight line for 1 mile before blasting at a complete verticle line through the clouds.  Estimating that the clouds were perhaps 10,000+ feet in altitude.  This craft was easily travely 3+ miles per second without any sonic boom.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88681.html](http://www.nuforc.org/webreports/reports/088/S88681.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Cleveland (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Something astounding in the skies of southeast Texas....I looked to the northwestern sky at the time/date/location indicated. I observed a single, very piercingly white light (about the size of the end of a Q-tip cotton swab) sitting motionless well above the horizon. As I focused on this "object", it quite suddenly became dark & displayed an illuminated, skeletal type structure glowing a soft orange color. A few seconds later, it vanished.... It didn't fly away, IT VANISHED. No sound of any kind was heard coming from what ever this was. I am 62 & a professionally trained observer. I have been an amateur astronomer most of my life. What I witnessed will disturb me for as long as I live.... Fear of the unknown.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162869.html](http://www.nuforc.org/webreports/reports/162/S162869.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
