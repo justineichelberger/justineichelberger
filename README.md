@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:27 on 26 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:22 on 26 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Huntington,beach (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Seen them four times in my life but white light comes down turns off on off on ends up in a different spot as fast you can move your arm in the sky it would fly was quick but past experiences there are always two one goes invisible or they both go invisible blink wow they are amazing every couple years they pop out I can see them then 15 sec gone   Don't wanna type more.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97649.html](http://www.nuforc.org/webreports/reports/097/S97649.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Santarem (Portugal) () reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>goodday! =)  my boyfriend and i were giving a walk and we were trying out the zoom of his new video camera on a plane and right next to the place we saw what looks like a UFO next to the plane!!  he putted his video on youtube:http://www.youtube.com/watch?v=6OynNN4p1WE&feature=channel_video_title  this is the link of his video =)   i hope you guys check it out and see by your eyes, because i really belive that was a UFO.rest of goodday, and dont forget to check the sky, we never know what we might find =)((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82523.html](http://www.nuforc.org/webreports/reports/082/S82523.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
