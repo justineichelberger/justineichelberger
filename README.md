@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:36 on 26 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:33 on 26 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Ramadi (Iraq) () reported seeing craft that fit the description of some 'Chevron' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO hypnosisWhile on post awaiting relief, I witnessed a boomarang shaped formation fly from the north to southeast. This was a very peculiar sighting because Coalition fighters were in the area, flying sorties, and seemed to scatter away as the object approached Ramadi. It flew low (10,000-15,000ft), made no sound at all, and sped up and slowed down frequently. At first I decided it was a fighter formation. So I waited for the sound. It never came.My relief, walking up, saw me looking up and asked what I was looking at, he looked up and said "oh... One of ours?", I said,"I dunno? It isn't making any noise". Then I lost sight of it over a building.I briefed my relief of what took place on my shift, what to expect that night, and special orders from our CO. I started walking back to my rack when I noticed the object had stopped shortly after it left our sight. I hovered in the distance. As I watched, I noticed one of the 3 lights on the right move in and out of the formation repeatedly. I stood there scratching my head.I got angry for not being able to figure out what it was and said, "what the F%$k is that?" My relief, now on guard, walked over, looked up and said, "huh, thats so friggin wierd". As he said that it started moving east fast. Then it slowed almost to a stop, and shot off.I realized that both me and my buddy were staring at a black sky with our mouths open. I shook myself out of whatever trance I was in, looked at my buddy, who was still staring, and tapped his shoulder. He jumped a little and looked back at me. We said nothing except a mutual,"huh", and parted.I can't explain what it was. I have been out here on 2 occassions, and never witnessed anything remotely like it. After it disappeared, I just walked away without a word or second thought till later. My buddy vaugely remembers what happened. I find that very disturbing…((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36623.html](http://www.nuforc.org/webreports/reports/036/S36623.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lacey (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red  over olympia wa.IT was 2327 pacific local time.  I was in my hot tub facing west and saw a red light through the trees low on the horizon to the west.  First thought was its a helicopter from joint base lewis mcord in tacoma wa. It was moving from the west toward me in a direction of north east. It came from behind the trees into the open sky.  I then realized it ascending in altitude.  I then realized that if it was an aircraft with the direction of flight i would be looking at a green light the right side of the aircraft.  The light was a bright red and much bigger than a red navigation light on an aircraft. It was a steady red light and did not change brightness.  It climbed from the west on a north to north west heading at an angle of 45 to 50 degrees. Its speed was slow.  It went into the clouds, I estimate the bases of the scattered layer of clouds around 3000 feet.  It was a full moon and its position was the southeast sky about 20 degrees above the horizon.  I am a commercial pilot with 27000 hrs and  over 40 of experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97400.html](http://www.nuforc.org/webreports/reports/097/S97400.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
