@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:33 on 26 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:31 on 26 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lacey (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red  over olympia wa.IT was 2327 pacific local time.  I was in my hot tub facing west and saw a red light through the trees low on the horizon to the west.  First thought was its a helicopter from joint base lewis mcord in tacoma wa. It was moving from the west toward me in a direction of north east. It came from behind the trees into the open sky.  I then realized it ascending in altitude.  I then realized that if it was an aircraft with the direction of flight i would be looking at a green light the right side of the aircraft.  The light was a bright red and much bigger than a red navigation light on an aircraft. It was a steady red light and did not change brightness.  It climbed from the west on a north to north west heading at an angle of 45 to 50 degrees. Its speed was slow.  It went into the clouds, I estimate the bases of the scattered layer of clouds around 3000 feet.  It was a full moon and its position was the southeast sky about 20 degrees above the horizon.  I am a commercial pilot with 27000 hrs and  over 40 of experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97400.html](http://www.nuforc.org/webreports/reports/097/S97400.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Orland (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>White, star-like light holds position in sky before moving slowly and then disappearing altogether.It was Thursday night, around 9:30 p.m., and my fiancé and I went out to look at the night sky while I smoked a cigarette before going to bed.  I looked up to see if I could identify some constellations I have become familiar with, and I thought I spotted the three white stars of Orion’s Belt just slightly west of directly above me.  I debated whether it was Orion’s Belt or not, because I was pretty sure I had been seeing the Belt in another location in the sky on previous nights.  While I wondered about it, my eyes drifted to another spot in the sky.  Suddenly, out of the corner of my eye, I could see that the middle of the three stars now appeared to be moving.  I asked my fiancé if he was seeing what I was seeing, and he said he was.  While we watched, the unblinking white light continued traveling west very slowly.  I don’t believe it was an airplane because of the slow rate of speed which commenced from a stop and there were no standard flashing lights.  I don’t believe it was a meteor, as I have never seen one move so slowly and only be visible in such a small area of the sky.  As soon as both of our attention was focused back on the light, it traveled just a second or two longer, grew just a little brighter and then just disappeared.  It ceased to be seen in the sky any longer.  I don’t know what it was, but after debating over whether or not to report what we had seen, I finally decided to do so.  I am Personal Assistant and Marketing Lead for my fiancé’s martial arts schools.  He is, of course, owner/operator of the schools as well as a Department Manager for a North State Grocery company.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56627.html](http://www.nuforc.org/webreports/reports/056/S56627.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
