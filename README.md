@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:26 on 26 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:30 on 26 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Tempe (AZ) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Egg-shaped, and also white, but it wasn't solid white, it looked like a ball of bright, white illuminated cloud light.I saw this white, egg shaped craft just cruise over Tempe Town Lake.  I was in one of the high buildings and saw it go passed, while I was looking out of the window.  It staying at a consistent speed and did not move up or down, just kept heading straight.  It was egg shaped and also white like an egg, but it wasn't solid white, it looked like a ball of bright, white illuminated cloud light.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145910.html](http://www.nuforc.org/webreports/reports/145/S145910.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>This was he third UFO I have seen over Boise in the past eight months.  Last night I saw the classic triangle UFO traveling north over Chinden and Cloverdale area.  It was approximately eight whitish lights in a triangle formation appearing at first to be a single triangle shaped craft but then the lights shifted making it look more like the lights were independent traveling in a triangular formation, I'm not sure which.  It went over my head dead silent at an altitude of about 500 feet I would estimate.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97408.html](http://www.nuforc.org/webreports/reports/097/S97408.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
