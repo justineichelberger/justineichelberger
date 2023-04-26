@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:27 on 26 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:27 on 26 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Westmont (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Line of star-like lights all moving slowly across the night sky until they abruptly disappeared.I was walking my dog in a park at night with a clear sky. I saw a faint vertical streak on the horizon and thought it might have been the remnants of a comet streak. As I continued to look, it got brighter, closer, and began to rotate to orient horizontally in relation to the horizon. Once it was directly above me, I noticed it was a line of star-like lights, each about as bright as an average star. Some were spaced in twos or threes. I thought it could have been a comet streak but once it was horizontal across the sky I saw individual lights following a straight line pattern. The lights moved too fast to be satellites or planes but too slow to be meteors or comets. It seemed to be higher than the normal flight altitude of planes. There was a point in the sky that once the lights hit it, they fizzled out and disappeared. One by one they hit this point and until they were all gone. I also noticed that once the last light disappeared, the frogs around me start! ed singing again and I had been watching the event in dead silence. My sister was at a bonfire about two miles away and got a video of the line of lights. I truly have never seen something like this in my life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155786.html](http://www.nuforc.org/webreports/reports/155/S155786.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Huntington,beach (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Seen them four times in my life but white light comes down turns off on off on ends up in a different spot as fast you can move your arm in the sky it would fly was quick but past experiences there are always two one goes invisible or they both go invisible blink wow they are amazing every couple years they pop out I can see them then 15 sec gone   Don't wanna type more.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97649.html](http://www.nuforc.org/webreports/reports/097/S97649.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
