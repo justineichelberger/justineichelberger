@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:29 on 26 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:27 on 26 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Breese (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Vertical linear formation of lights that resembled stars, but disintegrated one by one, moving south east, over about 3 min.To the left of bright shining Venus, which is to the left of the moon, was a vertical linear formation of lights, with a star like appearance, that moved south east, continuing in a linear formation, as one by one they disintegrated, over approximately 3 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155788.html](http://www.nuforc.org/webreports/reports/155/S155788.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Cleveland (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Something astounding in the skies of southeast Texas....I looked to the northwestern sky at the time/date/location indicated. I observed a single, very piercingly white light (about the size of the end of a Q-tip cotton swab) sitting motionless well above the horizon. As I focused on this "object", it quite suddenly became dark & displayed an illuminated, skeletal type structure glowing a soft orange color. A few seconds later, it vanished.... It didn't fly away, IT VANISHED. No sound of any kind was heard coming from what ever this was. I am 62 & a professionally trained observer. I have been an amateur astronomer most of my life. What I witnessed will disturb me for as long as I live.... Fear of the unknown.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162869.html](http://www.nuforc.org/webreports/reports/162/S162869.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/162/S162863.html)
-- [325](http://www.nuforc.org/webreports/reports/162/S162877.html)
-- [324](http://www.nuforc.org/webreports/reports/162/S162869.html)
-- [323](http://www.nuforc.org/webreports/reports/163/S163567.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162916.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
