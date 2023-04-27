@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:37 on 27 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:24 on 27 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Schaumburg (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright red pulsating object in sky.i walked outside to walk the dog and looked up in the sky and saw a large bright red pulsating object in the sky. per my iphone compass the object was located at 251 degrees west traveling southwest. i ran in called my kids to see the object and grab a camera and the object started to immediately get smaller and less bright, until it disap eared completely. it was not a metorite since it was not breaking up on its path. was not a plane, no flashing lights, not a planet in the sky since it was moving with no sound.  didnt get image on my flip video  it disappeared before i got it to record footage, i called schaumburg illinois police department to report object and they hadnt got any other reports at the time i had called it in. at around 10:35pm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88702.html](http://www.nuforc.org/webreports/reports/088/S88702.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Winnipeg (Canada) (MB) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was driving on Waverly in Winnipeg, MB Canada at 7:25 am and I saw a white cylinder object with no lights, no propulsion system.I was driving down waverly in winnipeg manitoba when i saw a cylinder shaped white craft flying in the air above my car of course a few hundred feet in front and also pretty high in the sky.  It did not leave any trails, nor were there any signs of propellers.  It made no noise and strangely did not cast a shadow as planes do.  It disappeared in the blink of an eye but i was able to observe it for a few minutes.  It did not appear to have any lights and as it was not dark you can see plane lights even in the daylight that is why i thought that was terribly wierd.  It almost appeared to hang in the air.  Not blimp like moving.  It was sortof just hanging for a few minutes and then shot off.  I was on my way to work at Stantec Engineering.  It was flying lower than a plane would fly.  Like as low as they fly when they are near the airport.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13009.html](http://www.nuforc.org/webreports/reports/013/S13009.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162885.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162858.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162872.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162875.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
