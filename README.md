@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:36 on 27 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:24 on 27 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Mississauga (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>A birght blue light stationary in the skyThere was a ball of Extreamly blue light in the sky that stood stationary for a moment, after a second if flew extreamly fast into thw west, well we did have an aunt who went missing 2 years ago and was never found</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56429.html](http://www.nuforc.org/webreports/reports/056/S56429.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Eatonville (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Huge flash of light beamed out of sky into my woods.  Noticed it from inside my cabin.  Ran outside and the light did not appear to have a source above it.  Similar to lights shown from helicopters.  l, however, absolutely no sounds in the sky.  Absolutely silent.  This light was extremely bright.  Then, shut off and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155874.html](http://www.nuforc.org/webreports/reports/155/S155874.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162885.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162858.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162872.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162875.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
