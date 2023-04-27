@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 27 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:04 on 27 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Chatsworth (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>6 Red/Orange lights in formation seen in NW San Fernando Valley, Ca.On April 27th at approximately 8:50 pm 6 red/orange lights appeared in the North West sky above the San Fernando Valley.  Initially they looked like planes flying in formation; however, they began to dissipate in twos holding onto a formation with the first two in the west end of the formation moving southwest and then vanished from sight, one on the east end moved east and faded, the final three moved forward…south, and two dissipated together while the last one slowly moved west and initially vanished from view.   2 photos sent to email addy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109014.html](http://www.nuforc.org/webreports/reports/109/S109014.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Monroe (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Upright triangular type craft with something flying into it, over river and fields in Monroe.I was outside having a smoke at about 3:15 or 3:30 am.  Something red and low flying appeared over the river I live on.  At first it looked like maybe a glowing orb.  It started out as a dark red and then it became a brighter red.  It went up over the river and proceeded to fly over M-50 and then over the fields.  The shape seemed to change from what looked like an orb to more of a triangle, but it was upright. So not flying on the wind, but against the wind.  It was still flying low, and it changed from red to more of a bright gold.  Then, something white shot out of the sky at the triangle. It looked like it entered the upright triangle craft.  The triangle was sizeable, not sure how big, but it looked bigger than a helicopter.  As it ascended into the sky, it was followed by a loud, low rumbling sound.  I put down that there were two crafts because of the one main upright triangle, and the white thing that shot into it.  The white thing looked like a tail as it flew! in.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88854.html](http://www.nuforc.org/webreports/reports/088/S88854.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162885.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162858.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162872.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162875.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
