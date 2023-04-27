@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:37 on 27 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:25 on 27 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Loveland (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>An orb of orange/yellow light that pulsated or dimmed then brightened period of about a secondDriving to work at about 4:30am on 4/27/99 I noticed a strange light quite a distance ahead of me.  At first I thought it was commercial aircraft, but I soon realized that it was not because it was a single orb of orange/yellow light that pulsated and remained stationary.  I knew it wasn't a copter because copters have more than one light and they don't pulsate. I continued looking at this thing and soon approached it, but it still did not move and continued to pulsate.  This event probably occurred in about 5 minutes time since I was traveling at about 40 mph. I continued to look back after I passed it, and it continued its strange behavior.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07084.html](http://www.nuforc.org/webreports/reports/007/S07084.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Loveland (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 13.0 - 13.0 minutes.</sub><blockquote><sub>eight bright red-orange lights in formation at night traveled from northwest to southeast over my house and disappeared instantlyAt approximately 8:45 pm on Sunday, April 27, 2008, I went outside  through my open garage door. I had just returned from my job - I work in retail - I looked up at the sky because it was very clear and dark and I thought I would see some stars.  Straight ahead of me- due east, were two bright red-orange lights just hanging suspended in the sky above and in front of me.  I thought they might be a reflection on my eyeglasses, so I removed them.  I was totally shocked and surprised by what I was seeing.  I put my glasses back on - the lights remained the same.  I could not make out a distinct shape because it was dark and the light was so bright. They started to move very slowly and silently toward the southwest.  Two more sets of lights, identical in every way, joined the first set.  They took a position directly under the first set of lights.  Then a third set of lights did the exact same thing.  There were six sets of identical lights arranged in pairs- each under the other.  They all moved slowly and silently - there was no noise whatsoever - toward the southeast. I went in the house to get a family member to see what I was seeing - we were both mesmerized by the lights and their intensity and their slow, silent movement through the sky.  I looked over to the North and saw one more light (I was up on a hill) which I thought, at first, was just something that was being launched, like a flare.  It was a single light that moved (glided) very quickly right next to the last set of lights. I kept trying to identify by some logic what the lights might be: hot air balloons, flares, etc, but nothing fit what I was seeing. The lights continued to glide away toward the southeast and just immediately disappeared - they did not fade away - they just disappeared as if their lights went out.  The total duration was about 13 minutes. The second witness is an older person- quite skeptical, and could not believe what was being seen either.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62712.html](http://www.nuforc.org/webreports/reports/062/S62712.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162885.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162858.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162872.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162875.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
