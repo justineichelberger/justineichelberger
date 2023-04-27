@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:30 on 27 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:30 on 27 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Shelbyville (Flat Creek area) (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>light moved across sky flashed twice and bathed landscape in sustained bright white light. No sound/windI was taking the puppy outside for his evening walk before-bedtime at 10:35 PM and I was looking into the starry night sky while he sniffed around.  The clouds had not as yet moved in for the evening ahead of the storm front and the sky was clear and very still.  In the area of the sky above my head and slightly West by South-West I saw what I first thought was a falling star, but it was moving slower than a falling star and not in an arc,and had no tail like a comet, but rather moved  at a 50 degree angle across the sky--more like a satellite or swift moving plane, but with one bright light source.  It then flashed brightly once, continued move on its 50 degree angle, flashed brightly a second time and continued to move on the same angle.  Then it burst into the brightest white light that I have ever seen and bathed me and the surrounding landscape in a bright white apot-light (I cannot convey to you how bright this was!  Like a Halogen spot or an MR16 or a Mercury vapor spotlight)  I was looking upwards and I felt like my face and arms were stark against my shadow on the ground-brighter in contrast than anything I have ever experienced, and the surrounding landscape was lime-greener with the illumination than can be immagined.  Time seemed suspended for a moment and then the light was extinguished and the afterimage of the light faded like a halogen spot fades after it is turned off and the glow of it remains for a moment.  Then all was dark again. The puppy was coward down and the horses on the hillside began to stampede around the pasture in confusion.  I stood there waiting and trying to listen and evaluate the experience:  I had heard absolutely no sound---no airplane or helecopter, no missle whine, no explosion, no sound of any implosion with the ground.  The night had remained calm and still throughout the event.  I have only a vague sense of the scope of the illuminated area since I was staring up at it.  I can only say that the surrounding hills of the hollow were black and my ! immediat e area was illuminated:  perhaps 1 to 3 acres.  I am curious to find out if anyone else saw this event and has an explanation.  Was it a meteor, but I have never heard of them flashing several times and then bathing-light so this seems unlikely to me?!   After about 8-10 more minutes, 2 airplanes flew from the north-eastern horizon across toward the area where the event had taken place and I could distinctly hear those planes which confirmed to me that indeed the even had been totally silent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69854.html](http://www.nuforc.org/webreports/reports/069/S69854.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>A circular disc shaped object came from southwest to north, hesitated, shifted to Northwest.  It left no vapor trail and made no noise.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97599.html](http://www.nuforc.org/webreports/reports/097/S97599.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162885.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162858.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162872.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162875.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
