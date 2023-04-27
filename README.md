@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:34 on 27 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:36 on 27 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Palm Beach (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large bright object w/multicolored lights hovered for minutes then descended downwards at fast rate of speedWhile on duty as a security guard early this morning, my 75 year old dad witnessed a strange object in the western sky above Palm Beach. At first he blew it off as a descending plane into PBI airport, but soon noticed it hovering and making erratic movements. He claims it was very bright, with multicolored lights, blue red and amber which were rotating around this craft. He claims he didn't remember any sounds from it and was scared at some point too. He saw this large object descend downwards toward the ground (or ocean) at a fast rate of speed then disappeared. He stopped a policeman later on and asked if there were any reports of any airline crashes. (He was sure it disappeared traveling downwards) The cop said there weren't any reports and suggested it might've been a helicopter doing experiments. Although my dad wants to believe it might've been a helicopter, he knows it was much too big for one, plus it descended too fast too. (not to mention the colorful moving lights, no sound, time of day and location over a populated city)  What was interesting was my dad became scared at some point. He said it was because he was unsure of this crafts abilities. (my dad doesn't scare easily at all). So who knows.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43674.html](http://www.nuforc.org/webreports/reports/043/S43674.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Mississauga (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>A birght blue light stationary in the skyThere was a ball of Extreamly blue light in the sky that stood stationary for a moment, after a second if flew extreamly fast into thw west, well we did have an aunt who went missing 2 years ago and was never found</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56429.html](http://www.nuforc.org/webreports/reports/056/S56429.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162885.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162858.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162872.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162875.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
