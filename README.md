@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:30 on 27 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:37 on 27 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Pensacola (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright sphere with contrasting shadows traveling slowly from north to south from 8-11o'clock positions diagonallyThis photo was taken at approximately 19:30 local time while sitting outside with my family here in Pensacola Fl. I often scan the skies for anything interesting, and I noticed what appeared to be a distant and slow moving object at about the 10 o'clock position traveling from north to south. I went inside to get my Kodak P712 digital camera, which has a 10x optical zoom lens, hoping to get a better look. Upon, returning I did not see the object, and thought it might have passed behind a cloud.  I sat back down to enjoy the sunset, and after a few minutes a bright pinpoint of light caught my eye off to my left as it continued moving slowly south through a clear patch of sky at about the 11 o'clock position. I could see the bright spot very clearly, and was able to point it out to my 5 year old son. My wife, who was also present, did not see it; she had been facing the opposite direction.  I momentarily lost sight of it while readying my camera, but decided to snap some photos of the area anyway. I was very pleased when one of them captured the object. My only regret was that the camera was set to 3.1-mega pixels instead of its maximum of 7.2-mega pixels. The object was definitely three dimensional, and traveling at a slight upwards angle as it moved from north to south. A friend of mine once said that he did not believe in UFO’s, and if they were real, how come he had never seen one? My only question to him was “How often do you look up”?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56427.html](http://www.nuforc.org/webreports/reports/056/S56427.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Schaumburg (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright red pulsating object in sky.i walked outside to walk the dog and looked up in the sky and saw a large bright red pulsating object in the sky. per my iphone compass the object was located at 251 degrees west traveling southwest. i ran in called my kids to see the object and grab a camera and the object started to immediately get smaller and less bright, until it disap eared completely. it was not a metorite since it was not breaking up on its path. was not a plane, no flashing lights, not a planet in the sky since it was moving with no sound.  didnt get image on my flip video  it disappeared before i got it to record footage, i called schaumburg illinois police department to report object and they hadnt got any other reports at the time i had called it in. at around 10:35pm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88702.html](http://www.nuforc.org/webreports/reports/088/S88702.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162885.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162858.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162872.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162875.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
