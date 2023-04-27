@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:32 on 27 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:40 on 27 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Columia (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately hours - hours minutes.</sub><blockquote><sub>3 star like objects moving erraticly for several hrs.3 star like objects moving erraticly in sky for several hrs.((NUFORC Note:  Possible stars??  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109000.html](http://www.nuforc.org/webreports/reports/109/S109000.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Kenmore (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>UFO (25 to 30) Bright Orange lights Seen Above Lake Washington, near Seattle.On my way to a friend's house, I saw these strange lights on the horizon.  My friend was outside taking something out of his car trunk and I told him to look up at them.He said, "Oh wow, look at that!"  We kept watching as more of the strange yellow lights appeared from the west and then proceeded south.  There were about 25 to 30 total and the entire event lasted around 30 minutes at which time there was almost no air traffic.One last one showed up above us and then slowly disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109136.html](http://www.nuforc.org/webreports/reports/109/S109136.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162885.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162858.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162872.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162875.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
