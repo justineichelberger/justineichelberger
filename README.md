@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:30 on 27 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:28 on 27 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>A circular disc shaped object came from southwest to north, hesitated, shifted to Northwest.  It left no vapor trail and made no noise.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97599.html](http://www.nuforc.org/webreports/reports/097/S97599.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Palmer (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Three faintly illuminated lines slowly fly formed in a triangle over Illinois.My wife and I were outside in our backyard preparing to extinguish a small fire we had been sitting by.  Upon standing up, we were getting into a theological conversation regarding Native Americans when she pointed behind me and asked, "What is that?"  Upon turning around I had roughly thirty seconds to view and compile what I could possibly be seeing.  It was in the formation of a triangle, moving very slowly across the night sky, too slow to be a jet, and it appeared to be soaring at roughly 1000 feet above the ground.  The formation consisted of three straight faintly illuminated lines, almost appearing like straight fluorescent shop bulbs. I attempted to rationalize the sight into some sort of concrete explanation before it disappeared as slowly traveled too far to be seen (the lights appeared to be about half as bright as the stars seen around it, but it was quite obvious that it was close to the ground).  I first thought it may be three geese gliding in formation, with nearby light reflecting off of their bellies, but this was quickly disproved, as the lights were perfectly straight and geometrically in tact as it appeared to turn slightly before leaving our vision.  My next thought was a stealth aircraft (as there are military bases within distance on either side of us), but after viewing pictures of said aircraft, the straight lines of light prevent this from being the case. It should be noted that my wife was actually afraid of pointing it out to me, as I am notoriously skeptical... But this site was something I honestly cannot explain, and I feel it should be documented.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62851.html](http://www.nuforc.org/webreports/reports/062/S62851.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162885.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162858.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162872.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162875.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
