@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:28 on 27 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:23 on 27 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in South Charleston (WV) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strand of lights perfectly spaced moving in unison across the sky. I counted over 20 crafts.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155914.html](http://www.nuforc.org/webreports/reports/155/S155914.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Tuxedo (on US Hwy 25, between Tuxedo and I-26 exit) (NC) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Metal ball with flashing lights hovering next to US 25 in Henderson county, NCI am a retail store manager for a well-known corporation and was returning home to Asheville, NC from a business trip in the Greenville, SC area. It was near 9:30pm on Monday, April 27th of '09. I was alone and traveling along US 25 heading toward I-26 and had crossed the state line not long before this sighting. I noticed the craft ahead of me; it caught my attention because of the unusual lights, how low it was and how close it was to the road.As I got closer to it, I became sure that this wasn't any type of standard aircraft I'd ever seen before. It was round/ball-shaped with two red lights on either side, center, and a row of at least 3 rectangular light panels on the bottom half which were strobing slowly in vertical sequence, from the top one down. It was about the size of the cab section of an 18-wheel truck. I estimate it was approximately 50 feet in the air, on the right side and just slightly over the road. It did not move at all, and as far as I could tell, it remained stationary the entire time I had visual contact with it. I had the radio playing and did not have the presence of mind to turn it off or down, so I am unaware if the craft made any type of noise. I did briefly consider stopping to try and take a picture, but the only thing I had with me was an older cell phone which previous experience taught me did not take decent pictures at night at all.I slowed my vehicle quite a bit as I approached in order to get a better look at it, being both fascinated but understandably a little shaken, too. In my rearview mirror, I previously had noted that another car was coming up behind me. I was driving quite slowly, so with that in mind, I sped up slightly to prevent annoying the other driver and finally drove past the craft, which still never moved from its position.Once past it, I looked in my mirror again and was dismayed to see that the car I'd seen behind me was no longer there--I'm not sure if the other driver had seen what I was seeing and pulled off or had exited the road somewhere--but I became immediately aware that I was now totally alone on the road, with no cars whatsoever in sight in either direction. This finished unnerving me and while I no longer saw the craft, I suddenly felt the need to at least be within sight of other cars/people, so I accelerated to appx 70-75 mph and stayed at that speed until I finally caught up to more cars about five minutes later.This was my first encounter of this nature. I came to this website to see if there were any other sightings in that area on that night and chose to report what I'd seen since I found nothing else. I sincerely hope it will be of use.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69871.html](http://www.nuforc.org/webreports/reports/069/S69871.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162885.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162858.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162872.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162875.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
