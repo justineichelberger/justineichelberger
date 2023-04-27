@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:29 on 27 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:25 on 27 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Kenmore (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 9:00 - 9:00 minutes.</sub><blockquote><sub>Twenty (apprx) UFOs  Observed Above Lake Washington, North East of Seattle, Washington.On Apr 28 ((sic.  April 27)), 2014, we observed about 20 UFOs near Lake Washington, Seattle, Washington.Beginning just after 9 pm PDT, we witnessed around  6 bright lights about 30 degrees above the horizon to the south west above the lake.  I live in Kenmore which is at the NE corner of the lake.  The first six were in very loose formation, three above and three below each other.  They started out to be a red orange - orange color and proceeded to move to the east - south east direction.  The further they moved, the whiter they became with less orangish color.After about a minute, several more appeared from the same point where  we observed the others came from.  Over a span of about 5 to 10 minutes, we saw at least 20 of them.  Three or four of them were very close to each other and almost touched at times but most were separated by at least two to five or 10 degrees.Their size was all the same, about 4 times brighter than the brightest star.A few made irregular moves but most just drifted along over about a 3 minute period until they disappeared into a low hanging cloud to the south and east.The last one we observed was around 9:15 pm, alone and at a much higher degree above the horizon, apprx 70 degrees from the South West, close to being over head.It also began extremely bright orange- red and turned white,  disappearing after 2 or 3 minutes.((NUFORC Note:  The sighting event occurred on Sunday night, April 27, 2014.  When this report was first posted, it indicated, in error, a date of April 28th.  We have corrected the error, and will re-post this report with the correct date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109100.html](http://www.nuforc.org/webreports/reports/109/S109100.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Paphos (Cyprus) () reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Vibrating, full of powerful light a ball like object.I was on holiday in Cyprus.  That night I turned the television and lights off and walked into the kitchen to check the door before going to bed.  It was a beautiful and warm night so I walked out into the kitchen terrace up to the barrier to look up into the skies.  The skies were amazing, no clouds or humidity and millions of stars.  I could see in the far distance two planes moving with their flushing lights but when I looked up above me I saw an object in the shape of a ball and other balls in the shape of a 50 British pence coin attached to it.  The whole object was full of very powerful light pulsating but not moving.  At first I thought it might be a helicopter but realised it couldn't because it was absolutely silent and still but vibrating.  I bacame fascinated with the object and wanted to see it clearer, so I run in few seconds to grab my glasses but when I returned the object was gone with no sign of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97839.html](http://www.nuforc.org/webreports/reports/097/S97839.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162885.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162858.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162872.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162875.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
