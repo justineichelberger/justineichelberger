@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:29 on 28 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:28 on 28 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in St. Charles (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I first would like to thank you for acknowledging my e-mail regarding the "3 objects" that I saw last week and on am sorry for not getting back to you sooner to answer your questions.To answer some of your questions;  I live in St Charles, Illinois and I was in my driveway looking at the up at the night sky when I saw the "3 objects".  I as you imagine, I was taken back from what I saw.  I have never seen anything like that before.  Yes I too, have seen many shooting stars, heat lighting and the Northern Light.  But this was totally different.I would have to guess that what I saw lasted for only a few seconds.  Like I said, they were traveling in a westerly direction, straight and unvarying.  The color bold truculent white, and I wondered why there was neither sound nor back trail. I hope this answers a few of your questions and if I can be of additional assistance, please don't hesitate to ask.((name and e-address deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55665.html](http://www.nuforc.org/webreports/reports/055/S55665.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Tel Aviv (Israel) () reported seeing craft that fit the description of some 'Teardrop' over a period of approximately  -  minutes.</sub><blockquote><sub>unidentified objects in digital camera picsHi, i live in israel and on the 28.04.06 around 18:00 i took some photos of the beach in Tel Aviv, when i came home and look at the photos i noticed a forigen body in the pics that looks like a transperant teardrop on the background of the sky. i have two different photos that in the first one i can see one object and in the secound one i can see two more objects. these 3 objects have the same shape but photographed in different angles and different areas in the photo. it looks really interesting and i think you sould see it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50484.html](http://www.nuforc.org/webreports/reports/050/S50484.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [295](http://www.nuforc.org/webreports/reports/162/S162879.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162884.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162893.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163606.html)
-- [291](http://www.nuforc.org/webreports/reports/163/S163312.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
