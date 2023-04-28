@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:26 on 28 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:24 on 28 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I am a police officer and was working my night shift at our headquarters building checking doors and locks.  When I stepped outside I looked in the sky and noticed a white light in the sky above the trees.  It was in a sort of triangular shape and looked completely out of place.  It resembled a white street light that was not supported by a pole but just suspended in midair.  It did not move in any direction but quickly faded out and was gone in a matter of seconds.I quickly went into the dispatcher's office as the dispatcher was the only other person there that night and told her all about it while I tried to get my thoughts back together.  I later called the nearby airport and asked a guy in the tower if they were sending off weather balloons or if he had gotten a report of something like this.  He said that they weren't sending off weather balloons but he did recieve a report of a similar object 2 weeks prior from someone in a nearby community.My best explanation for the object is that it was an airplane moving away from my direction which gave the illusion that it wasn't moving and that it appeared to fade away when it got far enough.  The airport is close by and I know what airplanes look like flying over at night but this was very different and I haven't seen anything like it since that day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59480.html](http://www.nuforc.org/webreports/reports/059/S59480.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Pueblo (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Traveling lights over PuebloWas just sitting outside with my friend and looking up at the stars, when a perfectly straight line of what looked like stars in the sky went traveling by. There were at least 15 to 20 of these things and were traveling in perfect alignment an equal distance away from each other when the one near or at the front broke away and went back in a scoop motion and seemed to be checking on all the others. We tried to get it on video, but it was too high in the sky. If it wasn't military jets, then I have no idea what could do this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155939.html](http://www.nuforc.org/webreports/reports/155/S155939.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [295](http://www.nuforc.org/webreports/reports/162/S162879.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162884.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162893.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163606.html)
-- [291](http://www.nuforc.org/webreports/reports/163/S163312.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
