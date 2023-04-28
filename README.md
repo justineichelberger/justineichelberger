@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:24 on 28 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:25 on 28 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Pueblo (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Traveling lights over PuebloWas just sitting outside with my friend and looking up at the stars, when a perfectly straight line of what looked like stars in the sky went traveling by. There were at least 15 to 20 of these things and were traveling in perfect alignment an equal distance away from each other when the one near or at the front broke away and went back in a scoop motion and seemed to be checking on all the others. We tried to get it on video, but it was too high in the sky. If it wasn't military jets, then I have no idea what could do this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155939.html](http://www.nuforc.org/webreports/reports/155/S155939.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Kalispell (MT) reported seeing craft that fit the description of some '' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Four teenagers on hill see immense, very bright ball of greenish-white light streak vert. down, hit ground 20 miles (?) to SW. Silent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01443.html](http://www.nuforc.org/webreports/reports/001/S01443.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [295](http://www.nuforc.org/webreports/reports/162/S162879.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162884.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162893.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163606.html)
-- [291](http://www.nuforc.org/webreports/reports/163/S163312.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
