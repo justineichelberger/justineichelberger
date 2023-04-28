@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:14:33 on 28 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:30 on 28 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cordova (SC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>The craft was non conventional, randomly appearing and dissappearing.I was watching a 737 at flight altitude heading due north.  While watching nothing was behind it.  Suddenly a craft was directly behind it, following it, or so it appeared.The craft’s fuselage was very similar to that of a B-29 Super Fortress.  There were no wings or conventional tail.  It appeared to be about five times the size of the 737.   Where the tail should have been was a sort of cone assembly similar to a clump of jet engine nacelles.  Just aft of where the wings should have been was a gull shaped “wing”/vane pointed down with a slight angle aft.The fuselage was a shimmering silver, while the wing/vane was a dark grey.As I watched it behind the 737, all of a sudden is faded from view.  A couple of seconds later it reappeared in the same fashion as it disappeared.  It continued to fly for about four more seconds then slowly faded again, never to be seen again.The sky was a clear dull blue.  I never lost sight of the 737 and watched it fly out of sight long after the ufo disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88738.html](http://www.nuforc.org/webreports/reports/088/S88738.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Round Rock (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>4 UFOs flying in formationI was smoking in the backyard of my house around 12:20 am watching a small plane fly overhead when I saw 4 oval / cigar shaped objects fly bye faster then any plane could a reach and disapeared into a trail of lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36579.html](http://www.nuforc.org/webreports/reports/036/S36579.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [295](http://www.nuforc.org/webreports/reports/162/S162879.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162884.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162893.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163606.html)
-- [291](http://www.nuforc.org/webreports/reports/163/S163312.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
