@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:27 on 28 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:29 on 28 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Williamsport (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Triangle shapes two of them all black no sound at all low flying prolly about 1,000 feet.Me and my friend were sitting on the top of a train on a saterday nite (he lives by train tracks) We were just chillen laying on our backs when we saw what turned out to be two low fling silent triangler crafts I thought he was looking at the same one I was looking at but it turns out were looking at two seperit ones, My first thought was a flock of ducks the flying V but it was deffently a ufo. The UFO was what looked to be broke down in segments it was totaly silent one went north the other east and broke off at the same point south thats when my friend yelled look i was looking at the one going north and he was looking at the one going east((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29424.html](http://www.nuforc.org/webreports/reports/029/S29424.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Crestone (CO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>04/29/09 Crestone Colorado White Fireball 10 secondsStanding at my window facing southwest in Crestone, Colorado 81131 on April 28th, 2009 at approximately 8:30pm I witnessed what appeared to be the largest star in the sky diving straight into the horizon.  The object had a very wide and pronounced tail, this dive lasted about 10 seconds.  The night was clear except for the leading edge of a front about 80 miles away moving in across the San Luis Valley, the object went behind or into the weather system</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69857.html](http://www.nuforc.org/webreports/reports/069/S69857.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [295](http://www.nuforc.org/webreports/reports/162/S162879.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162884.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162893.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163606.html)
-- [291](http://www.nuforc.org/webreports/reports/163/S163312.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
