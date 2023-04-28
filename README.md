@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:30 on 28 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:27 on 28 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Yakima (WA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>cigar-shaped object photographed on both the western and eastern horizon. 9 photos,2 sightings,1 object.I was searching for photo opportunities one evening when I spotted an unusual object moving south to north on the western horizon during sunset. I snapped a photo,and then another clearly showing movement of the object. It was descending when it went out of sight behind some bushes. This was not a man-made object nor was it a weather anomaly. Then roughly three months later I captured 7 more photos of the same object at the same height also travelling north, and also descending. Only this time I captured the object on the eastern horizon during sunrise on December 1st 2006.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54310.html](http://www.nuforc.org/webreports/reports/054/S54310.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Williamsport (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Triangle shapes two of them all black no sound at all low flying prolly about 1,000 feet.Me and my friend were sitting on the top of a train on a saterday nite (he lives by train tracks) We were just chillen laying on our backs when we saw what turned out to be two low fling silent triangler crafts I thought he was looking at the same one I was looking at but it turns out were looking at two seperit ones, My first thought was a flock of ducks the flying V but it was deffently a ufo. The UFO was what looked to be broke down in segments it was totaly silent one went north the other east and broke off at the same point south thats when my friend yelled look i was looking at the one going north and he was looking at the one going east((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29424.html](http://www.nuforc.org/webreports/reports/029/S29424.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [295](http://www.nuforc.org/webreports/reports/162/S162879.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162884.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162893.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163606.html)
-- [291](http://www.nuforc.org/webreports/reports/163/S163312.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
