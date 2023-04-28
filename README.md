@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:36 on 28 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:21 on 28 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Steger (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>One bright orb going East while a much dimmer one went South/WestMy friend had just dropped me off at my house from band practice.  Practice ended at nine o’clock and it was about 9:20-9:25 at the time.  I walked up my driveway and noticed that I could see the stars very clearly. I leaned against the van and looked at them for a while facing south. I saw a plane, it was clearly a plane and it was flashing going North/East.  Let me be clear: it was obviously a plane.  Any regular person would look at it and say that it was a plane. By comparison the next two objects I saw did not look anything like the flashing plane. I looked at a brighter star and then it began to go North after a couple seconds, it hadn’t gone very far, it sharply went East. It was a bright orb. Before I could see it leave my field of vision I was distracted by a much dimmer orb going South/West. I watched this until it left my field of vision. I stayed for another minute or two and then came inside. When I started typing this it was about 9:35.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75224.html](http://www.nuforc.org/webreports/reports/075/S75224.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Gresham (OR) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Object was heading from east to west at an angle of descent.  Was moving fast, unit it vanished.  Entire object was lit up as a single light bright white.  From time of sight to time of vanishing was about 6 seconds and coving a great distance.  We were looking in south direction towards Walters hill from by Gresham police station.  There was no sound...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155964.html](http://www.nuforc.org/webreports/reports/155/S155964.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [295](http://www.nuforc.org/webreports/reports/162/S162879.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162884.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162893.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163606.html)
-- [291](http://www.nuforc.org/webreports/reports/163/S163312.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
