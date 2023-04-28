@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:34 on 28 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:28 on 28 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in East Wenatchee (WA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large round object in association with string of flashing lights, hovering motionless, then vanish(Note: I'm posting this for the witness, my 83 year old grandmother, a retired schoolteacher, who gave me the following description):  Between 05:00 and 05:15 on Wednesday April 28, the witness was awakened by a loud truck driving east on Grant Road, which parallels her house. She looked out the window toward the south and observed the truck, possibly a city or county vehicle, moving very slowly. Subsequently, she noticed a "big round object" suspended motionless above the house across the road, where the truck had just passed. The object emitted no light, but was visible in the ambient light of daybreak. It was brown in color. Estimate of its size was "bigger than a washing machine but smaller than a car". She is unsure of the object's height, but it was certainly above streetlight height, and definitely not "way up there". In addition to this object, she noticed a "string of flashing lights" at the same apparent altitude as the big round object, extending in a line eastward. She sensed that these lights were somehow associated with the object. She's unsure of their number, but that there were multiple flashing, separate lights. They were about the same size as streetlights and were yellowish in color. She observed these objects for approximately 5 minutes, and had no idea what they could be.There were no noticeable sounds associated with them. At no time did she see any of them move; however, after a brief trip into the kitchen, when she returned and looked outside again, they had completely vanished!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36737.html](http://www.nuforc.org/webreports/reports/036/S36737.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Tel Aviv (Israel) () reported seeing craft that fit the description of some 'Teardrop' over a period of approximately  -  minutes.</sub><blockquote><sub>unidentified objects in digital camera picsHi, i live in israel and on the 28.04.06 around 18:00 i took some photos of the beach in Tel Aviv, when i came home and look at the photos i noticed a forigen body in the pics that looks like a transperant teardrop on the background of the sky. i have two different photos that in the first one i can see one object and in the secound one i can see two more objects. these 3 objects have the same shape but photographed in different angles and different areas in the photo. it looks really interesting and i think you sould see it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50484.html](http://www.nuforc.org/webreports/reports/050/S50484.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [295](http://www.nuforc.org/webreports/reports/162/S162879.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162884.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162893.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163606.html)
-- [291](http://www.nuforc.org/webreports/reports/163/S163312.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
