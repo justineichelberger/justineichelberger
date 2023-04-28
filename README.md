@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:30 on 28 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:25 on 28 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Hot Springs (AR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>I was sitting on the deck from my friend's condo on the lake and looked across the water and saw in the distance a triangle shape with blue and red lights.  I called my friend out and he looked thru his telescope and agreed that it had several lights around it and wasn't moving or making noise.   I ran upstairs to my neighbors, who are facing the water also, and asked them to go out on their porch with me and look to see what they saw.  My neighbors looked thru their binoculars and noticed the craft had several lights all the way around it but couldn't tell if it was a triangle.  It stayed in one place for several minutes.  I went down stairs and watched it fade away.  We didn't know if we should call the radio station or not.  My neighbor looked on a site on his computer to see if anyone had said anything or not.  He didn't really know where to look and by that time the object had disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62815.html](http://www.nuforc.org/webreports/reports/062/S62815.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Cuernavaca (Mexico) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright Red-Orange-White Ball of Light in Cuernavaca, MexicoWhile at a bar in Cuernavaca, Mexico, which is south of Mexico City, the bar owner told my wife and I and her sister and friend who were sitting at the back of the bar that the people sitting out front saw something in the sky.  When we got outside, there was one glowing red-orange-white orb of flashing light in the distance.  There seemed to be a large hill in the distance and the orb was maybe a few hundred feet above the hill, but it was hard to tell.  It was perfectly stationary for the minute or so it stayed there.The surprising thing was that the people outside said they saw it speed across the sky very quickly to it's current position and just stop there.  This is where and when we saw the light, which was glowing like a disco ball, but flashing a thousand times faster and much brighter.  We did not see it fly across the sky, but if I had I would have been even more astounded.  I had never seen anything like this before in my life until the summer 2008 when I saw something very similar in Croatia over the Adriatic Sea, amazingly about 30 seconds after I told this story about the Mexico sighting to my sister and cousins in Croatia.  I will post that one as well.After about one minute, the object slowly dimmed over about a period of 30 seconds and was gone.  The children of the family we were staying with said they have seen orbs of light over the trees in their backyard while they played golf there.  The father said that near or in Cuernavaca there is a hill or mountain where many "hippies" come to visit because of all the strange lights, orbs, etc, and that the Mayans and Aztecs both thought this hill was of special importance.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69039.html](http://www.nuforc.org/webreports/reports/069/S69039.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [295](http://www.nuforc.org/webreports/reports/162/S162879.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162884.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162893.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163606.html)
-- [291](http://www.nuforc.org/webreports/reports/163/S163312.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
