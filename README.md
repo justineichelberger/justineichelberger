@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:25 on 28 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:27 on 28 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Kalispell (MT) reported seeing craft that fit the description of some '' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Four teenagers on hill see immense, very bright ball of greenish-white light streak vert. down, hit ground 20 miles (?) to SW. Silent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01443.html](http://www.nuforc.org/webreports/reports/001/S01443.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Bathurst (Canada) (NB) reported seeing craft that fit the description of some 'Light' over a period of approximately non stop - non stop minutes.</sub><blockquote><sub>sporadically moving color changing lighton any given clear night i can observe what looks to be ufo's, they flash many different colors and move sporadically.  i have seen these all over New Brunswick. including Fredericton, and Dalhousie.i am convinced that either the government or extra terrestrials are monitoring or guarding the earth.. i am curious as to weather or not these can be seen all around the world.i think most people glance up and just assume that it is a star. but look for more then a minute and you will be convinced there is something up there!  I've been watching these things for years! and it never ceases to amaze me and others whom i show.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97462.html](http://www.nuforc.org/webreports/reports/097/S97462.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [295](http://www.nuforc.org/webreports/reports/162/S162879.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162884.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162893.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163606.html)
-- [291](http://www.nuforc.org/webreports/reports/163/S163312.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
