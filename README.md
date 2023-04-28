@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:28 on 28 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:31 on 28 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Tel Aviv (Israel) () reported seeing craft that fit the description of some 'Teardrop' over a period of approximately  -  minutes.</sub><blockquote><sub>unidentified objects in digital camera picsHi, i live in israel and on the 28.04.06 around 18:00 i took some photos of the beach in Tel Aviv, when i came home and look at the photos i noticed a forigen body in the pics that looks like a transperant teardrop on the background of the sky. i have two different photos that in the first one i can see one object and in the secound one i can see two more objects. these 3 objects have the same shape but photographed in different angles and different areas in the photo. it looks really interesting and i think you sould see it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50484.html](http://www.nuforc.org/webreports/reports/050/S50484.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Aledo (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Four white metalic spheres with red glass-ish window on the front heading East over Aledo, Il.I was outside walking my dog, when four spherical crafts flew over-head about four miles off of the ground.  They were heading East.  The crafts were spherical and the outer walls appeared to be made of a metal like the kind used to build walls.  They weren't very large, in fact they were about the size of a full grown man sitting, if you wrapped a sphere of metal around him.  There was a red glass-like circle on the "front".  I think it may have been a window.  There was no propulsion system on the other side.  No rocket, jet, fan, or anything it just flew.  There was a misty purple haze around it, and it left a trail behind it which was the same color.  The trail lasted maybe 30 seconds before disappearing.  They continued heading East until I couldnt see them anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81086.html](http://www.nuforc.org/webreports/reports/081/S81086.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [295](http://www.nuforc.org/webreports/reports/162/S162879.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162884.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162893.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163606.html)
-- [291](http://www.nuforc.org/webreports/reports/163/S163312.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
