@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:30 on 28 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:30 on 28 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Round Rock (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>4 UFOs flying in formationI was smoking in the backyard of my house around 12:20 am watching a small plane fly overhead when I saw 4 oval / cigar shaped objects fly bye faster then any plane could a reach and disapeared into a trail of lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36579.html](http://www.nuforc.org/webreports/reports/036/S36579.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Hot Springs (AR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>I was sitting on the deck from my friend's condo on the lake and looked across the water and saw in the distance a triangle shape with blue and red lights.  I called my friend out and he looked thru his telescope and agreed that it had several lights around it and wasn't moving or making noise.   I ran upstairs to my neighbors, who are facing the water also, and asked them to go out on their porch with me and look to see what they saw.  My neighbors looked thru their binoculars and noticed the craft had several lights all the way around it but couldn't tell if it was a triangle.  It stayed in one place for several minutes.  I went down stairs and watched it fade away.  We didn't know if we should call the radio station or not.  My neighbor looked on a site on his computer to see if anyone had said anything or not.  He didn't really know where to look and by that time the object had disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62815.html](http://www.nuforc.org/webreports/reports/062/S62815.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [295](http://www.nuforc.org/webreports/reports/162/S162879.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162884.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162893.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163606.html)
-- [291](http://www.nuforc.org/webreports/reports/163/S163312.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
