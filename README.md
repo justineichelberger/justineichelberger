@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:28 on 28 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:26 on 28 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Tel Aviv (Israel) () reported seeing craft that fit the description of some 'Teardrop' over a period of approximately  -  minutes.</sub><blockquote><sub>unidentified objects in digital camera picsHi, i live in israel and on the 28.04.06 around 18:00 i took some photos of the beach in Tel Aviv, when i came home and look at the photos i noticed a forigen body in the pics that looks like a transperant teardrop on the background of the sky. i have two different photos that in the first one i can see one object and in the secound one i can see two more objects. these 3 objects have the same shape but photographed in different angles and different areas in the photo. it looks really interesting and i think you sould see it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50484.html](http://www.nuforc.org/webreports/reports/050/S50484.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Granite Quarry (NC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Driving south on hwy 52 in Granite Quarry NC. 11:00am looked to the left and noticed a round shiney object 2 miles away and a few miles up.very shiney!  About that time I saw this a black fuzzy BLK round object came out of it from the center top.  About the time I could focus in on it.  It all of a sudden it went straight up and out of sight in a second.  then the silver object.  Which was actually moving horizontal, did the same but not quite straight up.  They went so fast they were up and through the atmosphere in a second.  Intriguing, weird, and scary all at the same time.  Definitely saw this clear enough to say it wasn't from here.  It left me feeling almost vulnerable because of what I just saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156094.html](http://www.nuforc.org/webreports/reports/156/S156094.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [295](http://www.nuforc.org/webreports/reports/162/S162879.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162884.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162893.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163606.html)
-- [291](http://www.nuforc.org/webreports/reports/163/S163312.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
