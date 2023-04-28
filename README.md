@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:24 on 28 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:26 on 28 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Was driving and I saw a bright white light hovoring above some trees.  It flashed real bright and vanished in the flash.  There is an airport nearby, but it was too small for a plane.  Besides, planes don't hovor above trees, flash real bright, and then vanish.  That was the second occasion, and third UFO, I saw UFOs above the trees there.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43869.html](http://www.nuforc.org/webreports/reports/043/S43869.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cedar Rapids (IA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Two "lights" from space circling and "dancing" around each other as if playing.Two lights what at first looked like shooting stars in parallel, yet not in unison, suddenly stopped before striking Earth, and began to circle and "dance" around each other at incredible speeds. They almost appeared to be playing, like the way I have observed birds do at times. This continued for around 7 to 10 seconds and they streaked southward and disappeared. They left a trail like a shooting star at first as they entered the atmosphere, yet there was no trail when they were "playing".</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98537.html](http://www.nuforc.org/webreports/reports/098/S98537.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [295](http://www.nuforc.org/webreports/reports/162/S162879.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162884.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162893.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163606.html)
-- [291](http://www.nuforc.org/webreports/reports/163/S163312.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
