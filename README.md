@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:43 on 28 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:02 on 28 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Surprise (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange lights no noise moved east to west accross sky and disappeared.At this time we witnessed approximatley 4 orange in color light type objects move west to east accross the sky.  From the time we spotted them they traveled what was probably 5 miles across the sky and then it was like the lights got turned off or they burned out.....?   Or they turned north so we could not see them any longer.  There was NO noise heard from the objects at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88712.html](http://www.nuforc.org/webreports/reports/088/S88712.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Mays Landing (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>30 silent bright lights moving fast in a rowJust looked up in the sky and witnessed about 30 bright lights that totally weren’t stars moving quickly in a line ! I wouldn’t have noticed if I never looked up .  They moved so quickly and then disappeared .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155961.html](http://www.nuforc.org/webreports/reports/155/S155961.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [295](http://www.nuforc.org/webreports/reports/162/S162879.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162884.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162893.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163606.html)
-- [291](http://www.nuforc.org/webreports/reports/163/S163312.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
