@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:21 on 29 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:23 on 29 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ontario (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Its hot so my window was open.  From afar, I see these extremely bright lights.  Hmm..that doesnt seem like an airplane.  Sure enough it flies at a pretty fast speed, slightly above some trees in our backyard.  It's night but I can make out a black triangular shape and the bright lights outlining the shape.  There is a giant bright light in the middle of the craft.  No noise comes with it.  It was about less than a mile above ground and seemed very large in size.((ADDENDUM FROM WITNESS))Yes sir. It was Tuesday night, April 29.  At exactly 11:59PM and lasted no more than a minute.  Thank you.((END ADDENDUM))((NUFORC Note:  We have corrected the date above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109041.html](http://www.nuforc.org/webreports/reports/109/S109041.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Evanston (WY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately hours - hours minutes.</sub><blockquote><sub>For many months myself and others have seen silver lighted spheres moving intelligently over city.I and others have seen these crafts for months here in Wyoming.  Some of them move just a little, others move across the city, but all look the same.  They are silverish spheres with light emanating from different areas of surface.  They sometimes have round indentions, black holes or spots, or raised areas.  They often change shape and appear cut off at top or bottom, and sometimes even look egg shaped.  Looking through a 700mm telescope, they almost fill the lens and often change appearance while looking at them.  Some pulse and flash almost continuously, others emulate private planes, others simply twinkle with different colors.Myself, friends and family have been watching these "ships" since approx. July of last year.  At first just one, a red one.  Now there are many here in sky at night.  They start to appear at sunset, and then move lower in sky later in evening.  This has continued for months and these object don't appear to really be hiding.  I have flashed them often with mag light and they always flash me back.  Sometimes they even move closer after they are signaled.I have filed numerous reports with MUFON, but never received one reply.  I cannot help but wonder why.  Has anyone else out these seen these crafts/ships?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22692.html](http://www.nuforc.org/webreports/reports/022/S22692.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162891.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162878.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163219.html)
-- [303](http://www.nuforc.org/webreports/reports/164/S164013.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162895.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
