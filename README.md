@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:21 on 29 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:24 on 29 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Birmingham (AL) reported seeing craft that fit the description of some 'Circle' over a period of approximately Night - Night minutes.</sub><blockquote><sub>As i was outside in my driveway,there was about 20 &quot;Crafts&quot; in the sky moving at a fast rate in a single filed line,one afterAs i was outside in my driveway,there was about 20 "Crafts" in the sky moving at a fast rate in a single filed line,one after the other.. I called my wife outside and pointed towards the sky and she was in Awe and asked.  "What are those"? Babe,i have  no idea.. but what we witness was far beyond the clouds.. No Sound!! But beautiful!! When i say that they were in a single file lines.. that's EXACTLY what i mean.. No Airplane could accomplish that feat of being so close... people,  i know what we saw! I stayed outside  for an hr or so hoping they would come back..Never did. It was Awesome.  I do know that we are not the ONLY BEINGS in this galaxy.  And tonight proved just that.  May the creator's continue to Keep us.. AMEN</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155991.html](http://www.nuforc.org/webreports/reports/155/S155991.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Covington (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>2 spheres about a foot apart colliding together and back apart.There were 2 flying spheres flying above my apartment building.  The objects were closer than a plane would be.  The 2 spheres flew about a foot apart and would collide together and back out.  As it flew over the lights flickered.  I watched it until It flew too far into the distance.  Soon after a plane flew by and it looked nothing like the object seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155919.html](http://www.nuforc.org/webreports/reports/155/S155919.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162891.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162878.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163219.html)
-- [303](http://www.nuforc.org/webreports/reports/164/S164013.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162895.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
