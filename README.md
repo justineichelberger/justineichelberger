@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:28 on 29 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:22 on 29 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>15-20 orange glowing objects travelling across the night sky.I reported the following incident via your hotline:  On Friday, April 29, 2011 at 8:45 pm, my husband and I both witnessed 15-20 glowing orange objects in the sky over our house in San Jose, Ca.  The objects were clustered together at first, then separated randomly.  They were visible for about 5-10 minutes. They travelled in a southeast direction.From the ground and at night, it was impossible to tell the altitude, speed, or size of the objects.  It was like watching airplanes in the sky at night.Winds were 28-30 mph, out of the north.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81047.html](http://www.nuforc.org/webreports/reports/081/S81047.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Bradenton (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately went to dinner - went to dinner minutes.</sub><blockquote><sub>I walked of of a restraunt and i sal something spiningwe got out of the restraunt and this ufo was spining in the air and then it  flew in to a cloud and it started to shake((NUFORC Note:  We assume that the witness describes above the launch of a Titan IV missile out of Cape Canaveral, which occurred at 20:55 hrs. (Eastern) on this date.  The missile apparently was launched to the northeast, so it was visible along the eastern shoreline of the U. S..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43777.html](http://www.nuforc.org/webreports/reports/043/S43777.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162891.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162878.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163219.html)
-- [303](http://www.nuforc.org/webreports/reports/164/S164013.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162895.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
