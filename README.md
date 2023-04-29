@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:24 on 29 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:19 on 29 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>3 Blinking Lights in Loose Formation over Camelback Mountain, PhoenixI was sitting on the porch having a smoke when I noticed two twinkling lights off to the west. They had to be over Camelback Mountain (8 miles away), or maybe further west towards Glendale, it all depended on their altitude. They were in an area of the night sky that was void of stars, probably due to pollution. This is why I knew they did not belong there. Upon further visual exploration of the scene, I noticed a third twinkling light at a lower altitude. The three would get brighter and move around a bit, but they would stay in the same general area. Sometimes they would dim to the point that they were impossible to see, only to brighten and twinkle once more. They did not move for nearly an hour, after which time tiredness dectated that I go to sleep. Forty five minutes into watching these lights, or around 12:45, there was what I deemed to be an aircraft with a bright red flashing light, maybe a helicopter, that flew past all three of these objects. It should also be noted that these objects were present before I noticed them, and they probably lasted after I went to bed. I am writing this report after having come inside from watching the event. I am visiting family for the week, and am leaving tomorrow. I did hear of a 'second round' of Phoenix Lights that took place a week ago (4/21/08)on the news last week. I think these lights behaved similarly to the ones I saw on many local news stations, however, they did not change positions such as the ones from a week ago, the lights tonight were relatively stationary.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62702.html](http://www.nuforc.org/webreports/reports/062/S62702.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Daufuskie Island (off coast of) (SC) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>My husband and I were looking over the pool area into the  sky around 9PM and suddenly there was a bright tail (like fireworks) over the sky (maybe a surface to air missle?) with it lasting only seconds, then it broke into a whitish haze that was wedge shaped which the haze lingered for awhile and then disappeared. There appeared to be some aircraft in the area at the time.((NUFORC Note:  We assume that the witness describes above the launch of a Titan IV missile out of Cape Canaveral, which occurred at 20:55 hrs. (Eastern) on this date.  The missile apparently was launched to the northeast, so it was visible along the eastern shoreline of the U. S..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43773.html](http://www.nuforc.org/webreports/reports/043/S43773.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162891.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162878.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163219.html)
-- [303](http://www.nuforc.org/webreports/reports/164/S164013.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162895.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
