@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:30 on 29 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:21 on 29 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Jalandhar (India) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>The fireball is continously seen here up in the sky at night for last three days. I think that Indian army don't know how to make contact with that fireball. I don't know whether it is friendly or not.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17444.html](http://www.nuforc.org/webreports/reports/017/S17444.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Kennebunk (ME) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>a bright moving starMy friends and I where riding our bikes when we saw a very bringht star that was moving in an odd pattern and was not blinking like any sort of plane. We are positive that this was a  space craft of some sort.((NUFORC Note:  Missile launch at 2055 hrs (EDT).  We believe the missile may have been launched to the northeast from Cape Canaveral, which explains why people reported the launch from locations as far north as Maine.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43702.html](http://www.nuforc.org/webreports/reports/043/S43702.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162891.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162878.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163219.html)
-- [303](http://www.nuforc.org/webreports/reports/164/S164013.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162895.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
