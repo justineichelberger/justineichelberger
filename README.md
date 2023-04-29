@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:23 on 29 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:22 on 29 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Evanston (WY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately hours - hours minutes.</sub><blockquote><sub>For many months myself and others have seen silver lighted spheres moving intelligently over city.I and others have seen these crafts for months here in Wyoming.  Some of them move just a little, others move across the city, but all look the same.  They are silverish spheres with light emanating from different areas of surface.  They sometimes have round indentions, black holes or spots, or raised areas.  They often change shape and appear cut off at top or bottom, and sometimes even look egg shaped.  Looking through a 700mm telescope, they almost fill the lens and often change appearance while looking at them.  Some pulse and flash almost continuously, others emulate private planes, others simply twinkle with different colors.Myself, friends and family have been watching these "ships" since approx. July of last year.  At first just one, a red one.  Now there are many here in sky at night.  They start to appear at sunset, and then move lower in sky later in evening.  This has continued for months and these object don't appear to really be hiding.  I have flashed them often with mag light and they always flash me back.  Sometimes they even move closer after they are signaled.I have filed numerous reports with MUFON, but never received one reply.  I cannot help but wonder why.  Has anyone else out these seen these crafts/ships?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22692.html](http://www.nuforc.org/webreports/reports/022/S22692.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Wilmington (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Exploding "Star"My friends and I were out on a golfcourse about to play manhunt (a game which involves two teams and hiding in the dark). We were scoping out some area to hide in until I looked up and saw what looked like a moving star with symmetrical blue smoke on both sides. The smoke was on moving behind the "star" in a curved shape. I was like, "That can't be an airplane!" Everyone thought it was the craziest thing they had ever seen! Then all of the sudden, the "star" blew up into two pieces and it looked like a nuclear explosion in the sky. I was thinking "Oh my god, a meteor is going to hit the earth." But the thing was, it didn't seem as if it was going to hit us at all. The "star" blew up into two smaller stars and kept on going in a straight line, one star behind the other. They did'nt dissapear at all and kept on going in one straight path. It was the freakiest thing that I have ever seen in my life. I don't know what the hell it was, but it's nothing that could have been made by man. It also couldn't be a meteor because when a meteor hits, it disintegrates. This one just kept on going. I'm wondering if anyone else saw this. It seemed like my friends and I were the only people that saw it. Please post something if you have seen something similar.((NUFORC Note:  We assume that the witness describes above the launch of a Titan IV missile out of Cape Canaveral, which occurred at 20:55 hrs. (Eastern) on this date.  The missile apparently was launched to the northeast, so it was visible along the eastern shoreline of the U. S..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43735.html](http://www.nuforc.org/webreports/reports/043/S43735.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162891.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162878.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163219.html)
-- [303](http://www.nuforc.org/webreports/reports/164/S164013.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162895.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
