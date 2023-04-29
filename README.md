@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:19 on 29 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:21 on 29 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Chevron-shaped flying wing with 7 large round white lightsI was outside of the Aria Hotel & Casino at 12:52 am on Thursday morning, 4/29/10, looking up and admiring the enormous structure when movement in the sky above me caught my eye. I saw that it was a black flying wing/chevron shaped craft made of just 2 wings joined together at an angle of approximately 160 degrees. Each wing was a long narrow black rectangle; the "wingtip" edges did not taper at all and were squared off at 90 degrees, but with rounded corners. Arrayed along these wings were 7 round, white, non-blinking lights equidistant from each other and the front and rear edges, from tip to tip; the fourth central light was right on the central axis where the 2 wings would join (if they were separate pieces). The diameter of each of these 7 lights was approximately 50% of the width of the wing from the front edge to the back edge.It is very difficult to judge never having been close to the craft to get a sense of scale, but its size may have been as much as 180 - 200 feet from left to right, and it may have been traveling at an altitude of 1200 feet. It is also possible that it was a larger craft traveling faster and higher, or a smaller craft traveling lower and slower; at any rate the speed I observed it moving at was almost leisurely. Its direction of movement was due west, or with a very slight northwest component, and it was silent. It was in my line of sight for 3-4 seconds before it moved out of sight behind the roofline of the entrance to the Aria.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75311.html](http://www.nuforc.org/webreports/reports/075/S75311.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ontario (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Its hot so my window was open.  From afar, I see these extremely bright lights.  Hmm..that doesnt seem like an airplane.  Sure enough it flies at a pretty fast speed, slightly above some trees in our backyard.  It's night but I can make out a black triangular shape and the bright lights outlining the shape.  There is a giant bright light in the middle of the craft.  No noise comes with it.  It was about less than a mile above ground and seemed very large in size.((ADDENDUM FROM WITNESS))Yes sir. It was Tuesday night, April 29.  At exactly 11:59PM and lasted no more than a minute.  Thank you.((END ADDENDUM))((NUFORC Note:  We have corrected the date above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109041.html](http://www.nuforc.org/webreports/reports/109/S109041.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162891.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162878.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163219.html)
-- [303](http://www.nuforc.org/webreports/reports/164/S164013.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162895.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
