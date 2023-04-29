@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:22 on 29 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:30 on 29 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Wilmington (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Exploding "Star"My friends and I were out on a golfcourse about to play manhunt (a game which involves two teams and hiding in the dark). We were scoping out some area to hide in until I looked up and saw what looked like a moving star with symmetrical blue smoke on both sides. The smoke was on moving behind the "star" in a curved shape. I was like, "That can't be an airplane!" Everyone thought it was the craziest thing they had ever seen! Then all of the sudden, the "star" blew up into two pieces and it looked like a nuclear explosion in the sky. I was thinking "Oh my god, a meteor is going to hit the earth." But the thing was, it didn't seem as if it was going to hit us at all. The "star" blew up into two smaller stars and kept on going in a straight line, one star behind the other. They did'nt dissapear at all and kept on going in one straight path. It was the freakiest thing that I have ever seen in my life. I don't know what the hell it was, but it's nothing that could have been made by man. It also couldn't be a meteor because when a meteor hits, it disintegrates. This one just kept on going. I'm wondering if anyone else saw this. It seemed like my friends and I were the only people that saw it. Please post something if you have seen something similar.((NUFORC Note:  We assume that the witness describes above the launch of a Titan IV missile out of Cape Canaveral, which occurred at 20:55 hrs. (Eastern) on this date.  The missile apparently was launched to the northeast, so it was visible along the eastern shoreline of the U. S..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43735.html](http://www.nuforc.org/webreports/reports/043/S43735.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Jalandhar (India) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>The fireball is continously seen here up in the sky at night for last three days. I think that Indian army don't know how to make contact with that fireball. I don't know whether it is friendly or not.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17444.html](http://www.nuforc.org/webreports/reports/017/S17444.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162891.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162878.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163219.html)
-- [303](http://www.nuforc.org/webreports/reports/164/S164013.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162895.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
