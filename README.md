@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:41 on 29 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:51 on 29 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Jupiter (FL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>see aboveCraft appearred hovering initially w/ stream behind it.  Rear configuration of lights which appearred star-like changed position/direction. Three distinct lights circled by halo followed, leading watcher to conclusion that craft had changed direction and was moving away. Was quickly out of sight.((NUFORC Note:  We assume that the witness describes above the launch of a Titan IV missile out of Cape Canaveral, which occurred at 20:55 hrs. (Eastern) on this date.  The missile apparently was launched to the northeast, so it was visible along the eastern shoreline of the U. S..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43739.html](http://www.nuforc.org/webreports/reports/043/S43739.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Mercey Hot Springs/Firebaugh (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>White Flashing Object Over Mercey Hot SpringsWhile soaking in the hot tub staring at the beautiful, starry sky, all of a sudden a bright flash of pure white light caught my eye.  I continued to watch and about thirty seconds or so later, I observed another brief flash once again and whatever it was had moved slightly in a horizontal manner.  In all, there were four small irregular flashes from the star-like object over several minutes, and then no more. The event happened a short way below the Big Dipper, and the object appeared to be travelling northwest to southeast.  There was no noise.  The light seemed brighter than the ones on the planes that flew by in the same spot about five minutes later, and I could also clearly hear their engine noises.  I also observed three small meteors and a dim sattelite flying over later, so I had just about every familiar airborne object to compare it to.  Conditions were a warm Spring evening with slightly high level haze and virtually no wind after sunset.   Mercey Hot Springs is located approximately 34 miles from the nearest town so there is no artificial light to interfere with sky watching, and the moon didn't rise until about four hours later.((ADDENDUM FROM WITNESS))Hi, Peter. I just submitted another report a few minutes ago regarding Mercey Hot Springs/Firebaugh, CA.  The correct date should be 4/29/2013.  Not sure if I put the correct one.  Thanks, ((name deleted))((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97487.html](http://www.nuforc.org/webreports/reports/097/S97487.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162891.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162878.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163219.html)
-- [303](http://www.nuforc.org/webreports/reports/164/S164013.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162895.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
