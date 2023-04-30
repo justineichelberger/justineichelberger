@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:21 on 30 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:39 on 30 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Martinez (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Large bright light hovering and making arc like movements.At approximately 23:20 hours, myself and two friends noticed a large, bright light.  It was the level of the hillside across the road.  About 100 yards high.  It hovered and moved left and right, forward and back.The distance of the movements was  probably a few feet at a time.  These movements happened randomly, and were not rhythmic in any way.  When the movements were executed they seemed circular, they did not move in a straight line from left to right, but made an arc.  The light was round, bright and white.  We could also see a red light that was much smaller and appeared to be behind the white light.  At the beginning of the sighting, the object was about a half mile away from us.  After a couple of minutes of watching it, it moved forward toward us to about 1/4 of a mile away.  Then it moved back to its original distance.  After around 10 minutes it began to move away while keeping the same position in the sky, for the light got smaller and dimmer.  It finally moved beyond the crest of the hill and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118717.html](http://www.nuforc.org/webreports/reports/118/S118717.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Charleston (WV) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>I could not see the craft.  Just two pale yellow sets of triangle lights on the bottem not a airplane, not a helicopter moved to slow and it was to quite like a humming noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109065.html](http://www.nuforc.org/webreports/reports/109/S109065.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163103.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162943.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162917.html)
-- [285](http://www.nuforc.org/webreports/reports/162/S162927.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164142.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
