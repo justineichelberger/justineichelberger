@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:21 on 30 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:34 on 30 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Ocala (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately Varied - Varied minutes.</sub><blockquote><sub>I went out to smoke i always watch the sky when i seen 6 white lights high in the sky flying 2x2 with 1 in the front lasted for about 10 to 15 seconds ran in to get someone to witness it they were gone.  So i kept watching the sky then see 2 more white light side by side about 20 minutes later then about 10 minutes later seen 1 more whote light then about 5 to 10 mins later seen another white light those stayed lit until they were to far to see anymore.  They were very high in the sky not like a meteor or plane or copter.  They looked like stars looks just as bright the lights didnt flicker just stayed bright until they were to far to see anymore.  I tried to get a video, but my phone wouldnt pick it up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156020.html](http://www.nuforc.org/webreports/reports/156/S156020.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Broadview Heights (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Me and my family saw weird objects in the sky one Friday night.Friday night, sun is setting. Me and my mother and grandfather are having a conversation on the supernatural. To the left right after 9:00 pm, we see a white light, small and distant, but large enough for us to notice. We thought it was a star, but after 10 minutes my grandma came out and said that it couldn't be because there would be a lot of stars. We were staring at it, also me remembering having this same experience about a year ago. It wasent moving, or doing anything. My grandma said that when she went to Serbia after the bombing in 1999, they saw something like this, but this was much more strange. Later, everybody went inside. Me being a freak on these things, I sit there at about 9:10 pm and am texting my friends and about to send message on facebook telling them to look outside, as I do this, I see it bounce as I am keeping an eye on it, ad watch it dissapear. Now the skies were clear that night. I get dressed into pajamas, come back out. Before I saw it to the left of my porch (facing west), but now I saw an object, I was facing south-east. It was the same, white circleish figure I saw before, but also I saw one on other side glimmering. They didn't move at this time. I'm staring, thinking. On the left one, it looked as if the UFO opened something and something floated our of the UFO and back into it, from/to the earths surface. Then I saw it dissapear. The other one stayed, bounced a little, and sped of to the north at the speed of light!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75282.html](http://www.nuforc.org/webreports/reports/075/S75282.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163103.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162943.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162917.html)
-- [285](http://www.nuforc.org/webreports/reports/162/S162927.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164142.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
