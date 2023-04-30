@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:22 on 29 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:39 on 30 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in South Salt Lake City (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>The objects were small bright individual lights in the sky.6 craft were spread across the sky in a horizontal line.Two were red in color the other four were shiny.The crafts changed positions on several occations, zig-zag formation and then three dissapeared and about ten minutes later the rest dissapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50362.html](http://www.nuforc.org/webreports/reports/050/S50362.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Galt (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Black triangle with rounded edges with bright round lights near each corner, crossed over freeway I-5 April 30th at 9:40 PM .I was driving south on I-5 South of Elk Grove and North of Lodi.  At 9:35 PM I spotted a bright light in sky near the  western horizon (to my left).  I watched as the light got brighter and bigger. It was travelling due East.  I slowed my car to try to intercept the crossing of I-5.  As it got closer I notice there were three bright lights within a triangular craft.  I parked my car off the edge of the freeway as I felt I was directly in the path.  It slowly passed directly over my vehicle and myself. I estimate it was about 1000 ft. (I served 8 years in the 82nd Airborne with over 200 parachute jumps.  We jumped from 1000 feet so I know estimate the craft at the same height).  It was large, black, tringular with rounded corners.  It had extremely bright headlights.  It was flat, with several small white lights where jet engines might be located.  It crossed the freeway and headed due west. No noise what so ever.  I had a very clear unubstructed view.  There is no lights, houses, buildings or trees on that section of the highway.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69898.html](http://www.nuforc.org/webreports/reports/069/S69898.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/162/S162891.html)
-- [305](http://www.nuforc.org/webreports/reports/162/S162878.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163219.html)
-- [303](http://www.nuforc.org/webreports/reports/164/S164013.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162895.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
