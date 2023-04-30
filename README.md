@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:23 on 30 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:21 on 30 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Stamford (CT) reported seeing craft that fit the description of some 'Formation' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>4 Objects over CT, April 30thSightings started at 9pm EST.  All crafts were moving in a south (from the direction of Long Island) to north direction.  1st craft was in a trapezium was moving at an intense speed.  It almost appeared as a retreat from something.  The 2nd craft appeared about 9:07pm EST and had 3 lights in the shape of a perfect triangle.  This craft moved slower than the previous one, but still moving quickly.  The 3rd craft appeared about 9:19pm EST.  It was a single light moving extremely slowly.  For some reason this one gave me a bad feeling.  The 4th craft was moving at a moderately fast speed.  It appeared to be 3 circular lights forming a triangle, but they were very close together.  Are there any other witnesses??</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127121.html](http://www.nuforc.org/webreports/reports/127/S127121.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Ocala (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately Varied - Varied minutes.</sub><blockquote><sub>I went out to smoke i always watch the sky when i seen 6 white lights high in the sky flying 2x2 with 1 in the front lasted for about 10 to 15 seconds ran in to get someone to witness it they were gone.  So i kept watching the sky then see 2 more white light side by side about 20 minutes later then about 10 minutes later seen 1 more whote light then about 5 to 10 mins later seen another white light those stayed lit until they were to far to see anymore.  They were very high in the sky not like a meteor or plane or copter.  They looked like stars looks just as bright the lights didnt flicker just stayed bright until they were to far to see anymore.  I tried to get a video, but my phone wouldnt pick it up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156020.html](http://www.nuforc.org/webreports/reports/156/S156020.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163103.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162943.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162917.html)
-- [285](http://www.nuforc.org/webreports/reports/162/S162927.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164142.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
