@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:13 on 30 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:14:24 on 30 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Ephrata (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>4 bright whitish yellow lights completely silent and weaving between each other abnormally close to each other.  hear and saw plane after plane, about 6, chasing the lights in circle over and over trying to get close to the lights.  we do not ever have multiple low circling airplanes at night going in circles (ESPECIALLY at night)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145930.html](http://www.nuforc.org/webreports/reports/145/S145930.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in UK/Scotland () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Perfectly-shaped clear white circle ring stationery in sky.Distinct white ring in the sky.  Late afternoon, blue sky, light clouds, some cumulus, stark against the clouds a perfect white ring, stationery.Not a solid circle or an ellipse of any kind.  A geometrically perfect, non-organic-shaped, not blurred, distinct and clear white circular ring.  It didn’t fade away or flash away it just suddenly wasn’t there.I marvelled at it thinking out it couldn’t be any kind of cloud formation, it was so perfectly circular and stark.It didn’t occur to me at the time that it might be a UFO and immediately forgot about it.  A week later I’ve remembered it and I find myself searching ‘white circles in the sky’ on google, which is how I found this website (thanks).Seen off the Outer Hebrides, Scotland, which is next to USA/Canada, of course, on the other side of the Atlantic Ocean.((NUFORC Note:  Possible hoax.  Date is flawed; source does not respond to e-mail.  PD))((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109200.html](http://www.nuforc.org/webreports/reports/109/S109200.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163103.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162943.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162917.html)
-- [285](http://www.nuforc.org/webreports/reports/162/S162927.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164142.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
