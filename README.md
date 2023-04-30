@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:39 on 30 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:24 on 30 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Charleston (WV) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>I could not see the craft.  Just two pale yellow sets of triangle lights on the bottem not a airplane, not a helicopter moved to slow and it was to quite like a humming noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109065.html](http://www.nuforc.org/webreports/reports/109/S109065.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Somerset (MA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Numerous unidentified white sperical objects spotted and photographed.In the early afternoon on 30 April 2010, I took three pictures of some rainbow-colored clouds that were approximately 50 to 60 degrees in azimuth in the West-South-Westerly direction above my house.  I positioned myself in the shade of the roof line to mask the sun from my shots.I downloaded the pictures, from my camera to my computer, late in the afternoon to see if I was successful in capturing the colorful effects of the sun.  As I visually scanned the pictures, I noticed several outstanding white circular blots which appeared at several locations in each of the pictures.  Some were relatively close to others, some were larger and more prevalent than others, but all except one, were, by my estimation, at an extreme distance in the sky.  I counted no less than eight objects on one of the three pictures I took and found there to be two to three objects on the second photo and five, maybe more on the other.One image appears very much larger or closer and lower than the rest:  it is spherical in shape and has what appears to be a dark belt (almost like a wind shield) wrapping horizontally around the mid-section of the sphere.  I cannot describe this image in better detail, because it is out of focus.  I thought, at first, that I might have captured a portion of my old TV antenna array, but I can't visualize this, even if it is out of focus.  And the antenna is farther to the left of where I took these pictures. In trying to give this object some size or distance perspective with the surroundings in the picture, I note it is at the bottom of the picture, just above the roof line and almost gives the appearance of a head-on frontal aspect of a jetliner, but there are no wings, rudder, or elevators in view.  Additionally, I saw no aircraft while I was taking these pictures, though the Providence airport is in the direction of my photos.I checked the other two photos to see if the same images appeared, or if they were at the same relative locations on each picture, thinking perhaps my lens might be dirty, and if so, the spots would be observable on them too, but this was not the case. I thought for a moment, that I might be seeing some very bright stars as an anomally, but ruled this out as these sightings are so close to the sun.I cannot tell whether these objects had any relative motion, or how long they may have been observable since I didn't even notice them when I took the pictures.  I am however, baffled by what I have captured on these photos.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75270.html](http://www.nuforc.org/webreports/reports/075/S75270.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163103.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162943.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162917.html)
-- [285](http://www.nuforc.org/webreports/reports/162/S162927.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164142.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
