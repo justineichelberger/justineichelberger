@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:39 on 30 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:13 on 30 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Galt (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Black triangle with rounded edges with bright round lights near each corner, crossed over freeway I-5 April 30th at 9:40 PM .I was driving south on I-5 South of Elk Grove and North of Lodi.  At 9:35 PM I spotted a bright light in sky near the  western horizon (to my left).  I watched as the light got brighter and bigger. It was travelling due East.  I slowed my car to try to intercept the crossing of I-5.  As it got closer I notice there were three bright lights within a triangular craft.  I parked my car off the edge of the freeway as I felt I was directly in the path.  It slowly passed directly over my vehicle and myself. I estimate it was about 1000 ft. (I served 8 years in the 82nd Airborne with over 200 parachute jumps.  We jumped from 1000 feet so I know estimate the craft at the same height).  It was large, black, tringular with rounded corners.  It had extremely bright headlights.  It was flat, with several small white lights where jet engines might be located.  It crossed the freeway and headed due west. No noise what so ever.  I had a very clear unubstructed view.  There is no lights, houses, buildings or trees on that section of the highway.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69898.html](http://www.nuforc.org/webreports/reports/069/S69898.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Ephrata (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>4 bright whitish yellow lights completely silent and weaving between each other abnormally close to each other.  hear and saw plane after plane, about 6, chasing the lights in circle over and over trying to get close to the lights.  we do not ever have multiple low circling airplanes at night going in circles (ESPECIALLY at night)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145930.html](http://www.nuforc.org/webreports/reports/145/S145930.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163103.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162943.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162917.html)
-- [285](http://www.nuforc.org/webreports/reports/162/S162927.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164142.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
