@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:26 on 30 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:23 on 30 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Cairo (WV) reported seeing craft that fit the description of some 'Disk' over a period of approximately at night - at night minutes.</sub><blockquote><sub>well its has blue,red,green,yellow lights. its just sits there for hours at a time.well the first night we saw it,it was just above the trees.we watched for a hour.then it left,it took off real fast.my brother's dauther seen it friday night we work together.i told her what we saw.she didn't look at it very long.so the next night i called them they live on a hill they can see it better then i can. it all so shot a beam of light down at my brother in law, saturday night.he didn't beleve me at first now he does. well sunday there was about 4 of them.((NUFORC:  Report is not inconsistent with many reports we receive of celestial bodies.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07060.html](http://www.nuforc.org/webreports/reports/007/S07060.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Euless (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>No lights flying very low,silent flew right over my head, blocked out view of stars as it passedout on the balcony in my apartment complex there are many lights and it is hard to see the stars. Tonight was especially clear so before turning in i was enjoying a cigarette and looking up at the amazing sky. something flew from the south into my view flying very low.-triangular in shape with obvious tube like shapes forming the rear of the craft.-moved very fast in a straight line right above me heading due south -it made no sound whatsoever -there were no lights the craft was very dark with obvious light grey color "spots" that i could see when i watched it fly overhead (the belly of the craft so to speak) -as it passed it blocked out my view of the stars behind it -it was gone behind the tree and out of my view within 7 to ten seconds</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50368.html](http://www.nuforc.org/webreports/reports/050/S50368.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163103.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162943.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162917.html)
-- [285](http://www.nuforc.org/webreports/reports/162/S162927.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164142.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
