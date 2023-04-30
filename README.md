@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:23 on 30 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:23 on 30 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Blue Flash of Light which covered the SE sky (not man-made).2nd flash i had seen like this, but in different locations and dates. Driving home late from the office, when a flash of blue light lit up the SE sky. So bright i do not think man could duplicate it. Light it up for a good solid second, then disappeared. Other drivers on the highway must hv seen the same thing as it was in a very populated area of Houston. Also a few brake lights lit up after the flash occcured, so it seems i was not the only one that saw this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36653.html](http://www.nuforc.org/webreports/reports/036/S36653.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Seabrook (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>19 fast flying silent UFOs in formation19 UFO flying from NW to SE. No sound, perfect distance apart, perfect line. Est. 30k feet. 3 surrounding airports.  Moving extremely fast, faster than any commerical plane that flys out of airports.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156083.html](http://www.nuforc.org/webreports/reports/156/S156083.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163103.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162943.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162917.html)
-- [285](http://www.nuforc.org/webreports/reports/162/S162927.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164142.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
