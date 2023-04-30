@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:32 on 30 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:29 on 30 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Newport Beach (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>looked like an orange star, flickered for about 30 seconds and then it slowly got smaller and smaller until it disappeared (total duration: 1 minute)((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127117.html](http://www.nuforc.org/webreports/reports/127/S127117.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Gaylord (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>my boyfriends father called and had siad that there was a craft with red, white, and blue lights, and said that it was coming towards our home.  He had told us to look out the window above the lake and i did due to boy friend being in tub at that point in tme.  when i had looked out side my bay window i had seen a bell shape craft with a red light on the bottom amd white lights rapidly blinking around the edge of the craft.  It had moved from my boyfriends father's home (15-18 min.'s driving time away) to the lake out front of my home in a matter of 1 min..  My boyfriend had then hopped out of the tub and looked out of the side door and seen the craft as well.  At that point in time we had heard a vibrating sound followed by a faint beeping sound.  the craft had moved very very very fast.  My boyfriend father had seen it again in a mtter of a min or so and said that his wife and him had seen it again and it turned bright red then white then it had shot up and disappeared into the sky.   about 3-4 min.'s later he had said that there was another craft that was a little smaller and it had droped straight down from the sky and it had looked like an airplane had just fell. then all of a sudden it to had taken off into the sky. it is now 12:12 am and i have been looking out side from time to time and i have not seen nothing again. (YET).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22697.html](http://www.nuforc.org/webreports/reports/022/S22697.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163103.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162943.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162917.html)
-- [285](http://www.nuforc.org/webreports/reports/162/S162927.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164142.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
