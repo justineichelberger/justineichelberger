@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:26 on 1 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:34 on 1 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Millville (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I walk outside to start up my car.  Walking back to go in my home to let my car warm up when I look up noticed bright amber light in the sky.  I stood there thinking im seeing thing trying to grasp on what im seeing.  I hurry in to my house to get my husband when I came back out it disappeared.  The next  morning i watch the news there several reporting of strange lights in the sky that early morning around 1am.((NUFORC Note:  Source of the report elects to remain anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134726.html](http://www.nuforc.org/webreports/reports/134/S134726.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1970, an anonymous witness in New York City (Bronx) (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bronx, NY : It was a  solid silver -colored pyramid,  spinning 100 feet above Public School 54's yardBronx, New York. I was a student at Public School 54, an elementary school. At around lunch time I and hundreds of other students and some of the school faculty saw a silver-colored object shaped like a pyramid, about 100 feet up in the air above the school yard, spinning in its place in the same manner as the Earth spins on its axis. I'd say the object was the size of a small school bus. There is no doubt that it was a solid object because the sun's rays reflected off its surface. I was standing next to the assistant principal, who made a comment about UFOs. This was the first time I heard the term ufo. A few minutes into my viewing, a helicopter appeared, which proceeded to fly around the spinning pyramid. Once again this was a solid object that was being "investigated" by a helicopter. The bell sounded signaling the end of the lunch period. I went back in. By the time school was out the object and the helicopter were gone. The school changed its name to CS 54, and was torned down by the mid 1970s. I have done extensive web searches for articles/news stories about this event but have come up empty. It is as if I was the only one to watch this phenomenon. But there were at least 50 eyewitnesses! The school's vice principal (middle aged then, now perhaps dead) also witness it, along with other staff members. I would like to provide his last name, if this web site's host will allow it. This needs to be followed up. There can not be an unconfirmed UFO report when there are scores of people who witness it! Other witnesses out there, come forward!((NUFORC Note:  Date is approximate.  We usually don't allow use of the names of witnesses, although any student at CS54 in 1970 probably would know the name of his/her principal.  Witness elects to remain totally anonymous, and provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34159.html](http://www.nuforc.org/webreports/reports/034/S34159.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [542](http://www.nuforc.org/webreports/reports/162/S162925.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164365.html)
-- [540](http://www.nuforc.org/webreports/reports/162/S162920.html)
-- [539](http://www.nuforc.org/webreports/reports/162/S162923.html)
-- [538](http://www.nuforc.org/webreports/reports/162/S162902.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
