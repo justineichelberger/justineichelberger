@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:01 on 1 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:14:44 on 1 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Kuala Lumpur (Malaysia) () reported seeing craft that fit the description of some 'Egg' over a period of approximately 10-5 - 10-5 minutes.</sub><blockquote><sub>there laser-like egg objects shining laser at me for a whole nightthere were three egg shaped red ball like things flying over my condo minium on the night. im not so sure about the date so i wrote a different date and time... there were lights flashing on me as i woke up. when i looked out the light was flashong right at me like a laser. there stuffs in triangle like 1 at top and 2 at bottem were staying there. i closed me self under the blanket and hid. it was there till about 6.ooam. i did not have sleep. i was scared to get up no to shout. the next morning i told my parents what happened and they did not believe me. the light was red. my parents said i xcould have been dreaming. i remembered it to gay because im wantching UFO files on the british television. so i got uo and wrote up my story. im a 15 year old teenager so i wouldnt bother about this things normally. but i experienced myself and thats why im telling this. im not sure how many people are going to believe it. still my heart tells the truth</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37176.html](http://www.nuforc.org/webreports/reports/037/S37176.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1991, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>In the summer of 1991 around the months of May to September, the New York Post had a small paragragh printed, that anyone who thought they saw a U.F.O the previous early morning over New Jersey or the Central park area should ignore it because the observatory in Centrel Park claims it was only a meteor.The observatory was incoerrect, a large round and very bright object was hovering around the Bedford Stuyvesant area at approximately 01:00 or 02:00 A.M. it hovered for aproximately five minutes. The object appeared to be a smaller version of the ship in the movie Close Encounters of the 3rd kind((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59833.html](http://www.nuforc.org/webreports/reports/059/S59833.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [542](http://www.nuforc.org/webreports/reports/162/S162925.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164365.html)
-- [540](http://www.nuforc.org/webreports/reports/162/S162920.html)
-- [539](http://www.nuforc.org/webreports/reports/162/S162923.html)
-- [538](http://www.nuforc.org/webreports/reports/162/S162902.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
