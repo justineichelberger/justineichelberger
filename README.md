@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:29 on 1 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:25 on 1 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Glens Falls (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Triangular object glens fallsWalking on the bike trail with my wife when she pointed out 3 triangular objects following each other in a line. They were grey in color and had 3 lights on the back and the bottom. I estimate that they were at 9 to 10 thousand feet and very very large. I'm thinking it's military but my wife insists on me making this report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162921.html](http://www.nuforc.org/webreports/reports/162/S162921.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Lemoore/I-5 corridor (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Lemoore/I5 corridor, red light with many planes flying around the object.  Moved quickly to the west.While driving from Sacramento to Hanford with my brother, we noticed a bright light in the sky, not moving, with many planes flying around the object.  The lights were red and blue.  This is over an area close to the Lemoore Naval Air Station and I grew up in the area.  This is a very restricted area for aircraft so it made no sense to us why so many planes were in the sky at the time. We could see the object from as far away as Santa Nella.  As we continued sout on I-5, the object disappeared then reappeared off to the west over the Coastal Mountain Range.  All the planes which were flying around the object moved to the west towards the unknown light/object.  It was so startling that we pulled off to the side of the road, so did about 5 or so other cars.  The object eventually disppeared.  This thing moved faster than anything I am familiar with or know about and there were too many planes flying in a restricted area. I know others saw this. The year was 1988-1990. I was in college at UC Davis comng home to visit with parents.  I can't remember the exact year/date.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36522.html](http://www.nuforc.org/webreports/reports/036/S36522.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [542](http://www.nuforc.org/webreports/reports/162/S162925.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164365.html)
-- [540](http://www.nuforc.org/webreports/reports/162/S162920.html)
-- [539](http://www.nuforc.org/webreports/reports/162/S162923.html)
-- [538](http://www.nuforc.org/webreports/reports/162/S162902.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
