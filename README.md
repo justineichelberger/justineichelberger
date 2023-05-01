@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:24 on 30 April 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:37 on 1 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sycamore (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We saw seven dull orange near ball like lights traveling accrost the sky.Dull orange near ball like lights moving from ENE to WSW.  They came in pairs and the southern most object was leading in all three pairs.  They glowed orange as they were seen coming from the east and continued to glow orange until they passed overhead, but as they past they started to dim and then slowly disaperred as they headed west as though there was no light in or on the back of them.  The pairs were about three minutes apart and appeared to travel exactely the same route.  Then a few minutes later, I saw one that seemed to be traveling down to the horizon in the ENE sky.  There were no flashing lights on these objects.  We could not determine how high they were but my guess would be over 1000' and less than 10,000'.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118711.html](http://www.nuforc.org/webreports/reports/118/S118711.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Gimli (Canada) (MB) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0:49 - 0:49 minutes.</sub><blockquote><sub>Sighted a chevron or checkmark object with dull orange lights and spotted 9 more objects very soon afterward.It was 12:15 am May 01/16 and my girlfriend and myself had gone outside for a cigarette before retiring for the evening, we were sitting on the front step of our house, it was a very clear night, and we were commenting on the sky and she says there is a plane and it is going very fast, I said planes don't look fast in the sky and thought maybe the spacestation or satellite and stood up and looked and saw 4 orange lights go directly over our heads, in the form of a check mark, the lights would have been the size of a quarter held at arm's length, and the lights almost seemed obscured by cloud, but it was a clear night, and there was absolutely NO sound.We both looked at each other in amazement and asked "Did you see that !!??" We both acknowledged what we saw.We returned into the house and sat quietly for a few minutes , I then said we have to go back out , we out the back door and sat outside gazing at the sky.I should have mentioned the craft we saw at 0:15 was travelling south to north.Sitting in the back yard , gazing at the sky when I yelled "Look" , coming from the southwest going to the north , again right over head , 3 smaller lights , first appearing as light orange turning to a greenish white and quickly flying by , this was at 0:41, again , we were amazed at what we saw, sitting for a few more minutes , and coming from the exact same location as the previous 3 , 6 lights , moving quickly and dancing around as the went past.We sat for a few more minutes and my girlfriend was visibly shaken and we went into the house and tried to go to sleep , but it was a restless night to say the least.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127197.html](http://www.nuforc.org/webreports/reports/127/S127197.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163103.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162943.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162917.html)
-- [285](http://www.nuforc.org/webreports/reports/162/S162927.html)
-- [284](http://www.nuforc.org/webreports/reports/164/S164142.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
