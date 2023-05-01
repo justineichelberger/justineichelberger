@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:34 on 1 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:24 on 1 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Santa Cruz (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Three rockets above Santa Cruz, no explanationI was laying flat on the ground looking up. I was on Coral Street in Santa Cruz.Three rockets, all brown in color, with  the shape of the new SpaceX rockets, flew from North to South across the sky in a period of two minutes. They were very clear but and seemed to be low to the ground but I heard no noise. They all left vapor trails that disappeared after twenty seconds. They all appeared the same but the color was very brown. It was strange because three came in a row, one right after the other and I've never seen a real rockets in the sky before. It was extremely odd. I've never seen these kind of rockets on tv or heard reports of rockets launching from Mountain View, Santa Clara before. I think that one rocket may have split the earth into three dimensions by launching them and that's maybe what I witnessed. I think we might be splitting the earth into multiple dimensions by traveling in height above the surface. Do we really know all the effects we are c! ausing in time and space with the act of traveling to space? I reported I saw an airplane fly into space and another thing I want to say is that I hear strange noises all the time above Santa Cruz that sound like space ships and how do we know if someone like Elon Musk is not running their own space fleet right now? Is space even monitored?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163269.html](http://www.nuforc.org/webreports/reports/163/S163269.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in St. Augustine (FL) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>to the west very bright diamond shape that moved very slowly multicolored visible for about half hour then faded away!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56557.html](http://www.nuforc.org/webreports/reports/056/S56557.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [542](http://www.nuforc.org/webreports/reports/162/S162925.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164365.html)
-- [540](http://www.nuforc.org/webreports/reports/162/S162920.html)
-- [539](http://www.nuforc.org/webreports/reports/162/S162923.html)
-- [538](http://www.nuforc.org/webreports/reports/162/S162902.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
