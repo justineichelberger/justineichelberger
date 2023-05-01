@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:24 on 1 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:26 on 1 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in St. Augustine (FL) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>to the west very bright diamond shape that moved very slowly multicolored visible for about half hour then faded away!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56557.html](http://www.nuforc.org/webreports/reports/056/S56557.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Owls Head (ME) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Must have been an alien satalite sent to scan our planet...doubtful it was a ship carrying actual aliensThe object moved east to west across the night sky. It had a red light at the end of each point. As it moved forward across the sky it was also flipping at a regular rate. As it moved across the sky a new point would flip into position and it continued to regularly flip and change its orientation all the way across the sky. I can say that i could see a very black body, with the help of the red light at each point. The object was much darker than the lighter star lit background. I was facing south, towards the ocean and looking up at the object about 65 or 70 degrees from the southern horizon. I hollared for my brother to come out side and see this. I'm not sure if he made it out there in time. I waited too long to come to my senses to get a witness, when it finally dawned on me i'm not sure if he made it in time but i'm sure i gave him a full description of the object.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43112.html](http://www.nuforc.org/webreports/reports/043/S43112.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [542](http://www.nuforc.org/webreports/reports/162/S162925.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164365.html)
-- [540](http://www.nuforc.org/webreports/reports/162/S162920.html)
-- [539](http://www.nuforc.org/webreports/reports/162/S162923.html)
-- [538](http://www.nuforc.org/webreports/reports/162/S162902.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
