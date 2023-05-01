@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:25 on 1 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:30 on 1 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A disk shape hovering over my apartment building in broad daylight in a busy city.This happened when I was 15 years old. My mother had taken me, my brother,my friend, and her roommate to get Kentucky Fried Chicken in her van. When we got back to the entrance of our apartment building (The Village of the Pines on 700 E. Peckham Ln.) my mother yelled, "look at that" and pulled off on the street (not entering the driveway) and we all got out and looked at this weird round thing hovering over the apartments. It seemed to me that the top 1/3 of the craft had windows and I remember trying to see if I could make out the shadows of the people(?) moving around inside. The bottom of the craft was lit up but did not seem to be bright (it was still daylight). There was a slight humming sound the whole time, then it went off over the back part of the apartment complex. It did not "zip" off, but seemed to be at a fairly regular plane speed. The strange thing is that the roommate and my brother immediately afterward claimed they didn't see a thing, even though I remember them wondering aloud as to what it might be. I have always personally thought that it might have been some kind of top secret aircraft of the US government. This apartment building is directly acrtoss a K-Mart, and is close to the airport. It was daylight on a busy street, and a few cars did stop, but I don't remember anyone else getting out.  I have never reported this sighting as it always seemed to weird. This incident did get me interested in the subject of UFO's but I have never seen a description like mine. This is the main reason why I think it may have been some kind of test craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15639.html](http://www.nuforc.org/webreports/reports/015/S15639.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Canton (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>A large black triangle with 3 lights was seen outside of Canton, Illinois on 5-1-06.I was driving home from work at approximately 10:15pm on May 1, 2006, when I noticed a large object that appeared to be hovering about 20 meters above the tree line north of  the road that I was driving on.  The object was very large; I would guess it to be about the size of a very large jumbo jet.  It was shaped like an isosceles triangle, with steady blue-white lights positioned at each of the points. The object seemed to be black in color and not extremely thick for its size, I would guess it to have been about 6-8 meters in thickness.  The most unusual characteristic of the object was a marked lack of engine noise.  I stopped the car, and got out to watch the object. I observed the object for about four minuets at about half a football field’s distance during which time the object slowly moved North East at seemingly moderate and steady pace, still without any real engine noise except a slight whirring noise.  I then returned to my car and went home unshaken by the experience but contemplating the unusualness of what I had just witnessed. As far as my background goes, I am a thirty year old male who works retail. I also have a teaching degree in history education from a four year university and work as a substitute teacher in the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50383.html](http://www.nuforc.org/webreports/reports/050/S50383.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [542](http://www.nuforc.org/webreports/reports/162/S162925.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164365.html)
-- [540](http://www.nuforc.org/webreports/reports/162/S162920.html)
-- [539](http://www.nuforc.org/webreports/reports/162/S162923.html)
-- [538](http://www.nuforc.org/webreports/reports/162/S162902.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
