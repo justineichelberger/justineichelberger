@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:46 on 1 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:26 on 1 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Covington (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Multi colored orbs in Covington, Pa week of May 1st.Sighting of 3 multicolored fast flashing balls of light.  They stayed completely still high above the tree line for about 2 hours the first sighting, 45 minutes  the second sighting 2 days later and have lasted anywhere from 15 – 45 minutes every night since, the original sighting was on May 1, 2013. They stay completely stationary and flash a sequence of red, green ,blue, yellow, and purple lights.  To the naked eye it looks almost like a disco ball, but with binoculars you can see them get brighter and darker as they move around in a circular pattern.  There have been 12 witnesses since the first sighting, as we have had neighbors, and other family members confirm what we have seen.We live in the flight path of many planes and satellites and know what they look like…these are unlike anything we have ever seen.  Is there anyone else locally that has seen something like this? We are dying to find out what they are.  We have tried capturing them on camera both with stills and with video, but they are just too high.  We would chalk it up to something random had they not appeared so suddenly, and then continued to appear night after night.  They seem to be in a perfect line over the mountain range behind us, and it’s the sudden appearance and then disappearance that has us stumped.  7 adults all over the age 35 and 5 teenage kids have been the witnesses, all of whom have never before been witness to anything like this before and would have found this hard to believe had they not witnessed it themselves.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97612.html](http://www.nuforc.org/webreports/reports/097/S97612.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Geneva (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Follow upI just entered a report, then continued to look at the website. I saw the main page, and at the bottom it says a blue fireball was seen on the east coast. I just wanted to add, that it looked exactly like that thing that is drawn on the picture someone provided. Creepy</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36646.html](http://www.nuforc.org/webreports/reports/036/S36646.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [542](http://www.nuforc.org/webreports/reports/162/S162925.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164365.html)
-- [540](http://www.nuforc.org/webreports/reports/162/S162920.html)
-- [539](http://www.nuforc.org/webreports/reports/162/S162923.html)
-- [538](http://www.nuforc.org/webreports/reports/162/S162902.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
