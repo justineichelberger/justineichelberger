@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 1 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:01 on 1 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Gimli (Canada) (MB) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0:49 - 0:49 minutes.</sub><blockquote><sub>Sighted a chevron or checkmark object with dull orange lights and spotted 9 more objects very soon afterward.It was 12:15 am May 01/16 and my girlfriend and myself had gone outside for a cigarette before retiring for the evening, we were sitting on the front step of our house, it was a very clear night, and we were commenting on the sky and she says there is a plane and it is going very fast, I said planes don't look fast in the sky and thought maybe the spacestation or satellite and stood up and looked and saw 4 orange lights go directly over our heads, in the form of a check mark, the lights would have been the size of a quarter held at arm's length, and the lights almost seemed obscured by cloud, but it was a clear night, and there was absolutely NO sound.We both looked at each other in amazement and asked "Did you see that !!??" We both acknowledged what we saw.We returned into the house and sat quietly for a few minutes , I then said we have to go back out , we out the back door and sat outside gazing at the sky.I should have mentioned the craft we saw at 0:15 was travelling south to north.Sitting in the back yard , gazing at the sky when I yelled "Look" , coming from the southwest going to the north , again right over head , 3 smaller lights , first appearing as light orange turning to a greenish white and quickly flying by , this was at 0:41, again , we were amazed at what we saw, sitting for a few more minutes , and coming from the exact same location as the previous 3 , 6 lights , moving quickly and dancing around as the went past.We sat for a few more minutes and my girlfriend was visibly shaken and we went into the house and tried to go to sleep , but it was a restless night to say the least.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127197.html](http://www.nuforc.org/webreports/reports/127/S127197.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Kuala Lumpur (Malaysia) () reported seeing craft that fit the description of some 'Egg' over a period of approximately 10-5 - 10-5 minutes.</sub><blockquote><sub>there laser-like egg objects shining laser at me for a whole nightthere were three egg shaped red ball like things flying over my condo minium on the night. im not so sure about the date so i wrote a different date and time... there were lights flashing on me as i woke up. when i looked out the light was flashong right at me like a laser. there stuffs in triangle like 1 at top and 2 at bottem were staying there. i closed me self under the blanket and hid. it was there till about 6.ooam. i did not have sleep. i was scared to get up no to shout. the next morning i told my parents what happened and they did not believe me. the light was red. my parents said i xcould have been dreaming. i remembered it to gay because im wantching UFO files on the british television. so i got uo and wrote up my story. im a 15 year old teenager so i wouldnt bother about this things normally. but i experienced myself and thats why im telling this. im not sure how many people are going to believe it. still my heart tells the truth</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37176.html](http://www.nuforc.org/webreports/reports/037/S37176.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [542](http://www.nuforc.org/webreports/reports/162/S162925.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164365.html)
-- [540](http://www.nuforc.org/webreports/reports/162/S162920.html)
-- [539](http://www.nuforc.org/webreports/reports/162/S162923.html)
-- [538](http://www.nuforc.org/webreports/reports/162/S162902.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
