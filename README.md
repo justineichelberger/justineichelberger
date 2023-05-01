@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:26 on 1 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:25 on 1 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Owls Head (ME) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Must have been an alien satalite sent to scan our planet...doubtful it was a ship carrying actual aliensThe object moved east to west across the night sky. It had a red light at the end of each point. As it moved forward across the sky it was also flipping at a regular rate. As it moved across the sky a new point would flip into position and it continued to regularly flip and change its orientation all the way across the sky. I can say that i could see a very black body, with the help of the red light at each point. The object was much darker than the lighter star lit background. I was facing south, towards the ocean and looking up at the object about 65 or 70 degrees from the southern horizon. I hollared for my brother to come out side and see this. I'm not sure if he made it out there in time. I waited too long to come to my senses to get a witness, when it finally dawned on me i'm not sure if he made it in time but i'm sure i gave him a full description of the object.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43112.html](http://www.nuforc.org/webreports/reports/043/S43112.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A disk shape hovering over my apartment building in broad daylight in a busy city.This happened when I was 15 years old. My mother had taken me, my brother,my friend, and her roommate to get Kentucky Fried Chicken in her van. When we got back to the entrance of our apartment building (The Village of the Pines on 700 E. Peckham Ln.) my mother yelled, "look at that" and pulled off on the street (not entering the driveway) and we all got out and looked at this weird round thing hovering over the apartments. It seemed to me that the top 1/3 of the craft had windows and I remember trying to see if I could make out the shadows of the people(?) moving around inside. The bottom of the craft was lit up but did not seem to be bright (it was still daylight). There was a slight humming sound the whole time, then it went off over the back part of the apartment complex. It did not "zip" off, but seemed to be at a fairly regular plane speed. The strange thing is that the roommate and my brother immediately afterward claimed they didn't see a thing, even though I remember them wondering aloud as to what it might be. I have always personally thought that it might have been some kind of top secret aircraft of the US government. This apartment building is directly acrtoss a K-Mart, and is close to the airport. It was daylight on a busy street, and a few cars did stop, but I don't remember anyone else getting out.  I have never reported this sighting as it always seemed to weird. This incident did get me interested in the subject of UFO's but I have never seen a description like mine. This is the main reason why I think it may have been some kind of test craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15639.html](http://www.nuforc.org/webreports/reports/015/S15639.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [542](http://www.nuforc.org/webreports/reports/162/S162925.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164365.html)
-- [540](http://www.nuforc.org/webreports/reports/162/S162920.html)
-- [539](http://www.nuforc.org/webreports/reports/162/S162923.html)
-- [538](http://www.nuforc.org/webreports/reports/162/S162902.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
