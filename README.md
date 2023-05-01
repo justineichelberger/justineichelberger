@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:39 on 1 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:34 on 1 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bognor Regis (UK/England) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Line of three lights over Bognor Regis, UK.I was outside the front door of my building, with my dog.  The sky was clear and the stars were visible. I looked up and, I guess, to the south and saw three lights, larger than the visible stars.  They were in a horizontal line.The middle of the three lights kept disappearing, as though it was hidden by the branches of the tree through which I could see the lights; however the branches were not moving as there was no wind.  I kept changing position to make sure that the middle light was not being obscured by branches or clouds.I stayed outside, watching the lights, for about 10 minutes.  The lights were still in formation, with the centre light disappearing and reappearing (intermittently, but not regularly), when I went back indoors.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127126.html](http://www.nuforc.org/webreports/reports/127/S127126.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Santa Cruz (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Three rockets above Santa Cruz, no explanationI was laying flat on the ground looking up. I was on Coral Street in Santa Cruz.Three rockets, all brown in color, with  the shape of the new SpaceX rockets, flew from North to South across the sky in a period of two minutes. They were very clear but and seemed to be low to the ground but I heard no noise. They all left vapor trails that disappeared after twenty seconds. They all appeared the same but the color was very brown. It was strange because three came in a row, one right after the other and I've never seen a real rockets in the sky before. It was extremely odd. I've never seen these kind of rockets on tv or heard reports of rockets launching from Mountain View, Santa Clara before. I think that one rocket may have split the earth into three dimensions by launching them and that's maybe what I witnessed. I think we might be splitting the earth into multiple dimensions by traveling in height above the surface. Do we really know all the effects we are c! ausing in time and space with the act of traveling to space? I reported I saw an airplane fly into space and another thing I want to say is that I hear strange noises all the time above Santa Cruz that sound like space ships and how do we know if someone like Elon Musk is not running their own space fleet right now? Is space even monitored?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163269.html](http://www.nuforc.org/webreports/reports/163/S163269.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [542](http://www.nuforc.org/webreports/reports/162/S162925.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164365.html)
-- [540](http://www.nuforc.org/webreports/reports/162/S162920.html)
-- [539](http://www.nuforc.org/webreports/reports/162/S162923.html)
-- [538](http://www.nuforc.org/webreports/reports/162/S162902.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
