@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:30 on 1 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:24 on 1 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Canton (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>A large black triangle with 3 lights was seen outside of Canton, Illinois on 5-1-06.I was driving home from work at approximately 10:15pm on May 1, 2006, when I noticed a large object that appeared to be hovering about 20 meters above the tree line north of  the road that I was driving on.  The object was very large; I would guess it to be about the size of a very large jumbo jet.  It was shaped like an isosceles triangle, with steady blue-white lights positioned at each of the points. The object seemed to be black in color and not extremely thick for its size, I would guess it to have been about 6-8 meters in thickness.  The most unusual characteristic of the object was a marked lack of engine noise.  I stopped the car, and got out to watch the object. I observed the object for about four minuets at about half a football field’s distance during which time the object slowly moved North East at seemingly moderate and steady pace, still without any real engine noise except a slight whirring noise.  I then returned to my car and went home unshaken by the experience but contemplating the unusualness of what I had just witnessed. As far as my background goes, I am a thirty year old male who works retail. I also have a teaching degree in history education from a four year university and work as a substitute teacher in the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50383.html](http://www.nuforc.org/webreports/reports/050/S50383.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Fullerton (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>To diamond objects move toward each other and then seem to collide separate and then stop movingWe were all in the backyard, Monday afternoon, and my friend told me that the moon looked beautiful in the blue sky so I looked up at the moon and noticed a star moving very rapidly North.  I assumed it was a satellite, or maybe the international space station, because it was reflecting light.  I pointed it out to my friend and then he told me there was another one coming towards it.  When they started heading towards each other very quickly he even exclaimed "oh my god they're going to hit each other."  The two bright star-like objects then spread apart many miles and stopped moving.  They were motionless for another five minutes, or so, but slowly getting dimmer and dimmer, until we could not differentiate them from the blue sky.  I was in my backyard and these objects were about 60° into the sky.  I was looking east Towards the moon that was lit up in the daylight sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133939.html](http://www.nuforc.org/webreports/reports/133/S133939.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [542](http://www.nuforc.org/webreports/reports/162/S162925.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164365.html)
-- [540](http://www.nuforc.org/webreports/reports/162/S162920.html)
-- [539](http://www.nuforc.org/webreports/reports/162/S162923.html)
-- [538](http://www.nuforc.org/webreports/reports/162/S162902.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
