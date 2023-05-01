@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:23 on 1 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:30 on 1 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Belmont (MS) reported seeing craft that fit the description of some 'Formation' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>4 flashing lights about 1/4 mile wide headed south then southwest over Belmont, Ms4 flashing lights at least 1/2 mile wide.  Could not determine altitude.  We're headed south, then changed to southwest.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109080.html](http://www.nuforc.org/webreports/reports/109/S109080.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Santa Cruz (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately Snapshot - Snapshot minutes.</sub><blockquote><sub>Sphere appears in the second of three consecutive photos, and then disappears.((NUFORC Note:  The witness submitted an addendum to the report, identifying the object.  PD))  Arrived at the beach around 10:30 am with a couple who’ve been friends for over 30 years, to meet with their daughter, her husband and two children.  We walked up and down the beach strolling the baby and when we got back, I sat on the towel under an umbrella and thought it would be cute to have a photo of their daughter in the foreground, with the grandparents walking with her older son.The first frame I took with my phone in portrait mode. I decided to flip to landscape mode for the next two shots. I didn't see anything in the frame when I took the shot, and there weren't any kites or balls flying through the air. The beach was not very crowded on a Thursday (May 1st).After I left Santa Cruz, drove to my next stop (Napa) and while I was getting fuel, I thought I’d review the photos I took in Santa Cruz. That’s when I noticed the sphere in the sky. I saw nothing like it that day at the beach, so I assume it is some anomaly with my digital software. Even so, I feel compelled to share the photo, because it is just too strange! I’m hoping you can debunk it or have an explanation that makes sense.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109145.html](http://www.nuforc.org/webreports/reports/109/S109145.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [542](http://www.nuforc.org/webreports/reports/162/S162925.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164365.html)
-- [540](http://www.nuforc.org/webreports/reports/162/S162920.html)
-- [539](http://www.nuforc.org/webreports/reports/162/S162923.html)
-- [538](http://www.nuforc.org/webreports/reports/162/S162902.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
