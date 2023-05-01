@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 1 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:25 on 1 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ponte Vedra Beach (FL) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Continues white light across, object disappeared in the air.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127135.html](http://www.nuforc.org/webreports/reports/127/S127135.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Wallace (NC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>In 2006, myself and a co-worker were on our way home.  When we turned on our road, I noticed a formation of lights over a set of trees.  I decided to ignore until the person I was with said, "Hey, do you see that".  So i took another glance and we stopped the truck.  What I saw seemed to be 3 lights in a wide triangle form going off in what seemed to be a pattern. After about 30 seconds, the lights darted what had to be miles across the sky at unknown speed.  After another 10 seconds of the lights going off, they darted across the sky again, this time out of sight.  I have tried to report this to MUFON but got the run around. What made me want to report this story was a documentary on the discover channel.  A man from Fayetteville, N,. (45mins away) from this sighting saw the same exact thing.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82592.html](http://www.nuforc.org/webreports/reports/082/S82592.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [542](http://www.nuforc.org/webreports/reports/162/S162925.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164365.html)
-- [540](http://www.nuforc.org/webreports/reports/162/S162920.html)
-- [539](http://www.nuforc.org/webreports/reports/162/S162923.html)
-- [538](http://www.nuforc.org/webreports/reports/162/S162902.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
