@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:25 on 2 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:27 on 2 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Metallic disc seen slowly tumbling over Venice Beach, CA heading north.I mistyped the date in an earlier submission of the same sighting. The actual date today, the date of the sighting, is May 2, 2004. My girlfriend and I observed a shiny metal disc slowly moving over the Venice Beach area of Los Angeles. It moved slowly in a sort of tumbling fasion, revealing itself to be round at times and then very thin - very much a disc or coin shape. The weather was clear and sunny, and the disc at times gave off a spectacular reflection. The object moved slowly inland and then north towards the Santa Monica mountains over the duration of about 45 minutes to an hour. We have no idea how long it had been around before we spotted it. We watched it until it disappeared out of sight. Just wanted to report it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36687.html](http://www.nuforc.org/webreports/reports/036/S36687.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Wilmington (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Orb like object flying low  over wilmington california night skyI was looking out my bedroom window at the clear night sky when out of nowhere there appeared an illuminated object very low very steady no sound no wings no propellars.It was at best discription, orb like.  Amazing and real...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75306.html](http://www.nuforc.org/webreports/reports/075/S75306.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162929.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163107.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163431.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162910.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162915.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
