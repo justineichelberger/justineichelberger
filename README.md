@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:30 on 2 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:32 on 2 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Honolulu (HI) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>It looked like several of rectangles connected in different LED like colors.  Such as red, green, blue etc.  Was floating above Waikiki area for like 3 seconds then vanished.  When it vanished I saw a a Star were it was.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145964.html](http://www.nuforc.org/webreports/reports/145/S145964.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pocahontas (AR) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>4 witnesses to an unexplained Ariel pursuit.U.F.O. spotted at approximately 21:30.  Event lasted from 21:30 - 22:30.  4 witnesses.  This spotting occurred in the vicinity of Randolph county, Arkansas, over the airport. The U.F.O.'s luminescence was between the brightness of a regular star and that of the space station seen in the late evening sky.  I spotted the object north of me with an airplane about the size of a small jetliner following its path east bound.  The plane followed the object back and forth repeatedly over the Pocahontas, Arkansas Municipal Airport.  From a side view the object appeared as a gliding light.  When the object exposed its front it appeared extremely bright with multiple lights, none of which were blinking, the outer lights being slightly dimmer.  During the objects last venture eastbound it appeared to have landed. The plane continued to circle its last known position as the object ventured south which was the last sighting.  The plane following its path landed.  Another plane seemed to have picked up where left off but landed shortly after one circle.((NUFORC Note:  We spoke via telephone with this witnes, and she seemed to us to be quite objective in her description of the object.  We suspect that she is a very good witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88765.html](http://www.nuforc.org/webreports/reports/088/S88765.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162929.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163107.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163431.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162910.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162915.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
