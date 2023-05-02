@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:29 on 1 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:35 on 2 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Palos Heights (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>bright orange ballHave captured it on video first I was sitting in my family room looking out the back window facing east approximately couple thousand feet up noticed a orange flash coming from the east thought it was a plane on fire called the wife she looked out the window then we went out on the deck and took a video there were two of them approximately half a mile apart all the sudden they look as if they were slow or stopped because I noticed another airplane flying very quickly underneath it may be 1000 foot below a good night believe my eyes when I seen!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156134.html](http://www.nuforc.org/webreports/reports/156/S156134.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Sparks (NV) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Linear formation of white dots flying at high speed North East towards Pyramid Lake over Spanish Springs.Approximately 21:30 began to see 2 circular lights over the East side of the Spanish Springs area. B oth objects were moving very quickly.  One object disappeared after a few seconds. The object following turned immediately back to a northwest heading.  Several minutes later a formation of lights began to appear from the South West area over Lemon Valley.  The lights appeared to be entering the area from a very high altitude and continued in a formation heading North East.  We counted 12 lights in a line formation much closer together than commercial aircraft would fly and a much higher altitude.  The lights would occasionally zig and zag along the same direction.  Other lights would occasionally light up very bright like a camera flash.  All the lights disappeared over the North towards Pyramid Lake area.  We were listen to Live ATC for Reno Tower and NorCal control, there was no, zero nada radio chatter at for any military flights passing through National airspace! control.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156162.html](http://www.nuforc.org/webreports/reports/156/S156162.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [542](http://www.nuforc.org/webreports/reports/162/S162925.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164365.html)
-- [540](http://www.nuforc.org/webreports/reports/162/S162920.html)
-- [539](http://www.nuforc.org/webreports/reports/162/S162923.html)
-- [538](http://www.nuforc.org/webreports/reports/162/S162902.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
