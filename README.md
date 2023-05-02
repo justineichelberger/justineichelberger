@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:27 on 2 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:52 on 2 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in New Berlin (WI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two fireballs Northern Wisconsin streak across night skyOne orange, flaming fireball crossed the sky to the North.  Within some time (10 minutes), a second fireball crossed the sky, in the same pathway.  It burnt out sooner than the first, which passed from one horizon to the other.  It was moving faster than any aircraft, had no flashing lights, maintained the same speed and brightness which was fire-like.  The sky was clear, stars were visible, behind the objects minimal clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118754.html](http://www.nuforc.org/webreports/reports/118/S118754.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Fertile (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Driving through the craft!!!I was traveling south on highway 102 on my way to Fertile, Minnesota.  As soon as I came the intersection to turn to highway 41.  I seen a object in the distance in the middle the highway about seven miles from me.  The object had two bright orb style lights that were very large.  As I approached the object the top of it started changing colors kind of like a jellyfish.  I then started to get very close to the object and realized the light did not make any reflection so irridescent.  Then preceded to drive under the object at about 30 mph.  As I passed under it I could see the outline of mass of the craft.  This was a very large ufo that did not make any noise which was very strange too me.  After i passed it on the highway it disapeared.  The next few day was extremely ill and could not hold any food down.  These resulted in me loosing 12 pounds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146002.html](http://www.nuforc.org/webreports/reports/146/S146002.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162929.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163107.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163431.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162910.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162915.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
