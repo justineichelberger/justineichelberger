@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:22 on 2 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:31 on 2 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Oswego (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange/ Yellow orb moving at a high rate of speed with no sound or trails behind itIt was 9:25 pm when I was hanging out in my garage working on my cars. when I was going to go to the bathroom outside and I saw the Large orange ball on the horizon.  I started recording video on my phone right away not knowing what I was seeing.  it was a large orange ball that seemed like it was on fire but was very bright orange/yellow and was changing colors from orange to yellow.  this event lasted around 2 min.  I have seen meteors before in my life and this I could not explain. I will send the video to your location along with maps and GPS coordinates where the UFO came from.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156327.html](http://www.nuforc.org/webreports/reports/156/S156327.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Honolulu (HI) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>It looked like several of rectangles connected in different LED like colors.  Such as red, green, blue etc.  Was floating above Waikiki area for like 3 seconds then vanished.  When it vanished I saw a a Star were it was.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145964.html](http://www.nuforc.org/webreports/reports/145/S145964.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162929.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163107.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163431.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162910.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162915.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
