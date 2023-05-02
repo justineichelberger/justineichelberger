@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:35 on 2 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:01:26 on 2 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Weston (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Bright sphere over Weston FLFor the last 3 days my husband and I have noticed a small stationary bright sphere in the sky above Weston Florida.Although it is more visible at night, we have also seen it early in the morning.  The sphere is a white bright light and has a smaller red flashing light.  At times, it splits into 2 orbs and then recomposes into the single orb.It seems too high to be a helicopter, blimp or a plane and it is not a planet.  The orb stays put at the same location for a long period of time and then moved a short distance west in a flash and again stayed at that location for a long period of time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69932.html](http://www.nuforc.org/webreports/reports/069/S69932.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Bend (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Silver disk over OregonI was with my friend on her front porch, with a clear view of the sky.  It was a semi-cloudy day, and we noticed a silver disk moving across the sky, very quickly. It was making a very unusual sound, which I can't describe very well.  We ran inside to get her mom, but by the time we made it back outside, it had disappeared.  We were very unsure of what it was, but were definitely sure it was not a plane or jet.  At the time we saw it, we had her radio playing, but when it appeared, the radio stopped playing, even though it was plugged in.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79431.html](http://www.nuforc.org/webreports/reports/079/S79431.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162929.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163107.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163431.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162910.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162915.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
