@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:53 on 2 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:13:48 on 2 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lakeland (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>Bright objects hovering over Lakeland, Florida near AuburndaleBetween 840 p.m. and 9:00 p.m. There were what looked like red white and blue stars....I think 4 of them or more.  One began flying across the sky and then just stopped and dimmed it's self and was still hovering there the last I looked.  As I was looking again when the mosquitoes died down;  An object came from nowhere it seemed, and flew across the sky and over my house lower than the air planes normally do.  It  had a very very bright yellow light on the front, it could have been an air plane.  It had a similar sound as an air plane, but didn't look like they normally do at all.  It looked like it had no wings and I have never seen a light that bright from an air plane ever before.  I couldn't see the shape it was dark but it looked a lot of blue lights on the back of it.  The only other witnesses were my 2 sons that are only ages 6 and 7, I tried to wake my husband to come and see, but I couldn't wake him :(   But I know what I saw was real.  Especially the one th! at stopped dead in it's tracks and sort of dimmed or went higher as if it elevated straight up while in a horizontal position.  and just hovered there.  That's why I do not know how man exactly I saw because they looked so much like the stars only bigger and with markable red and blue light coming from them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81089.html](http://www.nuforc.org/webreports/reports/081/S81089.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Peoria (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>At first it was noticed when a plane flew by. Then after the plane was gone we noticed a flashing light that appeard to be moving back and forth. Of course nothing was thought of it until it stayed in the same spot. There were colors that were flashing from it. They were in a pattern of red, blue, then yellow or white. Again this object kept moving side to side. I ran and got my cam corder and was able to capture this on film. It started becoming smaller and withen minutes was just gone. I am not saying that I witnessed a UFO but I know it was no aircraft that our goverment lets us know they have the technology for. If any one can help us clarify this it would be greatly appreciated. Also, during the time I was recording this, my husband was taking pictures with our digital camera at the sky; just to see if any thing would show up. These pictures are remarkable and they, as well, are not of any pictures I have ever seen. Thank you for tacking the time to read this. I hope youcan help us understand.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36701.html](http://www.nuforc.org/webreports/reports/036/S36701.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162929.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163107.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163431.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162910.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162915.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
