@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:35 on 2 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:53 on 2 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Sparks (NV) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Linear formation of white dots flying at high speed North East towards Pyramid Lake over Spanish Springs.Approximately 21:30 began to see 2 circular lights over the East side of the Spanish Springs area. B oth objects were moving very quickly.  One object disappeared after a few seconds. The object following turned immediately back to a northwest heading.  Several minutes later a formation of lights began to appear from the South West area over Lemon Valley.  The lights appeared to be entering the area from a very high altitude and continued in a formation heading North East.  We counted 12 lights in a line formation much closer together than commercial aircraft would fly and a much higher altitude.  The lights would occasionally zig and zag along the same direction.  Other lights would occasionally light up very bright like a camera flash.  All the lights disappeared over the North towards Pyramid Lake area.  We were listen to Live ATC for Reno Tower and NorCal control, there was no, zero nada radio chatter at for any military flights passing through National airspace! control.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156162.html](http://www.nuforc.org/webreports/reports/156/S156162.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lakeland (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>Bright objects hovering over Lakeland, Florida near AuburndaleBetween 840 p.m. and 9:00 p.m. There were what looked like red white and blue stars....I think 4 of them or more.  One began flying across the sky and then just stopped and dimmed it's self and was still hovering there the last I looked.  As I was looking again when the mosquitoes died down;  An object came from nowhere it seemed, and flew across the sky and over my house lower than the air planes normally do.  It  had a very very bright yellow light on the front, it could have been an air plane.  It had a similar sound as an air plane, but didn't look like they normally do at all.  It looked like it had no wings and I have never seen a light that bright from an air plane ever before.  I couldn't see the shape it was dark but it looked a lot of blue lights on the back of it.  The only other witnesses were my 2 sons that are only ages 6 and 7, I tried to wake my husband to come and see, but I couldn't wake him :(   But I know what I saw was real.  Especially the one th! at stopped dead in it's tracks and sort of dimmed or went higher as if it elevated straight up while in a horizontal position.  and just hovered there.  That's why I do not know how man exactly I saw because they looked so much like the stars only bigger and with markable red and blue light coming from them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81089.html](http://www.nuforc.org/webreports/reports/081/S81089.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162929.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163107.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163431.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162910.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162915.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
