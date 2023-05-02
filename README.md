@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:32 on 2 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:28 on 2 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pocahontas (AR) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>4 witnesses to an unexplained Ariel pursuit.U.F.O. spotted at approximately 21:30.  Event lasted from 21:30 - 22:30.  4 witnesses.  This spotting occurred in the vicinity of Randolph county, Arkansas, over the airport. The U.F.O.'s luminescence was between the brightness of a regular star and that of the space station seen in the late evening sky.  I spotted the object north of me with an airplane about the size of a small jetliner following its path east bound.  The plane followed the object back and forth repeatedly over the Pocahontas, Arkansas Municipal Airport.  From a side view the object appeared as a gliding light.  When the object exposed its front it appeared extremely bright with multiple lights, none of which were blinking, the outer lights being slightly dimmer.  During the objects last venture eastbound it appeared to have landed. The plane continued to circle its last known position as the object ventured south which was the last sighting.  The plane following its path landed.  Another plane seemed to have picked up where left off but landed shortly after one circle.((NUFORC Note:  We spoke via telephone with this witnes, and she seemed to us to be quite objective in her description of the object.  We suspect that she is a very good witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88765.html](http://www.nuforc.org/webreports/reports/088/S88765.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Naperville (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Spotted six, meteor-like objects in strange flight pattern half hour after sundown around the moon.My daughter and I were star gazing and hoping to catch a meteor.  Thirty minutes past sundown, my daughter catches a glimpse of what looks to be a possible meteor. We noticed five other lights hovering between the moon and Earth almost surrounding the moon and dancing around it like electrons around an atom.We were excited and amazed then scared.  They continued to make strange flight patterns moving diagonally like the path electrons take. Suddenly, a very bright, white cloud started to cover the moon and part of the sky blocking our vision of a continued dance or flight pattern.The clouds continued to roll in and we no longer saw the lights.  Only the moon on one side, Sirius on the other, and the Big Dipper.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156156.html](http://www.nuforc.org/webreports/reports/156/S156156.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162929.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163107.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163431.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162910.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162915.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
