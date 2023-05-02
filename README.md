@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:52 on 2 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:20 on 2 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Fertile (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Driving through the craft!!!I was traveling south on highway 102 on my way to Fertile, Minnesota.  As soon as I came the intersection to turn to highway 41.  I seen a object in the distance in the middle the highway about seven miles from me.  The object had two bright orb style lights that were very large.  As I approached the object the top of it started changing colors kind of like a jellyfish.  I then started to get very close to the object and realized the light did not make any reflection so irridescent.  Then preceded to drive under the object at about 30 mph.  As I passed under it I could see the outline of mass of the craft.  This was a very large ufo that did not make any noise which was very strange too me.  After i passed it on the highway it disapeared.  The next few day was extremely ill and could not hold any food down.  These resulted in me loosing 12 pounds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146002.html](http://www.nuforc.org/webreports/reports/146/S146002.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Orange Park (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Low Frequency makes house feel as though it would implode.We were asleep and heard what we thought was a plane flying overhead.Slowly, a low frequency began to sound.  We (my wife and I) thought it was a low flying plane. The sound began to get louder and louder until we thought our windows were going to implode from the low frequency sound.  After about a minute the sound stopped and everything in the backyard (see below)there was an abnormal silence.During the incident the backyard became very dark (this was odd as the moon was a few days past full) and the nightlife was completely still.  No crickets, no other insects were making the usual noise.  We are close to two large bodies of water.Our dogs and cat did not move during this entire episode.My wife believed the incident began at 03:30, however it began at 02:37, as the clock is closest to me and the numbers are large enough to see without wearing corrective lens.I am not certain if this was an abduction as we both do not remember anything from 02:37 to 03:30.  Needless to say my nature makes me skeptical, but this experience was mind-boggling and frightening all at once.  The loss of time cannot be confirmed with any certainty.  There may have been aircraft in pursuit, but if so they missed the object.Has anyone else had this type of experience?((NUFORC Note:  Source of report indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110332.html](http://www.nuforc.org/webreports/reports/110/S110332.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162929.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163107.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163431.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162910.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162915.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
