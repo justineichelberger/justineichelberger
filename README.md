@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:27 on 3 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:25 on 3 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Loveland (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>I seen two objects dancing high in the sky... they were spinning and moving in an odd way that was not normal movements for an air craft of any kind.  After about two and a half mins. They parted and one went SW and the other went NE and at the same time they were getting higher and higher then gone... just disappeared. I have seen sightings periodically throughout my life but no witnesses to believe me. I wish I was lying but hard to unsee what you've seen.((NUFORC Note:  Source of the report elects to remain anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133948.html](http://www.nuforc.org/webreports/reports/133/S133948.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Galesburg (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>About 10 white dots flying at the same speed overhead, in a triangular formation.It started with someone seeing it out in my front yard, and then notifying me to come look.  When I went outside, there was about 10 flying objects in the shape of a circle with no flashing lights, and a white light in the middle.  Most of them were flying north-east, but I spotted one heading south-east.  They were all flying at the exact same speed and appeared out of no where.  Three were flying in a triangle like formation, while others were following behind the formation.  They had no sound. It was sort of cloudy, but they were able to be seen with no squinting of the eye.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156220.html](http://www.nuforc.org/webreports/reports/156/S156220.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
