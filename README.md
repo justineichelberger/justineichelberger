@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:59 on 3 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:13:16 on 3 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Kernersville/Colfax area (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>This is a small light that appears in one spot each night that changes different colors.Hello,  I’d like to report a strange object that changes colors in the sky each night.  This object is always in the same spot or a few inches off only sometimes. It will appear usually between 9:30pm-10:00pm eastern.My friends and I have watched this over the past few weeks. It will be completely dark in the same area right before the time and then it will slowly come about. It changes from blue, red, green and sometimes a bright white. When planes pass above it usually becomes dim and comes back to being bright.I was unsure of how to let someone know about this, but would like to know just what it is. We know it is not a star or a planet and not a satellite. Can someone help us know what this may be?((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))((NUFORC Note:  Sighting of star or planet?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88772.html](http://www.nuforc.org/webreports/reports/088/S88772.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Silver Creek (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Helicopter and unidentified lights in skyHelicopter heard while we were inside house. I kept hearing this helicopter over and over and I went outside to look. I saw three different small round lights moving in a uniform direction, one after the other. They appeared to be at a very high altitude compared to the helicopters altitude. These objects moved in a straight path then faded and reappeared once. Finally they disappeared completley. No sound was heard other than the helicopter. Im convinced the helicopter was investigating these objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56538.html](http://www.nuforc.org/webreports/reports/056/S56538.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
