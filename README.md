@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:36 on 3 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:29 on 3 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Rochesster (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I looked up to see a bright white light moving from West to East.The light was traveling in the distance between a group of trees that was in my line of sight in my back yard.As I watched the light pass behind the last tree it looked to be heading away from me, turning North .Once the first light i saw passed and was moving away a second light appeared in the same location as the first and moving in the same direction.This continued for around 10 minutes, it seemed.I watched about 4 go by before I went inside and grabbed my phone to try and record it. During my recording (which didn't come out very well) I watched around 8-10 more pass by. At least a dozen if not more in total.No blinking lights just a bright white light and was brighter than any star or planet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156779.html](http://www.nuforc.org/webreports/reports/156/S156779.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Hawthorne (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>My wife and I were sitting on my porch and I noticed what looked like a light in the distance.  It was hovering and moving in different directions.  its directional patterns changed quickly and drastically then stopped and hovered.  it seemed to have disappeared then re appeared again and made a quick b line movement toward the horizon where it stopped, hovered, then came back towards us for a few seconds then zipped off to the horizon and it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156203.html](http://www.nuforc.org/webreports/reports/156/S156203.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
