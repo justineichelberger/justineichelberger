@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:31 on 3 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:10 on 3 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in London (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>The sky was clear and this large objet was just hoveringAt 22:00 i emptied my rubbish, looked up an i see a large round bright objet which i was quite shocked so i went and got my video cam and started filming it which then it seam to know that i was there and started darting from side to side and round and round it seamed to come towards me dance around a bit more before it completely disappeared. I still have the footage of what i took that night if any body would like to take a look.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41747.html](http://www.nuforc.org/webreports/reports/041/S41747.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Markham (IL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>White object travels through morning sky.There was only one white spot in the sky.  From the distance from earth that it was at it was no larger then a pencil eraser.  I figure there is no way that it could be a plane cause first it was to high and a plane would have left an exhaust trail that high in the air.  It was a small cigar shaped object that from where I was it was moving south in the early morning.  It was a clear sky with a few clouds and it moved slowly as it passed overhead.  Then it was to far to make out anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28657.html](http://www.nuforc.org/webreports/reports/028/S28657.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
