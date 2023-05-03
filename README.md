@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:28 on 3 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:27 on 3 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Crescent City (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Large, bright object straight up and very high could be seen for 1/2 hour never moving until covered by clouds.I cannot tell you the shape of the object because it was extremely high. My husband called me to come outside.  When I went out he said "look up".   When I looked up it took me a moment to find it and then I saw an extremely bright roundish object way up high in the sky.  At first I thought it was a balloon but it was VERY windy and it never moved.  It stayed in the same place for as long as we watched it, about 1/2 an hour until the clouds covered it up.  It was VERY bright and stationary and when I looked for it the next day it was gone.  Was there anything in the sky during daylight that day that we might have seen?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109208.html](http://www.nuforc.org/webreports/reports/109/S109208.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Loveland (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>I seen two objects dancing high in the sky... they were spinning and moving in an odd way that was not normal movements for an air craft of any kind.  After about two and a half mins. They parted and one went SW and the other went NE and at the same time they were getting higher and higher then gone... just disappeared. I have seen sightings periodically throughout my life but no witnesses to believe me. I wish I was lying but hard to unsee what you've seen.((NUFORC Note:  Source of the report elects to remain anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133948.html](http://www.nuforc.org/webreports/reports/133/S133948.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
