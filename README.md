@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:32 on 3 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 3 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Troy (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>I woke to a dim green light a misshapen peanut  looking UFO in the sky and saw it once more a few days later.I wokeup to a dim green light outside my window. I drew back the curtains to see what it was ,and saw a strange shape in the sky it looked like a misshaped peanut. I stared at it for about five minutes and it started getting closer then suddenly it seemed to stop and hover and then it just streched and dissapered. I saw the same one, or what looked like the same one around 3:00 A.M. This time it stayed for about fifteen minutes then once more it streched and dissapered. I never saw it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44655.html](http://www.nuforc.org/webreports/reports/044/S44655.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>streaking firey massI'm a retired city fireman and forest ranger who served his time in a firetower.  While walking my dog on the evening on Sunday, May 3rd, something bright caught my eye in the NW sky.  At first I observed what I thought was fireworks returning to the ground, but I quickly realized that this was way too big for that.  I witnessed a firey mass streaking to earth.  The mass was multicolored with an extremely long tail.  As it traveled straight down very fast, colorful spark-like pieces were released.  The colors were green, red and yellow and were florescent.  It was quite the sight and was about 3 seconds in duration.It kept traveling straight to earth so low it appeared it was going to crash, unfortunately it disappeared behind some trees... again, very low.As a 12 year boy I witnesses a similar object (same color scheme) but it was traveling horizontally and I believed it turned out to be a meteoite I believe.I never witnessed space junk returning to earth, but I would be willing to bet it looks like my sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118812.html](http://www.nuforc.org/webreports/reports/118/S118812.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
