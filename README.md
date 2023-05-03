@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:21 on 3 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 3 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in North Manchester (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Unknown LightAt about 22:10 I stepped out on the back porch to view the stars, and immediatley noted a Brilliant Flash from above, there was no aircraft Noise or Running lights, at first I thought maybe a Metorite, then a few seconds latter while looking at the stars, another Flash occured, and detected movement briefly, then it was gone, about thirty second then another flash and brief movement, and it was gone, I lost track at about 22:13.  The sky was clear and Brilliant with stars, other Aircraft were noted, but none traveling from North to South as the Unknown was. The Difference was clear between this object and other Aircraft in the area.((NUFORC Note:  Possible tumbling rocket booster in orbit??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56520.html](http://www.nuforc.org/webreports/reports/056/S56520.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Owensboro (KY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Large, silent fireball speeding toward earth at an angle until I loose sight of it when it went behind some distant trees.I was driving home from a late movie.  It was me and my 7 year old daughter.  She wasn't looking in the same direction as me, so she didn't see it.  If I would have blinked, I wouldn't have seen it either.  It lasted only a split second.  I saw a large fire ball with a long flaming tail trailing off the end, zooming toward the earth at about a 60 degree angle.  It was silent, and I lost sight of it when it went down behind some trees in the distance.  I've never seen anything like it before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127166.html](http://www.nuforc.org/webreports/reports/127/S127166.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
