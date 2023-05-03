@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:32 on 3 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:59 on 3 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Amery (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately hours - hours minutes.</sub><blockquote><sub>Lights thought to be satellites making impossible movementsI just got off work and was smoking in the dark in the back yard. It was extremely clear last night. I always watch for satellites.  It's a fun thing I like to do. I noticed a satellite coming from roughly north north west moving south south east.  As it was coming by I noticed another going the opposite direction.  This is when it got weird.  The second satellite slowed down, I could actually see it swoop around and tail the other back.  Then both satellites stopped mid air at stand off distances from each other.  I woke up my girlfriend after I found out my camera will not take night video or photo.  I thouhgt it may be helicopters but I could hear no rotor chop and a helicopter at the altitude they appeared to be at??  I don't think so.  Also Harrier jets cannot hover very long before there engines overheat.  Very strange.  Even more strange is the one further north didn't move hardly at all after it stopped but the one further south kept on swooping around and stopping and hovering, like it was taunting the other.  Finally I had to go to bed but this went on for an hour before I went inside.  I assume it kept going on after I went in.  Frickin weird.  Do you guys have an idea what we seen in the sky last night??</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81116.html](http://www.nuforc.org/webreports/reports/081/S81116.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Kernersville/Colfax area (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>This is a small light that appears in one spot each night that changes different colors.Hello,  I’d like to report a strange object that changes colors in the sky each night.  This object is always in the same spot or a few inches off only sometimes. It will appear usually between 9:30pm-10:00pm eastern.My friends and I have watched this over the past few weeks. It will be completely dark in the same area right before the time and then it will slowly come about. It changes from blue, red, green and sometimes a bright white. When planes pass above it usually becomes dim and comes back to being bright.I was unsure of how to let someone know about this, but would like to know just what it is. We know it is not a star or a planet and not a satellite. Can someone help us know what this may be?((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))((NUFORC Note:  Sighting of star or planet?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88772.html](http://www.nuforc.org/webreports/reports/088/S88772.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
