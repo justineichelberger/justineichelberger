@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:27 on 3 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:31 on 3 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Solon (OH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large dark soundless craft  - white lights - criss-crossed shapes on bottom - low flyingWriting this in third person for a friend who wishes to remain anonymous.She woke up from a sound sleep next to her husband because she thought she had heard a noise.  When she looked out the window, she saw what she initially thought was a large black cloud passing over the house from the trees in the backyard.  Quickly she realized that it was not a cloud, and had white light coming from it.  e bottom looked a bit like the crosses in an apple-pie crust.  She was so terrified that she couldn't move, and couldn't turn to her husband to wake him.  It slowly drifted over the house, and was completely soundless.  She remembers clearly asking herself if she was asleep, and came up with a definite "no".She seemed to have no definite ending to the story... The next thing she knew it was the next day.  This event is scarily reminiscent of the account listed on http://www.nuforc.org/webreports/005/S05815.html((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43806.html](http://www.nuforc.org/webreports/reports/043/S43806.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I was standing outside of a friends house. Looking above a house on the horizon. In the sky I saw a light which resembled a star. It was a very small light and seemed to have a greenish color to it. I remembered thinking why is it green. Just then the light dashed in a downward movement or a movement similiar to something moving in the opposite direction of me. And it disappeared.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22932.html](http://www.nuforc.org/webreports/reports/022/S22932.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
