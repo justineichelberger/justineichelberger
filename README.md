@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:29 on 2 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:32 on 3 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in North Phoenix (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately  -  minutes.</sub><blockquote><sub>This is a note for PD and/or whom is responsible for posting these reports.  I entered a report earlier today (10 MAY 12) yet realized I had entered the event time as 8:20.  It should have been 20:20, as in 8:20pm. I apologize for the inconvenience.  Hopefully I've provided you with enough information to be able to match this note with the original report.  Feel free to contact me by email if you have any further questions.Thanks for your work.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88886.html](http://www.nuforc.org/webreports/reports/088/S88886.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Amery (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately hours - hours minutes.</sub><blockquote><sub>Lights thought to be satellites making impossible movementsI just got off work and was smoking in the dark in the back yard. It was extremely clear last night. I always watch for satellites.  It's a fun thing I like to do. I noticed a satellite coming from roughly north north west moving south south east.  As it was coming by I noticed another going the opposite direction.  This is when it got weird.  The second satellite slowed down, I could actually see it swoop around and tail the other back.  Then both satellites stopped mid air at stand off distances from each other.  I woke up my girlfriend after I found out my camera will not take night video or photo.  I thouhgt it may be helicopters but I could hear no rotor chop and a helicopter at the altitude they appeared to be at??  I don't think so.  Also Harrier jets cannot hover very long before there engines overheat.  Very strange.  Even more strange is the one further north didn't move hardly at all after it stopped but the one further south kept on swooping around and stopping and hovering, like it was taunting the other.  Finally I had to go to bed but this went on for an hour before I went inside.  I assume it kept going on after I went in.  Frickin weird.  Do you guys have an idea what we seen in the sky last night??</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81116.html](http://www.nuforc.org/webreports/reports/081/S81116.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162929.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163107.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163431.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162910.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162915.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
