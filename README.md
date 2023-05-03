@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:34 on 3 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:32 on 3 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Mount Vernon (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Today, out on the deck while listening to a podcast and watching the sky, I happen to notice a small object hovering over a neighbor's house.  At first glance, it appeared to be a giant bug or a bird at first, but I soon realized it was too high in the air and was perfectly stationary.  The object hovered above this house for about ten minutes or so before it started moving almost in a zig-zag rather quickly before it flew out of visual at a very high rate of speed.However, the object returned as fast as it had left, but appeared over a different house. It repeated this action quite a few times.  This went on for a good hour to an hour and a half before it finally left the area.  I'm not sure what it was doing, but if I had to guess it was collecting intell.The object was about the size of a softball at about a thousand feet. It was dark in color and had no identifying lights.  There was no sound or noise of any kind coming from the object.  The weather was calm with a wind speed of 5 mph and frequent gusts of 17 mph with a visibility of 10.00 miles.  There were some high-altitude clouds in the area, but none to obstruct the view of the object.  Weather history information provided through Weather Underground.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118795.html](http://www.nuforc.org/webreports/reports/118/S118795.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Troy (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>I woke to a dim green light a misshapen peanut  looking UFO in the sky and saw it once more a few days later.I wokeup to a dim green light outside my window. I drew back the curtains to see what it was ,and saw a strange shape in the sky it looked like a misshaped peanut. I stared at it for about five minutes and it started getting closer then suddenly it seemed to stop and hover and then it just streched and dissapered. I saw the same one, or what looked like the same one around 3:00 A.M. This time it stayed for about fifteen minutes then once more it streched and dissapered. I never saw it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44655.html](http://www.nuforc.org/webreports/reports/044/S44655.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
