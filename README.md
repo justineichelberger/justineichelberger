@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:34 on 3 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:25 on 3 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Owensboro (KY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Large, silent fireball speeding toward earth at an angle until I loose sight of it when it went behind some distant trees.I was driving home from a late movie.  It was me and my 7 year old daughter.  She wasn't looking in the same direction as me, so she didn't see it.  If I would have blinked, I wouldn't have seen it either.  It lasted only a split second.  I saw a large fire ball with a long flaming tail trailing off the end, zooming toward the earth at about a 60 degree angle.  It was silent, and I lost sight of it when it went down behind some trees in the distance.  I've never seen anything like it before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127166.html](http://www.nuforc.org/webreports/reports/127/S127166.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Madras (OR) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Blue flashing light (Basket ball) sized.  Fast Mover.I was traveling north on hwy 97 approximately 5-6 mile north of Madras, Oregon 4:30 AM.  In the distance I could see a blue flashing light in the road ahead.  It appeared to be about a half a mile (I guess) ahead of me and not moving.  The weather was high overcast and dry.  My first reaction was, it was a police car.  I began to slow down and as I approached, the light began to move away from me at a speed about double of my speed.  I was moving about 65 mph.  It was moving so fast I was trying to figure out how it could be a car.  The light still flashing at the same rate turned +/- 90 degrees and moved west into a very large irrigated field.  My guess it was 5 -10 feet off the ground and did not move up or down.  It looked to be about the size of a basketball.  Again it was dark and I did not have any references to compare it to.  It traveled out what appeared to be about a 1/8 - 1/4 mile and turned south now going the opposite direction I was moving.  I followed it visually the best I could.  After it passed my sideways field of view I began to watch it in my mirror.  It went past me a little further (hard to tell how far in the dark and I was still moving fairly fast).  It looked like it turned 90 degrees again and came back to the road.  The light looked as thought it came up behind me and I lost sight of it.  I did not see any residual light flashing around my vehicle.  Again it happened very fast (30 seconds +/-) and I was watching the road at the same time this was all going on.  I was driving a 2005 Ford pickup.  The exterior mirrors are large and it also has an interior mirror.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70356.html](http://www.nuforc.org/webreports/reports/070/S70356.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
