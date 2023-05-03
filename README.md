@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:32 on 3 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:28 on 3 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Mission Viejo (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>2 Large orange orbs sighted from Mission Viejo, CAWe live in a tri-level, with our bedroom on the second story.  We were upstairs getting in to bed, our room was dark, other than the TV and out our window I notice two large round orange spheres coming from the east (Palm Springs), heading directly to us (ocean is 7 miles west of us).  We watched them for approximately 2 minutes – they were staying on a level course with no flashing or blinking lights, just a steady orange glow, and kept the same distance from each other.   Our window was open and we did not hear any motor noise at all.We watched the two spheres approach in the lower night sky, then go out of view over our house.   We ran out to our front yard and continued to watch them both head northwest.  The first one disappeared and soon after the second one dimmed, and then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97598.html](http://www.nuforc.org/webreports/reports/097/S97598.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Crescent City (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Large, bright object straight up and very high could be seen for 1/2 hour never moving until covered by clouds.I cannot tell you the shape of the object because it was extremely high. My husband called me to come outside.  When I went out he said "look up".   When I looked up it took me a moment to find it and then I saw an extremely bright roundish object way up high in the sky.  At first I thought it was a balloon but it was VERY windy and it never moved.  It stayed in the same place for as long as we watched it, about 1/2 an hour until the clouds covered it up.  It was VERY bright and stationary and when I looked for it the next day it was gone.  Was there anything in the sky during daylight that day that we might have seen?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109208.html](http://www.nuforc.org/webreports/reports/109/S109208.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
