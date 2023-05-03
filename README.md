@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:33 on 3 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:26 on 3 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>streaking firey massI'm a retired city fireman and forest ranger who served his time in a firetower.  While walking my dog on the evening on Sunday, May 3rd, something bright caught my eye in the NW sky.  At first I observed what I thought was fireworks returning to the ground, but I quickly realized that this was way too big for that.  I witnessed a firey mass streaking to earth.  The mass was multicolored with an extremely long tail.  As it traveled straight down very fast, colorful spark-like pieces were released.  The colors were green, red and yellow and were florescent.  It was quite the sight and was about 3 seconds in duration.It kept traveling straight to earth so low it appeared it was going to crash, unfortunately it disappeared behind some trees... again, very low.As a 12 year boy I witnesses a similar object (same color scheme) but it was traveling horizontally and I believed it turned out to be a meteoite I believe.I never witnessed space junk returning to earth, but I would be willing to bet it looks like my sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118812.html](http://www.nuforc.org/webreports/reports/118/S118812.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Venice (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>Walking out the door going to my car get ready for work.  I look up at the sky and see this Orange Fireball.  First O.M.G. Aircraft is on Fire.  As I look for the Navigation light,  No light?  Orange Fireball was moving from SouthEast to SouthWest and Disappeared over the Pacific ocean</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97527.html](http://www.nuforc.org/webreports/reports/097/S97527.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163020.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162932.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162980.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163006.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163432.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
