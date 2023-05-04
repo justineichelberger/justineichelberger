@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:47 on 4 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:13:04 on 4 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Centerville (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>pulsing blue light with irratic movementI saw an indigo blue light that was pulsing. I saw One green light, and one regular incandescent light. It did not move in the form of a plane or a helicopter. It was twirling and tumbling on it's axis. It appeared to be "triad" in architecture. It would move from left to right, in & out, light intensity varying. It dipped below, from my point of view below tree line, once, it reappeared in a diagonal rising fashion, then dipped below once gain not to be seen again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43817.html](http://www.nuforc.org/webreports/reports/043/S43817.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Wisconsin Rapids (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange circular light silently floating across the sky.An orange circular light steadily floating across the sky above the houses after dark.  Heading west to east.  No sound was heard, but looked to be close above.((NUFORC Note:  Video is provided by the witness, but it is out of focus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145968.html](http://www.nuforc.org/webreports/reports/145/S145968.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
