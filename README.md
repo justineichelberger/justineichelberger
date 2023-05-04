@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:39 on 4 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:33 on 4 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Townsville (Australia) () reported seeing craft that fit the description of some 'Other' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Strange, motionless, flickering coloured lights over townsville australia.Tonight we saw very bright red, green and white alternatively flickering lights in the sky. This hovered in the same area for around 25mins and then dissapeared.(there are mountains around this area). At first i thought it might have been an aircraft but this thing just wasn't moveing. The sky is very clear and this thing was clearly visible. we were both struggling to understand what this thing was, so we telephoned a friend of ours that lives up the road to go out side to have a look too. We all come to the conclusion that it was extreemly strange as none of us has ever seen anything like it ever before!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43799.html](http://www.nuforc.org/webreports/reports/043/S43799.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in New Richmond (WI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 75.0 - 75.0 minutes.</sub><blockquote><sub>A saucer shaped object with changing colored light remained in one position in the sky for over an hour.I saw this same object when living in Texas. I was outside on my padio enjoying a beautiful starry night. I noticed a bright light in the east that was different than the stars so I went inside and got my binoculars. When I looked through them I could see what appeared to be a saucer shape with lights of different colors. At first I thought it was an airplane, but it remained in the same spot for the hour and fifteen minutes that I watched it.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69930.html](http://www.nuforc.org/webreports/reports/069/S69930.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
