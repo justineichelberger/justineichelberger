@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:13:04 on 4 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:24 on 4 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Wisconsin Rapids (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange circular light silently floating across the sky.An orange circular light steadily floating across the sky above the houses after dark.  Heading west to east.  No sound was heard, but looked to be close above.((NUFORC Note:  Video is provided by the witness, but it is out of focus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145968.html](http://www.nuforc.org/webreports/reports/145/S145968.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in McFall (MO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I saw an orange sphere, or fireball, low to the ground at the same time another carrier saw it 100miles away.I was driving south on a private gravel road, which went slightly downhill, and at the actual drive to the house, went uphill slightly. As I threw their newspaper, which I am a carrier, I noticed the full moon right in front of me, up at about a 60 degree angle. A band of light wispy clouds were around it and to the left was a small patch of cumulus clouds there were being highly reflective from the moonlight. Below this was totally clear sky, a medium to bright blue since it was a full moon. I had just put the car in reverse to back out of there and this bright orange sphere flew from left to right in front of me and then disappeared within 3 seconds. It flew parallel to the ground in an absolute straight line and looked to be within tree top height since I could see the treeline behind it. I estimated it to be within 50ft off the ground and looked to be small in diameter. At that time, I was on the phone with another carrier who was approx a 100 miles from me and I made an exclamation of what the "F" was that, and he said, "I don't know but I just saw a shooting star." I told him that I saw the same thing, only low to the ground and straight as an arrow, no arc or variance from that straight line. He expressed the same thing that it was only maybe 30-35 ft off the ground. He said he saw a round orange fireball looking thing and that it was small. The sighting was totally instantaneous but yet we were approx 100 miles apart with him being in Clinton County at the time. I don't know what we saw, I only know that we saw it at the same exact time and it scared both of us to know end. We're both out throwing papers way out into the country where houses are miles apart, so there's no major city lighting to interfere with this. I was at a house when I saw it but he has only 1 pole light in the yard that was to my left. I presume that this was some kind of fireball, maybe 5 inches or so in diameter, very small, but yet below treetop height.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36717.html](http://www.nuforc.org/webreports/reports/036/S36717.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
