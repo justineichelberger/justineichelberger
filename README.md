@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:34 on 4 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:23 on 4 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Memphis (TN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Between 4-6 dim, orange lights, traveling NNW-SSE. Straight line travel, no noise.Objects first seen between Ursa Major and Ursa Minor, near the Draco constellation. Lights passed directly overhead, no noise. Lights were dim orange, similar to an automobile cigarette lighter's color. Pattern was first a triangle, then they changed positions, and one went about 1/2 degree away from the others, then rejoined. Lights faded from view, towards Scorpio, didn't just "wink" out. Initial impression was that the lights were fixed to a larger, dark object, and that the lights were being "strobed" to create impression of moving out of position. Only one observer, visual by eye, no binoculars or telescope. No pictures or video. The sky was clear. I am an amatuer astronomer and familiar with the sky, and my viewing area. I have been in the USAF, and the USN. I am as familiar as most with terrestrial aircraft, and this did not match anything I know of. I've never reported anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03517.html](http://www.nuforc.org/webreports/reports/003/S03517.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Santa Barbara (CA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 57</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156604.html](http://www.nuforc.org/webreports/reports/156/S156604.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
