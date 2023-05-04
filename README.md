@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:29 on 4 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:25 on 4 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Santa Ynez (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>classic Shuttle reentry sighting. sounding like a lift-off.Two visuals and three who heard object reentry.Flying from east to west, an orange fireball slowed, cooling it became shape of large plane, turning, it flew south out of sight...Shuttle reentry?((NUFORC Note:  The Space Shuttle is not launched to the west.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22737.html](http://www.nuforc.org/webreports/reports/022/S22737.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Junction City (KY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Triangular object with three rectangular Ulta Violet blue lights on the bottom.I saw a object that appeared to be a shooting star.  It was falling to the ground at a high rate of speed.  Then the object appeared to be a plane about to crash.  The car in front of me came to a stop as did I.  A few seconds later the object came back into sight and begins hovering low over a subdivision.  At that time I was about 100 yards away from this triangular object.  I came to a complete stop to get a good look.  It was the size of a truck hood, white in color and had three rectangular lights on the bottom of it.  The lights were Ultra Violet blue.  Just as I was about to take a photo with my IPhone, it flew out of sight at a very high rate of speed.  The car in front of me fled before I had a chance to discuss the sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109192.html](http://www.nuforc.org/webreports/reports/109/S109192.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
