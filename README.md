@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 4 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:34 on 4 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Olive Hill (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright, slow moving orange craft over Olive Hill Kentucky.It caught my eye as I pulled into my driveway.  The craft was an extremely bright orange at the center, with a strobe light on both the right and left sides.  It moved along at a slow pace as it crossed the sky from one side of the horizon, to directly over me, then onto the hill.  As the craft was moving from left to right in the sky slowly and passed, I saw a commercial airliner going from right to left, which explains the dull hum of the airplane engine I heard (sorry about not knowing the cardinal directions from my location).  The aircraft was so bright that it was almost hard to look at, but the orange glow didn't appear to be fluctuating, but a solid orange mass.  The sky was extremely clear, so the objects were very visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81150.html](http://www.nuforc.org/webreports/reports/081/S81150.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Memphis (TN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Between 4-6 dim, orange lights, traveling NNW-SSE. Straight line travel, no noise.Objects first seen between Ursa Major and Ursa Minor, near the Draco constellation. Lights passed directly overhead, no noise. Lights were dim orange, similar to an automobile cigarette lighter's color. Pattern was first a triangle, then they changed positions, and one went about 1/2 degree away from the others, then rejoined. Lights faded from view, towards Scorpio, didn't just "wink" out. Initial impression was that the lights were fixed to a larger, dark object, and that the lights were being "strobed" to create impression of moving out of position. Only one observer, visual by eye, no binoculars or telescope. No pictures or video. The sky was clear. I am an amatuer astronomer and familiar with the sky, and my viewing area. I have been in the USAF, and the USN. I am as familiar as most with terrestrial aircraft, and this did not match anything I know of. I've never reported anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03517.html](http://www.nuforc.org/webreports/reports/003/S03517.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
