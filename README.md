@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:25 on 4 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:39 on 4 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Junction City (KY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Triangular object with three rectangular Ulta Violet blue lights on the bottom.I saw a object that appeared to be a shooting star.  It was falling to the ground at a high rate of speed.  Then the object appeared to be a plane about to crash.  The car in front of me came to a stop as did I.  A few seconds later the object came back into sight and begins hovering low over a subdivision.  At that time I was about 100 yards away from this triangular object.  I came to a complete stop to get a good look.  It was the size of a truck hood, white in color and had three rectangular lights on the bottom of it.  The lights were Ultra Violet blue.  Just as I was about to take a photo with my IPhone, it flew out of sight at a very high rate of speed.  The car in front of me fled before I had a chance to discuss the sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109192.html](http://www.nuforc.org/webreports/reports/109/S109192.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Townsville (Australia) () reported seeing craft that fit the description of some 'Other' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Strange, motionless, flickering coloured lights over townsville australia.Tonight we saw very bright red, green and white alternatively flickering lights in the sky. This hovered in the same area for around 25mins and then dissapeared.(there are mountains around this area). At first i thought it might have been an aircraft but this thing just wasn't moveing. The sky is very clear and this thing was clearly visible. we were both struggling to understand what this thing was, so we telephoned a friend of ours that lives up the road to go out side to have a look too. We all come to the conclusion that it was extreemly strange as none of us has ever seen anything like it ever before!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43799.html](http://www.nuforc.org/webreports/reports/043/S43799.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
