@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:25 on 4 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:20 on 4 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Chapin (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Same UFOs observed in South Carolina as seen in Ohio over Lake Erie.I witnessed a bizarre event on Friday May 4, 2018, in the South Western sky, along with several relatives, between 8:45PM and 10:00PM EST. in Chapin, South Carolina 29036.  It involved up to seven [7] multicolored [red, blue, green, white and yellow] round entities along with a transforming white "mother" ship (?) having 5 retangular windows.  The multiple colored UFOs are in the Lake Erie, Ohio, videos and seem to be exact duplicates to what has been seen in other states and countries and London, England.  They were also here on 09May2018.The entities were NOT stars, as all five colors were visible with binoculars at the same time and they would flash their colors at random like a police car.  The binoculars are powerful enough to see Jupiter's moons.  Two were following the "mother ship" [pictures attached] then stopped.  That's when bursts of energy like heat lightening were seen [flash] in outer space.  What happened next was and is the real story and all of us saw the same thing.  The multicolored entities were zig zaging all over the place as if they were controlled by a mouse on a PC.  Up, down, left, right, diagonally and rotationally.  Days after I thought about it and could have it been a war in space?  At first we thought that the white light was a planet or the International Space Station.  That's when I took a look at the white object with binoculars and saw what I perceived as five horizontal retangular windows.  They were black like a human DNA chart.  The others also looked at the objects with the binoculars and they all confirmed as to what I saw.  What we witnessed was so bizarre we thought it was possibly a Holographic image, laser or military aircraft but they were way too far out in space.  We also had two commercial jets fly over [9:45PM-10:00PM]  while all of this was happening and the entities were way above the jets.My IQ is 88 percentile.  Others included a Corporate Comptroller and an Anesthesiologist among others.  I am retired and have been in the public arena having appeared on CNN in 1990.  I was part of the #1 ongoing investigation among all Federal agencies back in the day for several years.  It was important enough that President Regan was given a daily briefing on same until it was sanitized by the Feds.Let's see if this email makes it to you and can your steer us to what we possibly witnessed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139805.html](http://www.nuforc.org/webreports/reports/139/S139805.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Idaho Falls (ID) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Fast moving boomerang shaped.Several sightings of boomerang shaped flying objects at different elevations throughout the sky. Silent and extremely fast moving.  Would appear out of nowhere and would glide across the sky for a couple of seconds before disappearing.  The close ones resembled a flock of white birds flying in triangular formation.  The smaller and ones further away looked like a hazy triangular cluster of moving stars. Have witnessed these same flying objects on a couple different dates as well</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97547.html](http://www.nuforc.org/webreports/reports/097/S97547.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
