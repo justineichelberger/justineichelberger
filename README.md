@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:32 on 4 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:47 on 4 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Windham (ME) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>3 Glowing circular shapes moving together in a semi-formation towards the same direction in Windham Maine.Girlfriend and I were driving down RT 115 (Tandberg Trail), slowly approaching an accident cleanup/line crew work scene and upon leaving the slowed down zone noticed 2 glowing objects in the sky- perfectly described by a previous poster as Oriental Floating Candle Light shapes or small circular hot air balloon baskets (with no balloons!).  We pulled over to get a better view and take some pictures and a video with my phone.After pulling over and eliminating the radio noise listened carefully and only heard car traffic- no sound at all came from the two shapes.As I was recording the first 2 shapes another similar one came overhead.  These objects were at Helicopter flying height- no more than 1,000 - 3,000 feet in the air.  I can only assume 6' x 6' - 10' x 10' in size.They were glowing bright as if like a flame or as if they were lit up from the sun, but the sun was far too gone past the horizon to possibly shine light on an object that close to the ground.They quickly moved across the road and towards the tree line and further, as they approaching that range (closer to the sun's downed direction) they became dark from yellow to orange/red then to black- and before disappearing rapidly out of sight they were pitch black in the darkening blue sky.After many years of working around helicopters and witnessing many types of aircraft in my life I have never seen an object that fits anything near the description of what I saw- and apparently as I've read in the Maine sighting log- several people have seen exactly what I have over the past few years...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97548.html](http://www.nuforc.org/webreports/reports/097/S97548.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Centerville (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>pulsing blue light with irratic movementI saw an indigo blue light that was pulsing. I saw One green light, and one regular incandescent light. It did not move in the form of a plane or a helicopter. It was twirling and tumbling on it's axis. It appeared to be "triad" in architecture. It would move from left to right, in & out, light intensity varying. It dipped below, from my point of view below tree line, once, it reappeared in a diagonal rising fashion, then dipped below once gain not to be seen again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43817.html](http://www.nuforc.org/webreports/reports/043/S43817.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
