@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:33 on 4 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:39 on 4 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Seymour (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>8 or more circles of 8 or so lights hovering in unchanged spots viewable from my back deck and remaining 1.5 hours and counting.At about 20:50 pm EST in Seymour, CT, US I stepped out onto our deck facing roughly NW and saw a circle of lights.  Looking closely there appeared to be about 8 lights of multi colors.  At quick glance the lights appear to be white almost like a diamond bracelet.As I looked with greater attention I discovered at least 8 of them just sitting there in the air. Very unusual, in my sixties I have never seen anything like it.  None appeared to be clearly moving although atmosphere may have created that affect.  Looking at them at time I could see several colored light emissions.  Some were brighter and closer others smaller and faded due to distance and clouds perhaps.I looked at the 2 clearest ones through a pair of Sears wide angle 40x binoculars and they appear white, initially like an enlarged snowflake, but as I studied it, trying to hold the binoculars steady, the spheres seemed to have horizontal channels across them from top to bottom and appear to be shifting which again may be atmospheric affects.I have taken numerous photos using my 16 megapixel Samsung Galaxy 5 smartphone and its burst shots.  In the photos and binocular views there appeared to be a haze surrounding the sphere.  I have also captured it via video but none of the shots show much more than white.  When enlarged there appears to be rectangular structures in the center but that may be to do with the optics of the camera I suppose.It is now 22:20 and the all are still in place.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118778.html](http://www.nuforc.org/webreports/reports/118/S118778.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Olive Hill (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright, slow moving orange craft over Olive Hill Kentucky.It caught my eye as I pulled into my driveway.  The craft was an extremely bright orange at the center, with a strobe light on both the right and left sides.  It moved along at a slow pace as it crossed the sky from one side of the horizon, to directly over me, then onto the hill.  As the craft was moving from left to right in the sky slowly and passed, I saw a commercial airliner going from right to left, which explains the dull hum of the airplane engine I heard (sorry about not knowing the cardinal directions from my location).  The aircraft was so bright that it was almost hard to look at, but the orange glow didn't appear to be fluctuating, but a solid orange mass.  The sky was extremely clear, so the objects were very visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81150.html](http://www.nuforc.org/webreports/reports/081/S81150.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
