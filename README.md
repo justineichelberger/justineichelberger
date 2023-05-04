@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:20 on 4 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:32 on 4 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Buckeye (AZ) reported seeing craft that fit the description of some '' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Seen on tv.While watching the Voice, we lost our direct tv signal and received a message that said, Attention Earthlings and had a scramble picture of an odd shaped being.  Then it went back to the voice.I called direct tv to report it, they said they were unaware of any added broadcast or anything like this ever reported.  His statement was, that's weird, it didn't come from us.((NUFORC Note:  We spoke via telephone with the witness, and he assures us that the report is accurate.  He has worked in the aviation field for over three decades.  We suspect that the report is honest and factually based.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118800.html](http://www.nuforc.org/webreports/reports/118/S118800.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Laveen (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Blue, Red, and White Lights West of Phoenix AZ.Starting out in the western horizon, one bright solid blue light and one bright solid red light, seemed to be approaching.  Then, a second red solid light appeared on either side of the blue solid light.  Then both red lights turned white, hovering around the blue light, approaching closer and then receding further away. Then, the white lights turned back to red lights, and faded into one red blinking light with the blue solid light.  Slightly moving a bit north, the red light would fade black, then reappear.  This repeated over randomly in the Western horizon for about 40 mins.  One, and two red blinking lights with the solid blue light. Sometimes, the lights were vertical to each to each other. Around 12pm, the red blinking and blue solid light moved very quickly straight north, One Blue Solid Light and THREE BLINKING RED LIGHTS moving sporadically around the center blue light, until it was out of our eyesight.  Directly north of Phoenix AZ. I see airplanes every day and every night.  The movement of these lights were COMPLETELY abnormal. HOVERING. Steady motion. Multiple directions. Up, Down, Crossing, West, and finally North... I am shocked. I witnessed the entire activity, over an hour, with two other people.  All three of us attempted to take photos and videos.I'm not sure if the lights are very visible in the photos.  But I will submit everything if you request it! THANK YOU!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97532.html](http://www.nuforc.org/webreports/reports/097/S97532.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
