@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:22 on 4 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:29 on 4 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Oakland (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Was it a UFO?  Was it alien?  I don't know but it was crazy weird.This evening, we were watching stars, and planes flying overhead, from our deck.  We then saw a bright orange light coming from the southwest direction.  It was constant and not flashing; it did, however, have streaks or lines of light arcing from the top and bottom.  It was very bright and seemed large given the distance and the amount of light.  It did not fly in a straight path as several times it seemed to "wobble" side to side before continuing forward.  After approximately 15-20 seconds of this the light seemed to waiver back and forth then suddenly disappeared completely.  We took photos and video but given that it was with a cell phone they are terrible quality.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139729.html](http://www.nuforc.org/webreports/reports/139/S139729.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Santa Ynez (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>classic Shuttle reentry sighting. sounding like a lift-off.Two visuals and three who heard object reentry.Flying from east to west, an orange fireball slowed, cooling it became shape of large plane, turning, it flew south out of sight...Shuttle reentry?((NUFORC Note:  The Space Shuttle is not launched to the west.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22737.html](http://www.nuforc.org/webreports/reports/022/S22737.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
