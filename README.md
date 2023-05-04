@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:33 on 4 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:28 on 4 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in New Richmond (WI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 75.0 - 75.0 minutes.</sub><blockquote><sub>A saucer shaped object with changing colored light remained in one position in the sky for over an hour.I saw this same object when living in Texas. I was outside on my padio enjoying a beautiful starry night. I noticed a bright light in the east that was different than the stars so I went inside and got my binoculars. When I looked through them I could see what appeared to be a saucer shape with lights of different colors. At first I thought it was an airplane, but it remained in the same spot for the hour and fifteen minutes that I watched it.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69930.html](http://www.nuforc.org/webreports/reports/069/S69930.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Ferguson (MO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 00:00:11 - 00:00:11 minutes.</sub><blockquote><sub>Three round white circles were seen traveling north to southbound in the sky. The objects became brighter on approach, then dimmed and eventually disappeared.While walking my dogs, as I was looking up in the sky, I noticed a bright white, (LED white), round circle traveling from north to south.  This appeared to be a big solid light from the distance I was from it.  Looked to be about a 45 degree angle from where I was. At first, there was only one, then two and then three.  They seemed to be following each other.  They appeared to be about the size of a dime, from where I was.  The dogs that I was walking were unusally quiet for beagles during this incident.  As each object grew closer the size increased to about the size of a nickel, then dimmed out and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12788.html](http://www.nuforc.org/webreports/reports/012/S12788.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
