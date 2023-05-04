@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:20 on 4 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:31 on 4 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Idaho Falls (ID) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Fast moving boomerang shaped.Several sightings of boomerang shaped flying objects at different elevations throughout the sky. Silent and extremely fast moving.  Would appear out of nowhere and would glide across the sky for a couple of seconds before disappearing.  The close ones resembled a flock of white birds flying in triangular formation.  The smaller and ones further away looked like a hazy triangular cluster of moving stars. Have witnessed these same flying objects on a couple different dates as well</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97547.html](http://www.nuforc.org/webreports/reports/097/S97547.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Meridian (ID) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Multiple triangle shaped objects floating in formation.Roughly 35 triangle shaped objects seen in sky over Meridian Idaho on May 4th, 2017, 6:36pm, while at sports event at 43.615085, -116.337603.  From this location, the objects where in seen above in sky toward the southern direction.Objects were seen by multiple people at the event, including children and adults., which appeared to be slowly gliding across sky and fading from sight, after about 7 minutes.  In the picture (phone camera) they are white spots, but they were each visibly shaped like triangles.  The objects remained fixed in position between each other, but there were no connections visible to the eye.The sky was totally blue (cloudless) and objects could be seen quite well while lower in sky.  The picture was taken a couple minutes after first sighting, as they were higher in sky, and smaller in appearance.((NUFORC Note:  Witness elects to remail anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135170.html](http://www.nuforc.org/webreports/reports/135/S135170.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162999.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163018.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163004.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162990.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162954.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
