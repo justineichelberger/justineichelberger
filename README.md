@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:23 on 5 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:36 on 5 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1971, an anonymous witness in Molson (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>I was a boy, dad sis and I were at local farn getting milk. I took milk out to car alone. Looked up...It looked like an emeralg green moon. It was so green It looked alive. Beautiful. It flashed across the sky,  and was gone . I was about 12 yo. The memory is alive in my mind 30 yrs later. Object left no trail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10396.html](http://www.nuforc.org/webreports/reports/010/S10396.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>This is the third time I have experienced this phenomenon within the past year or so………today is May 5, 2011…… time from 11:20-11:50 p.m…..10-12 different lights……no sound…… In the northwestern sky……orange glowing lights come on and go off…..only on for a second or two……..looks like an incandescent light coming on and off…….random positions…..some equidistant……..once  there were two lights in a horizontal line..only on for a second or two.  No pattern or path to follow…..cannot explain!!!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81145.html](http://www.nuforc.org/webreports/reports/081/S81145.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/162/S162981.html)
-- [376](http://www.nuforc.org/webreports/reports/162/S162982.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163038.html)
-- [374](http://www.nuforc.org/webreports/reports/162/S162973.html)
-- [373](http://www.nuforc.org/webreports/reports/162/S162978.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
