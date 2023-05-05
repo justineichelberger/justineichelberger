@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:32 on 5 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:30 on 5 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Hailsham (East Sussex) (UK/England) () reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Hi,  First of all I apologise if this is posted in the wrong place but this 'event' has been bothering me for years now.I lived with my mum, dad and gran in a two storey house with bedrooms upstairs in a small town.I was around the age of 17 years old (now 32) and I was woken in the middle of the night by my gran to say that something outside her window that was making her scared.I got up and walked through to her room not turning on any lights and outside her bedroom window floating and bobbing in the sky was 20+ ball shaped objects all bright different colours like pure white, neon blues and pinks, greens they were bobbing in the air as if there were floating on water with the background of a starry night sky I felt if I opened up the window I could of grabbed one but felt if I did it would of burnt me badly.The next thing that happened is I woke up in the morning went downstairs a saw Gran eating her breakfast she looked up and said, 'That was a bit scary wasn't it'  And till this day she also has perfect recollection of the night.Neither myself of Gran are nutty we have jointly had strange things happen to us before for example seeing past relatives and spirits.Please can anyone help us understand what happened on that night?  Thank You.((NUFORC Note:  Witness elects to remain semi-anonymous; provides little contact information.  PD))((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107540.html](http://www.nuforc.org/webreports/reports/107/S107540.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in New York City (Bronx) (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Me and two friends were in a park hanging out. We looked up and saw a "fireball" streak across the entire sky, which was visible to us, in about 4-5 seconds. Extremely fast, no sound. The front appeard to be a reddish color and the tail was white. We could see much of the sky so it was fascinating that any craft could cross our entire field of vision so fast.There was only one object. Streaked exremely fast across entire sky. Clear, cool night. Not drinking. No drugs. Again...it moved very, very, very fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08367.html](http://www.nuforc.org/webreports/reports/008/S08367.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/162/S162981.html)
-- [376](http://www.nuforc.org/webreports/reports/162/S162982.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163038.html)
-- [374](http://www.nuforc.org/webreports/reports/162/S162973.html)
-- [373](http://www.nuforc.org/webreports/reports/162/S162978.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
