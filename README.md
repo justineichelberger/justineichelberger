@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:26 on 5 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:28 on 5 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>6-8 yellowish orange spheres moving from downtown Boise towards the hills.May 5 2012 .( cinco de mayo) Just turning 10:00 pm in the evening , me , my son , and husband stepped out of the house for a walk.  Just outside our house in the sky we I noticed a glowing orange sphere of in the distance ,between the two large trees . It was traveling to the right and as it moved another orange sphere falllowed it's trail . My husband began recording the objects on his cell phone.As the objects went behind the tree he could still see the images on his phone, but not to just looking at the tree . We all the walked down to the corner of the road to see if they where still there .At this point my husband stops recording . There was only one sphere behind the tree now.  Just down Meadow St. there where two more orange spheres that seemed to be fallowing eachother headed towards Lucky Peak area ( All of the spheres seamed to be going the same route and direction)I noticed that the farthest sphere down Meadow St. was going fast . As I focused on ! it , it got smaller very quikly, then was gone .(This is when I start to get scared so memory after this point is a little off )As we continued walking down Meadow St. towards the foothills (east) there where 2-3 more orange spheres to the left of us . All in a row .Traveling East to the foothills just as the others . At this point we decide to turn around and go home.When we got home there where two spheres between the trees and we observed before we went in . They seamed to be flickering or glowing . My husband assumes they where chinease lanterns released  for  cinco de mayo ,. but my brother-in-law 5 miles away said he saw something similar in the sky that night .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88815.html](http://www.nuforc.org/webreports/reports/088/S88815.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Wikiup (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Drove past 3 silver orbs floating in side of mountain.My report is simply:  I drove past 3 silver orbs that seemed to be floating/parked in the side of a mountain I drove past...on the way from Vegas to phx.  I wanted to talk to someone at your center to confirm if orbs have been spotted in this area.  It seemed very unreal to me because they were about 10 feet from drivers side of car...as I drove by.  I thought I imagined them.((NUFORC Note:  We spoke via telephone with the witness, and he seemed to us to be both sincere, and sober-minded.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119298.html](http://www.nuforc.org/webreports/reports/119/S119298.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/162/S162981.html)
-- [376](http://www.nuforc.org/webreports/reports/162/S162982.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163038.html)
-- [374](http://www.nuforc.org/webreports/reports/162/S162973.html)
-- [373](http://www.nuforc.org/webreports/reports/162/S162978.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
