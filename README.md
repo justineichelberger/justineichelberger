@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:26 on 5 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:27 on 5 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Stuart (FL Turnpike MM 128) (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Traveling south on Fla Turnpike saw two very large bright lights stationary as we drove under them.While traveling south on the Florida Turnpike approaching mile marker 128, Wednesday evening, May 5, at around 10:00 p.m. my sister and I observed two very bright white lights. This is near the Stuart/ Jupiter Island area. They were in a stationary position slightly above horizan and directly ahead of us when I first observed them . Through my binoculars one light appeared larger and slightly lower than the other. No shape or supporting structure was visible. There were several cellphone towers in the vicinity. The lights appeared three times higher than the towers and remained fixed as we approached  and drove directly under them. At this point the larger light seemed to be one fourth the size of the moon with the other slightly smaller. They were very close together. There were no flashing lights. As we passed them I looked out the rear window and found nothing. I am most interested in finding a logical explanation for what we saw. As an experienced birdwatcher I frequently observe the skies and feel confident I've never seen anything like this.((NUFORC Note:  We spoke with this witness, and we found here to be exceptionally objective and credible.  We suspect she is a very good witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36789.html](http://www.nuforc.org/webreports/reports/036/S36789.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ocala (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>My son was taking trash out back and yelled look.  I saw what looked like a fireball moving north.  Then it seem to get small an disappear.  Thought maybe aircraft on fire.  I don't know but i sure want to know what it was.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127186.html](http://www.nuforc.org/webreports/reports/127/S127186.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/162/S162981.html)
-- [376](http://www.nuforc.org/webreports/reports/162/S162982.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163038.html)
-- [374](http://www.nuforc.org/webreports/reports/162/S162973.html)
-- [373](http://www.nuforc.org/webreports/reports/162/S162978.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
