@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:18 on 5 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:29 on 5 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Geneva (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>White sphere follows driverMy grandmother was on her way to work following her routine route, and as she pulled out onto a road, she saw a bright white sphere about 1,000 feet in the sky. As she drove down the road she grew uneasy, and didn't know what to think. She felt compelled to stop the car and look at it further. As she drove, she noticed the white sphere was following her, and came about only 100 feet from her car. Every time she looked into her rear view mirror, she noticed the sphere was getting closer. She made it to work on time, and as she left her car to walk into the building where she worked, the sphere was still there. She noticed the sphere had a haze around it. She reported no Missing Time situation, and she heard no sound from the sphere.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30666.html](http://www.nuforc.org/webreports/reports/030/S30666.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Shelbyville (IL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I seen a silver looking cigar shaped craft flying with no contrail intersect under a jet flying with a contrail.I noticed what I thought to be a jet aircraft that was flying without a contrail.  Then I realized that the object did not have wings.  That made me look closer and wonder if I was seeing it clearly.Then I noticed a jet coming from the right flying with a contrail. I could see the wings on this jet. It appeared to be flying at cruising altitude.  The UFO and the jet were in full view when the UFO intersected and flew directly below the jet, still with no wings and no contrail.After the intersection between the jet and the UFO, both became hidden by a cloud.  The jet reappeared to the left of the cloud and the UFO never reappeared on the other side of the cloud.In order for this UFO to exactly intersect the jet at those speeds either has to be a huge coincidence or a controlled maneuver by the UFO.  I would estimate that the UFO was approximately the same size as the jet.  Also, it appeared to be extremely close to the jet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127199.html](http://www.nuforc.org/webreports/reports/127/S127199.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/162/S162981.html)
-- [376](http://www.nuforc.org/webreports/reports/162/S162982.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163038.html)
-- [374](http://www.nuforc.org/webreports/reports/162/S162973.html)
-- [373](http://www.nuforc.org/webreports/reports/162/S162978.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
