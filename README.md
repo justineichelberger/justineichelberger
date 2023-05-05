@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:12:17 on 5 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:22 on 5 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Simpsonville (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Observed curious point light source about 20 degrees above horizon. Source seemed to be flashing red to blue-green and slowly receded.((NUFORC Note:  Report is not inconsistent with a "twinkling" star.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12795.html](http://www.nuforc.org/webreports/reports/012/S12795.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Phelan (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Fire ball moved slowly stopped and headed toward the ocean Flames as a tale Watch for 30 minWe saw a fire ball falling very slowly and stopped 3,000 ft from the ground and it was the size of the moon looks in the sky at night yet this was day light.  After it stop it moved away until it disapeared in the distance.  It was heading toward the coast.  Later after it got dark many aircraft were heading in that direction and they could have been millitary because there were no red and green blinking lights.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69004.html](http://www.nuforc.org/webreports/reports/069/S69004.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/162/S162981.html)
-- [376](http://www.nuforc.org/webreports/reports/162/S162982.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163038.html)
-- [374](http://www.nuforc.org/webreports/reports/162/S162973.html)
-- [373](http://www.nuforc.org/webreports/reports/162/S162978.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
