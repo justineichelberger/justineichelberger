@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:23 on 5 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:27 on 5 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Greenville/Port Jervis (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Shiny, silver, cigar-shaped object appeared out of hazy cloudsOn May 5, 2005, while driving west on Interstate 84 between Greenville and Port Jervis, New York, at approximately 5:30 pm, I witnessed a shiny, silver, cigar-shaped object poking out of a hazy cloud.  It almost looked like the blade of a knife.  I observed the object for approximately 3 seconds, and then the object appeared to get thinner and it looked like it dropped out of the sky.  The object was huge, because right before it disappeared, a jet heading toward New York, flying at approximately 3,000 feet, was passing near it in the sky.  The jet was dwarfed by the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44107.html](http://www.nuforc.org/webreports/reports/044/S44107.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Toccoa (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Small submarine like structure spottedIt was around 9:00pm and I went outside, only intending to look for the Little and the Big Dipper, but could hardly see anything because there were clouds covering most of the sky.Before I went back into my house, I spotted a submarine like structure (I don’t know how else to describe it.. it was the same form as a sub but there was a major size difference: it was probably about the size of a small pop-up camper and it was flat, but it was in the shape of a sub.)  There were no lights.  It was darker than the sky. It flew about 10 seconds and then veered west toward the town of Toccoa on highway 17.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63008.html](http://www.nuforc.org/webreports/reports/063/S63008.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/162/S162981.html)
-- [376](http://www.nuforc.org/webreports/reports/162/S162982.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163038.html)
-- [374](http://www.nuforc.org/webreports/reports/162/S162973.html)
-- [373](http://www.nuforc.org/webreports/reports/162/S162978.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
