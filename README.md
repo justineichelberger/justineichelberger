@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:33 on 5 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:32 on 5 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Baltimore (MD) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange lights dancing in a strobe pattern from west to east.I was coming home from bowling on a crystal clear quiet night when I witnessed a cluster of lights strobing in red,blue and white moving east of Brandon shores Power plant.I kept driving and pulled over to the entrance of my neighborhood when I saw another approaching directly from the west to east the same type of strobe lights appearing and reappearing in strange directions up and down across and then darting.There was absolutely no sound whatsoever.I have never seen anything with this signature and I always look at planes.It was dark I couldnt actually see the object itself.It almost seemed to be rolling and then twisting.I have never seen a ufo until now and hope my case is not considered invalid.The object appeared to be 10-20 thousand feet high in the air.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63001.html](http://www.nuforc.org/webreports/reports/063/S63001.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Hailsham (East Sussex) (UK/England) () reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Hi,  First of all I apologise if this is posted in the wrong place but this 'event' has been bothering me for years now.I lived with my mum, dad and gran in a two storey house with bedrooms upstairs in a small town.I was around the age of 17 years old (now 32) and I was woken in the middle of the night by my gran to say that something outside her window that was making her scared.I got up and walked through to her room not turning on any lights and outside her bedroom window floating and bobbing in the sky was 20+ ball shaped objects all bright different colours like pure white, neon blues and pinks, greens they were bobbing in the air as if there were floating on water with the background of a starry night sky I felt if I opened up the window I could of grabbed one but felt if I did it would of burnt me badly.The next thing that happened is I woke up in the morning went downstairs a saw Gran eating her breakfast she looked up and said, 'That was a bit scary wasn't it'  And till this day she also has perfect recollection of the night.Neither myself of Gran are nutty we have jointly had strange things happen to us before for example seeing past relatives and spirits.Please can anyone help us understand what happened on that night?  Thank You.((NUFORC Note:  Witness elects to remain semi-anonymous; provides little contact information.  PD))((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107540.html](http://www.nuforc.org/webreports/reports/107/S107540.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/162/S162981.html)
-- [376](http://www.nuforc.org/webreports/reports/162/S162982.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163038.html)
-- [374](http://www.nuforc.org/webreports/reports/162/S162973.html)
-- [373](http://www.nuforc.org/webreports/reports/162/S162978.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
