@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:25:53 on 5 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:12:17 on 5 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Birdsville (Australia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 bright dimond shape lights hovering in the skyThere were 6 people waiting for a bus into main street Birdsville We were all chatting about the day when one man said what do you think that is The 3 bright stat like things hovered in the sky One seemed to go behind the other then back out to hover on its owen. Then it just seemed to fade into the sky higher and higher the 2 bright light did the same and the the 3rd. We all said to each other thats not Min Min lights far to high in the sky hellicopters (no noise) to close together So to this day I do not know what we saw I have tryed to find out but have been unable((NUFORC Note:  Flaw in date above.  Date is unknown to us, and we are unable to contact the source of the report.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72598.html](http://www.nuforc.org/webreports/reports/072/S72598.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Simpsonville (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Observed curious point light source about 20 degrees above horizon. Source seemed to be flashing red to blue-green and slowly receded.((NUFORC Note:  Report is not inconsistent with a "twinkling" star.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12795.html](http://www.nuforc.org/webreports/reports/012/S12795.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/162/S162981.html)
-- [376](http://www.nuforc.org/webreports/reports/162/S162982.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163038.html)
-- [374](http://www.nuforc.org/webreports/reports/162/S162973.html)
-- [373](http://www.nuforc.org/webreports/reports/162/S162978.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
