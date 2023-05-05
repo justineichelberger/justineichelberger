@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:29 on 5 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:25:53 on 5 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Wikiup (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Drove past 3 silver orbs floating in side of mountain.My report is simply:  I drove past 3 silver orbs that seemed to be floating/parked in the side of a mountain I drove past...on the way from Vegas to phx.  I wanted to talk to someone at your center to confirm if orbs have been spotted in this area.  It seemed very unreal to me because they were about 10 feet from drivers side of car...as I drove by.  I thought I imagined them.((NUFORC Note:  We spoke via telephone with the witness, and he seemed to us to be both sincere, and sober-minded.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119298.html](http://www.nuforc.org/webreports/reports/119/S119298.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Birdsville (Australia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 bright dimond shape lights hovering in the skyThere were 6 people waiting for a bus into main street Birdsville We were all chatting about the day when one man said what do you think that is The 3 bright stat like things hovered in the sky One seemed to go behind the other then back out to hover on its owen. Then it just seemed to fade into the sky higher and higher the 2 bright light did the same and the the 3rd. We all said to each other thats not Min Min lights far to high in the sky hellicopters (no noise) to close together So to this day I do not know what we saw I have tryed to find out but have been unable((NUFORC Note:  Flaw in date above.  Date is unknown to us, and we are unable to contact the source of the report.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72598.html](http://www.nuforc.org/webreports/reports/072/S72598.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/162/S162981.html)
-- [376](http://www.nuforc.org/webreports/reports/162/S162982.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163038.html)
-- [374](http://www.nuforc.org/webreports/reports/162/S162973.html)
-- [373](http://www.nuforc.org/webreports/reports/162/S162978.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
