@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:27 on 5 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:02:56 on 5 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Toccoa (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Small submarine like structure spottedIt was around 9:00pm and I went outside, only intending to look for the Little and the Big Dipper, but could hardly see anything because there were clouds covering most of the sky.Before I went back into my house, I spotted a submarine like structure (I don’t know how else to describe it.. it was the same form as a sub but there was a major size difference: it was probably about the size of a small pop-up camper and it was flat, but it was in the shape of a sub.)  There were no lights.  It was darker than the sky. It flew about 10 seconds and then veered west toward the town of Toccoa on highway 17.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63008.html](http://www.nuforc.org/webreports/reports/063/S63008.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Box like saucer hovers and flies silently over Colorado Springs only a couple thousand feet above my head.I was at the Cotton Wood disc golf course playing by myself when I saw the strange object fly directly over my head. This object from underneath had a square shape with a sauce shape above the bottom portion. It was completely silent and flying very low.  I saw the object when it was dusk and it only had a very small blueish light illuminating from underneath of it.  I ran to see if anyone else was on the course playing and found four guys on hole eighteen.  They too witnessed the events, and classified it as a UFO. It was completely silent, floating above us very low, and had no lights other than a small blue light in the center bottom of the object.  It was floating very slow, and I even yelled at the object and waved to attract it's attention.  I got a very good look at this object and it was not a plane, or a weather balloon, or anything I have ever seen before.  Very scary, and very surreal!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88808.html](http://www.nuforc.org/webreports/reports/088/S88808.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/162/S162981.html)
-- [376](http://www.nuforc.org/webreports/reports/162/S162982.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163038.html)
-- [374](http://www.nuforc.org/webreports/reports/162/S162973.html)
-- [373](http://www.nuforc.org/webreports/reports/162/S162978.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
