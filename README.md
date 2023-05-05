@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:30 on 5 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:31 on 5 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in New York City (Bronx) (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Me and two friends were in a park hanging out. We looked up and saw a "fireball" streak across the entire sky, which was visible to us, in about 4-5 seconds. Extremely fast, no sound. The front appeard to be a reddish color and the tail was white. We could see much of the sky so it was fascinating that any craft could cross our entire field of vision so fast.There was only one object. Streaked exremely fast across entire sky. Clear, cool night. Not drinking. No drugs. Again...it moved very, very, very fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08367.html](http://www.nuforc.org/webreports/reports/008/S08367.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Brick (NJ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>fireball spins, pulsates and changes colors very fastVery bright star like object appeared 2 days apart.  The light appears in the same exact location  0n 5/3/2011 and 5/5/2011 for approximatly 15 minutes than drifted off slowly heading south.  The fireball seemed to spin and change colors.  I took 3 photographs on 5/5 and each photograph shows light in different color.   White, orange, blue and dark red.  The colors change very fast as the object spins.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Possible twinkling star, we wonder.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81157.html](http://www.nuforc.org/webreports/reports/081/S81157.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/162/S162981.html)
-- [376](http://www.nuforc.org/webreports/reports/162/S162982.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163038.html)
-- [374](http://www.nuforc.org/webreports/reports/162/S162973.html)
-- [373](http://www.nuforc.org/webreports/reports/162/S162978.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
