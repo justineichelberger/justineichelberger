@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:33 on 5 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:22 on 5 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Franklin (WI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Fireballs approaching like planes approaching an airfield.My nephew and I were walking home, when I noticed three to four lights in the sky.  I thought they were normal at first because the way they were approaching our direction were very similar to how airplanes approach a runway, kinda lining up one after the other. We had lived not too far from the airport.Two things had struck me that kept me watching them.  They didn't have the blinking lights that airplanes have but looked like fireballs.  And the second thing was, they weren't coming in the direction to the airport that planes often do.Not to concerned, my nephew and I continued to walk, eventually losing sight of these objects behind the tree line.  A little after we lost sight, I happened to look up and seen what had to be one of those fireballs fly overhead.  Only it didn't appear to be a fireball anymore.I knew it was the same object as the fireball because it was on the same trajectory.  There was only one and as it flew over it didn't make a sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135785.html](http://www.nuforc.org/webreports/reports/135/S135785.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Bellingham (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Little white dot visible very high in the daylight skyI was laying back on the grass at Zuanich Point in Bellingham, WA. We (me and my husband) were looking at a plane flying by, when I saw a little white dot way up in the sky. It seemed to be stationary, and it was too high to be a bird, or plane, or cloud. It was very tiny, just a little white dot. About the size of this period . to my eyes. It was visible for about 10-15 minutes, and all the while I was trying to point it out to my husband. However, it was hard to see unless you happened upon it, like I did. I looked away a few times, and was able to find it again. After awhile, I looked away, and then tried to find it again and couldn't find it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36736.html](http://www.nuforc.org/webreports/reports/036/S36736.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/162/S162981.html)
-- [376](http://www.nuforc.org/webreports/reports/162/S162982.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163038.html)
-- [374](http://www.nuforc.org/webreports/reports/162/S162973.html)
-- [373](http://www.nuforc.org/webreports/reports/162/S162978.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
