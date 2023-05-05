@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:02:56 on 5 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:26 on 5 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Box like saucer hovers and flies silently over Colorado Springs only a couple thousand feet above my head.I was at the Cotton Wood disc golf course playing by myself when I saw the strange object fly directly over my head. This object from underneath had a square shape with a sauce shape above the bottom portion. It was completely silent and flying very low.  I saw the object when it was dusk and it only had a very small blueish light illuminating from underneath of it.  I ran to see if anyone else was on the course playing and found four guys on hole eighteen.  They too witnessed the events, and classified it as a UFO. It was completely silent, floating above us very low, and had no lights other than a small blue light in the center bottom of the object.  It was floating very slow, and I even yelled at the object and waved to attract it's attention.  I got a very good look at this object and it was not a plane, or a weather balloon, or anything I have ever seen before.  Very scary, and very surreal!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88808.html](http://www.nuforc.org/webreports/reports/088/S88808.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>6-8 yellowish orange spheres moving from downtown Boise towards the hills.May 5 2012 .( cinco de mayo) Just turning 10:00 pm in the evening , me , my son , and husband stepped out of the house for a walk.  Just outside our house in the sky we I noticed a glowing orange sphere of in the distance ,between the two large trees . It was traveling to the right and as it moved another orange sphere falllowed it's trail . My husband began recording the objects on his cell phone.As the objects went behind the tree he could still see the images on his phone, but not to just looking at the tree . We all the walked down to the corner of the road to see if they where still there .At this point my husband stops recording . There was only one sphere behind the tree now.  Just down Meadow St. there where two more orange spheres that seemed to be fallowing eachother headed towards Lucky Peak area ( All of the spheres seamed to be going the same route and direction)I noticed that the farthest sphere down Meadow St. was going fast . As I focused on ! it , it got smaller very quikly, then was gone .(This is when I start to get scared so memory after this point is a little off )As we continued walking down Meadow St. towards the foothills (east) there where 2-3 more orange spheres to the left of us . All in a row .Traveling East to the foothills just as the others . At this point we decide to turn around and go home.When we got home there where two spheres between the trees and we observed before we went in . They seamed to be flickering or glowing . My husband assumes they where chinease lanterns released  for  cinco de mayo ,. but my brother-in-law 5 miles away said he saw something similar in the sky that night .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88815.html](http://www.nuforc.org/webreports/reports/088/S88815.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/162/S162981.html)
-- [376](http://www.nuforc.org/webreports/reports/162/S162982.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163038.html)
-- [374](http://www.nuforc.org/webreports/reports/162/S162973.html)
-- [373](http://www.nuforc.org/webreports/reports/162/S162978.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
