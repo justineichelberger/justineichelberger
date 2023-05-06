@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:26 on 6 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:19 on 6 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Rock Stream (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>blue orb shows up in three pictures while taking shots of the moonwhile taking pix of our bright full moon i got an image of a blue orb or sphere. in one pix it was above the moon, in the second pix it was to the left of the moon, in the third pix it was below the moon</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88829.html](http://www.nuforc.org/webreports/reports/088/S88829.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Braintree (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>A friend of mine in Braintree, Mass. was the observer and reported "sighting" to me. Witness observed very bright light in the West.  (Normal aircraft patterns are always in a North/South direction).  Light approached witness' position (looking out of window).  Light very bright -- much brighter than a star.  It took approx. 8 - 10 minutes for object to reach his location and only noise he heard "sounded like a soft, gentle whirrrrr". Witness stated that it was a very bright, single light -- not aircraft landing lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13033.html](http://www.nuforc.org/webreports/reports/013/S13033.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [297](http://www.nuforc.org/webreports/reports/163/S163043.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163028.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163171.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163428.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163049.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
