@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:26 on 6 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:24 on 6 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Bright solid light followed by helicopter9pm was alerted by a helicopter sound. Looked outside apartment to see a helicopter following a solidly lit bright white light about 20m behind. About 500 ft above traveling north about 100-150mph. Watched fly from mid colo springs to north end colo springs towards AFA.  Then light vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163048.html](http://www.nuforc.org/webreports/reports/163/S163048.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1969, an anonymous witness in Arica (Chile) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Shocking experience in north Chilean Desert "The Sphere"One sphere,size of a house,moving slowly west to east crossing the road,at an estimated distance from our car 200 yards and not to high 50 -70 yards. We where in the midle of the desert returning from Tacna the border of Peru to Arica the city we use to live. the most amazing thing was that the sphere was changing colors from blue to green,to red yellow and the colors where moving on the sphere like floating on its surface and giving a look of a gaseoous and solid object at the same time.Look like liquid metal. We saw it disapear slowly to the east and after that we start the car without saying word at least for 15 minutes after the observation,there wasn't anything to say it was an extreme shocking experience.((NUFORC Note:  Individual who submitted this report holds a very responsible position in the fishing industry.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19417.html](http://www.nuforc.org/webreports/reports/019/S19417.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [297](http://www.nuforc.org/webreports/reports/163/S163043.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163028.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163171.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163428.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163049.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
