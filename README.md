@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:28 on 6 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:22 on 6 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Manito (2 miles north of) (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1:30 - 1:30 minutes.</sub><blockquote><sub>2 unknown flying objects moving, far too complex for a plane. There is no area around where missles would be launchedsame as above</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03530.html](http://www.nuforc.org/webreports/reports/003/S03530.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Old Bridge (NJ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 16.0 - 16.0 minutes.</sub><blockquote><sub>Spinning, changing, UFO.It came east to west very slow then stopped.  Just under, and to the side of, the moon.  It was spinning, blue light in center and yellow electric like entry looking like spider legs projection out.  It spun and then turned into a gray puff.  A giant cloud which covered the entire sky came in from west to east and covered it and the moon.  I have video of it changing, spinning and of cloud that came in (8 minutes long)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133986.html](http://www.nuforc.org/webreports/reports/133/S133986.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [297](http://www.nuforc.org/webreports/reports/163/S163043.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163028.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163171.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163428.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163049.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
