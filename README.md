@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:32 on 6 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:20 on 6 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hanahan (SC) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Object was a VERY large area sized diamond with a flashing light on each of the four points.  The lights flashed sporadically and the object moved in a very slow sideways pattern. Also, at times went directly up and down.  Object appeared to remain stationary at one point.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109234.html](http://www.nuforc.org/webreports/reports/109/S109234.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Waldorf (MD) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Hovering cigar shaped object.I was driving to work on Sunday 5/6/07 at 12:30 PM.  I was on the back road between Prince Frederick and Waldorf Maryland.  As I entered a new road (Cederville) I saw what appeared to be an airplane coming in for a landing just above the tree tops. (This is what my mind first said it was.)  As I drove towards it I noticed that it was not moving in any way, not forward or backward or even away or closer to me.  At this point I pull off of the road and shut off my trucks engine.  My windows were open and I could hear no sound of engines at all.  I sat there looking at this UFO and could not make sense of what I was seeing.I reached for the phone and called my friend and was talking to his wife about it.  As I looked at the object closely I could not see any wings and it looked like a cigar shaped sliver metal fuselage.  I could even see some detail on the surface.  I could see the sun sunning on the surface of the silver metal.  It had a darker area at one end that was a little larger then the rest of the lines of the craft.The object was about 1 ½ inches long if the ruler was held at arms length.  As I was talking to my friend wife the object started to move off to the North very slowly and started to come lower and lower.  It went below the tree level but I still could see it on and off as it passed throw the trees.  This is one gage as to how far away the object was.  I would say that it was not very far into the tree line because of this.After I drove around to the other side of the tree line and found nothing.  There are fields on ether side of this tree stand.  I drove next to a church that is in sight of the fields and asked if there is any airfield close to there.  I was told there was none.  I was traveling northwest and the object was seen south of Washington DC. in the Maryland county of Charales.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56632.html](http://www.nuforc.org/webreports/reports/056/S56632.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [297](http://www.nuforc.org/webreports/reports/163/S163043.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163028.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163171.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163428.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163049.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
