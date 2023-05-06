@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:34 on 6 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:46 on 6 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Apopka (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>8-10 Orange Orbs observed by 8 witnesses and later 2 black helicopters arriveMay 6, 2012:  APPROXIMATELY  8-10  ORANGE ORBSAND 2 BLACK HELICOPTERS  	On Saturday, May 6, from approximately 9-9:20 pm, I and about 6 other witnesses saw approximately 8-10 orange orbs in Apopka, Florida.  The witnesses were myself, my wife’s brother, my wife’s father, 2 other adults, and a teenager.We were attending the high school graduating ceremony of my wife’s nephew who was graduating from Forest Lake Academy in Apopka, Florida.  The lengthy graduation ceremony was almost finishing and I wanted to get some air and stepped outside of the auditorium.  We were located on a small hill about 300 feet north of state road 436 just west of state road 434.  Thus, the orbs were very close, about 300 feet away, and the visibility was excellent.All of the witnesses began to see bright yellow orbs rising from approximately the interchange of road 436 and 434 from about tree level.  We could not see them coming from the ground but appeared to “pop out” at the tree level.  They appeared to travel in a westerly direction along road 436 just south of it.  The orbs appeared about every 1-2 minutes.   Most were uniform in direction and most went west and upwards slowly, I would guess at 10-20 mph.  Some began to float straight up and others moved faster (30-40 mph) than others.The orbs then became distant and disappeared.  This lasted from approximately 9 pm to about 9:20 pm.  About 10 minutes later, two black helicopters came zooming in at a fast rate.  They stopped on top of route 436 just south of Bear Lake Road (about ½ mile from where we were).  They stayed there about 10-15 minutes and then left.  The orbs had disappeared when they arrived.Orb description:  Difficult to describe but they appeared to be the size of a small Volkswagen in the air.  They were round in shape, bright orange color.  Light was self contained in object and not emitted outwards.  I thought they might have been Chinese lanterns but I have never seen a Chinese lantern before.  But now after all of our recent sightings, I am having a second opinion.Attached is a map of Forest Lake Academy and location of Orb movements.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90749.html](http://www.nuforc.org/webreports/reports/090/S90749.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Proctorville (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>it was likede it knew we were watching.bright light was observed hovering just above tree line on top of hill close to satelite tower behind my house along the ohio river.  light was circular in shape but didn't seem to have a paticular form.  it floated for 30min.  then turned bright orange an seperated into two seperate lights.  the first light turned back to white while the second light shot straight up really high in the air an shot across the river to west virginia towards merrits creek crossing an disappeared.  first light began moving towards town so we got in car an followed it for over an hour for more than 30 miles until it slowly went down over hill side .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75412.html](http://www.nuforc.org/webreports/reports/075/S75412.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [297](http://www.nuforc.org/webreports/reports/163/S163043.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163028.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163171.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163428.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163049.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
