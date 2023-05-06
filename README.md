@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:22 on 6 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:26 on 6 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Cranston (RI) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>It flew over the highwayA small egg-shaped craft flew by at an extremely high speed. It was silvery-gray.((NUFORC Note:  Witness remains anonymous.  We do not know whether the witness means a morning or afternoon sighting.  Please see similar report from a commercial pilot for 2130 hrs. on June 22, 1999.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22427.html](http://www.nuforc.org/webreports/reports/022/S22427.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Bright solid light followed by helicopter9pm was alerted by a helicopter sound. Looked outside apartment to see a helicopter following a solidly lit bright white light about 20m behind. About 500 ft above traveling north about 100-150mph. Watched fly from mid colo springs to north end colo springs towards AFA.  Then light vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163048.html](http://www.nuforc.org/webreports/reports/163/S163048.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [297](http://www.nuforc.org/webreports/reports/163/S163043.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163028.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163171.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163428.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163049.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
