@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:19 on 6 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:34 on 6 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Braintree (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>A friend of mine in Braintree, Mass. was the observer and reported "sighting" to me. Witness observed very bright light in the West.  (Normal aircraft patterns are always in a North/South direction).  Light approached witness' position (looking out of window).  Light very bright -- much brighter than a star.  It took approx. 8 - 10 minutes for object to reach his location and only noise he heard "sounded like a soft, gentle whirrrrr". Witness stated that it was a very bright, single light -- not aircraft landing lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13033.html](http://www.nuforc.org/webreports/reports/013/S13033.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Apopka (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>8-10 Orange Orbs observed by 8 witnesses and later 2 black helicopters arriveMay 6, 2012:  APPROXIMATELY  8-10  ORANGE ORBSAND 2 BLACK HELICOPTERS  	On Saturday, May 6, from approximately 9-9:20 pm, I and about 6 other witnesses saw approximately 8-10 orange orbs in Apopka, Florida.  The witnesses were myself, my wife’s brother, my wife’s father, 2 other adults, and a teenager.We were attending the high school graduating ceremony of my wife’s nephew who was graduating from Forest Lake Academy in Apopka, Florida.  The lengthy graduation ceremony was almost finishing and I wanted to get some air and stepped outside of the auditorium.  We were located on a small hill about 300 feet north of state road 436 just west of state road 434.  Thus, the orbs were very close, about 300 feet away, and the visibility was excellent.All of the witnesses began to see bright yellow orbs rising from approximately the interchange of road 436 and 434 from about tree level.  We could not see them coming from the ground but appeared to “pop out” at the tree level.  They appeared to travel in a westerly direction along road 436 just south of it.  The orbs appeared about every 1-2 minutes.   Most were uniform in direction and most went west and upwards slowly, I would guess at 10-20 mph.  Some began to float straight up and others moved faster (30-40 mph) than others.The orbs then became distant and disappeared.  This lasted from approximately 9 pm to about 9:20 pm.  About 10 minutes later, two black helicopters came zooming in at a fast rate.  They stopped on top of route 436 just south of Bear Lake Road (about ½ mile from where we were).  They stayed there about 10-15 minutes and then left.  The orbs had disappeared when they arrived.Orb description:  Difficult to describe but they appeared to be the size of a small Volkswagen in the air.  They were round in shape, bright orange color.  Light was self contained in object and not emitted outwards.  I thought they might have been Chinese lanterns but I have never seen a Chinese lantern before.  But now after all of our recent sightings, I am having a second opinion.Attached is a map of Forest Lake Academy and location of Orb movements.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90749.html](http://www.nuforc.org/webreports/reports/090/S90749.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [297](http://www.nuforc.org/webreports/reports/163/S163043.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163028.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163171.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163428.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163049.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
