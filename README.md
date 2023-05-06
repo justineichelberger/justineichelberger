@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:28 on 6 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:26 on 6 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Torrance (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A giant bird flying across Torrance.We were sitting in the dinning room when all of a sudden a shadow passed from the backyard. I was sure it was something big flying.  There were three of us and we all saw the shadow. it took me a while ( less than a minute) to convince my self to check the sky to see what could have caused it.  There were no clouds in the sky and I was amazed to what I saw. it was about 3 miles away from where I was standing but I could still see the size of it like it was just a small bird flying across the street.  I was sure it was not a plane because I could still notice the wings flapping and the way it turned around.  I tried to call the other two friends but they couldn't hear me. so I went to the door to call them but as soon as they got out, we could not see it anymore because of the house blocking the view.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88824.html](http://www.nuforc.org/webreports/reports/088/S88824.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Rock Stream (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>blue orb shows up in three pictures while taking shots of the moonwhile taking pix of our bright full moon i got an image of a blue orb or sphere. in one pix it was above the moon, in the second pix it was to the left of the moon, in the third pix it was below the moon</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88829.html](http://www.nuforc.org/webreports/reports/088/S88829.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [297](http://www.nuforc.org/webreports/reports/163/S163043.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163028.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163171.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163428.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163049.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
