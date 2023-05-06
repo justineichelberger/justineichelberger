@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:46 on 6 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:21 on 6 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Proctorville (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>it was likede it knew we were watching.bright light was observed hovering just above tree line on top of hill close to satelite tower behind my house along the ohio river.  light was circular in shape but didn't seem to have a paticular form.  it floated for 30min.  then turned bright orange an seperated into two seperate lights.  the first light turned back to white while the second light shot straight up really high in the air an shot across the river to west virginia towards merrits creek crossing an disappeared.  first light began moving towards town so we got in car an followed it for over an hour for more than 30 miles until it slowly went down over hill side .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75412.html](http://www.nuforc.org/webreports/reports/075/S75412.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Parker (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>UFO's over Parker CO night sky, 30 lights moving in a rowMy son and I witnessed 20-30 bright lights in a row, moving across the night sky in a row, following each other. They were steady. No blinking lights, no colored lights. I have a video that is poor quality from my Iphone but you can definitely see what we saw. They did not resemble airline or military planes, nor helicopters.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163044.html](http://www.nuforc.org/webreports/reports/163/S163044.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [297](http://www.nuforc.org/webreports/reports/163/S163043.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163028.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163171.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163428.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163049.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
