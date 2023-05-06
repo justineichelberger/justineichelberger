@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:27 on 6 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:32 on 6 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Brattleboro (VT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately ? - ? minutes.</sub><blockquote><sub>UFO in background atop Black Mountain in VermontWe did not witness the UFO in person.  My girlfriend and I asked a stranger to take a picture of us on top of Black Mountain in Brattleboro, VT.  It wasn't until we later inspected the photograph that we noticed something strange in one of the photos.  In total there were three photos taken in quick sequence.  In one of the photos, you can see a very bizarre anomoly above my head.  It's difficult to discern what it is, but it certainly resembles some kind of flying craft.  There were a lot of black flies up there, and my girlfriend says maybe it was a fly in front of the camera.   I think that explanation is plausible, but the UFO does not resemble a fly in any way that I can tell.  Look for yourself, here is a zoomed up picture that I swear to you, is not doctored.  I have the original file, but it contains my girlfriend and I, and I'm not so sure I want to disclose our identities to someone I don't know...((NUFORC Note:  We cannot identify the object, but the lack of symmetry to the object suggests to us that it probably is not a genuine UFO.  We suspect that it may be a bird, with its wings folded, while in flight, but we cannot be certain.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88844.html](http://www.nuforc.org/webreports/reports/088/S88844.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Bishop (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bishop, CA 20+ objects in straight, evenly spaced formation moving slowly west to east.Around 9:30 p.m. in Bishop California a fleet of at least 20 in a straight line, evenly spaced formation moving slowly across the sky from west to east.Color white / silver ... looked like a sattelite but much closer.I have seen quite a few interesting mysterious sky phenomena on the eastern side of the Sierra (Mammoth Lakes last summer) and in Bishop a similar formation Winter of 2020 (Decemeber i think - did not report - but this formation had at least 10 more) I'm open, non-fanatical, grounded.This formation tonight was awesome. Woke my friend to witness it with me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163043.html](http://www.nuforc.org/webreports/reports/163/S163043.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [297](http://www.nuforc.org/webreports/reports/163/S163043.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163028.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163171.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163428.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163049.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
