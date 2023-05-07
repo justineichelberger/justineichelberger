@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:23 on 7 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:21 on 7 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Boonville (IN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Orange illuminated sphere moving west at high speed in a straight line.Orange illuminated sphere/circle moving west at high speed in a straight line.  Illumination was constant (as opposed to blinking like aircraft).  Could not accurately estimate distance/altitude. From our location, it was about twice the size of a star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36804.html](http://www.nuforc.org/webreports/reports/036/S36804.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Spring Hill (FL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Large Orange fire ball hovering slowly across sky.Last night, at around 9:15 pm, my wife was sitting in our Lanai and saw this large Orange oblong shape that seemed as if it were a fire ball.  It moved slowly from the north to south east.  It lasted at about 15-20 minutes before it seemed to have disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118855.html](http://www.nuforc.org/webreports/reports/118/S118855.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
