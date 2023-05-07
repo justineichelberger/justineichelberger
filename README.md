@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:28 on 7 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:27 on 7 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Holland (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>APPROX 12:15 A.M. WEDNESDAY MORNING MAY 7, 2008, PARTLY CLOUDY CONDITIONS, BETWEEN BREAKS IN CLOUDS, SPOTTED LARGE BALL OF WHITE LIGHT TRAVELING AT SLOWER SPEED THAN WHAT A SHOOTING STAR TRAVELS, TRAVELING FROM THE EAST DIRECTION TO WEST. THE BALL OF LIGHT DID NOT APPEAR AS IF IT WERE COMING FROM BEHIND THE CLOUDS, IT APPEARED MID-WAY IN THE CLEARING OF THE CLOUDS THEN DISAPPEARED BEHIND, NOT TO RE-APPEAR IN NEXT CLEARING. ALSO, LOOKED LIKE IT WAS JUST ABOVE THE CLOUDS SURFACE, NOT HIGH UP INTO THE SKY. WERE THERE ANY OTHER REPORTS OF SIGHTINGS AROUND SAME TIME, DATE, LOCATION? WAS THIS A METEOR? A SATELLITE?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63042.html](http://www.nuforc.org/webreports/reports/063/S63042.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in secret (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 14.0 - 14.0 minutes.</sub><blockquote><sub>Ship land; alien materialize in self contained environmental bright circle of light .I know for a fact where and when to see aliens.  I have a definite location on where the ship lands.  It must be at an exact time and location that only I know.  I need a group of individuals or team with recording equipment to document the encounter.  What I have witnessed is a self contained environmental bright circle of light with no origin of source.  With a self contained life form in it.  I witness the ship land and the entity materialize.  It did not seem to be effected by my presence.  I do not want any one to take credit for my discovery.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161057.html](http://www.nuforc.org/webreports/reports/161/S161057.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
