@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:27 on 7 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:21 on 7 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in secret (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 14.0 - 14.0 minutes.</sub><blockquote><sub>Ship land; alien materialize in self contained environmental bright circle of light .I know for a fact where and when to see aliens.  I have a definite location on where the ship lands.  It must be at an exact time and location that only I know.  I need a group of individuals or team with recording equipment to document the encounter.  What I have witnessed is a self contained environmental bright circle of light with no origin of source.  With a self contained life form in it.  I witness the ship land and the entity materialize.  It did not seem to be effected by my presence.  I do not want any one to take credit for my discovery.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161057.html](http://www.nuforc.org/webreports/reports/161/S161057.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Worcester County (MA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>roomate saw three stars in the daylightI was in the process of taking a few pictures of a rainbow, and while looking and centering my shot, my roomate, who's deaf was commenting on the stars in the sky. I paid him no mind, as I knew he couldn't be seeing stars in the daylight, but as we often use one word for several meanings I believes he was seeing something. After I took a couple of photographs I put the camera down and asked him about the stars. He told me they were gone. I myself saw nothing till I downloaded the few images I captured and saw this one unusual photograph which I've attached as a file to this letter Thanks ((Name deleted))((NUFORC Note:  Submitted as an anonymous report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13397.html](http://www.nuforc.org/webreports/reports/013/S13397.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
