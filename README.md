@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:21 on 7 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:24 on 7 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Worcester County (MA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>roomate saw three stars in the daylightI was in the process of taking a few pictures of a rainbow, and while looking and centering my shot, my roomate, who's deaf was commenting on the stars in the sky. I paid him no mind, as I knew he couldn't be seeing stars in the daylight, but as we often use one word for several meanings I believes he was seeing something. After I took a couple of photographs I put the camera down and asked him about the stars. He told me they were gone. I myself saw nothing till I downloaded the few images I captured and saw this one unusual photograph which I've attached as a file to this letter Thanks ((Name deleted))((NUFORC Note:  Submitted as an anonymous report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13397.html](http://www.nuforc.org/webreports/reports/013/S13397.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Adelaide (South Australia) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>first a dimond shape full of lights then travel right a v type objectthe craft appered  as a dimond shape with 20  or so lights the lights got bright as to wink at her then the lights got duller then it traveled to the right and was half a dimond and it to a v the hight of the craft was close to the edge of the atmosephere as the air was breaking over the front of the craft like water on to a boat hull was travelin at a great speed my eyes  and sight was not keepin up with the craft untill i looked at the whole sky and see the craft travelin at a great speed across the sky untill it was travelin at sutch a speed it was streching to a thiker shape then vanashing out ov sight .i said turn around and draw in the sand what you just saw and so i did and the pictures were the same and i was then satesfied i know what i know seeing is BELIVING thank you for further info find me the craft was to big to describe as big as a war ship</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05667.html](http://www.nuforc.org/webreports/reports/005/S05667.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
