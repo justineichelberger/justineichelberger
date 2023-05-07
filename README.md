@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:20 on 7 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:26 on 7 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lake City (MS) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Object was seen in the southwestern sky at approximately 6,000 to 10,000 feet.  Clouds were sparse.  Object appeared very briefly for 1-2 seconds.  It looked like the silver fuselage of a large aircraft.  No wings were seen.  I was expecting the aircraft to turn and show its silhouette.  It vanished.  There was no con-trail or other vapor from it.  There was no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146053.html](http://www.nuforc.org/webreports/reports/146/S146053.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Cherry Grove (Fire Island) (NY) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Object looking like a comet spotted over ocean at Fire Island.The Object Was round with a bright tail streaming off of it as it moved. It was far off in the distance, but it was hard to tell how far it was compared to how big it was. In my best estimation i would say it was about 5 to 10 thousand feet up. It was glowing faintly, at first i thought it was an after image from staring at a bright light but my 3 freinds saw it also. The object was perceived to be moing very slowly, but withouth knowing its size or distance its imposible to know exactly. It turned from its downward direction and started looping around in a random swirling pattern before slowly spreading out to 10 times its original size and fading away as it did so. My freinds and i all agreed that it did not look like fire works, a meteorite, an airplane, a baloon or a search light. The witneses that i know of.. although im sure there were more. are all college students, from long island NY.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08297.html](http://www.nuforc.org/webreports/reports/008/S08297.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
