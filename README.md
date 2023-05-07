@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:27 on 6 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:31 on 7 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>bird of pray?at sunset while looking west,i was looking around as planes flew by .i looked to the south and at first i thought it was a eagle rideing the upcurrent from off the bluffs.but the more i watched i relize it wasnt that .it was vary high at least 10,000 -20,000 feet .it was long and black but it was like two very long piecs put together and it cycled like abird of pray would . and it  was like drifting with the current (wind) from south to northeast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17536.html](http://www.nuforc.org/webreports/reports/017/S17536.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>three blimp like objects glided in front of our car and disappeared into the trees.I just happened to look up into the sky and there they were, it was around 10:40 pm my boyfriend and I were driving north toward interstate 10 and that's when I saw three blimp like objects with a green light at the tip and they just glided silently in front of our and they just disappeared into the trees, my boyfriend and I were left speechless for about a minute.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37522.html](http://www.nuforc.org/webreports/reports/037/S37522.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [297](http://www.nuforc.org/webreports/reports/163/S163043.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163028.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163171.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163428.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163049.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
