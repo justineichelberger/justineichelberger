@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:20 on 7 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:30 on 7 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Boonville (IN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Orange illuminated sphere moving west at high speed in a straight line.Orange illuminated sphere/circle moving west at high speed in a straight line.  Illumination was constant (as opposed to blinking like aircraft).  Could not accurately estimate distance/altitude. From our location, it was about twice the size of a star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36804.html](http://www.nuforc.org/webreports/reports/036/S36804.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Egg' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Fireball with black rotating band sighted in SE Portland near Hawthorne 5/5/12My husband and I were trying to view the "super moon" when we stepped out side our house we heard a lady say, "what is that". We walked a few more steps out and looked up to see a small oblong orb that looked like it was on fire. There was a long black shadow that kept rotating around the fireball, dimming it as it passed.I ran inside to grab my phone as my husband recorded with his phone. I have a video. When we watched it back, it appeared to suddenly move and then the fire part went out. Then it was just a black orb slowly moving until it was out of sight. We also noticed while watching the video a flashing light to the right of the orb we were watching. We had not noticed that flashing light while viewing the sky. Really freaked us out. The ladies down the street got in there car and drove away before we could talk to them. I really wish I had caught them to see what they thought of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88801.html](http://www.nuforc.org/webreports/reports/088/S88801.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
