@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:25 on 7 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:20 on 7 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in North Lauderdale (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Oval-like shape object  approx 10:25pm , row of blinking lights, lights alternated blue and red, while object ismaking a humming soundA humming sound from outside caught my attention.  Looked out the window thinking it was a plane.  Through the night sky, an Oval-like shape object in the sky.  Row of blinking lights. Lights alternated blue and red.  Remained in place for about 3 minutes then started heading away slowly while red light continues to blink.  Object was making a humming sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36772.html](http://www.nuforc.org/webreports/reports/036/S36772.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lake City (MS) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Object was seen in the southwestern sky at approximately 6,000 to 10,000 feet.  Clouds were sparse.  Object appeared very briefly for 1-2 seconds.  It looked like the silver fuselage of a large aircraft.  No wings were seen.  I was expecting the aircraft to turn and show its silhouette.  It vanished.  There was no con-trail or other vapor from it.  There was no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146053.html](http://www.nuforc.org/webreports/reports/146/S146053.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
