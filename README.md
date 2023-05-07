@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:18 on 7 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:33 on 7 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Fresno (CA) reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Couple witness "huge black thing" over parking lot in downtown Fresno.  Emitted steam or smoke in three directions.  Many lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01488.html](http://www.nuforc.org/webreports/reports/001/S01488.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 55.0 - 55.0 minutes.</sub><blockquote><sub>BRIGHT LIGHT/S OVER EST RENO IN SAT MORRINGWORKING LATE AT SHOP THINKING ABOUT UFOS LOCK UP AND U KNOW LOOKING UP IN TO SKY AND I SEE BITE LIGHT OVER THE AIRPORT THINKING A PLANE IN LANDING BUT ITS NOT MOVING DOWN WARD IN FACT IT SEEM TO BE DRIFTING LIKE A LEAF DOWN A BIT AND PULL UP FOR A SEC AND REP SO AFTER A MIN GET IN CAR DRIVE TO CORER STORE GET A DRINK I TAKE NOTE OF WARE I SANDED THE LIGHT IS ALINED WITH THE POWER LINES ON THE  ST  GO IN TO STORE POINT OUT LIGHT GET READY TO GO HOME LOOKING AT LIGHT DRIVING OFF IN SIDE MIRROR AND LOOKS LIKE IT GENE ALTITUDE TURN AROUND PARK SAME SPOT GET OUT AND NOTE LIGHT IS 7-8" TALLER THAT POWER LINES DOES NOT MOVE GO LIGHT SO FAR AWAY LOOKS LIKE 1 LIGHT PULLS TO 2 AND COMES BACK TO ONE NEXT DAY NO LIGHT IN SAME SPOT((NUFORC Note:  We are uncertain as to whether this report is intended as a sincere and serious-minded account of a genuine sighting.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110107.html](http://www.nuforc.org/webreports/reports/110/S110107.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
