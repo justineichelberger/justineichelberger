@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:17 on 7 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:24 on 7 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Roy (UT) reported seeing craft that fit the description of some 'Changing' over a period of approximately 24:00 - 24:00 minutes.</sub><blockquote><sub>On a walk saw a bright light. It was blinking. It moved slowly. It fadded in and out and changed color. Looked like a maple leaf that was on fire. The way it was moving it looked like a kaledioscope.Mw and my wife were taking a walk when I noticed a bright light over the Great Salt Lake. It was moving to slow to be a plane and it was not a planet because of how close it was. It moved very slowly. It looked like a maple leaf that was on fire. It was a bright blue in the center, then a white, and finally a red on the edges. It also appeared to spin. It would fade in and out. It dissappeared for about ten minutes. After I got home I woke my son up and had him look at it then I got two of our neighbors. About fifteen minutes later it dissappeared. Me and my wife listen to Art Bell just about every night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07914.html](http://www.nuforc.org/webreports/reports/007/S07914.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Emmelshausen (Germany) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>there might be acctual different beeings.hello. I had a very unforgetable experience with a friend. We were in the forest 5km from Emmelshausen hearing a sssshhhh sound on and on.  Later i witnessed people going through the forest but not human kind. The bodies were not materiliased, more kind of made of little spots in various colors. 80-90 to be looked through... no real materialisation. 4  people carrying sombody on a (trage / german). going to the car the experience it was too much to acctually put in anything a man has seen i guess. Even though the scene of those people carrying through the forest wasn't spectacular it was unbelivable. what makes me thinking about this up to this days is that this mechanical sound (hoover like) was in the air for around an hour. even when arriving in emmelshausen. no spectacular things happening but an experience i will not forget as hardly anybody will have expirienced this. enjoy  ((name deleted))  i just think it's not only about ufo's but also about different beeings and states which are pretty far away from mindstates we know.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48884.html](http://www.nuforc.org/webreports/reports/048/S48884.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
