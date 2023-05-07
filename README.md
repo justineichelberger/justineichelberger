@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:24 on 7 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:23 on 7 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Emmelshausen (Germany) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>there might be acctual different beeings.hello. I had a very unforgetable experience with a friend. We were in the forest 5km from Emmelshausen hearing a sssshhhh sound on and on.  Later i witnessed people going through the forest but not human kind. The bodies were not materiliased, more kind of made of little spots in various colors. 80-90 to be looked through... no real materialisation. 4  people carrying sombody on a (trage / german). going to the car the experience it was too much to acctually put in anything a man has seen i guess. Even though the scene of those people carrying through the forest wasn't spectacular it was unbelivable. what makes me thinking about this up to this days is that this mechanical sound (hoover like) was in the air for around an hour. even when arriving in emmelshausen. no spectacular things happening but an experience i will not forget as hardly anybody will have expirienced this. enjoy  ((name deleted))  i just think it's not only about ufo's but also about different beeings and states which are pretty far away from mindstates we know.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48884.html](http://www.nuforc.org/webreports/reports/048/S48884.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Boonville (IN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Orange illuminated sphere moving west at high speed in a straight line.Orange illuminated sphere/circle moving west at high speed in a straight line.  Illumination was constant (as opposed to blinking like aircraft).  Could not accurately estimate distance/altitude. From our location, it was about twice the size of a star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36804.html](http://www.nuforc.org/webreports/reports/036/S36804.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
