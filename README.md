@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:22 on 7 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:23 on 7 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Pueblo West (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Three flashing lights in a triangle shape over my neighbor's home.We saw three flashing lights over my neighbor’s house.  They were flashing out of sequence. These lights form a triangle. and the lights themselves resemble the lights of an airport runway but very bright white.  I started filming and call my wife, so she could see what I was seeing.  My camera was acting up.  As soon as I called my wife they started to move away very quickly.  After that I went to check my film, but it was corrupted.  I could not open it.  I went online on YouTube to see if it could be fix.  I was able to save some of it, but it still was very damaged.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139768.html](http://www.nuforc.org/webreports/reports/139/S139768.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Tualatin (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>lights dancing across skyon my walk home tonight i noticed a star moving somewhat suspiciously.i stopped to take a closer look at it thinking that it was a satalite, which would have been weird living so close to such a major city.after a short while i realized that it couldnt have been a satalite. it would move forward slowly, then stop, then move again faster and slower each time.it only took about 2 minutes of observing this light in the sky that determined that nothing our military has taken responcability for.it would move faster then anything ive ever seen, then stop in a second, turn on a dime and as they would fly it seemed as if they were skipping across water. (a term ive heard used to discribe how some UFOs fly in the past, seems to be proving somewhat true in my experience so far.) after noticing the first light i started to see more and more, all across the sky.they all looked like they were partoling a patch of sky.i watched for about 40 more minutes and decided to come home and tell everyone my story.((NUFORC Note:  Stars??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56567.html](http://www.nuforc.org/webreports/reports/056/S56567.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
