@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:48 on 7 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:22 on 7 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Waupun (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>They were a red orange color they were flying in several different ways first I saw them in kind of a square formation moving slowly north of waupun and then in a slanted line I was working so I did not see them for to long but I saw the 15min after the first sighting still out there</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127265.html](http://www.nuforc.org/webreports/reports/127/S127265.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Pueblo West (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Three flashing lights in a triangle shape over my neighbor's home.We saw three flashing lights over my neighbor’s house.  They were flashing out of sequence. These lights form a triangle. and the lights themselves resemble the lights of an airport runway but very bright white.  I started filming and call my wife, so she could see what I was seeing.  My camera was acting up.  As soon as I called my wife they started to move away very quickly.  After that I went to check my film, but it was corrupted.  I could not open it.  I went online on YouTube to see if it could be fix.  I was able to save some of it, but it still was very damaged.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139768.html](http://www.nuforc.org/webreports/reports/139/S139768.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/163/S163054.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163069.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163153.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163089.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
