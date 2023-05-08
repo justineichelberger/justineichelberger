@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:37 on 8 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:13 on 8 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>6 white circular objects in the sky over Tucson AZMy girlfriend and I were at the corner of Ruthraff & La Cholla St when I looked up and noticed 6 white looking round shaped objects in the sky.  They were moving in an unorganized pattern back and forth.  Sometimes they would stay completely still and then they would move and make sharp quick right and left turns.  Sometimes they would pair up and cross each other.  They were very high up in the sky and at that altitude it is unlikely that jets can move in that formation.  We watched as they moved back and forth then slowly disappeared.  We tried to take a video but it didn't show them due to the bright sunlight.  It was a clear sunny day and they looked like white dots.  At that altitude I don't know anything that can sit still for 5 minutes then move across the sky very fast then sit still again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109281.html](http://www.nuforc.org/webreports/reports/109/S109281.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in New Orleans (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>7 lights flying in formation, changing positions and angles of flight.About 1 am this morning, several of us were chatting in our French Quarter courtyard when my wife pointed to the sky to ask what “that” was.  We had turned all of the lights off 15 minutes earlier, so our eyes were accustomed to the dark and we were using my Google Sky app to point out the planets and constellations.  It was a rare clear night (for us) and the stars and planets were particularly sharp.  As I was pointing out Saturn (the brightest point in the sky at the time), my wife pointed out the objects moving in formation about 25 degrees east of Saturn.  There were 7 or 8 points of light, maybe 1/3 the brightness of Saturn and a little smaller, moving slowly towards the North.  2 or 3 in the lead, 3 more fanned out behind and 2 more bringing up the rear.  They would change positions but moved at the same rate of speed in tandem – very slowly – with an occasional stop to regroup before proceeding again.  Far too high, close together and small for any ai! rport or military traffic, which don’t fly that trajectory anyway when approaching Armstrong Airport.  The members of our party watched them, mostly in silence, for close to 15 minutes until they disappeared behind the buildings.  We tried video-ing the lights, but the footage didn’t turn out.  It was a pretty well-heeled and older group of us at the end of our party – a real estate agent, a general contractor, 2 lawyers, 2 musicians and (I believe) a retired judge.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127257.html](http://www.nuforc.org/webreports/reports/127/S127257.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/163/S163066.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163071.html)
-- [275](http://www.nuforc.org/webreports/reports/163/S163056.html)
-- [274](http://www.nuforc.org/webreports/reports/163/S163074.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163077.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
