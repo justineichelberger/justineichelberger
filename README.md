@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:26 on 8 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:28 on 8 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Circleville (UT) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>5/8/2018, 22:15, Circleville, UT, Square shape with lights, 10 min. change into a straight line with lightsDriving North from Bryce Canyon to Richfield ,taking Rt.89,on May 8th, 2 of us witnessed in the western sky a large bright orange orb seem to flash out or hit the ground and disappear.  This sighting was in the western sky.The second sighting was made by all of us.  We were admiring the beautiful stars in the very dark sky.  We stopped the car when we noticed 4 blinking lights in a square formation.   These were not stars as they proceeded to change shape into 4 blinking lights in a straight line.  We observed the awesome sight and thought it best to get back into the car and move along as it was very dark and we were in the middle of nowhere.  We were traveling close or in the Dixie National Forest.  This UAP was above what an airplane would be able to reach, so we don't believe it was an aircraft.  This UAP was in the Northeastern sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141595.html](http://www.nuforc.org/webreports/reports/141/S141595.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Nikiski (AK) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>It was late at night, and I was up to my usual again, listening to Art Bell, looking for things in the sky. I had "One of those feelings" and was hoping to see something. I got my binoculars just in case. At exactly midnight, I spotted a very slow moving starlike object moving beside the planet in the sky, probably Venus. It was not blinking, too slow for a shooting star, wasn't traveling in a elliptical path, so it was unidentifiable. It moved down the sky for about 20 seconds before fading out of view. It was white in color. At 12:14, I see another starlike object in the sky, this one is more blue with the same characteristics as the last object. It moved at a 5 degree slope in the sky upward very slowly (slightly west) for about 1 and 1/2 minutes before stopping, and headed straight east at a 90 degree from its last position before moving out of view behind the clouds. 22 minutes later, it was back again for about 20 seconds and headed straight up before fading out of view again.I would have had witnesses, had my step-dad not been called to work 15 minutes before. My mom had also just laid back down to go back to sleep, and I had just got off of the phone with my girlfriend. If my mom wasn't permanentely disabled I would have got her up to see em', but I didn't want to wake her. I would have had physical evidence if a regular 35mm camera could take good pictures of the night sky, but I couldn't even see the planet that was out in the view lenses. So I decided since this is the second sighting I've had this year alone (last was on March 3, I think I reported it to you) I am going to buy a video camera as to prove that I am not having hallucinations nor am I crazy. Also, this was the second time this year I asked my Father and Creator Yahweh for a sign from the sky and I got one. There is indeed a spiritual connection there.....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07764.html](http://www.nuforc.org/webreports/reports/007/S07764.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/163/S163066.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163071.html)
-- [275](http://www.nuforc.org/webreports/reports/163/S163056.html)
-- [274](http://www.nuforc.org/webreports/reports/163/S163074.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163077.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
