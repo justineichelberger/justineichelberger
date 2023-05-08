@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:32 on 8 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:26 on 8 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Irmo (SC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Saw various lights like starts traveling in a row and disappear in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163076.html](http://www.nuforc.org/webreports/reports/163/S163076.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Meriden (CT) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright object moving almost like a circuliar rocket.I was taking a walk on out skirts of Meriden. Up out ahead of me I was a wierd shaped object almost circular, but hard to say shape. It was around 5 in the evening and the sun was setting and the sun reflected on it and it just kept on moving toward Chesire and Southington. I only saw it for about 30 secs, but those thirty seconds were incredible they way the sun reflected of it, it wasnt like  a mirror relecting , it wasnt so bright that it hurt to look at it, it was a slight reflection. It was amazing. I just forgot about it inventually and last night all of a sudin almost like a flash back I just like went back to that day and almost relived the moment. Thus I went online hoping to see similiar apperances, unfortunitly i was unable to. Initially i thought maybe it was the space station but it deffinitly wasnt it was about the height maybe slightly under a plane would fly.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43162.html](http://www.nuforc.org/webreports/reports/043/S43162.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/163/S163066.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163071.html)
-- [275](http://www.nuforc.org/webreports/reports/163/S163056.html)
-- [274](http://www.nuforc.org/webreports/reports/163/S163074.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163077.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
