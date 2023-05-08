@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:27 on 8 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:21 on 8 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Clark (NJ) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>white colored cigar shape with a dome or ball shape on the end changing colors and then disappearingWhile walking my dog around 23:15 - 23:40, I heard a whoosh-like sound coming from behind me.  I looked up and above me and heading south, very low in the sky, was a brilliant white, cigar-shaped object.   It appeared to be rather thick in size, about an inch to an inch-and-a-half in width and the length of my arm.  On the end of it was a circular ball-like shape that seemed to go from a violet to blue to red and then it just went poof; it disappeared.  It actually looked like a lollipop but the stick would be very thick.  It was very clear out and there were many planes in the area, including orange in color which I have never noticed before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56633.html](http://www.nuforc.org/webreports/reports/056/S56633.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Steinbach (Canada) (MB) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Driving home from my daughter’s house after baby-sitting my grandchildren, I saw something very strange flying very fast in the distance in front of me. It was a cloudless sky.Just out side of New Bothwell Manitoba on May 8th 2012 about 2100 hours.  In the distance I saw a pulsating bright white light, flying fast and as high as a small aircraft would be.I saw no shape to this lighted object. It was blinking; it blinked 3 times very quickly then moved forward.It was not flying in a straight line, nor was its speed consistent.After its three pulsating blinks, it looked as if it took a new position, then the 3 blink’s before. Sometimes slightly higher or lower, or further ahead then the movement before.It was moving very fast heading towards Steinbach Manitoba. I was driving as fast as I safely could, but it was soon far way in the distance. The blinking light was just as bright far way, as it was close up.I also noted that there was no smoke stream coming from the rear, nor was there any sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88871.html](http://www.nuforc.org/webreports/reports/088/S88871.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/163/S163066.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163071.html)
-- [275](http://www.nuforc.org/webreports/reports/163/S163056.html)
-- [274](http://www.nuforc.org/webreports/reports/163/S163074.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163077.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
