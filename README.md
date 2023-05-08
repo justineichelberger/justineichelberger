@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:30 on 8 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:22 on 8 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Colonial Heights (TN) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bizarre looking hovering less than full scale commercial jet shape, not a propellor drone.8 May 2018 about 12:15 EDT afternoon.Sunny sky.Driving north on I-81 just north of Jearoldstown TN.A hovering or extremely slowly moving “commercial passenger jet” in appearance pointed about south.I’m driving about NE at about 60 mph uphill.It was a bizarre looking passenger jet, looks most similar to an Airbus 320.Grayish white skinny fuselage. Deep blue fan jet engine cowlings under wings.Deep blue under wing panels.It yawed in erratic motions to point in the general direction of my truck.It was either moving way below stall speed or it was hovering.No aft wing flaps deployed. The leading edge wing slats were deployed between the fuselage and cowlings but not outboard of the cowlings. They kept retracting and deploying or changed shape somehow and erratically. The fuselage was too skinny to be an Airbus. I first thought it was a predator drone but realized it was not that shape. Where the front cockpit glass should be was a thin black line.It slightly rolled and yawed in jerky motions. It was not a hovering propellor drone. But it appeared to be a fake somehow, about 1/2 to 2/3’s the size a commercial jet should be.I drove under it on the highway with the thing either doing less than 30 mph or hovering as our speed differentials were no more than about 100 mph.I estimate it AGL at about 1000 ft.No nav lights, no livery markings, no N number.The bizarre leading edge inboard slats were not normal in shape or function.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141638.html](http://www.nuforc.org/webreports/reports/141/S141638.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Reedville (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Hour - Hour minutes.</sub><blockquote><sub>Hovering lightsWitnessed yellow and white lights flashing low on the horizon. The object appeared to be hovering in a specific area in the distance. The lights began moving slowly back and forth; also vertically. The lights flashed much faster than those of any aircraft I've ever seen. We stopped observing after the lights disappeared straight up into the low cloud cover. We came back to find the object had already re-appeared and was still hovering, although it seemed another pair of flashing lights joined the previous craft.We observed them hovering for another twenty minutes until they just disappeared.Not a helicopter. Plane. Tower. etc...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70131.html](http://www.nuforc.org/webreports/reports/070/S70131.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/163/S163066.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163071.html)
-- [275](http://www.nuforc.org/webreports/reports/163/S163056.html)
-- [274](http://www.nuforc.org/webreports/reports/163/S163074.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163077.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
