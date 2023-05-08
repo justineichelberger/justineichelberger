@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:31 on 8 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:44 on 8 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Clark (NJ) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>white colored cigar shape with a dome or ball shape on the end changing colors and then disappearingWhile walking my dog around 23:15 - 23:40, I heard a whoosh-like sound coming from behind me.  I looked up and above me and heading south, very low in the sky, was a brilliant white, cigar-shaped object.   It appeared to be rather thick in size, about an inch to an inch-and-a-half in width and the length of my arm.  On the end of it was a circular ball-like shape that seemed to go from a violet to blue to red and then it just went poof; it disappeared.  It actually looked like a lollipop but the stick would be very thick.  It was very clear out and there were many planes in the area, including orange in color which I have never noticed before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56633.html](http://www.nuforc.org/webreports/reports/056/S56633.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sarasota (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Star like objects moving in a uncontrollable path. One stopped and then kept moving.I was walking my dog and saw 4 star like lights in the sky moving south to north.  These were separate sightings within a 20 minute interval.  The third star like light object actually stopped and then continued on its track.I can't explain what these star like lights were but i see them usually 4 times a week taking different paths.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88857.html](http://www.nuforc.org/webreports/reports/088/S88857.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/163/S163066.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163071.html)
-- [275](http://www.nuforc.org/webreports/reports/163/S163056.html)
-- [274](http://www.nuforc.org/webreports/reports/163/S163074.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163077.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
