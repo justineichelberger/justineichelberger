@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:21 on 8 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:37 on 8 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Steinbach (Canada) (MB) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Driving home from my daughter’s house after baby-sitting my grandchildren, I saw something very strange flying very fast in the distance in front of me. It was a cloudless sky.Just out side of New Bothwell Manitoba on May 8th 2012 about 2100 hours.  In the distance I saw a pulsating bright white light, flying fast and as high as a small aircraft would be.I saw no shape to this lighted object. It was blinking; it blinked 3 times very quickly then moved forward.It was not flying in a straight line, nor was its speed consistent.After its three pulsating blinks, it looked as if it took a new position, then the 3 blink’s before. Sometimes slightly higher or lower, or further ahead then the movement before.It was moving very fast heading towards Steinbach Manitoba. I was driving as fast as I safely could, but it was soon far way in the distance. The blinking light was just as bright far way, as it was close up.I also noted that there was no smoke stream coming from the rear, nor was there any sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88871.html](http://www.nuforc.org/webreports/reports/088/S88871.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>6 white circular objects in the sky over Tucson AZMy girlfriend and I were at the corner of Ruthraff & La Cholla St when I looked up and noticed 6 white looking round shaped objects in the sky.  They were moving in an unorganized pattern back and forth.  Sometimes they would stay completely still and then they would move and make sharp quick right and left turns.  Sometimes they would pair up and cross each other.  They were very high up in the sky and at that altitude it is unlikely that jets can move in that formation.  We watched as they moved back and forth then slowly disappeared.  We tried to take a video but it didn't show them due to the bright sunlight.  It was a clear sunny day and they looked like white dots.  At that altitude I don't know anything that can sit still for 5 minutes then move across the sky very fast then sit still again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109281.html](http://www.nuforc.org/webreports/reports/109/S109281.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/163/S163066.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163071.html)
-- [275](http://www.nuforc.org/webreports/reports/163/S163056.html)
-- [274](http://www.nuforc.org/webreports/reports/163/S163074.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163077.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
