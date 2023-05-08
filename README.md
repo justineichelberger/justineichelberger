@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:21 on 8 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:26 on 8 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Santa Fe (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was at frenchy's field park here in town. About 9 in the evening. I was hanging upside down from the pull up bar, doing my regular calisthenic exercises when I noticed the long single file caravan of non flashing white light spheres, traveling in a straight line heading North East. I lost count at about 30. There could have been a hundred in all. The line of these light spheres seemed to go from horizon to horizon almost. They were not low in the sky. Unknown distance but pretty high up. They were all single file, one in front of the other except for a single pair which were flying nearly side by side. Their speeds were not perfectly constant in relation to each other as they seemed to speed up/slow down. That's all i've got. I tried to film it but this video quality on my new phone is terrible and didn't pick any of it up. Surely there were other witnesses here in Santa Fe, I just hope they know to report it on this website.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163070.html](http://www.nuforc.org/webreports/reports/163/S163070.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Ashburn (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>6-8 lights moving in circular pattern from west to south along the skySaw 6-8 lights the were equal in brightness to the stars. The lights were steady and did not blink like the normal air traffic in the area. They were observed south west of Ashburn VA. They were equidistant from each other and appeared to move in a circular pattern from west to the south. As they continued south they were no longer visible. They moved at a moderate speed similar to that of an airplane keeping equal space from each other the whole time</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163073.html](http://www.nuforc.org/webreports/reports/163/S163073.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/163/S163066.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163071.html)
-- [275](http://www.nuforc.org/webreports/reports/163/S163056.html)
-- [274](http://www.nuforc.org/webreports/reports/163/S163074.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163077.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
