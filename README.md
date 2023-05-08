@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:22 on 8 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:29 on 8 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Reedville (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Hour - Hour minutes.</sub><blockquote><sub>Hovering lightsWitnessed yellow and white lights flashing low on the horizon. The object appeared to be hovering in a specific area in the distance. The lights began moving slowly back and forth; also vertically. The lights flashed much faster than those of any aircraft I've ever seen. We stopped observing after the lights disappeared straight up into the low cloud cover. We came back to find the object had already re-appeared and was still hovering, although it seemed another pair of flashing lights joined the previous craft.We observed them hovering for another twenty minutes until they just disappeared.Not a helicopter. Plane. Tower. etc...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70131.html](http://www.nuforc.org/webreports/reports/070/S70131.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Lake St. Louis (MO) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Extremely fast moving UFO in St. Louis, Missouri.My uncle and I were driving to leave St. Louis to go fishing, when we saw what looked like a grayish bluish shape, traveling extremely fast above us on the horizon.  It was traveling at least 5 to 10 times faster than any chat can travel.  It appeared in front of us for only a couple seconds before disappearing.  It was very low on the horizon and quite close.  It couldn't have been a "shooting star" as it was much much too close to the ground.  But it clearly was not an airplane.  Neither of us have any idea what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134020.html](http://www.nuforc.org/webreports/reports/134/S134020.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/163/S163066.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163071.html)
-- [275](http://www.nuforc.org/webreports/reports/163/S163056.html)
-- [274](http://www.nuforc.org/webreports/reports/163/S163074.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163077.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
