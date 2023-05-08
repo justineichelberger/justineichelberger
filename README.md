@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:44 on 8 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:14:41 on 8 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sarasota (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Star like objects moving in a uncontrollable path. One stopped and then kept moving.I was walking my dog and saw 4 star like lights in the sky moving south to north.  These were separate sightings within a 20 minute interval.  The third star like light object actually stopped and then continued on its track.I can't explain what these star like lights were but i see them usually 4 times a week taking different paths.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88857.html](http://www.nuforc.org/webreports/reports/088/S88857.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Jeffersonville (IN) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Strange aircraft followed by 5 blackhawk helicopters.Family was awoke by the house violently shaking, looked outside and saw 5 objects flying in formation flying very very low, and heading north.I quickly grabbed my Luna optics full color Night vision device with 20x zoom, and waited for anything else.About 45 minutes later the objects came back over heading in a southern direction.  Now equipped with my color digital night vision, I was shocked to see a strange aircraft with normal aircraft lighting.  But its shape was unrecognizable, I have never seen a aircraft like it.  Following far behind the first strange object was 5 blackhawk type helicopters.  Without night vision, they appeared to be just normal helicopters, but with the night vision, you could clearly see 100% BLACKHAWKS every edge, detail.What they were doing is beyond me, but lots of others reported seeing and hearing helicopters that night flying over there house.Reports were made to local news stations websites.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109426.html](http://www.nuforc.org/webreports/reports/109/S109426.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/163/S163066.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163071.html)
-- [275](http://www.nuforc.org/webreports/reports/163/S163056.html)
-- [274](http://www.nuforc.org/webreports/reports/163/S163074.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163077.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
