@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:29 on 8 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:27 on 8 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Lake St. Louis (MO) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Extremely fast moving UFO in St. Louis, Missouri.My uncle and I were driving to leave St. Louis to go fishing, when we saw what looked like a grayish bluish shape, traveling extremely fast above us on the horizon.  It was traveling at least 5 to 10 times faster than any chat can travel.  It appeared in front of us for only a couple seconds before disappearing.  It was very low on the horizon and quite close.  It couldn't have been a "shooting star" as it was much much too close to the ground.  But it clearly was not an airplane.  Neither of us have any idea what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134020.html](http://www.nuforc.org/webreports/reports/134/S134020.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Norfolk (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Extremely loud bang, light spotted in sky.My girlfriend and I were laying in bed and heard this extremely loud boom noise.  Was looking outside to see if I saw a car accident due to the noise sounding very close.  Looked in the sky and say a glowing light moving left to right in an almost perfect semi circle.  The speed changed as the craft moved and at times it would almost look like it was just hovering.  During breaks in the clouds you could see that the light was brighter, but then would go behind cloud cover again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146038.html](http://www.nuforc.org/webreports/reports/146/S146038.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/163/S163066.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163071.html)
-- [275](http://www.nuforc.org/webreports/reports/163/S163056.html)
-- [274](http://www.nuforc.org/webreports/reports/163/S163074.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163077.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
