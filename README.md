@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:13 on 8 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:37 on 8 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in New Orleans (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>7 lights flying in formation, changing positions and angles of flight.About 1 am this morning, several of us were chatting in our French Quarter courtyard when my wife pointed to the sky to ask what “that” was.  We had turned all of the lights off 15 minutes earlier, so our eyes were accustomed to the dark and we were using my Google Sky app to point out the planets and constellations.  It was a rare clear night (for us) and the stars and planets were particularly sharp.  As I was pointing out Saturn (the brightest point in the sky at the time), my wife pointed out the objects moving in formation about 25 degrees east of Saturn.  There were 7 or 8 points of light, maybe 1/3 the brightness of Saturn and a little smaller, moving slowly towards the North.  2 or 3 in the lead, 3 more fanned out behind and 2 more bringing up the rear.  They would change positions but moved at the same rate of speed in tandem – very slowly – with an occasional stop to regroup before proceeding again.  Far too high, close together and small for any ai! rport or military traffic, which don’t fly that trajectory anyway when approaching Armstrong Airport.  The members of our party watched them, mostly in silence, for close to 15 minutes until they disappeared behind the buildings.  We tried video-ing the lights, but the footage didn’t turn out.  It was a pretty well-heeled and older group of us at the end of our party – a real estate agent, a general contractor, 2 lawyers, 2 musicians and (I believe) a retired judge.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127257.html](http://www.nuforc.org/webreports/reports/127/S127257.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in St. Cloud (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was traveling east on I94 at 0500 hours going to work, it was dark just before the sunrise it was cloudy low lying clouds. I notice a low flying craft at about 300 hundred feet above the ground to my left thru drivers side window, I thought this is strange because there is a tall power line system that reaches at least 150 ft to 200 ft. off the ground in its path.  This craft was moving towards my direction left to right with the power lines directly in its path. It was not a plane its lights were yellow, no white, green, or red.  No flashing light either, just solid yellow. This was no plane or helicoptor, I turned raio off, open windows and slowed down, no traffic around but me so I was able to hear well, no sound from this craft as it past over my car.  This was a strange craft, I believe it was a U.F.O.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88873.html](http://www.nuforc.org/webreports/reports/088/S88873.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/163/S163066.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163071.html)
-- [275](http://www.nuforc.org/webreports/reports/163/S163056.html)
-- [274](http://www.nuforc.org/webreports/reports/163/S163074.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163077.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
