@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:28 on 8 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:29 on 8 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Eagle River (MI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>At night, midnight sky. First saw 10-12 white lighted capsules moving across the sky in perfect formation. Moving in a straight line, same distance apart and same speed. 15 minutes saw another line of them coming across the sky. Possibly 30 of them this time. Never saw anything like this. Went and got my husband up to see. He was positive they had to be ufo’s!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163058.html](http://www.nuforc.org/webreports/reports/163/S163058.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Newport (RI) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Cigar shaped object, uncertain of color, had white, green & red counter-clockwise traveling lights, moving slowly at daybreak.Cigar-shaped object with white, green and red counter-clockwise traveling lights, in that order, seen in the air over Narragansett Bay, in the area of Newport Bridge & US Naval Base.  It slowly traveled the same short route five times, from west to east & returning to the west.  On the third trip east, it was half way and appeared to go north towards Bristol, but immediately returned south and headed east, again.  On its 5th and final trip, headed east, it disappeared from site.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139790.html](http://www.nuforc.org/webreports/reports/139/S139790.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/163/S163066.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163071.html)
-- [275](http://www.nuforc.org/webreports/reports/163/S163056.html)
-- [274](http://www.nuforc.org/webreports/reports/163/S163074.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163077.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
