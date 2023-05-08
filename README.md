@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:27 on 8 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:27 on 8 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Norfolk (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Extremely loud bang, light spotted in sky.My girlfriend and I were laying in bed and heard this extremely loud boom noise.  Was looking outside to see if I saw a car accident due to the noise sounding very close.  Looked in the sky and say a glowing light moving left to right in an almost perfect semi circle.  The speed changed as the craft moved and at times it would almost look like it was just hovering.  During breaks in the clouds you could see that the light was brighter, but then would go behind cloud cover again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146038.html](http://www.nuforc.org/webreports/reports/146/S146038.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Clark (NJ) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>white colored cigar shape with a dome or ball shape on the end changing colors and then disappearingWhile walking my dog around 23:15 - 23:40, I heard a whoosh-like sound coming from behind me.  I looked up and above me and heading south, very low in the sky, was a brilliant white, cigar-shaped object.   It appeared to be rather thick in size, about an inch to an inch-and-a-half in width and the length of my arm.  On the end of it was a circular ball-like shape that seemed to go from a violet to blue to red and then it just went poof; it disappeared.  It actually looked like a lollipop but the stick would be very thick.  It was very clear out and there were many planes in the area, including orange in color which I have never noticed before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56633.html](http://www.nuforc.org/webreports/reports/056/S56633.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/163/S163066.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163071.html)
-- [275](http://www.nuforc.org/webreports/reports/163/S163056.html)
-- [274](http://www.nuforc.org/webreports/reports/163/S163074.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163077.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
