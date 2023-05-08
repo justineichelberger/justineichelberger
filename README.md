@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:37 on 8 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:25 on 8 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in St. Cloud (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was traveling east on I94 at 0500 hours going to work, it was dark just before the sunrise it was cloudy low lying clouds. I notice a low flying craft at about 300 hundred feet above the ground to my left thru drivers side window, I thought this is strange because there is a tall power line system that reaches at least 150 ft to 200 ft. off the ground in its path.  This craft was moving towards my direction left to right with the power lines directly in its path. It was not a plane its lights were yellow, no white, green, or red.  No flashing light either, just solid yellow. This was no plane or helicoptor, I turned raio off, open windows and slowed down, no traffic around but me so I was able to hear well, no sound from this craft as it past over my car.  This was a strange craft, I believe it was a U.F.O.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88873.html](http://www.nuforc.org/webreports/reports/088/S88873.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Memphis (TN) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>in Memphis Tennessee standing at my window around 100 brilliantly lit objects the size of aircraft carriers, passed by, one by one.Standing at my half opened window at 6 minutes to midnight on May 7, 2014, lasting until ten minutes after midnight, May 8th, I saw objects that were the size of an aircraft carrier with such brilliant lights, especially those in front and behind that I could not actually see the object.  They moved very fast, one after the other, with several seconds in between, heading in the direction of the airport,  There were many many of them, maybe 100.  They made almost no sound at all, to be distinguished from jet planes which go by all the time and are noisy.((NUFORC Note:  This is a hurriedly submitted, preliminary report from a friend of the witness.  We have invited the witness to submit a longer, more-detailed report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109260.html](http://www.nuforc.org/webreports/reports/109/S109260.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/163/S163066.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163071.html)
-- [275](http://www.nuforc.org/webreports/reports/163/S163056.html)
-- [274](http://www.nuforc.org/webreports/reports/163/S163074.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163077.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
