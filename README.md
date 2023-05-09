@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:14:31 on 9 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:25 on 9 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in El Paso (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Black sphere with flame light seen over loop 375 El Paso, Texas.I was driving home and noticed what appeared to be a red flame about 300 yards in the sky. The flame  (reddish/orange in color) light, traveling north over loop 375 looked a little blurry so I parked and continued to observe to flame but still looked blurry. The flame light appeared to fade out as the light turned west, then noticed the large dark (black) sphere shape appear with the reflection of the city lights. The sphere was about the size of a large two story house (possibly larger), continued to travel west bound.  The sphere did not have lights or sound to indicate it was a plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156370.html](http://www.nuforc.org/webreports/reports/156/S156370.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Moses Lake (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Large, triangular  formation of lights witnessed over the Grant Co. Intl. Airport.At approx. 22:25 hours, I was getting out of my ((deleted)) vehicle when I noticed what I thought to be a satellite passing overhead. After looking closer, I noticed that there were two other "satellites" following in formation, forming a very large triangular shape. I began to watch it closely and noticed slightly dimmer lights that appeared to outline the object, again forming a very large triangle. The object continued to travel across the night sky at a very slow speed yet very high altitude never, losing its formation.I continued to watch the object until it disapeared behind the cloud cover. My background is in ((deleted)) services, a full-time ((deleted)), and a reserve ((deleted)).((NUFORC Note:  We have deleted certain data from the report to protect the individual's privacy.  Witness appears to be a highly qualified individual, and probably is an excellent observer.  We believe that the witness may have observed three satellites that have been reported to NUFORC recently.  They appear to fly in unwavering formation, and they seem to remain visible for several weeks' duration.  They are thought to be part of a U. S. Navy space surveillance effort, which is referred to as "N.O.S.S."   However, we have no explanation for the additional lights that the witness describes.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17577.html](http://www.nuforc.org/webreports/reports/017/S17577.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/163/S163101.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163106.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163100.html)
-- [242](http://www.nuforc.org/webreports/reports/163/S163099.html)
-- [241](http://www.nuforc.org/webreports/reports/163/S163161.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
