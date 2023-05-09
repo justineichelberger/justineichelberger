@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:34 on 9 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:27 on 9 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Pens and Panama (between) (FL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10:00 - 10:00 minutes.</sub><blockquote><sub>We left from my husbands parents house back to ours.  Clear as day very high in the sky on the way home was a shiny cigar shaped object in the sky. I  asked my husband what he was seeing and he replied, " a Blimp" but a blimp couldn't be that high we watched it for 10 minutes and then our view was gone as we were traveling on mothers day back home to Panama City Florida.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75397.html](http://www.nuforc.org/webreports/reports/075/S75397.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Auburn (AL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was awaken by a bright light shining through my window.  I looked up and at first thought it may be the moon.  I tried to go back to sleep but the light was so bright it was bothering me.  I got up and looked out the window and saw a very bright white light, so bright it was hard to tell the shape but the closest I would put it with would be a circle.  It was very low in the sky, it rested just above the treetops.  At first I thought maybe someone brought in soccer lights to do construction, so I laid back down with my back facing the light and tried to go back to sleep.  As I laid there resting I realized that we lived too far from the construction site to be able to see any lights.  I turned around and the light had completely disappeared.  I didn't take any pictures because at the time I would have to open that back door and I didn't want to wake anyone up.  I am not sure what I saw but this light has not sat well with me from the moment I first laid eyes on it,  It is odd.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134022.html](http://www.nuforc.org/webreports/reports/134/S134022.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/163/S163101.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163106.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163100.html)
-- [242](http://www.nuforc.org/webreports/reports/163/S163099.html)
-- [241](http://www.nuforc.org/webreports/reports/163/S163161.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
