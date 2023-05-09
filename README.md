@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:29 on 9 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:25 on 9 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Nokomis (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Ball of fire.  1/8 th inch from my perspective.  No light trail.  Looks like landed in Gulf of Mexico.  Did not look like shooting star.  Much closer and bigger.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163064.html](http://www.nuforc.org/webreports/reports/163/S163064.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Ocala (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Flying line Formation of unidentifiable objects in clear skyMyself and my wife were taking a nighttime stroll. She directs my attention to an unusual formation or constellation of stars. I looked up in the direction which was north on my compass. There were about 9 stars very far away appearing to be like distant stars but they were in a perfect line. Then we realized they were moving. Almost too fast to be normal. A plane doesn’t travel across sky that far at that speed. They also were moving out of site they were flying over head and the sky was perfectly clear so it’s unexplainable how they were flying out of view unless they were flying further in trajectory. Nighttime flights can’t be in a straight line which also makes me wonder if this was one object that was Massive.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163099.html](http://www.nuforc.org/webreports/reports/163/S163099.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/163/S163101.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163106.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163100.html)
-- [242](http://www.nuforc.org/webreports/reports/163/S163099.html)
-- [241](http://www.nuforc.org/webreports/reports/163/S163161.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
