@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:08 on 9 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:14:31 on 9 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Santa Cruz (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two V formations of faint orange lightsWent out to enjoy the clear night sky...looked up and  noticed a V formation of very faint orange lights.  They would have been very easy to miss if I hadn’t gone out to specifically look at the night sky.  The brightness of the moon may have made them appear dim also...very bright night.Two V formations. One formation of 7 circular looking lights, with an additional V formation at the side of 3 lights. No sound.  Moving probably as fast as a fighter jet?  I really couldn't tell what their altitude was… It seemed about the attitude of a commercial jet. Moving S/E to N/W.They disappeared over the tree tops before I could get anyone else to come out of the house to look at them.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109344.html](http://www.nuforc.org/webreports/reports/109/S109344.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in El Paso (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Black sphere with flame light seen over loop 375 El Paso, Texas.I was driving home and noticed what appeared to be a red flame about 300 yards in the sky. The flame  (reddish/orange in color) light, traveling north over loop 375 looked a little blurry so I parked and continued to observe to flame but still looked blurry. The flame light appeared to fade out as the light turned west, then noticed the large dark (black) sphere shape appear with the reflection of the city lights. The sphere was about the size of a large two story house (possibly larger), continued to travel west bound.  The sphere did not have lights or sound to indicate it was a plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156370.html](http://www.nuforc.org/webreports/reports/156/S156370.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/163/S163101.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163106.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163100.html)
-- [242](http://www.nuforc.org/webreports/reports/163/S163099.html)
-- [241](http://www.nuforc.org/webreports/reports/163/S163161.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
