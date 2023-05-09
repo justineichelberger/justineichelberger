@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:29 on 9 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:23 on 9 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Bellevue (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Green light shot up into the air, hovered, turned red, then green again, then flew off in different direction.I have never seen a UFO before, but this was a strange sighting.  I am already forgetting the details, but what I recall was something like this:  a green light (or two lights, but as if in one vehicle?) shot up from low in the sky at a speed that made me think of a firework being launched.  The light(s) reached a certain altitude (30-45 degrees up from the horizon) and hovered for what felt like 30 seconds.  I got out of my car to look at it, because the initial movement (and the subsequent lack thereof) was so unusual.  It just hovered there for an oddly long stretch of time, then I noticed the light(s) were red, as though it had turned around abruptly.  It still hovered for a few more seconds, then took off again in a different direction, flying off out of sight, maybe with green lights again.  I should have recorded all this right after seeing it, but my kids (who saw it too) were a little freaked out, and I had to downplay the whole thing.  Can't remember if I ever saw red and green lights at the same time.  The initial "shooting up" movement was much faster than a commercial plane, though perhaps could have been a fighter jet?  No sound was heard, though.  My kids suggested the "hovering light" was a flying vehicle heading towards us, hence the appaearance of not moving.  But there was never any change in light size or brightness, as you see when an airplane (which always has white lights!) is heading towards you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118914.html](http://www.nuforc.org/webreports/reports/118/S118914.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Haverhill (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Round bright light pulsing colors in the center and every couple minutes changed to a larger square/diamond shape that pulsed.It looked like a bright star so I got my cannon video recorder and zoomed in on it and noticed it was a pulsing circle shape from white to a couple other colors, but pulsing in the center, and every couple minutes or so it would change into a larger diamond/square shape that also pulsed, then a couple minutes later change back to the pulsing circle shape. I put the video on youtube. I seen it before a few times that past month or so traveling on this path very slowly, but I always thought it was a star and this was the first time I zoomed in on it and realized I don't know what it is. It lasts about an hour or more as it moves slowly north west out of site into the distance. I'll try and get more video when I see it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156366.html](http://www.nuforc.org/webreports/reports/156/S156366.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/163/S163101.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163106.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163100.html)
-- [242](http://www.nuforc.org/webreports/reports/163/S163099.html)
-- [241](http://www.nuforc.org/webreports/reports/163/S163161.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
