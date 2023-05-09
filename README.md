@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:25 on 9 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:25 on 9 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Moses Lake (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Large, triangular  formation of lights witnessed over the Grant Co. Intl. Airport.At approx. 22:25 hours, I was getting out of my ((deleted)) vehicle when I noticed what I thought to be a satellite passing overhead. After looking closer, I noticed that there were two other "satellites" following in formation, forming a very large triangular shape. I began to watch it closely and noticed slightly dimmer lights that appeared to outline the object, again forming a very large triangle. The object continued to travel across the night sky at a very slow speed yet very high altitude never, losing its formation.I continued to watch the object until it disapeared behind the cloud cover. My background is in ((deleted)) services, a full-time ((deleted)), and a reserve ((deleted)).((NUFORC Note:  We have deleted certain data from the report to protect the individual's privacy.  Witness appears to be a highly qualified individual, and probably is an excellent observer.  We believe that the witness may have observed three satellites that have been reported to NUFORC recently.  They appear to fly in unwavering formation, and they seem to remain visible for several weeks' duration.  They are thought to be part of a U. S. Navy space surveillance effort, which is referred to as "N.O.S.S."   However, we have no explanation for the additional lights that the witness describes.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17577.html](http://www.nuforc.org/webreports/reports/017/S17577.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in St. Charles (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Triangular shaped UFo with 3 lights around itMy Kids and I was driving along Highway 370 in St. Charles crossing the bridge entering into the St. Louis side of town.  As my kids and I were driving north bound of highway 370 we notice an airplane like object in the sky.  It seemed to us like it was coming toward us as we got closer to the object we notice that it wasn't moving at all it was hovering over toward the right side of the bridge.  It was only a few feet (5-8 feet) above the bridge,  It was a triangular looking spaceship with three distinct lights on each end of the UFO with five to six lights going across the back end of UFO, we also noticed that it was small like an helicopter but wasn't a helicopter.As we drove closer and closer to the object I opened up my sun roof to get a better look at the object it blend in with the sky and yes it was a UFO.  No doubt in mind I never believed anything such as this but I saw it with my own two eyes.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97713.html](http://www.nuforc.org/webreports/reports/097/S97713.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/163/S163101.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163106.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163100.html)
-- [242](http://www.nuforc.org/webreports/reports/163/S163099.html)
-- [241](http://www.nuforc.org/webreports/reports/163/S163161.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
