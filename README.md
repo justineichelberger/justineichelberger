@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:23 on 9 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:27 on 9 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Haverhill (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Round bright light pulsing colors in the center and every couple minutes changed to a larger square/diamond shape that pulsed.It looked like a bright star so I got my cannon video recorder and zoomed in on it and noticed it was a pulsing circle shape from white to a couple other colors, but pulsing in the center, and every couple minutes or so it would change into a larger diamond/square shape that also pulsed, then a couple minutes later change back to the pulsing circle shape. I put the video on youtube. I seen it before a few times that past month or so traveling on this path very slowly, but I always thought it was a star and this was the first time I zoomed in on it and realized I don't know what it is. It lasts about an hour or more as it moves slowly north west out of site into the distance. I'll try and get more video when I see it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156366.html](http://www.nuforc.org/webreports/reports/156/S156366.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Brinklow (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Irregularly-shaped, cloud-like objects chasing each othercoming home around midnight, witnessed two irregularly shaped lights flying low in the sky - They appeared to be chasing each other. I know they weren't spotlights, as spotlights have beams.  They weren't search lights either b/c there was no sound - no helicopter, for example.  It was completely silent. These were square -or rectangular-shaped objects (irregular) moving clockwise at a medium pace.  Sometimes they would come together and then come apart.  My husband and daughter saw them.  I tried to videotape them, but the sky was too black.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109342.html](http://www.nuforc.org/webreports/reports/109/S109342.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/163/S163101.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163106.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163100.html)
-- [242](http://www.nuforc.org/webreports/reports/163/S163099.html)
-- [241](http://www.nuforc.org/webreports/reports/163/S163161.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
