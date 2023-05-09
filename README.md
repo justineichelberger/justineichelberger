@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:26 on 8 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:45 on 9 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Ashburn (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>6-8 lights moving in circular pattern from west to south along the skySaw 6-8 lights the were equal in brightness to the stars. The lights were steady and did not blink like the normal air traffic in the area. They were observed south west of Ashburn VA. They were equidistant from each other and appeared to move in a circular pattern from west to the south. As they continued south they were no longer visible. They moved at a moderate speed similar to that of an airplane keeping equal space from each other the whole time</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163073.html](http://www.nuforc.org/webreports/reports/163/S163073.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Metairie (LA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>We were driving across the Causeway and saw bright white oval flashes in the sky to the left of the sun no thunder/lighting, blue skies.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118882.html](http://www.nuforc.org/webreports/reports/118/S118882.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/163/S163066.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163071.html)
-- [275](http://www.nuforc.org/webreports/reports/163/S163056.html)
-- [274](http://www.nuforc.org/webreports/reports/163/S163074.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163077.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
