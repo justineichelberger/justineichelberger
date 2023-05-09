@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:25 on 9 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:29 on 9 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Bentonville (AR) reported seeing craft that fit the description of some 'Flash' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Flashy white objects met and spread from a common point.  Again they met at same point and spread wider.4 while flashy objects fly around and then met at a center point.  Again they spread and met at the same point.  This happened more than 30 minutes and is still happening.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118886.html](http://www.nuforc.org/webreports/reports/118/S118886.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Nokomis (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Ball of fire.  1/8 th inch from my perspective.  No light trail.  Looks like landed in Gulf of Mexico.  Did not look like shooting star.  Much closer and bigger.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163064.html](http://www.nuforc.org/webreports/reports/163/S163064.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/163/S163101.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163106.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163100.html)
-- [242](http://www.nuforc.org/webreports/reports/163/S163099.html)
-- [241](http://www.nuforc.org/webreports/reports/163/S163161.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
