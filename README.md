@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:35 on 9 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:32 on 9 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Mansfield Woodhouse (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Five circular orange, bright lights flying west to east, soundless.The objects were circular bright orange lights, constant light.They travelled at approx 3times the speed of airliners.There was no sound during the fly past, nor any sound after they passed.They were travelling west to east.A single light came first followed by two close together, then three separate, taking approx a minute for all to pass overhead.My husband saw the first whilst out in the garden with the dog and called me outside to look.It was scarey – no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72086.html](http://www.nuforc.org/webreports/reports/072/S72086.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Stamford (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately  -  minutes.</sub><blockquote><sub>planes chasing lightI was laying in bed when I saw a strange yellow and green oval. I stared at it in amazement. I waited a while thinking what it was. Then I saw 2 planes chasing the flying object. The planes were flashing one slightly in front of the other plane. The planes looked like they were from the navy. The planes were red, white, and blue. I ran downstairs to tell my mother what I saw. She then ran upstairs to see. Once she went back downstairs a bright yellow light filled up the sky from my backyard! The next day I told people what I saw. No one believed me accept my friend and my mom. My friend said she saw a bright light from up the street too.wierd yuh</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56609.html](http://www.nuforc.org/webreports/reports/056/S56609.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/163/S163101.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163106.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163100.html)
-- [242](http://www.nuforc.org/webreports/reports/163/S163099.html)
-- [241](http://www.nuforc.org/webreports/reports/163/S163161.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
