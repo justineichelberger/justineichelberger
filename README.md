@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:38 on 10 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:33 on 10 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Williamsburg (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>zig zagging white light in skyAt about 3 am I noticed a white light  at first I thought it might be a plane or a star but it was behaving in a unconventional way.  It was moving up and down and from side to side it was all over the place it seemed as if it was hovering then it would quicky move to the left or right or up and down this lasted for about 40 minutes then it just disappeared as if the light just blinked off.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75466.html](http://www.nuforc.org/webreports/reports/075/S75466.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Bullhead (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>4D Triangle with neon green lights at the points in the desert behind Bullhead City, AZ.I was driving home.  The UFO was about 50 feet off of the ground.  Father saw it first and then we both saw it.  It started rotating slowly going 360 degrees.  On the edges of the 4D triangle were neon green lights.  We passed it out of fear and did not look back.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138149.html](http://www.nuforc.org/webreports/reports/138/S138149.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [346](http://www.nuforc.org/webreports/reports/163/S163111.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163108.html)
-- [344](http://www.nuforc.org/webreports/reports/163/S163105.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165242.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
