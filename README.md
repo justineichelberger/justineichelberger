@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:25 on 10 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:38 on 10 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Johnson City (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Multiple bright L.E.D. looking lights in a V formation,Suddenly disappears.The U.F.O. my mother and I saw had lights around it in the shape of a triangle much like the flying v in the mighty ducks lol but we did not see the actual craft just the lights and I can not say how many lights were exactly their I know this is not a good description.  And I'm no sky watcher but I have seen my fair share of videos too know this was not normal.  At first we thought it was a plane for a second,  But then noticed the lights were in a much different shape placement not blinking and one solid LED ish color and it was not moving.  It was fairly close and easy to see but was gone so fast because the strange part was how it suddenly and quickly vanished.  I cannot tell if it hit hyper speed and took off or simply vanished but poof it was gone.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127412.html](http://www.nuforc.org/webreports/reports/127/S127412.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Williamsburg (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>zig zagging white light in skyAt about 3 am I noticed a white light  at first I thought it might be a plane or a star but it was behaving in a unconventional way.  It was moving up and down and from side to side it was all over the place it seemed as if it was hovering then it would quicky move to the left or right or up and down this lasted for about 40 minutes then it just disappeared as if the light just blinked off.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75466.html](http://www.nuforc.org/webreports/reports/075/S75466.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [346](http://www.nuforc.org/webreports/reports/163/S163111.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163108.html)
-- [344](http://www.nuforc.org/webreports/reports/163/S163105.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165242.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
