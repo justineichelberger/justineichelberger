@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:48 on 10 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:26 on 10 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Anniston (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>thursday may 10 2007 approx 8:30 pm i opened my front door which faces the western sky i saw clearly a round light that changed colors from bright white to blue to orange, green, red and yellow, from dim to bright, it never moved in the approx 2 hours we watched it. I had called my family outside to see if they had an explaination and they too were stumped...i said wheres the moon? i looked throught a big maple tree and thought that bright white light coming trough the tree was the moon...when i walked around the tree to get a better look, it was not the moon at all, but an extremely bright light in the shape of a cresent, i never did see the moon at all that night, though it was clear night. neither object moved, the round one just changed colors and the cresent one just got narrow and wide again, by midnight when i checked back, they were gone... i did manage to get a picture of the cresent light on my camera phone...the other light just didnt show up on my phone,,,i guess it wasnt bright enough.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56620.html](http://www.nuforc.org/webreports/reports/056/S56620.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>We chased Giant Gray Cubes through the desert near Tucson, AZ.Looking northwest from downtown Tucson I saw two dark gray cubes, roughly the size of  small houses, at a height of approx. 400 feet, in loose formation, traveling horizontally toward the west northwest. My female friend  and I (male)(we were both students at the Univ. of Arizona at the time, living off campus), hopped on my motorcycle, a 1985 Honda 500cc Interceptor, and began pursuit, heading toward Phoenix on Interstate 10. I was riding in excess of 90 mph. They were out of site for several minutes, but became visible again once we cleared some hills south of Marana, AZ.They were 2 or three miles away toward the west..we took an offramp..Tangerine Rd..maybe..and continued high speed pursuit. They had decreased their altitude to about 100 feet above ground..i got within a quarter mile..they were dark gray..matte finish..no visible protrusions, holes, or lights..just plain gray cubes...traveling together..but moving independently,,bobbing up and down. They increased their speed to match ours apparently..never letting us get closer than about 1/4 mile. They settled over a rise in the road..and in the 12 to 15 seconds it took us to reach the rise they were no where in sight. I reported it to David Monthan AFB...after playing phone tag for 30 minutes,,mostly on hold, they told me that the giant cubes we saw were marker ribbons dropped by the Air Force.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44917.html](http://www.nuforc.org/webreports/reports/044/S44917.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [346](http://www.nuforc.org/webreports/reports/163/S163111.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163108.html)
-- [344](http://www.nuforc.org/webreports/reports/163/S163105.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165242.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
