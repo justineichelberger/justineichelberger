@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:26 on 10 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:25 on 10 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Kitty Hawk (NC) reported seeing craft that fit the description of some 'Other' over a period of approximately 2880.0 - 2880.0 minutes.</sub><blockquote><sub>there is a noise like a hovering helicopter for 2 days now.  i drove around but can not find source.it is non stop night and day.  i asked my husband who was born here and lived here his entire life, and he said that he can hear it too.  it lasts 24 hours.  it is non stop.today, four mh 60 helicopters black unmarked flew right in front of my house about 50 ft close to the earth. right along the shore line.  this is a populated place.i called us air force, navy and army.  the navy said that its probably the army in fort cambellton ky.  i called them and the man said that even if it was them, he couldnt tell me anything.  nice huh?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118946.html](http://www.nuforc.org/webreports/reports/118/S118946.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Johnson City (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Multiple bright L.E.D. looking lights in a V formation,Suddenly disappears.The U.F.O. my mother and I saw had lights around it in the shape of a triangle much like the flying v in the mighty ducks lol but we did not see the actual craft just the lights and I can not say how many lights were exactly their I know this is not a good description.  And I'm no sky watcher but I have seen my fair share of videos too know this was not normal.  At first we thought it was a plane for a second,  But then noticed the lights were in a much different shape placement not blinking and one solid LED ish color and it was not moving.  It was fairly close and easy to see but was gone so fast because the strange part was how it suddenly and quickly vanished.  I cannot tell if it hit hyper speed and took off or simply vanished but poof it was gone.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127412.html](http://www.nuforc.org/webreports/reports/127/S127412.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [346](http://www.nuforc.org/webreports/reports/163/S163111.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163108.html)
-- [344](http://www.nuforc.org/webreports/reports/163/S163105.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165242.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
