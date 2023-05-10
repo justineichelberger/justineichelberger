@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:33 on 10 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:34 on 10 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Bullhead (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>4D Triangle with neon green lights at the points in the desert behind Bullhead City, AZ.I was driving home.  The UFO was about 50 feet off of the ground.  Father saw it first and then we both saw it.  It started rotating slowly going 360 degrees.  On the edges of the 4D triangle were neon green lights.  We passed it out of fear and did not look back.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138149.html](http://www.nuforc.org/webreports/reports/138/S138149.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Laramie (south of) (WY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Formation of Tremonton-like "daylight disks" in WyomingShortly after sighting what looked exactly like the Tremonton, Utah objects filmed in July 1952 by Delbert C. Newhouse, I recorded the following.  I had just moved from Montana back to Wyoming a few days previously. "As I was driving north on US highway 287 just north of the Colorado-Wyoming stateline, I spotted about 10 bright objects flying in loose formation at several thousand feet altitude above ground level.  I immediately stopped my pickup truck to get a better look, but they were gone.  If they were birds, then they flew away pretty quickly, because I could not locate the objects with binoculars."</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32767.html](http://www.nuforc.org/webreports/reports/032/S32767.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [346](http://www.nuforc.org/webreports/reports/163/S163111.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163108.html)
-- [344](http://www.nuforc.org/webreports/reports/163/S163105.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165242.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
