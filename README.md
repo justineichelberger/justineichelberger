@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:32 on 9 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:32 on 10 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in NAS Lemoore (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange light In NAS Lemoore airspace.I work at the night shift In NAS LEMOORE. We were walking in the flight deck to ensure all the planes were secured when i looked to the sky and saw what looked like a shooting star and i told my other buddies so we were looking at it and the "UFO" started noving in a weird pattern going to the south. the red light then made a spiral and disappeared. like 2 minutes later we saw a fast aricraft making rounds in the area where we saw the object.  we know its not one of our aircraft because all the planes were grounged. Then, like 1 1/2 hours later we saw the same red light only that this time the light "exploded" leaving a bright white light that looked like an asteroid "whit a tail" that dicipated in a "cloud" but there were no clouds in the sky that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50497.html](http://www.nuforc.org/webreports/reports/050/S50497.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Oakland (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Flyby of strobing aircraft over bay areaInconsitent strobing, strong, white light passing over bay area heading southbounds. Definitly not an aircraft of any type. Approximate altitude unknown; it was at high elevation. Flyby took only 30 seconds. No noises heard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50525.html](http://www.nuforc.org/webreports/reports/050/S50525.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/163/S163101.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163106.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163100.html)
-- [242](http://www.nuforc.org/webreports/reports/163/S163099.html)
-- [241](http://www.nuforc.org/webreports/reports/163/S163161.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
