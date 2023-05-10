@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:34 on 10 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:34 on 10 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Laramie (south of) (WY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Formation of Tremonton-like "daylight disks" in WyomingShortly after sighting what looked exactly like the Tremonton, Utah objects filmed in July 1952 by Delbert C. Newhouse, I recorded the following.  I had just moved from Montana back to Wyoming a few days previously. "As I was driving north on US highway 287 just north of the Colorado-Wyoming stateline, I spotted about 10 bright objects flying in loose formation at several thousand feet altitude above ground level.  I immediately stopped my pickup truck to get a better look, but they were gone.  If they were birds, then they flew away pretty quickly, because I could not locate the objects with binoculars."</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32767.html](http://www.nuforc.org/webreports/reports/032/S32767.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mukilteo (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>There were bright orange lights on the craft traveling side by side with no sound.I saw two very bright orange lights in the sky around 9:20 pm on Saturday, the 10th of May.  I noticed them through my living room window. I am use to lots of air traffic around here so didn't think to much at first.  Then the orange lights got me and they were not flying in any of the normal flight patterns.  So I went out on my porch to get a better look.  Not an airplane, not a helicopter.  They both were up pretty high but close enough that I could see very clearly that I did not recognize the shape.  I was mostly focused on the orange lights and trying to rack my brain of what aircraft might have those kinds of lights.  There was absolutely no noise.  The craft was silent.  Seemed to be moving along side by side one a tiny bit further back from the other.  I went to get my camera to take a picture, but they were gone when I went back out.  Never seen anything like that before.  Not with orange lights like that.  It was only one bright orange light or a cluster not co! mpletely sure about that.  Just wanted to report what I saw.  No one I know could explain what it might have been.  Because I am a teacher and like my privacy I prefer not to give my name at this time.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109503.html](http://www.nuforc.org/webreports/reports/109/S109503.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [346](http://www.nuforc.org/webreports/reports/163/S163111.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163108.html)
-- [344](http://www.nuforc.org/webreports/reports/163/S163105.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165242.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
