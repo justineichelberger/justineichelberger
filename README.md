@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:24 on 10 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:26 on 10 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Sonic booms over Mesa?At around 1:40 AM; Mesa time, Aventerra Apartments at Dobson Ranch.My wife and I awoke to what sounded like someone hammerfisting our patio door(It's a sliding glass).  I went outside to invistigate.  No one was to be seen.  At which point, I asked my wife if she would go to the corner store for a beer. Too cool my nerves, and to serve as a nightcap.  Five minutes later I decided to go outside again.I then saw a Mesa police cruiser parked in front of my apartment.  I went around a neighboring apartment as I heard a small crowd.  There I saw a police officer and about seven other people who heard or felt the same "boom".  We live underneath a known flight path but nothing like this!  As my wife returns, a second "boom" was heard to the north-west.  The officer heard this as well and immediately radio'd it in.  As we live next to a police and fire station, a fire-truck was scrambled to see if there was an explosion of some sort in our area.  A police helicopter orbited our complex then searched to the west to see if there was any trouble-there was not.At this point, more people came out claiming they too heard the loud explosion and about 12 mins., later a smaller one as well.  I didn't hear it.Out of pure curiosity I called a local TV station FOX 10 and they said they only knew of a apartment fire 10 miles to the north-east.  I then as a lark, called Luke's AFB and asked if they knew of any supersonic overflights over Mesa.  Maybe a hot-dogger or two.  They said not that they know of, but suggested I call in the morning and file a report with the're OSI division. I only file this report because maybe this might corroborate a possible ufo sighting as I have seen this activity before-less the "fast mover".</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43882.html](http://www.nuforc.org/webreports/reports/043/S43882.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Kitty Hawk (NC) reported seeing craft that fit the description of some 'Other' over a period of approximately 2880.0 - 2880.0 minutes.</sub><blockquote><sub>there is a noise like a hovering helicopter for 2 days now.  i drove around but can not find source.it is non stop night and day.  i asked my husband who was born here and lived here his entire life, and he said that he can hear it too.  it lasts 24 hours.  it is non stop.today, four mh 60 helicopters black unmarked flew right in front of my house about 50 ft close to the earth. right along the shore line.  this is a populated place.i called us air force, navy and army.  the navy said that its probably the army in fort cambellton ky.  i called them and the man said that even if it was them, he couldnt tell me anything.  nice huh?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118946.html](http://www.nuforc.org/webreports/reports/118/S118946.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [346](http://www.nuforc.org/webreports/reports/163/S163111.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163108.html)
-- [344](http://www.nuforc.org/webreports/reports/163/S163105.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165242.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
