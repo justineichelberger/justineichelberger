@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:32 on 10 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:50 on 10 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Oakland (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Flyby of strobing aircraft over bay areaInconsitent strobing, strong, white light passing over bay area heading southbounds. Definitly not an aircraft of any type. Approximate altitude unknown; it was at high elevation. Flyby took only 30 seconds. No noises heard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50525.html](http://www.nuforc.org/webreports/reports/050/S50525.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Plymouth (WI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Large saucer floating in clear daylightDuring the evening of a beautiful cloudless day in May, I arrived home with my sister from her house. As my sister walked into the house, I gathered together a few items in the back of her car and began to walk into my house.As I was walking I noticed a large object hovering slowly over the town of Plymouth near our house. The object was in the shape of a disk and was extremely large from my point of view. It reflected the sun and seemed metallic. The slow moving object was reading north when I decided to run into the house to tell my sister to look outside.Halfway into the house I decided to look as long as possible and not waste time so I ran back outside to find that the UFO was no longer there. In a matter of a second, the UFO had disappeared.The background of the object was clear blue sky. There were no other anomalies in the sky other than the UFO. To this day, I have yet to have a rational idea of what the object could be.(NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66881.html](http://www.nuforc.org/webreports/reports/066/S66881.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [346](http://www.nuforc.org/webreports/reports/163/S163111.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163108.html)
-- [344](http://www.nuforc.org/webreports/reports/163/S163105.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165242.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
