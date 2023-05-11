@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:45 on 10 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:32 on 11 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Whiteriver (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>lights over apache communityon that evening, four of us had got together a friends house, in the southern part of town, we standing out in front the house, looking southeast, we then noticed a single light, in the tree line, this was unusual, because the light was about 10 miles from any roads and was atop a rugged mountain, as we continued looking the light then rose about 20 feet above the tree line, then about six lights turned on one by one, from right to left, and rose even higher, the lights then turned off left to right, we did not see any object.year after year, I have heard the same and similiar accounts from different people in the area.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78852.html](http://www.nuforc.org/webreports/reports/078/S78852.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Wright City (MO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately  -  minutes.</sub><blockquote><sub>Summary : Was blinking on and off.Very hard to look at,was VERY bright.It was night time, dark, clear sky. It had aVERY bright light coming from it. Hard to lookat it because it was so bright. Looked tiny, butI was a far ways away from it. It looked like aball of white fire. Coming from north.?.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02209.html](http://www.nuforc.org/webreports/reports/002/S02209.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [346](http://www.nuforc.org/webreports/reports/163/S163111.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163108.html)
-- [344](http://www.nuforc.org/webreports/reports/163/S163105.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165242.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
