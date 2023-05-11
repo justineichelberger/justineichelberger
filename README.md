@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:13:36 on 11 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:28 on 11 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Cleveland (OH) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Long, silver cylindrical object without visible wingspan; First signted by observer "D" in southern sky approx elevation 45 degrees, moving slowly from east to west. Then verified by "C" & "B" well above sloped rooftops of houses next street south, moving horizontally just above power lines. The lack of visible wings and lack of any vapor trail behind object was most notible; one observor speculated it may be a rocket of some sort, but no exhaust was seen and no sounds were heard. The object passed behind broad Vapor trails created by passenger aircraft moving in opposite direction. As we talked and walked westward toward my garage, it became easier to lose sight of object as it slowly receeded into the southwestern sky into haze and partial overcast.  No wings or rudder structures or emanations noted by any of us. It moved much faster than the occasional Goodyear Blimp often seen in this area, and any lighter than air craft we've seen is shaped like fat cigar, with markings or running lights which this shiny object never displayed. We are hoping to see a report on this sighting on the 11 pm news, but still skeptical.  It was suggested this object could be a large satellite in orbit, but even the ISS should not appear so large from this latitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17615.html](http://www.nuforc.org/webreports/reports/017/S17615.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Fruitland (UT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright circular light in the sky - once we started pointing at it, the object shot left instantly, stopped, and took off FAST!Circular bright light seen way above our house.  Once we started pointing at the light, it shot left through the sky, stopped, then took off and crossed our valley and continued over taby mountain.  There was no noise, the craft moved at amazing speeds.  My wife and I both observed the event - as it started moving I did get a photo of the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146570.html](http://www.nuforc.org/webreports/reports/146/S146570.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
