@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:28 on 11 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:24 on 11 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Willits (west of) (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A triangle formation of "satelites" moving apparently very high and fast.What appeared to be 3 "satellites", flying very high (as one would see normal satellites) flying in a triangle formation, with lead "light" at point of triangle, flying from directly above to the south.  Movement not quite as smooth or as fast as satellites normally travel, nor quite as bright either. No sound, no flashing lights. Have had a response from one previous "Operation Blue Book" Air Force officer, who stated "you saw what you saw, it was not aircraft nor a satellite.  You are one of the lucky few. ???((NUFORC Note:  We suspect this report may describe three U.S. Navy satellites, referrred to as "N.O.S.S." satellites.  There are several other entries for dates during the preceding weeks.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17777.html](http://www.nuforc.org/webreports/reports/017/S17777.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Greenwich (CT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Slow moving, quiet very large triangular shaped craft just above the tree line.Just over the tree line a very large, yet very quiet (faint sound) triangular shaped object with red and green lights passed overhead.  I was leaving the Burning Tree Country Club.  To this day, I can't believe what I saw. I felt like I could throw a rock up and hit it.  My girlfriend at the time saw it too.  No idea what it could possibly be.  I really believe it was not from this world.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59848.html](http://www.nuforc.org/webreports/reports/059/S59848.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
