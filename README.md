@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:30 on 11 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:22 on 11 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Wichita (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>The sky was still blue. I noticed several commercial airliners in the sky. In front of one there was a star-like object.I'm 30 years old. I just stepped out the front door of my house and looked up to notice a blue sky. The sun hadn't set completely yet and the stars had not come out. I also noticed that there were several commercial airliners in the sky with trails. All of sudden, I noticed what looked like a star in front of an airliner. This however was not a star. It moved just as fast as the airliner. It did not have a trail and it was so high it did not make a sound. At first I thought it might be nothing, but then it started to move faster. It increased in speed then vanished. Just faded. That was it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07765.html](http://www.nuforc.org/webreports/reports/007/S07765.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Irvine (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>UFO sighting, 2 objects, May 11, 2013, approximately 10:30pm, Irvine, CAI spotted two very distinct objects in the night sky over Irvine, CA while looking eastward from my northeast-facing bedroom window. Unfortunately, I did not have any camera equipment or binoculars available.  I could not see the shape of the craft, but the lights appeared to be large (but different sizes), different colors of red, white, and yellow. There were approximately 5 to 8 different lights on each object.  The red light appeared to be the largest, but there were more of the yellow lights surrounding it.  I could not say for certain if the lights were flickering, but they did not appear to blink or pulse.  The lights formed an oval shape.  Both of the objects appeared identical to me.  They appeared at first to be very small objects, at least a few miles to the East, traveling steadily West (towards my location).  I can only estimate speed to be somewhat faster than a helicopter, but slower than a commercial jet.  The entire sighting was probably a full 15 minutes as the obj! ects approached my location before their ascent and disappearance.  There seemed to be a noticeable increase in speed as the objects ascended, but I can't really say for sure.  I did not hear any noise from the objects.  Everything was very quiet.  The objects followed a very similar (perhaps identical) westward flight path just a little beyond my location (about 8 miles from the Orange County airport) at an estimated altitude between 20,000 to 25,000 feet, and then ascending so high that the bright colored lights completely disappeared into the night sky.I feel confident that the objects ascended because they were getting smaller and smaller until I could no longer see them.  And I also feel confident that the objects would have needed to be higher than 35,000 feet to completely disappear because commercial aviation lights are still visible with my own eyes (at night while traveling at typical, long distance cruising altitudes).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97750.html](http://www.nuforc.org/webreports/reports/097/S97750.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
