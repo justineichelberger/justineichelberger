@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:36 on 11 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:32 on 11 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Medford (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2:00 - 2:00 minutes.</sub><blockquote><sub>U-shaped craft over the Rogue Valley.As i walked out the front door of my workplace,i looked up as i walked to my car,it was 5:14 am,i a bright light that looked like a star but i could detect it was moving slowly, so i got my ipod 5th gen out of my bag and tried to record it and got 1 still image, it made its way across the sky from the southwest corner of medford and went to the north east crossing over the valley in 2 minutes, although i did get a minute and a half of video, what i saw on my ipod screen didn't have as much detail in the video, when i was recording it i could see a shape more like a u with a total of 7 lights going around the u shape; 3 on each side and a light at its point.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127407.html](http://www.nuforc.org/webreports/reports/127/S127407.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Blacksburg (VA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Orange ball descending from the sky3 observers sitting on a porch, saw a ball of red/orange light descending and did not hear a crash.  More of an orange hue in the sky, took about 30 seconds, all individuals on the balcony saw it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146080.html](http://www.nuforc.org/webreports/reports/146/S146080.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
