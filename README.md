@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 11 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:31 on 11 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Muscatine (IA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My aunt and her husband called my mother.  My mother called me.  Here is our descriptions:  red-orange looking big sphere with smaller one close behind it moving northwest from Memorial Park Cemetery towards The Palms.  The smaller one sling shot around the larger one and was in front and then slowed a bit.  For as low as it was (probably 1000 feet) it made no sound.   We followed until out of site.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109294.html](http://www.nuforc.org/webreports/reports/109/S109294.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lake Michigan (over) (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>2 Round, Orange lights over Lake Michigan.Looking West over Lake Michigan around 10:15 PM, moving Southeast about same speed as Commercial Airline would, glowing, very bright Round Orange lightfirst thought was Airplanes coming out of Chicago, then a second one on exact same path. It was very clear out, then the first one kinda faded away and the second one did the same thing..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97674.html](http://www.nuforc.org/webreports/reports/097/S97674.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
