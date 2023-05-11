@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:31 on 11 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:33 on 11 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Marietta (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Green ball off lightOn Tuesday, May 11, at approximately 0435 AM, in Marietta, GA (several miles northwest of Atlanta, GA)  while out jogging, I saw a green (similar to the color of a pre-color  computer screen) "ball of light".  I was  proceeding approximately due  south  from Terrill Mill Rd. into the North x  Northwest Office Park when I saw what I believed at first to be a meteor.  The object was moving from  northwest  to southeast (approximate bearing 150  degrees), had no tail (unlike a meteor),  had a clearly defined edge, was  visible for about 1 to 2 seconds and  then disappeared  from a relatively clear sky (particularly clear in  the direction of the object (light ball).  The phrase  "winked out" describes the way it disappeared.  There was no  noise  as it passed by and no apparent explosion when it went out.  The diameter of the ball  was approximately 1/5 to 1/10 the size of a full moon with a circular shape.  The elevation and speed of a light that  are nearly impossible to estimate at night  against a dark sky. I frequently tape the Art Bell show and Friday (May 14, 1999) listened to a segment  taped earlier that  morning which  included a    description by a woman on the Leaky Leaky Highway in Hawaii.  Aside from the size and proximity her description  was close to what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07766.html](http://www.nuforc.org/webreports/reports/007/S07766.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Kirkland (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>A disk went around my town and kept going to the stars until i could not see it anymore.I live in a small and  i was watching tv and all the sudden i hear a wierd buzz i look out side my window and then there is a disk covered in lights it goes towards the stars and it goes until I can't see it anymore. ((NUFORC Note:  Report submitted by you, student-age, male.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155653.html](http://www.nuforc.org/webreports/reports/155/S155653.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
