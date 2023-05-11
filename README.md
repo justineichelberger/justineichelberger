@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:27 on 11 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:29 on 11 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Erie (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>At approximately 23:55, 2 students witnessed a Large Mulicolor Aura fell in Erie, PA.I was walking with my boyfriend on Mercyhurst Campus.  I looked up in the sky  facing West, and saw this very large ball of light.  By natural instict, I hit him and yelled, "Check it out a shooting star!"  He turned around and missed it.  It fell behind a building in a direction toward downtown toward Lake Erie.  I thought I explained that it wasn't like a normal shooting star.  It was MASSIVELY Larger.  Another student was on campus by us and he looked at me asking if I saw that thing fall in the guy.  I agreed.  And we just looked at each other and he said, "Do you think it was a UFO?"  I said, it clearly wasn't a shooting star.  We both discussed and shared Identical description of the falling object.  It looked at if a massive form of light was behind a cloud, it changed colors rapidly from like a lilac, to a turqouise, to a seafoam green sometimes more than one color at once, it was just fluidly multiple colors.  The size was clearly bigger than! any manmade aircraft. It gasous size was probably the size of our sun during the winter sky.  Like the size of one's thumbnail.  Big.   We both saw it fall in the same direction, down toward Lake Erie, but it fell behind the large building on campus.  It moved quietly and at a constant speed, the direction appeared though as it was crashing, but it fell being the building.But I guess it best to sum up we saw:  A large light source much bigger than a man made air craft crashing through the sky covered in a turquoise/violet/seafoam green light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109285.html](http://www.nuforc.org/webreports/reports/109/S109285.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Trujillo Alto (Puerto Rico) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A weird vanishing flame of  green, orange yellowish color that vanished few seconds after me and my 2 friends saw it.Yesterday at around 8:00-9:00 pm here in Puerto Rico in Trujillo Alto in the neighborhood we live we saw a strange orange/green/yellowish flame that flew near us (like 5 houses distance and at around 40 feet high, or around that) and after like 5 seconds that we saw it the flame kinda vanished and like the air around it turned like distorted, like hze before vanishing. Also, the size of that flame was like propably the size of a car (kinda estimating cause of the height it was I cannot be sure), and it was pretty fast (at least like 4 times faster than a car at 60mph). It wasn't fireworks or any of that sort, it was something weird. Maybe it wasn't an UFO and it was a meteor or something but it seemed to weird so I thought that maybe I should report it. Location: Puerto Rico, Trujillo Alto, Calle Corriente((NUFORC Note:  We have altered the date above, to indicate a date of May 11, 2008.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63093.html](http://www.nuforc.org/webreports/reports/063/S63093.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
