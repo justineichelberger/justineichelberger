@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:28 on 11 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:32 on 11 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Fruitland (UT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright circular light in the sky - once we started pointing at it, the object shot left instantly, stopped, and took off FAST!Circular bright light seen way above our house.  Once we started pointing at the light, it shot left through the sky, stopped, then took off and crossed our valley and continued over taby mountain.  There was no noise, the craft moved at amazing speeds.  My wife and I both observed the event - as it started moving I did get a photo of the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146570.html](http://www.nuforc.org/webreports/reports/146/S146570.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Koblenz (Westerwald mountains near) (Germany) () reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>they  couldn´t have been airplanes, rockets, meteors, or something , since the objects moved much too fast and too irregularly (the objects appeared out of nowhere on the northwest horizon and in approx. 7 seconds they covered an angle of approximately 90 - 120 degrees before they  disappeared. During the flyby they were covered several times biy some hills, which were situated up to 10km away!!!),</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12853.html](http://www.nuforc.org/webreports/reports/012/S12853.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
