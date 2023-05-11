@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:24 on 11 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:30 on 11 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Greenwich (CT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Slow moving, quiet very large triangular shaped craft just above the tree line.Just over the tree line a very large, yet very quiet (faint sound) triangular shaped object with red and green lights passed overhead.  I was leaving the Burning Tree Country Club.  To this day, I can't believe what I saw. I felt like I could throw a rock up and hit it.  My girlfriend at the time saw it too.  No idea what it could possibly be.  I really believe it was not from this world.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59848.html](http://www.nuforc.org/webreports/reports/059/S59848.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Wichita (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>The sky was still blue. I noticed several commercial airliners in the sky. In front of one there was a star-like object.I'm 30 years old. I just stepped out the front door of my house and looked up to notice a blue sky. The sun hadn't set completely yet and the stars had not come out. I also noticed that there were several commercial airliners in the sky with trails. All of sudden, I noticed what looked like a star in front of an airliner. This however was not a star. It moved just as fast as the airliner. It did not have a trail and it was so high it did not make a sound. At first I thought it might be nothing, but then it started to move faster. It increased in speed then vanished. Just faded. That was it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07765.html](http://www.nuforc.org/webreports/reports/007/S07765.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
