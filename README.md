@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:19 on 11 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:13:36 on 11 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright White Lights PhoenixJust moved from Miami to San Jose. I drove from Miami to Lake Charles, LA the first day, which was 15 hours of driving. Then I went from Lake Charles to Phoenix on Tuesday arriving in Phoenix at 4:30am after 20 hours of driving. I noticed about three flashes of light in West Texas and New Mexico, which I ignored until I got to AZ. I was very tired as I left Tucson. About 25 miles South of South Mountain in Phoenix I had the sighting. I was driving on I-10, which goes North from Tucson to Phoenix. I saw a very bright white light on an aircraft to the east of I-10. The craft has a flashing blue light like in a tail area so I assumed a light plane or helicopter. I heard no noise though. Then the tail light started to whip around in a fashion suggesting it was not attached to the craft. The craft was also moving erractically and very quickly. So I though wow, I´m really tired. Then on the west side of I-10, I saw 4 very bright white lights that lit up very quickly and flew at I-10 at a very high speed and zoomed up in a parabolic way and disappeared. This was very odd. Finally I saw a very bright light in front of me in the sky. The light got very bright and then dimmed revealing the bottom of a craft shaped like an old fashioned keyhole. The base of the craft had blue and pinkish red lights. I know this sounds weird, but I did see it, as described. I don´t know what this was, but it is the strangest thing I have ever seen. We do not have aircraft that can move like this. The sighting period lasted 5 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44095.html](http://www.nuforc.org/webreports/reports/044/S44095.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Cleveland (OH) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Long, silver cylindrical object without visible wingspan; First signted by observer "D" in southern sky approx elevation 45 degrees, moving slowly from east to west. Then verified by "C" & "B" well above sloped rooftops of houses next street south, moving horizontally just above power lines. The lack of visible wings and lack of any vapor trail behind object was most notible; one observor speculated it may be a rocket of some sort, but no exhaust was seen and no sounds were heard. The object passed behind broad Vapor trails created by passenger aircraft moving in opposite direction. As we talked and walked westward toward my garage, it became easier to lose sight of object as it slowly receeded into the southwestern sky into haze and partial overcast.  No wings or rudder structures or emanations noted by any of us. It moved much faster than the occasional Goodyear Blimp often seen in this area, and any lighter than air craft we've seen is shaped like fat cigar, with markings or running lights which this shiny object never displayed. We are hoping to see a report on this sighting on the 11 pm news, but still skeptical.  It was suggested this object could be a large satellite in orbit, but even the ISS should not appear so large from this latitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17615.html](http://www.nuforc.org/webreports/reports/017/S17615.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
