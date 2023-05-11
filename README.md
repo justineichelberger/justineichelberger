@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:29 on 11 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:28 on 11 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Trujillo Alto (Puerto Rico) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A weird vanishing flame of  green, orange yellowish color that vanished few seconds after me and my 2 friends saw it.Yesterday at around 8:00-9:00 pm here in Puerto Rico in Trujillo Alto in the neighborhood we live we saw a strange orange/green/yellowish flame that flew near us (like 5 houses distance and at around 40 feet high, or around that) and after like 5 seconds that we saw it the flame kinda vanished and like the air around it turned like distorted, like hze before vanishing. Also, the size of that flame was like propably the size of a car (kinda estimating cause of the height it was I cannot be sure), and it was pretty fast (at least like 4 times faster than a car at 60mph). It wasn't fireworks or any of that sort, it was something weird. Maybe it wasn't an UFO and it was a meteor or something but it seemed to weird so I thought that maybe I should report it. Location: Puerto Rico, Trujillo Alto, Calle Corriente((NUFORC Note:  We have altered the date above, to indicate a date of May 11, 2008.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63093.html](http://www.nuforc.org/webreports/reports/063/S63093.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Granite Bay (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Four fireball orbs hover over Placer/Sacramento County Line near Folsom LakeWe were driving south on Auburn-Folsom Road toward Folsom Dam Road when we noticed in the sky, four orange or red orbs.  They were not helicopters.  They were suspended vertically at different angles, and they seemed to just sit there.  Other motorists saw them, and pulled over to look.  As we traveled south, they just disappeared, or extinguished themselves.  Could have been Chinese lanterns.  They all went dark at different times, not simultaneously.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97682.html](http://www.nuforc.org/webreports/reports/097/S97682.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
