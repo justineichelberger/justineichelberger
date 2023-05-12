@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:23 on 12 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:39 on 12 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in New Britain (CT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>mutable Orange lights over ConnecticutThey came from the north going south and than they turned to the East and vanished. The remaining one's were coming from the south and going  north to what seemed that they were going meet up with the ones from the north but they turned East as well and vanished too they were are same sized and bright orange</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88955.html](http://www.nuforc.org/webreports/reports/088/S88955.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in East Dundee (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>fireball hovering hovering over east dundeei was sitting on the font porch when i had a feeling to look up and as i did i saw behind some tree branches a bright orange light come vertically down, stop mid air, and started heading northeast in like a straight path, and i could see it was egg shaped it appeared to be on fire, with a white light in the middle. shocked i called for my father in law to come run outside,  i told him to look up and he was in awe and called the rest of the family out all 6 family members saw it.  by the time it got to the clouds the fire seemed to just burn out, but you could see the white light still heading northeast. by then we lost sight of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81252.html](http://www.nuforc.org/webreports/reports/081/S81252.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [301](http://www.nuforc.org/webreports/reports/163/S163157.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163600.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163502.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163151.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163146.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
