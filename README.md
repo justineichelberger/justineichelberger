@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:45 on 12 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:12:45 on 12 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Westwood (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>While taking some digital photos of a large American Flag I had just purchased for display outside my house, I noticed an object in the sky that somewhat oval in shape. I took notice of it because I happened to be looking in that direction and it seemed to be   a strange shape to be able to fly. It had no wings, yet it moved like an airplane. It made no noise and seemed to be followed by a single engine aircraft. I was able to take two photos of the object and two photos of the aircraft. The "UFO", if it was one, suddenly took off toward the NNE with a sudden increase in speed which the airplane could not match. The color of the object was dark and did not change and it never made a sound. The engine of the aircraft was barely audible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56635.html](http://www.nuforc.org/webreports/reports/056/S56635.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Greenville (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>red/orange lights in a formationOn the evening of May 12, 2013 at 21:45 I observed 4 glowing orange/red lights moving across the sky at a constant speed seeming slightly faster than a commercial airliner.I went next door to my beighbor's house and asked him to look at what I was seeing.He came out and we watched the lights until they faded out.The lights were in a ''W'' formation moving from West to Southeast before fading out.I heard no sound, and could not make out a shape of any kind.This is the first time I have ever seen anything that I could not recognize.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97718.html](http://www.nuforc.org/webreports/reports/097/S97718.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [301](http://www.nuforc.org/webreports/reports/163/S163157.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163600.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163502.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163151.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163146.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
