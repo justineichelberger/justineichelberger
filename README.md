@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:20 on 12 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:30 on 12 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cerritos (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was driving north on Studebaker Road in the City of Cerritos, California.  I approached the intersection of 183rd and Studebaker Road and stopped in the secured left hand turn lane. As I was waiting for the light to turn green, I suddenly saw a silver object in the sky.   It was oblong/cigar shaped and perfectly symmetrical.  It seemed metallic because the sun was reflecting off its outer hull. Today was about 80 degrees with clear blue skies. No buildings, telephone poles etc. obstructed my vision.  I focused my eyes to see any evidence of wings or other noticeable features it would have with common aircraft.  It had no bolts or apparent fastenings, just seamless metal.It was about 3,500 feet to 5,000 feet in the sky, the normal range where most aircraft fly. My window was ajar and I could hear no sound (as one would with a normal plane).  It left no air trail in the sky. I tracked it for about 60 seconds from right to left (it seemed to be heading west) and it suddenly disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88916.html](http://www.nuforc.org/webreports/reports/088/S88916.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Hephzibah (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Just before sunset, an aircraft with three bright white lights hovered over the highway treeline observing traffic.There were three white lights, shape was unclear from our angle, it was resting up and to the left of us in the clouds and did not move. When I saw it at first I thought it was an airplane flying way too low but then I noticed it wasn’t moving. I fumbled for about thirty seconds to get my camera on record and about ten seconds into the recording it just slowly vanished like it went stealth. It didn’t move the entire time, no towers around, no flights landing at the small airport nearby because we passed it shortly after and there were no additional planes on the parking strip. I caught a video of the unidentified aircraft, myself and two children witnessed it. There were about 5 or 6 other cars in the road but I don’t know if they saw it as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163151.html](http://www.nuforc.org/webreports/reports/163/S163151.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [301](http://www.nuforc.org/webreports/reports/163/S163157.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163600.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163502.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163151.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163146.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
