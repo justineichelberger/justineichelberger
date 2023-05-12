@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:28 on 11 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:29 on 12 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Granite Bay (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Four fireball orbs hover over Placer/Sacramento County Line near Folsom LakeWe were driving south on Auburn-Folsom Road toward Folsom Dam Road when we noticed in the sky, four orange or red orbs.  They were not helicopters.  They were suspended vertically at different angles, and they seemed to just sit there.  Other motorists saw them, and pulled over to look.  As we traveled south, they just disappeared, or extinguished themselves.  Could have been Chinese lanterns.  They all went dark at different times, not simultaneously.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97682.html](http://www.nuforc.org/webreports/reports/097/S97682.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Did anyone else see what we saw in Downtown Los Angeles?I was driving back from Monterey Park on the 101 North when my girlfriend and I saw 4 bright lights hovering in position right in the heart of downtown Los Angeles.  As we got closer, I thought to myself that it's strange to see an object not move at all that didn't resemble a human aircraft but kept quiet, it wasn't until my girlfriend mentioned the word UFO that I really became intrigued.  We kept looking until we had to drive behind buildings.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36903.html](http://www.nuforc.org/webreports/reports/036/S36903.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163468.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163113.html)
-- [263](http://www.nuforc.org/webreports/reports/156/S156431.html)
-- [262](http://www.nuforc.org/webreports/reports/156/S156429.html)
-- [261](http://www.nuforc.org/webreports/reports/156/S156413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
