@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:26 on 12 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:35 on 12 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in St. Joseph (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Triangular craft with white light and blinking red lights hovering over field in thunderstorm.I was on my way NW into St. Joseph on Hwy 169 last night in the remains of a thunderstorm.  It was still raining, but not hard.  There was a lot of lightning, mostly to the south of me.  I was following a semi-truck (cattle trailer), but was a good 15 car lengths behind him.  After passing the blacktop turn-off of E Hwy, I noticed a vehicle in the sky to my left, headed diagonally toward me.  I saw a large white light in the center or nose and smaller red blinking lights on either side.  Since the object was moving either very slowly or hovering, I rolled down my driver's side window and drove slowly by.  The object turned away from the highway, facing SW.  Lightning illuminate the dark backside of the craft, and I saw the V shape. I kept driving, thinking there would be no reason for an airplane or helicopter to be out in this weather in the middle of the countryside, besides, it was NOT an airplane or helicopter.  It was larger than a helicopter and was hovering or moving very slowly at maybe 300 - 400 feet off the ground.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75403.html](http://www.nuforc.org/webreports/reports/075/S75403.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Van Alstyne (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Close encounter in Texas, missing time.We were staying at a friends in the country outside Van Alstyne, Texas and we were sitting outside looking at the woods out back. We were 60 miles North of Dallas The woods flashed 2 or 3 times like a strobe light or camera flash. The entire area did this and we were amazed not knowing what happened..there is no one around this area in the country.. we went inside and then went out front only to see coming from the side of this place [house] a disc go sailing by in what appeared to be leaving the woods or taking off from the woods behind us SHOOTING OFF across the sky going east getting higher as it flew..Not a sound from this thing. at first thought it was a plane or jet but not so because there was no sound?? It was about 200 feet away from the northside of the house too close to not be heard....Brilliant lights! When our friends came out we were aware of some missing time? 2 days. Very confusing for us. there was more to this story but we kinda put it aside.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16190.html](http://www.nuforc.org/webreports/reports/016/S16190.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [301](http://www.nuforc.org/webreports/reports/163/S163157.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163600.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163502.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163151.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163146.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
