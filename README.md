@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:32 on 12 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:25 on 12 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Enid (OK) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Glowing pulsating bumpy cylinder seen early a.m. In OklahomaVisiting from Texas and staying in a hotel in Enid, Oklahoma.  I heard a pulsating hum outside my hotel window that woke me up.  As I awoke, I noticed a greenish glow from outside.  I got up and pulled open the curtains and saw what looked like a tube or a bumpy cylinder shaped lampshade.  It was moving slowly through the parking lot from my right to left.  I was upstairs, 3 rooms from the end, on the east side of the hotel and when it got to the corner of the building it turned left and went around the corner to the front of the hotel.  I grabbed my phone and went down the stairs and outside and ran to the corner to get a better look.  It was gone.  The object appeared to be about 3 feet long and a diameter of about a small lampshade, maybe about the size that a soccer ball could fit in the end of it.  It appeared to be solid but hollow in the middle.  The light was pusating from inside of the object and was luminating in a haze from the ends.  The object was smooth, but had a series of bumps raised on it that almost looked like tree bark.  The object was moving slowly but steady from my left to right, south to north.  It was directly in my eyeline on the second floor of my hotel, maybe 18 feet in the air.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134069.html](http://www.nuforc.org/webreports/reports/134/S134069.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Winslow (ME) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>fast moving high altitude pulsating discI was stargazing with 12x50 binoculars.  The sky was clear with myriads of spring stars.  I had already observed several high altitude aircraft like airliners as well as satelites.  While scanning with the binoculars I spotted a fast moving disc shaped object moving from east to west.  It was pulsating rythmically like a heart beating at a rapid rate.  It was like light was moving from the canter to the rim in waves.  The beats were roughly four per second.  I tracked it until it went out of sight. The whole thing lasted 30 seconds to a minute.  It appeared to be very high moving very fast.  It wasn't like any aircraft I have seen.  It gave me the creeps.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54940.html](http://www.nuforc.org/webreports/reports/054/S54940.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [301](http://www.nuforc.org/webreports/reports/163/S163157.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163600.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163502.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163151.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163146.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
