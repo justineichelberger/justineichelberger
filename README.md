@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:34 on 12 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:20 on 12 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Arlington (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>My husband, daughter and I all woke up very early and stepped out onto our back steps to look at the morning stars.  One star, in the Western sky, seemed brighter than all of the others.  As we were looking at it, we realized that it was moving very slowly.  At first, we thought it may be an airplane.  But we realized that it didn't have any red or blue lights, nor did it make any sound.  It was very bright steady light and larger than any stars we could see!  It continued on a straight path, heading East.  We watched until it disappeared behind some trees.  This had a very strange look to it and we all feel sure it was not an airplane.   Just not sure what it really was!  We captured it on a short video on my cell phone. But the quality is poor.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134095.html](http://www.nuforc.org/webreports/reports/134/S134095.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cerritos (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was driving north on Studebaker Road in the City of Cerritos, California.  I approached the intersection of 183rd and Studebaker Road and stopped in the secured left hand turn lane. As I was waiting for the light to turn green, I suddenly saw a silver object in the sky.   It was oblong/cigar shaped and perfectly symmetrical.  It seemed metallic because the sun was reflecting off its outer hull. Today was about 80 degrees with clear blue skies. No buildings, telephone poles etc. obstructed my vision.  I focused my eyes to see any evidence of wings or other noticeable features it would have with common aircraft.  It had no bolts or apparent fastenings, just seamless metal.It was about 3,500 feet to 5,000 feet in the sky, the normal range where most aircraft fly. My window was ajar and I could hear no sound (as one would with a normal plane).  It left no air trail in the sky. I tracked it for about 60 seconds from right to left (it seemed to be heading west) and it suddenly disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88916.html](http://www.nuforc.org/webreports/reports/088/S88916.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [301](http://www.nuforc.org/webreports/reports/163/S163157.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163600.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163502.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163151.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163146.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
