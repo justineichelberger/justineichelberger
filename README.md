@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:33 on 12 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:30 on 12 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Talofofo (Guam) () reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 bright (Venus bright) red lights approached Guam from ~255o at 20o elevation at 0945 GMT 12 May and faded away.On Guam, on 12 May, at about 1945 local time (0945 GMT) both my wife and I saw 3 separate, bright red, moving  lights in the western sky.  The 3 lights were at about 15-20 degrees of elevation and about 245 to 260 degrees of azimuth.   They were separated by about 5 degrees of azimuth, at approximately the same elevation, and all three were near the elevation of Orion, the moon and Jupiter, but approximately 15 degrees south of them at that time.The objects made no noise that we heard, but moved towards us (to the east) and then made hairpin turns to the WNW and faded into the night sky.   The entire event lasted no longer than about 5 minutes.We called ATCC at both the Won Pat International Airport and Anderson Air Force Base.  Neither reported seeing anything on their radar during that time period.One of us is a private civilian pilot and a holder of a Ph. D. in Oceanography with much experience observing the night sky.  Nothing of this nature has ever been seen before by this reporter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97673.html](http://www.nuforc.org/webreports/reports/097/S97673.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Molalla (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>I was on my way home when I noticed a dark disk hovering above the mountain rangeI was traveling northbound on Molalla Ave.  I was looking straight ahead & noticed a dark disk directly above the mountain range.  It was approx 2500-3500 ft above. I slowed my car down to get a better look, it stayed there for approx 7 seconds.  I looked away, to make sure I wasn't going to hit anyone with my car. I looked back at the craft, it was speeding away (towards the east) at an excessive speed-I barely got a last glimpse of it!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12859.html](http://www.nuforc.org/webreports/reports/012/S12859.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [301](http://www.nuforc.org/webreports/reports/163/S163157.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163600.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163502.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163151.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163146.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
