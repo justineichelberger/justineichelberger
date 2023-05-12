@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:39 on 12 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:26 on 12 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in East Dundee (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>fireball hovering hovering over east dundeei was sitting on the font porch when i had a feeling to look up and as i did i saw behind some tree branches a bright orange light come vertically down, stop mid air, and started heading northeast in like a straight path, and i could see it was egg shaped it appeared to be on fire, with a white light in the middle. shocked i called for my father in law to come run outside,  i told him to look up and he was in awe and called the rest of the family out all 6 family members saw it.  by the time it got to the clouds the fire seemed to just burn out, but you could see the white light still heading northeast. by then we lost sight of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81252.html](http://www.nuforc.org/webreports/reports/081/S81252.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in St. Joseph (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Triangular craft with white light and blinking red lights hovering over field in thunderstorm.I was on my way NW into St. Joseph on Hwy 169 last night in the remains of a thunderstorm.  It was still raining, but not hard.  There was a lot of lightning, mostly to the south of me.  I was following a semi-truck (cattle trailer), but was a good 15 car lengths behind him.  After passing the blacktop turn-off of E Hwy, I noticed a vehicle in the sky to my left, headed diagonally toward me.  I saw a large white light in the center or nose and smaller red blinking lights on either side.  Since the object was moving either very slowly or hovering, I rolled down my driver's side window and drove slowly by.  The object turned away from the highway, facing SW.  Lightning illuminate the dark backside of the craft, and I saw the V shape. I kept driving, thinking there would be no reason for an airplane or helicopter to be out in this weather in the middle of the countryside, besides, it was NOT an airplane or helicopter.  It was larger than a helicopter and was hovering or moving very slowly at maybe 300 - 400 feet off the ground.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75403.html](http://www.nuforc.org/webreports/reports/075/S75403.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [301](http://www.nuforc.org/webreports/reports/163/S163157.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163600.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163502.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163151.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163146.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
