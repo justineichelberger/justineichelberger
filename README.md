@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:12:45 on 12 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:22 on 12 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Greenville (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>red/orange lights in a formationOn the evening of May 12, 2013 at 21:45 I observed 4 glowing orange/red lights moving across the sky at a constant speed seeming slightly faster than a commercial airliner.I went next door to my beighbor's house and asked him to look at what I was seeing.He came out and we watched the lights until they faded out.The lights were in a ''W'' formation moving from West to Southeast before fading out.I heard no sound, and could not make out a shape of any kind.This is the first time I have ever seen anything that I could not recognize.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97718.html](http://www.nuforc.org/webreports/reports/097/S97718.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Greer (SC) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Zig zagging star?The event lasted about 5 minutes, from 10:30 p.m., till about 10:35 p.m., on May 12th, 2018. For most of the siting, the craft appeared to be the size of a star and occasionally would elongate into what appeared to be a small oval.  Just to make sure my eyes were not playing tricks on me I looked at other stars and they were remaining still.  I braced myself against a wall to steady my observation.  The object moved in a straight line and in a zigzag pattern alternately.  The object covered a patch of Sky approximately 3 finger widths (2.25") at arm's length (21.5").  The viewing direction was about 10 degrees east of due south by compass.  The elevation was about 60 degrees above the horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141539.html](http://www.nuforc.org/webreports/reports/141/S141539.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [301](http://www.nuforc.org/webreports/reports/163/S163157.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163600.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163502.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163151.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163146.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
