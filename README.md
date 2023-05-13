@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:23 on 13 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:20 on 13 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Diamond (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>50 UFO's near Diamond, ILSaw 50+ dots to the SW of Diamond, IL from 2030 - 2045.  Too fr away to tell exact shape and even with binoculars i still couldn't tell what they were.  They were all a bright reddish yellow color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88954.html](http://www.nuforc.org/webreports/reports/088/S88954.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Lake Guadalupe (Mexico) () reported seeing craft that fit the description of some 'Egg' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was silent and metalic and reflective.Me and my brother were walking down a hill on a small peninsula of a lake outside Mexico City when e both noticed a metalic elongated egg or cigar that was hovering along side of us.  It appeared to do off in the distance 100yds or so depending on its size. It looked like it was matching our speed until we stopped and it continued slowly moving along. It dissappeared behind a tree and when we tried to see where it went it had gone without a trace. I am convinced I saw a UFO. I however, believe that UFO means Unidentified Flying Aircraft and not little green men in a spaceship.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32174.html](http://www.nuforc.org/webreports/reports/032/S32174.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
