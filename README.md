@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:17 on 13 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:28 on 13 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Memphis (TN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Object traveled across sky at high speed into a small cloud and did not emerge.While standing outdoors in the apartment's parking area, I observed an object low in the sky moving at high speed, about the speed of a jet aircraft at cruising speed.  The object was white and was of a spherical shape. The outline of the object was distinct; there was no evidence of ionization around it, and no vapor trail or tail followed it. The object followed a straight path in the lower sky, approximately SW to NE.  Without slowing down it traveled into a small puffy cloud and did not emerge from the other side of the cloud. No other aircraft were present in the sky at that time, and the object made no sound audible at ground level. There were only a few other clouds in the northern sky at that time, and blue sky was visible all around that cloud.  The wind at that time was prevailing west at 10-15 mph. I observed the cloud into which the object had "disappeared" until the wind carried the cloud out of my field of view. I am a male, age 44, in good health, with 20-20 vision.  I have worked in the computer-electronics industry for about 20 years and am currently self employed in a home based mail order business.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07798.html](http://www.nuforc.org/webreports/reports/007/S07798.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Silent craft defies winds, changes shapes, gyroscopicSilent craft, maybe the size of a VW Beetle, floating 1500 ft away.It looked like a gyroscope, emitted some colors and had some lights randomly flashing every so often,from the bottom. It didnt move around much, but looked like it changed shapes fluidly.It ignored the west wind, maintaining position, with some sway back and forth, going into the breeze at times, as a balloon would not be able to do. It imperceptibly moved away in a straight line heading south and away from me. My wife saw it. Not a kite, as it gradually moved away too high and far to be on a string, to silent to be a drone.i got some video and a couple of pics from that.This was almost the exact spot I had a major sighting a few years ago.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156478.html](http://www.nuforc.org/webreports/reports/156/S156478.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
