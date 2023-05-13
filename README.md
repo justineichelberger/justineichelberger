@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:25 on 13 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:23 on 13 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 111</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156750.html](http://www.nuforc.org/webreports/reports/156/S156750.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Olympic National Park (Olympic Mountain Range) (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately Click of the picture - Click of the picture minutes.</sub><blockquote><sub>Snape dobject on or above Olympic mountain range.I was flying from Raleigh, N.C to Seattle, WA, when I was taking pictures with my 5 mega pixel android phone.  I had taken alot of picture of the mountains below on a semi clear day.  I used no flash and there was nothing on the window to create this object.  Of the 20 pictures I took this was the only one that had this object in it.  I'm not sure if it was an object in the mountain or it was something in the air below me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89326.html](http://www.nuforc.org/webreports/reports/089/S89326.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
