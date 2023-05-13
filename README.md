@@ -212,7 +212,7 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:22 on 13 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:27 on 13 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
 ![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in North Las vegas (NV) reported seeing craft that fit the description of some 'Sphere' over a period of approximately  -  minutes.</sub><blockquote><sub>FLASHING RED/ORANGE ORB FLYING THROUGH SKYAround 9:20 I was smoking a cigarette in my backyard when suddenly a bright flashing red/orange orb came flying around. It was flying a little low and made no noise. The orb backtracked, went down, to the side & then proceeded to head north. I called my sister & told to her look out the window to see if she saw what I saw. She only caught a glimpse of the UFO before it disappeared behind the mountains. It was a bright flashing sphere. It almost looked like it was flashing a signal & looking for something.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155651.html](http://www.nuforc.org/webreports/reports/155/S155651.html)</i></sub></sub></sub><br>
 <h5><details open>
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
