@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:22 on 13 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:18 on 13 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Oconomowoc (WI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Circulating white light beneath a disk, slowly flowing left to right in the distance at low altitude.About 3 mins in length I watched circulating white light in a 3-step fashion move around an object, while I drove my car.It had No airplane colors, red or green though around 11pm CST.It was a slow speed of light moving from left to right on the bottom of the object flowing slowly toward the East.I pulled into the gas station and told my friend on the phone.Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146109.html](http://www.nuforc.org/webreports/reports/146/S146109.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Centerville (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>4 white lights seen over OhioOn 13 May, at approximately 11pm, I was sitting on my back porch looking at wildlife with my night vision monocle (model AN/PVS-14).  I decided to look up and see the stars that aren’t normally visible to the naked eye due to light pollution, and while I was looking up (almost due east), I saw what appeared to be a faint satellite moving towards the north west, approximately 30 degrees above the horizon.  I decided to watch the satellite as it traversed the sky, and as I tracked it, it changed heading towards the south west for approximately 5 seconds, then turned again towards its original heading.  This object was not visible to the naked eye, requiring my night vision to see.  There was no flashing; just a faint, steady pinpoint of light.  I called a friend immediately afterwards to describe what I saw, and while I was on the phone (approximately 5 minutes later), I saw two more of the faint points of light moving on the same trajectory.   15 minutes later, I saw a 4th point of light moving the same direction.  Of the 4 objects I saw, only one changed heading while traversing the sky, the other 3 were constant.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134136.html](http://www.nuforc.org/webreports/reports/134/S134136.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
