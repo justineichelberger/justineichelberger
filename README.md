@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:40 on 13 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:50 on 13 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Clovis (NM) reported seeing craft that fit the description of some 'Disk' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>I was outside my home watching the clear night skies when i noticed a bright disk shaped object going down quite fast and i couldn't believe my eyes at what i was lookin. it was pretty closed it looked big and very bright i couldn't really notice any details on the object though. i'm pretty sure that what i saw was a ufo. i will keep my eyes open for more sightings as this isn't the first time i have seen stuff in the sky in this town. but this one is the closest thing i've ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56656.html](http://www.nuforc.org/webreports/reports/056/S56656.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Alhambra (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>This craft was NOT unidentified.  It was in fact a P-2 Orion used primarily as an electronic intelligence gathering craft.What I found unusual about this sighting was that I observed this craft over a heavily populated city at an altitude of no more than 2,000 feet and was apparently suffering from some type of powerplant malfunction, for I observed white smoke eminatting from the port outboard engine.What I found most troubling was that when I contacted Los Angeles International Airport and a local Air Force information office, I was told in no uncertain terms thatI DID NOT observe the mentioned aircraft.After being informed that no military aircraft were on any flight plan within this city's area, I did not even waste my breath relaying what I saw.((NUFORC Note:  We believe the witness may allude to a P-3 "Orion" aircraft.  A P-2 is a "Neptune."  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22950.html](http://www.nuforc.org/webreports/reports/022/S22950.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
