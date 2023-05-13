@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:30 on 13 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:30 on 13 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Baltimore (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Multiple UFO's flying over Baltimore Inner HarborWe went out onto our rooftop deck which overlooks downtown Baltimore and the Inner Harbor.  In the distance, over the harbor, we saw multiple bright wight spots that were moving about quickly and erratically through the sky. There was no pattern to the movements and the objects were moving too quickly and erratically to be regular aircraft. We were also able to rule out some type of light show as there were no beams and no events scheduled in the Harbor.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50546.html](http://www.nuforc.org/webreports/reports/050/S50546.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Selah (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>((NUFORC:  Not inconsistent with celestial body in night sky.))STATIONARY LIGHT OVER N/W SIDE OF MT RANIER WITH CHANGING LIGHT COLORMOVED TO SELAH WA LAST YEAR BOUGHT PROPERTY ON NT WENAS RD FACES WEST CAN SEE TOP OF MT RANIER  THIS LIGKT HAS BEEN COMING INTO VIEW SEVERAL TIMES SINCE WE HAVE BEEN HERE. tHIS LIGKT APPEARS AT ABOUT 25-30 degrees in elevation above Mt Ranier and from my location magnatic 270degrees . It remains in the same spot for about 4-5 hrs with lights changing from red ,green,white .  From where I live it appears to be over and in the vacinity of tocoma area. night flights of aircraft fly under the light all the time . IWAS JUST CURRIOUS AND WAS ON LINE LAST NIGHT AQND FOUND SOMEONE IN TERRACE HIGHHTS ,HE LOOKED OUT AND CONFERMED IT .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07724.html](http://www.nuforc.org/webreports/reports/007/S07724.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
