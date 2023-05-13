@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:26 on 13 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:17 on 13 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Tampa Bay (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>The craft surpriseingly flew close to poulated area.White disc shaped craft slowly hovers, then dissapers behind tree.((NUFORC Note:  No other information provided by witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29173.html](http://www.nuforc.org/webreports/reports/029/S29173.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Memphis (TN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Object traveled across sky at high speed into a small cloud and did not emerge.While standing outdoors in the apartment's parking area, I observed an object low in the sky moving at high speed, about the speed of a jet aircraft at cruising speed.  The object was white and was of a spherical shape. The outline of the object was distinct; there was no evidence of ionization around it, and no vapor trail or tail followed it. The object followed a straight path in the lower sky, approximately SW to NE.  Without slowing down it traveled into a small puffy cloud and did not emerge from the other side of the cloud. No other aircraft were present in the sky at that time, and the object made no sound audible at ground level. There were only a few other clouds in the northern sky at that time, and blue sky was visible all around that cloud.  The wind at that time was prevailing west at 10-15 mph. I observed the cloud into which the object had "disappeared" until the wind carried the cloud out of my field of view. I am a male, age 44, in good health, with 20-20 vision.  I have worked in the computer-electronics industry for about 20 years and am currently self employed in a home based mail order business.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07798.html](http://www.nuforc.org/webreports/reports/007/S07798.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
