@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:28 on 13 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:23 on 13 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Silent craft defies winds, changes shapes, gyroscopicSilent craft, maybe the size of a VW Beetle, floating 1500 ft away.It looked like a gyroscope, emitted some colors and had some lights randomly flashing every so often,from the bottom. It didnt move around much, but looked like it changed shapes fluidly.It ignored the west wind, maintaining position, with some sway back and forth, going into the breeze at times, as a balloon would not be able to do. It imperceptibly moved away in a straight line heading south and away from me. My wife saw it. Not a kite, as it gradually moved away too high and far to be on a string, to silent to be a drone.i got some video and a couple of pics from that.This was almost the exact spot I had a major sighting a few years ago.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156478.html](http://www.nuforc.org/webreports/reports/156/S156478.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Punta Gorda (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>See below for more on shape and number of craftWhile playing acoustic music at a city park, two of us in a circle of five were facing South-East when a brilliant light streamed across the sky in a Southwesterly direction.  We've had air shows at our local airport and at first I didn't think it was anything we couldn't come up with.  It was too bright to distinguish a form but the light remained oblong then suddenly it split, that is, a section of it shot forth. I later came home and heard a caller on Art Bell describe this except that what I saw was MUCH brighter than Venus.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07738.html](http://www.nuforc.org/webreports/reports/007/S07738.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
