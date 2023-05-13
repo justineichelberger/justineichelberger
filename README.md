@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:19 on 13 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:19 on 13 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Mosinee (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Low flying triangular craft seen near airport.Me and my friend were driving down the road and we looked up and saw two bright white lights above a field.  We wondered if it was just a pole or something else.  As we got closer we saw there was a red flickering light in the middle.  We pulled over and watched whatever it was and it looked like it hovered.  It all of the sudden took off back toward town.  I rolled down the window and listened to it.  It sounded somewhat like a lawn mower.  We turned around and followed it.  We were going about 55 or 60 mph and it was speeding way ahead of us.  We thought it might be a plane because there was an airport  (Central Wisconsin Airport) that way but couldn't figure out why it was so low and why it was going so fast.  As we kept going, we saw it hovering over a field again.  We saw that it looked triangular and somewhat flat.  We pulled over and watched it again.  It took off once again and we saw yellow lights now.  As we followed it back the other way, it looked like it dipped and crossed the road and hovered about 50 or 70 ft above a house.  We reached up with it again, pulled over and watched it again.  This time, it took off very fast and looked like it landed in a field somewhere or something up ahead but it was too fast to see where it went or landed.((NUFORC Note:  We will request a written report from the other student-witness.   Please see other report from Holland, MI, for this date and approximate time.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22844.html](http://www.nuforc.org/webreports/reports/022/S22844.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sioux City (IA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Ball of light, strange maneuvering, disappearedWe saw a ball of light seemly come out of nowhere moving very fast, change direction, then disappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118981.html](http://www.nuforc.org/webreports/reports/118/S118981.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
