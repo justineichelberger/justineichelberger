@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:23 on 13 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:24 on 13 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Punta Gorda (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>See below for more on shape and number of craftWhile playing acoustic music at a city park, two of us in a circle of five were facing South-East when a brilliant light streamed across the sky in a Southwesterly direction.  We've had air shows at our local airport and at first I didn't think it was anything we couldn't come up with.  It was too bright to distinguish a form but the light remained oblong then suddenly it split, that is, a section of it shot forth. I later came home and heard a caller on Art Bell describe this except that what I saw was MUCH brighter than Venus.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07738.html](http://www.nuforc.org/webreports/reports/007/S07738.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Essex (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.8333333333333334 - 0.8333333333333334 minutes.</sub><blockquote><sub>Bright white flashing light, emitting sparks, making a slow incline over Essex coast in England.I saw a bright flashing light slowly moving across the sky, as it was moving it looked like sparks were shooting off it in different angles. It was slowly moving upwards and then very quickly disappeared. There was no noise. This was not an aeroplane as there was no other lights on it and no sound, plus it was not on the usual flight path that the planes in this area take.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63122.html](http://www.nuforc.org/webreports/reports/063/S63122.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
