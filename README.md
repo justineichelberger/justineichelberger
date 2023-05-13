@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:29 on 12 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:40 on 13 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Hastings (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>unexpained red lightsMy family was driving back from Battle Creek MI, as soon we entered city of Hastings there were multiple red lights in the sky.  I pulled over, my wife and step-daughter tried to take pictures. Then red lights started to vanish one by one. As soon as we got home I zoomed in on the only picture and there was a yellowish blur not far from the other lights. We were on M-37 North when we say it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88925.html](http://www.nuforc.org/webreports/reports/088/S88925.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Clovis (NM) reported seeing craft that fit the description of some 'Disk' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>I was outside my home watching the clear night skies when i noticed a bright disk shaped object going down quite fast and i couldn't believe my eyes at what i was lookin. it was pretty closed it looked big and very bright i couldn't really notice any details on the object though. i'm pretty sure that what i saw was a ufo. i will keep my eyes open for more sightings as this isn't the first time i have seen stuff in the sky in this town. but this one is the closest thing i've ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56656.html](http://www.nuforc.org/webreports/reports/056/S56656.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [301](http://www.nuforc.org/webreports/reports/163/S163157.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163600.html)
-- [299](http://www.nuforc.org/webreports/reports/163/S163502.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163151.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163146.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
