@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:27 on 13 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:23 on 13 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Bjaeverskov (DK 4632) (Denmark) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.0 - 0.0 minutes.</sub><blockquote><sub>Very sharp light fading out an disappeared in about 5 to 10 sec.When walking a trip with the dog I saw one very sharp white light in size a bit bigger than a big star, seen in a position allmost midt way between the Moon and "Karlsvognen" - I do not now the name i english. It last in about 5 to 10 sec. and then faded out slowly and disapeared. It was not moving away. There was now sound. I was looking in 10 min. after, but it never came back.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28757.html](http://www.nuforc.org/webreports/reports/028/S28757.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Diamond (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>50 UFO's near Diamond, ILSaw 50+ dots to the SW of Diamond, IL from 2030 - 2045.  Too fr away to tell exact shape and even with binoculars i still couldn't tell what they were.  They were all a bright reddish yellow color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88954.html](http://www.nuforc.org/webreports/reports/088/S88954.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
