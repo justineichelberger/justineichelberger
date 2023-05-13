@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:50 on 13 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:12:56 on 13 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Alhambra (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>This craft was NOT unidentified.  It was in fact a P-2 Orion used primarily as an electronic intelligence gathering craft.What I found unusual about this sighting was that I observed this craft over a heavily populated city at an altitude of no more than 2,000 feet and was apparently suffering from some type of powerplant malfunction, for I observed white smoke eminatting from the port outboard engine.What I found most troubling was that when I contacted Los Angeles International Airport and a local Air Force information office, I was told in no uncertain terms thatI DID NOT observe the mentioned aircraft.After being informed that no military aircraft were on any flight plan within this city's area, I did not even waste my breath relaying what I saw.((NUFORC Note:  We believe the witness may allude to a P-3 "Orion" aircraft.  A P-2 is a "Neptune."  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22950.html](http://www.nuforc.org/webreports/reports/022/S22950.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Spartanburg (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Unknow triangular shaped object moving at slow rate of speed then hovered as I viewed it with my two employeesLast night, May 13, 2008, at around 11:30 pm EST, I was traveling home on US 29 AKA East Main St. Spartanburg S.C. with two of my employees. I own a commercial cleaning business this is my usual routine route every night. I saw an object which at first glance I thought this was a low flying plane but the object was moving at a very low rate of speed. With my head hanging out of my window now I gazed at the object for over a couple of minutes as I proceeded slowly down the road.The object was triangular and resembled a Stealth Fighter. My employee riding in the front seat saw the same thing I did. The employee in the back seat had limited view of the object. The object was traveling adjacent to my truck at a crawl speed and then to a hover. It appeared dark-toned and had lights at each tip of its triangular shape. I was near 1604 East Main when I turned in the parking lot of the bank to further look at the object.When I entered the parking area the object ascended slowly to a higher altitude and slowly gained speed moving in the opposite direction I saw it first traveling in. The object was silent no engine noise or jet sounds. The flight pattern made me conclude this is not an airplane, jet, helicopter or anything of that nature. The object left my sight as it moved across the sky opposite from the parking lot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63143.html](http://www.nuforc.org/webreports/reports/063/S63143.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
