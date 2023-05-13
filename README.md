@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:20 on 13 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:30 on 13 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Lake Guadalupe (Mexico) () reported seeing craft that fit the description of some 'Egg' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was silent and metalic and reflective.Me and my brother were walking down a hill on a small peninsula of a lake outside Mexico City when e both noticed a metalic elongated egg or cigar that was hovering along side of us.  It appeared to do off in the distance 100yds or so depending on its size. It looked like it was matching our speed until we stopped and it continued slowly moving along. It dissappeared behind a tree and when we tried to see where it went it had gone without a trace. I am convinced I saw a UFO. I however, believe that UFO means Unidentified Flying Aircraft and not little green men in a spaceship.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32174.html](http://www.nuforc.org/webreports/reports/032/S32174.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Baltimore (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Multiple UFO's flying over Baltimore Inner HarborWe went out onto our rooftop deck which overlooks downtown Baltimore and the Inner Harbor.  In the distance, over the harbor, we saw multiple bright wight spots that were moving about quickly and erratically through the sky. There was no pattern to the movements and the objects were moving too quickly and erratically to be regular aircraft. We were also able to rule out some type of light show as there were no beams and no events scheduled in the Harbor.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50546.html](http://www.nuforc.org/webreports/reports/050/S50546.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
