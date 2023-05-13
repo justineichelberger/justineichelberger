@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:28 on 13 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:50 on 13 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Millington (TN) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Is this goverment related?Me and 3 of my close friends watched this sighting flash it's 3 different colors top was red middle was white and bottom was blue.  Seeing this takes me back to 1976 where me brother and 8 other family members seen 3 oval shapes that hovered for 2 minutes.  I hope that whatever it may be that no 1 gets hurt during the exercise.  Be careful to all.((NUFORC Note:  Source of the report elects to remain anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134099.html](http://www.nuforc.org/webreports/reports/134/S134099.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Reedley (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately backyard laying on trampa - backyard laying on trampa minutes.</sub><blockquote><sub>A bright oval shaped lightMy freind,brother and I were laying on my trampline and we were looking into the sky and we saw a tiny small dot in the sky and it was moving really fast and out of knowere this other craft comes out and it was a very large bright light but we couldnt make out its shape. When the small dot and the light crossed overthere was a flash and the dot had disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18612.html](http://www.nuforc.org/webreports/reports/018/S18612.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
