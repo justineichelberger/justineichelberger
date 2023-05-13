@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:18 on 13 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:28 on 13 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Centerville (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>4 white lights seen over OhioOn 13 May, at approximately 11pm, I was sitting on my back porch looking at wildlife with my night vision monocle (model AN/PVS-14).  I decided to look up and see the stars that aren’t normally visible to the naked eye due to light pollution, and while I was looking up (almost due east), I saw what appeared to be a faint satellite moving towards the north west, approximately 30 degrees above the horizon.  I decided to watch the satellite as it traversed the sky, and as I tracked it, it changed heading towards the south west for approximately 5 seconds, then turned again towards its original heading.  This object was not visible to the naked eye, requiring my night vision to see.  There was no flashing; just a faint, steady pinpoint of light.  I called a friend immediately afterwards to describe what I saw, and while I was on the phone (approximately 5 minutes later), I saw two more of the faint points of light moving on the same trajectory.   15 minutes later, I saw a 4th point of light moving the same direction.  Of the 4 objects I saw, only one changed heading while traversing the sky, the other 3 were constant.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134136.html](http://www.nuforc.org/webreports/reports/134/S134136.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Millington (TN) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Is this goverment related?Me and 3 of my close friends watched this sighting flash it's 3 different colors top was red middle was white and bottom was blue.  Seeing this takes me back to 1976 where me brother and 8 other family members seen 3 oval shapes that hovered for 2 minutes.  I hope that whatever it may be that no 1 gets hurt during the exercise.  Be careful to all.((NUFORC Note:  Source of the report elects to remain anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134099.html](http://www.nuforc.org/webreports/reports/134/S134099.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
