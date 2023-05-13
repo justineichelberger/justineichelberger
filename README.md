@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:27 on 13 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:22 on 13 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in North Las vegas (NV) reported seeing craft that fit the description of some 'Sphere' over a period of approximately  -  minutes.</sub><blockquote><sub>FLASHING RED/ORANGE ORB FLYING THROUGH SKYAround 9:20 I was smoking a cigarette in my backyard when suddenly a bright flashing red/orange orb came flying around. It was flying a little low and made no noise. The orb backtracked, went down, to the side & then proceeded to head north. I called my sister & told to her look out the window to see if she saw what I saw. She only caught a glimpse of the UFO before it disappeared behind the mountains. It was a bright flashing sphere. It almost looked like it was flashing a signal & looking for something.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155651.html](http://www.nuforc.org/webreports/reports/155/S155651.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Oconomowoc (WI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Circulating white light beneath a disk, slowly flowing left to right in the distance at low altitude.About 3 mins in length I watched circulating white light in a 3-step fashion move around an object, while I drove my car.It had No airplane colors, red or green though around 11pm CST.It was a slow speed of light moving from left to right on the bottom of the object flowing slowly toward the East.I pulled into the gas station and told my friend on the phone.Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146109.html](http://www.nuforc.org/webreports/reports/146/S146109.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
