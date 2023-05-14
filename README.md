@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 14 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:01 on 14 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Warner Robins (GA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Shape shifting object that shimmered and or produced white yellow lights in different spots.Object flying at high altitude, about as high as airliner, was seen by 4 witnesses flying or floating over Houston County, GA from 1838 (approx. overhead) to 1855 (when it could no longer be seen on horizon).  Seen on 5/14/2021.  Object traveled in a southeast bound trajectory.  Object seemed to shift change, flash lights, and or shimmer irregularly.  Shimmer or lights were silver, white, or yellow.  Object was moving much slower than an aircraft, did not emitt any detectable sound.  I took video of object, sketched at time of viewing, and took notes.  Object may be high altitude silver balloon, or ballon group, however object seemed to be too high to be ordinary party balloons. An aircraft was seen in the vicinity of balloon at approximate altitude as baloon. My estimate is that it must have been at well over 18Kft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163170.html](http://www.nuforc.org/webreports/reports/163/S163170.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Canyon Country (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>I saw a star explode and a ufo came flying out of it.  There was absolutly no sound.I awoke, at 03:53 on 5/14/08, to an amazingly bright blue light shining directly through my black mini blinds into my face. I quickly opened the window to see a large electron blue star slowly moving across the sky. This star suddenly became very large and seemed like it exploded, yet there was absolutly no sound. Out of this star came an oddly shaped aircraft that looked similar to a space shuttle, yet instead of having wings on the sides, it had two cylinders that thrust came out of. The ship took off like a bat out of hell, faster than any airplane i have ever seen. The odd thing was that the star it came out of was traveling east, while the ufo shot south. The small glimpse that I got of this craft showed two very bright red lights on the bottom, a green light on the nose, and the rest of the craft glowed orange. After the craft disappeared (which only took a second) i saw three other glowing stars, same as the first. Within half of a minute, they faded awy. During the whole expeience, there was never any sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63140.html](http://www.nuforc.org/webreports/reports/063/S63140.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [260](http://www.nuforc.org/webreports/reports/163/S163156.html)
-- [259](http://www.nuforc.org/webreports/reports/163/S163166.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163365.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163290.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163170.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
