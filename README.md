@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:24 on 14 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:28 on 14 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Fond du Lac (WI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>"Fireball-like" objects seen over Fond du Lac, Wi.A friend and I were standing out in front of my house looking at the western sky, when we both noticed two(2) "fireball-like" objacts in the night sky.  They flew west to northeast towards the town of Pipe, Wi over Lake Winnebago.  They were moving too slow to be an airplane, and too fast to be anything else.  Originally thought of helicopters, but there was no noise.  Completely silent.  There were also no identifying marks such as red or green lights, saw no signs of wings, just the bright orange fires in the sky.  About fifteen(15) minutes later, when my friend was on his way home, he saw two more heading west to southeast heading towards Eden, Wi.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75409.html](http://www.nuforc.org/webreports/reports/075/S75409.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Nooksack (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Dancing light in the skyMy son woke me up early this morning around 3:30 because he had wet the bed.  After I got him settled, the dog wanted out so I opened the door to our backyard to let her out.  I looked up to see the stars but there were none, except one in the northern sky. The object was blinking red, blue, and yellowish white.  I immediately thought it was odd that there was only one very bright star and then nearly immediately saw it glide to the left.  I continued watching it and as my eyes adjusted to the darkness, I noticed that it was between the silhouettes of two nearby trees.  It continued to move side to side, up and down, dancing between the two trees.  There is no way a plane could dance in the sky the way this light did.  It continued dancing in the sky until it finally moved too far to the right behind one of the trees and I could no longer see it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155659.html](http://www.nuforc.org/webreports/reports/155/S155659.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [260](http://www.nuforc.org/webreports/reports/163/S163156.html)
-- [259](http://www.nuforc.org/webreports/reports/163/S163166.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163365.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163290.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163170.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
