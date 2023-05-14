@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:31 on 14 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:27 on 14 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Fast glowing moving object does 90 degree turn at night.Out having a smoke ejoying the night sky. I was facing south south west. When a bright object came into view from the east. It made its way west then made a sharp 90 degree turn south. Not sure how high it was or how fast it was traveling. I'm suprised I was able to see it. I accutally had to think again if I did see it. There are no wires or trees in the area to reflect local traffic lights. It was slim and long. Not sure if it was a cirgar type object. Had a white glow to it. It made no noise and if I had to judge the speed. It was fast. And when it made it's turn it did not even stop or slow down. Also when it turned not sure if it bent while making the turn or if it just moved as one. If it did show up on a radar. As there is an international airport near by. I'd think it would have just shown up as a blip if that. I would have easily dismised this as a meteor except when it turned. I dont drink. I dont wear glasses. I take no medications.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37209.html](http://www.nuforc.org/webreports/reports/037/S37209.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Dixon (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was a black triangle,around light on each corner that didn`t glow out,it took all the noise out of the air when it went over headI had just gotten off work,it was a friday night.I was leaving the building. I had a rider that had ran ahead to the car,I yelled to him, however I couldn`t hear my own voice.It was as if I was in a tunnel and the sound didn`t carry,I noticed that the sound of the plant I worked went quiet also and that was a noisey place.I looked up and saw something like I had never saw before.It was a black trangle,it was huge,it couldn`t have been more than forty feet off the ground,I`m guessing it was two hundred yards across,the same to the point of the craft at each corner was a round light that didn`t a peer to be shing out.It was as if the light was dull,no glow,I don`t know how else to describe it.It slowly moved over head with no noise and deading all the other noises around.I yelled at the others around me but no one could hear me.As the craft passed I saw what looked like squares,or big windows at the rear of the craft but they were all dark.I wait for a noise b! ut there wasn`t any.As soon as it had passed all the factory noises and the guys yelling came back,I could hear the car engines running,horns honking,everything.I ran to my car to try and follow it,I thought with it going as slow as it was I could catch it show my rider.Truth is I wanted to find out what it was I saw.As I left the building and got on the main street I went up a hill and when I was on top there was nothing,it had gone,it couldn`t have been more than a mintue.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90237.html](http://www.nuforc.org/webreports/reports/090/S90237.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [260](http://www.nuforc.org/webreports/reports/163/S163156.html)
-- [259](http://www.nuforc.org/webreports/reports/163/S163166.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163365.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163290.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163170.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
