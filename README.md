@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:36 on 14 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:33 on 14 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Sale (Australia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>two lights traverling west to east in staggered formation thought unusual for satellites so i watch them then saw another two on the same path thought this is strange. within about ten minutes i counted 37 lights in staggered formation traverling east to west ((sic.  West to east))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155650.html](http://www.nuforc.org/webreports/reports/155/S155650.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1973, an anonymous witness in San Luis Obispo (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It made a 90 degree turn at a high rate of speed, and disappeared through the atmosphere.It was a perfectly blue sky, no clouds in sight.  A friend and I were looking in a northwest direction above the horizon, when we noticed a very fast moving object heading north along the coast.  It was too far away to describe a shape, but appeared to leave a white tail.  As it was gaining in altitude, after traveling 5 or 10 miles, it suddenly made a 90 degree turn (I mean, a complete left angle)heading upward in a west direction and quickly disappeared through the atmosphere.  There was no sound.  It was incredibly fast and quiet!((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25487.html](http://www.nuforc.org/webreports/reports/025/S25487.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [260](http://www.nuforc.org/webreports/reports/163/S163156.html)
-- [259](http://www.nuforc.org/webreports/reports/163/S163166.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163365.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163290.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163170.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
