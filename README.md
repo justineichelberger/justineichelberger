@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:25 on 13 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:37 on 14 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>White, semi translucent orb moving in erratic directions, hovering and then leaving at immense speed.On 5/13/14 at approximately 1600 hours I observed an object in San Jose, Ca, near highway 237.  The object was a sphere or orb, white and semi translucent. The object appeared no bigger than a soccer ball.  The shape was very clean, not distorted, a perfect orb or spherical shape.I first assumed the object to be a plastic bag or seagull but the object stopped in midair in what appeared to be 15 – 25 mph winds heading South by South East.  The object was at an altitude higher than a six story building but lower than the aircraft taking off at the nearby San Jose Airport.  Several commercial aircraft, 2 or 3 mostly 737s were visible during this time.The object moved in an erratic behavior dropping 50 – 60 ft and then climbing vertical another 50 – 60 ft.  The object moved right to left in a 50 yard area and then suddenly headed south and vertical in an upward motion at a speed much faster than the surrounding aircraft, birds, or insects that I observed.  Another way to characterize the speed, I have worked closely with F-18 Hornets and have never seen them capable of travelling at this speed.I doubted my observation several times thinking it could be a plastic bag, a bird, a drone, an insect, or even a piece of flying pollen.  None of the above items match the flight characteristics that this odd craft showed as it seemed intelligently controlled, capable of stopping and moving about in any direction, at any speed despite the winds.There were no visible clouds, no light shining on the windows of the building that I observed the object through.  I have never seen anything like it.There was no visible propulsion system, jet intake, propellers, or anything that would indicate the power source this craft used to move about.  If I had not been staring where I was at that exact moment I never would have seen it.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109608.html](http://www.nuforc.org/webreports/reports/109/S109608.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Warner Robins (GA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Shape shifting object that shimmered and or produced white yellow lights in different spots.Object flying at high altitude, about as high as airliner, was seen by 4 witnesses flying or floating over Houston County, GA from 1838 (approx. overhead) to 1855 (when it could no longer be seen on horizon).  Seen on 5/14/2021.  Object traveled in a southeast bound trajectory.  Object seemed to shift change, flash lights, and or shimmer irregularly.  Shimmer or lights were silver, white, or yellow.  Object was moving much slower than an aircraft, did not emitt any detectable sound.  I took video of object, sketched at time of viewing, and took notes.  Object may be high altitude silver balloon, or ballon group, however object seemed to be too high to be ordinary party balloons. An aircraft was seen in the vicinity of balloon at approximate altitude as baloon. My estimate is that it must have been at well over 18Kft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163170.html](http://www.nuforc.org/webreports/reports/163/S163170.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/163/S163466.html)
-- [283](http://www.nuforc.org/webreports/reports/163/S163427.html)
-- [282](http://www.nuforc.org/webreports/reports/163/S163160.html)
-- [281](http://www.nuforc.org/webreports/reports/163/S163199.html)
-- [280](http://www.nuforc.org/webreports/reports/163/S163114.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
