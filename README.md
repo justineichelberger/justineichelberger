@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:58 on 14 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:40 on 14 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Des Moines (IA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>orange/amber fuzzy sphere moving across sky in Central Iowa, S.E. to N.W.While in the backyard of my home, I glanced up at the sky, S.E. direction, and noticed a glowing orange/amber circle of light slowly moving to the N.W., moving slowly but discernibly.  It almost looked like an amber street light from a distance, was fuzzy, and had jagged lines coming from the center of the object.  It started about 45 degree angle from horizon, moved up and over my head but very far in the distance.  When it was in the western sky, I lost track of it due to the trees obscuring the view.  I was in total shock as I had never seen something like that before.  It made no noise and did not change color, shape, or speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134121.html](http://www.nuforc.org/webreports/reports/134/S134121.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Changing' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Brooklyn lights / VIDEO / 5.14.11On the early morning of Sat. 5/14/11, I was having great trouble sleeping.  The cable box in my room was re-booting most of the night, indicating, perhaps, an electrical or signal problem.  From my kitchen window----from about 2:50am to 3:10am, I, and for a portion of the time with a friend, observed a brilliant display of light near Windsor Terrace (Brooklyn).  The light changed shapes, sizes, brightness, etc.VIDEO BEING PROVIDED:  Near the end I observed a brilliant increase in brightness which I was able to video and which is being e-mailed to NUFORC.I am not 100% certain if this display could have been a craft or natural event.This is my third UFO sighting report to NUFORC.  The other two were for sightings that took place on:  1.  2/6/97 (Mesa, AZ)---original report was updated with map.2.  4/26/09 (Brooklyn, NY)---orb</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81929.html](http://www.nuforc.org/webreports/reports/081/S81929.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [260](http://www.nuforc.org/webreports/reports/163/S163156.html)
-- [259](http://www.nuforc.org/webreports/reports/163/S163166.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163365.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163290.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163170.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
