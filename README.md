@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:24 on 14 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:23 on 14 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Silver Beach (NY) reported seeing craft that fit the description of some '' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Woman repts. eight people observing very large obj.--1/2 diameter of full moon--visible in western sky.  Moves to south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00487.html](http://www.nuforc.org/webreports/reports/000/S00487.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in San Jose (on the West side) (CA) reported seeing craft that fit the description of some 'circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Summary : I saw a round object in the sky slowingmoving to the SE.  It was below the cloudsand left no vapor tail.I saw the object on the way to apartmentto take a nap.  I could have watch it formuch longer but I was on my lunch break anddidn't want to take the time.  I mighthave forgotten about it but as I was restingand thinking about something else I gota flash of the object in my mind.  I guessthat this might be a telepathic impressionor somekind.  That's all, it wasn't verydramatic.I've seen the videos of Mexican UFOs andit looked a like the simple sphericalcraft.It wasn't very big about the size of a planein the sky.  Just no wings.Robert</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02223.html](http://www.nuforc.org/webreports/reports/002/S02223.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [260](http://www.nuforc.org/webreports/reports/163/S163156.html)
-- [259](http://www.nuforc.org/webreports/reports/163/S163166.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163365.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163290.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163170.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
