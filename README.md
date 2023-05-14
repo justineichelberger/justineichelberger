@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:32 on 14 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:58 on 14 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Bayamon (Puerto Rico) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two triangular formation groups (for a total of  eight red lighted objects) were observed southwest of where I live moving west.I was in Bayamon, Puerto Rico at the time of the sighting.  I was speaking to my sister (she was also in Bayamon, Puerto Rico)on the phone when all of the sudden she told me to run and look at the sky towards the southwest.  I saw three red lights in V formation that were heading west.  I called out to my husband,a retired air traffic controller, to come immediately to witness what I was seeing.  Just as they were beginning to disappear we spotted three more in V formation and were identical to the ones that had just disappeared but these were seemingly lower and closer to us. They went in the same direction as the previous ones. My husband called the FAA CERAP (air traffic control radar facility ) in San Juan, Puerto Rico to report it. The supervisor on duty stated that the objects flying in our area were NOT on the radar. Therefore, they truly were unidentified flying objects.  I then called my son to see them and grabbed a pair of binoculars.  As I focuse! d on one with the binoculars I could only see the bottom of one which had red lights all around the bottom rim.  Then two more appeared at a distance from each other and followed the other three.  We did not here any noise coming from them.  This was witnessed for a fact by the people that were next to my sister in the parking lot at Rexville Towne Center in Bayamon (a local strip mall) and by people that were on road 167 in Bayamon heading south as there are reports that many stopped their cars to observe them in the sky.  My sister saw some use there cell phones to either photograph or record the event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81510.html](http://www.nuforc.org/webreports/reports/081/S81510.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Des Moines (IA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>orange/amber fuzzy sphere moving across sky in Central Iowa, S.E. to N.W.While in the backyard of my home, I glanced up at the sky, S.E. direction, and noticed a glowing orange/amber circle of light slowly moving to the N.W., moving slowly but discernibly.  It almost looked like an amber street light from a distance, was fuzzy, and had jagged lines coming from the center of the object.  It started about 45 degree angle from horizon, moved up and over my head but very far in the distance.  When it was in the western sky, I lost track of it due to the trees obscuring the view.  I was in total shock as I had never seen something like that before.  It made no noise and did not change color, shape, or speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134121.html](http://www.nuforc.org/webreports/reports/134/S134121.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [260](http://www.nuforc.org/webreports/reports/163/S163156.html)
-- [259](http://www.nuforc.org/webreports/reports/163/S163166.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163365.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163290.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163170.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
