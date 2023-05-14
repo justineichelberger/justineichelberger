@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:23 on 14 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:23 on 14 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>red lights make shapes in arizona sky, again on 5-14-08My friend and I are driving. 3 red lights appeared in the sky. They first appeared as an obtuse triangle then slowly formed into a straight line. The two lights closest together start spinning around each other pretty quickly. Then they quickly spread out into a perfect triangle. One by one they dissapeared.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63154.html](http://www.nuforc.org/webreports/reports/063/S63154.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Kingwood (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Ball shaped uap over northeast Houston in broad daylight.My mother and I were sitting outside enjoying a beautiful day. It was pleasant for Texas and partially cloudy so we got to take advantage of my lounge chairs that lean all the way back. Since we had some clouds you could see very clearly into the sky because there wasn't blinding sunlight. It was around 2 in the afternoon. I watch the flight paths of planes coming into Bush International Airport regularly and enjoy monitoring jets, birds, whatever. I had been watching the birds when a black object caught my eye. It was moving in a straight line (unlike birds). It was also too high for birds. Just skirting the low lying cloud bottoms. It appeared to be round and black. No wings. No contrails (wasn't high enough for that anyway). It almost looked like a black basketball but considering how high it was, it had to be decent sized. Someone would have to do the math but I guess it would be the size of a smart car? It was moving at a good clip but not blinding spee! d. It slowed for a second and then returned to full speed. Very straight perfect line. I alerted my Mom and started to point and that's about the time it disappeared behind some branches on our magnolia. She sorta laughed thinking I was being silly. I went inside to get a cup of coffee. When I came back out my mom was standing and staring in the direction I originally saw the ball. She said "You aren't going to believe this but I just saw it." Same situation, it had just disappeared in that same area going southeast towards Lake Houston and the Eastgate/Huffman area. It seemed to be coming at regular intervals and sticking with the same heading, speed and altitude. I have no way of knowing if it was the same object or three different ones. It came along one more time, we both saw it and I grabbed my cell phone but couldn't get it on the viewfinder. Shortly after the last sighting a Chinook looking military helicopter flew by at 2:23. I did get that on video. It fl! ew right over our street and was heading south. It was not a b! ird. It had no wings. It didn't make any sound that we could hear. It was in broad daylight and the sun was slightly behind us. We were not blinded and had a perfect view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163260.html](http://www.nuforc.org/webreports/reports/163/S163260.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [260](http://www.nuforc.org/webreports/reports/163/S163156.html)
-- [259](http://www.nuforc.org/webreports/reports/163/S163166.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163365.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163290.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163170.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
