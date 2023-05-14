@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:19 on 14 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:30 on 14 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Shrewsbury Township (PA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>A police officerfrom the Southern Regional Police Dept called to advise of an unidentified object falling thru the sky.  He stated it appeared verry bright blueish green in color with orange flames.  The object was much larger than a shooting star and it disipated  as it fell to the ground.  He was definate it was not a firework and believed it to be a meteor or a UFO.  Local EMA has been advised.  This call was received at 2345 hours.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63132.html](http://www.nuforc.org/webreports/reports/063/S63132.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Santa Barbara (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangle shaped craft with lightsSaw a small triangle craft with lights on all of the points appear in the sky along the beach bike path in Santa Barbara, CA. The same craft or perhaps another one identical to the first appeared again, and then met up with another triangle craft and they seemed to attach to one another. There was no sound, and my girlfriend and I both saw them.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70046.html](http://www.nuforc.org/webreports/reports/070/S70046.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [260](http://www.nuforc.org/webreports/reports/163/S163156.html)
-- [259](http://www.nuforc.org/webreports/reports/163/S163166.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163365.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163290.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163170.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
