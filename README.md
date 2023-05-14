@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:19 on 14 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:24 on 14 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Oakland (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately Basketball court - Basketball court minutes.</sub><blockquote><sub>This was definetly a real saucer I saw.I was playing basketball with one of my friends, no one was there but the two of us, and while I was dribbling the ball, I shot it, and suddenly I saw three objects, flying in a formation. My first thought was that somebody was playing a hoax. But as the objects came closer, I saw that the objects kind of were bigger than I thought and they were made of metal and as my friend and I pointed to them and looked at them, they suddenly vanished, leaving barely a trail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17666.html](http://www.nuforc.org/webreports/reports/017/S17666.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in North Myrtle Beach (SC) reported seeing craft that fit the description of some 'Changing' over a period of approximately 30+ - 30+ minutes.</sub><blockquote><sub>Many lights over North Myrtle Beach ocean moving erraticallyLast night while watching comedy on Netflix, I observed an orange light flash outside my beachfront condo. When it did it again I got up and got my binoculars and my iPhone to take a picture.  I could see many lights out over the ocean but thru the binoculars I can see that some of them are moving very erratically and changing color equally as fast.  I took a picture and when you enlarge the photo you can see one of the lights is a red color and looks to have energy coming from it.  The ufos stayed there for more than 40 mins.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163156.html](http://www.nuforc.org/webreports/reports/163/S163156.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [260](http://www.nuforc.org/webreports/reports/163/S163156.html)
-- [259](http://www.nuforc.org/webreports/reports/163/S163166.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163365.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163290.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163170.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
