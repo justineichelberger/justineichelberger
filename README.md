@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:40 on 14 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:24 on 14 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Changing' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Brooklyn lights / VIDEO / 5.14.11On the early morning of Sat. 5/14/11, I was having great trouble sleeping.  The cable box in my room was re-booting most of the night, indicating, perhaps, an electrical or signal problem.  From my kitchen window----from about 2:50am to 3:10am, I, and for a portion of the time with a friend, observed a brilliant display of light near Windsor Terrace (Brooklyn).  The light changed shapes, sizes, brightness, etc.VIDEO BEING PROVIDED:  Near the end I observed a brilliant increase in brightness which I was able to video and which is being e-mailed to NUFORC.I am not 100% certain if this display could have been a craft or natural event.This is my third UFO sighting report to NUFORC.  The other two were for sightings that took place on:  1.  2/6/97 (Mesa, AZ)---original report was updated with map.2.  4/26/09 (Brooklyn, NY)---orb</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81929.html](http://www.nuforc.org/webreports/reports/081/S81929.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Fond du Lac (WI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>"Fireball-like" objects seen over Fond du Lac, Wi.A friend and I were standing out in front of my house looking at the western sky, when we both noticed two(2) "fireball-like" objacts in the night sky.  They flew west to northeast towards the town of Pipe, Wi over Lake Winnebago.  They were moving too slow to be an airplane, and too fast to be anything else.  Originally thought of helicopters, but there was no noise.  Completely silent.  There were also no identifying marks such as red or green lights, saw no signs of wings, just the bright orange fires in the sky.  About fifteen(15) minutes later, when my friend was on his way home, he saw two more heading west to southeast heading towards Eden, Wi.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75409.html](http://www.nuforc.org/webreports/reports/075/S75409.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [260](http://www.nuforc.org/webreports/reports/163/S163156.html)
-- [259](http://www.nuforc.org/webreports/reports/163/S163166.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163365.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163290.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163170.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
