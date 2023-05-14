@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:33 on 14 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:31 on 14 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1973, an anonymous witness in San Luis Obispo (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It made a 90 degree turn at a high rate of speed, and disappeared through the atmosphere.It was a perfectly blue sky, no clouds in sight.  A friend and I were looking in a northwest direction above the horizon, when we noticed a very fast moving object heading north along the coast.  It was too far away to describe a shape, but appeared to leave a white tail.  As it was gaining in altitude, after traveling 5 or 10 miles, it suddenly made a 90 degree turn (I mean, a complete left angle)heading upward in a west direction and quickly disappeared through the atmosphere.  There was no sound.  It was incredibly fast and quiet!((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25487.html](http://www.nuforc.org/webreports/reports/025/S25487.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Fast glowing moving object does 90 degree turn at night.Out having a smoke ejoying the night sky. I was facing south south west. When a bright object came into view from the east. It made its way west then made a sharp 90 degree turn south. Not sure how high it was or how fast it was traveling. I'm suprised I was able to see it. I accutally had to think again if I did see it. There are no wires or trees in the area to reflect local traffic lights. It was slim and long. Not sure if it was a cirgar type object. Had a white glow to it. It made no noise and if I had to judge the speed. It was fast. And when it made it's turn it did not even stop or slow down. Also when it turned not sure if it bent while making the turn or if it just moved as one. If it did show up on a radar. As there is an international airport near by. I'd think it would have just shown up as a blip if that. I would have easily dismised this as a meteor except when it turned. I dont drink. I dont wear glasses. I take no medications.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37209.html](http://www.nuforc.org/webreports/reports/037/S37209.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [260](http://www.nuforc.org/webreports/reports/163/S163156.html)
-- [259](http://www.nuforc.org/webreports/reports/163/S163166.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163365.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163290.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163170.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
