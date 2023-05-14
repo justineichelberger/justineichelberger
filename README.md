@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:19 on 14 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:22 on 14 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Roswell (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright flashing lights in pattern formation with one bright light zooming off.I was on my way back from the movies when my sister and I pulled into our neighborhood. Nearing our cul-de-sac I noticed multiple lights flashing one after another over the tree line. It seemed to be a circular shape.  It slowly moved out of sight.  Then, after continuing to look in the sky I noticed what looked like a similar light (same brightness and shape) burst off into the sky and disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110230.html](http://www.nuforc.org/webreports/reports/110/S110230.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Blue Ridge (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Bright flashes of light that lit up sky, then ball of light speeding acrossWe were located here in the mountains, with a clear view of the sky, and then some trees directly ahead of us. First there were several bright flashes of light that completely lit up the night sky. It was almost like that from a lightning storm on a clear night. It reminded me of a bright camera flash. Then a huge ball of light sped behind some trees and disappeared. There was no noticeable noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63139.html](http://www.nuforc.org/webreports/reports/063/S63139.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [260](http://www.nuforc.org/webreports/reports/163/S163156.html)
-- [259](http://www.nuforc.org/webreports/reports/163/S163166.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163365.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163290.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163170.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
