@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:29 on 15 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:36 on 15 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Gettysburg (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Loud noise with line of changing colors and disappearing!My friend and I were walking back to my house when we heard a loud noise like a firework or a bomb going off.  After the noise there was an object that appeared as close as the utility pole!  It was a line of light changing colors such as blue,purple,green,yellow,orange,and red. It was magnificent for 30 seconds and then it was gone.  It appeared out of thin air and then it disappeared.  Has anyone else experienced anything like this?((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88422.html](http://www.nuforc.org/webreports/reports/088/S88422.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Western Grove (AR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>He was driving to my house in Anderson Flat, when he saw it, Blue fire ball, with a haze around it that change direction East and West.A freind of mine was coming over to see me yesterday in Anderson Flat, Arkansas, and on his way out of Western Grove, he saw a Blue fire ball with a haze around it, that changed direction east to west.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12894.html](http://www.nuforc.org/webreports/reports/012/S12894.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
