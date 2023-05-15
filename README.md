@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:35 on 15 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:29 on 15 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Cypress (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>4 orange Lights Smoothly Floating in the clear sky effortlessly in a check mark formationMy Friends and I were laying down looking at the stars on a lake listening to music.  one friend stood up and the other sat up to talk to him and as i played there i noticed 4 lights moving under the big dipper they were flying in a v formation but more like a check mark cuz there was an extra one on the right side, the were orange tint but not like a normal light it was more of a glow, the manner of which they moved was amazing it was like a leaf on a body of water being pushed by the breeze, i thought i was imagining it so i said ever so elegantly "((What)) is that?" and to my surprise both of my friends saw the same object we were baffled and we watched it for a few more seconds before it disappeared into the light pollution of houston, now this a key part of this sighting PLANES do not disappear in light pollution you can still see a plane in light pollution because it does not fly high enough so given this and the size of these lights they had to be! of enormous size they were bigger than a plane that passed by later that we watched even as it was flying into the light pollution, the light pollution covered theses orbs meaning it was flying above the 3000 miles that a plane flys this was a breath taking experience and changed my life. there was no sound!!! we heard the plane that came later!!!!  ((What)) did i SEEEEEEEEEEEE!!!!!  2 planes came after i don't know if they were military or not but they were noticeable as i described, the lights also appeared to never change distance and if there was a weird haze almost like you see on camouflaged ships in sic fi movies.  truly breath taking.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134125.html](http://www.nuforc.org/webreports/reports/134/S134125.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Gettysburg (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Loud noise with line of changing colors and disappearing!My friend and I were walking back to my house when we heard a loud noise like a firework or a bomb going off.  After the noise there was an object that appeared as close as the utility pole!  It was a line of light changing colors such as blue,purple,green,yellow,orange,and red. It was magnificent for 30 seconds and then it was gone.  It appeared out of thin air and then it disappeared.  Has anyone else experienced anything like this?((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88422.html](http://www.nuforc.org/webreports/reports/088/S88422.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
