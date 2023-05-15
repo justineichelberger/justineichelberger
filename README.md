@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:15:21 on 15 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:29 on 15 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in McKenzie (TN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Man calls to rept. cattle mutilations in county (On Hwy. 22?).  Helicopters reported, sheriff's office involved, newspaper articles.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00515.html](http://www.nuforc.org/webreports/reports/000/S00515.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in Denton (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>bright red, heart shaped vehicle flying above tree tops mid-afternoon on a clear, sunny day dayThis sighting was sometime mid-afternoon on a bright sunny day.  I am not sure of the exact year but it was most likely in the mid 1970's.  I grew up as an Air Force brat and my father was chief executive officer (director) for the Air Force Museum at Wright-Patterson AFB in Dayton, OH for 5 years. Therefore, I am and was familiar with nearly every aircraft our military has flown. At the time of the sighting, I lived on a 98-acre farm just north of Denton,TX, and I was a high school teacher.The farm was located in a creek bottom area in a flood plain adjacent to Core of Engineers property. My mail box was located about 1/4 mile from the house on the blacktop road above (elev.) the creek bottom. As I got out to check my mail, the object flew directly over me and across the tree tops in a NW direction. My description of the object and event: Bright fire-engine red heart-shape like a thick, fat Valentine heart (the pointed end of the heart was the forward or leading edge); no visible windows: no noise; no vapor trail; air speed was about 50 to 60 mph; flew in a straight line only, no turns. I am guessing that it flew only about 100 to 200 feet above me and estimate it's size to be in length and width approx. about the same as an F-16 fighter jet, it was in a thick, heart-shape as I stated earlier. I knew immediately that this was not something I could explain or that it was anything I had seen before. I was excited, jumped back into my truck as I watched in cruising away, and raced to the house to ask my wife and a girlfriend of hers if they saw it or heard anything since the object had to fly almost directly over the farm house. They did not hear or see anything. I drove back to the mail box so I could see over the trees and of course it had disappeared. I don't know why I never reported this until now except that I have never seen or heard of a report of a UFO that describes something similiar or exactly what I saw. I know what I saw, it was a perfectly clear day, and it was too close to me for me to be mistaken or confused about its description.((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70595.html](http://www.nuforc.org/webreports/reports/070/S70595.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
