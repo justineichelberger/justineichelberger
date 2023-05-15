@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:40 on 15 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:49 on 15 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Manassas (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>3 lights in triangle shape or form silently zips over Manassas, VAOne spring night in 1989 me and three friends of mine were standing outside talking. I wasnt really involved in the conversation and happened to look up. WHen I did I immediatly saw 3 lights in the shape of a triangle moving very fast but didnt make any noise nor did it have any blinking lights. I yelled "What is that!!!". At nearly the same time my friend Mark saw it and we both started running after it while pointing up in the sky saying " look! look!". Some how our other two friends never saw it but I never forgot it. I was 12 years old then and I'm 29 now and have just seen a show on UFO's that included sightings just like mine. I never believed in the ability of a ET to travel the incredible distance to Earth due to the mind boggeling amount of energy needed and time. But after careful research and my own sighting of a UFO I guess I can no longer rule it out. I am also hoping that maybe someone else in Northern VA may have seen the same thing. If so POST IT!!!! I want to know. Thanks((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54771.html](http://www.nuforc.org/webreports/reports/054/S54771.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1953, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>3 discs in formation flipping into clouds and descending  out of them.I am a retired air traffic controller and this siting took place when I was 16. I was extremely interested in aviation at that time and knew just about every type of aircraft. The ceiling was approximately 1000 ft , myself and two friends saw three discs  approximately 30 ft in diameter moving in a triangle formation from North to South at the base of the cloud layer. They would flip up simultaneouly into the cloud layer and then descend out of it. They made no sound. It appeared to me that they may be reacting to the height above ground and would rise by flipping upwards to gain more height. If anyone has a similar flipping siting would they please post.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33869.html](http://www.nuforc.org/webreports/reports/033/S33869.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
