@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:23 on 15 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:27 on 15 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1981, an anonymous witness in Twenty Nine Palms (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 29 palms usmc - 29 palms usmc minutes.</sub><blockquote><sub>I was on guard duty on a motor pool late at night when i and a number of the marines that were around the area saw jeep start up by itself and a truck and drive threw a gate by itself with no one driving them then we notice a bright light in the sky.we all yell halt but we all seen no one was driven. we all seem to lose our sense of time After this was over the naval investagator or NIS question us they told me they found the vehicles in the desert 20 miles away from the post or base. they could not find any tracks in the desert. they told me to not talk about this incident to any one I heard one of them say we were guarding the gost post. I am sure navl intel. knows more about ufos then they put on. these acted real strange due to apperances also i never seen id from them. I know their was more sightings in and around base at this period of time.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33625.html](http://www.nuforc.org/webreports/reports/033/S33625.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in West Roxbury (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I saw a triangular shaped opject, lit at all three corners with a bluish light, move across the sky not too far above my house,I was on the computer doing some work, and saw something out of the corner of my eye. I looked to my right, out the window, and thought it was my imagination at first, or a reflection on the window, but then I realized that there were these three blueish-white lights moving pretty slowly across the sky. From what I know about the orientation of my house, they were moving southwest to northeast. They were way lower in the sky than a normal plane would have been, and weren't blinking or anything. At frist I thought that they were three separate lights, but then I saw the silhouette-like triangular form, and it seemed like they had to be all part of one object. There's a lot of cloud cover tonight, so they must have been flying below the clouds. I didn't hear any noise or anything. I could easily have missed them/ it if I hadn't caught it out of the corner of my eye. I'm pretty creeped out by this. I'm sorry, I don't know if I feel comfortable giving my whole name in that contact section. Maybe that erodes at the credibility of all this, but this is really weird. I'll leave my cell phone number though.((NUFORC Note:  Possible hoax??  Date is wrong.  We have corrected the date above to reflect the date that we assume the source of the report intended.  PD))((ADDENDUM FROM ORIGINAL SOURCE OF REPORT))I didnt really know how else to send this in, but Im thinking that the sighting I had on 5/15 (triangular object with blue lights at the corners) may have been a dream. For whatever reason, Ive been lately having very vivd dreams, and have dreamed of that same thing a couple of more times since- they seemed about the same, anyways, and Im sure that they were dreams. Im guessing that the first time (when I reported it) I may have just dozed off at my computer for a while. This is the link to my original report-  http://www.nuforc.org/webreports/063/S63196.html. You might want to remove it, because Im no longer so sure that it happened at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63196.html](http://www.nuforc.org/webreports/reports/063/S63196.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
