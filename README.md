@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:01 on 15 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:15:21 on 15 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Sandy (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Three non-blinking stars moving across the sky from south to north in eastern part of sky at 4:25 a.m.I observed a "star" moving across the sky from south to north. It did not seem to be twinkling and moved in a steady path and speed.  It faded out when in got to the Little Dipper (from my perspective).  I looked back to where it had come from and saw two "stars" moving in generally the same direction. They were not moving parallel to each other, more in a slight "v", so I was unable to watch them both.  I focussed on the brigher one until it disappeared close to the Little Dipper. I glanced across the sky but could not see the third one. I waited for about ten more minutes looking south but no more moving stars. I would not have thought that much about a moving star but three really caught my attention.((NUFORC Note:  Witness may have witnessed a cluster of satellites, perhaps the three which are seen to fly in formation over several weeks, and which are thought possibly to be part of the U. S. Navy N.O.S.S. satellite system.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22869.html](http://www.nuforc.org/webreports/reports/022/S22869.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in McKenzie (TN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Man calls to rept. cattle mutilations in county (On Hwy. 22?).  Helicopters reported, sheriff's office involved, newspaper articles.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00515.html](http://www.nuforc.org/webreports/reports/000/S00515.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
