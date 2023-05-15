@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:49 on 15 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:29 on 15 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1953, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>3 discs in formation flipping into clouds and descending  out of them.I am a retired air traffic controller and this siting took place when I was 16. I was extremely interested in aviation at that time and knew just about every type of aircraft. The ceiling was approximately 1000 ft , myself and two friends saw three discs  approximately 30 ft in diameter moving in a triangle formation from North to South at the base of the cloud layer. They would flip up simultaneouly into the cloud layer and then descend out of it. They made no sound. It appeared to me that they may be reacting to the height above ground and would rise by flipping upwards to gain more height. If anyone has a similar flipping siting would they please post.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33869.html](http://www.nuforc.org/webreports/reports/033/S33869.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I saw an object  flying near my home and I took dozens of photos of it from different anglesI was standing in my backyard garden taking photos of birds and the flowers this morning. I live near a school, and there was someone playing a trumpet on the hilltop, I looked in that direction and noticed a single object reflecting sunlight, I had initially assumed it was a bird of prey. I took several photos of the object as it passed quietly over the sky beyond my house, catching the first image as it crossed behind my neighbor's chimney. I took over 30 images, but at that distance and without my glasses I could not tell what I was looking at. When I loaded the images on my computer I was shocked to see a strange object, and in the images it appeared to change shape a few times. I have the pictures, taken today. The object slowly moved across the sky, and then rose to a very high altitude when I lost sight of it, and stopped taking photos. </sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156457.html](http://www.nuforc.org/webreports/reports/156/S156457.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
