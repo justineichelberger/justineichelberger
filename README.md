@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:36 on 15 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:27 on 15 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Western Grove (AR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>He was driving to my house in Anderson Flat, when he saw it, Blue fire ball, with a haze around it that change direction East and West.A freind of mine was coming over to see me yesterday in Anderson Flat, Arkansas, and on his way out of Western Grove, he saw a Blue fire ball with a haze around it, that changed direction east to west.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12894.html](http://www.nuforc.org/webreports/reports/012/S12894.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Soddy Daisy (TN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately extremely brief, less tha - extremely brief, less tha minutes.</sub><blockquote><sub>My mom and I saw a giant triangle with lights on it fly over our house while we were outside.My mother and I were standing on our back porch smoking, dusk was just setting.  We were trying to find out which star was Polaris with her droid app and we looked up and saw a shooting star.  I think those are technically meteors, I'm no astronomer, though.  We were really excited because we had never seen one.  We kept looking in the sky for more and we saw an airplane in the western sky, it was obviously an airplane.  We turned our attention to the eastern sky and there was a triangle-shaped object flying at a very high speed lower in the sky than the airplane.  It was much larger than any aircraft I had ever seen and it had eight bright lights along the two forward pointing edges, the back had no lights on it.  It was bigger than our house and it flew directly overhead, it made no noise at all.  It disappeared over a hill in a northwestern-ish direction in less than a few seconds.  We were both speechless and I wasn't sure what to think, so I decided to report it to you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81274.html](http://www.nuforc.org/webreports/reports/081/S81274.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
