@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:32 on 15 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:23 on 15 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Brisbane (QLD, Australia) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>blinding lights very fast and changed shapeit was strange it changed shape all the time we could not stay focucst as the light  was blinding.it was moving very fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17657.html](http://www.nuforc.org/webreports/reports/017/S17657.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1981, an anonymous witness in Twenty Nine Palms (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 29 palms usmc - 29 palms usmc minutes.</sub><blockquote><sub>I was on guard duty on a motor pool late at night when i and a number of the marines that were around the area saw jeep start up by itself and a truck and drive threw a gate by itself with no one driving them then we notice a bright light in the sky.we all yell halt but we all seen no one was driven. we all seem to lose our sense of time After this was over the naval investagator or NIS question us they told me they found the vehicles in the desert 20 miles away from the post or base. they could not find any tracks in the desert. they told me to not talk about this incident to any one I heard one of them say we were guarding the gost post. I am sure navl intel. knows more about ufos then they put on. these acted real strange due to apperances also i never seen id from them. I know their was more sightings in and around base at this period of time.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33625.html](http://www.nuforc.org/webreports/reports/033/S33625.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [659](http://www.nuforc.org/webreports/reports/163/S163183.html)
-- [658](http://www.nuforc.org/webreports/reports/163/S163214.html)
-- [657](http://www.nuforc.org/webreports/reports/163/S163162.html)
-- [656](http://www.nuforc.org/webreports/reports/163/S163189.html)
-- [655](http://www.nuforc.org/webreports/reports/163/S163226.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
