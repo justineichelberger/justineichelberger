@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:30 on 16 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:41 on 16 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>8:58 am white object high in the sky moving slowly in a smooth eliptical pattern, slowing down and speeding up.Aproximately 8:58 am this morning (thursday, May 16 2002) i was having breakfast at a cafe down by the beach and i looked up and saw a white light very high in the sky.  it was a clear day not a cloud in sight.  the object moved slowly at first. it moved in an eliptical pattern..  It seemed to slow down at one point and then stop for three or four seconds. then it sped up again and continued along its circular path going back the way it came.  it disapeared behind a building and i never saw it again. the entire event may have taken up to two mintues.There was only one object.  It didn't appear shiney. just white.. and very very high in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22896.html](http://www.nuforc.org/webreports/reports/022/S22896.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1864, an anonymous witness in Cave Spring (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately Brief - Brief minutes.</sub><blockquote><sub>This is a UFO report by a respected Confederate soldier during the Civil War.This is for the historical record.  It comes from the book, "Blood And Sacrifice."  This is the civil war factual journal of Sergeant Major William Pitt Chambers of the 46th Mississippi Volunteer Infantry Regiment.  Edited by Richard A. Baumgartner and published by Blue Acorn Press, Huntington, WV in 1994.  As the Regiment was marching toward Rome, GA., in Sherman's Atlanta Campaign, on Page 140, Sgt. Major Chambers records the following:  "Prior to our arrival at Cave Springs, quite early in the forenoon in fact, a white object was observed in the sky to the southeast, apparently about half a mile high and moving rapidly toward the south.  We decided that it was a balloon, and that the enemy was endeavoring by that means to ascertain the strength of the reinforcements that were coming to Gen. Johnston."  General Sherman did not have balloons with him on the Atlanta Campaign, so this is a true UFO report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132800.html](http://www.nuforc.org/webreports/reports/132/S132800.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/163/S163227.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163224.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163236.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163563.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
