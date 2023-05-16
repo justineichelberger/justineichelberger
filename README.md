@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:23 on 16 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:30 on 16 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Anchorage (AK) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large circular object, hovering right above tree line with white lights that blinked in a strait line, circling the object every 3 seconds or so, was very close with no sound moving side to side in a zig zag motion moving at a slower pace stopping periodically then would speed up erratically this occurred two morning in a row approximately 30 min apart from each other on the south side of Anchorage in the same exact spot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134301.html](http://www.nuforc.org/webreports/reports/134/S134301.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>8:58 am white object high in the sky moving slowly in a smooth eliptical pattern, slowing down and speeding up.Aproximately 8:58 am this morning (thursday, May 16 2002) i was having breakfast at a cafe down by the beach and i looked up and saw a white light very high in the sky.  it was a clear day not a cloud in sight.  the object moved slowly at first. it moved in an eliptical pattern..  It seemed to slow down at one point and then stop for three or four seconds. then it sped up again and continued along its circular path going back the way it came.  it disapeared behind a building and i never saw it again. the entire event may have taken up to two mintues.There was only one object.  It didn't appear shiney. just white.. and very very high in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22896.html](http://www.nuforc.org/webreports/reports/022/S22896.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/163/S163227.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163224.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163236.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163563.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
