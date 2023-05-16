@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:28 on 16 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:25 on 16 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Ashland City (TN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large (40-50') brightly lit oval disc hovering over treetops beside Briley Parkway (155), colored lights, no sound. Just disappeared.At 9:00 PM on May 15th, 2019, I was driving on SR155 eastbound, between Ashland City and White’s Creek.  I saw a large object in front of me off to the left side in my windshield and it was lit up.  At first I thought it was a helicopter just hovering over the treeline.  This was not way up in the sky, this was just over the tree line.  As I kept driving, I began to see more lights on this and since the sky was not fully dark, I could see the entire outline of the shape of the object and immediately knew this was not a helicopter, and it was sitting completely still.  This was a long oval shaped disc, and it was not sitting horizontally to the ground, it was tilted up on it’s side, like diagonal.  So I could see the top of it facing the highway I was on.  It had many bright lights on it – white, red, blue, green, yellow and was really quite beautiful.I was talking on the phone with my husband at the time, and he could just hear me saying Oh My God over and over and it rendered me quite speechless to even be able to tell him what I was seeing, as it was hitting me just what I was witnessing.  I kept describing it to him and as I drove, it sat completely still, I heard no noise and now as I am driving it is now in my side driver’s window as I looked out.  I thought about pulling over to take a picture, but it wasn’t safe to do so on this road and this thing was really too close, I didn’t want to stick around.  I kept looking back and forth from the road to my window, and at some point, I looked at the road and then looked back in the direction of the object and it was just gone.  All the lights were gone, everything gone and nowhere to be seen.I have never witnessed anything like this in my life.  It really was beautiful, a little scary at the same time, and very close to the treetops, not even way up in the air, so very easy to see.  Much larger than what a helicopter or anything would be, so it was not a drone.  This was definitely some sort of a large craft, very lit up, and sitting completely still, at an angle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146218.html](http://www.nuforc.org/webreports/reports/146/S146218.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Gallup (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>In the newspaper it was reported that several people saw strange lights and moved at unbelieveable speeds & simply stopped and hoverI read in the Gallup Independent newspaper about people seeing strange lights and two flying objects in Gamerco. Gamerco is just north of Gallup, New Mexico. The paper is at www.gallupidependent.com. In the paper it says there's a guy who video-taped the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37040.html](http://www.nuforc.org/webreports/reports/037/S37040.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/163/S163227.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163224.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163236.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163563.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
