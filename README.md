@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:32 on 16 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:16 on 16 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Rushville (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We saw a trianglar shaped craft in the back woods of western Illinois.Saturday night my girlfriend and I went to a friends house to relax around their camp fire. During the evening I notice 4 falling stars within about an hours time, so when we left our friends house about 2am, we decided to drive out onto a country road and do some star gazing. The town we live in only has a population of 2500 and the nearest city is 60 miles away, so we don't need to go very far to get away from the lights, and since their was no moon, the place we stopped was completely dark.  We were laying on the hood of my car and I noticed a light moving very slowly across the sky. At first I thought it was a satellite but then I saw a second light moving parrallel with it. I pointed at the lights and asked my girlfiend if she saw them and she said "What that triangle?" Thats when I saw the third light following behind forming a triangle. It looked like 3 stars moving about 5 miles per hour but they stayed exactly the same distance apart. We couldn't see the craft, but the stars couldn't been seen within the area of the lights, so it was more like watching a black triangular void with a star at each point slowly moving across the sky. The craft was completely silent and looked like it was about 100' above the trees. We watched the lights for about 10 minutes, until they were obstructed by the trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36999.html](http://www.nuforc.org/webreports/reports/036/S36999.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Grand Junction (CO) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 75</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156761.html](http://www.nuforc.org/webreports/reports/156/S156761.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/163/S163227.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163224.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163236.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163563.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
