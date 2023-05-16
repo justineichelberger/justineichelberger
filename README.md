@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:26 on 16 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:24 on 16 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Kibworth, Leicestershire (UK/England) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 Fireballs in the sky above Kibworth in Leicestershire England.Driving home saw 3 orangey red objects moving at slow speed shaped like a soccer ball, they looked like fireballs, stopped and got out of the car, one of them came towards us quite low and then went back up into the air and disappeared, carried on driving for approxamately one mile then saw two more right near my house and took a photograph on my mobile phone, object is very small on the photo as they were travelling away from us, so amazing to see, have never seen anything like it in our lives. If you require the photograph i have it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70059.html](http://www.nuforc.org/webreports/reports/070/S70059.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lake Placid (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>2 Large spinning red orange discs and dozens of star sized craft,My boyfriend and I were having drinks and listening to music on my lanai when he heard a jet turning around really fast and he said “there is something going on up there” so we ran outside and looked up and saw dozens of star sized bright objects shooting all over the sky and making impossible maneuvers.  Then a huge orange red long object came spinning at us vertically with other small orange red objects shooting out of it.  Very beautiful.  It disappeared and then another one, a little bigger came and did the same thing.  Awesome.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146206.html](http://www.nuforc.org/webreports/reports/146/S146206.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/163/S163227.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163224.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163236.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163563.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
