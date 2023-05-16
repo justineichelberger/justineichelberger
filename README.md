@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:35 on 16 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:26 on 16 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Ottawa (WI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately ??? - ??? minutes.</sub><blockquote><sub>Aircraft makes 90 degree turnI noticed a strange vapor trail in the sky when I looked out my patio doors on the date in question.  We don't usually see ANY such trails here but this time there were at least 3.  The one I was confused by was on a path parallel with the other 2 when it suddenly appears to have made a 90 degree turn.  I did NOT whitness the turn or the craft that made it but did photograph the resulting vapor trail, which dissapated shortly after the picture was taken.  If you would like to see this photo (taken with my digital camera) I can email you a copy of the file.  Perhaps you or an expert that you know can tell me how such a manuver can be made.  I have NO explaination for this phenomena.((NUFORC Note:  We have reviewed the image, which was sent to NUFORC electronically.  All we see is what appear to be normal contrails in a blue sky.  One contrail has a bend in it.  We suspect the aircraft passed a navigation way point and executed a turn to its right.  We see nothing in the photograph that suggests UFO activity.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13995.html](http://www.nuforc.org/webreports/reports/013/S13995.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in El Monte (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Looked like a beautiful kite made of glass, the lights were tubular in shape, white, blue, the sound was a soft purring, flying super fast around or over 200mph, smooth and quiet, very large.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156507.html](http://www.nuforc.org/webreports/reports/156/S156507.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/163/S163227.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163224.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163236.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163563.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
