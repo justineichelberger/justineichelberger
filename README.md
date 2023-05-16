@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 16 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:19 on 16 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in San Pedro (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Unbelievable! Very large circle shadow drifted across the water and docks at the port of los angeles headed north east.shadow was about 300 feet across silently drifting with no noise and nothing in the sky to be seen causing the shadow.myself and two co workers witnessed this as well as numerous longshoreman,all of whom stopped working to watch this event.has anyone else seen this? We were all stunned and cant stop talking about it.absolutely nothing in the sky could be seen or heard while this huge shadow moved across the port.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163228.html](http://www.nuforc.org/webreports/reports/163/S163228.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Wasco (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>it was a bright redi was out back  of my house when out of no where this thing came  it move to the  sout then turned  then moved back to the nourth then turend twice then  whent behind a tree then vanished</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50610.html](http://www.nuforc.org/webreports/reports/050/S50610.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/163/S163227.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163224.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163236.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163563.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
