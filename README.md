@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:28 on 16 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:34 on 16 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>3 orbs in triangle formation (or 3 lights on a really big triangle?) over Chicago going NE to SW3 faint... (b/c slightly cloudly) orange lights in a (perfect seeming) triangle, slowly moving from northeast to southwest directly over Logan Square... (measured with my hands... 1/8 inch in size each... 2inches apart from eachother..   top of triangle "leading" first) ... looked like this, but static in formation. http://www.youtube.com/watch?fe…Also, (with a quick google search) somebody reported these 2 days ago nearby as well on this site…http://www.nuforc.org/webreport…I came out from running at my gym exhausted (but feelin good brooo!) and hung outside my car picking up on the stars/moon and bein all zen/chill ..and thought "I should look up and see if I see any ufos... and here we go... my 3rd 100% FOR SURE sighting : ).  Just wanted to share it with ya'll before I zonk out((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98050.html](http://www.nuforc.org/webreports/reports/098/S98050.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in San Pedro (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Unbelievable! Very large circle shadow drifted across the water and docks at the port of los angeles headed north east.shadow was about 300 feet across silently drifting with no noise and nothing in the sky to be seen causing the shadow.myself and two co workers witnessed this as well as numerous longshoreman,all of whom stopped working to watch this event.has anyone else seen this? We were all stunned and cant stop talking about it.absolutely nothing in the sky could be seen or heard while this huge shadow moved across the port.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163228.html](http://www.nuforc.org/webreports/reports/163/S163228.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/163/S163227.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163224.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163236.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163563.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
