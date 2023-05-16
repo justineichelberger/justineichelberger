@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:26 on 16 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:35 on 16 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Silver Lake (on the Fox River) (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>four points of bright white light flying erraticly from east to westMe and my brother were catfishing on the fox river just before a storm was pushing in when I looked to the north I noticed four bright white lights flying erraticly(not in a strait line ,kind of up down left right) we had dark clouds as a backdrop so they seemed realy bright.there are trees on both sides of the river so the sighting didnt last long and the objects were too far away to distinguish any shape. Im no aviation  expert or anything but they didnt fly like or appear like any aircraft Ive ever seen. I was  kind of hopeing someone else may have contacted you with the same sighting to confirm it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07804.html](http://www.nuforc.org/webreports/reports/007/S07804.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Henderson (NV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Saw 2 dark orange circles in sky by mountain above the landsman gardens property one was above the other they looked like huge orange glowing circles one above the other but they stayed in the same place for 3 min then the one on top flew to the left diagonally then straight up and left and disappeared so fast to fast to be a air plane or helicopter and the one on the bottom stayed in the same spot while the one above dissappear then it started to fly to the right like it slung shot right so fast and disappeared they made no noises and we would have heard it if they were in fact helicopters or air planes as we are used to them where we live.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119028.html](http://www.nuforc.org/webreports/reports/119/S119028.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/163/S163227.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163224.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163236.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163563.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
