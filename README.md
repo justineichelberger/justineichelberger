@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:35 on 16 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on 16 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Henderson (NV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Saw 2 dark orange circles in sky by mountain above the landsman gardens property one was above the other they looked like huge orange glowing circles one above the other but they stayed in the same place for 3 min then the one on top flew to the left diagonally then straight up and left and disappeared so fast to fast to be a air plane or helicopter and the one on the bottom stayed in the same spot while the one above dissappear then it started to fly to the right like it slung shot right so fast and disappeared they made no noises and we would have heard it if they were in fact helicopters or air planes as we are used to them where we live.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119028.html](http://www.nuforc.org/webreports/reports/119/S119028.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Ottawa (WI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately ??? - ??? minutes.</sub><blockquote><sub>Aircraft makes 90 degree turnI noticed a strange vapor trail in the sky when I looked out my patio doors on the date in question.  We don't usually see ANY such trails here but this time there were at least 3.  The one I was confused by was on a path parallel with the other 2 when it suddenly appears to have made a 90 degree turn.  I did NOT whitness the turn or the craft that made it but did photograph the resulting vapor trail, which dissapated shortly after the picture was taken.  If you would like to see this photo (taken with my digital camera) I can email you a copy of the file.  Perhaps you or an expert that you know can tell me how such a manuver can be made.  I have NO explaination for this phenomena.((NUFORC Note:  We have reviewed the image, which was sent to NUFORC electronically.  All we see is what appear to be normal contrails in a blue sky.  One contrail has a bend in it.  We suspect the aircraft passed a navigation way point and executed a turn to its right.  We see nothing in the photograph that suggests UFO activity.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13995.html](http://www.nuforc.org/webreports/reports/013/S13995.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/163/S163227.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163224.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163236.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163563.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
