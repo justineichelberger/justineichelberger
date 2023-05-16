@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:23 on 16 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:26 on 16 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 111</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163426.html](http://www.nuforc.org/webreports/reports/163/S163426.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Cornelius (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately several minutes - several minutes minutes.</sub><blockquote><sub>5 orange orbs appeared in the southern sky, below cloud cover, and hung suspended for several minutes.UFO reporting center,  Last Friday or Saturday (5-15/16-15) I think it was Saturday around 9:50pm, my wife called me outside to look at the southern sky.  Hanging suspended below the clouds were 3 orange orbs, a beautiful shade of orange.  These orbs hung suspended without moving and no noise.  Over several minutes each of these orbs, which were formed a roughly triangle formation, faded then blinked out.  As they faded they flattened out.Before the last one faded out two more appeared the western sky and slowly rose until they were in the same area as the first 3.  As they arrived the last of the first 3 faded out.  These two hung suspended, just as the first 3 did, with no noise until they flattened out and faded out.We live in Western Oregon.  Did anyone else report these orbs?  My wife called emergency dispatch and later a deputy called and talked with me about this but he wasn’t bright enough to spell ufo so I don’t think he believed me.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119137.html](http://www.nuforc.org/webreports/reports/119/S119137.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/163/S163227.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163224.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163236.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163563.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
