@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:24 on 16 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:28 on 16 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lake Placid (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>2 Large spinning red orange discs and dozens of star sized craft,My boyfriend and I were having drinks and listening to music on my lanai when he heard a jet turning around really fast and he said “there is something going on up there” so we ran outside and looked up and saw dozens of star sized bright objects shooting all over the sky and making impossible maneuvers.  Then a huge orange red long object came spinning at us vertically with other small orange red objects shooting out of it.  Very beautiful.  It disappeared and then another one, a little bigger came and did the same thing.  Awesome.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146206.html](http://www.nuforc.org/webreports/reports/146/S146206.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>3 orbs in triangle formation (or 3 lights on a really big triangle?) over Chicago going NE to SW3 faint... (b/c slightly cloudly) orange lights in a (perfect seeming) triangle, slowly moving from northeast to southwest directly over Logan Square... (measured with my hands... 1/8 inch in size each... 2inches apart from eachother..   top of triangle "leading" first) ... looked like this, but static in formation. http://www.youtube.com/watch?fe…Also, (with a quick google search) somebody reported these 2 days ago nearby as well on this site…http://www.nuforc.org/webreport…I came out from running at my gym exhausted (but feelin good brooo!) and hung outside my car picking up on the stars/moon and bein all zen/chill ..and thought "I should look up and see if I see any ufos... and here we go... my 3rd 100% FOR SURE sighting : ).  Just wanted to share it with ya'll before I zonk out((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98050.html](http://www.nuforc.org/webreports/reports/098/S98050.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/163/S163227.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163224.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163236.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163563.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
