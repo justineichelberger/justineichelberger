@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:58 on 16 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:26 on 16 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Formation of lights across the night sky in PortlandI was on my back porch last night around 10:00 pm, These lights were in a v shape formation but there was maybe 4 on one side and 8 on the other. No sound at all, they just moved across the sky in a perfect formation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163207.html](http://www.nuforc.org/webreports/reports/163/S163207.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Silver Lake (on the Fox River) (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>four points of bright white light flying erraticly from east to westMe and my brother were catfishing on the fox river just before a storm was pushing in when I looked to the north I noticed four bright white lights flying erraticly(not in a strait line ,kind of up down left right) we had dark clouds as a backdrop so they seemed realy bright.there are trees on both sides of the river so the sighting didnt last long and the objects were too far away to distinguish any shape. Im no aviation  expert or anything but they didnt fly like or appear like any aircraft Ive ever seen. I was  kind of hopeing someone else may have contacted you with the same sighting to confirm it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07804.html](http://www.nuforc.org/webreports/reports/007/S07804.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/163/S163227.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163224.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163236.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163563.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
