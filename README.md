@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:29 on 16 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:58 on 16 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in North Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately varies - varies minutes.</sub><blockquote><sub>Hi Brian, have been seeing those mysterious lights every night that its clear and so far have found about a dozen that I can see from my window. I get a lot a glare from the city lights and they are about the brightest lights in the sky. I've been seeing lights appear and disappear over Seymour Mtn. nearly every night so last night right after sunset aimed my camera over there. Just got it set up when I saw a large streak of what looked like fire appear in the sky over Grouse Mtn. It was about twice the height of Grouse and I didn't see any object at the head of it. Just a bright yellow streak of what looked like fire with drips coming off the bottom of the flames. Can't think of proper way to describe it. Sort of like throwing burning gasoline. Appeared just above summit and disappeared above the bottom of the ski run. Time was 21:30 still quite a bit of light in the sky. 21:52 - Camera picked up a white light moving east just over Seymour, I assumed it was a small plane but was unable to see it with either pair of binoculars. I zoomed in with the camera but was unable to see any fuselage behind the light even though it was still fairly light and I should have been able to see something. 22:03 - Camera picked up what appeared to be a similar light approaching  Seymour Mtn. light stopped just above the summit. Unable to see it through binoculars. I zoomed in with the camera and it looked like those other mysterious lights. Object began moving slowly eastward just above mountains in half and hour it was over Indian Arm and at one hour over Heritage Mountain north of Port Moody. I stopped tracking at that point. 02:00 - Was just scanning the sky with the camera, came across what looked like three stars in perfect triangle all equal in size and brightness. I tried zooming in on each of them and they all appeared to look like luminous slowly pulsing pearls, quite pretty actually. They didn't appear to be very far away as they filled the screen right away while the starts around them were hardly magnified at all. I don't know if they were connected to anything as I couldn't see anything except blackness around them. I could see faint stars all around but nothing showed between them. They were about 80 degrees overhead and just slightly to the NW of my location. Was looking at a star chart and Virgo looks somewhat similar but does not appear to be quite the same shape. Thank you to the witness for the report. Brian Vike, Director HBCC UFO Research Home - Phone 250 845 2189 email: hbccufo@telus.net Website: http://www.hbccufo.com Redirect: http://www.brianvike.com Redirect: http://www.hbccuforesearch.com</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37124.html](http://www.nuforc.org/webreports/reports/037/S37124.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Formation of lights across the night sky in PortlandI was on my back porch last night around 10:00 pm, These lights were in a v shape formation but there was maybe 4 on one side and 8 on the other. No sound at all, they just moved across the sky in a perfect formation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163207.html](http://www.nuforc.org/webreports/reports/163/S163207.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/163/S163227.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163224.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163236.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163563.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
