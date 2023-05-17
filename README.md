@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:23 on 17 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:37 on 17 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Grand Blanc (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>An orange glowing light moving extremely fast in the sky.Driving home with my mother and grandmother, we noticed a plane land at a nearby airport.  About a minute later we saw an orange glowing light moving extremely fast in the sky coming from the opposite direction of the plane.  The color was kind of a dull orange, almost like a fireball.  After a minute or so of moving fast, it started to slow down and then it came to a complete stop.  A minute after that, it disappeared.  I rolled my window down and heard no noise whatsoever coming from the object.  It was a very dark and clear night.  This is probably one of the weirdest things I have ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63219.html](http://www.nuforc.org/webreports/reports/063/S63219.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Atlanta (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Lights in a straight line that go out from left to right in the night skyI don’t necessarily believe in flying saucers, but I do think that there are unidentified flying objects.  I would just like to know if anyone else saw what I saw.  I would also like to see if there is a logical explanation. On May 17, at approximately 10:30 p.m. Out of the corner of my eye I saw 2 or 3 red/orange colored lights in a row, horizontally in the sky.  When I actually looked directly at the lights I saw two.  They appeared to be slightly larger than Venus.  The approximate distance between them would be about an inch if you measured at an arms length.  The one on the left faded out(it looked like it just slowly went out), then the one on the right.  They were in the western sky approximately to the 5 o’clock of Venus(I'm guessing it was Venus), about halfway between the horizon and Venus.  The entire “sighting” took approximately 5 seconds.  I didn’t hear anything out of the ordinary at the time.  I continued to watch the same area of the sky for a few minutes but didn’t see anything else.  There are no towers in that direction that I could have mistaken for the lights.  I was located approximately 1 mile east of Atlanta, Indiana. Weather  according to weather.com: 	Clear 	48 deg. F 	Visibility 10 mile</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56718.html](http://www.nuforc.org/webreports/reports/056/S56718.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163242.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163246.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163338.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163288.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163702.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
