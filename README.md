@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:22 on 17 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:21 on 17 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Farmer City (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Saw a neon bright blinking light in straight line in middle of afternoon disappear behind a cloud.I was returning home, traveling west on route 150, from our bank at Mansfield, IL, after making employee monthly tax deposit.  We are self-employed farmers.  Saw something flashing brighly in W/SW sky about 30 degrees up, sort of like making a "dash dash" patern, and going smoothly in a straight line toward a small cloud.  Only lasted about five seconds, then disappeared behind the cloud.  I looked carefully for it again, but never saw it.  It was extremely bright like neon, and the sun was not that bright that day to reflect on it.  The alternate dash pattern was very regular, too.  Just very odd, so thought I should report it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37038.html](http://www.nuforc.org/webreports/reports/037/S37038.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Kiev (Ukraine) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Hi  We did not notice anything until later on after looking at photos.((NUFORC Note:  Witness provides a photo, indicating a small, dark, blurry, object, above a statue.  Possible bird, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134250.html](http://www.nuforc.org/webreports/reports/134/S134250.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163242.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163246.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163338.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163288.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163702.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
