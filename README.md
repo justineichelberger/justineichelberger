@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:25 on 17 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:23 on 17 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in San Mateo (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 bright streaks of light with dark object above them observed in clear, cloudless sky.We were driving Highway 101 northbound, from Redwood City towards San Mateo, nearing the time of sunset, approx 8:25pm.  It was a very clear, cloudless sky.  I noticed what initially appeared to be two, parallel "streaks" of bright light, slightly angled to the left of what would have been a vertical position. When I first noticed the streaks, they appeared to be moving downward.  This only lasted a second or two, and then the streaks appeared stationary. I said to my husband (who was driving) "Look at that...what do you think that is?"  Neither he nor I could come up with an explanation of what it could be.  It was an interesting phenomena, because we both were expecting as we drove closer that whatever the object was (airplane, cloud, etc) would soon become apparent. As we drove closer, the bright streaks of light dimmed considerably, eventually becoming just a greyish color, and we wondered if it could have been the setting sun which was illuminating these two streaks.  As we approached our exit, I could just make out a solid dark object above these streaks, and it was obviously much farther away than I had originally thought.  Due to the distance, I cannot describe the shape of the object, other than that it was wider side to side than it was top to bottom. It did not appear to be completely smooth, but to have some shape to it. The object and streaks did not move, rotate, etc. following the few seconds after which we originally saw them. The dark object above the streaks was not lit in any way. We took our exit and quickly parked our car and ran back near the freeway, but whatever it was was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50606.html](http://www.nuforc.org/webreports/reports/050/S50606.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Sioux City (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Was outside late at night in a slightly drizziling rain when i caught sight of a triangulare object in the sky.It was sprinkling out and I was on my annual nightly walk around the block when I felt as if there was static electricity making the hair on my head stand on end.  Having heard that this is a indication that you might possibly be struck by lighting, I looked up in the sky out of fear.  There about 10 o’clock from my position I saw what appeared to me at first to be street lights.Upon closer examination I realized that the figure was to far away to be streetlights and it appeared to be drifting lazily toward the twelve O’ Clock position.  It was a pizza shaped outline in the clouds with about 8 spheres of light lining its shape evenly.This shape continued to drift for about 5 seconds more in complete silence and abruptly was enveloped in the clouds.  The light spheres lining the shape were eventually enveloped in the clouds and I lost sight of it at which point the static electricity feeling left me.I stood around dumbstruck for about 15 more minutes before I realized that it wasn’t coming back and headed on my way back to home.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81291.html](http://www.nuforc.org/webreports/reports/081/S81291.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163242.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163246.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163338.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163288.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163702.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
