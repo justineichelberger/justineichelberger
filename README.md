@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:24 on 17 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:23 on 17 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Richmond (VA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright redish orange star object with no movement for 5 min, suddenly moving up and east out of sightOutside and saw what looked like an extremely bright redish orange star... like mars but much more bright... it was low on the horizon and it was just sitting still in the same location.  After about 5 minutes of no movement at all it raised in the sky and moved east out of sight and vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50684.html](http://www.nuforc.org/webreports/reports/050/S50684.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Skovlunde (Denmark) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Silent orange orbs gliding over the night skyI entered my livingroom just around 11 pm on the 17th of May this year(2014) to close the curtains, when I noticed a bright red-ish orange light gliding over the sky outside.  I thought it was strange, as jetliners usually have green and red lights, and white headlights, never orange.  It made me move closer to the windows, and here I discovered that there was not only one, but multiple of these red-ish orange lights gliding silently over the sky.  They were flying with the wind from north to south, and were not making a single sound.  I counted 4, before turning around and yelling for my mother to come have a look.  When we both got outside, I saw that there were 3 more light, just behind the 4 first.My mother, amazed and intrigued, told me to get the binoculars, and I ran inside to grab them and took them with me up to the second floor to have a closer look.  But they didn't help much, as even through the binoculars, the objects just appeared to be orange lights with a red center.  I couldn't see any shape or other characteristics.  While up on the second floor, I saw an 8th object following much further behind the other 7, and taking a slightly different direction.It's impossible for me to say how big or how far up the lights were, but they appeared much bigger than the stars, and they were up high enough to enter the few clouds there were further to the south.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109835.html](http://www.nuforc.org/webreports/reports/109/S109835.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163242.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163246.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163338.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163288.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163702.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
