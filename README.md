@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:58 on 17 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:15:04 on 17 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Irvine (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I was in bed sleeping and some strange noise woke me.  It sounded like a loud bass hum.When I opened my eyes there was what looked like a small star in the sky at about 80 degrees.It looked like it was about 5 to 10 miles away.  The object was moving in place in small movements side to side and up and down.The lights were brighter than a small star.  The object was moving in place, but moving in a downward trajectory.  When it was at about 20 degrees I lost track.  It was up for more than 30 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141613.html](http://www.nuforc.org/webreports/reports/141/S141613.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Winnemucca (NV) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Girlfriend and I were approached while driving truck on Hwy 95 north of Winnamucca, Nv. Orange orb size of a silver dollar in my rearview mirror.  Followed for miles.  It would change shapes from round,triangular and square.  It would "melt" into each different shape.  As it was happening our GPS went crazy.  Cellphones both had different  times.  Very strange to be followed by this.  Very bright orange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149075.html](http://www.nuforc.org/webreports/reports/149/S149075.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163242.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163246.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163338.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163288.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163702.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
