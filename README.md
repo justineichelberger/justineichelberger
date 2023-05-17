@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:15:04 on 17 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:36 on 17 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Winnemucca (NV) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Girlfriend and I were approached while driving truck on Hwy 95 north of Winnamucca, Nv. Orange orb size of a silver dollar in my rearview mirror.  Followed for miles.  It would change shapes from round,triangular and square.  It would "melt" into each different shape.  As it was happening our GPS went crazy.  Cellphones both had different  times.  Very strange to be followed by this.  Very bright orange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149075.html](http://www.nuforc.org/webreports/reports/149/S149075.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Doncaster (UK/England) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>17 May 2004 - UFO sighting in the UK.  Three large oval shaped lights moving very fast in the sky.I do not believe in aliens and "space ships" but I cannot explain what I saw the other night at my home in Doncaster in the UK.  Since I saw the unidentified flying objects I have been scanning the web trying to find pictures of something similar.  As yet, I have not found anything that matches what I saw.I was sat in my living room playing on my games console when I saw a light in the sky out of the corner of my eye, I hit the pause button on my game and stared through the window at the lights in the sky.  There was a big oval ring of light with two smaller lights near it moving across the sky.  They were not round, but oval and not in perfect triangular formation.  They were very high up in the sky, higher than you would typically see planes and the jet stream from planes and it was very bright.  The lights were a white/light yellow colour - I couldn't work out whether there was a haze around the lights or whether the lights were that bright that it just looked like a haze.  The main ring of light was very large - I guess maybe 5 to 10 times larger than a medium sized plane.It all happened very quickly, but as I started to look at the lights they suddenly just sped off in to the distance very very quickly.  I don't believe there is anything that could travel that fast - there is no jet or missile that could travel that quickly. The whole thing lasted for no more than a couple of seconds.My logical brain quickly thought it might be a light reflection in the glass of the window pane or a new type of plane, but I could see it in the sky so I know it wasn't a reflection and this light was so big and so fast that there is no way it could be a plane.Before you ask, no I hadn't been drinking or taking any drugs. I don't know what I saw and I only wish I had evidence to show you. I have done a drawing (which is not my best subject) to give you an idea as to what it looked like.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37034.html](http://www.nuforc.org/webreports/reports/037/S37034.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163242.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163246.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163338.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163288.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163702.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
