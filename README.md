@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:21 on 17 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:28 on 17 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Holzkirchen (Germany) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>While observing night sky with an image intensifier, a small light similar to a satellite was seen twice travelling at an apparent speed of ~5-10 times the usual speed, making slight curves before disappearing out of sight towards east.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156477.html](http://www.nuforc.org/webreports/reports/156/S156477.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Big Spring (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>color changing object over West TexasAt 18:02 I observed what I at first thought was a red and silver mylar helium balloon reflecting in the sun as it was tracking roughly southwest to northeast and quickly rising above a residential neighborhood in Big Spring, Texas.  It alternately flashed candy apple red and silver.  I thought the object had primary oval shape as well as much less pronounced rhomboid features between the color changes--maybe like a metallic pin cushion whose sides briefly deformed into smooth planes.  I checked my weather app at 18:03 after I had lost sight of the object, and it indicated winds were 5 mph from the southwest.  The total view time was about thirty seconds before the object seemed to disappear into very faint wispy clouds or haze.  It is difficult to describe the flight path from my point of view because at first it was moving almost parallel to the ground for a few blocks but then, perhaps as it began to pick up speed, it quickly gained altitude while following a s! traight line.  I believe latex helium balloons I am familiar with from childhood would gain altitude along a parabolic path if observed from my vantage.  My guess is the trajectory of the object I saw would be an absolutely straight shot less than 20 degrees above the horizon.  If the object I saw was three blocks away as it appeared to be, it was at least twice as large as a stop sign or perhaps half as long as a smaller car.  I am entering this report in case others outside of my area happen to see something similar this evening.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119015.html](http://www.nuforc.org/webreports/reports/119/S119015.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163242.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163246.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163338.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163288.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163702.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
