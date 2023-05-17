@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:41 on 17 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:23 on 17 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Key Colony Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Saw 30-40 lights traveling from East to West while walking the dogs.  Thought it was an airplane at first then thought it was a star. Then noticed there was 30-40 of them spread across the sky. Traveling at a high rate of speed passing the stars. No noise. Very high altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156817.html](http://www.nuforc.org/webreports/reports/156/S156817.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Grand Blanc (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>An orange glowing light moving extremely fast in the sky.Driving home with my mother and grandmother, we noticed a plane land at a nearby airport.  About a minute later we saw an orange glowing light moving extremely fast in the sky coming from the opposite direction of the plane.  The color was kind of a dull orange, almost like a fireball.  After a minute or so of moving fast, it started to slow down and then it came to a complete stop.  A minute after that, it disappeared.  I rolled my window down and heard no noise whatsoever coming from the object.  It was a very dark and clear night.  This is probably one of the weirdest things I have ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63219.html](http://www.nuforc.org/webreports/reports/063/S63219.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163242.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163246.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163338.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163288.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163702.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
