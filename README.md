@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:21 on 17 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:21 on 17 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Kiev (Ukraine) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Hi  We did not notice anything until later on after looking at photos.((NUFORC Note:  Witness provides a photo, indicating a small, dark, blurry, object, above a statue.  Possible bird, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134250.html](http://www.nuforc.org/webreports/reports/134/S134250.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Alwar (India) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Silverish white flying object.At 18:21 Hours I was playing with my kids at the roof top of our Row house in Alwar city of Rajasthan State in India (Around 160 kms from New Delhi ).  Suddenly I saw a white and silver color saucer sparkling in sky, it was moving in zigzag way, it was moving towards east and than suddenly changed the direction to north.I told my parents and kids also to see the same, we all saw the object for around 5 minutes as it was moving very slowly and everybody was surprised to see the same.  We tried to capture the picture of object in our mobile phone camera but as the object was at far distant, thus we are not able to capture the picture of same.Let me also tell it was clear sky that day but suddenly we saw a rapid change in weather and after 3 hours a thunder storm and lightening happened, I am not sure but this might be linked to this flying object.To add to my credibility I am a post graduate in science and a mother of two kids.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118299.html](http://www.nuforc.org/webreports/reports/118/S118299.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163242.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163246.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163338.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163288.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163702.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
