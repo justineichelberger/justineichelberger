@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:28 on 17 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:58 on 17 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Massena (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>fiery lights in color resembling like a sparkleri was just going to bed when i glanced out my window from where i sleep and saw this smaal ball of colorful lights kinda like a sparkler lit up and as it decended below tree level a sort of white lite followed kinda like a flash of lightening you would see in a distance, this object was decending very fast before i had any chance of trying to identify what i was seeing i know it was not any type of fire works as it was quite different to know the difference and also the news reported that morning that the emergency 911 phone lines experience an un known outage at that same hour in another erea weather its got anything to do with it or not just felt i needed to report what i experienced.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127305.html](http://www.nuforc.org/webreports/reports/127/S127305.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Irvine (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I was in bed sleeping and some strange noise woke me.  It sounded like a loud bass hum.When I opened my eyes there was what looked like a small star in the sky at about 80 degrees.It looked like it was about 5 to 10 miles away.  The object was moving in place in small movements side to side and up and down.The lights were brighter than a small star.  The object was moving in place, but moving in a downward trajectory.  When it was at about 20 degrees I lost track.  It was up for more than 30 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141613.html](http://www.nuforc.org/webreports/reports/141/S141613.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163242.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163246.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163338.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163288.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163702.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
