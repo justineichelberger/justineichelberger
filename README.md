@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:21 on 17 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:43 on 17 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Wilmington (DE) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was football-shaped, totally illuminated with white/grey(the body)2 rows of strobing white lites top and bottomOn this early morning sighting, I am a truck driver who was traveling North on I-495 in Delaware, when I noticed a big bright light in the Eastern sky traveling north over the Delaware river, at first I thought it was a blimp, but as I observed it closer this was definitely not a blimp! When I finally got a real good look at it,this thing was totally illuminated(the entire "body" was white/gray, like the full moon on a clear evening) it had a row of white stobing lights on it top and bottom, it was totally white, no other colors. It was very low in the sky, and was moving at a medium speed, it was shaped like a football, it was the strangest and most spectacular thing that I have ever seen in the sky. Unfortunately, I could not pull over and get out of my truck to see if it made any noise, and I did not have a CB in the cab to ask othet truckers out there if they were seeing the same bright object that I was. All I know, I used to be in the USAF and this object was definitely NOT an airplane or a blimp, like I said, it was totally illuminated and I did not see any wings or stabilizers or a cockpit, it shone like the full moon, with strobing white lights</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12903.html](http://www.nuforc.org/webreports/reports/012/S12903.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Winnemucca (NV) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Girlfriend and I were approached while driving truck on Hwy 95 north of Winnamucca, Nv. Orange orb size of a silver dollar in my rearview mirror.  Followed for miles.  It would change shapes from round,triangular and square.  It would "melt" into each different shape.  As it was happening our GPS went crazy.  Cellphones both had different  times.  Very strange to be followed by this.  Very bright orange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149075.html](http://www.nuforc.org/webreports/reports/149/S149075.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163242.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163246.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163338.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163288.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163702.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
