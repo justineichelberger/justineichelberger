@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:26 on 17 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:23 on 17 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Atco (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO spotted in Atco NJ in wooded area.I was driving my minivan down this road, I cant remember the name but it was like in a country setting in Atco NJ, and I was with my boyfriend at the time and I saw these bright lights in the sky that seemed to all be coming from the same craft.  I told him to look too and he was like "what the &*@# is that?" and then we were both pretty scared, we were headed toward the craft which seemed to be maybe 70 feet off the ground, above these trees.  I knew it definately was NOT a plane, it had four or five lights in the front/center of the craft that were pointed straight ahead of its direction, it seemed to be traveling very slowly or maybe it was sitting still I cant remember but it was 3 or 4 years ago, and the freakiest thing was that the lights on the front of the craft changed direction and they changed direction and then pointed directly up into the sky, at that moment the lights shot straight up, the craft followed suit and zoomed up at an angle in the sky then shot in the opposite direction in a weird angle, Ive never seen any American planes do that. I want to know if anyone else has had this experience where the lights moved first and then the craft followed suit, Im searching all over this site to see if I can find a similar experience. I know what I saw that night was a UFO and Im glad i finally found this website to tell my story on.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55514.html](http://www.nuforc.org/webreports/reports/055/S55514.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Winnemucca (NV) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Girlfriend and I were approached while driving truck on Hwy 95 north of Winnamucca, Nv. Orange orb size of a silver dollar in my rearview mirror.  Followed for miles.  It would change shapes from round,triangular and square.  It would "melt" into each different shape.  As it was happening our GPS went crazy.  Cellphones both had different  times.  Very strange to be followed by this.  Very bright orange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149075.html](http://www.nuforc.org/webreports/reports/149/S149075.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163242.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163246.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163338.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163288.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163702.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
