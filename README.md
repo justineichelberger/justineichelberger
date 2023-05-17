@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:19 on 16 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:28 on 17 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Wasco (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>it was a bright redi was out back  of my house when out of no where this thing came  it move to the  sout then turned  then moved back to the nourth then turend twice then  whent behind a tree then vanished</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50610.html](http://www.nuforc.org/webreports/reports/050/S50610.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Massena (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>fiery lights in color resembling like a sparkleri was just going to bed when i glanced out my window from where i sleep and saw this smaal ball of colorful lights kinda like a sparkler lit up and as it decended below tree level a sort of white lite followed kinda like a flash of lightening you would see in a distance, this object was decending very fast before i had any chance of trying to identify what i was seeing i know it was not any type of fire works as it was quite different to know the difference and also the news reported that morning that the emergency 911 phone lines experience an un known outage at that same hour in another erea weather its got anything to do with it or not just felt i needed to report what i experienced.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127305.html](http://www.nuforc.org/webreports/reports/127/S127305.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/163/S163227.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163224.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163236.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163563.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
