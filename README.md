@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:27 on 18 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:35 on 18 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Paragould (AR) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Cigar-shaped high-speed craft emitting a scanner like beam traveling at high speed, with no vapor trail or flashing lights.Outside in drive way, wife noticed a weird beam of light.  It was traveling low but at very high speed, no vapor trails or flashing lights.  Seemed to be shooting out some sort of beam the best i could describe it is like what a scanner beam looks like in scifi movies.  It sent out maybe 3 beams and vanished in the distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134286.html](http://www.nuforc.org/webreports/reports/134/S134286.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Indian Lake (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Screenshots of white orb crossing sky late afternoon. 5-18-15 Thanks.((NUFORC Note:  One of several similar reports and photos from the same source, between April 13, 2015, and May 27, 2015.  We strongly suspect that the objects photographed are not UFOs, but we cannot be certain.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118998.html](http://www.nuforc.org/webreports/reports/118/S118998.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
