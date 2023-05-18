@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:24 on 18 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:30 on 18 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Salt Lake City (south of) (UT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>large triangular craft came from the west - from the Oquirrh mountains - east toward SLC, then turned north on possible approach flight pattern to SLC international airport, at about 1/2 the altitude of normal incoming commercial flights, about 2-3 times the size of the largest commercial airliner flying into SLC, little noise, aboot 1/4 that of a commercial airliner, but 2-3 times the size of a commercial airliner - possible SuperSentry?? - don't know, but definitely weird and scary as hell!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07820.html](http://www.nuforc.org/webreports/reports/007/S07820.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in London (Canada) (ON) reported seeing craft that fit the description of some 'Other' over a period of approximately 2700.0 - 2700.0 minutes.</sub><blockquote><sub>30-40 dim lights flying over London Ont. over hour spansitting in a park with a friend...first saw 3 or 4 very dim almost translucent grey type lights (like a small spot light on the clouds but was a clear night out) going NE to N direction. I saw them but friend didnt... 30 seconds later another set whent by with no sound traveling across the horizon in about 4 seconds. We eventually over about 20 min saw roughly 10-12 sets of these lights including one set that had about 10 lights in a V duck looking formation that change shape. There was also a set of 3 or 4 that went about 2 times faster then all the other ones..that was very scary  then they stoped for about 40 min then as we walked home we saw them 2 more times heading over the east end of the city of london Ont. My friend called her mom who lives about a 4 min drive away in the direction these lights were going...she said she saw them but with a few seconds delay. these were NOT airplane or star looking lights..they where like dim-shadowy sillouets coming from nowhere. This is no joke...it rattled me and her and we are 100% confident it was nothing man made. It looked nothing like a plane, weather thingy,satelite or anything like that..this is scary cause they all went north from all diferent directions and they sometimes changed formation or crossed over eachother and or converged togtether...one I noticed was oscilating almost (shaking).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56730.html](http://www.nuforc.org/webreports/reports/056/S56730.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
