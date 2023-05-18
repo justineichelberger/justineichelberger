@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:22 on 18 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:29 on 18 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Hogansville (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Bright star that moved very rapidly toward the horizon.There was a fairly large star that fell toward the horizon.  It moved extremely fast through the sky, so there was no way it could’ve been a satellite, meridian flare, shooting star, airplane, drone, or space capsule.  It was very far away from us in the sky.  We ruled most of those things out because there was no fire under or around it.  It just looked like a very bright star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146127.html](http://www.nuforc.org/webreports/reports/146/S146127.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Savannah (TN) reported seeing craft that fit the description of some 'Egg' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I went down to the barn to check on the roosters because the coyotes were out.  I'm standing there with a spotlight and I see a red object way up in the sky, kind of like a satellite.  For some reason, I flashed my spotlight at it 3 times.  As soon as I did this, I look forward above the barn and this craft just appears out of nowhere with 2 huge beams of light on the bottom of this thing.  It had a errodesen around it.  No noise or anything.  And the way that thing came down was like gravity didn't exist around it.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145392.html](http://www.nuforc.org/webreports/reports/145/S145392.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
