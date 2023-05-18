@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:23 on 17 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:38 on 18 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Sioux City (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Was outside late at night in a slightly drizziling rain when i caught sight of a triangulare object in the sky.It was sprinkling out and I was on my annual nightly walk around the block when I felt as if there was static electricity making the hair on my head stand on end.  Having heard that this is a indication that you might possibly be struck by lighting, I looked up in the sky out of fear.  There about 10 o’clock from my position I saw what appeared to me at first to be street lights.Upon closer examination I realized that the figure was to far away to be streetlights and it appeared to be drifting lazily toward the twelve O’ Clock position.  It was a pizza shaped outline in the clouds with about 8 spheres of light lining its shape evenly.This shape continued to drift for about 5 seconds more in complete silence and abruptly was enveloped in the clouds.  The light spheres lining the shape were eventually enveloped in the clouds and I lost sight of it at which point the static electricity feeling left me.I stood around dumbstruck for about 15 more minutes before I realized that it wasn’t coming back and headed on my way back to home.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81291.html](http://www.nuforc.org/webreports/reports/081/S81291.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Jacumba (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>My partner and I were going on a drive on I-8 out of San Diego east towards the Arizona border.  We often go on weekend drives out this way.  The sky was completely clear with just a few puffy clouds.   We had passed the border patrol checkpoint on the westbound side that is before Jacumba and about 10 minutes from Golden Acorn Casino.   On the horizon I saw a silver cigar shaped object that I believed was a plane...my partner did not see it.   It was very far in the distance.   It went behind a small puffy cloud, came out the other side and then disappeared right as I was looking at it.   I informed my partner and he basically said I was seeing things.  So I convinced myself it was just a plane. About 3 or 4 minutes later, I looked up and saw a brownish object in the shape of a cigar or boomerang moving slowly directly over the highway and yet very high in the sky.  I started pointing at it telling my partner that it was likely a plane.   Mind you it was directly over the highway.  He did not see it again.   As I was watching it, it just vanished.  This one was much, much closer than the previous one but still high in the sky.  My partner still does not believe me but I definitely saw it and it vanished right in front of my eyes. If anyone else has seen this please post!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63241.html](http://www.nuforc.org/webreports/reports/063/S63241.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163242.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163246.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163338.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163288.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163702.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
