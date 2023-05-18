@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:29 on 18 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:24 on 18 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Box Elder (Rocky Boys' Indian Agency) (MT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>It was big and moved real slow.I was on leave from the US Army, when I was walking along the Agency Road, when I saw lights moving accross the prairie.  It was moving a NE to SW direction in front of me, I was standing facing north.  AS THE Light crossed in front of me, I noticed that it had a dull or Dark color and that it was "Triangle shape.  There was no sound,but it was really big!  In fact,it really scared ((deleted)) me!!! As it got close to where I was standing, all the lights went out.The lights were originaly white,like car headlights, or more like aircraft landing lights.  I fly,so I know what they look like.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51105.html](http://www.nuforc.org/webreports/reports/051/S51105.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Salt Lake City (south of) (UT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>large triangular craft came from the west - from the Oquirrh mountains - east toward SLC, then turned north on possible approach flight pattern to SLC international airport, at about 1/2 the altitude of normal incoming commercial flights, about 2-3 times the size of the largest commercial airliner flying into SLC, little noise, aboot 1/4 that of a commercial airliner, but 2-3 times the size of a commercial airliner - possible SuperSentry?? - don't know, but definitely weird and scary as hell!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07820.html](http://www.nuforc.org/webreports/reports/007/S07820.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
