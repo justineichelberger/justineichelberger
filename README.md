@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:38 on 18 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:54 on 18 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Jacumba (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>My partner and I were going on a drive on I-8 out of San Diego east towards the Arizona border.  We often go on weekend drives out this way.  The sky was completely clear with just a few puffy clouds.   We had passed the border patrol checkpoint on the westbound side that is before Jacumba and about 10 minutes from Golden Acorn Casino.   On the horizon I saw a silver cigar shaped object that I believed was a plane...my partner did not see it.   It was very far in the distance.   It went behind a small puffy cloud, came out the other side and then disappeared right as I was looking at it.   I informed my partner and he basically said I was seeing things.  So I convinced myself it was just a plane. About 3 or 4 minutes later, I looked up and saw a brownish object in the shape of a cigar or boomerang moving slowly directly over the highway and yet very high in the sky.  I started pointing at it telling my partner that it was likely a plane.   Mind you it was directly over the highway.  He did not see it again.   As I was watching it, it just vanished.  This one was much, much closer than the previous one but still high in the sky.  My partner still does not believe me but I definitely saw it and it vanished right in front of my eyes. If anyone else has seen this please post!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63241.html](http://www.nuforc.org/webreports/reports/063/S63241.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lansing (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately night - night minutes.</sub><blockquote><sub>Ball of light that looked like it was coming in and out of the sky, don't know how to explain it!!!!I seen it just under the big dipper.  The U.F.O was like, don't know how to explain it, other then it was bright for like 3 seconds, then you couldn't see it any more, until it lit up again.  It did this across the sky for a long time.  I had to go into the house so that's all i seen it do!!!  I know that this is not normal to an every day plain or any thing I've ever seen. Personally, I'm scared!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98011.html](http://www.nuforc.org/webreports/reports/098/S98011.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
