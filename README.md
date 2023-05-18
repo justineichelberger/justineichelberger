@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:54 on 18 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:14:19 on 18 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lansing (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately night - night minutes.</sub><blockquote><sub>Ball of light that looked like it was coming in and out of the sky, don't know how to explain it!!!!I seen it just under the big dipper.  The U.F.O was like, don't know how to explain it, other then it was bright for like 3 seconds, then you couldn't see it any more, until it lit up again.  It did this across the sky for a long time.  I had to go into the house so that's all i seen it do!!!  I know that this is not normal to an every day plain or any thing I've ever seen. Personally, I'm scared!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98011.html](http://www.nuforc.org/webreports/reports/098/S98011.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Woburn (MA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Multiple very colorful objects in the middle of a beautiful sunny day at the sky for 10-15 minutes.hWe live on top of a hill and were playing basketball when we noticed a group of 12 objects very up in the sky. We, of course, thought they were parasuites and were wondering why they had opened up their parasuites so up in the sky. They started as a closed group but started to move apart from each others. They moved very slow, pretty much the same way one moves with a rectangular parasuite. We also noticed one object apart from the main group much much lower than the rest of the objects. We thought that it was one parasuiter that had opened his parasuite much later than the other ones. The objects came in many colors, yellow, green, blue, red etc. like rainbow colors. We noticed that the top ones started to move UP instead of down. We thought that because of the wind streams, they would be in trouble and end up all the way to New York from Boston. However, the objects started to move up and the just simply *disappeared* from the sky. We were althogether three people in the beginning of this phenomena and I invited my two daughters from inside to see the objects as well and they saw those too. I am pretty sure that there were A LOT of people in the area that saw the same thing because this happened at noon and the weather was just beatiful, full of sunshine and clear blue skies.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28831.html](http://www.nuforc.org/webreports/reports/028/S28831.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
