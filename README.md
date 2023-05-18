@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:34 on 18 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:27 on 18 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Bethel Park (PA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately  -  minutes.</sub><blockquote><sub>I just wanted to follow up on my report of 5/18/2019 in Bethel Park, PA-I was astounded to see the recent report of two objects over Kansas City recently.  The object that I saw looked exactly the same- a bright white sphere that then appeared metallic and more rectangular when I observed it with binoculars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146970.html](http://www.nuforc.org/webreports/reports/146/S146970.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Paragould (AR) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Cigar-shaped high-speed craft emitting a scanner like beam traveling at high speed, with no vapor trail or flashing lights.Outside in drive way, wife noticed a weird beam of light.  It was traveling low but at very high speed, no vapor trails or flashing lights.  Seemed to be shooting out some sort of beam the best i could describe it is like what a scanner beam looks like in scifi movies.  It sent out maybe 3 beams and vanished in the distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134286.html](http://www.nuforc.org/webreports/reports/134/S134286.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
