@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:29 on 18 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:20 on 18 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Colchester to Essex (VT) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>20 to 40 bright orange lights seen flying on formation flying over Colchester/Essex VT area, abruptly disappearing.9:50pm, 5/18/2013   My mother and I were driving across Vermont toward our home when we witnessed what at first looked to be a high number of aircraft flying across the sky.  We exited the car to look closer, since the lights emanating from the craft were not the typical yellow-white lights of military craft or helicopters, but a flame-orange color, singular.The lights flew in double-single-double formation, approaching from the North, and flew South for a distance before heading West, seemingly following Route 15 across Lake Champlain—but as soon as these crafts turned, the lights disappeared from the sky right before our eyes.  They didn’t blink like normal aircraft do when in flight, they were steady, even compared to the other visible planes flying much higher.The lights flew low, but seemed extraordinarily small—likely not more than a few hundred, perhaps a thousand feet off the ground.  Still, they moved quickly, likely at speeds from 70/100mph judging from the rate of motion. We witnessed easily over 20 of these lights, but anywhere up to 40. We then decided to drive about a quarter-mile past the intersection where we were stopped, and from the speed at which we closed in on the lights, I realized they couldn’t be flying high. After we made it to the closest light, no more appeared from that direction. Though there were easily 50 cars that passed through the same intersection, and at least one coming from our direction, no one else stopped to look at the high number of unusual lights, likely small aircraft of some sort. I tried my best to catch it on film and I’ll see if I can brighten up what I got later.  But from what I could see, the lights did not appear on my phone, despite the brightness with which they were lit.I don’t know what I just saw.  At first I thought they might be military planes or helicopters, but there was no audible noise of either (and from the sheer number, there would have been some noise to be heard if that’s what they had been).  But my mother and I saw them, even if it seems no one else did.I’ve seen a lot of weird things in my life, but I think this takes the cake. I don’t believe the lights were of terrestrial origin.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97865.html](http://www.nuforc.org/webreports/reports/097/S97865.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Roanoke (VA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>orb-shaped ball of light that sat silent & still, then zoomed upward and out of sight.Walked out of the back door of the restaurant I worked in on Valley View Blvd., which is very close to the airport.  There was a small, completely silent orb shaped ball of light about 30 feet above the back parking lot.  I just stood and observed for a short time, then the object slowly moved directly upward, eventually gaining velocity and moving far from my sight.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62661.html](http://www.nuforc.org/webreports/reports/062/S62661.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
