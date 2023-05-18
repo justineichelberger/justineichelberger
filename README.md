@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:39 on 18 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:23 on 18 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Aptos (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>7 unidentified aircraft speeding across the night sky and leaving no trace (vapor-trail, sonic boom)I was standing in the driveway of our house in Aptos. I looked up to the sky to see if the clouds were forming or if an on-shore flow would produce fog for the night. I noted the weather was clear and the moon was one-quarter full and at a 30 degree arc from straight up. It was during my weather evaluation that the UFO or UFOs came into view. Their movement was rapid, and were only in sight for about 5 seconds. They moved across the sky at an 85 degree arc in less than 5 seconds. There were at least 7 lighted objects, blue in front and mostly red in back, but they did not have a tail like a shooting star. They came side-by-side and their formation was straight. They flew past me and then ascended rapidly upwards to the point where I could no longer see them. I realized these were not military aircraft of any kind, and this discovery was quite startling to me. I was listening for a sonic boom as they passed, but it did not happen so I went inside the house and called 911 who stated to call the UFO Center.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22918.html](http://www.nuforc.org/webreports/reports/022/S22918.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>saw & filmed a pulsating diamond shaped object which changed shape several times over Portland, Oregon about 9:30 PMSaw a stationary object while driving home, which was too close and bright to be a star.  There were no other stars visible in that portion of the sky. We pulled the car over and watched the object for about 5 minutes before proceeding home about a half an mile to get the HD Handycam to film it.  Recorded it on film for about 7 minutes from our backyard over the roof of the house behind us.  The object changed shape several times and pulsated brighter, mainly staying in a diamond shape.  There were also dark vertical lines which crossed the object periodically, and there was a darker circle or diamond shape in the center the object sometimes when the object was in a diamond shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75464.html](http://www.nuforc.org/webreports/reports/075/S75464.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
