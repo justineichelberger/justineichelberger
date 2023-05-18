@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:20 on 18 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:29 on 18 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Roanoke (VA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>orb-shaped ball of light that sat silent & still, then zoomed upward and out of sight.Walked out of the back door of the restaurant I worked in on Valley View Blvd., which is very close to the airport.  There was a small, completely silent orb shaped ball of light about 30 feet above the back parking lot.  I just stood and observed for a short time, then the object slowly moved directly upward, eventually gaining velocity and moving far from my sight.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62661.html](http://www.nuforc.org/webreports/reports/062/S62661.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Westminster (CO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.43333333333333335 - 0.43333333333333335 minutes.</sub><blockquote><sub>The fireball shaped craft was flying in the sky at 23:00 hours and blinked various different colors.The ufo spun sparingly in approxemetly a 25.10 diameter of a circle. The object was about 250 feet above sea level. After spinning in a circle for 10 seconds it departed after 16 seconds of sitting still. It made a whizzing sound that hurt the ears. From May 18, 2004 at 23:00 hours there has been various akward situations in the surrounding areas of Westminster Colorado.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37104.html](http://www.nuforc.org/webreports/reports/037/S37104.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
