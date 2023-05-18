@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:29 on 18 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:39 on 18 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Windsor (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Saw a reddish, yellow, circle of light heading northwest. Kinda looked like a sattalite at first, but then got super bright and then blinked out and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156538.html](http://www.nuforc.org/webreports/reports/156/S156538.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Aptos (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>7 unidentified aircraft speeding across the night sky and leaving no trace (vapor-trail, sonic boom)I was standing in the driveway of our house in Aptos. I looked up to the sky to see if the clouds were forming or if an on-shore flow would produce fog for the night. I noted the weather was clear and the moon was one-quarter full and at a 30 degree arc from straight up. It was during my weather evaluation that the UFO or UFOs came into view. Their movement was rapid, and were only in sight for about 5 seconds. They moved across the sky at an 85 degree arc in less than 5 seconds. There were at least 7 lighted objects, blue in front and mostly red in back, but they did not have a tail like a shooting star. They came side-by-side and their formation was straight. They flew past me and then ascended rapidly upwards to the point where I could no longer see them. I realized these were not military aircraft of any kind, and this discovery was quite startling to me. I was listening for a sonic boom as they passed, but it did not happen so I went inside the house and called 911 who stated to call the UFO Center.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22918.html](http://www.nuforc.org/webreports/reports/022/S22918.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
