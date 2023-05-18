@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:25 on 18 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:22 on 18 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Naperville (IL) reported seeing craft that fit the description of some 'Egg' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Sighting of inverted egg or tear drop objectDescription: The object was an inverted (small end down) egg or tear drop shaped structure. Dark grey not black and was clearly reflective (eastern side appeared glossy as a consequence of sun). The color was reminiscent to that of a gun metal grey. Approximate altitude was 2000 ft. and as a guess ½ mile south of 75th street and appeared stationary over the course of the observation. Clearly not a balloon. Another vehicle next to me with two men were looking at it as well. The car behind me tooted its horn as a consequence of both my and the other vehicle not moving when the light changed. Upon looking up to the light and in the rear view mirror at the tooting car (app 3 sec) the object vanished. The vehicle next to me must have noticed its disappearance as well because the driver lifted his hands and shrugged his shoulders.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56721.html](http://www.nuforc.org/webreports/reports/056/S56721.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Hogansville (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Bright star that moved very rapidly toward the horizon.There was a fairly large star that fell toward the horizon.  It moved extremely fast through the sky, so there was no way it could’ve been a satellite, meridian flare, shooting star, airplane, drone, or space capsule.  It was very far away from us in the sky.  We ruled most of those things out because there was no fire under or around it.  It just looked like a very bright star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146127.html](http://www.nuforc.org/webreports/reports/146/S146127.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
