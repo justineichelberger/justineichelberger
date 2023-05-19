@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:34 on 19 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:29 on 19 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sicklerville (NJ) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two flying green human looking objects  with a slender looking female body, with butterfly wings arms and leggs.The objects were small human looking with butterfly wings bright green in color. They had hands arms and leggs a long (4 inch.)slender female looking body.  It landened in front of us on all fours ,( hands and knees). then took of into the night.  The observers were 2 cutomers at a Mc Donalds and my wife and myself who are both private investigators.  In conclution I researched these bugs/insects? and found only storys about such objects, example Garden Fairy's but they resembled a human to much to pass it off as a bug, unless it was on Men in Black.  I had seen them once before about a year back on my front window screen.  Please don't think I'm crazy.   Thank you for your time</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89064.html](http://www.nuforc.org/webreports/reports/089/S89064.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Sarawak/Miri (Malaysia) () reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was in my car on my way to town with my mum and brother when i look out the car and saw something in the sky to the west. At first i thought it was a plane because the sun was a little glaring into a sharp 45 degrees over the horizon. hoping that the unusually craft in the sky would turn out to be a plane but it didn't. shocked and excited i then yelled out to my mum and brother to see what i am looking at and telling them them that it was a ufo. i didn't lasted long, for about less that a minute or so since i sighted it, it just dissapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22923.html](http://www.nuforc.org/webreports/reports/022/S22923.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [312](http://www.nuforc.org/webreports/reports/163/S163541.html)
-- [311](http://www.nuforc.org/webreports/reports/163/S163320.html)
-- [310](http://www.nuforc.org/webreports/reports/163/S163297.html)
-- [309](http://www.nuforc.org/webreports/reports/163/S163285.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163291.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
