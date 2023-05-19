@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:14:40 on 19 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:26 on 19 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Gulfport (MS) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>persistent strange glowing star over Gulfport, Ms., each evening (first noticed February of 2012).For over two months now, we have observed nearly every night a bright "star" low in the sky (in the direction of Courthouse Road -- looking from Oakwood Drive in the WoodGlen section of Gulfport. It is the first one to "burn through" on a cloudy night. It doesn't appear "natural" and I do not believe it to be-- as it always is in the same area (starting out at early evening, each night) and by now it certainly should have changed position after this many months. It is bright as if it is generating its own light. Later on, around 10-10:15 the next time we look (it is as if the moments we look away, it decides to move) it has moved lower towards some trees from our vantage point. Within a half hour later it is behind the trees. We go in around 11 pm to go to bed and as we head in to the house, we can see it is still "glowing" behind the trees. We have the CB base in Long Beach and Keesler Airforce base and hope it is something protecting our GULF coastline that is American engineered!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89072.html](http://www.nuforc.org/webreports/reports/089/S89072.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Elk Grove Village (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>As I was driving down Mecham Blvd headed toward Biesterfield Rd I saw orange glowing lights flying overhead.  I pulled over and counted four at first but then they just kept coming.  I counted around eight total. I thought they could have been meteors but they were definitely within the atmosphere.  There was also no noise coming from them.  We live about twenty minutes from O'hare so we see a lot of planes but these were not planes.  Just curious if anyone else had seen the same thing?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89051.html](http://www.nuforc.org/webreports/reports/089/S89051.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [312](http://www.nuforc.org/webreports/reports/163/S163541.html)
-- [311](http://www.nuforc.org/webreports/reports/163/S163320.html)
-- [310](http://www.nuforc.org/webreports/reports/163/S163297.html)
-- [309](http://www.nuforc.org/webreports/reports/163/S163285.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163291.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
