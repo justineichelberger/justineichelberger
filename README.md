@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:28 on 19 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:27 on 19 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Burien (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>3 Satellites cross overhead and pulse bright whiteI was just watching the stars through a 70% cloudy sky, and saw a satellite heading NW of normal brightness moving at normal speed, then it turned really bright for a second, like it was rotating the bright a light mounted on one side, and seemed to roll over the other side in a smooth motion.  Like the light on top of a Lighthouse, spinning around one time (as opposed to a regular lighthouse spinning repeatedly).It kept travelling at the same speed, and seconds later I saw another satellite coming from a different angle heading south, but the same speed.  Then a third appeared from its own angle going SW, and this one pulsed bright for a second just like the first one, all of them white moving dots.  They all crossed paths within 15 seconds of each other and kept going.  My phone camera couldn't capture the video, the whole event lasted about 90 seconds. Ambaum & 125th St. At 10:46PM 5/19/2020.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156561.html](http://www.nuforc.org/webreports/reports/156/S156561.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Fairmont (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>White, round light in the sky with what had appeared to be smoke by it.Date of Sighting: 5/19/4 Time of Sighting: about 6:45 Location of Sighting: 1/2 mile in Back of mt of house  Number of witnesses: 3 Number of objects: 1 Shape of objects: circle  Full Description of event/sighting: It was raining hard and I needed a smoke so I thought I would sit in my car. (It was still daylight out.) I was only out there about 3 minutes or so when I noticed a white, round light in the sky with what had appeared to be smoke by it, I couldn't give a size but it was smaller than half of the sun a perfect circle it was. It did not move. Not knowing what it was I ran in the house and yelled to my brother and my husband to come and look but by the time they reached the window facing that direction they could see the smoke that was still there, and no light object, and just to note the smoke seen was not coming from the ground or from any direction if was just around the object. I know what I saw was a light not a plane or anything like that it just sat in the same place. I know it was not there when I first stepped outside because it was just that noticeable. I then called non-emergency police department in Fairmont to see if maybe any one had reported seeing anything in sky she told me no and I replied I don't want to tell you what I saw because I think you would think I was crazy. Thank you for reading my story. Thank you to the witness for the report. Brian Vike, Director HBCC UFO Research Home - Phone 250 845 2189 email: hbccufo@telus.net Website: http://www.hbccufo.com Redirect: http://www.brianvike.com Redirect: http://www.hbccuforesearch.com</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37119.html](http://www.nuforc.org/webreports/reports/037/S37119.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [312](http://www.nuforc.org/webreports/reports/163/S163541.html)
-- [311](http://www.nuforc.org/webreports/reports/163/S163320.html)
-- [310](http://www.nuforc.org/webreports/reports/163/S163297.html)
-- [309](http://www.nuforc.org/webreports/reports/163/S163285.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163291.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
