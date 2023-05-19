@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:26 on 18 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:34 on 19 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Eskdale (WV) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright like an arc welderWife and I were walking the railroad in a southern direction. We saw a light blue light ahead of us and higher that the mountain tops.  There are several large mountain top removal coal operations in the area.  I could see what looked like reflections on metal but no real detail. After about 20 or 30 seconds ( hard for me to judge) the blue light grew in intensity. It looked like the light from arc welding.  It seemed to accend and move away toward the north/northwest slowly.  The area we lost sight of it has no mining.  I have worked on Helicopters and around aircraft in the military.  It was nothing known to me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89076.html](http://www.nuforc.org/webreports/reports/089/S89076.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Skokie (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Silver shining disk flew overhead in front of my car in sky.  Occurred in broad daylight.   Bright day with clouds.  No wings on this aircraft and no sound.  It was saucer shaped.  Flew south to north direction over Golf road, near Skokie Blvd.  Then object shot straight up in sky at great velocity and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127416.html](http://www.nuforc.org/webreports/reports/127/S127416.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/163/S163278.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163925.html)
-- [269](http://www.nuforc.org/webreports/reports/163/S163277.html)
-- [268](http://www.nuforc.org/webreports/reports/163/S163262.html)
-- [267](http://www.nuforc.org/webreports/reports/163/S163244.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
