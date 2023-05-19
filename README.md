@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:37 on 19 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:26 on 19 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Clarksburg (MD) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Triangle ufoI was driving home and as I was going up the main highway by my house. I saw a triangle with two lights floating making no noise. It stayed in place as another group of people had their hazards on and were recording ahead of me. It suddenly just disappeared before my eyes. No movement at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163298.html](http://www.nuforc.org/webreports/reports/163/S163298.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Cleveland (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A UFO With Red, Blue & Green lights alternating between the colors and gliding and HoveringI was driving home and I looked up and saw green lights all in a row like a bar across, then the lights went out then in the same place I saw all blue lights across in a row, then the lights went out then in the same place I saw all red lights across in a row, then I saw the outline of the craft which was dark in color. It glided left then right, then left then right, then hovered, then glided a few houses down, then glided left , then right, then hovered, then glided a few more houses down and kept doing that till I lost sight of it behind some trees, then I didn't see it again.  All the while, the lights kept going from all red, to all blue to all green over and over and the light would stay the one color for like 5 seconds then turn all blue then all green over and over as it glided and hovered.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50625.html](http://www.nuforc.org/webreports/reports/050/S50625.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [312](http://www.nuforc.org/webreports/reports/163/S163541.html)
-- [311](http://www.nuforc.org/webreports/reports/163/S163320.html)
-- [310](http://www.nuforc.org/webreports/reports/163/S163297.html)
-- [309](http://www.nuforc.org/webreports/reports/163/S163285.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163291.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
