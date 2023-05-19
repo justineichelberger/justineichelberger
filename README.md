@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:29 on 19 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:30 on 19 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Sarawak/Miri (Malaysia) () reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was in my car on my way to town with my mum and brother when i look out the car and saw something in the sky to the west. At first i thought it was a plane because the sun was a little glaring into a sharp 45 degrees over the horizon. hoping that the unusually craft in the sky would turn out to be a plane but it didn't. shocked and excited i then yelled out to my mum and brother to see what i am looking at and telling them them that it was a ufo. i didn't lasted long, for about less that a minute or so since i sighted it, it just dissapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22923.html](http://www.nuforc.org/webreports/reports/022/S22923.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>A total of 23 Red lights in night sky moving across the sky at a steady pace disappearing into the night over a period of 5 minutesMonday, May 19, 2014.Approximately 8:50 p.m., I spotted some red lights in the Northern sky moving South West across the sky.  They started appearing one at a time and took a kind of formation as they rose into the sky, first there were three in a triangle formation a space then four in a rectangle formation, they three more until twenty three appeared and moved gently across the sky and disappeared into the night sky.  They moved at the same rate of speed and in the same direction, while they disappeared at varying spots across the sky.  During this time I noted we could see the stars clearly in the sky, an airplane traveling from the South East to North West through and passed the red lights.  The interesting part was the red lights never blinked like the lights on the airplane and we noted that while the airplane was moving away from us we could still see it in the distance while the red lights completely disappeared at various points of the sky.  I did try to take a picture of the lights – un! successfully – the lights did not show up on my I-phone and subsequently did not show up on the pictures I took.  I suspect the lights were too small and too far away.  I am not sure if this is an actual UFO siting but thought it to be rather interesting and unusual experience for me and my friend.  There were two other people watching as the red lights cross the sky and multiple walkers in the park noticing the lights as we watched.  The total duration of the siting approximately 4 – 5 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109440.html](http://www.nuforc.org/webreports/reports/109/S109440.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [312](http://www.nuforc.org/webreports/reports/163/S163541.html)
-- [311](http://www.nuforc.org/webreports/reports/163/S163320.html)
-- [310](http://www.nuforc.org/webreports/reports/163/S163297.html)
-- [309](http://www.nuforc.org/webreports/reports/163/S163285.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163291.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
