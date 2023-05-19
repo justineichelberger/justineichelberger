@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:22 on 19 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 19 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Tekonsha (MI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Dark, high flying shape moving fast. Seemed to be high in the clouds.We were sitting outside looking at birds & clouds, when I noticed a dark shape, which I took to be a bird soaring way too high. Within a second I realized it wasn't a bird but it was steadily moving very fast at a high rate of speed towards the east.  It "bounced" around a couple times in this trajectory.  By the time my husband saw it as I was trying to point it out, it had reached a bank of luminous clouds where it disappeared but it kept briefly reappearing in different spots all over a large area of these clouds.  Sometimes it was very vague & other times more visible.The color was just a dark gray/black but it seemed far away & moved quickly.  We do have a lot of planes over this area, so I know what that looks like & how high they fly generally.I also had a sighting a few miles from here in 1983-ish.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119231.html](http://www.nuforc.org/webreports/reports/119/S119231.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Salisbury (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Bright light accompanied by smaller lights seen over Salisbury, MD.Bright light seen over field near Salisbury, MD.  Stationary at first, then about 3 or 4 smaller blinking white lights were seen flying up to and then coming in contact with the main light, which then started moving slowly in a south-east direction and disappearing.((NUFORC Note:  For some reason, witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127419.html](http://www.nuforc.org/webreports/reports/127/S127419.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [312](http://www.nuforc.org/webreports/reports/163/S163541.html)
-- [311](http://www.nuforc.org/webreports/reports/163/S163320.html)
-- [310](http://www.nuforc.org/webreports/reports/163/S163297.html)
-- [309](http://www.nuforc.org/webreports/reports/163/S163285.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163291.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
