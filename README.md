@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:28 on 19 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:22 on 19 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ovid (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright orange lights moving very fastI live in central NY (ovid, ny), half hour north of Ithaca NY.  Last night at 10:15 a series of very bright orange lights moved very quickly from east to west about 35 degrees above the horizon.  They did not blink, they all moved at about the same very fast speed.  There were a total of four and I could see three at one time, two pretty close to each other from my vantage point.  There was no noise whatsoever.  They came from the east and when approx in front of me either faded or moved south - either would appear the same to me.  The tree line blocked them from time to time.  I did take a video but all you can see are orange dots (when I optically zoomed the dots became disks though blurry and I could not hold the camera steady especially at that setting)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89071.html](http://www.nuforc.org/webreports/reports/089/S89071.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Tekonsha (MI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Dark, high flying shape moving fast. Seemed to be high in the clouds.We were sitting outside looking at birds & clouds, when I noticed a dark shape, which I took to be a bird soaring way too high. Within a second I realized it wasn't a bird but it was steadily moving very fast at a high rate of speed towards the east.  It "bounced" around a couple times in this trajectory.  By the time my husband saw it as I was trying to point it out, it had reached a bank of luminous clouds where it disappeared but it kept briefly reappearing in different spots all over a large area of these clouds.  Sometimes it was very vague & other times more visible.The color was just a dark gray/black but it seemed far away & moved quickly.  We do have a lot of planes over this area, so I know what that looks like & how high they fly generally.I also had a sighting a few miles from here in 1983-ish.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119231.html](http://www.nuforc.org/webreports/reports/119/S119231.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [312](http://www.nuforc.org/webreports/reports/163/S163541.html)
-- [311](http://www.nuforc.org/webreports/reports/163/S163320.html)
-- [310](http://www.nuforc.org/webreports/reports/163/S163297.html)
-- [309](http://www.nuforc.org/webreports/reports/163/S163285.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163291.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
