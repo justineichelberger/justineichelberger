@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:26 on 19 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:34 on 19 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Elk Grove Village (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>As I was driving down Mecham Blvd headed toward Biesterfield Rd I saw orange glowing lights flying overhead.  I pulled over and counted four at first but then they just kept coming.  I counted around eight total. I thought they could have been meteors but they were definitely within the atmosphere.  There was also no noise coming from them.  We live about twenty minutes from O'hare so we see a lot of planes but these were not planes.  Just curious if anyone else had seen the same thing?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89051.html](http://www.nuforc.org/webreports/reports/089/S89051.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sicklerville (NJ) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two flying green human looking objects  with a slender looking female body, with butterfly wings arms and leggs.The objects were small human looking with butterfly wings bright green in color. They had hands arms and leggs a long (4 inch.)slender female looking body.  It landened in front of us on all fours ,( hands and knees). then took of into the night.  The observers were 2 cutomers at a Mc Donalds and my wife and myself who are both private investigators.  In conclution I researched these bugs/insects? and found only storys about such objects, example Garden Fairy's but they resembled a human to much to pass it off as a bug, unless it was on Men in Black.  I had seen them once before about a year back on my front window screen.  Please don't think I'm crazy.   Thank you for your time</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89064.html](http://www.nuforc.org/webreports/reports/089/S89064.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [312](http://www.nuforc.org/webreports/reports/163/S163541.html)
-- [311](http://www.nuforc.org/webreports/reports/163/S163320.html)
-- [310](http://www.nuforc.org/webreports/reports/163/S163297.html)
-- [309](http://www.nuforc.org/webreports/reports/163/S163285.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163291.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
