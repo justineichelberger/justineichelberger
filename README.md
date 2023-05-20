@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:25 on 20 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:27 on 20 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Courtland (MS) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I saw a star that turned into a UFO and then disappearedI first noticed anything in the sky 4 nights before I observed the object I recorded the last night.  On the first night I noticed that there was a real bright star above my house and it looked as if maybe was barely twinkling then.  I kept a watch on it and it never moved but was really bright.  Well on the 4th night I went outside and was staring at it and then that's when it split apart into the 3 sections with red blinking lights on each end of it.  It turned and twisted and then a whole bunch of rainbow colors exploded out of it and it made a design pattern with the lights for about 30 seconds then the colors went away and then it came back into a round looking bright star then just slowly went away.((NUFORC Note:  Star or planet?  Possible hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119125.html](http://www.nuforc.org/webreports/reports/119/S119125.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Flippin (AR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>I was coming home from a freinds house because I had to do a school project. While I was coming home I saw a light in the sky, for awhile I thought it was a Helicopter beacause the way it was moving and how close to the ground it was. I thought it maybey it was a drug helicopter, but it wasen't. After awhile it vanshed behind some trees.And I forgot about.About 3 or 4 miles up pop back up and thats when I started to get scared because I was driving by a pasture about a 300 hundred acre of it and it was follwing me right on the side about 1 mile from me in the pasture, and then thats when I started to really get scared. And after awhile it disapered after I passed some trees. While I was close to my house there is a big hill you go on before you get to my house I saw three lights right on the edge of the hill barely and right when you have a full vision of my house there it was hovering right over my house I coulden't belive my eyes, What I was seeing, I was so in shocked then that I put my brakes on and just watched it there for about 3min There was a full moon out that night so you could see what it looked like anyway while I was sitting acar was coming up behind me a mile away so I started to drive in my drive way and thats when I started to beep my horn at my parents and sream out the window to tell them to come outside as fast as they can.After that the ufo started to leave very slowly and then about 5 seconds it took off real fast then it was gone, I never saw it again. From this day Iam a beliver of the unknown. I will never forget that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08063.html](http://www.nuforc.org/webreports/reports/008/S08063.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
