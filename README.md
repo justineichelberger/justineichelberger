@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:26 on 20 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:24 on 20 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Burlington (VT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>On May 20, 1998, at 22:40, I was drawn to my 3rd floor studio apartment window (western side of building) by some noise on the street below. After I located the origin of the noise below my open window, I raised my eyes to look west, out over Lake Champlain which lies between New York state and Vermont. I saw what appeared to be 2 wingtip landing lights from a heavy jet aircraft, such as a Lockheed C-5A Galaxy, yet steady and no noise was heard. I quickly ascertained that the lights were far too spread apart and far too bright to be aircraft lights. After approx. 10 seconds from initial sighting, the 2 lights began to converge, left light moving toward the right light. At 15 seconds the 2 were very close together and began to head in a northerly direction, left to right from my westward looking viewpoint. However, during the last 5 seconds (approx.), the lights became smaller and smaller, then completely vanished at approx. 20 seconds from initial sighting, both still moving left to right.Detailed Report--This sighting occurred while in my 3rd floor studio apartment in my city of residence, Burlington, VT, on or about May 20, 1998, at 22:40.  I was drawn to my window (western side of building) by some noise on the street below.  About 15 teenagers, were skateboarding southbound on the street I live on, producing a low pitch roaring sound on the pavement below.  After watching them for a couple of minutes, they were nearly out of sight.  I raised my eyes toward the western horizon, looking out over Lake Champlain which lies between New York state and Vermont, I saw 2 steady white lights at an elevation of 20 to 25 degrees above the horizon, and 5 times the brightness of the star Sirius, at approx</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03591.html](http://www.nuforc.org/webreports/reports/003/S03591.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>two fast spheres orange in color were moving north by northwest over Brooklyn at 23:00 hours on May 20th 2016.On 5th avenue and 16th street looking east by southeast there was two orange orbs moving at twice the speed of the usual aircraft in the sky heading north by northwest.  The first one was almost at 23:00 on the hour, the second was a few minutes later at 23:05.  There was also a high altitude jet moving north, a commercial jet moving west towards newark at a lower altitude and a jet coming in from the south moving towards JFK or Laguaria airport.  The two orange spheres did not have lateral blinking lights, they did not make any sounds like helicopters and the color was almost pumpkin as opposed to the usual yellow/white aircraft color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127433.html](http://www.nuforc.org/webreports/reports/127/S127433.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
