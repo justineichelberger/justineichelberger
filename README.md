@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:22 on 20 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:22 on 20 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Wailuku (HI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>My husband and I were driving north, home, when we saw 2 very bright v shaped fireballs, merge, and then disappeared.One was above the other over the West Maui Mountains.  The top one was very bright and a large V shape.  The light below was like a squiggle, if that makes sense.  It snagged shape into a fireball and then disappeared!!((NUFORC Note:  Probable launch of an "Aegis" anti-missile rocket at 19:35 hrs..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109409.html](http://www.nuforc.org/webreports/reports/109/S109409.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Alameda (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Craft resembling a plane disappears in broad daylight.This craft that appeared very much at first to be a plane, until I noticed it had no wings.  Knowing that the first thing to do when witnessing a UFO is to get another person to see it, I asked my wife to verify the craft had no wings, which she agreed could not be seen in the time we were 'allowed' to view it.  The craft was traveling N-NE over Oakland, Calif., at an approximate angle of 50 degrees and climbing, the same trajectory as numerous planes we notice taking off from the Oakland airport daily. What made this sighting unique:  While still attempting to verify the lack of wings 100%, the object passed behind a building as we were driving, and we waited for it to come out on the other side to continue viewing, but it NEVER RE-APPEARED.  I scanned the entire sky when clear of the building obstruction, the object was nowhere to be seen in the sky, which is an impossibility given the physics and elevation of the flightpath.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89068.html](http://www.nuforc.org/webreports/reports/089/S89068.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
