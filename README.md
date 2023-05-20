@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:29 on 20 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:31 on 20 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Flying object with Triangular shaped aura spotted in DenverI didn’t really know what to do so I googled and found this site.  I am too freaked out to tell anyone else, especially since no one would believe me. I was out smoking a cigarette on my patio when I saw it.  I probably wouldn’t have noticed, but a group of people in the grocery store parking lot across the street from my apartment started honking their horns at one another.  I saw them get out of their cars and point up at the sky.  DIA airport faces in the same direction, so always see when planes when they are coming and landing… but this was most definitely no plane.  I saw a light that would have looked like a twinkling star, except for a triangular shaped bright-aura surrounding it. It was hovering above ground a couple hundred feet for a few seconds, and then shot up higher into the sky faster than any aircraft I’ve ever seen. Then it slowed down, did a zigzag up higher while going north, then disappeared.  I went inside immediately and sat down, a little disturbed by what I saw to make sense of anything.  I went back outside after a few minutes to see if the people who had also spotted it were still there, but they had left. It was way, WAY too fast to be a helicopter, and there is no plane I’ve seen that could do such maneuvering.  I really hope other people in Denver send you info on seeing something like this tonight. I wasn’t a believer until now.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56740.html](http://www.nuforc.org/webreports/reports/056/S56740.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Greensburg (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>White light appeared in the middle of night sky.As my wife and I were looking at the stars, out of nowhere a bright white light (very large, compared to other stars) appeared in the middle of the night sky.  It disappeared for a second and then we saw it “skip” across the night sky into the horizon.  The distance it traveled by the time we saw it next was a very long distance, and not in a straight line.  There was no sound whatsoever.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89121.html](http://www.nuforc.org/webreports/reports/089/S89121.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
