@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:23 on 20 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:28 on 20 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>5 very unusual glowing red aircraft flying over Seattle.I was looking East, toward the U of W campus on Friday night around 10pm when I saw 3 aircraft flying in a triangular formation toward me.  They were identical, with a kind of pulsing sweeping red glow.  They approached flying East to West over the University District and then turned South and flew toward downtown, as they headed South, they appeared to accelerate, and two more identical craft appeared from the East and followed the same path.((NUFORC Note:  We spoke via telephone with the witness, and he impressed us as being quite eloquent and sober-minded.  We suspect that he is a highly reliable witness.  Please see his video, taken with a cell telephone, posted to the NUFORC website.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127519.html](http://www.nuforc.org/webreports/reports/127/S127519.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Newport (VT) reported seeing craft that fit the description of some 'Light' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>I was sitting in a friends back yard when 6 or 7 lights streamed across the sky. They were following the same trajectory and did not deviate from the same line. It lasted for a total of 2 or 3 seconds. At first we thought it was the Chinese space station debris or a meteor shower, but the lights weren't scattered.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163478.html](http://www.nuforc.org/webreports/reports/163/S163478.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
