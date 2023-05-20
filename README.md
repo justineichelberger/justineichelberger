@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:27 on 20 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:21 on 20 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Flippin (AR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>I was coming home from a freinds house because I had to do a school project. While I was coming home I saw a light in the sky, for awhile I thought it was a Helicopter beacause the way it was moving and how close to the ground it was. I thought it maybey it was a drug helicopter, but it wasen't. After awhile it vanshed behind some trees.And I forgot about.About 3 or 4 miles up pop back up and thats when I started to get scared because I was driving by a pasture about a 300 hundred acre of it and it was follwing me right on the side about 1 mile from me in the pasture, and then thats when I started to really get scared. And after awhile it disapered after I passed some trees. While I was close to my house there is a big hill you go on before you get to my house I saw three lights right on the edge of the hill barely and right when you have a full vision of my house there it was hovering right over my house I coulden't belive my eyes, What I was seeing, I was so in shocked then that I put my brakes on and just watched it there for about 3min There was a full moon out that night so you could see what it looked like anyway while I was sitting acar was coming up behind me a mile away so I started to drive in my drive way and thats when I started to beep my horn at my parents and sream out the window to tell them to come outside as fast as they can.After that the ufo started to leave very slowly and then about 5 seconds it took off real fast then it was gone, I never saw it again. From this day Iam a beliver of the unknown. I will never forget that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08063.html](http://www.nuforc.org/webreports/reports/008/S08063.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Hill AFB (UT) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Saw a large V shaped craft, craft made no sound what so ever.My airman and I (MSgt) were having a smoke outside of our building at about 0200 hrs on or about 20 May 1998 when we noticed a large V shaped craft flyng very low to the ground and moving slowly over head.  At that moment we did not think anything of it, so we went back inside. Once inside my airamn asked me if I had heard anything outside, at that moment we realized we had heard no sound from the craft.  We both had a mild panic attack and we ran back outside and it was absolutely quiet. There was no way we could not have heard something from a regular aircraft. I have been around aircraft my whole Air Force career and have never seen a craft like it or craft not maing a sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45237.html](http://www.nuforc.org/webreports/reports/045/S45237.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
