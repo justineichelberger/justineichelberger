@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:28 on 20 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:13:15 on 20 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>My brother, and friend and I were outside enjoying the night when My brother looked up in the sky.He was saying how beautiful the stars looked, when all of a suden one of the stars started to move in a cicular zizzag way. We all could see this happening when I spoted another one doing the same. The zig and zag and were moving fast accros the sky.We watched them till they vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44049.html](http://www.nuforc.org/webreports/reports/044/S44049.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Perth Amboy (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Perth Amboy UFO Hovers over water tower.I stepped outside to smoke, I looked up and i saw a black spot in the sky. So i go back in side grab my glasses and go back out. The black spot is not from the storm or anything related to the storm. I sat down and finished by smoke for about 5 minutes.  I went back inside to grab a camera and when i came back out it was gone. It was oval shaped and dark from my angle.  I might have been seeing the underside of the saucer.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56742.html](http://www.nuforc.org/webreports/reports/056/S56742.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
