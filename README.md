@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:25 on 20 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:38 on 20 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Two orange/amber lights moving across the sky in a SE to NW direction seen from backyard in Mesa, Arizona at 1:40 a.m on May 20, 2010.I was star gazing on May 20, 2010 at 1:40 a.m. when two orange/amber lights appeared from the southeast; more parallel with an east/west orientation than north/south but at a slight angle, I estimate the angle to be 20 or 30 degrees. I say this because they came into view as I was looking toward the back fence which runs parallel with a street that runs in an East/west direction. One light was in front of the other but not in a straight line like single file, they were slightly offset from one another. They stayed the same distance apart. The speed remained steady. They did not zigzag or bounce around, or waver.I heard no sound from the lights as they passed overhead.I couldn't decipher any definate shape to the objects. The edges . They were diffused or hazy; the same way street lights or headlights appear to me, with a kind of halo effect.They seemed to be going slow but in reality they had to be going fast as they disappeared out of sight within seconds. Because we live on the outskirts of the flight path of an international airport and airplanes pass over all the time I'd say they were considerably faster than any airplanes I've seen.It's kind of hard to judge the size of the objects as there was nothing relative to compare the size with, but I'd say they were at least as large as a commercial airplane, maybe larger.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75475.html](http://www.nuforc.org/webreports/reports/075/S75475.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Morristown (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A huge bright white ball with a long jagged laight blue tail moving very slowly across the sky.A very, very large white ball with a short jagged light blue tail was moving very slowly overhead. It looked like it wasn't going to crash. It was followed by several jet-like crafts that trailed behind in close formation after it passed. It made no sound. Nither did the jets. There wasn't anything on the news or anything. And it was large enough to be seen for miles. There was a hazy trail in the sky for about a minute.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11540.html](http://www.nuforc.org/webreports/reports/011/S11540.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
