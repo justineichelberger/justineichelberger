@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:38 on 20 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:24 on 20 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Morristown (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A huge bright white ball with a long jagged laight blue tail moving very slowly across the sky.A very, very large white ball with a short jagged light blue tail was moving very slowly overhead. It looked like it wasn't going to crash. It was followed by several jet-like crafts that trailed behind in close formation after it passed. It made no sound. Nither did the jets. There wasn't anything on the news or anything. And it was large enough to be seen for miles. There was a hazy trail in the sky for about a minute.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11540.html](http://www.nuforc.org/webreports/reports/011/S11540.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Goleta (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Four daylight orbs ascendingWeather conditions are cloudless, minimal haze, 5 knot westerly wind.  While in between games at my daughter's softball tournament I had a very brief thought of the 12 different anomalous flying objects I witnessed over a nine week period last fall.  This thought prompted me to have a glance at the sky.  All I saw was blue sky and one jet ascending out of LAX.  A moment later I looked up again to the east and saw what at first thought seemed like four helium balloons ascending separately a few hundred feet apart at an estimated 500 feet elevation.three appeared white and one had a dark metallic color.  Their trajectories at first were consistent with helium party balloons.  After three or four minutes watching the objects had receded from orb shape to point light sources and three of the four collard a convergent path while the fourth remained at a distance.  It was at this point that I expected the objects to appear as black dots and plane out with the upper level! winds if they were balloons.  Instead they appeared more and more as light sources getting continuously further away.  After ten minutes of continuous watching the lights were not discernible.((NUFORC Note:  Source of the report elects to remain anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134254.html](http://www.nuforc.org/webreports/reports/134/S134254.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
