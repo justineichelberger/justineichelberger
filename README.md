@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:42 on 20 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:25 on 20 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1971, an anonymous witness in Irmo (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>it was flying at 150 feet moving  slow and flew over our house it was round with moving diffent collored lights around the edge.i was 11 at the time this happend and never reported it till now, we lived in  wooded area with tall pine trees all around our house, i was in the house looking out the window when i saw a round ship flying 150 feet, it was about 200 feet wide and made no sound, it was almost touching the trees,it had red,green,blue,white,lights moving around the edge of the ship but the rest of it was dark.it i saw it fly over the house and it was gone.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52174.html](http://www.nuforc.org/webreports/reports/052/S52174.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Delray Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Pulsing silent "ultra bright light" in the east skies of Delray BeachAt about 9'ish I went outside on my balcony and noticed a bright pulsing light next to the radio tower.  It was as bright as a phosphorus burn, a "white light" and it pulsed.  I live on a lake, the lights from the tower form a reflection that is a line of light on the lake.  (1) aircraft pulsing red light and (1) light that is on full time.  The white light pulsed next to it for about 2 minutes.  I got my camera and it was full!  (I left it on after the storms and it recorded itself out) I missed the video...  The light lit up a reflection on the lake that was a wider more intense beam than the radio towers and I am sure it was not an aircraft.  If the light was from an aircraft at that altitude and shining that reflection, it would have hit my apartment. When I got the camera ready and the light into frame it just vanished.  Its altitude was less than 300 feet.  It was silent.  It was close enough to light up my lake same as the radio tower.  It was about 1.5 miles from my location. At 9:38 it was gone.  I came in off the balcony.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97964.html](http://www.nuforc.org/webreports/reports/097/S97964.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
