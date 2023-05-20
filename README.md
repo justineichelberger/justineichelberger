@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:28 on 20 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:42 on 20 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Newport (VT) reported seeing craft that fit the description of some 'Light' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>I was sitting in a friends back yard when 6 or 7 lights streamed across the sky. They were following the same trajectory and did not deviate from the same line. It lasted for a total of 2 or 3 seconds. At first we thought it was the Chinese space station debris or a meteor shower, but the lights weren't scattered.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163478.html](http://www.nuforc.org/webreports/reports/163/S163478.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1971, an anonymous witness in Irmo (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>it was flying at 150 feet moving  slow and flew over our house it was round with moving diffent collored lights around the edge.i was 11 at the time this happend and never reported it till now, we lived in  wooded area with tall pine trees all around our house, i was in the house looking out the window when i saw a round ship flying 150 feet, it was about 200 feet wide and made no sound, it was almost touching the trees,it had red,green,blue,white,lights moving around the edge of the ship but the rest of it was dark.it i saw it fly over the house and it was gone.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52174.html](http://www.nuforc.org/webreports/reports/052/S52174.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
