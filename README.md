@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:24 on 20 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:21 on 20 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>two fast spheres orange in color were moving north by northwest over Brooklyn at 23:00 hours on May 20th 2016.On 5th avenue and 16th street looking east by southeast there was two orange orbs moving at twice the speed of the usual aircraft in the sky heading north by northwest.  The first one was almost at 23:00 on the hour, the second was a few minutes later at 23:05.  There was also a high altitude jet moving north, a commercial jet moving west towards newark at a lower altitude and a jet coming in from the south moving towards JFK or Laguaria airport.  The two orange spheres did not have lateral blinking lights, they did not make any sounds like helicopters and the color was almost pumpkin as opposed to the usual yellow/white aircraft color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127433.html](http://www.nuforc.org/webreports/reports/127/S127433.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Winslow (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Three pair of triangle-shaped objects with four lights alternating blinks appeared flying rapidly in the sky.My brother and I were sitting inside the house when he spotted an orange glow through the window in the door.  He asked to to come and look at it through the window.  I too witnessed the bright orange glow that seemed to light up the ground and sky.  We then went outside to get a better look.  Once outside we both witnessed six objects in the sky.  They were grouped in pairs.  There were 4 lights, 3 in front-almost in a row-and one in back, forming a triangle shape on the object.  The light in back was  red-the three in front were white-appearing a bit yellowish-blinking in sequence from left to right.  They were lower in the sky than the stars and lower than most airplanes, moving quite rapidly.  When one object would blink another object would blink back.  One pair flew directly over our heads.  This is when we saw the most detail as discribed above.  The three pairs were spaced in three different directions in the sky all flying in approximately the same direction.  They then disappeared.  It was a very clear night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17747.html](http://www.nuforc.org/webreports/reports/017/S17747.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
