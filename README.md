@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:24 on 20 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:26 on 20 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Panama City (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately brief - brief minutes.</sub><blockquote><sub>I saw a light streak that I thought was a shooting star except upon further attention it was the wrong color and too thick of a trail. By the time the image of the triangle appeared in my eye it was gone.Along the imaginary line where the planets move across the sky, in the southeastern sky at about the spot where Mars would be seen at that time of night on that day, I saw a light streak that I thought was a shooting star except upon further attention it was the wrong color and too thick of a trail. By the time the image of the triangle appeared in my eye it was gone.  The length of the trail was the length of ones hand if you held it at arms length against the sky.  My first impression of what I saw was that I was seeing the underbelly of a plane or something of that sort, but then when I processed the whole event I realized that it couldn't have been a plane that close to the land with that configuration and there wouldn't be a chance to have the underbelly lit like it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08152.html](http://www.nuforc.org/webreports/reports/008/S08152.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Burlington (VT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>On May 20, 1998, at 22:40, I was drawn to my 3rd floor studio apartment window (western side of building) by some noise on the street below. After I located the origin of the noise below my open window, I raised my eyes to look west, out over Lake Champlain which lies between New York state and Vermont. I saw what appeared to be 2 wingtip landing lights from a heavy jet aircraft, such as a Lockheed C-5A Galaxy, yet steady and no noise was heard. I quickly ascertained that the lights were far too spread apart and far too bright to be aircraft lights. After approx. 10 seconds from initial sighting, the 2 lights began to converge, left light moving toward the right light. At 15 seconds the 2 were very close together and began to head in a northerly direction, left to right from my westward looking viewpoint. However, during the last 5 seconds (approx.), the lights became smaller and smaller, then completely vanished at approx. 20 seconds from initial sighting, both still moving left to right.Detailed Report--This sighting occurred while in my 3rd floor studio apartment in my city of residence, Burlington, VT, on or about May 20, 1998, at 22:40.  I was drawn to my window (western side of building) by some noise on the street below.  About 15 teenagers, were skateboarding southbound on the street I live on, producing a low pitch roaring sound on the pavement below.  After watching them for a couple of minutes, they were nearly out of sight.  I raised my eyes toward the western horizon, looking out over Lake Champlain which lies between New York state and Vermont, I saw 2 steady white lights at an elevation of 20 to 25 degrees above the horizon, and 5 times the brightness of the star Sirius, at approx</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03591.html](http://www.nuforc.org/webreports/reports/003/S03591.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163328.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163478.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163323.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163386.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163326.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
