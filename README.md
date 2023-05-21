@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:21 on 21 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:37 on 21 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Orland Park (IL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orland Park UFO sighting blue lights9PM over Orland Park, Ilinois.  We say a huge bright blue light.  Bigger then anything else in the sky. Just hovering for about 40 seconds.  As fast as we saw it, it completely disappeared. Never seen anything like it before in my life.  Was never a believer in this sort of thing but cannot believe what we just witnessed.  It had four blue lights on the bottom of it as it flew away.  Never seen aircraft move like this before.  Simply unreal.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127446.html](http://www.nuforc.org/webreports/reports/127/S127446.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Oregon City (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Between 3AM and 3:30AM I was out walking the dog, I looked to the north Northwest towards the Portland area and saw a bright orange light, circular in shape. I thought it too big to be Mars. I hadn't  seen that light in at part of the sky before and it was bigger and higher than the tv or cell tower lights in the same area. It then disappeared. A few minutes later, I saw what I presume to be a saucer like craft, too dark to know for sure,  with lights, blinking and circling the sides of yellow, orange and another color, I can't remember whether blue or white. I listened for a sound to identify it as perhaps a small airplane, but didn't hear any noise. It flew from west to east. I have never seen flight paths near my home fly that direction. They normally fly from south to north. I watched until it flew behind a tree line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164011.html](http://www.nuforc.org/webreports/reports/164/S164011.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/163/S163455.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163363.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163349.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163438.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163361.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
