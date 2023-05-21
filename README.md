@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:25 on 21 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:20 on 21 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Bauxite (AR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>The object moved left to right very slowly, closed to the ground with lights flashing like strobes.My wife took the trash out last night around 11:30 p.m. central time. I was sleeping she say's the craft was triangle in shape. It had a large round light in center and a number of smaller light's around the edges. It was dark in shape. The lights at the corners blinked seperate from the other lihgt in between at the edges. They blinked at different times. The light in the middle stayed on constantly. All lights were white in color no other color's noted. It moved southwest to northeast. She tells me it took two to three minutes to move across her field of site. Last night was clear and had a long range of view, all stars were and bright out. She is deaf and could not hear if it was making any noise. She say's it was flying very low to the ground 300 to 500 feet off ground. It was approx: 150 feet in size, lager then a 757.  This is the best I can do translate for her.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12934.html](http://www.nuforc.org/webreports/reports/012/S12934.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Oxford (UK/England) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>cigar rotating from end toend the size of 2jumboesSeen at 3PM on the first day of eights week on the thames sorry rubbish at this the river was busy first time crowded for months was it wathing us? i saw it vanish into cloud at6 8000 FT it was the width of my thumb at arms length it was lead colour and followed the river it got higher and vanished from view the odd thing it was rotating from end to end in regular fashion one turn every 20secs one side was shiny like polished the other side matt no sound the other witness were amazed i am aviation fan and seen all flying objects explained but not this</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56954.html](http://www.nuforc.org/webreports/reports/056/S56954.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/163/S163455.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163363.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163349.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163438.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163361.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
