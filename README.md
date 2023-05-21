@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:19 on 21 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:31 on 21 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Concord (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>V-shape, bright white lights, with a green at the nose, no body just wings.  Circled low and slow three times in a long loop, possibly near/over I-85, varied trajectory each time.  Sounded like a heavy plane engine.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127450.html](http://www.nuforc.org/webreports/reports/127/S127450.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1981, an anonymous witness in Pensacola (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Huge Saucer over Pensacola Pass.I was on a beach west of Pensacola Pass.  A huge silver saucer was low and stationary over the Pass.   Navy T-34 planes (from Pensacola NAS) were flying circles around the saucer.  Suddenly, armed Fighter Jets (scrambled out of Eglin AFB) blasted down the beach just above treetop level.  The jets banked hard in front of me and the blast knocked me down.  The saucer started flying south over the Gulf of Mexico and gaining speed.  By the time the jets leveled out from their banking, the saucer already disappeared over the horizon.((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145356.html](http://www.nuforc.org/webreports/reports/145/S145356.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/163/S163455.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163363.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163349.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163438.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163361.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
