@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:33 on 21 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:20 on 21 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately :10 - :10 minutes.</sub><blockquote><sub>I saw a single object this morning. Was a bright silver light. Sun was out. Seemed to be picking up speed to the north and then disappeared. Definitely not a plane!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163352.html](http://www.nuforc.org/webreports/reports/163/S163352.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Dadeville (AL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>round  object, greyish whiteish  in  colorMoving faster  than  a  jet  then hid  behind  clouds. Then  did  not  see  it  come  out  from  clouds.  Day  was  mostly  clear  partly  cloudy.  Was  seen  in  the  east  sun  was  at  1:00 pm.  Greyish  whiteish  round  or  circular  in  shape. Seen  clearly  for  10  seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44088.html](http://www.nuforc.org/webreports/reports/044/S44088.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/163/S163455.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163363.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163349.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163438.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163361.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
