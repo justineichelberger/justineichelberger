@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:33 on 21 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:50 on 21 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in Brady (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Low object over roof of houseMy sister and I saw an object one night in the summer.I'm not sure about the date or time,just that it was night.I only saw the under side and it looked gray metal to me.As far as I can remember.My sister said what she saw had colored lights all over it.She said it sounded like a bunch of engines roaring it was so loud.She wasn't sure what the shape was.I can't remember hearing sound at all.It happened a long time ago and she told me it not anything she had ever seen before.She said it scared her and a couple of her kids real bad.This happened outside Brady Tx((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28719.html](http://www.nuforc.org/webreports/reports/028/S28719.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Palm Beach Gardens (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>white light, no noise, low fly by, watched till it disapearedi saw a bright light heading north pretty low but could not see what it was light was too bright no flashing slow pace no noise light was white. ive seen these before but not this low it was not an aircraft of any airport or military ive been to airshows and know what we have even the sounds. not even a slight noise came from it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63461.html](http://www.nuforc.org/webreports/reports/063/S63461.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/163/S163455.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163363.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163349.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163438.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163361.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
