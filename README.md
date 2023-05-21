@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:21 on 21 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:21 on 21 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Black River Falls (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Several reddish-orange lights in a near figure 8 formation appeared in the south eastern sky for approximately 2-3 minutes, before going out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127445.html](http://www.nuforc.org/webreports/reports/127/S127445.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Clinton (MO) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO photo over Clinton, MO submitted by witness via email to the UFOMIG.com investigatorMissouri Investigators Group received a digital photo of the ufo on 6/9/04 from the witness in Clinton via email forwarding it to NUFORC via email (Peter-I'm sending it to ufocntr@nwlink.com and director@ufocenter.com BA). I've added the negative image at the bottom of the photo enhancing the two questionable objects in motion. The UFO seen over Clinton is the big orange light in the bottom of the photo. However the witness did observe a smaller blue light moving on its nearby left side when looking at it through binoculars. The smaller white light at the top left in the photo is identified as a street light by the witness.  So the bottom two lights do appear to be the ones in motion in the photo are the UFOs. Be sure to read the original UFO report by witness on 5/21/04 for reference. Brian Adams, UFOMIG.com((NUFORC Note:  We express our gratitude to Brian Adams, of UFO Investigators Group, for submitting the report.  PD))((NUFORC Note:  We express our sincere gratitude to the MISSOURI INVESTIGATORS GROUP, and to its Director, BARBARA BECKER, for their having shared this report with our Center.  If you have had a sighting in Missouri, please consider contacting that organization, at the website above, to share your sighting with their investigators, in addition to submitting a report to NUFORC.  Thank you!!  PD)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37510.html](http://www.nuforc.org/webreports/reports/037/S37510.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/163/S163455.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163363.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163349.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163438.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163361.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
