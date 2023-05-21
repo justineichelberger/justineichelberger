@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:25 on 21 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:18:44 on 21 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Stouffville (Canada) (ON) reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Tapping and large red light in my yard. Then it disappeared. Did not see a shipWoke up to tapping on the glass sliding doors in the bedroom. Sounding like a insect flying into the glass. I sat up to see what it was and couldn’t see anything. My husband heard the noise and asked what is was. At that time I looked out into the yard seeing a large red light in the trees on top of the hill. As soon as I asked my husband to look at the light. It disappeared and the tapping stopped. Was very unsettling!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163321.html](http://www.nuforc.org/webreports/reports/163/S163321.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Ottawa (Canada) (ON) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>It hovered and its pattern of lights were changing.Full Description of event/sighting: As my boyfriend and I were on our way home from work, I looked up and noticed what appeared to be a plane about to land at the nearby airport. It was V-shaped with plenty of bright lights and was very close to the ground. As we drove closer, the object appeared to change shape from a V to an oval shape. It also picked up speed and started travelling in the same direction that we were going (east) and by this time it appeared to be quite far off. I wasn't sure if I was seeing things right - I thought perhaps that these lights were a reflection on the windshield or something but my boyfriend verified what I saw. I was still doubting what I was seeing so I stuck my head out the window because I wanted to see the object with my bare eyes. As we were turning into our driveway, the flying object seemed to stop abruptly and then started to approach out direction (west) and as it was doing so, got much closer to the ground (I'm not sure how low). We got out of the car and stood at the end of the driveway to watch to see where it was going. It hovered and its pattern of lights were changing now from random and extremely fast flashing to 5 bright white lights. It was really hard to tell how far away the object was at this point but we both new that it was a lot closer than before. It did not appear that the lights were attached by any one object; rather, it was as though they were together in a group formation. As it was hovering it was "pacing" north and south very slowly. As we walked closer to the door a red/pink light appeared and it seemed as though it were trying to hide from our sight now. Then as we were walking in the door, it hovered back into our view. I absolutely could not believe what i was seeing. My boyfriend's witnessing to it was the same as mine. It just so happened that as we immediately turned on the TV in our room, a program came on television that was about UFO sightings. It was too odd to be a coincidence. Has anyone else had an experience like my boyfriend and I have had?  Thank you to the witness for the report. Brian Vike, Director HBCC UFO Research Home - Phone 250 845 2189 email: hbccufo@telus.net Website: http://www.hbccufo.com Redirect: http://www.brianvike.com Redirect: http://www.hbccuforesearch.com</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37125.html](http://www.nuforc.org/webreports/reports/037/S37125.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/163/S163455.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163363.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163349.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163438.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163361.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
