@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:25 on 21 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:19 on 21 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Ely (MN) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>it was a orange cirgar shaped thing that we saw in the bwca in mn.the ufo was a orange cirgar shaped thing. me and one of my friends were camping in the bwca when we saw it. it was partly cloudy and it moved back and forth for about an hour. there was only one. there was a fighter jet that we saw coming at the end of the siting it looked like it was chasing the ufo. thats when it left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23606.html](http://www.nuforc.org/webreports/reports/023/S23606.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Concord (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>V-shape, bright white lights, with a green at the nose, no body just wings.  Circled low and slow three times in a long loop, possibly near/over I-85, varied trajectory each time.  Sounded like a heavy plane engine.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127450.html](http://www.nuforc.org/webreports/reports/127/S127450.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/163/S163455.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163363.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163349.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163438.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163361.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
