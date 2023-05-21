@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:34 on 21 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:25 on 21 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Blue circle light that hovered, flew left and right, then descended.Was on balcony of apartment talking with my boyfriend when i noticed a bright very blue light.  Normally, i would dismiss as a helicopter but have never seen one with such a blue light before.  As we talked, i watched as it slowly descended perfectly straight down then hovered still in the sky.  Then it glided straight and perfect to the right about a half fields distance.  Then it glided perfectly straight to the left in the opposite direction.  Then glided on the same perfectly straight path back to the middle and slowly descended perfectly straight down.  It was a perfect cross it traveled now that i think about it.  As far as I've known, there are no known air crafts that can move so perfectly and at such sharp angles.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119215.html](http://www.nuforc.org/webreports/reports/119/S119215.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Stouffville (Canada) (ON) reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Tapping and large red light in my yard. Then it disappeared. Did not see a shipWoke up to tapping on the glass sliding doors in the bedroom. Sounding like a insect flying into the glass. I sat up to see what it was and couldn’t see anything. My husband heard the noise and asked what is was. At that time I looked out into the yard seeing a large red light in the trees on top of the hill. As soon as I asked my husband to look at the light. It disappeared and the tapping stopped. Was very unsettling!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163321.html](http://www.nuforc.org/webreports/reports/163/S163321.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/163/S163455.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163363.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163349.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163438.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163361.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
