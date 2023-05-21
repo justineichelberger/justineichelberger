@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:20 on 21 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:26 on 21 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Oxford (UK/England) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>cigar rotating from end toend the size of 2jumboesSeen at 3PM on the first day of eights week on the thames sorry rubbish at this the river was busy first time crowded for months was it wathing us? i saw it vanish into cloud at6 8000 FT it was the width of my thumb at arms length it was lead colour and followed the river it got higher and vanished from view the odd thing it was rotating from end to end in regular fashion one turn every 20secs one side was shiny like polished the other side matt no sound the other witness were amazed i am aviation fan and seen all flying objects explained but not this</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56954.html](http://www.nuforc.org/webreports/reports/056/S56954.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in West Monroe/Cadeville (LA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>8 crafts in diamond form descending then shoot away in opposite direction.8 lights in a diamond formation descending from 3-4000 ft to 300/-ft within 7 minutes then shoot away from each other at ultra high speed, within a millisecond/-</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109403.html](http://www.nuforc.org/webreports/reports/109/S109403.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/163/S163455.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163363.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163349.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163438.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163361.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
