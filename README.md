@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:26 on 22 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:26 on 22 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Ireland () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>UFO BRIGHT LIGHT IN SKYMOVED ACROSS CLEAR SKY THE DISAPEARD AND NO CLOUD IN SIGHT WAS NOT AIR CRAFT AS NO SOUND((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75505.html](http://www.nuforc.org/webreports/reports/075/S75505.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Denton (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Denton TX Green ball shaped object moving upward at a fast rateSitting out side having a cig. Looked like a storm coming in so I was lookin up at the sky.  I seen a ball shaped light green object with what seemed to be a black circle (ora) around it moving straight up. It Moved pretty fast not so fast that I couldnt follow it with my eyes and try to make it out but fast enough where I lost it after a few second in the clouds. Lets put it this way In the 21 years that I have been a live I havent seen anything move nearly that quick and that smooth. Also it was fairly close and it didnt make a sound. Seen on 5/22/07</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56776.html](http://www.nuforc.org/webreports/reports/056/S56776.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/163/S163350.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163369.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163476.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163334.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163356.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
