@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:18:32 on 22 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:30 on 22 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Oak Creek (WI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>silver balls with vapor trail.was sitting on my porch watching the sunset when i started seeing siver sparkly balls with vapoor trials. thought they were just ice meteors till one changed directions and flew over my apt building. i have a video and a picture.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90152.html](http://www.nuforc.org/webreports/reports/090/S90152.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.0026666666666666666 - 0.0026666666666666666 minutes.</sub><blockquote><sub>Fast moving object fly towards the horizon in 0.16 secWhile reviewing family vacation videos, a fast moving UFO was captured during 5 frames of video (30 fps recording).  It appeared over ourselves moving towards the horizon.  It took the object 5 frames to cross the entire visible sky towards the horizon.Attaching 6 frames of the video, first one without the object as reference when the object enters the frame.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146735.html](http://www.nuforc.org/webreports/reports/146/S146735.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/163/S163350.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163369.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163476.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163334.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163356.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
