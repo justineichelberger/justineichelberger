@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:28 on 22 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:26 on 22 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Sacramento area (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I was showing my daughter the night sky over Roseville, in Placer County next to Sacramento County were I live, (1 mile out of Sac CO)When we saw a light that looked like a small star. I told her that is was probably just a satilite passing over, but then I realized that because of the lights in the city we shouldn't be able to see it. I have no idea what it is, but it was strange. I can give you the aproximate location in the sky if you wish. Just e-mail me back. ((name deleted)) in Citrus Heights CA.It looked like a faint star. I don't think it could have been an aircraft as it moved too fast across the sky. When I was younger I had seen a ssatilite pass over while sky watching in the mountians in CA. I was a Boy Scout then and was on a merit badge sky watch. However I shouldn't be able to see this here as we are so close to the city lights that we can't se alot of the stars out there not even the Milky Way!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07885.html](http://www.nuforc.org/webreports/reports/007/S07885.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Golden (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>there were two orange lights coming from over Lookout Mountain antennas.  They made no sounds, they moved towards us then stopped then moved together then one slowly moved up the other down and then disappeared there was no cloud cover for them to disappear in.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134244.html](http://www.nuforc.org/webreports/reports/134/S134244.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/163/S163350.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163369.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163476.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163334.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163356.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
