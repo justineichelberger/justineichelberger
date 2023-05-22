@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:22 on 22 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:21 on 22 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Trumbull (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>As I looked in the sky being a very clear night looking for shooting stars, next to the big dipper I see what appears to be a star but after watching it move across the sky away from the dipper at a steady pace and I watched it just disappear in the night sky. It was really high no planes fly that high plus it was stationary when I 1st witnessed it. I never witnessed something so amazing. Soon after towards the left of me I see a shooting star fly across the opposite side which I thought was crazy since I looked up to see if I would see 1 out of the blue and bam there that was. I don't know what else it could be but a UFO. Really cool to see. Bright and lite up all around. White light</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156631.html](http://www.nuforc.org/webreports/reports/156/S156631.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Waukesha (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>30+ objects moving across the night sky. I've never seen anything like it before.Between 10 - 10:30 pm I observed 30+ objects flying across the sky in single file formation. They were uniformly spaced. They were too high to photograph & just looked like white lights. They were flying Northeast. I called my son's girlfriend out and she observed the last maybe 10 or so of them as they flew out of range.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163472.html](http://www.nuforc.org/webreports/reports/163/S163472.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/163/S163350.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163369.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163476.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163334.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163356.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
