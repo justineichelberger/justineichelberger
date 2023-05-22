@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:26 on 22 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:24 on 22 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Ottawa (IL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Took three pics all within 15-20 seconds of each other. I was not taking a pic of the object and only notice it when reviewing pic.Ottawa Illinois. Corner of W McKinley and Dairy Ln looking west. Friday May 22 2020 at about 0910.Took pictures of cloud formations.  Did not see any objects in pictures until I stopped the vehicle about 30 seconds after taking pictures.  The first picture shows what I believe to be a bird.  The second and third pictures show something else.  The object just looked like a white spot.  Didn’t seem to be a cloud.  When zoomed  though...... it sure the heck looks like the navy tic-tac to me.  First pic taken through windshield.  2nd and 3rd taken with no obstructions.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156673.html](http://www.nuforc.org/webreports/reports/156/S156673.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Billings (MT) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>One round-ish object splitting into 4 in broad daylight.I heard a plane with a propeller and looked up and there was a round-ish silver object near it in my field of view but much higher up.  I focused on the object, thinking it might be a balloon and watched it for about 5-6 minutes.  It was flying or drifting toward the Southwest.  The object started jerking around and moving sporadically which made me watch it even more closely.  I then saw a plane in my peripheral vision flying almost right at the object from the East.  I looked at the plane and when I looked back the 'UFO' split into 4 parts and took on a different color, like a yellow-ish color.  Then the 4 parts just flew around with each other, sometimes it looked like one was leading the others and they were flying in formation or performing.  They were heading North and eventually got so far away that I lost track.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109369.html](http://www.nuforc.org/webreports/reports/109/S109369.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/163/S163350.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163369.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163476.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163334.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163356.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
