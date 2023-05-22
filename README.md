@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:22 on 22 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:24 on 22 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Orange Park (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>White DOT observed at 1300 hours - Orange Park, FloridaAt approximately 1300 hours on May 22, 2020, I was waiting outside of Sonny’s BBQ on Kingsley Avenue in Orange Park, Florida. Looking North across Kingsley Avenue is a construction crane, with the boom facing East, at the Orange Park Medical Center. Maybe one or two degrees above, and halfway of the boom, there was a bright white dot against a blue sky. The dot was not navigating as if it were a balloon or aircraft, but maybe as if it was a Bald Eagle. The dot moved slowly with respect to our location on the ground, and moved from two degrees above the boom to maybe near 20 degrees. It made gradual loops as it transitioned higher and higher in reference to the original location. The dance in the sky lasted for about three minutes before the object accelerated away Northeast at a flash of a speed. A Retired Navy Chief friend, and a couple standing next to me also observed the object, but had no idea what it may be.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156644.html](http://www.nuforc.org/webreports/reports/156/S156644.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Holladay (UT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>6x saucers, bright amber colored, flying in formation, no sound at all.I saw 6 of these flying in a rectangular formation for about 4 minutes, then 3 on one side headed northwest and the 3 on other side of the formation headed southwest at a very high speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113153.html](http://www.nuforc.org/webreports/reports/113/S113153.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/163/S163350.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163369.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163476.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163334.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163356.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
