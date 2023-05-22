@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:28 on 22 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:22 on 22 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Nashville (TN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>this thing was really there  I was sitting in my living room watching TV, when i felt a buzzing in my left thigh at first i thought it was my cell phone on vibrate then i noticed it laying on the table. when i saw a light flash past my back door. my puppy looked at the door and started to bark. i got up and went to the door to see what gave of the light and scared my dog. when i got to the door i looked out and saw a saucer shaped craft hoovering about one hundred yards from my house. i said outloud that nobody will believe this crap. as i turned to go get my video camera two of these little things were in my livingroom. they had the typical look that every says. i noticed a small line around one of their wrists then i took off out the door i left dog and everything. i ran down the street and looked back and my puppy was coming. i hid behind a trash dumpster and looked back at the house i didn't see anything at the house but i looked for the craft and it was still there. some guy came down the street in his car and stopped he stepped out of his car without closing the door and looked i was to scared to yell for him. then he jumped back in his car and sped off. it seemed like i stayed there for a few minutes but when i got back to the house it was three in the morning and my dog was under my bed whining.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63764.html](http://www.nuforc.org/webreports/reports/063/S63764.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Orange Park (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>White DOT observed at 1300 hours - Orange Park, FloridaAt approximately 1300 hours on May 22, 2020, I was waiting outside of Sonny’s BBQ on Kingsley Avenue in Orange Park, Florida. Looking North across Kingsley Avenue is a construction crane, with the boom facing East, at the Orange Park Medical Center. Maybe one or two degrees above, and halfway of the boom, there was a bright white dot against a blue sky. The dot was not navigating as if it were a balloon or aircraft, but maybe as if it was a Bald Eagle. The dot moved slowly with respect to our location on the ground, and moved from two degrees above the boom to maybe near 20 degrees. It made gradual loops as it transitioned higher and higher in reference to the original location. The dance in the sky lasted for about three minutes before the object accelerated away Northeast at a flash of a speed. A Retired Navy Chief friend, and a couple standing next to me also observed the object, but had no idea what it may be.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156644.html](http://www.nuforc.org/webreports/reports/156/S156644.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/163/S163350.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163369.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163476.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163334.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163356.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
