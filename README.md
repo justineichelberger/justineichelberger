@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:24 on 21 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:28 on 22 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Maple Grove (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright variable speed light over Maple Grove, MN.Observation time is +/- 5 mins, as I did not look at time until discussing observation with other witnesses.  While sitting on my deck with family, I witnessed a bright light in the southern sky, perhaps 30 deg. above horizon, moving quite quickly to the north trending west slightly.  I thought it might be an airplane reflecting sunlight as it was not far past sunset, or satellite; but the light was very intense even for either of the mentioned options.  I pointed out the light to my family, my father saw it right away.  The light started to slow down until it reached maybe 45 deg. above the horizon.  It then stopped in place, became less intense and then winked out.  My father who would normally disagree with any possibility of such an event even agreed that it was an extraordinary event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127444.html](http://www.nuforc.org/webreports/reports/127/S127444.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Spicer (MN) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>30 lights flying in a perfect line.  Moving very fast. Moving Northeast.((NUFORC Note:  We suspect that the date is incorrect, and should be 05/24/2019.  We will contact the source to confirm.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146356.html](http://www.nuforc.org/webreports/reports/146/S146356.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/163/S163455.html)
-- [298](http://www.nuforc.org/webreports/reports/163/S163363.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163349.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163438.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163361.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
