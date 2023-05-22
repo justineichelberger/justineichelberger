@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:22 on 22 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:26 on 22 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Columbia (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately Approx.1M - Approx.1M minutes.</sub><blockquote><sub>Noticed a lighted shape plowing through light cloud cover.Took dog for a ride. Stopped on road at Hwy 70 and Bernadette Dr. to look at sky. Facing northeast. Noticed what seemed to be a small whitish cloud captured in a light cloud cover hanging over Columbia. (Stars were visible through clouds.) Then noticed that the little cloud was moving to the north. At first it just looked like a cloud moving through the sky. But as it moved it kept its cambre. It looked like a ship plowing water; the front was raised. AS it got a little closer to us I could see that there was a more brightly lit area at the front. The general appearance was oval.  There was a bright area, a point of light at the front, followed by a lighter area which trailed off in a tail which lengthened and shortened (dissipated) as it moved. The speed seemed constant.  (The "body/oval" was about 1 inch at arms length and the "tail" as long as three inches.)  We watched it for about a minute till it moved off to the north.  It was low eneough that it seemed to be reflecting the lights from Columbia Mall. As it moved north and away from the lights the "cloud" no longer reflected the light, subsequently we lost sight of it. Planes were easily visible as were the stars and planets.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07873.html](http://www.nuforc.org/webreports/reports/007/S07873.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Spicer (MN) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>30 lights flying in a perfect line.  Moving very fast. Moving Northeast.((NUFORC Note:  We suspect that the date is incorrect, and should be 05/24/2019.  We will contact the source to confirm.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146356.html](http://www.nuforc.org/webreports/reports/146/S146356.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [306](http://www.nuforc.org/webreports/reports/163/S163350.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163369.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163476.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163334.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163356.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
