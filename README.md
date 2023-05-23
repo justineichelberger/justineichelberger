@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:27 on 23 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:28 on 23 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Santa Claus (IN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 114</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156840.html](http://www.nuforc.org/webreports/reports/156/S156840.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Columbus (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright amber lights travelling toward airport and army baseI was in the process of getting a few items out of my car before going into the back yard and sit by the pool, admire the full moon, and make a phone call.  I don't recall why I looked up into the sky but I looked up and there were two amber colored lights floating across the sky.   A small airport is 2-3 miles away so I am accustomed to seeing objects in the sky but nothing like this.I have been an airplane buff since I was a kid and, even as an adult, I still look up to the sky when aircraft pass over.  I know that airplanes have red and green blinking lights and that's what caught my attention, the fact that they were steady lights and amber-colored.  They looked to be fairly low-flying, perhaps no more than 500 ft above me and flying over the spot 200 yards away from where I was standing.As I saw these two lights coming in my direction, at first I thought, "That is something big, because I was thinking it was the lights on the front of a plane's landing gear.  But then I could determine space between the two lights, with sky in the background, and I realized it was two separate entities.I listened for sound but heard absolutely nothing.  No propeller, no jet engine, zero sound.  Even with the light of a full moon, I could not determine the shape of any sort of craft.  They just looked like two bright lights floating across the sky.The lights were traveling at a steady velocity and did not deviate from each other. They were traveling towards the southwest, directly at the airport.  Also in the southwest direction, a few miles beyond the airport, is a large U.S. Army base.  Thus, at the time, I thought I was seeing some sort of experimental military aircraft.I watched the lights for as long as I could see them. They seemed to slow down as they approached the approximate vicinity of the airport but that may have simply been an illusion as they got farther away from me. Eventually, they were hidden by the trees and I could no longer see them so I don't know what direction/action they took once they reached the airport.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98100.html](http://www.nuforc.org/webreports/reports/098/S98100.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/163/S163462.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163373.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163463.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163898.html)
-- [255](http://www.nuforc.org/webreports/reports/163/S163697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
