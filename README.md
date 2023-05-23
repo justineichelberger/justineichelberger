@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:34 on 23 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:29 on 23 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Virginia Beach (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>lights moving quickly in skythere was a bright orange light off to my left that moved in wierd patterns and zipped through the sky in seconds then fadding out then comming back and doing new manuvers. f14 chased the objects and they moved out the way. later there appeared 2 more on my left that did the same thing and had a halo around them. sorry for the breif description im at work</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17783.html](http://www.nuforc.org/webreports/reports/017/S17783.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A nuclear explosion , high in the atmosphere...... Mushroom cloud went wsy up high... It must of been higher than i originally thought because it was very dim....  Still noticeable i could make out a mushroom cloud.  It had to be in the stratosphere if not higher…</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146119.html](http://www.nuforc.org/webreports/reports/146/S146119.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/163/S163462.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163373.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163463.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163898.html)
-- [255](http://www.nuforc.org/webreports/reports/163/S163697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
