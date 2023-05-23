@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:34 on 23 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:27 on 23 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>15 black dots making formations and staying in the same spot for 15 minutesIt was sometime in 2002 I think. I was outside with my friend mowing the lawn then I looked up and saw these little black dots about...15 of them at first I thought oh they're just birds, I looked back 3 minutes later and they were in the same spot going into a circle formation and out in and out in and out, then 3 zoomed off and then one minute later came back then in a different direction and came back and that happened about 5 times then they all zoomed off in different directions...((NUFORC Note:  Witness indicates that date of sighting in 2002 is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48910.html](http://www.nuforc.org/webreports/reports/048/S48910.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Kent (NE) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Triangle Shaped UFO that was Huge!  I was about 6 years old then. It was at a friend’s house. It was dark outside and I was on my way inside. I saw three lights in a triangle form with one big light in the center of the other three.  It was moving effortlessly and silently. It was about the size of an F-117 Stealth. But it stopped! It moved away from me and up in an "S" maneuver. And faster than anything I’ve ever seen even up to this date, it was gone.But what really spooked me was that when my friends and I were playing tag in the dark I thought I saw one of my friends with his shirt off. But because I didn’t have my glasses on, I walked up close to him but he didn’t move until I got very close to him and then he just ran off. Then when I saw him later he had his shirt on. And when I asked about it he said he never took it off.He had no reason to lie about it. What was it that I saw out there? Was It just him?((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56311.html](http://www.nuforc.org/webreports/reports/056/S56311.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/163/S163462.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163373.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163463.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163898.html)
-- [255](http://www.nuforc.org/webreports/reports/163/S163697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
