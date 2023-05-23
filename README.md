@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:22 on 23 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:34 on 23 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Tamborine (Australia) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>It was amazing to look at as I knew I was looking at something very unusual.Looked up into the sky and saw a bright white disc passing over the clouds, light, high, wind clouds in strips. It was moving slowly, then stopping, moving then stopping. Going too slow for a plane and didn't look like one. I went inside to get the binoculars and when I came out it was gone, no sign of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17749.html](http://www.nuforc.org/webreports/reports/017/S17749.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Virginia Beach (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>lights moving quickly in skythere was a bright orange light off to my left that moved in wierd patterns and zipped through the sky in seconds then fadding out then comming back and doing new manuvers. f14 chased the objects and they moved out the way. later there appeared 2 more on my left that did the same thing and had a halo around them. sorry for the breif description im at work</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17783.html](http://www.nuforc.org/webreports/reports/017/S17783.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/163/S163462.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163373.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163463.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163898.html)
-- [255](http://www.nuforc.org/webreports/reports/163/S163697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
