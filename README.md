@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:41 on 23 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:23 on 23 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Tranquillity (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>bright white lite near Tranquillity/ MendotaWhile I and my girlfriend where driving home on Whitesbrige (180) west I was looking straight toward the city of Mendota and up in the sky appeared this bright illuminated white light. She said it was a plane, but I've seen a plane at night and this (UFO) didnt have no flickering lights like planes do at night. It was moving slow to the left and as if it was turning to the left cause the white light would get brighter and than it dissappeared. Than like a minute later we seen it again, this time we were going south on James and seen it as if it was like in the foothills near I5.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50736.html](http://www.nuforc.org/webreports/reports/050/S50736.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Arcadia (outskirts of) (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Summary : Me and my friend were traveling down I-75 towards Arcadia, Fl. when we saw a very bright pulsating white light hovering in a clearing, after we passed it going 70 mph it began to follow us traveling just above the treeline, even after we went over a hill it still was behind us. It was blinking slower than an aircraft strobe light so I know that it was'nt any type of airplane, especially because there was no visible wings or fuselage. The light was so bright that it was lighting up the sky all around it. I followed for about 3 minutes and than quickly acclerated towards a small town and disappeared. Me and my friend who are both college students, I am 21 he is 25 were traveling down I-75 northbound towards Arcadia, Fl on the way to a camping trip, it was early Saturday at about 4:00 am when we saw a very bright pulsating white light hovering in a clearing, after we passed it going 70 mph it began it rise up and began to follow us traveling just above the treeline,there was no smoke trail or any sign of a purpolsion sytem. It seemed to be only a couple of feet in diameter, with no discernable shape. Throughout the entire sighting it kept at the exact same distance on the other side of the Interstate heading towards the oncoming traffic, even after we went over a hill it still was behind us. It was blinking slower than an aircraft strobe light so I know that it was'nt any type of airplane, especially because there was no visible wings or fuselage. The light was so bright that it was lighting up the sky all around it. I followed for about 3 minutes and than quickly acclera! ted towards a small town and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02611.html](http://www.nuforc.org/webreports/reports/002/S02611.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/163/S163462.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163373.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163463.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163898.html)
-- [255](http://www.nuforc.org/webreports/reports/163/S163697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
