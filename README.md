@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:27 on 23 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:41 on 23 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Statesville (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange/Red light:  Stationary for about 3 or 4 minutes. Then it dimmed its light(s) and took off North... out of sight!Saw this while relaxing outside on my deck.  There was a full moon, and I was enjoying the light it reflected onto the landscape when I saw an orange/red light:  I thought it could be a planet or close star, as it was stationary for about 3 or 4 minutes... (It was over the trees, but I could not tell distance or size of the object.) Then suddenly it dimmed its light(s) to about 25% illumination and began slowly to travel to my right (north), and then it accelerated quickly and - zoom! - it was out of sight... WOW!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44098.html](http://www.nuforc.org/webreports/reports/044/S44098.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Tranquillity (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>bright white lite near Tranquillity/ MendotaWhile I and my girlfriend where driving home on Whitesbrige (180) west I was looking straight toward the city of Mendota and up in the sky appeared this bright illuminated white light. She said it was a plane, but I've seen a plane at night and this (UFO) didnt have no flickering lights like planes do at night. It was moving slow to the left and as if it was turning to the left cause the white light would get brighter and than it dissappeared. Than like a minute later we seen it again, this time we were going south on James and seen it as if it was like in the foothills near I5.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50736.html](http://www.nuforc.org/webreports/reports/050/S50736.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/163/S163462.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163373.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163463.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163898.html)
-- [255](http://www.nuforc.org/webreports/reports/163/S163697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
