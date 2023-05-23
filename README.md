@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:27 on 23 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:29 on 23 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Henrico (NC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright white lights to saucers to gelWatching the sky with my sister and husband as we had seen ufos the week before(bright white lights).We wanted my sister to see and she did see the same bright white lights.  Around midnight we were about to call it a night. My sister and husband both started looking at their phones. At that instance ...6 different “spacecraft” appeared before. Each lighting up at a different time. 6   Then 4 more lit up the same way.  By the time I got sisters attention they were gone.  Sister went home.  My husband and I watched for a little bit more on our deck.  Then strangely one of the bright lights started in the sky above tree line and ended up disappearing right in front of me.  I came in a drew what I saw.  I still have that.  The next day I told my sister about the last one that seemed to disappear in front of me and she asked if I looked at that spot.  I pointed to her where it was and she found some sort of gelled glob about 1 inch.  Why we didn’t take picture I can’t explain.  We took a stick and poked on it and it seemed to disintegrate.  ( we had 3inches of rain the days bef! ore).  The brights lights were unexplainable by itself, but the craft that I saw amazing</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156690.html](http://www.nuforc.org/webreports/reports/156/S156690.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Allen Park (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>On my way home Tue 22 may I was heading east on I-94,turned south on southfield road,which is a two lane divided highway.Thats when I noticed 3 bright lights comming toward me.My first though was that aircraft is really low and slow.I'm an aircraft mechanic by trade and have been around planes for 30 years.I slowed down my car to around 20 mph and rolled down the window,there wasn't any noise.It seemed to be approx.1000 feet above me going about 20 mph,It was an elongated triangle with bright lights at each point.It passed over me and I turned down a side street to turn around which took about thirty seconds.stopped my car and got out. it was gone.The next day I told the guys at work an they were kidding me.They know that I'm not a b.s.-er.Yesterday one of the guys at work saw a news program and there were other people who saw the same thing as I did.((NUFORC Note:  An exceptionally dramatic sighting by a person who has more that 30 years of experience in the aircraft industry.  He reports that the object was larger than a Boeing 747.  The object passed directly over Interstate 94, and the rotating red beacon in the center of the craft, the witness reports, passed directly above his vehicle.  A 19-minute audio interview with the witness can be heard at <http://dbarkertv.com/allen_park.htm>, an exceptional website, dedicated to several dramatic UFO sightings, maintained by Mr. Darryl Barker in Illinois.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17843.html](http://www.nuforc.org/webreports/reports/017/S17843.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/163/S163462.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163373.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163463.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163898.html)
-- [255](http://www.nuforc.org/webreports/reports/163/S163697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
