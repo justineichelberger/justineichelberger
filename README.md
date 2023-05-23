@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:29 on 23 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:27 on 23 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A nuclear explosion , high in the atmosphere...... Mushroom cloud went wsy up high... It must of been higher than i originally thought because it was very dim....  Still noticeable i could make out a mushroom cloud.  It had to be in the stratosphere if not higher…</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146119.html](http://www.nuforc.org/webreports/reports/146/S146119.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Simi Valley (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>5/23/08 circular orange fire ball object went from 1 to 2 objects and droped embersHello,    My name is Sondra...I have lived in Simi Valley for 17 years.  I am writing to ask, did anyone report or comment on, seeing anything unusual, in the sky, Friday night (5/23), around 11:00pm?  My husband and I witnessed a bright orange circular object, at first hovering then traveling toward us, from the south skies over Simi. While watching we both noticed the object released a smaller light (maybe ambers) that dropped toward the earth, into the hills to the South of Simi. Of course it could have been further away. Then the object came toward us, closer, becoming larger the closer it got. When it seemed to be over LA Ave, it suddenly turned West and picked up speed. It did not pulse, it did not change color but it did become what looked like two round lights. I thought it might be a fireball, or comet but my husband said it looked like two perfectly round lights, like headlights of a car, only in the sky and orange.  We have a pair of very strong binoculars and could see this object close up. All we could see were the lights.  Two of them staying proportionally together during the entire event. My question is, did anyone else, that you know of, report seeing this?  This event lasted 10-15 minutes.  Surely someone else had to of seen this!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63559.html](http://www.nuforc.org/webreports/reports/063/S63559.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/163/S163462.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163373.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163463.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163898.html)
-- [255](http://www.nuforc.org/webreports/reports/163/S163697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
