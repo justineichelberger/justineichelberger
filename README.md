@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:30 on 23 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:22 on 23 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Globe (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Srange light appeared over San Carlos May 23I have a rather lousy picture (cell phone).  I was observing the night sky at my cabin on El Capitan pass south of Globe AZ.  The object (light) suddenly appeared and appeared to 'hover'.  The object was pretty far away (possibly over San Carlos, AZ) and at a high altitude (40K ft? approximately the same altitude as jet traffic).  What made it unusual is that the light suddenly appeared and it wandered slightly (was not in a fixed position in the sky).  Occasionally, it would move slightly at seemingly high speeds as if to correct position or as it was having difficulty with a stable hovering position.  It is not unusual for the military to perform exercises over this area.  I do not wish to be contacted, just reporting what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134193.html](http://www.nuforc.org/webreports/reports/134/S134193.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Richmond (VA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>BIG FIRE BALL ON I-64 MAKING AN AWFUL SOUND.  SHOT TOWARDS THE GROUND AND THEN EXPLODED.((NUFORC Note:  We suspect that the report is a hoax.  The source elects to remain totally anonymous, and provides no contact information.  Date is flawed.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109647.html](http://www.nuforc.org/webreports/reports/109/S109647.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/163/S163462.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163373.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163463.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163898.html)
-- [255](http://www.nuforc.org/webreports/reports/163/S163697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
