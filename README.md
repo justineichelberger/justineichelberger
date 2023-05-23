@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:27 on 23 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:25 on 23 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Hayward (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>UFO in Hayward, CA , more activity seen within last couple of days by others.There is a lot of air traffic just to the south of where I live. It was warm outside so I decided to go out and look at the stars. Light pollution was fairly low and the moon wasn't out. From the east a light travelling much slower than the air traffic came over the ridge and made movements that were not consistant with commercial airliners or helicopters. There where no blinking lights, no sound, and I couldn't identify any solidity due to the intensity of the orange light. I took pictures with a disposable camera which show the light and also a commercial airliner in the same frame. I hope they turn out. I tried to call a friend to come look out of their house but my cell phone made a weird noise then cut out. I later went inside and called, it worked fine. I talked to the same friend and they said that a lot of sightings have been in the area latey and some during broad daylight. He also said, "it's a wonder the press isn't doing more to address it. But you know." I looked on your site to see if anyone else had seen the same thing but it looks like updates take a while. I hope the film I have turns out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28985.html](http://www.nuforc.org/webreports/reports/028/S28985.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Mainville (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>UFO OVER MAINVILLE / MASON, OHIO 5-23-2009My family and I were all celebrating my nephews 10th birthday, on May 23, 2009. At approx 9:55pm my partner noticed three (3) individual orange-ish/white-ish lights in the sky. He yelled out, "Oh my GOD, look at that!" so we all turned to look. What we seen we weren't prepared for. It appeared to be a triangular "UFO". These three (3) lights looked as if to be fireballs, with tracing firey tails. They were ALWAYS changing form, from a triangle, to a straight line, and back to a triangle formation. They flew acrossed the sky a bit, however toward the end of the event, they remained stationary. I ran inside to find my camera, and shot some of the final moments on film. The last few seconds they appeared to be falling, as a leaf would. As the "crafts" descended toward the ground, we noticed a plane flying around the same site in which the lights (crafts) were. There were many witnesses (15+). I have had a "UFO" experience once before, however this event is totally unlike ANYTHING I have ever seen before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70186.html](http://www.nuforc.org/webreports/reports/070/S70186.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/163/S163462.html)
-- [258](http://www.nuforc.org/webreports/reports/163/S163373.html)
-- [257](http://www.nuforc.org/webreports/reports/163/S163463.html)
-- [256](http://www.nuforc.org/webreports/reports/163/S163898.html)
-- [255](http://www.nuforc.org/webreports/reports/163/S163697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
