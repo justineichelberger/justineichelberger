@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:32 on 24 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:30 on 24 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Burkesville (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A flashing light that changed directions three times and then streaked out of sight.I saw a UFO may 24 2009 at 11pm or I think it was a UFO. We was on a camping trip to dale hollow lake when we saw it, We was standing at the campsite and I looked up at the beautiful sky and all at once I saw a flashing light streaming across the sky at an extremely high rate of speed. I looked at two of my friends and pointed it out and one of them said it a shooting stare, I told her shooting stars don’t blink and all at once it stopped moving and changed direction three times and then streaked out of sight. I have never believed in UFOs but I have racked my brain on what it could have been and have come up empty. I would have never told any one if three of us had not witnessed it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70466.html](http://www.nuforc.org/webreports/reports/070/S70466.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>The craft had a long string of lights, perfectly straight, with 7 lights stretching the expanse,((NUFORC Note:  We suspect that the date should be May 24, and that the source, who remains anonymous, witnessed the SpaceLink satellites.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146306.html](http://www.nuforc.org/webreports/reports/146/S146306.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/163/S163453.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163451.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163454.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163693.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163447.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
