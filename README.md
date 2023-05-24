@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:29 on 24 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:36 on 24 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Chilliwack (Canada) (BC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large triangles with yellowish-red dots at the corners twisting into the skyAbout 12 or 15 yellowish-red (more red than yellow) dots began rising slowly into the sky above the horizon at about 11:30pm. Dots were definately in a trianglar formation, since they maintained an exact distance between them constantly. The dots were at the corners of some kind of craft that appeared to be twisting into the sky. Triangles were approx. 200-2000 metres (or more) across, depending on distance, which could not be determined for lack of reference or perspective.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70167.html](http://www.nuforc.org/webreports/reports/070/S70167.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Byron (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright light over camp ground near Byron ILL.While camping, me and my son along with 2 of my friends were sitting at a camp fire when my son (9 years old) pointed to the sky and asked me what something was.  It was a bright white light moving across the sky from west to east.  I first told him that it was an airplane but then noticed it had no blinking lights of any kind.  My one friend said that yeah it was probably an airplane and then my son said maybe it’s a shooting star.  Then all of a sudden in a span of a second it dimmed and went completely out and we could see all the stars around it!  My other friend said good call to my son that it was a shooting star!  At the same time my other friend and I said that, that was no shooting star.  It was moving way to slow to be a shooting star and it was way too bright to be a satellite!  So I said “well son I guess by definition it was a UFO because none of us had any clue to what it was!  Then about 5 min later 2 kids aged 14 came back from the pavilion claiming that they saw a UFO the same thing we saw and described it exactly as we saw it!  The next morning we spotted at least 3 military helicopters flying around the camp site as if they were searching for something!  I have no idea what it was to this day but sure would like to hear from anyone that may have also seen something that night in the same area!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70215.html](http://www.nuforc.org/webreports/reports/070/S70215.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/163/S163453.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163451.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163454.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163693.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163447.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
