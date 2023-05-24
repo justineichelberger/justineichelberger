@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:32 on 24 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:29 on 24 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Milaca (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Ball of light in the skyBig ball of light came from NW part of sky and traveled to the SE. As it went southeast the light had dimmed and then just disappeared. My friend had a GPS that tracked something in the same exact path of the unidentified.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70201.html](http://www.nuforc.org/webreports/reports/070/S70201.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Peebles (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Glowing sphere spotted in telescope at dusk.Sometime just around dusk, I was in Adams County, Ohio on May 24th, 2008 to do some stargazing with my telescope.  Before the stars started to come out, I was laying on the ground watching the sky when a saw a bright spot.  I assumed it was a planet, so I spun my telescope over to spot what it was.  It seemed to bright and too early.  At first I wasn’t even sure it was moving. In the eyepiece I saw a sphere, fairly bright, and neutral colored glow.  I though something was wrong with the lens because there was something that looked like a long string extending from it, with a glowing reddish light on the end, it looked like there may have been a light where it connected also.  The string seemed to swing back and forth on the bottom of the sphere as I watched. This object moved across the sky for about 10 minutes from about the South and West a bit, heading north.  I estimate it only crossed about 15-20 degrees of sky before it vanished.  It’s path wasn’t consistent with a pass over of the International Space Station that same night, so I’m unsure if this was some other sort of object, maybe a satellite or weather device.  I doubt the object is of any importance; I just have not been able to find any other astronomical reports fitting the description of what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63619.html](http://www.nuforc.org/webreports/reports/063/S63619.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/163/S163453.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163451.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163454.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163693.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163447.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
