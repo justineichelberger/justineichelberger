@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:26 on 24 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:32 on 24 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Palm Bay (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>At first thought shooting star, until it took off across sky and stopped on other side of horizon and hovered.This is going to sound so weird, and perhaps I should not say this here, but, here goes... We just saw a UFO. This is NOT the first time we have seen something odd at night and this time, it was obvious. How does one go about reporting sightings? I googled and was sent to an astronomy club (via Nasa website). I thought this thing, at first, was a falling star, until it hovered for a moment and then sped off across our night sky and then hovered again on the other side of my horizon. NO, it was not a satellite, it was too low. NO, it was not a plane, I know what they look like and NO, it was not a shooting star. This thing went from one part of my horizon to another in less than 4 seconds.. It was fast, but, hovered and it showed up out of the blue. That's why I originally thought of a falling star. What we saw was NOT normally something you see in the sky. This is the 2nd time Carrie and I have witnessed something odd in the sky. The first time was in Hawaii (2018 and that was 3 stationary objects that flashed)... at first we thought that was morse code and that was about 1-2 AM Hawaii time on July 25?  I have to check that date if someone would like to verify with me.  I  did not know there was a place to report, otherwise we would have reported sooner.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156652.html](http://www.nuforc.org/webreports/reports/156/S156652.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Burkesville (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A flashing light that changed directions three times and then streaked out of sight.I saw a UFO may 24 2009 at 11pm or I think it was a UFO. We was on a camping trip to dale hollow lake when we saw it, We was standing at the campsite and I looked up at the beautiful sky and all at once I saw a flashing light streaming across the sky at an extremely high rate of speed. I looked at two of my friends and pointed it out and one of them said it a shooting stare, I told her shooting stars don’t blink and all at once it stopped moving and changed direction three times and then streaked out of sight. I have never believed in UFOs but I have racked my brain on what it could have been and have come up empty. I would have never told any one if three of us had not witnessed it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70466.html](http://www.nuforc.org/webreports/reports/070/S70466.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/163/S163453.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163451.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163454.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163693.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163447.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
