@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:30 on 24 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:27 on 24 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Luverne (near) (AL) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Blimp shaped object saw by 2 appearing to be hovering over trees.My wife and I were coming back from Luverne late in the afternoon traveling on State highway 10.  We turned right onto Centenary Rd.  We had just gotten up to speed and I was looking out the right side window.  My wife asked me,  "What is that? A blimp?"  I asked her where and she pointed in front of the truck and up in the air.  I looked and it was a blimp shaped craft but I could see it wasn't moving and I told her that it wasn't a blimp because it looked metallic and the setting sun was reflecting off of it.  Because of the sun, all I could see was that it was kind of blimp shaped.  By this time we had started down a hill and were going under the trees but would be turning in about 1/2 mile.  It took us about 20 seconds or so to make it out from under the trees where we would be turning left onto Chapel Hill Rd.  When we got to where we turned, we were out from under any trees and we could see for several miles in all directions.  I could not see the object any more.  My wife insisted that it was a blimp and I assured her that a blimp wouldn't be gone that quickly.   joked that it must have been a UFO and I told that well by definition that was exactly what it was.  I looked the whole way to my house, about 7 or so miles, and never saw anything again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98345.html](http://www.nuforc.org/webreports/reports/098/S98345.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Apache Junction (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>White Round DiskWas stopped almost over head for 10 min.  Then moved north.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146273.html](http://www.nuforc.org/webreports/reports/146/S146273.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/163/S163453.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163451.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163454.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163693.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163447.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
