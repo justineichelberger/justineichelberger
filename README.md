@@ -212,7 +212,7 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:27 on 24 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:26 on 24 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
 ![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Carbondale (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately sev mins - sev mins minutes.</sub><blockquote><sub>Observed a huge, silent, black craft with 8-10 assumed thrusters? Emitting no exhaust. Camera failed.Former military witness was sitting outside on his second floor deck, drinking coffee and smoking,  He looked up at the stars shining brightly on this clear dark night, and saw a white illuminated craft flying at altitude 75-80 thousand ft. In the USMC, MOS 7051 Crash, Fire and Rescue he had witnessed thousands of flights by hundreds of various helos and aircraft, P-3 Orion (Sub Finder), F-22 Raptors, C-5s, C-130s, F-15s, Apaches, CH-53,  etc.. Witnessing an "illuminated" white craft flying at such high altitude was Not Normal! Going inside the house to get his wife, not taking more than two minutes (informing wife that their eyes needed to adjust from the house light due to how dark it was that night), he looked directly across from their place where there is a 7 story HUD building for elders and observed a huge, silent, black craft with 8-10 assumed thrusters? emitting no exhaust backwash, smoke, heat or illumination hovering not much higher than! that 7 story building, but further out. He asked his wife, "do you see that"? She replied "yes, what is it"? Was it hovering at angle? He assumed due to no experience as to what this craft was. Why was it quiet? It's far bigger diagonally? He had never experienced anything like this before!. Air Force C-5 Globe Master Cargo (America's largest aircraft!)?  It began to accelerate forward and quickly, although no sound, no after burners, no exhaust, no smell of fuel burning! The craft thrusters appeared cloudy, without being high up! He told his wife, "I don't know and haven't any ideas, though I am going to film this"! Hi camera wouldn't allow him to use settings! Very odd, when the  "craft" left, the  device settings allowed zooming and flash options though not while craft was leaving them! "I was and am in awe of this very interesting experience"!! (MUFON CMS)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162509.html](http://www.nuforc.org/webreports/reports/162/S162509.html)</i></sub></sub></sub><br>
 <h5><details open>
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/163/S163453.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163451.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163454.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163693.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163447.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
