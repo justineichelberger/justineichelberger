@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:37 on 24 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:42 on 24 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Calhoun (TN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Southeastern direction in a blue sky saw a stationary flashing object; the flashes were about 2-3 seconds apart; could not see object making the flash but the source did not move and stayed insame spot; observed this for about 10-15 minutes((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141647.html](http://www.nuforc.org/webreports/reports/141/S141647.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Roswell (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>The sound sends chills through your body as your eyes are paralyzed starring into the empty sky.I always sit outside every morning.  This morning the birds got quiet as a sound got very loud.  You could literally feel the sound and the light wind went quite.  I grabbed my iPad to snap a picture but nothing could be seen as it was cloudy.  The sound just started above me and went north and south a few times.  Almost as if I could hear it creating a circle above me.  Very different than an airplane or helicopter.  I did take video of an empty sky and it still haunts me as I listen. In the past 4 years I hadn’t heard anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141655.html](http://www.nuforc.org/webreports/reports/141/S141655.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/163/S163453.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163451.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163454.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163693.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163447.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
