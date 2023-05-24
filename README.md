@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:38 on 24 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:31 on 24 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in New Port Richey (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Silent craft red blinking lights w/ one white light.At approximately 11-11:30 pm, I was out checking a radiator leak on my vehicle.  After taking it for a ride I parked in my driveway and was sitting in my car thinking that I’d have to replace the radiator.I noticed 4 people walking in front of my car on their way home.  I heard the neighbors across the street and I guess they were having a little get-together.After they walked down the street about 75 yards I was sitting in my car with the door open when suddenly I saw a very low flying craft just above the tree line descending into the adjacent neighborhood.  I thought that was odd because there is no airport or landing strip there.The object did not look like a typical airplane or helicopter, and made no noise at all. It had two bright red lights in the front and one white light at the back.  The red lights were alternately pulsating or blinking.  It was sort of a triangle shape although I couldn’t see any definite form to it, but that was the impression I had, some sort of triangle although I can’t be certain of that.I heard a story from the guy that replaced our garage door opener that an older couple he did some work for said they saw a UFO come out of the retention pond in back of their house and silently fly over the trees and disappear.The retention pond is about 1-2 miles from my house.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109691.html](http://www.nuforc.org/webreports/reports/109/S109691.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Asheville (NC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange-Red Sphere/Ball of Light.Very large orange-red ball of light/sphere traveling at moderate speed, E - W in sky. Object was much larger than a star, left no trails, seemed to sparkle, but did not flash.  After object disappeared above tree cover, it never emerged from the other side. I’ve seen enough satellites & planes at night to know this object was not one of these.  I figure it was something burning up entering the atmosphere from space, but wanted to report it just in case.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146325.html](http://www.nuforc.org/webreports/reports/146/S146325.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/163/S163453.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163451.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163454.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163693.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163447.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
