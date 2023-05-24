@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:36 on 24 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:26 on 24 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Byron (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright light over camp ground near Byron ILL.While camping, me and my son along with 2 of my friends were sitting at a camp fire when my son (9 years old) pointed to the sky and asked me what something was.  It was a bright white light moving across the sky from west to east.  I first told him that it was an airplane but then noticed it had no blinking lights of any kind.  My one friend said that yeah it was probably an airplane and then my son said maybe it’s a shooting star.  Then all of a sudden in a span of a second it dimmed and went completely out and we could see all the stars around it!  My other friend said good call to my son that it was a shooting star!  At the same time my other friend and I said that, that was no shooting star.  It was moving way to slow to be a shooting star and it was way too bright to be a satellite!  So I said “well son I guess by definition it was a UFO because none of us had any clue to what it was!  Then about 5 min later 2 kids aged 14 came back from the pavilion claiming that they saw a UFO the same thing we saw and described it exactly as we saw it!  The next morning we spotted at least 3 military helicopters flying around the camp site as if they were searching for something!  I have no idea what it was to this day but sure would like to hear from anyone that may have also seen something that night in the same area!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70215.html](http://www.nuforc.org/webreports/reports/070/S70215.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Palm Bay (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>At first thought shooting star, until it took off across sky and stopped on other side of horizon and hovered.This is going to sound so weird, and perhaps I should not say this here, but, here goes... We just saw a UFO. This is NOT the first time we have seen something odd at night and this time, it was obvious. How does one go about reporting sightings? I googled and was sent to an astronomy club (via Nasa website). I thought this thing, at first, was a falling star, until it hovered for a moment and then sped off across our night sky and then hovered again on the other side of my horizon. NO, it was not a satellite, it was too low. NO, it was not a plane, I know what they look like and NO, it was not a shooting star. This thing went from one part of my horizon to another in less than 4 seconds.. It was fast, but, hovered and it showed up out of the blue. That's why I originally thought of a falling star. What we saw was NOT normally something you see in the sky. This is the 2nd time Carrie and I have witnessed something odd in the sky. The first time was in Hawaii (2018 and that was 3 stationary objects that flashed)... at first we thought that was morse code and that was about 1-2 AM Hawaii time on July 25?  I have to check that date if someone would like to verify with me.  I  did not know there was a place to report, otherwise we would have reported sooner.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156652.html](http://www.nuforc.org/webreports/reports/156/S156652.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/163/S163453.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163451.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163454.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163693.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163447.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
