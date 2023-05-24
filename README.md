@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:32 on 24 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:32 on 24 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Staunton (VA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>This is what I saw.  At west side Staunton city of Virginia, my house is on a hill with a backyard that see more hills and trees, hard to chase it on foot or car since it looked far away at horizon and disappeared over the horizon of nearby trees.  It was somewhat a slow moving blurry light object that was shaped of curved chevron in a clear starry sky flying.  I have a 20/20 eye sight.  It was flying from west to north.  I thought it was a slow meteor or comet or ISS.  It’s hard to say if chevron or a slant shape from left top to bottom right but blurry or weak ray of lights or beams.  It may have been slow due to being far away or going north of me. It was weird.  No flashy blinks lights like airplanes.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146265.html](http://www.nuforc.org/webreports/reports/146/S146265.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Milaca (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Ball of light in the skyBig ball of light came from NW part of sky and traveled to the SE. As it went southeast the light had dimmed and then just disappeared. My friend had a GPS that tracked something in the same exact path of the unidentified.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70201.html](http://www.nuforc.org/webreports/reports/070/S70201.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/163/S163453.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163451.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163454.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163693.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163447.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
