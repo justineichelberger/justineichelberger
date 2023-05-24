@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:21 on 24 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:43 on 24 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3:50 PM - 3:50 PM minutes.</sub><blockquote><sub>UFO Car Hit I was driving back home on Randall road in Batavia IL. When I made a stop at a red light. A UFO sliver ball about bowling ball size, slammed or portal right at my cars back bumper. I have pictures of the damage of corse. I also found that the google earth car itself got pictures of this UFO that’s right in front of my house.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159875.html](http://www.nuforc.org/webreports/reports/159/S159875.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Jackson (MI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>My friends and I were watching the meteor shower when I noticed a red and yellow and red light with a flashing green light almost in the shape of a triangle, though I could make out a saucer shape until it got further away.  When it gained some distance I was swerving back and forth.  After that it wad hidden by trees.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109650.html](http://www.nuforc.org/webreports/reports/109/S109650.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/163/S163453.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163451.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163454.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163693.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163447.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
