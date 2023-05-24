@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:42 on 24 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:34 on 24 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Roswell (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>The sound sends chills through your body as your eyes are paralyzed starring into the empty sky.I always sit outside every morning.  This morning the birds got quiet as a sound got very loud.  You could literally feel the sound and the light wind went quite.  I grabbed my iPad to snap a picture but nothing could be seen as it was cloudy.  The sound just started above me and went north and south a few times.  Almost as if I could hear it creating a circle above me.  Very different than an airplane or helicopter.  I did take video of an empty sky and it still haunts me as I listen. In the past 4 years I hadn’t heard anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141655.html](http://www.nuforc.org/webreports/reports/141/S141655.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Manor (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Super-bright, white, star-like object appears near the star MerakI was playing with a new android app called "Spacejunk" which displays a map of the night sky as you pan with the phone in real-time.  While looking toward the big dipper, I noticed a brief flash of intense, pure, white light, so I focused on spot near the star Merak at what appeared to be a larger star, three to four times larger and five times brighter (than Merak).  It faded to nothing in about three seconds immediately followed by a smokey white trail, about half a centimeter long to the out-stretched hand,  Then another flash and the appearance of another white star one-third the size of the first, which faded to nothing within two seconds.My impression was that this did not occur in the atmosphere, that it was distant, possibly a supernova.  I don't think it was a meteor because it didn't streak.  The light was diffuse, not directional or piercing, and it radiated outward from a central point.  I guess it's possible it was a meteor heading in my direction, but it just seemed too distant.  It's important to note the lack of color in the sighting; no alternating green or red lights as you would see on an airplane.  I kept looking at the spot to see if it would re-appear, but the clouds rolled in fifteen minutes later, so I had to stop looking. I made an animation of what I saw here: http://i.imgur.com/pYsLT.gif</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81551.html](http://www.nuforc.org/webreports/reports/081/S81551.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/163/S163453.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163451.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163454.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163693.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163447.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
