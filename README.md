@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:35 on 25 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:23 on 25 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Tecumseh (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>At,1045 pm I observed three to four green lights moving fast.  All lights was in a straight line in a row. ( left to right formation).  The lights was not blinking.  At first I thought it was a shooting star until I observed the green lights on it moving at a fast speed southwest toward  Evans st. and then stopped on a dime and reverse backwards going northeast without turning to reverse, flying over me showing three to four red lights in a row left to right moving at a fast speed over me in the area of the  Cluster of Cortland Condos.  I did not see any wings or a body, the body was invisible, only showing the red lights.((NUFORC Note:  String of Space Link satellites.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146466.html](http://www.nuforc.org/webreports/reports/146/S146466.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Goodlettsville (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>2 circles shapes moving across the sky , was not a bird or a planeIt was on May 25,2009 around 9:30 pm, I was outside cooking some hamburgers. I was sitting in my rocking chair looking up at the sky, looking at stars and watching planes go by.  Then from the south comes these 2 dots,( they look like when you take a flash light and shine it into some smoke in a far off distance you have the round shape of a light)it had no blinking lights too it at all.  The came from the south and headed north.. The first one was moving in a straight line and the one behind it look like it was struggling too keep up with it and was moving around behind it.  Then it disappeared. There where no clouds, just a clear night. I know what i saw and it was not no airplanes nor birds.  I know what i saw and i don't want ppl to think i am crazy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70191.html](http://www.nuforc.org/webreports/reports/070/S70191.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163548.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163421.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163417.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163434.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163405.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
