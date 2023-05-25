@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:28 on 25 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:27 on 25 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Goodlettsville (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>2 circles shapes moving across the sky , was not a bird or a planeIt was on May 25,2009 around 9:30 pm, I was outside cooking some hamburgers. I was sitting in my rocking chair looking up at the sky, looking at stars and watching planes go by.  Then from the south comes these 2 dots,( they look like when you take a flash light and shine it into some smoke in a far off distance you have the round shape of a light)it had no blinking lights too it at all.  The came from the south and headed north.. The first one was moving in a straight line and the one behind it look like it was struggling too keep up with it and was moving around behind it.  Then it disappeared. There where no clouds, just a clear night. I know what i saw and it was not no airplanes nor birds.  I know what i saw and i don't want ppl to think i am crazy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70191.html](http://www.nuforc.org/webreports/reports/070/S70191.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Santa Fe (NM) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO sighted near Eldorado at Santa Fe.There was a very high wind and loud noise.  The trees were bending.  Saw an object moving parallel to the earth and about 500 feet from the ground.  It moved very slow.  Too slow for a normal aircraft to fly without stalling.  It had 2 red lights, which were located on each end of the object.  As the craft moved away from our house, the wind stopped, and it silently moved towards the horizon out of sight.  You could not hear any noise of any kind emitting from it.((NUFORC Note:  We have amended the date above, in order to reflect a sighting in May, not June, of 2016.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127520.html](http://www.nuforc.org/webreports/reports/127/S127520.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163548.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163421.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163417.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163434.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163405.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
