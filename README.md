@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:45 on 25 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:32 on 25 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Taymouth (Canada) (NB) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Cluster of lights in a straight line.I went outside for a smoke and just happened to look up and I saw roughly 25 to 35 objects that looked like lights. The lights were heading to the East. The lights were in a string or line formation. This formation appeared to be heavily clustered near the start of the formation, and the end of the formation. The objects in the middle of the formation were not as clustered (more space between)but were still in a straight line and it appeared that they were able to keep perfect distance to each other. I did not hear any sounds which I though odd. I would have to say that the lights appeared to be slightly lower then the actual stars. The color of the light appear to be white/sightly yellow. I have never seen anything like this and thought it could be drones or missiles.((NUFORC Note:  SpaceLink satellites.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146366.html](http://www.nuforc.org/webreports/reports/146/S146366.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Grand Blanc (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>My Son had seen one about a month ago and we were waiting for the Memorial Day fireworks and saw a spacecraft that had red and white lights underneath and it was SO LOW in between the trees above..it appeared then slowly moved and then tilted superfast and hoovered SILENTLY then vanished. ..it was NOT A DRONE ... the way it moved was eerie and I even yelled wth is that and it was FREAKY REAL!((NUFORC Note:  We have amended the time above, in order to indicate a nighttime sighting.  We have no way of confirming the time, given that the source of the report provided no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119168.html](http://www.nuforc.org/webreports/reports/119/S119168.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163548.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163421.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163417.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163434.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163405.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
