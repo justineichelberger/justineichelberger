@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:24 on 25 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:28 on 25 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Little Falls (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Bright craft travels thousands of mph, in and out of view from Minnesota night sky.I went outside while at work to vape, and stared at the stars like I always do, and out of the corner of my left eye, I saw something moving fast, very high in the sky.  It looked exactly like a star, but it went all the way across the sky from all the way left to all the way right, until it vanished, continuing on its straight path, it went across the entire night sky in approximately 6 seconds, it was not a plane, or any kind of satellite.  The speed of this craft was absolutely intense, it wasn't a shootting star or anything like that, because it moved so straight and at such a maintained speed.  It was literally passing over dozens of stars every second.  There were no flashing lights of any kind, it was at bright and the same size as the stars in the sky.  It moved in a solid straight line, I am seriously still in shock.  Wow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146346.html](http://www.nuforc.org/webreports/reports/146/S146346.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Kenosha (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>Lights coalesced from the north, flashed red yellow and blue, flew in large circles, and dissapeared again to the north.I was driving home relatively late.  I was to the west of Kenosha near Wind Lake when I first noticed the lights.  I thought they were aurora borealis, very dim and distant, so I stopped to look for minute.  That's when I noted that the light seemed to be moving toward my position.  Within about thirty seconds, what were initially long streaks of light coalesced into three very distinct orbs of varying color.  They shifted from red, to a blinding yellowish/white, to a cool blue.  It did not come very close to the ground, nor did it make any very sharp movements or sound, but it was definitely moving; it plotted large concentric circles over an approximate area of 1 square mile.  Then it dimmed and sort of disintegrated.  I've driven that route many times and have seen nothing like it before or since.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23498.html](http://www.nuforc.org/webreports/reports/023/S23498.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163548.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163421.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163417.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163434.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163405.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
