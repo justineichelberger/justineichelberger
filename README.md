@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:28 on 25 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:38 on 25 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Windsor (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I was star gazing with my boyfriend and a really bright orb started zigzagging across the sky really fast and it was not a plane.I was star gazing with my boyfriend in his front yard and out of no where there was this giant orb of light in the sky. At first we though it was a shooting star or a satellite but then it started to move in a zigzag across the sky really fast. After a few seconds it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156823.html](http://www.nuforc.org/webreports/reports/156/S156823.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in titusville (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>bright cobalt blue light.Bright Cobalt Blue group of 3 lights single craft streak in fast from east to west thought it was meteor but no trail behind it then came to a stop and turned moved back in closer light went white for 2 sec.  then back to Cobalt blue.  moved   from west to east then left to right climb going back west then left right and then dropped straight down under the tree line out of sight. nothing on tue. night then back on Wed. night about 22.30 saw it again on Fri. night 22.30 to 22.45 way up over head after I spotted it, it moved north west then down 10 Oclock off the horizon then light went out for a sec.  then back on in another location then it moved up light went blink ...  blink ... then west and straight down</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119266.html](http://www.nuforc.org/webreports/reports/119/S119266.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163548.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163421.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163417.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163434.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163405.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
