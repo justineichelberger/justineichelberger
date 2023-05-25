@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:43 on 24 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:45 on 25 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Jackson (MI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>My friends and I were watching the meteor shower when I noticed a red and yellow and red light with a flashing green light almost in the shape of a triangle, though I could make out a saucer shape until it got further away.  When it gained some distance I was swerving back and forth.  After that it wad hidden by trees.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109650.html](http://www.nuforc.org/webreports/reports/109/S109650.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Taymouth (Canada) (NB) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Cluster of lights in a straight line.I went outside for a smoke and just happened to look up and I saw roughly 25 to 35 objects that looked like lights. The lights were heading to the East. The lights were in a string or line formation. This formation appeared to be heavily clustered near the start of the formation, and the end of the formation. The objects in the middle of the formation were not as clustered (more space between)but were still in a straight line and it appeared that they were able to keep perfect distance to each other. I did not hear any sounds which I though odd. I would have to say that the lights appeared to be slightly lower then the actual stars. The color of the light appear to be white/sightly yellow. I have never seen anything like this and thought it could be drones or missiles.((NUFORC Note:  SpaceLink satellites.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146366.html](http://www.nuforc.org/webreports/reports/146/S146366.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/163/S163453.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163451.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163454.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163693.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163447.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
