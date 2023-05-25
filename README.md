@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:38 on 25 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:35 on 25 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in titusville (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>bright cobalt blue light.Bright Cobalt Blue group of 3 lights single craft streak in fast from east to west thought it was meteor but no trail behind it then came to a stop and turned moved back in closer light went white for 2 sec.  then back to Cobalt blue.  moved   from west to east then left to right climb going back west then left right and then dropped straight down under the tree line out of sight. nothing on tue. night then back on Wed. night about 22.30 saw it again on Fri. night 22.30 to 22.45 way up over head after I spotted it, it moved north west then down 10 Oclock off the horizon then light went out for a sec.  then back on in another location then it moved up light went blink ...  blink ... then west and straight down</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119266.html](http://www.nuforc.org/webreports/reports/119/S119266.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Tecumseh (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>At,1045 pm I observed three to four green lights moving fast.  All lights was in a straight line in a row. ( left to right formation).  The lights was not blinking.  At first I thought it was a shooting star until I observed the green lights on it moving at a fast speed southwest toward  Evans st. and then stopped on a dime and reverse backwards going northeast without turning to reverse, flying over me showing three to four red lights in a row left to right moving at a fast speed over me in the area of the  Cluster of Cortland Condos.  I did not see any wings or a body, the body was invisible, only showing the red lights.((NUFORC Note:  String of Space Link satellites.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146466.html](http://www.nuforc.org/webreports/reports/146/S146466.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163548.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163421.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163417.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163434.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163405.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
