@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:14:53 on 25 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:27 on 25 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Toledo (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>What seemed like a star blinked twice then a bright redish orange orb like light appeared from other side of the sky heading towards the blinking star at a steady pace then vanished after about two minutes.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119139.html](http://www.nuforc.org/webreports/reports/119/S119139.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Gujranwala (Pakistan) () reported seeing craft that fit the description of some '' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Small spots of  lights very high in sky but too much almost six to eight in last dates of moon month so very clear.Well, i kept seeing sky at night almost from 9:00 pm to 3:00 am as i loved to see how ancient astronauts see planets in night skies.Nothing particular happens till this incident.First, I saw a small but bright spot going from north to south in north east till dissapeared in north east.  i thought i got my chance.  it may be satellite or a planet.But minutes later another same spot, i saw spot which travelled entire length from north to south but now in east until it disappeared in dust in far corners of sky.  An idea of ufo never hit my brain even I'm regularly watching documentries.  After that a small spot from west to east in south west.  Minutes later I saw a flash of light right above me high in sky small light appeared disappeared appeared and again disappeared.  (from south to north). then again after few minutes I saw a light exactly opposite to first one.  I again saw a light in southeast from west to east.  After that i ran down to my room to grab a register to draw what i saw as it was becoming difficult to remember there were to much i thought i forget almost 2 sightings or atleast one. I never saw it again.these cant be plane lights as plane lights blink. they never left a tail. they travell smoothly never changed there direction the sky was clear except the dust in far off corners of sky.All of this happened roughly between 2:00 AM to 3:00 Am.  I'm very curious to know what it was.This can't be a meteor shower nor planets then what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134180.html](http://www.nuforc.org/webreports/reports/134/S134180.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163548.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163421.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163417.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163434.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163405.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
