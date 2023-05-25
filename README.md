@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:33 on 25 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:41 on 25 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Benbrook (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>It looked like a cluster of 10-12 randomly flashing, multi-colored lights moving slowly and silently across the sky.  I would guess it was 1500-2000 feet up... pretty cool.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81525.html](http://www.nuforc.org/webreports/reports/081/S81525.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Superior (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 00:44 - 00:44 minutes.</sub><blockquote><sub>20-30 "Lights" in a line traveling N along the Rocky Mountains at 00:41; seen through Night Vision goggles.UFO Sighting 2019-05-25 Superior, CO.  12:41am to 12:44am  Sitting on my back porch (altitude 5560’) looking at the stars through my night vision goggles with my partner facing a northwesterly direction. Specifically, from the moment the lights were noticed to when they faded from view, the range of vision was about 298-degrees NW to 11-degrees N as the breadth of observation.It was 12:41am when we noticed 20-30 "Lights" in a line traveling North along the Rocky Mountains. They were faint to the eye but strongly visible seen through Military Grade Gen-3 Night Vision goggles. They were white lights.The number of them traveling in a line together was outstanding!  Some seemed brighter and bigger than others in the line.  It was not a perfectly straight line but fairly straight, as some were higher, while others were lower, but overall it was a line of them.  Some were bunched together in clusters with gaps between other small groupings either ahead.  Then many seemed to follow one after another individually.  The lights were all white.  They were solid white lights, not flashing, though some lights seemed to merge into other lights or simply fade out and pop in at a different spot as if appearing from nowhere, but all traveling in northern trajectory together heading from the perspective when they were first noticed.As they traveled farther away the brightness of their lights faded from view. From the moment when they were noticed to when they faded out from view was perhaps 3 to 5 minutes.While I tried to record them on my iPhone 10, they were too faint for the camera to see them. I then tried to place the phone lens to the Night Vision goggles but getting the lens in the right place and then guessing the direction of view from the lens without having my eyes to it made for unfocussed and shaky video footage that did not reveal anything that I could make out, compared to when my eyes were to the lens.I have taken a daytime still image from my back porch to better depict the scene.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146442.html](http://www.nuforc.org/webreports/reports/146/S146442.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163548.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163421.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163417.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163434.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163405.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
