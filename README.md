@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:23 on 25 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:24 on 25 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in New York City (Manhattan) (NY) reported seeing craft that fit the description of some 'Egg' over a period of approximately ? - ? minutes.</sub><blockquote><sub>may the 25th 2005 in america new york looking over the cornfield a sphere like shape appeared and then immerged into the airwe had just finished my freinds 40th birthday party when me and my wife were saying good bye to our last guest, it was about ten past midnight. My wife stayed in doors and i walked out towarards my friends' car to wave them off.  As it goes we chatted for quite a long time, not everything seemed its usual self, but we carried on talking. Suddenly this buzzing noise took to me in the air and looked up and saw this cilinder like space thing. I didnt know what it was but it started to worry me and my freinds. It got to about 300 feet away from us and the  multi coulered flashing lights started to emerge. The object in the air was about 100 meters in diameter. It was huge and as it came closer and closer to us we quickly ran indoors amd it imerged into the air again.((NUFORC Note:  Witness elects to remain totally anonymous.  We wonder whether this is a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44147.html](http://www.nuforc.org/webreports/reports/044/S44147.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Little Falls (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Bright craft travels thousands of mph, in and out of view from Minnesota night sky.I went outside while at work to vape, and stared at the stars like I always do, and out of the corner of my left eye, I saw something moving fast, very high in the sky.  It looked exactly like a star, but it went all the way across the sky from all the way left to all the way right, until it vanished, continuing on its straight path, it went across the entire night sky in approximately 6 seconds, it was not a plane, or any kind of satellite.  The speed of this craft was absolutely intense, it wasn't a shootting star or anything like that, because it moved so straight and at such a maintained speed.  It was literally passing over dozens of stars every second.  There were no flashing lights of any kind, it was at bright and the same size as the stars in the sky.  It moved in a solid straight line, I am seriously still in shock.  Wow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146346.html](http://www.nuforc.org/webreports/reports/146/S146346.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163548.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163421.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163417.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163434.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163405.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
