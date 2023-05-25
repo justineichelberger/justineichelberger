@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:37 on 25 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:28 on 25 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Covington (LA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>5 red/orange color-pulsing balls of light seen over Covington, LAWe had seen this before in Baton Rouge, LA a few months ago.  When we saw two orange lights flying at the same speed and in the same direction, we pulled over to record it using an iPad camera.  We got out of the car and recorded it for 2 minutes and 25 seconds before I turned around to find 3 more behind us.  The second group of objects was closer to us than the first two.  They emitted no sound, and all flew at the same speed in some type of formation.  They moved far enough away that they finally vanished out of our sight.  They were originally moving NW at an unknown speed (it depends on how big they actually were), then finally seemed to move out of the atmosphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98124.html](http://www.nuforc.org/webreports/reports/098/S98124.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Windsor (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I was star gazing with my boyfriend and a really bright orb started zigzagging across the sky really fast and it was not a plane.I was star gazing with my boyfriend in his front yard and out of no where there was this giant orb of light in the sky. At first we though it was a shooting star or a satellite but then it started to move in a zigzag across the sky really fast. After a few seconds it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156823.html](http://www.nuforc.org/webreports/reports/156/S156823.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163548.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163421.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163417.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163434.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163405.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
