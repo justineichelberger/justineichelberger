@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:28 on 25 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:20 on 25 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Kenosha (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>Lights coalesced from the north, flashed red yellow and blue, flew in large circles, and dissapeared again to the north.I was driving home relatively late.  I was to the west of Kenosha near Wind Lake when I first noticed the lights.  I thought they were aurora borealis, very dim and distant, so I stopped to look for minute.  That's when I noted that the light seemed to be moving toward my position.  Within about thirty seconds, what were initially long streaks of light coalesced into three very distinct orbs of varying color.  They shifted from red, to a blinding yellowish/white, to a cool blue.  It did not come very close to the ground, nor did it make any very sharp movements or sound, but it was definitely moving; it plotted large concentric circles over an approximate area of 1 square mile.  Then it dimmed and sort of disintegrated.  I've driven that route many times and have seen nothing like it before or since.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23498.html](http://www.nuforc.org/webreports/reports/023/S23498.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Humble (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>boomerang shaped object flying due North.Saw boomerang shaped object in night sky with three lights along the wing front surfaces.  No marker lights, no noise, flying due North.  Black or, dark in color.  flying at high altitude.We are both well grounded individuals, who do not believe in little green men or space craft from other worlds.  Just found this object to be strange.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))((ADDENDUM TO REPORT))Dear Mr. Davenport,The date of our sighting was May 25 2009. Thank you for your response.Sincerely,((name deleted))((END))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70193.html](http://www.nuforc.org/webreports/reports/070/S70193.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163548.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163421.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163417.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163434.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163405.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
