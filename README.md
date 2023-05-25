@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:27 on 25 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:24 on 25 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Kenosha (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>Lights coalesced from the north, flashed red yellow and blue, flew in large circles, and dissapeared again to the north.I was driving home relatively late.  I was to the west of Kenosha near Wind Lake when I first noticed the lights.  I thought they were aurora borealis, very dim and distant, so I stopped to look for minute.  That's when I noted that the light seemed to be moving toward my position.  Within about thirty seconds, what were initially long streaks of light coalesced into three very distinct orbs of varying color.  They shifted from red, to a blinding yellowish/white, to a cool blue.  It did not come very close to the ground, nor did it make any very sharp movements or sound, but it was definitely moving; it plotted large concentric circles over an approximate area of 1 square mile.  Then it dimmed and sort of disintegrated.  I've driven that route many times and have seen nothing like it before or since.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23498.html](http://www.nuforc.org/webreports/reports/023/S23498.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Edgewood (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Lights seem to be hazy and red orange on outer edges and a yellow flame in the middle; objects seem to flicker and pulse.from my window I saw what looked like a plane on aproach to seatac airport.  I went out side and saw 2 red/yellow,orange lights or fire balls flickering and pulsing travel from what looked like puyallup/sumner area north up hwy 167 to abought the 8th st. exit and went east over lakeland hills and continued east toward Buckly and Enumclaw.  The third fire ball appeared in the same place 5 min. after the first two, and roughly followed same path.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127517.html](http://www.nuforc.org/webreports/reports/127/S127517.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163548.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163421.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163417.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163434.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163405.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
