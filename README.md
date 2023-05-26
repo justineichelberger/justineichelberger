@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:28 on 26 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:21 on 26 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Jõgeva (Estonia) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>REAL PICTURES.Please see pictures in public picturealbum: http://www.pilt.ee/Andrews  This object stay in air ca 15 seconds and go's shortly in horizont. We don't now, where she coming.  No sound, no others descriptions; but she's firelight have so so sheenly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44169.html](http://www.nuforc.org/webreports/reports/044/S44169.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in St. Petersburg (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1:30 - 1:30 minutes.</sub><blockquote><sub>Red orange orb had while glow around it moving east to west no sound moving fast.Red orange orb with bright white around the outside moving fast.  Not on a regular flight path of the airports here.  No sound as it approached our area.  Smooth flight path but did change direction.  But not like a plane would.  Coming from the the Tampa Bay area moving towards the West in the Gulf of Mexico.  Once it got over our home it slowed and hovered a few seconds then moved west again.  There was no wind at the time and when it moved off.  It had a smooth like glide and then it just went off in the distance.  It seemed to me at least 5000 feet in the air.  Then it was gone into the sky.  There was another person that saw the same thing I did and we watched it for at least 1:30.  He is a Server and I am retired. I have grown up and lived near a major airport most of my life as well as him.  I have worked in Television News and I know what a plane sounds like.  I also notice the takeoffs and landing patterns of the airports and air bases in the area.  He is male and 41 yo.  I am male 5 yo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98143.html](http://www.nuforc.org/webreports/reports/098/S98143.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163418.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163414.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163415.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163513.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
