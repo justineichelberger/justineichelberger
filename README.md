@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:44 on 26 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:24 on 26 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Arlington (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>String of oval shaped lights circle each other to form a larger craft.I looked out my bedroom window at around 10:30 PM Friday, May 26th, 2017, to see a large series of lights rotating counter clockwise.  It appeared as though the lights were forming a very large circular craft.  There appeared to be a secondary craft about half the size of the first rotating in the opposite direction than the original series of lights and hovering adjacent.  I ruled out search lights as the sky was very cloudy, and no streaks of lights indicating a ground level light were seen, just large pull shaped lights slowly circling.  There was no sound to be heard.  The phenomenon lasted an hour and a half after I had originally seen it through my window, there is no telling whether or not it had started earlier.  At 12:00 midnight I returned to the window to check on the position of the lights and they had completely disappeared without a trace.  Another thing worth nothing: during the time that the lights were visible, three conventional aircrafts were heard.  I heard one helicopter, and two planes.  I live close to Logan Airport, commercial flights are very common to see and hear, but the two planes sounded distinctly louder and were only breifly heard.  The lights remained well after the conventional aircrafts had left earshot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136007.html](http://www.nuforc.org/webreports/reports/136/S136007.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Panama City Beach (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>very bright fireball that seemed to change colors and go out and relight.On the night of May 26 2013 around 10 pm central time I was standing outside with a group of friends when I Saw a very large glowing light over the gulf just off Panama City Beach Florida traveling from north west to south east.  As I watched it I noticed it was headed in a downward motion at a high rate of speed.  Knowing there is a airport at the navy base it is not unusual to see planes and helicopters in the area.  The more I watched it the more it seemed to look like a fire ball than a plane or helicopter.  After about 30 to 45 seconds all at once it seemed as though a fire just went out then all at one time it flickered becoming as bright as when I first noticed it.  That is when I was sure it was not a plane unless it was crashing so I got everyone outside to look, we watched for about another 30 seconds until it disappeared behind the large hotels and trees blocking our view.  None of us could really agree on what it was I say it was a meteorite others say it was a plane crashing.   The two things we all could agree on is that it was not a plane or helicopter unless it was crashing the other was there is no airport in the direction it went down only water.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98209.html](http://www.nuforc.org/webreports/reports/098/S98209.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163418.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163414.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163415.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163513.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
