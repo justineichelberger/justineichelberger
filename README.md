@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:24 on 26 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:27 on 26 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Panama City Beach (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>very bright fireball that seemed to change colors and go out and relight.On the night of May 26 2013 around 10 pm central time I was standing outside with a group of friends when I Saw a very large glowing light over the gulf just off Panama City Beach Florida traveling from north west to south east.  As I watched it I noticed it was headed in a downward motion at a high rate of speed.  Knowing there is a airport at the navy base it is not unusual to see planes and helicopters in the area.  The more I watched it the more it seemed to look like a fire ball than a plane or helicopter.  After about 30 to 45 seconds all at once it seemed as though a fire just went out then all at one time it flickered becoming as bright as when I first noticed it.  That is when I was sure it was not a plane unless it was crashing so I got everyone outside to look, we watched for about another 30 seconds until it disappeared behind the large hotels and trees blocking our view.  None of us could really agree on what it was I say it was a meteorite others say it was a plane crashing.   The two things we all could agree on is that it was not a plane or helicopter unless it was crashing the other was there is no airport in the direction it went down only water.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98209.html](http://www.nuforc.org/webreports/reports/098/S98209.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Cancun (Mexico) () reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Show in the sky!We thought at first that we were seeing a shooting star.  It had a bit of a tail, not very visible.  The star shot down (as a shooting star does) then slowed down, turned the opposite way, shot across and then disappeared.  We saw about 6-10 of these in about a 10-20 min period of time.  I'm not sure how long it actually went on as we eventually stopped looking.  We were on the beach in Quintanaroo.  Whatever it was, did not appear to be in our atmosphere.  They all definitely seemed to be in space.  Just for verification of what we were seeing, we asked an employee of the hotel, whom was also watching all of this happen and he confirmed that he had never seen this and that it was not "normal".  I'm not sure what these were, but I have never seen anything like this!!  We continued to look every night for the rest of our trip and never saw it/them again!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37268.html](http://www.nuforc.org/webreports/reports/037/S37268.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163418.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163414.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163415.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163513.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
