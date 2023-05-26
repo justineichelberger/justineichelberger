@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:26 on 26 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:25 on 26 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Green Island (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Large Glowing Object Like An Over Sized Bat Cleared Viewing Area In 3-4 SecondsWas at a Memorial day party and was sitting around a fire pit with around a dozen people or so in the back yard.  Was looking up into the sky when suddenly I said what the heck is that at the same time 6 other people saw it.  It was a large object which looked to have wings was huge and moving across the sky very quickly almost like a giant bat shape.  I would say it took four seconds to clear the sky.   We took a poll to see what it looked like to each person and it was large and glowing.  There was no sound.   It was difficult to determine height because if this was indeed high in the atmosphere, it was insanely large like a hundred times the size of a passenger jet or more.   I think it was lower, but it was still large glowing and moving very quickly with no sound.  The cross section of people ages who saw it from was from  14 to 60 years of age.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98145.html](http://www.nuforc.org/webreports/reports/098/S98145.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Perham (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 12:30=2:30 - 12:30=2:30 minutes.</sub><blockquote><sub>Blue/green orbs, following us.Saw two orbs which were red and blue hovering above trees.  thought to be radio towers the shortly after paying little attention to them,  they would disapear then reappear. became startled tried to leave location but suddenly the car died .headed out of woods on foot and noticed what looked to be a flashlight i the tree line, near the road we were walking on.paying close attention it started following us closely and moved out of the woods into an open field.  now hovering on the ground..then it moved visibly threw a haystack..  soon their now were 3 orbs 200 feet ahead of us..blue/opaque/red/orange and green.  all of them moving in unatural motions following us, and when not clustered together.they would position around us..the scarriest part was when one appeared 20 feet from me hovering over the ditch..during  this whole process.there was a a circular wind above us and strange black clouds in constanst fomation..but no visual of aircraft.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  We believe that the time and date indicated by the witness are flawed.  We assume that the correct date is 07/27/2013, and that the correct time is 00:30 hrs..  However, we have no way of contacting the witness to confirm our assumption.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98177.html](http://www.nuforc.org/webreports/reports/098/S98177.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163418.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163414.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163415.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163513.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
