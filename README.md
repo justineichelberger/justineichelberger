@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:20 on 26 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:20 on 26 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Nampa (Treasure Valley) (ID) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange orbs in sky.It was 3 orange orbs in the sky, probably flares or a lantern. rising, not losing altitude and eventually flickered out.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109735.html](http://www.nuforc.org/webreports/reports/109/S109735.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in St. Petersburg (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orange Reddish sphere heading west in the sky rapidly and disappeared into a small dot.My friend and I were outside on our front porch and happened to look over towards the eastern sky.  An orange/red ball like light was approaching heading west.  We stepped off the porch into the yard to get a better look and noticed a flare like light around the object.There was no noise emanating from it; engine, propeller or otherwise.  It seemed to be moving at a pace more quickly than a plane but the duration lasted longer than that of a shooting star or comet.As it made its approach over our heads heading west, it slowed a bit and the flare seem to pulsate somewhat.  It continued its path west and began to diminish in size and instantly disappeared into the western sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98144.html](http://www.nuforc.org/webreports/reports/098/S98144.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163418.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163414.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163415.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163513.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
