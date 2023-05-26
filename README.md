@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:25 on 26 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:26 on 26 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Mundelein (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Observed two orange/red balls cross the sky from NE to SW one after the other.Observed a rather large orange/red ball move slowly across the sky from northeast to southwest.  It was below cloud cover, and I watched it until it became quite small.  As I turned to go inside, a second orange/red ball was observed on what appeared to be the same path.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98147.html](http://www.nuforc.org/webreports/reports/098/S98147.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Green Island (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Large Glowing Object Like An Over Sized Bat Cleared Viewing Area In 3-4 SecondsWas at a Memorial day party and was sitting around a fire pit with around a dozen people or so in the back yard.  Was looking up into the sky when suddenly I said what the heck is that at the same time 6 other people saw it.  It was a large object which looked to have wings was huge and moving across the sky very quickly almost like a giant bat shape.  I would say it took four seconds to clear the sky.   We took a poll to see what it looked like to each person and it was large and glowing.  There was no sound.   It was difficult to determine height because if this was indeed high in the atmosphere, it was insanely large like a hundred times the size of a passenger jet or more.   I think it was lower, but it was still large glowing and moving very quickly with no sound.  The cross section of people ages who saw it from was from  14 to 60 years of age.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98145.html](http://www.nuforc.org/webreports/reports/098/S98145.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163418.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163414.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163415.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163513.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
