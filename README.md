@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:26 on 26 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:28 on 26 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>At aproximently 15:00 hours on 5/26/01 I woke up to my dogs barking. When I went outside to investigate I was Shocked by a VERY bright object in the eastern sky.As I obseved it through binoculers the object of light seemed to divide and or change shape. Suddenly below the object in question ,just above tree top level ,another bright object was moving north to south in a sraight line pulsating red,white,and blue colers.I have around 9 minutes of this event on video, I would have taped the entire event but my camera battery went dead.Please feel free to contact me if you whish to obtain my vidieo.My email address:((e-address deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17807.html](http://www.nuforc.org/webreports/reports/017/S17807.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Jõgeva (Estonia) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>REAL PICTURES.Please see pictures in public picturealbum: http://www.pilt.ee/Andrews  This object stay in air ca 15 seconds and go's shortly in horizont. We don't now, where she coming.  No sound, no others descriptions; but she's firelight have so so sheenly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44169.html](http://www.nuforc.org/webreports/reports/044/S44169.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163418.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163414.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163415.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163513.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
