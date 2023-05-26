@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:25 on 26 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:31 on 26 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Perham (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 12:30=2:30 - 12:30=2:30 minutes.</sub><blockquote><sub>Blue/green orbs, following us.Saw two orbs which were red and blue hovering above trees.  thought to be radio towers the shortly after paying little attention to them,  they would disapear then reappear. became startled tried to leave location but suddenly the car died .headed out of woods on foot and noticed what looked to be a flashlight i the tree line, near the road we were walking on.paying close attention it started following us closely and moved out of the woods into an open field.  now hovering on the ground..then it moved visibly threw a haystack..  soon their now were 3 orbs 200 feet ahead of us..blue/opaque/red/orange and green.  all of them moving in unatural motions following us, and when not clustered together.they would position around us..the scarriest part was when one appeared 20 feet from me hovering over the ditch..during  this whole process.there was a a circular wind above us and strange black clouds in constanst fomation..but no visual of aircraft.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  We believe that the time and date indicated by the witness are flawed.  We assume that the correct date is 07/27/2013, and that the correct time is 00:30 hrs..  However, we have no way of contacting the witness to confirm our assumption.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98177.html](http://www.nuforc.org/webreports/reports/098/S98177.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Carlisle (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>UFO over South Central PA 5/26/14After working in my yard on Memorial Day I was sitting on my front porch at 15:00 looking due east at the horizon.  At about 45 degrees east, north east I noticed an object in the sky.  I thought it might be a bald eagle circling for its prey.  However, the object was too high in the sky to be a bird.  As I looked further I noticed the object was hovering above something, as if it was observing something.  After noticing that the object was not moving, and having concluded it was not a bird, it suddenly zoomed off due east at fantastic speed.  I have never seen any aircraft that operated like that before.  It was either a government test vehicle (which I highly doubt) or a UFO.  About one half an hour later I noticed two high flying jets going both east to west and west to east at a high rate of speed.  Those both had contrails and were moving much more like traditional jets.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109809.html](http://www.nuforc.org/webreports/reports/109/S109809.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163418.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163414.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163415.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163513.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
