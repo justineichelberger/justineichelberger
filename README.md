@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:14:34 on 26 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:26 on 26 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in St Charles (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Straight string of lights about 35 of them traveling from NW to the SE  the center light was the brightestI was watching for satellites when I noticed what I thought was a jet stream and when I looked at it with my binoculars I saw a straight line of small lights {solid not flashing}. They were tightly spaced but there were spaces in some spots of the line. The center light seemed to be the brightest. It was traveling from the NW to the SE.  Example below  ... ....... .......;....... ......</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163416.html](http://www.nuforc.org/webreports/reports/163/S163416.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>At aproximently 15:00 hours on 5/26/01 I woke up to my dogs barking. When I went outside to investigate I was Shocked by a VERY bright object in the eastern sky.As I obseved it through binoculers the object of light seemed to divide and or change shape. Suddenly below the object in question ,just above tree top level ,another bright object was moving north to south in a sraight line pulsating red,white,and blue colers.I have around 9 minutes of this event on video, I would have taped the entire event but my camera battery went dead.Please feel free to contact me if you whish to obtain my vidieo.My email address:((e-address deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17807.html](http://www.nuforc.org/webreports/reports/017/S17807.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163418.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163414.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163415.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163513.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
