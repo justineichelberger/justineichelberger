@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:20 on 26 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:37 on 26 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in St. Petersburg (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orange Reddish sphere heading west in the sky rapidly and disappeared into a small dot.My friend and I were outside on our front porch and happened to look over towards the eastern sky.  An orange/red ball like light was approaching heading west.  We stepped off the porch into the yard to get a better look and noticed a flare like light around the object.There was no noise emanating from it; engine, propeller or otherwise.  It seemed to be moving at a pace more quickly than a plane but the duration lasted longer than that of a shooting star or comet.As it made its approach over our heads heading west, it slowed a bit and the flare seem to pulsate somewhat.  It continued its path west and began to diminish in size and instantly disappeared into the western sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98144.html](http://www.nuforc.org/webreports/reports/098/S98144.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Vinton (LA) reported seeing craft that fit the description of some '' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Young man witnesses very bright "star" flying north very fast, "1/2 speed of falling star."  Obj. stopped, suddenly disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00528.html](http://www.nuforc.org/webreports/reports/000/S00528.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163418.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163414.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163415.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163513.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
