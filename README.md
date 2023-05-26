@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:30 on 26 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:50 on 26 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Bremerton () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Driving on thehighway to Bremerton. my boyfriend and I saw a group of lights about 5 or so in a triangular shape.  There also was one light that was quite a distance away from the group.  The light moved twords the group(we couldn't see due to trees and buildings).these lights were moving.  Compared to the stars(wasn't really many but it was a clear sky) they were so bright two of them where a yellowish tint.  The others were bright white.  We saw this our whole drive (15 min).the lights were over Port Orchard, pretty low.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141657.html](http://www.nuforc.org/webreports/reports/141/S141657.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Carlsbad (NM) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red Moon UFOyellow craft stationary close to the a red Moon that soon returned back to its normal light for a full moon.  The object was captured by photo and seems to stretch to its left and right with a bright round center first occurance of such event.but not the first of unsual sightings around town, but the creepiest part is the fact it was posted on insagram and was deleted from account and was erased from the phones picture album.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98189.html](http://www.nuforc.org/webreports/reports/098/S98189.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163418.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163414.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163415.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163513.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
