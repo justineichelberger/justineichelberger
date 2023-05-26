@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:25 on 25 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:30 on 26 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Cincinnati (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Red sphere over Cincinnati, OHI had just taken our dog out for a potty break when I noticed a very unusual object come into view straight up in the southern sky.  The object was reddish orange in color, twice the size of Venus, but about the same brightness as Venus.I instantly called the wife and two kids out to see the object.  It did shimmer a bit, so my wife instantly said it looked similar to a Chinese lantern.  I disagreed; the object moved too fast and steady for it to be in any wind pattern.  It took the object approximately 10-12 seconds to move from horizon to horizon, traveling silently from south to north in a straight line.I’ve observed the ISS in the past, and this object was much bigger and seemed a lot lower in the atmosphere.  I’ve also considered that it may have been a meteorite; it certainly moved like one, but the red color seemed all wrong.  We did have some severe weather move through the area a couple of hours later, so maybe the atmospheric conditions gave it the red color.I can say that its brightness stayed consistent, so I don’t think it was reflecting sunlight; tt appeared to be self luminous.  While I’m sure it was natural in origin, there was just something very odd about its appearance.I just thought I would make the report with the hope that you might be able to tell me what the heck it was.Thanks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81531.html](http://www.nuforc.org/webreports/reports/081/S81531.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Bremerton () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Driving on thehighway to Bremerton. my boyfriend and I saw a group of lights about 5 or so in a triangular shape.  There also was one light that was quite a distance away from the group.  The light moved twords the group(we couldn't see due to trees and buildings).these lights were moving.  Compared to the stars(wasn't really many but it was a clear sky) they were so bright two of them where a yellowish tint.  The others were bright white.  We saw this our whole drive (15 min).the lights were over Port Orchard, pretty low.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141657.html](http://www.nuforc.org/webreports/reports/141/S141657.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163548.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163421.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163417.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163434.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163405.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
