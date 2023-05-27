@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:27 on 26 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:31 on 27 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Rochester Hills (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Triangle shaped UFO over Rochester Hills, MI in the summer over '95I heard Peter Davenport on Coast to Coast AM, went to your sight, and was curious of a sighting I had when I was 10 years old, that I've told few people about.  I did a search in your data base and came to this report,http://www.nuforc.org/webreports/026/S26648.html.  Almost exactly what I saw, and I felt like I had to give you my story. I do not remember what day this happened, but 26 May '95 (as in the report above) seems very plausible.In the summer of  '95 I was awakened (about 1 AM) by the window next to my bed vibrating by a deep note (sounded like some type of engine, but at a very low frequency).  I opened the window to stop the vibration, and looked out south towards Avon Rd. and Livernois Ave. in Rochester Hills, MI and saw a giant triangle UFO.  My house was right next to two 'busy' streets, at least 10 cars a minute during the night, during this I did not see one car the whole time the UFO was in the sky.At each one of the corners, there was a colored ball, greenish, set into the craft.  It looked like a propulsion system, it seemed like something (a liquid) was flowing within the pods.I don't know how big it was, I had nothing to compare it to, somewhere between 250 m  and 1500 km long, and three-quarters again as wide, and the depth was about one-third of the width, like an isosceles triangle, or an arrowhead.  Traveled very slowly E to W.It seemed blocky, like it was back engineered alien technology.  It didn't have the sleekness that is usually attributed to UFOs, though I am not an expert.Within one month of this sighting (I didn't put two and two together for several years) I found a bump on the back of my neck.  Went to the doctor to check it out, he had no idea what it was.  He brought in other colleges to check it out, they were clueless as well.  The told me that it seemed harmless but that I should go see another doctor, which I never did.  It is still there, 13 years later, hasn't cause me any harm that I know of, but it does seem to be shrinking in size (or maybe I just grew).((NUFORC Note:  Date of sighting may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61574.html](http://www.nuforc.org/webreports/reports/061/S61574.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Interstate 10, somewhere by the border (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Several flights of fireball like craft crossed the interstate at a high rate of speed.They were a burning yellow orange about three meters above my car. There must have been five flights of three fireballs each. They eluminated the sky for at least a mile around me. Three fighter jets took off after it in a futile chase. I think they were F-16's.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07940.html](http://www.nuforc.org/webreports/reports/007/S07940.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/163/S163418.html)
-- [355](http://www.nuforc.org/webreports/reports/163/S163414.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163415.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163513.html)
-- [352](http://www.nuforc.org/webreports/reports/163/S163416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
