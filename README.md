@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:25 on 27 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:31 on 27 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Palmdale (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>round black orb about 10 feet wide was spotted.  Reflect a white color as the Sun light hit object. Slow moving.Black orb shape like a ballon traveling north west about a mile away from my location.  I noticed a metalic quality to the object as the sun glinting off it made the object appear white.  The object was lost due to distance and clouds. I would say the object was around 10 feet wide total.  Not very large.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75575.html](http://www.nuforc.org/webreports/reports/075/S75575.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Topeka (KS) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 light object by Lake Shawnee sitting completely still, then vanished.Was driving down 29th street and seen a 3 light object sitting completely still, it was in the middle of 29th street, and 32nd street by West edge road. I pulled over to look at it, it wasn't moving, then I got back in my car and headed towards it to get a closer parking spot by the lake and it was gone.  Wish I would of stayed at my original spot to see it leave.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109779.html](http://www.nuforc.org/webreports/reports/109/S109779.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163677.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163394.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163487.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163517.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
