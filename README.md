@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:25 on 27 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:32 on 27 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Arlington (WA) reported seeing craft that fit the description of some '' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>2 men witness "blue meteorite" descend at 45 deg. very fast.  Obj. had very small tail, "like flame from Space Shuttle."  Good rept.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00522.html](http://www.nuforc.org/webreports/reports/000/S00522.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bellingham (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Light FormationsWas driving down from my home on San Juan Blvd. turned onto Puget to head down the hill to the 7-11 on lakeway... at the top of said hill you can see out across the bay toward Lummi Island and the Salish Sea.  I saw 20+ reddish orange objects take off from what looked like at least 8-13 miles out from the sea in a north easterly direction...  I took some video, then went to the store than left a good 5 minutes later, drove back up the hill towards my house when I stopped and looked back out off the hill they were still taking off.  There was no sound what so ever as you would expect from modern day military aircraft.. I've never known a airliner to fly in formation either...  9:54 pm pacific time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127543.html](http://www.nuforc.org/webreports/reports/127/S127543.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163677.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163394.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163487.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163517.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
