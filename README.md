@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:31 on 27 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:07 on 27 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Interstate 10, somewhere by the border (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Several flights of fireball like craft crossed the interstate at a high rate of speed.They were a burning yellow orange about three meters above my car. There must have been five flights of three fireballs each. They eluminated the sky for at least a mile around me. Three fighter jets took off after it in a futile chase. I think they were F-16's.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07940.html](http://www.nuforc.org/webreports/reports/007/S07940.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Durham (NC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>sphere of white light follows plane, then disappears into the night skyI'm typing this 2 hours after the sighting. At 10:15PM, my neighbor, his wife, and I observed an airplane being followed by a sphere of white light. What caught my eye were two lights in the sky, traveling close together. Upon further inspection, I saw that the lead craft was an airplane, as there were flashing beacons on the wing tips. It was flying towards us. We do live close to the RDU airport. There was a craft behind it, following closely. However, there were no beacon lights on it. It was a completely round, spherical white light. The airplane turned left and the sphere followed it. Now going to our right, approximately 10 seconds since the plane turned, the sphere of white light disappeared. We watched the plane for about 3 minutes until it hit the horizon, where we could not see it anymore. There were no clouds. It was a clear night. The Big Dipper was right above us. We did not see the sphere after that. This was really weird.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37201.html](http://www.nuforc.org/webreports/reports/037/S37201.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163677.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163394.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163487.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163517.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
