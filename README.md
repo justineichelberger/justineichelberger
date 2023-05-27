@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:26 on 27 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:22 on 27 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in St. Petersburg (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Huge yellowish and orange fireball coming down in the southern  St. Petersburg areaI witnessed from our balcony what seemed to be less than a few miles away a bright orange and yellowish fireball falling straight down from the sky.  The fireball went out before it hit the ground but it was coming down in the southern St. Petersburg area, or into the Tampa Bay waterway</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127564.html](http://www.nuforc.org/webreports/reports/127/S127564.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Port Neches (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>star like UFO moving then climbed out of sightAround ten o’clock PM the electricity was out and my spouse and myself was outside to see what happened. I looked up at the sky to view the stars, while looking I could see the stars slightly clearer since several blocks were out of electricity.  I was looking in a southeasterly direction and one star began to move I told my wife to look and she saw it as well, the star (UFO) starting moving north and got smaller and smaller (climbing in altitude I suspect) until it was no longer visible.  The ufo was twinkling just like any other star in the sky but it started moving after watching it for a few seconds just sitting still.  The encounter took no longer then maybe 5-10 seconds at the most.  Lately I have been seeing things like this lot (this is my 4-5 sighting this year).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98204.html](http://www.nuforc.org/webreports/reports/098/S98204.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163677.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163394.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163487.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163517.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
