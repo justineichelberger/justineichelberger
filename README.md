@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:22 on 27 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:28 on 27 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Phoenix (north on 85, towards) (AZ) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>It was like someone ripped a pefectly shaped whole in the night sky.My fiancee and I were returning from San Diego and had been traveling North on 85 towards Phoenix, when a bright but complete solid and opaque white diamond shape gradually appeared and then abruptly dissappeared in the sky due west of our driving position.  A train was directly East of us and we had been watching it for a number of minutes because between the almost full moon above it-it was quite beautiful-and not much else to look at in the Arizona desert at night on a long drive. The reason it probably caught our attention was because it was so very very strange and large-larger then the moon is size in the sky.  But what was so incomprehensible is that it appeared like someone or something had simply ripped open a whole in the dark sky leaving a huge opaque white diamond shape, then in just a few seconds-just enough to comprehend somewhat what we were looking at-it slowly but perfectly evenly from the top down disappeared!  It did not fade out-nor just "turn off it's light-because it didn't glow, but more like something rolling back up perfectly.  I did not write this report before-because it didn't appear to be a flying saucer or anything of the more common UFO shapes, and didn't know if it would fit here.  It had perfectly straight edges-no variance in color or intensity of color and only white.It also did not appear to be 3-D. I have traveled the Arizona roads at night probably about 50 times at least and never seen anything like this.  It was so incredible a thing to see-it's easier to understand the flight of unknown objects-then wrap your mind around the sky doing something like that!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29467.html](http://www.nuforc.org/webreports/reports/029/S29467.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in North Myrtle Beach (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Around 10pm looking towards the Atlantic Ocean from North Myrtle, South Carolina we saw 3 progressively blinking reddish-orange lights over the ocean.The lights turned on one at a time and turned off one at a time.  We saw this happen 3 times; each time had about 2-3 minutes in between sightings.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Many other sighting reports from this area, for this date, and on prior occasions.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70241.html](http://www.nuforc.org/webreports/reports/070/S70241.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163677.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163394.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163487.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163517.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
