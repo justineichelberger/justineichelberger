@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:21 on 27 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:26 on 27 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Flint (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 lights like orion's belt stationary for a moment then flew awayi had a ufo sighting on May 27th 2019 at 12:15am in flint michigan:  On May 27th 2019 at 12:15am in Flint Michigan, as I took my dogs to the backyard of my home located on S. Vernon Ave., Flint, Michigan, 48503, I looked to the North and just below the Big Dipper, I noticed what appeared to be the three (3) stars from Orion's belt.  A moment later I realized that Orion would not be in that part of the night sky.  I continued staring and confused for about a minute or so.  All of a sudden the three (3) stars began to move to the East in formation and at a steady speed.  I continued to watch them until they flew out of sight (approx 5 mins).Unfortunately I left my phone in the house and did not get video of this incident.I was just wondering if there were any other reports on May 26/27th 2019 of these three (3) lights over Michigan, or am I the only person to notice?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148455.html](http://www.nuforc.org/webreports/reports/148/S148455.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in St. Petersburg (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Huge yellowish and orange fireball coming down in the southern  St. Petersburg areaI witnessed from our balcony what seemed to be less than a few miles away a bright orange and yellowish fireball falling straight down from the sky.  The fireball went out before it hit the ground but it was coming down in the southern St. Petersburg area, or into the Tampa Bay waterway</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127564.html](http://www.nuforc.org/webreports/reports/127/S127564.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163677.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163394.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163487.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163517.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
