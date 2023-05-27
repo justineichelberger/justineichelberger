@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:27 on 27 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:21 on 27 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Venice (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Around 8:30pm on May 27th, 2004, I got in my car with my dog planning to go to the supermarket. I got halfway down the street, approaching the intersection of Rose and 3rd Avenues, when I noticed what appeared to be a very large swarm of agitated black balloons. At first I thought someone must have released the balloons for a festival, or perhaps the balloons were released by some cruise ship out at sea. I struggled to make sense of what I was looking at. The entire cluster seemed to be visibly composed of 8-12 large individual black spheres, all rapidly moving around each other. They were swirling and leapfrogging as though an animated cartoon. The words "nightmarish" and "cartoon-like" come to mind. Each sphere seemed blacker than black - mere silhouettes. When I realized I was observing something incredibly out of the ordinary, I hit the brakes, shifted into reverse, and back tracked into my driveway. I then went into my apartment to grab my camcorder, stepped outside, and started taping.  This entire process took about 4 minutes. In 4 minutes, this cluster, size difficult to determine - appeared to be as large as a car or perhaps house, managed to travel from above the intersection to the clouds you see in the clips. Images and video clip posted at following URL:  http://www.laufo.com/sphere-cluster.html((NUFORC Note:  We have elected to leave the URL in the report.  We have looked at the footage, and conclude that the cluster may, in fact, be a group of balloons, which are tethered to one another.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37752.html](http://www.nuforc.org/webreports/reports/037/S37752.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Llanfairfechan (UK/Wales) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Saw a bright light in the skyOn my way to work I saw a bright light in the east. I thought it looked like a large star only it was to large. My next thought was it was as if someone was shining a mirror from the sky. the thing moved on through cloud and after leaving the cloud looked like a small dot. mayb a plane very high up.I think it must have been the reflection of the wing or window of a plane.However it did seem to last too long for this.Got out of my car and told a lady who was walking a dog to look out for it.She laughed at me and walked on.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23138.html](http://www.nuforc.org/webreports/reports/023/S23138.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163677.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163394.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163487.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163517.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
