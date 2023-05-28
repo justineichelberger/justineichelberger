@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:24 on 28 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:23 on 28 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Omaha (NE) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>est to west movement of a circular object redish orange light...this object shot upwards twords outerspace....then returned for another minute then shot back up.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89271.html](http://www.nuforc.org/webreports/reports/089/S89271.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Eagle Butte (SD) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.075 - 0.075 minutes.</sub><blockquote><sub>a large bright light was taking our picture.as we were coming out of our apartment, going to the convenience store, i noticed a bright light moving slowly at an eastern direction, just below the moon. it was a full moon that night so the night was pretty lit up with stars. i thought it was a satelite, but it seemed to be slowing down to a steady pace. i alerted my girlfriend about the light, just to make sure i was'nt freaking out. she became very nervous, and wanted to go quickly. and thats when it seemed to be observing our town, because we live in an apartment complex south of town. it seemed to flashing lights at us, they were'nt bright but suttle, and wierd. because with every flash i could see the open fields behind our apartments. but beyond that the flash would stop. i looked up again and it started to move faster, but this time it started to turn in a southern direction. with a quick flash of light it disappeared.((NUFORC Note:  Witness indicates that date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44593.html](http://www.nuforc.org/webreports/reports/044/S44593.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
