@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 28 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:20 on 28 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Adkins (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright blue sphere, hovered then darted east and disappeared.A friend and I were outside after a party saying goodbye's and we both noticed a large blue circular shape above us in the clearing of the trees over our house. It was so still I recall noticing how bright the light was but didn't bother looking up because I thought it was just the moon. Once I glanced up and noticed it was blue and not the moon, it immediately jetted to the east at an extremely high rate of speed - from where we were standing it was like twenty feet and it was then behind the tops of our trees - then it stayed there but the light dimmed and made wiggly trails and disappeared. My friend and I started freaking out about it. It was unusual because it "hovered" above in the clearing almost like it had been watching us, once we looked up and noticed it, it took off. Never seen anything like it in my life. This was not a plane or helicopter or firework - it was in the air totally not moving or making noise for a good minute before it shot off to the right (east). We were facing north. It was like it was watching us. Big blue glowing sphere shape. Then it disappeard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50767.html](http://www.nuforc.org/webreports/reports/050/S50767.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Santa Fe (NM) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>We saw the object in the sky south of Santa Fe just after sunset. It looked like a glowing white sphere against the indigo sky, and was the only celestial object visible other than the crescent moon. It was approximately 20 times the size of a typical star. It remained completely stationary in the sky throughout the course of our sighting. The object brightened then faded several times, and after a few minutes, it began to shrink in size and fade in brightness, shrinking to the size of a typical star over the course of about 30 seconds. This star-sized object was visible for at least a few more minutes.A friend, her two daughters, and myself were on our way out to dinner. We got in my truck around 8:30 p.m. and were heading south out of my driveway when I saw the object and pointed it out to the others. We stopped the truck and my friend's daughter ran back to the house to get her binoculars. We stood in the driveway and observed the sighting as reported above. The object was obviously distant. There is no way to estimate its actual size or location.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03602.html](http://www.nuforc.org/webreports/reports/003/S03602.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
