@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:27 on 28 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:26 on 28 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Central Point (OR) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Cylinder shaped object at mid-day in clear weather moves slowly across sky and disappears.I saw this object flying mid-sky after entering the northbound I-5 freeway. I thought it was a plane at first as the Medford airport is about a mile away from where I was driving. The object was about the size of passenger jet and was traveling slowly from east to west approximately 500 to 700 feet above the surrounding hills about a mile and a half in front of me. The object was white and cylinder shaped with what appeared to be a dark line separating a third of the object from the rest. As it moved, I looked for wings,as I thought at first it was a jet plane that had just taken off from the airport. As I was watching, the object slowly pivoted. It did not turn, but pivoted towards the north and then faded from sight. It did not shoot off or suddenly disappear, but faded away within about 2 or 3 seconds after it pivoted. The whole event lasted about 40 seconds to a minute.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163383.html](http://www.nuforc.org/webreports/reports/163/S163383.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in New Delhi (India) () reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>could have been a staron the north side of the sky i see this very bright star.. initially i thought its a star but then i say these faint streaks .. listen i do not know anything about astronomy so it can be a regular occurence .. but i brought out a camera and this thing only (and this only) came on the screen and also it increased significantly in size as i zoom</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63560.html](http://www.nuforc.org/webreports/reports/063/S63560.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
