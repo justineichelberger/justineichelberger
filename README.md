@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:27 on 28 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:27 on 28 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Trenton (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately few seconds - few seconds minutes.</sub><blockquote><sub>Bright orb that split into pieces, then disappeared.I saw a blinking light crossing the sky going east towards Trenton, Ohio.  Decided to watch it.  A bright glowing orb appeared after I lost track of that.  The orb split into two or maybe three smaller ones, then disappeared.I wouldn't think think anything of this, passing it off as nighttime skydiving or something.  There's an airport in that general direction.  However, a few months back I saw some orbs of the same color going North and ascending at roughly a 45 degree angle that were the same color as the ones I saw today.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119196.html](http://www.nuforc.org/webreports/reports/119/S119196.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1910, an anonymous witness in Solon (ME) reported seeing craft that fit the description of some 'Unknown' over a period of approximately don't know - don't know minutes.</sub><blockquote><sub>entry in my great-grandmother's diary, date 28 may 1910, refers to watching the comet zig-zaging in the sky, followed by a zig-zag diagram.((NUFORC Note:  We have requested that the party who submitted this report send us the complete text of the entry, and a photocopy of the diagram his great-grandmother apparently drew in her diary.  Time and date may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20540.html](http://www.nuforc.org/webreports/reports/020/S20540.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
