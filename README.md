@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:24 on 28 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:23 on 28 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in West Midlands (UK/England) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>strange flight paternabout.8.00 pm i was driving in the west midlands. directly in my line of sight was a vapour trail. i thought it was a 747 0r the likes. then it pointed up and kept going straight up out of sight. leaveing a trail behind. then 2 more seemed to do the same just going up and up out sight. at the time. the sky was nice and clear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70251.html](http://www.nuforc.org/webreports/reports/070/S70251.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Trenton (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately few seconds - few seconds minutes.</sub><blockquote><sub>Bright orb that split into pieces, then disappeared.I saw a blinking light crossing the sky going east towards Trenton, Ohio.  Decided to watch it.  A bright glowing orb appeared after I lost track of that.  The orb split into two or maybe three smaller ones, then disappeared.I wouldn't think think anything of this, passing it off as nighttime skydiving or something.  There's an airport in that general direction.  However, a few months back I saw some orbs of the same color going North and ascending at roughly a 45 degree angle that were the same color as the ones I saw today.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119196.html](http://www.nuforc.org/webreports/reports/119/S119196.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
