@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:28 on 28 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 28 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Fayetteville (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Too erractic to be a normal action.At approximately 8:45 pm an early star looking shape object appeared in the southern sky.The object seem to move in a south west diagonal direction.  The object moved faster than a celestial object ( star ) but slower than a aircraft or weather balloon.  The rising and stationary position seemed like it could be a weather balloon until it retracted to its mid way point.  The object faded as if someone was covering the object with a blanket fading in and out very fast.  At 9:05pm the object disappeared.  At approximately 9:45pm the same general direction we saw a sharp and bright light turn on with a 15 second delay of a second time.This may simply be a weather balloon phenomena but in case its not just wanted to mention it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98260.html](http://www.nuforc.org/webreports/reports/098/S98260.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Adkins (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright blue sphere, hovered then darted east and disappeared.A friend and I were outside after a party saying goodbye's and we both noticed a large blue circular shape above us in the clearing of the trees over our house. It was so still I recall noticing how bright the light was but didn't bother looking up because I thought it was just the moon. Once I glanced up and noticed it was blue and not the moon, it immediately jetted to the east at an extremely high rate of speed - from where we were standing it was like twenty feet and it was then behind the tops of our trees - then it stayed there but the light dimmed and made wiggly trails and disappeared. My friend and I started freaking out about it. It was unusual because it "hovered" above in the clearing almost like it had been watching us, once we looked up and noticed it, it took off. Never seen anything like it in my life. This was not a plane or helicopter or firework - it was in the air totally not moving or making noise for a good minute before it shot off to the right (east). We were facing north. It was like it was watching us. Big blue glowing sphere shape. Then it disappeard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50767.html](http://www.nuforc.org/webreports/reports/050/S50767.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
