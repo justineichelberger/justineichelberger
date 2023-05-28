@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:24 on 28 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:24 on 28 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Gaffney (SC) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright object seen in Gaffney, SC.My daughter and I were traveling North on Interstate 85 and saw a large bright object to our east.  The object stayed stationary for approximately 20 minutes.  At first we thought it might be a huge star or planet, but my daughter used her sky map to see what would be in that location and there was no planet or large star mapped in that location.  The object then appeared to dim and go out.  Hownever, 5 minutes later, the object reappeared and was just as bright.  It then moved left and then right and appeared to separate and the join back together.  After about 10 more minutes the object disappeared again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134314.html](http://www.nuforc.org/webreports/reports/134/S134314.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Laukaa (Finland) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>It rose up from a far away beach, hovered a bit and then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119206.html](http://www.nuforc.org/webreports/reports/119/S119206.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
