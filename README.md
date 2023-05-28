@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:26 on 28 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:20 on 28 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in New Delhi (India) () reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>could have been a staron the north side of the sky i see this very bright star.. initially i thought its a star but then i say these faint streaks .. listen i do not know anything about astronomy so it can be a regular occurence .. but i brought out a camera and this thing only (and this only) came on the screen and also it increased significantly in size as i zoom</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63560.html](http://www.nuforc.org/webreports/reports/063/S63560.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Tiffin (OH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Shining object stationary in the sky over Northwestern Ohio.While watching races at a track meet on a crystal clear blue day, something shiny in the northwest sky caught my eye because it was the only thing in the sky at that sime.  It appeared to either be a silver object very far away relecting the sunlight, or perhaps a plane with its landing light strongly shining in my direction.  The object appeared from my perspective to be stationary in the sky at about 20 degrees above the horizon.  I assumed is was a plan eith traveling toward me (explaining the landing/running lights shining brightly) or it was traveling away from me.  Either way, it appeared to be still in the sky from my vantage.  I watched it between races at the meet for 3 - 4 minutes, just thinking about what it could be.  (Some track meets are boring.)  When the next 100 meter ruace began, I watched the race, then looked back at the spot in the sky where I had seen the reflection just 30 seconds before.  Nothing was there.  No relection, no lights, nothing.  I continued to search above the spot, below, right and left.  Nothing.  No trees were obstructing my view; I was looking across the spur of the track marking the spot of the object above some natural landmarks on the horizon.It would have been near Toledo, Ohio or Findlay, Ohio possibly.  If anyone else saw something, I did too.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63598.html](http://www.nuforc.org/webreports/reports/063/S63598.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
