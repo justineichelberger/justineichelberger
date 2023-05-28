@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:27 on 28 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:28 on 28 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1910, an anonymous witness in Solon (ME) reported seeing craft that fit the description of some 'Unknown' over a period of approximately don't know - don't know minutes.</sub><blockquote><sub>entry in my great-grandmother's diary, date 28 may 1910, refers to watching the comet zig-zaging in the sky, followed by a zig-zag diagram.((NUFORC Note:  We have requested that the party who submitted this report send us the complete text of the entry, and a photocopy of the diagram his great-grandmother apparently drew in her diary.  Time and date may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20540.html](http://www.nuforc.org/webreports/reports/020/S20540.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Fayetteville (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Too erractic to be a normal action.At approximately 8:45 pm an early star looking shape object appeared in the southern sky.The object seem to move in a south west diagonal direction.  The object moved faster than a celestial object ( star ) but slower than a aircraft or weather balloon.  The rising and stationary position seemed like it could be a weather balloon until it retracted to its mid way point.  The object faded as if someone was covering the object with a blanket fading in and out very fast.  At 9:05pm the object disappeared.  At approximately 9:45pm the same general direction we saw a sharp and bright light turn on with a 15 second delay of a second time.This may simply be a weather balloon phenomena but in case its not just wanted to mention it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98260.html](http://www.nuforc.org/webreports/reports/098/S98260.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
