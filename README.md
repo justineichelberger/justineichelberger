@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:29 on 28 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:27 on 28 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Spring Hill (TN) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Flash/Pulse of light shooting through Big DipperI was in my kitchen, looking out the window facing the W/NW. (this was shortly after sunset, & the sky was just getting dark) I saw a Red "fireball" that got my attention, which was similar to a flare being fired. I went outside a few minutes later to look in the sky & see if any of my neighbors might be shooting fireworks or flares... there were no other "fireballs" that followed. I kept watching the sky, and was looking at the "Big Dipper". (Which is almost perpendicular to the land horizon this time of year) At 8:45PM I saw a thick, white, "flash/streak" of light "shoot" through the center of the "cup" of the Dipper.  It came in from behind the "handle" & traveled between the 4 stars that make up the "cup"..... (Megrez, Phecda, Merak, & Dubhe.)  It was a perfectly centered path through the cup, & was 1/2 the width, or thickness of it.(If you were to scale the cup of the Big Dipper at let's say, 4 inches deep, the "flash/streak" would be 2 inches thick, by 4-6 inches long, & split the center perfectly, leaving an inch on both sides.)  The "object"/flash/ was not a bright streak like a meteor, but was more of a "beam", or "pulse".It was faint but clearly visible.  I'd say the brightness could be compared to the glow of the Milky Way on a good clear night. It was a quick pulse, lasting about a second or just under, & then was gone. It reminded me of the "flash" & "beam/contrails" of the 1991 Space Shuttle Discovery Video "STS 48" ........where an "object" is seen coming over Earth's horizon moving in a straight direction..... & then in the lower left corner of the screen a noticeable "Flash" occurs, which causes the "object" (along with a couple others) to suddenly change directions at a 90 degree angle & accelerate outward away from Earth.  Immediately following the mysterious flash, there are 2 "beams/pulses/contrails" that are visible speeding toward the direction of the main object that rose up over the Earth horizon. The "Flash/Pulse" I saw go through the Big Dipper, was very similar to the ones that appear to be "fired" at the mystery object in the STS 48 Video. This was unlike any other "UFO" sightings I've seen, & don't feel that it was a craft of any sort.... but then again, I just don't know.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50839.html](http://www.nuforc.org/webreports/reports/050/S50839.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Trenton (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately few seconds - few seconds minutes.</sub><blockquote><sub>Bright orb that split into pieces, then disappeared.I saw a blinking light crossing the sky going east towards Trenton, Ohio.  Decided to watch it.  A bright glowing orb appeared after I lost track of that.  The orb split into two or maybe three smaller ones, then disappeared.I wouldn't think think anything of this, passing it off as nighttime skydiving or something.  There's an airport in that general direction.  However, a few months back I saw some orbs of the same color going North and ascending at roughly a 45 degree angle that were the same color as the ones I saw today.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119196.html](http://www.nuforc.org/webreports/reports/119/S119196.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
