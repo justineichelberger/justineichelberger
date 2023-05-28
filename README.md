@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:28 on 28 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:34 on 28 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>a glowing oval with two flashing lights and a light ring.the UFO I saw was an oval with a ring of lights at the bottom that went right-to-left, there were also two blinking lights in the middle on the left-center of the craft. The craft itself was glowing a whitish yellow. I saw it in between two massive trees. I saw only one and I believe that I was the only witness because I have heard no one else admit to seeing one. it was a three-quarters moon, therefore the sky was bright and I had a clear view of the sky around it, there were no clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156785.html](http://www.nuforc.org/webreports/reports/156/S156785.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Mindon (UT) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Young woman watching television while sitting on beanbag in bedroom observed a very bright green cylinder go streaking across the sky and disappear behind Hogsback Mountain.  It seemed to be luminous green from within, and it lit up the whole area.  At first, she thought it might have landed, but she could not be sure--it just went behind the mountain. Itappeared that "stuff was coming out the back."  It illuminated the entire area with green light. the sighting was during the David Letterman program.  A taxi driver had just left the stage, and Bill Cosby was about to come on. She called the police, who reported that two pilots in the area had reported a green flash.  Also, two people in Brigham City had reported apparently the same event.  She called the Utah State University the next day, but they said they didn't have anything flying that night. Her daughter's birthday was the next day.  She just saw a brief flash.  It scared her, and she called her friend.  No sound was evident, but she was inside her house with the television on.Salt Lake City FAA (Cedar City Facility--(800) 992-7433) at first said they didn't have our telephone hotline number, but then they gave her our number. I got her permission to give her name to Zack Van Eyck.  I recommended that she send a letter to the Editor of her local paper.I asked her for a report, map, and an illustration.  She said she alread had an illustration done.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01526.html](http://www.nuforc.org/webreports/reports/001/S01526.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
