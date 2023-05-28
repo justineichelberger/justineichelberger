@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:25 on 28 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:56 on 28 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Newport () reported seeing craft that fit the description of some 'Cigar' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Metallic cigar-shaped object.On a earlier date (October 5th, 2017), I went outside to take a picture, for reasons I don't even know, but later next year (5/28/18) I was looking through my photos carefully, when I spotted something on the photo that I took a year earlier.  The object is pretty much a cigar shaped thing and was metallic.  The object I assume is pretty high altitude judging by the original photo.  Sadly, I can't remember what the object was doing since it was a while a go.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142410.html](http://www.nuforc.org/webreports/reports/142/S142410.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Aurora (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>((NUFORC Note:  When we first posted this report, we assumed that it was sincere, and submitted by a seriou-minded source.  However, that party has failed to respond to all our attempts to communicate with him, so we suspect that it may have been an attempt to hoax our Center.  We are uncertain.  PD))Large light, changing from green to red, moving erratically with great speed in western sky.Directly due west of Aurora at 22:25, I witnessed what appeared to be a stationary red star, deep red in color with magnitude approximately 3 times that of Jupiter.  Position of red object was nearly 6 o'clock from Jupiter's position.  During observation, after approximately 3 minutes of observing while trying to determine what it was, I was seeing, object shifted to an emerald green color and began "drifting" - imagine a leaf falling to the ground.  This "drift" pattern of shifting left to right in gradually increasing arcs continued for approximately one minute before object became stationary again and began shifting back and forth from red to green.  Due to street light, I was unable to focus phone for photograph.  Object remained stationary for several minutes, changing in color with varying speeds from red to green before it moved incredibly fast across the sky due north.Three "orb" lights moving in different directions converged on the place where object was last stationary forming a very accurate triangle before "blinking" out.  They just vanished.  Object then raced back across sky for less than 10 seconds, changing colors from red to green while doing so before moving beyond my line of sight due west.As a photographer and amateur astronomer, I've seen meteorites, atmospheric impact on projected magnitude of various stars and planets and I am more than familiar with aircraft and helicopter appearance at night - this was absolutely not any of these things.  I can't tell you what it was that I saw, but I can tell you what it was not and it was not any standard astronomical object or known terrestrial craft.((NUFORC Note:  We spoke via telephone with this witness, and he sounded to us to be quite serious-minded.  We suspect that he is an excellent witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127574.html](http://www.nuforc.org/webreports/reports/127/S127574.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
