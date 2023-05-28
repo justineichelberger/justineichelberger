@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:32 on 27 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:28 on 28 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bellingham (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Light FormationsWas driving down from my home on San Juan Blvd. turned onto Puget to head down the hill to the 7-11 on lakeway... at the top of said hill you can see out across the bay toward Lummi Island and the Salish Sea.  I saw 20+ reddish orange objects take off from what looked like at least 8-13 miles out from the sea in a north easterly direction...  I took some video, then went to the store than left a good 5 minutes later, drove back up the hill towards my house when I stopped and looked back out off the hill they were still taking off.  There was no sound what so ever as you would expect from modern day military aircraft.. I've never known a airliner to fly in formation either...  9:54 pm pacific time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127543.html](http://www.nuforc.org/webreports/reports/127/S127543.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>a glowing oval with two flashing lights and a light ring.the UFO I saw was an oval with a ring of lights at the bottom that went right-to-left, there were also two blinking lights in the middle on the left-center of the craft. The craft itself was glowing a whitish yellow. I saw it in between two massive trees. I saw only one and I believe that I was the only witness because I have heard no one else admit to seeing one. it was a three-quarters moon, therefore the sky was bright and I had a clear view of the sky around it, there were no clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156785.html](http://www.nuforc.org/webreports/reports/156/S156785.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/163/S163677.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163394.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163487.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163517.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
