@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:23 on 28 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:25 on 28 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Eagle Butte (SD) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.075 - 0.075 minutes.</sub><blockquote><sub>a large bright light was taking our picture.as we were coming out of our apartment, going to the convenience store, i noticed a bright light moving slowly at an eastern direction, just below the moon. it was a full moon that night so the night was pretty lit up with stars. i thought it was a satelite, but it seemed to be slowing down to a steady pace. i alerted my girlfriend about the light, just to make sure i was'nt freaking out. she became very nervous, and wanted to go quickly. and thats when it seemed to be observing our town, because we live in an apartment complex south of town. it seemed to flashing lights at us, they were'nt bright but suttle, and wierd. because with every flash i could see the open fields behind our apartments. but beyond that the flash would stop. i looked up again and it started to move faster, but this time it started to turn in a southern direction. with a quick flash of light it disappeared.((NUFORC Note:  Witness indicates that date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44593.html](http://www.nuforc.org/webreports/reports/044/S44593.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Newport () reported seeing craft that fit the description of some 'Cigar' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Metallic cigar-shaped object.On a earlier date (October 5th, 2017), I went outside to take a picture, for reasons I don't even know, but later next year (5/28/18) I was looking through my photos carefully, when I spotted something on the photo that I took a year earlier.  The object is pretty much a cigar shaped thing and was metallic.  The object I assume is pretty high altitude judging by the original photo.  Sadly, I can't remember what the object was doing since it was a while a go.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142410.html](http://www.nuforc.org/webreports/reports/142/S142410.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/163/S163378.html)
-- [279](http://www.nuforc.org/webreports/reports/163/S163494.html)
-- [278](http://www.nuforc.org/webreports/reports/163/S163377.html)
-- [277](http://www.nuforc.org/webreports/reports/163/S163499.html)
-- [276](http://www.nuforc.org/webreports/reports/163/S163374.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
