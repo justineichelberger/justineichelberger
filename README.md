@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:39 on 29 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:36 on 29 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Parkville (MD) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.8333333333333334 - 0.8333333333333334 minutes.</sub><blockquote><sub>Baltimore, Maryland, May 29,2009 sphere that traveled from west to east.Saucer shaped the size of a helicopter traveling from West to East faster than a helicopter about 200 feet above ground.  Center of vessel glowed white as it moved.  There were distinct square outlines around the interior perimeter that rotated with craft movement.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70267.html](http://www.nuforc.org/webreports/reports/070/S70267.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Jamaica (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>all heading in one direction .. so many of them but one of them was huge.. colors all around object... queens ny  i seen lots of dots in sky with different color light.. then about 30 min later i seen a giant one round with lights all around spinning. then about 20 min after that there where about 10 of them far in sky.. they formed different shapes ... triangles .. weird shapes .. so many lights</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63654.html](http://www.nuforc.org/webreports/reports/063/S63654.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/163/S163498.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163509.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163496.html)
-- [271](http://www.nuforc.org/webreports/reports/163/S163521.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163650.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
