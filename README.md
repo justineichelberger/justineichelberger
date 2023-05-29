@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:27 on 29 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:22 on 29 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Buffalo (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Extremely large bright teardrop shape fluorescent green light flew across the sky horizontally, with a bright white flash of light.I went outside and looked up at the sky.  All of a sudden an extremely large bright elongated teardrop shape fluorescent  to dark jade green light flew across the sky horizontally.  It was moving so fast, it was a matter of seconds and I couldn't see it anymore as it made its way from the western sky to the eastern sky.  It seemed like it was flying low. It was far below the stars or the path of a plane.  There was a very bright white flash of light behind it.  There wasn't any noise.  No other visible objects or colors were seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134339.html](http://www.nuforc.org/webreports/reports/134/S134339.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Byron (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>We seen four bright orange triangler object two within 30 sec of each other and another two about five minutes after.  No sound and and moving smooth east to west shortly after!  I have video and didn't appear to be block by the clouds!((NUFORC Note:  We have corrected the date above, by assigning an arbitrary date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127585.html](http://www.nuforc.org/webreports/reports/127/S127585.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/163/S163498.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163509.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163496.html)
-- [271](http://www.nuforc.org/webreports/reports/163/S163521.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163650.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
