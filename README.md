@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:36 on 29 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:23 on 29 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>IT LOOKED LIKE A DRONE,IT WAS A BRIGHT GREEN NEON COLOR LIGHT AT THE BOTTOM. (LIKE A SHOOTING STAR, BUT IT WASN'T) IT HUBBARD AND IN SECONDS IT DISAPPEARED, I SAY NO MORE THAN 10 SECONDS THE MOST.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156743.html](http://www.nuforc.org/webreports/reports/156/S156743.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Nollensville (TN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Shining turquoise star-like sphere appears and disappears.I was walking my dog when I saw a turquoise star about the current size of Jupiter in the night sky.  It was stationary and appeared out of nowhere.  I watched it for about a minute but saw no other lights on the object.  It appeared to be stationary in the sky.  The color was extremely unusual along with the fact that there were no other lights on the sphere.  I watched it for awhile wondering if it was possibly a drone but it was too high in the sky and too still and had no other lights on it and as I considered this it disappeared before my eyes.  It just dissolved.  This seemed to confirm it was either an object that was instantly covered by clouds or it turned on a cloaking feature or had some strange technology that enabled it to perform this strange feat.  Later, as I got closer to my home and approached my house, my spouse came out and I saw the turquoise star-like sphere object reappear over the neighbors roof line.  It then disappeared again after a few seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146507.html](http://www.nuforc.org/webreports/reports/146/S146507.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/163/S163498.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163509.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163496.html)
-- [271](http://www.nuforc.org/webreports/reports/163/S163521.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163650.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
