@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:28 on 29 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:39 on 29 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Carson City (NV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I noticed a low flying triangular air craft with no sound and decided to sit there on the side of the road (on Mountain Street) and just watch it.  It moved from left to right slowly and then hovered for another few minutes.  Before I knew it it was gone.  Vanished into the sky without a trace.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146307.html](http://www.nuforc.org/webreports/reports/146/S146307.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Parkville (MD) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.8333333333333334 - 0.8333333333333334 minutes.</sub><blockquote><sub>Baltimore, Maryland, May 29,2009 sphere that traveled from west to east.Saucer shaped the size of a helicopter traveling from West to East faster than a helicopter about 200 feet above ground.  Center of vessel glowed white as it moved.  There were distinct square outlines around the interior perimeter that rotated with craft movement.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70267.html](http://www.nuforc.org/webreports/reports/070/S70267.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/163/S163498.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163509.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163496.html)
-- [271](http://www.nuforc.org/webreports/reports/163/S163521.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163650.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
