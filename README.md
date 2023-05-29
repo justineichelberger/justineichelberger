@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:35 on 29 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:22 on 29 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Vaughn (Canada) (ON) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.021666666666666667 - 0.021666666666666667 minutes.</sub><blockquote><sub>Craft flying one on top of each other no lights  color black dimond shape direction west to east no noise  or any visual lights  movement was absolute directional i can cinfirm it was flying by power  what typei cant explain no visual exoust  or anything to confirm to normality((NUFORC Note:  When we receive a report that is as carelessly prepared as this one appears to be, we assume it is a hoax, submitted by a young person.  We attempted to contact the source via telephone, but the outgoing message tended to support our suspicion, we felt.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127580.html](http://www.nuforc.org/webreports/reports/127/S127580.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cody (WY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright white light/ resembling headlights extinguishing in secondsBetween 11:30 and 11:45 I went outside to have a cigarette.  I was in the Beartooth mountain range 30 miles outside of Cody, Wy, and noticed a bright white light to the west of me. The light first looked like a airline headlight, which was very bright given the height of the perceived object.  The light made its way to the east and lasted approximetly 10 seconds before it disappeared.  I stood outside for 5 more minutes to see if I could glimpse the craft which I thought could have possible been hidden due to the sparse clouds.  I did not see the light again.21 year old girl. Outdoor enthusiast, studying natural resource biology.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98630.html](http://www.nuforc.org/webreports/reports/098/S98630.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/163/S163498.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163509.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163496.html)
-- [271](http://www.nuforc.org/webreports/reports/163/S163521.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163650.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
