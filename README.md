@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:36 on 29 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:25 on 29 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Frankfort (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>huge orange lights fading away then reappearing again 15 mins laterI live in rural north-central Indiana [near frankfort].  Last night, the 30th, I was talking and looking at the stars with my girlfriend.  All of a sudden something caught the corner of my eye.  I stood up and saw 2 bright orange lights that appeared to be very big being very still in the sky.  Three seconds later they fade out.  Another three secs and 3 lights appeared west of the first set.  Then fading again..  We ran inside to tell her parents.  We came out and looked for about 15 minutes, then the same light caught my eye.  We stood up seeing 3 orange light fade away.  Then 2 seconds later *four* huge orange lights appear in a vertical line then the middle fades out, then the rest go.  I was scared ((deleted)).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23090.html](http://www.nuforc.org/webreports/reports/023/S23090.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in St. George Island (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>three large bright red, slow moving "shooting stars" seen over the Gulf of Mexico. Each was followed by sonic vibrationsSitting on the beach looking into the southern sky over the water saw one bright red object move slowly over the sky. Looked like a very large, slow moving, red shooting star. It lasted for about 10 seconds. It was followed by a loud and long, low frequency sonic vibration. About 15 minutes later two similar objects appeared simultaneously at a different location in the southern sky. These objects were also followed by a loud s</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56870.html](http://www.nuforc.org/webreports/reports/056/S56870.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/163/S163498.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163509.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163496.html)
-- [271](http://www.nuforc.org/webreports/reports/163/S163521.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163650.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
