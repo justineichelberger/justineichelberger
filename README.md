@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:25 on 29 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:31 on 29 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Palmdale (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3 - 0.3 minutes.</sub><blockquote><sub>At night, a bright orange light coming toward us and suddenly disappeared.I woke up in the middle of the night as I often do to let the dog outside. I came back to bed and my husband woke up.  I noticed a solid orange bright light coming toward us traveling south to north, I showed my husband, as we both stared at it, trying to figure out what it was, the light suddenly disappeared and did not come back on.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98227.html](http://www.nuforc.org/webreports/reports/098/S98227.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Walla Walla (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>slow moving fireball the day before a local crop circle story was in the newspaperI was sitting on my back porch facing east, looking at the stars and having a cigarette pretty early in the morning hours.  I had seen a few meteors streak the sky every once in a while and watched a satellite move by.  Then, I saw a big slow fireball coming toward my direction (from east to west) then going where the porch roof blocked the view overhead. I thought how weird a meteor could be that slow and big. I got out of my chair and looked weset over the roof and saw the fireball finally disappear in the night sky which I thought nothing more of.  THEN a day or two later the union bulletin (our local paper) had a story with pics of a crop circle in walla walla.((NUFORC Note:  We suspect the witness may be alluding to the crop circle that appeared in a wheat field on a north facing hillside, just south of Kennewick, WA, which is believed to have first appeared on, or about, Saturday morning of the Memorial Day weekend in 1993.  I will attempt to confirm the date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18812.html](http://www.nuforc.org/webreports/reports/018/S18812.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/163/S163498.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163509.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163496.html)
-- [271](http://www.nuforc.org/webreports/reports/163/S163521.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163650.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
