@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:31 on 29 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:59 on 29 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Concord (MA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>looked like a tiny show of white sparkling lightsan oval light flashing from light to lighter like a heart beat and inside were twinkling lights like stars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127567.html](http://www.nuforc.org/webreports/reports/127/S127567.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Addis Ababa (Ethiopia) () reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>a ufo blinking red that started from the orion belt and traveled to the east directionDear sirs,  This is a signting that took place on may the 10th 2010, at 21:30, in addis ababa, Ethiopia. The sighting looked like this.A tiny and white blinking point appeared first as me and my friend were watching at the sky and talking. That night there was no electricity in the area and we were waiting for it outside.  The blinking light was very tiny at first, and it started in the middle of the orion belt.  As we followed it, it continue to to get bigger and bigger. the blink repeats every 5 seconds.  Then the blinking got bigger and started moving in the east direction, and it was getting a little bigger again.  As we followed it, it continue moving, getting more  bigger, and finaly it equaled shape of a liitle bigger than mars.  The blinking also got red. This thing was blinking red, and moving in the east direction.  As we continue to follow, it moved very far, blinking every 5 seconds, until it disappeared. it was moving at a constant slow speeed. Because it's too far, we couldn't identify its shape.  But as it bliked it was possible to tell that it is flat and round shape. it accelerated to the ea! st continuing to blink every 5 second. Finaly it was moving far to the east direction, and we were following it, untill it gets out of sight.  We were amazed, what could be this thing, that it first starts in the three stars of the orion belt, and it continued to get bigger and redder and moved.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75790.html](http://www.nuforc.org/webreports/reports/075/S75790.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/163/S163498.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163509.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163496.html)
-- [271](http://www.nuforc.org/webreports/reports/163/S163521.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163650.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
