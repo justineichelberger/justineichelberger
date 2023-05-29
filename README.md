@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:25 on 29 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:36 on 29 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in St. George Island (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>three large bright red, slow moving "shooting stars" seen over the Gulf of Mexico. Each was followed by sonic vibrationsSitting on the beach looking into the southern sky over the water saw one bright red object move slowly over the sky. Looked like a very large, slow moving, red shooting star. It lasted for about 10 seconds. It was followed by a loud and long, low frequency sonic vibration. About 15 minutes later two similar objects appeared simultaneously at a different location in the southern sky. These objects were also followed by a loud s</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56870.html](http://www.nuforc.org/webreports/reports/056/S56870.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Gilroy (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>triangular 3 bright light craft flying silently near Gilroy,  CaliforniaI was driving in my car coming from Gilroy, California travelling east on highway 152 east halfway towards Interstate 5 opposite a very large reservoir as the full moon was out and the sky was clear.  The CHP was investigating an apparent truck accident across the road when I saw three very bright white lights in triangle formation fly at a 180 degree angle which was flying sideways fly over the accident at about twenty miles an hour silently.  There was no noise and the craft was flying at a very low altitude perhaps twenty feet above the ground and came right at me and straighted out and flew right over the hood of my car and it picked up speed and disappeared over the reservoir.  At first I thought it may have been a life flight helicopter but this craft made no noise and my car window was open.  I had the feeling the craft was friendly and was concerned about the accident.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56881.html](http://www.nuforc.org/webreports/reports/056/S56881.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/163/S163498.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163509.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163496.html)
-- [271](http://www.nuforc.org/webreports/reports/163/S163521.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163650.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
