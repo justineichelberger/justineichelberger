@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:22 on 29 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:33 on 29 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Byron (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>We seen four bright orange triangler object two within 30 sec of each other and another two about five minutes after.  No sound and and moving smooth east to west shortly after!  I have video and didn't appear to be block by the clouds!((NUFORC Note:  We have corrected the date above, by assigning an arbitrary date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127585.html](http://www.nuforc.org/webreports/reports/127/S127585.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Indianapolis (IN) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>5 sets of lights fly into the clouds and turn into or return to 5 large black soundless aircraftsI observed two sets of lights in the sky in an area where commercial aircraft fly near my house to approach the Indianapolis airport for landings.  The lights were flying side by side with some distance in between them.  They were traveling at a low speed and I thought they were possibly helicopters, however there was no engine noise.  I noticed that there was more distance between the two sets of lights.  At that point I noticed that one set of lights was climbing upward.  I watched the ascending set of lights climb through a cloud until it vanished from my view.  Then I saw a very large black circular and triangular shaped aircraft emerge from behind the clouds floating very slowly. The craft started descending and changed into a baloon like shape.  I saw a total of five sets of lights and all five flew the exact same pattern and did the same thing.  I did not see where they went or landed. I am a 66 year old Air Force Veteran and I have never seen anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109916.html](http://www.nuforc.org/webreports/reports/109/S109916.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/163/S163498.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163509.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163496.html)
-- [271](http://www.nuforc.org/webreports/reports/163/S163521.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163650.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
