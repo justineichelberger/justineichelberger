@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:21 on 30 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:36 on 30 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Longwood (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>3 Super FastMy apartment faces East. I was standing out on my 4th story balcony taking videos of the lightening (we had a severe thunderstorm warning). After a few minutes of recording, I saw from my North East point of view what looked like a huge deep orange fireball moving way faster than an aircraft. It was not blinking. It was flying super fast in a Western direction. I estimate around 800 mph high in the atmosphere--as it was moving much faster than the (normal red, white, and blue) blinking airplanes headed towards the Orlando International Airport. I at first thought it was a meteor in the atmosphere that came too close, or maybe the international space station, or even a lantern someone let off, but realized it wasn't any of those things. This fireball orb also had a faint white glow around the orange on the exterior. It's brightness fluctuated. It kept its path but seemed to slow down and speed up as it went...It then got smaller, darted, and completely disappeared into thin air. About 1-2 minutes later another identical looking fireball darted from the exact same direction and headed in the same direction at the same speed, also before completely vanishing around the same area. Before the 2nd fireball orb vanished, it remained in the same place in the sky. I actually took a video of these first 2 that I will email. The 3rd glowing fireball was much further to my north peaking in and out of the trees (you could tell it was much further away), getting brighter and fainter repetitively until it too, vanished. (this 3rd one was too distant to get on camera but I witnessed it). I have footage of the first 2 glowing orb fireballs on my iPhone.The closer I zoomed in on my iPhone I realized it seemed to be changing shaped and others seemed to be flashing in an out of the sky. I will edit my footage so that you can see those parts in slow-motion. The space launch sight (Cape Canaveral) is more to my South-East and I see the launches. I saw the historical launch today. While the rockets look orange in the dark, they have a super specific trajectory and are far more distant. There were also no other launches today. These fireballs were pretty sizable, much closer, and flying then disappearing. I know what I saw and it was nothing like the rocket launches, didn't look like any of the airplanes, and these glowing orb fireballs looked like nothing I had ever seen before. They only came around as the severe thunderstorm moved away South-West towards downtown Orlando and it had stopped raining at my place. (Tons of lightning)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156797.html](http://www.nuforc.org/webreports/reports/156/S156797.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Portsmouth (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>The security i neededI was sitting out back and saw a light light up, so I bent over on the chair with my smart phone and started filming for 3 minutes.  I scanned through the film and found it and took a screenshot.  I WILL EMAIL THE SCREENSHOT.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146532.html](http://www.nuforc.org/webreports/reports/146/S146532.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
