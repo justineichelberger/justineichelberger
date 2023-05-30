@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:26 on 30 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:28 on 30 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Safford (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Fire ball in sky over Safford ArizonaIt was shift change and I was relieving the employee before me. I looked to the sky and saw a large "fireball" like object form in the sky overhead. It split into 4 smaller fireballs which flew around a bit and then reconverged into one and disappeared. My coworker saw it as she stood beside me.As soon as the fireball disappeared it looked like there were many many plane lights blinking on and off around the same area the "fireballs had converged to" We didn't think there was any possible way that many planes should be in that small an airspace. I'm not sure what this was but it was unlike anything else I have seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56896.html](http://www.nuforc.org/webreports/reports/056/S56896.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 1:10 - 1:10 minutes.</sub><blockquote><sub>I saw an advanced muffled helicopter rapidly chasing a darting white dot in the sky.Yes.  Very simple. I live in the middle of Las Vegas, NV – never seen a UFO before.  Last Tuesday night (6-30-17) I stepped out onto my balcony and saw a muffled helicopter chasing one white dot at very high speed due East, then both objects darted to the North, heading straight towards Nellis AFB.  I made a quick report to 911.  Dot moved like a UFO; the chopper moved more like a fighter plane.  I wasn’t going to do this report until I heard you with George on Coast last night.  Thanks.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134412.html](http://www.nuforc.org/webreports/reports/134/S134412.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
