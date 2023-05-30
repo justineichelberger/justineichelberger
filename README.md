@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:30 on 30 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:24 on 30 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Dauphin (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Saw what I thought was a satellite or a shooting star until object moved not in a straight or arked line.  Object moved in a near zig zag manor and meandered around until disappearing behind the Forest.  No plane or craft I know of can move in such a manner.  Object was round and shown as a white light.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119252.html](http://www.nuforc.org/webreports/reports/119/S119252.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Bakersfield (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Wormhole in sky with fast moving star objectsOn May 30th, my sons and a friend were outside when my friend runs in and tells me to go look at the sky as he gets his phone. When I ran outside and looked,  there was multiple fast moving stars in a straight line as If they were on a invisible freeway. The moving stars were traveling in groups on 2 or 3. As we keep looking some would disappear.  My son and I were able to see a faint portal or worm hole they came out of. It blended with the sky and had purple rays coming from it where the fast disappearing star traveled on.  What we seen in the sky couldn’t be seen on our cameras.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163522.html](http://www.nuforc.org/webreports/reports/163/S163522.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
