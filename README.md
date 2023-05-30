@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:33 on 30 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:30 on 30 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in El Sobrante (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My dog woke me up at 3:20 AM, whining as though he had to go do his duty. It is extremely rare that he will wake me up. I got up, let the dog outside and noticed a completely silent, but lighted object in sky. It was brightly lit (white light) and there were very bright flashing lights (white light) directly underneath which were either rotating or pulsating from different areas underneath... no pattern to flashing. The object was travelling South to North, although at first it seemed to be stationary for about 1 minute or so. It slowly made its way to the horizon and left my field of view. Initially I would estimate it may have been approximately  1 mile beyond my location travelling North. Perhaps this was some sort of military craft, although completely silent. Travis AFB is North of my location... very strange indeed. I only wish I had grabbed my video camera. I was just standing there trying to figure out what I was seeing. This is the first time that I have ever seen anything like this and have heard of your website through Art Bell's radio show.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17845.html](http://www.nuforc.org/webreports/reports/017/S17845.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Dauphin (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Saw what I thought was a satellite or a shooting star until object moved not in a straight or arked line.  Object moved in a near zig zag manor and meandered around until disappearing behind the Forest.  No plane or craft I know of can move in such a manner.  Object was round and shown as a white light.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119252.html](http://www.nuforc.org/webreports/reports/119/S119252.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
