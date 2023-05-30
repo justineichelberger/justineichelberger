@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:27 on 30 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:27 on 30 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Madison (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately drive by - drive by minutes.</sub><blockquote><sub>UFO During Lightening StormDriving by the Pine Hall Brick water tower, I saw what looked like a mechanical double-flashing light coming from a ufo air craft seen tucked just within cloud during lightening storm.It remained stationary.  Might balls of lightening but it looked mechanical, blinking like air plane lights. As another description, would say it looked like a cell tower with a white blink but there are no towers.I could have sworn I felt an electrical vibration.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89288.html](http://www.nuforc.org/webreports/reports/089/S89288.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Nashville (TN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>White, flashing object, looked like an airplane, but traveling way too fast.I thought it was a plane, but it was traveling WAY too fast.  It was daylight outside, with clouds, it was white and it looked like lights were flashing on it, then it just disapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50770.html](http://www.nuforc.org/webreports/reports/050/S50770.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
