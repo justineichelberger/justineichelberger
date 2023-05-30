@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:29 on 30 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:22 on 30 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Object with no contrails, fly erratically over Las Vegas ValleyThis is the second time I have seen an object over the Las Vegas Valley. I observered the same type of object about one month ago.  I am a former Police Officer.During todays occurance I was sitting on the Southern back deck of where I live with a clear view of the Southern sky above about 45 degress from ground to sky.  I observed a white object moving at slow but consistant pace toward the west at an unknown altitude and it seemed to flow the basic flight path of flights leaving from McCarren Airport.  However its pace was a lot slower than the planes that I could clearly see leaving the area.  The object changed direction at a full ninety degree turn and proceeded north.  That's when I took notice of it really. I watched it come toward the north, stop and then go west and then came to complete stop for about five minutes.  I used a Telephone pole as a guide of movement.  It then darted south and stopped. Another white object streaked throught the sky a little way west from the stationary object.  That object stayed there until I came inside to find somewhere to report it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75613.html](http://www.nuforc.org/webreports/reports/075/S75613.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Point Richmond (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>1 person witnesses a dark triangular UFO with lights in a star-like cluster that crosses 1/3 of sky in about 5 seconds.I was looking at the big dipper when what appeared to be a group of stars like the pleiades started moving towards the big dipper, crossed it, and continued moving north past the tree line all in a straight line.Total time viewed about 5 to 7 seconds.  As I stared at it, the background stars were blocked out as it passed in the shape of a large dark triangle with some star-like lights in a smaller area in the center.All planes in the sky had flashing lights on them and moved much slower.  This craft had no flashing lights, and crossed 1/3 of the sky in 5 to 7 seconds.  It was impossible to judge distance or size, though it crossed the cup of the big dipper and seemed to be about a third of the cup in size.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98271.html](http://www.nuforc.org/webreports/reports/098/S98271.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
