@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:29 on 29 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:29 on 30 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Torrance (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>OBJECT BLACKER THAN THE SKY HOVERING  ABOVE GIANT POWER LINESWHILE STANDING OUT SIDE IN FONT OF MY HOUSE PETTING MY CAT I LOOKED DOWN MY STREET AND A BIG BLACK CIRCULAR TYPE OBJECT WAS UP FAIRLY HIGH IN THE SKY.I LIVE UP AGAINST A NURSERY WITH THOSE GIANT POWER LINES THAT RUN THROUGH THEM, AND THE OBJECT WAS ABOUT 15 OR SLIGHTLY MORE, FEET HIGHER THAN THE TOP OF POWER LINE.IT SEEMED TO JUST FLOAT THERE.  THERE WERE NO LIGHTS ON IT AND IT WAS VERY BLACK,BLACKER THAN THE SKY.  I WALKED TO THE CORNER AT THIS POINT I THINK I WAS ABOUT 150 YARDS FROM IT.I STARTED TO WALK TOWARDS IT SO I COULD GET A BETTER LOOK.I WALKED AT A CALM PACE AND AS I DID THE OBJECT STARTED TO SLOWLY MOVE DOWN CLOSER TO THE GROUND IT MOVED LIKE A BALLOON THAT HAS RUN OUT OF HELEUM,BUT IT SEEMED TO HAVE CONTROL.AS I GOT ABOUT HALF WAY TO IT IT WAS MOVING OUT OF SITE BEHIND A TREE IN SOME ONES FRONT YARD.I FIGURED I WOULD SEE IT COME ON THE OTHER SIDE OF THE TREE AND LAND ON THE GROUND SINCE IT WAS MOVING IN A DIRECTION THAT WOULD HAVE PUT IN THE STREET OR IN A FRONT YARD BUT IT NEVER SHOWED UP AND WHEN I REACHED THE TREE ICOULD SEE THERE WAS NOTHING IN IT .THE THING I SAW WAS JUST GONE SO I TURNED AND WALKED HOME.I CALLED A FRIEND TO TELL HIM WHAT I SAW(IT WAS NOW 2:30 AM) WHILE STILL OUT SIDE LOOKING THEN I WENT INN FOR THE NIGHT.ABOUT TWO AND A HALF HOURS LATER IWAS STILL UP ON MY COMPUTER ANDTHERE WAS A POWER FAILURE THAT MADE THE HOLE BLOCK GET REAL DARK FOR A SECOND THEN IT CAME BACK ON AND THAT WAS THE LAST WEIRED EVENT FOR THE NIGHT.MY MOM SAID I SHOULD COME TO THIS SITE AND FILL THIS OUT EVEN IF WHAT I SAW WASNT THE STERIOTYPICAL TYPE OF UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44188.html](http://www.nuforc.org/webreports/reports/044/S44188.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Object with no contrails, fly erratically over Las Vegas ValleyThis is the second time I have seen an object over the Las Vegas Valley. I observered the same type of object about one month ago.  I am a former Police Officer.During todays occurance I was sitting on the Southern back deck of where I live with a clear view of the Southern sky above about 45 degress from ground to sky.  I observed a white object moving at slow but consistant pace toward the west at an unknown altitude and it seemed to flow the basic flight path of flights leaving from McCarren Airport.  However its pace was a lot slower than the planes that I could clearly see leaving the area.  The object changed direction at a full ninety degree turn and proceeded north.  That's when I took notice of it really. I watched it come toward the north, stop and then go west and then came to complete stop for about five minutes.  I used a Telephone pole as a guide of movement.  It then darted south and stopped. Another white object streaked throught the sky a little way west from the stationary object.  That object stayed there until I came inside to find somewhere to report it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75613.html](http://www.nuforc.org/webreports/reports/075/S75613.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/163/S163498.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163509.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163496.html)
-- [271](http://www.nuforc.org/webreports/reports/163/S163521.html)
-- [270](http://www.nuforc.org/webreports/reports/163/S163650.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
