@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:24 on 30 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:37 on 30 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Gila Bend (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Flashing lights south of Interstate 8, Maricopa, AZ, area.some time between 9 and 9:40 pm on may 30th on the interstate 8 coming home from California..  I was watching the sky for falling stars and first spotted and watched a sattelite cruising by.  Then a flashing light caught my eye, as i watched it i saw others sort of following it, but if so they were in an exact formation of distance from one another.  There were 4 at first..  And as i moved further east and away from lights they appeared to have a curvature.  As those lights moved north/northwest 2 more flashing lights appeared below and after the first 4 however overlapping below the 4.  i watched until lights were too far behind me to see any longer due to headlights in my vision behind us..  The lights were white in color and much larger then stars in the sky they flashed at a set pace and individually.  I assume it was some sort of air force manuever, as i have not heard of anyone else seeing these lights at this time.((NUFORC Note:  We have changed the time above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134350.html](http://www.nuforc.org/webreports/reports/134/S134350.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Riverside (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately Few minutes - Few minutes minutes.</sub><blockquote><sub>Red light (looked/twinkled like a star) moving in slow circular pattern near Arcturus.  Lasted a few minutes, disappeared, followed by bright circular flash nearby and audible boom/percussion.  Never seen anything like it.  Missile test?((NUFORC Note:  Source of the report elects to remain anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134341.html](http://www.nuforc.org/webreports/reports/134/S134341.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
