@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:17 on 30 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:30 on 30 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Kingston-upon-Hull (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright light observing Police Helecopter for 10 Mins in clear night skyI observed this light approaching/coming toward me at fast speed. It was dark, clear sky. It stopped approx 300mtrs away from the circling overhead police helecopter and continued to "observe" it for approx 10 mins. When the helecopter vacated the area in a NE direction, the light disappeared at vast speed in a SE direction and disappeared. It not only stopped and observed helecopter, it made circular sweeps and right angled sweeps. It was impossible for it to be an aeroplane as the object was stationary when it was observing, and 2 it couldnt have been a helecopter as the right angled movements it made would not have been possible for this type of aircraft.This is the first time I have ever seen something like this , and to be honest it was a wierd experience. I genuinely hope it was "something" because it was facinating to watch it perform.A motor vehicle approached behind me down a well lit street and also looked up into the sky but did not stop. The car had 2 occupants in it, possible witnesses?? Dunno. When it vacated the air space, I can only describe it as "bloody fast" and silent. The light faded when it was a distance away. Really wonderful experience and I really hope its something.I have also reported the incident to my local police station, and received a log number for it so you can verify I have actually seen this event.((NUFORC Note:  The witness holds a position of responsibility, and possesses considerable technical background.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28997.html](http://www.nuforc.org/webreports/reports/028/S28997.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Rock Hill (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange-reddish light traveling slowly from South to North near Hwy 901/ I-77 area.Object appeared in southern Sky near Hwy 901 and I-77 area.  Observed a orange-reddish light traveling from the South headed due North.  First observed Orange-reddish coming from the south over the tree line, and thought it was a firework, but then realized it was not traveling up but horizontal from South to North.  Followed Orange-reddish light over trees and house.  It was traveling too slow to be a small airplane.  There was no noise coming from the object.   It remained on a steady South to North course and a constant slow speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119246.html](http://www.nuforc.org/webreports/reports/119/S119246.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
