@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:27 on 30 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:27 on 30 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Hartville (MO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strobing lights and "gateway" with sphere/disk shaped craftMy husband and I decided to go outside and star watch for a while because it was such a beautiful night outside. We were sitting on top of the car hood and noticed that the whole sky was strobing! It fluxuated between darker and then a second of lighter then darker navy blue. It was like really intense heat lightning. And then I saw something else in the sky, a small, black circle. It grew fast into a large, black hole and even blotted out the stars. This was near the vicinity of the Big Dipper looking strait up and towards the north.And then a craft came through the middle of the hole that was lighter black - kind of dark grey , and it appeared as it emerged from the hole and slowed it's speed after the whole thing came through. The craft was shaped like a sphere or a disk.Then the black hole shrunk the same way it emerged and the craft disappeared  and then everything disappeared, nothing was left but strobing sky.My husband witnessed the strobing sky but not the "gateway" or the craft because that part only lasted at most a few seconds although the strobing lights in the sky lasted maybe 10 minutes, and my husband was looking at another part of the sky. He does say however that my description was similar to an event he witnessed 3 years ago up north in Alaska with the "portal" and a dark saucer shaped object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50805.html](http://www.nuforc.org/webreports/reports/050/S50805.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Stockton on tees (UK/England () reported seeing craft that fit the description of some 'Fireball' over a period of approximately Photo - Photo minutes.</sub><blockquote><sub>A bright white ball to port side of the plane.  One UFO bottom left of photo appears to be hiding in a cloud.  And two disc shaped objects.I was flying on a plane,when I took numerous snap shots of our approach to the island of Tenerife.  On reviewing the photo I noticed a bright white ball to the bottom right approx 800m away.  On closer inspection I'm sure I can see other objects in the photo using photo editor app.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98527.html](http://www.nuforc.org/webreports/reports/098/S98527.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
