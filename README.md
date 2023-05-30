@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:19:15 on 30 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:30 on 30 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Bratenhaul (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Police, myself and others stood 200 feet from UFO in Bratenaul, OhioI had a experience that I refuse to be hush about,I saw a ufo disc shape big as a football field maybe bigger i call police who also showed up on site. They stood there as amazed as all the other people who pulled their cars to side of street and got out to observe.  At that time anything the U.S would have that could hover above ground you wouldve heard all types of rockets going off and all this craft did was make a light humming sound like a transformer sound. The next day i was driving and listening to the radio and the dj said,I dont know what these people saw lastnite but at 10:00 last nite our phone lines began ringing off the hook, and no one could give them an explanation as to what they saw but they saw something.  Maybe 5 yrs. later i was looking at Jack Palance U.F.O sightings and he mention the same sightings.  I keep telling people about my experience cause I refuse to keep my mouth shut when I know that there something else going on out here that is more! intelligent than we are.  I would be willing to take a polligraph cause I know what police,other drivers and myself all saw.  I called to the police dept and even though the officer isnt there they still remember other officers speaking about the incident.  I was about 200 ft.from it.I did not see any silver men or whoever was inside,but i did see craft.((NUFORC Note:  Date may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85455.html](http://www.nuforc.org/webreports/reports/085/S85455.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lansing (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.18333333333333332 - 0.18333333333333332 minutes.</sub><blockquote><sub>Came outside. Starting recording at 9:51pm.  Saw a white circular object moving fast across the sky.  Looked like it was going in a straight line.  Did not see any blinking lights. Have eleven seconds video.  Thinking it might be from the Launch today, but have no idea.  Thank you</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156799.html](http://www.nuforc.org/webreports/reports/156/S156799.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
