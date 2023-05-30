@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:24 on 30 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:24 on 30 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Erie (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange orb/fireball seen across sky.I saw it while I was on my deck. It was an orange orb the was moving at a slightly fast pace. It made no sound and never changed direction. It was going southwest to northeast. It left no contrails nor did It flash or blink. It was below the clouds or it was bright enough to be seen without any change while in the clouds. As it was about over the City of Erie it began to to get much smaller. It disappeared then reappeared a few times then it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70278.html](http://www.nuforc.org/webreports/reports/070/S70278.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Gilbertville (MA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Sharp smooth movments pulsing colors and silentAt 2100 hours I was on my porch facing north twords the quabin.  I noticed a plane fly by with a white orb behind it, the orb stoped over the lake for about five min then was joined by two others they seemed to be flying the coast line and tuen they seemed to stop and one went over my head witch is south and the other two I lost i.n the trees</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98258.html](http://www.nuforc.org/webreports/reports/098/S98258.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
