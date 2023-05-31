@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:32 on 31 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:32 on 31 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Marion (IN) reported seeing craft that fit the description of some 'Egg' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>It looked like a small fire ball hovering over the outskirts of the ciity and moved very slow.We were sitting out side our house, when we witnessed an orange egg shaped glowing object.  We got up and it was hovering over an empty field.  We took a video but it was not bright enough to see in the taping.  It hovered for Bout 2 minutes.  The it made a ray of light into the clouds.  Then the egg shaped object moved and made a circle and went back to the same spot where we first seen it.  Then we lost sight of the egg shaped object.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98272.html](http://www.nuforc.org/webreports/reports/098/S98272.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Kailua (HI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Light white Triangle zigzagging 3 times, in a partly cloudy sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146569.html](http://www.nuforc.org/webreports/reports/146/S146569.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/163/S163549.html)
-- [246](http://www.nuforc.org/webreports/reports/163/S163556.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163482.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163538.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163540.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
