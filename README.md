@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:27 on 30 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:27 on 31 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Stockton on tees (UK/England () reported seeing craft that fit the description of some 'Fireball' over a period of approximately Photo - Photo minutes.</sub><blockquote><sub>A bright white ball to port side of the plane.  One UFO bottom left of photo appears to be hiding in a cloud.  And two disc shaped objects.I was flying on a plane,when I took numerous snap shots of our approach to the island of Tenerife.  On reviewing the photo I noticed a bright white ball to the bottom right approx 800m away.  On closer inspection I'm sure I can see other objects in the photo using photo editor app.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98527.html](http://www.nuforc.org/webreports/reports/098/S98527.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 66</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157408.html](http://www.nuforc.org/webreports/reports/157/S157408.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [309](http://www.nuforc.org/webreports/reports/163/S163518.html)
-- [308](http://www.nuforc.org/webreports/reports/163/S163522.html)
-- [307](http://www.nuforc.org/webreports/reports/163/S163560.html)
-- [306](http://www.nuforc.org/webreports/reports/163/S163523.html)
-- [305](http://www.nuforc.org/webreports/reports/163/S163524.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
