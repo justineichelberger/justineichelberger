@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:30 on 31 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:31 on 31 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Ogden (UT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Spherical orb over the mountains in North Ogden UtahWalking to work on Sunday Memorial Day Weekend.  Walking down Hwy 89 past Ben Lomond Golf Course.  I saw a spherical object up over the mountain far to the right side of Ben Lomond Mountain.  I thought it was a familar vintage helicopter I've seen before.  It had a bright flashing light which I now believe was sun reflecting off one part and it rotated.  However, it was stationary only slightly moving either towards or away from me.  It started traveling upwards and then did so at a constant velocity.  It went up and up for a very long time until I could no longer see it.  Then a big silver military plane flew over the mountain area at a very high altitude.  No sounds or emissions of any sort.  Someone else here in Ogden saw something exactly the same as this  on 1/10/2009.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71195.html](http://www.nuforc.org/webreports/reports/071/S71195.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Knoxville (TN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>MUFON Follow-up on Knoxville sightingPeter, I followed up on this case by contacting the FAA  supervisor at McGee Tyson airport who could find no notes in the station logs for anomolies either by radar or reported by pilots or civilians during this time frame. Also, searching current available data, there were no satellites or orbiting vehicles that fit into this sighting as a possible explanation.The witness is highly qualified and very credible, being a pilot and aerospace engineer(ret).The object(s) described were obviously at a great distance or were not distinguishable by radar.I am sending a sketch by the witness of the objects he saw. Thanks again for your cooperation and assistance. Mr.Kim Shaffer  MUFON Tn.State Director  www.mufontennessee.org((NUFORC Note:  We express our gratitude to Mr. Kim Shaffer, MUFON Assistant State Director for Tennessee, for this report with NUFORC.  Mr. Shaffer can be reached at <shaffer56@earthlink.net>.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37442.html](http://www.nuforc.org/webreports/reports/037/S37442.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/163/S163549.html)
-- [246](http://www.nuforc.org/webreports/reports/163/S163556.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163482.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163538.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163540.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
