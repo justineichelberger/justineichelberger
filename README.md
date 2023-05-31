@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:23 on 31 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:25 on 31 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>100+ solid white objects/lights traveling SE to NW at 500-1500 feet overhead.While at a friend's house for a pool party, I happened to glance up at the southeastern sky and what I saw was unlike anything I'd seen before.  To my amazement, there was approximately 100 solid white lights moving very rapidly in formation in a northwesterly direction.  At that point I asked the group to look up and confirm what I was seeing.  Everyone was in agreement as to the description but no one in the 7-10 people there could explain what we were seeing.  The objects were moving at a high rate of speed (100+ mph) and there was no sound!  The formation was random with the objects following a consistent flight path.  As the group thinned, there were several small clusters of objects and finally, one was following at a considerable distance behind the others.  The large cluster and subsequent smaller clusters as well as the last few solo objects/lights traveled directly overhead, approximately 500-1500 feet directly above us as we watched in amazement. The duration of the event was probably 20+ minutes. As we watched the objects fade into the distance over Lake Travis or in that general direction, the sky began to get hazy with some low level cloud cover. We continued to watch the sky and probably 15-20 minutes after the initial event subsided, we glimpsed a similar formation much higher, above the haze/clouds traveling in the opposite direction. This time since the objects were much higher, they seemed to be moving much more slowly and at times appeared to stop. We eventually lost site of the objects/lights after about another 15-20 minutes as the cloud cover increased. Conditions: clear sky, no clouds during the first period of sighting then low level haze/clouds during the last period. We all snapped multiple photos with our phones and recorded video. Unfortunately, most photos and videos were way too dark to see any significant detail. I have posted the best two photos we captured. What we witnessed could not be explained that night and we still have no explanation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98558.html](http://www.nuforc.org/webreports/reports/098/S98558.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Versailles (KY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>fire ball  in sky  followed by large craft well lite .green fireball coming to earth .  leaves my line of vision i do not see or hear explosion .a few moments later i see a large  brightly lit object  appear and hover for around  3 or 4 moments. it then slowly passes over head at around 300 ft or more above me.  i look straight up and see a triangle shaped craft  very large in size.  the craft  produced a loud  humm  as it passed. it then  just drifted out of sight at no great rate of speed.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98253.html](http://www.nuforc.org/webreports/reports/098/S98253.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/163/S163549.html)
-- [246](http://www.nuforc.org/webreports/reports/163/S163556.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163482.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163538.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163540.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
