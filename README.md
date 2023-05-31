@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:32 on 31 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:22 on 31 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Kailua (HI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Light white Triangle zigzagging 3 times, in a partly cloudy sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146569.html](http://www.nuforc.org/webreports/reports/146/S146569.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Baton Rouge (LA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>I was in Louisiana on a business trip. Looking up to check the weather/cloud coverage I noticed an odd shape just floating through the sky. I kept staring at it because it was round and pink/orange colored and it just seemed so out of place. I asked my boyfriend if he saw it too but he was standing about 5 feet higher than I was (on the back of a moving truck) so before he could follow my pointing finger it dissapeared in the clouds.It didn't blink/flash and was not anything I have ever seen in the night sky before.Before it vaished in the clouds it seemed to leave a little trail of sparks.It looked very much like the image on the home page, but I wouldn't discribe it as a fireball, because it kept changing colors.(pink/orange) Did anyone else see this thing???</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37331.html](http://www.nuforc.org/webreports/reports/037/S37331.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/163/S163549.html)
-- [246](http://www.nuforc.org/webreports/reports/163/S163556.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163482.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163538.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163540.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
