@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:27 on 31 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:20 on 31 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Swansea (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Light NightAs I was letting my dog outside. I looked up into the sky and saw a bright light. It moved across the sky like aplane but it stopped directly in the sky and the light just dimmed and stayed there for a couple of seconds and dissapeared. A few minutes later I went back outside and saw A flashing light moving aacross the sky about 3 miles away from the position of the light. It moved acros the sky flashing at the same time. It did look like it was on orbit or something but I can't be too sure. I told my mother but I don't think she belived me. An aircraft was near the area but I am not sure if it had to do with the event</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23082.html](http://www.nuforc.org/webreports/reports/023/S23082.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Was on my back patio enjoying the evening when my mother said to look at the two strange objects in the sky.  I looked and noticed the objects were gaining height and glowing orange.  Next thing, the one object drops out of sight while the other gained height and vanished.  A couple minutes later two more objects appear doing the same thing and then vanish. Incident lasted about 12 minutes, including one more object appearing.  Thought it might be Chinese lanterns but watched videos of them and they didn't glow or perform the mannerisms of these objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146547.html](http://www.nuforc.org/webreports/reports/146/S146547.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/163/S163549.html)
-- [246](http://www.nuforc.org/webreports/reports/163/S163556.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163482.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163538.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163540.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
