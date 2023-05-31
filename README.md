@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:04:45 on 31 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:27 on 31 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Gastonia (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange fiery light that flickered then disappeared.My friend and I walked outside around 9:50 on May 31, 2013.  We were going to my car, and when I pulled from out of her driveway, we saw a big rounded rectangle that was a bright fiery orange.  We just jokingly said, “Look it’s a UFO!” then, as we watched it we noticed its flying pattern (south to north).  It had no blinking lights and it hovered more than it flew.  As we watched it, it started to flicker and while it was flickering, we saw three light sources.  It then disappeared.  We used logic to discount anything that was illogical. We did not have a camera on us to take a picture or video.  We proceeded to go inside and do some research.  We read many accounts that saw the same things we did.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98302.html](http://www.nuforc.org/webreports/reports/098/S98302.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Swansea (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Light NightAs I was letting my dog outside. I looked up into the sky and saw a bright light. It moved across the sky like aplane but it stopped directly in the sky and the light just dimmed and stayed there for a couple of seconds and dissapeared. A few minutes later I went back outside and saw A flashing light moving aacross the sky about 3 miles away from the position of the light. It moved acros the sky flashing at the same time. It did look like it was on orbit or something but I can't be too sure. I told my mother but I don't think she belived me. An aircraft was near the area but I am not sure if it had to do with the event</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23082.html](http://www.nuforc.org/webreports/reports/023/S23082.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/163/S163549.html)
-- [246](http://www.nuforc.org/webreports/reports/163/S163556.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163482.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163538.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163540.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
