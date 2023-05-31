@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:27:49 on 31 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:04:45 on 31 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lebanon (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright low orange lights traveling from south to northBright orange lights traveling from south to north at a rapid pace.  After about 30 - 40 seconds the objects took off towards the east and litterally vanished.  Other airplanes were in the sky and they were quickly ruled out.  I have two videos taken from my iPhone.  Sky was clear and no other objects noted.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98295.html](http://www.nuforc.org/webreports/reports/098/S98295.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Gastonia (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange fiery light that flickered then disappeared.My friend and I walked outside around 9:50 on May 31, 2013.  We were going to my car, and when I pulled from out of her driveway, we saw a big rounded rectangle that was a bright fiery orange.  We just jokingly said, “Look it’s a UFO!” then, as we watched it we noticed its flying pattern (south to north).  It had no blinking lights and it hovered more than it flew.  As we watched it, it started to flicker and while it was flickering, we saw three light sources.  It then disappeared.  We used logic to discount anything that was illogical. We did not have a camera on us to take a picture or video.  We proceeded to go inside and do some research.  We read many accounts that saw the same things we did.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98302.html](http://www.nuforc.org/webreports/reports/098/S98302.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/163/S163549.html)
-- [246](http://www.nuforc.org/webreports/reports/163/S163556.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163482.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163538.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163540.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
