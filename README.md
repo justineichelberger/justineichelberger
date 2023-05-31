@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:52 on 31 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:29 on 31 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Knoxville (TN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>MUFON Follow-up on Knoxville sightingPeter, I followed up on this case by contacting the FAA  supervisor at McGee Tyson airport who could find no notes in the station logs for anomolies either by radar or reported by pilots or civilians during this time frame. Also, searching current available data, there were no satellites or orbiting vehicles that fit into this sighting as a possible explanation.The witness is highly qualified and very credible, being a pilot and aerospace engineer(ret).The object(s) described were obviously at a great distance or were not distinguishable by radar.I am sending a sketch by the witness of the objects he saw. Thanks again for your cooperation and assistance. Mr.Kim Shaffer  MUFON Tn.State Director  www.mufontennessee.org((NUFORC Note:  We express our gratitude to Mr. Kim Shaffer, MUFON Assistant State Director for Tennessee, for this report with NUFORC.  Mr. Shaffer can be reached at <shaffer56@earthlink.net>.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37442.html](http://www.nuforc.org/webreports/reports/037/S37442.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Mastic (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Green light with white outline zooming past and disapearingThe object was seen just above the tree tops on the north service road.  It was a green bright light and circular in shape and seemed to have a white outline.   It shot past our car at a high speed and disapeared instantly. there was only one object seen by us.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75616.html](http://www.nuforc.org/webreports/reports/075/S75616.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/163/S163549.html)
-- [246](http://www.nuforc.org/webreports/reports/163/S163556.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163482.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163538.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163540.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
