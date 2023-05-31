@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:21 on 31 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:22 on 31 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Scarborough (ME) reported seeing craft that fit the description of some 'Cross' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>4 x shaped flying objects.We was driving north on Payne Rd in Scarborough, ME, on 5/31/2016, at about 4:15 PM and not very high above the trees at about 45 degrees 4 x shaped objects flew over the road in front of us they formed the shape of a diamond as they flew very fast very close together so close together you would think they were connected but they was not.   They made no sound if a jet would have been that close it would have been loud Many people must have seen them at rush hour about a mile from the Maine</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127626.html](http://www.nuforc.org/webreports/reports/127/S127626.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Gent (Belgium) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Hovering metal-like sphereIt was a metal ball hovering high in the sky. I was on my bicycle and stopped to watch. It was hovering. It was a metal ball/ sphere shining in the sun. No electric cables were near so it couldnt be something like that things to warn planes. It was noon. After three minutes i looked away for just an instant and it was gone. Quite amazing. I am absolutely sure off what i have seen! I have no further information regarding the object</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39977.html](http://www.nuforc.org/webreports/reports/039/S39977.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/163/S163549.html)
-- [246](http://www.nuforc.org/webreports/reports/163/S163556.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163482.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163538.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163540.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
