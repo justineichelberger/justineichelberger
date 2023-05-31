@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:26 on 31 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:19 on 31 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in San Clemente (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Large cigar shape at a slant in the air as low as an overpass. No wings no windows, grey color it vanished before our eyes...?On the 405 we saw a very large cigar shape, like a plane with no wings and no windows.  Grey and it was at a slant in the air not much higher than a overpass.  It was very large for a split second I thought a plane was crashing or an immediate landing?  Hovering very low saw the object for 2 seconds maybe 3 and then nothing?  We looked everywhere as fast as we could- nothing?  Very strange.  My husband is a financial advisor.  I’m a retired music manager.  We have never witnessed a UFO but this is something to report it was there and then it wasn’t we are beyond perplexed…((NUFORC Note:  We spoke via telephone with the source of the report, and she seemed to us to be quite sober-minded.  We suspect that she is a highly capable, and reliable, witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146548.html](http://www.nuforc.org/webreports/reports/146/S146548.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Los Banos (near; on Interstate 5) (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>We saw three spherical-shaped, bright white lights erratically flying over a field adjacent to interstate 5 in approximately Los Banos,Driving south on Interstate 5 from Sacramento to Los Angeles my husband looked over in a field to the east and saw one bright white, sphere shaped orb flying in an erratic pattern.  About five minutes later he saw three of them, again to the east side of the freeway, flying north.  They were not in formation, they bounced erratically, darting almost like moths to a lightbulb, he said. I was watching a movie on my iPad, so did not see all he saw, but he tapped me on the leg and asked me to look and I saw them for about a minute before we passed them.  The lights were very bright and round spherical shaped.  As we passed them I looked back at them.  There were no red signal lights or running lights to indicate it was an approved airplane, etc., and the erratic way these lights darted place to place were unlike any airplane or helicopter would be capable of.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98468.html](http://www.nuforc.org/webreports/reports/098/S98468.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/163/S163549.html)
-- [246](http://www.nuforc.org/webreports/reports/163/S163556.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163482.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163538.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163540.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
