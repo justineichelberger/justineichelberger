@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:29 on 31 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:32 on 31 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Mastic (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Green light with white outline zooming past and disapearingThe object was seen just above the tree tops on the north service road.  It was a green bright light and circular in shape and seemed to have a white outline.   It shot past our car at a high speed and disapeared instantly. there was only one object seen by us.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75616.html](http://www.nuforc.org/webreports/reports/075/S75616.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Marion (IN) reported seeing craft that fit the description of some 'Egg' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>It looked like a small fire ball hovering over the outskirts of the ciity and moved very slow.We were sitting out side our house, when we witnessed an orange egg shaped glowing object.  We got up and it was hovering over an empty field.  We took a video but it was not bright enough to see in the taping.  It hovered for Bout 2 minutes.  The it made a ray of light into the clouds.  Then the egg shaped object moved and made a circle and went back to the same spot where we first seen it.  Then we lost sight of the egg shaped object.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98272.html](http://www.nuforc.org/webreports/reports/098/S98272.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/163/S163549.html)
-- [246](http://www.nuforc.org/webreports/reports/163/S163556.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163482.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163538.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163540.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
