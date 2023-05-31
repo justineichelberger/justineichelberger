@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:34 on 31 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:30 on 31 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in El Paso (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two high altitude objects interacting with each other. Hovering. And rotating while in a hover.There  were two objects noted in the sky they were much higher in altitude than the commercial airliners flying at cruise altitude. One commercial airliner flew closely or at least superimposed near the objects. The first object was seen by itself for several minutes prior to the arrival of the second object. Both objects were equal in size and we’re hard to distinguish apart from a star in size and magnitude however the this occurred during a bright sunny day in El Paso. The objects appear to be rotating or at least moving in a way to cause reflection of the sunlight which would cause them to become greater and lesser in magnitude. No high velocity movements were seen but there was noted hovering or maintaining position for several minutes. At one point one of the objects turned and revealed an elongated cylinder shape with what looked like very small wings. My first assumption was that this was a satellite. As an aviation and space enthusiast I have never ! witnessed anything quite like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163557.html](http://www.nuforc.org/webreports/reports/163/S163557.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Ogden (UT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Spherical orb over the mountains in North Ogden UtahWalking to work on Sunday Memorial Day Weekend.  Walking down Hwy 89 past Ben Lomond Golf Course.  I saw a spherical object up over the mountain far to the right side of Ben Lomond Mountain.  I thought it was a familar vintage helicopter I've seen before.  It had a bright flashing light which I now believe was sun reflecting off one part and it rotated.  However, it was stationary only slightly moving either towards or away from me.  It started traveling upwards and then did so at a constant velocity.  It went up and up for a very long time until I could no longer see it.  Then a big silver military plane flew over the mountain area at a very high altitude.  No sounds or emissions of any sort.  Someone else here in Ogden saw something exactly the same as this  on 1/10/2009.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71195.html](http://www.nuforc.org/webreports/reports/071/S71195.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/163/S163549.html)
-- [246](http://www.nuforc.org/webreports/reports/163/S163556.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163482.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163538.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163540.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
