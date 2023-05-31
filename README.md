@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:27 on 31 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:46 on 31 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 66</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157408.html](http://www.nuforc.org/webreports/reports/157/S157408.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Lake Texoma (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Translucent UFO Triangle over Texas/OaklahomaDate:  May 31, 2008 Location: Lake Texoma, Texas Time:  11:30pm Direction of travel: West to East   A clear and moonless night.  Sitting on the front of a boat underway, looking at the stars.  Four adult friends, all witness this event.  While looking at the big dipper, we noticed a triangle shape outlined by three large soft glowing  lights one on each corner.The UFO looked very large, and moved slowly with no noise.There were no other lights visible from the object.The odd thing is that we could see through the object.  It looked translucent and we could see stars passing behind it as it moved across the sky.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))ADDENDUM:  A reader has suggested that the three objects/lights may have been an appearance of three satellites, orbiting in formation, which are thought to be part of the U. S. Navy N.O.S.S. surveillance satellite system.  At first, we thought that might be a possible explanation of the sighting, but we observe that when the three NOSS satellites are orbiting, usually NUFORC r</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63666.html](http://www.nuforc.org/webreports/reports/063/S63666.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/163/S163549.html)
-- [246](http://www.nuforc.org/webreports/reports/163/S163556.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163482.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163538.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163540.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
