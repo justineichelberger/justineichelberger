@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:22 on 31 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:32 on 31 May 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Gent (Belgium) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Hovering metal-like sphereIt was a metal ball hovering high in the sky. I was on my bicycle and stopped to watch. It was hovering. It was a metal ball/ sphere shining in the sun. No electric cables were near so it couldnt be something like that things to warn planes. It was noon. After three minutes i looked away for just an instant and it was gone. Quite amazing. I am absolutely sure off what i have seen! I have no further information regarding the object</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39977.html](http://www.nuforc.org/webreports/reports/039/S39977.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some '' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Dear Mr. Davenport, 	Every now and then I like to check in on your website.....that I thank you very much for by the way. Back in May there was a lot of hype about the BLUE MOON & JUPITER coming from SpaceWeather.com 	At around 10:50 (May 31st, 2007) I went out to view the BLUE MOON & JUPITER.  I was standing on my deck facing the East and slightly South when I saw what looked like a vertical column/vapor/cloud to the left of Jupiter.  There was a something that looked like a star rising up and out of it but then disappeared the higher it went.  To the right of the moon I could see a dim star.  I live in the city of St. Louis and most stars are lost in the night sky for us. This just felt a little weird but I am sure there is a probable explanation.After about twenty minutes I went back out on the deck to look at the BLUE MOON & JUPITER again. When I looked up I saw a small airplane with what I will call a vapor coming out of the back.  It was really up high and very small.....in the daylight it would look like smoke coming out of the back of it like when we were kids......could this have been a crop duster and do they do that at night?  It was flying like an airplane NOT LIKE WHAT I SAW EARLIER. That STAR LIKE object seemed to be rising up and out of the vertical column of cloud.  I know the difference.  I have gone over this incident a hundred times in my mind and yes, I do realize that very often we don’t always see what we think we see but I wanted to tell you about it anyway.  I am 66 years of age but this is one of the strangest things that I have ever encountered.  By the way I did check the news on the computer the next day to see if anyone else reported it but could not not find anything.  Then I rationalized that there were certainly enough people viewing the BLUE MOON that night and surely someone other then myself would have seen it.  So now I am left with the dilemma of what was it if anything?????  Carol  From SpaceWeather.com….. BLUE MOON & JUPITER:  Tonight's Blue Moon has a companion: Jupiter.  All night long, the giant planet will be located right beside the Moon.  You can see them with the naked eye or, for a real treat, scan the pair with a backyard telescope.  Behold the moons of Jupiter, lunar mountains and craters, and maybe even the Great Red Spot: sky map.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57478.html](http://www.nuforc.org/webreports/reports/057/S57478.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/163/S163549.html)
-- [246](http://www.nuforc.org/webreports/reports/163/S163556.html)
-- [245](http://www.nuforc.org/webreports/reports/163/S163482.html)
-- [244](http://www.nuforc.org/webreports/reports/163/S163538.html)
-- [243](http://www.nuforc.org/webreports/reports/163/S163540.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
