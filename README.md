@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:42 on 1 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:20 on 1 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1986, an anonymous witness in Memphis (TN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Three lights in a triangular formation.I am a 38 year old female.  When I was 16-17 years old I saw something unlike anything I have ever seen. It was very late at night and my parents where sleeping. I was in the living room watching television.  I decided to look out the window at the stars. The view from our window was unblocked and the sky was full of stars that night. I had only been looking for a few seconds when I suddenly saw what I believe was a UFO. Three lights in a triangular pattern appeared in the sky. At the top of the triangle shape was a red light. At the bottom in each corner was a white/yellowish color light. The two lights in the bottom corner left there position at a rapid rate of speed. The light in the left corner moved to the left and the right light moved to the right in the same formation at the same time. Both lights went out away from the red light. The two lights suddenly returned to their exact positions as before and the whole thing disappeared as if someone just turned it off. All I saw was lights in the form of a triangle. If it was a ship of some kind it had no other lights on it except the three that I described. I have never seen anything like this before or after that night. Considering my age reporting what I saw at the time was of no importance to me. Now that I am older I feel it is important that someone knows of what I saw. If it was a UFO or not maybe the information I have to offer could be of some kind of help or assistance to our world or country. I reported my sighting as one or possibly  three sightings because the two lights separated from there position as if they where separate from it but had a connection to the red light at the top somehow. From what I saw I believe it to be one main ship with others that detach . Thank you for time reading this and I hope I wrote it where you can understand what I saw. I’m more then glad to offer more detail if needed.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61273.html](http://www.nuforc.org/webreports/reports/061/S61273.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in Garden Grove (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>I was at the Newport Beach getting on the Newport freeway from Newport Blvd.  Just as I was getting on the freeway, in a lot of traffic, I saw to my left ahead of me a 20' long cigar shaped object.  It was about 70 feet from me, and about 40 feet high.  It traveled northward at about 3 mph.  It had what looked like molten lava all over it.  It had no visible doors or windows.  When it flew to my far left trees obstructed my view of it that I permanently lost sight of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149866.html](http://www.nuforc.org/webreports/reports/149/S149866.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
