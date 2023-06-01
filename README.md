@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:19 on 1 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:45 on 1 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1960, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>OBJECT WAS OVAL IN SHAPE AND HAD MANY LIGHTS ON THE INSIDE PERIMETER. THE COLOR WAS LIGHT GREEN, LIKE THE OLD LUMINOUS WATCHES THAT GLOWED IN THE DARK. THE OBJECT PULSATED LIGHTER TO DARKER, ABOUT 3 TO 5 PULSES A SECOND.I SAW THE OBJECT FOR ABOUT 5 SECONDS AS IT WENT ACROSS THE SKY. IT WAS SILENT AND THE SIZE WAS ABOUT TWO THUMBS LARGE WITH ARMS EXTENDED. I WAS ABOUT 12 AT THE TIME. HAVE NOT SEEN ANYTHING LIKE SINCE THAT TIME.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11169.html](http://www.nuforc.org/webreports/reports/011/S11169.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Cockeysville (MD) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I HAD SENT TO YOU THE PHOTO OF THIS EVENT. I NEVER EVEN RECEIVED A THANKS OR AT LEAST A COMMENT.  IT WAS A GOOD PHOTO OF THE STRANGE PHENOMENA, I SAW BACK IN 1998 I BELIEVE.  IT WAS ABOUTL  10:00PM,  FROM COCKEYSVILLE, MD.  IT WAS ANOTHER PERSON NEXT TO  ME AT THE TIME, AND WE BOTH WATCH THIS.  I TOOK THE PHOTO I SENT TO YOU IT LASTED ABOUT TWO MINUTES.. THE LEAST YOU COULD HAVE DONE, IS TO SAY THANKS  NO WAY TO ENCOURAGE OTHERS TO SUBMIT SIGHT INS..((name deleted))((NUFORC Note:  We have no record of a report from this party, who elects to provide no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78503.html](http://www.nuforc.org/webreports/reports/078/S78503.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
