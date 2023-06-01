@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:34:54 on 1 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:15:11 on 1 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1982, an anonymous witness in Rouyn Noranda (Canada) (QC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Flying saucer with colored light turning aroud it...25 feet diameter.UFO saucer shape about 25-30 feet diameter with colored lights turning around the UFO.. it was flying in the air with no sounds..it came toward us (500 feet the closest) and then disappear behind the mountains far away..we were about 500 feet from the closest house in that area..((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50475.html](http://www.nuforc.org/webreports/reports/050/S50475.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in Carrollton (MS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Round large object on Hwy 82 in Carroll CountyOne night, my cousin, sister and myself were on Hwy 82 between Carrollton and Greenwood when ahead of us, not even a quarter of a mile we saw this light hovering over the trees right beside the highway (which means part of the object was over the highway also). As we moved closer to the object we could not believe what we were seeing, I immediatlly asked my cousin and sister "are you guys seeing what I'm seeing" just to make sure I wasn't going crazy. They both were so shocked all they could do was nod their heads. We then passed directly under this object, and by now I have my head out of the window like a dog looking straight up at it this THING.  Because it was at night I couldn't tell what color it was but you could make out the shape of the object which was round and huge. Once we passed under it, I noticed it had 3 sets of lights in the shape of a circle, One set was clear, the other set was like some weired pinkish-red and the other was like a blue-green color. I also noticed as I had my head out of the window that I didn't hear a sound nor feel any wind blowing us. As we past beneath it to the other side, I took my head out of the window to look out of the back window and the object was gone, no where to be seen. I knew that was odd because we were on top of a hill and were able to see for miles and miles around, but the object had disappeared. I asked my cousin to turn around, his exact words were "h_ _ l no, are you insane". We went on to our destination and have never discussed what we seen since.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53411.html](http://www.nuforc.org/webreports/reports/053/S53411.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
