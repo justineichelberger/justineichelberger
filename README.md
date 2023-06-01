@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:31 on 1 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:26 on 1 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Tipton (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Massive black triangle craft seen after sunset in central Missouri.It was about 9:15 or 9:30 on a clear, summer evening in 2013, in the middle of Missouri, along Highway 50.  I had just clocked-out at work and was taking out the trash when my cellphone rang.  It was a friend of mine, calling from his girlfriend’s house, about three blocks to the northwest of my location.I answered and he asked if I had a clear view of the sky; I didn’t.  Where I was was mostly surrounded with trees and buildings, but he was on the edge of town, with an open field behind the house.  He told me to go west of town and look up, because he was “looking at the mothership or something.”  So I got in my car and drove about a mile west to the edge of town.  The sun had just gone down so the sky was still orange in the West, fading to dark blue in the East with a few stars starting to appear.  I stopped the car and stepped out.Looking up, I saw a massive black triangle against the sky, almost directly overhead, but slightly to the north of me.  At arm’s length, it was about two feet long and one foot wide. It was pointing West by Southwest, and slowly cruising in that direction.  It was an acute isosceles shape (but slightly skewed from my perspective), solid black, with no lights and no sound.(I feel that I should mention here, that although I feel my above description to be true, part of me thinks there may have been a dark-red, circular light at each corner of the craft, although I concede this may be a corrupted memory after looking at numerous pictures of these craft types on the Internet.)  Over the course of about a minute, I watched it cruise away and the farther away it got, the slimmer and slimmer it became until it finally vanished from view.  The idea of taking a picture with my phone’s camera never even occurred to me until hours after the sighting.((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143295.html](http://www.nuforc.org/webreports/reports/143/S143295.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Boonville (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Silent bright orange light in sky drifting, jumping and or teleportingCould have possibly been two craft but looked like one craft jumping around.  Orange light with no sound seen in the east.  Would appear, drift downward and to the south and at one point started to fade out and teleported back to the east at least a mile from where it was in a literal blink of an eye.  When it made the teleport and reappeared it was bright and vibrant almost like it was putting on a show for us.((NUFORC Note:  We wonder whether this is a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146565.html](http://www.nuforc.org/webreports/reports/146/S146565.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
