@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:26 on 1 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:26 on 1 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Boonville (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Silent bright orange light in sky drifting, jumping and or teleportingCould have possibly been two craft but looked like one craft jumping around.  Orange light with no sound seen in the east.  Would appear, drift downward and to the south and at one point started to fade out and teleported back to the east at least a mile from where it was in a literal blink of an eye.  When it made the teleport and reappeared it was bright and vibrant almost like it was putting on a show for us.((NUFORC Note:  We wonder whether this is a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146565.html](http://www.nuforc.org/webreports/reports/146/S146565.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>TR-3b low flyover Lake Oswego, Oregon.3 red lights in equilateral triangle formation flying east to west at 500-1000 feet.About helicopter speed?  50 mph?  Size unknown.  Black craft on black sky, couldnt see it. but it seemed big.I would describe it as a red-light TR-3b with no center light.SILENT.Was not spinning or altering course.Noticed it above me at about 12 or 1 o'clock angle.Watched it fly straight until trees blocked view at about 2 o'clock angle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120783.html](http://www.nuforc.org/webreports/reports/120/S120783.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
