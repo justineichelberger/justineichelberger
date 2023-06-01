@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:29 on 1 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:30 on 1 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in Hamilton (UK/Scotland) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Fast moving small bright lightI was at  home studying with curtains open and glanced out the window.  A small bright light was flying along the terraced houses opposite (across a green about 100ft away) just at the level of the roof gutters.  It was moving slowly and I thought someone must be flying a model aircraft. I thought this must be difficult in the dark and so I went to the window. It moved to the end of the row of houses where it rose up to the full height of the roof. I was still looking for ' the person controlling the model plane,' when it started to accelerate and ascend.  In a matter of 3 seconds it had disapeared over a hill about 400ft high and a mile away. I have estimated it must have been travelling over 1000 mph by the time it disapeared.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61065.html](http://www.nuforc.org/webreports/reports/061/S61065.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Chipping (small village, Lancashire)(UK/England) () reported seeing craft that fit the description of some '' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Incredible bright light flooding the room, accompanied by a drone or hum.Hello Sir,  I listen to the unexplained.com on an ad hoc basis and I've just listened to the show where you talked very eloquently about your work and the various reports you receive. Please note, this is an honest report and not one of the time wasters you sadly had to mention.Also, another show of Howard's reported phenomenon from a valley in Norway where the locals reported very bright lights, like headlights on full beam, flooding their houses.The same thing happened to a friend and I circa 1990.  As teenagers we were up all night watching TV when the same thing happened to us; incredibly bright light flooding the room which was accompanied by a loud hum.  I cant tell you how long it lasted, or what was causing it.My friend reminded me of it recently and also said 'we couldn't move' and I think he was right. We were aware it was happening but neither of us could get up to look outside.  I don't think it was fear, we weren't particularly scared, but I think he was right that we physically couldn't move.  It was a long time ago hence I don't know how long it lasted but I do remember it was like being in stasis, like time was standing still almost.I've often thought it was a Bin Lorry (Dust Cart!) but thinking back it couldn't have been; the street is a good 20 feet away and my Mum's house was surrounded by large, very thick conifer trees that would have prevented such light getting in to the room.  And the Bin Men dont tend to work in remote villages at 1am.As this matched content you have mentioned I thought it was about time I added to the database.  Thanks for your time Peter, very much appreciated.Regards</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156694.html](http://www.nuforc.org/webreports/reports/156/S156694.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
