@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:20 on 1 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:28 on 1 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in Garden Grove (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>I was at the Newport Beach getting on the Newport freeway from Newport Blvd.  Just as I was getting on the freeway, in a lot of traffic, I saw to my left ahead of me a 20' long cigar shaped object.  It was about 70 feet from me, and about 40 feet high.  It traveled northward at about 3 mph.  It had what looked like molten lava all over it.  It had no visible doors or windows.  When it flew to my far left trees obstructed my view of it that I permanently lost sight of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149866.html](http://www.nuforc.org/webreports/reports/149/S149866.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Bahamas () reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Seen at Bahamas at approx 1:00 pm. Checked out of my hotel but my flight was scheduled to leave at 8:00 pm so I left most of my video taping for that afternoon. Looking up at the sky I noticed a vapor trail from a jet. I pointed my video camera at the trail and noticed a silver cylindrical object flying across the sky slowly. I kept my camera on it as it passed through and under the clouds. My wife is heard on the video tape joking that it might be a ufo. I thought it could be a balloon but at the height of the clouds could it be visible?  When I got home I viewed the footage on my big screen TV and was amazed to see that this object was cylindrical shaped and spinning and wobbling. It seemed to change shape from cylindrical to square and back a few times. The clearest shot of this object is when it passed underneath the clouds and the object was black and very detailed at appeared like a top hat at that point. I have this footage on tape and I'm planning to transfer it to my PC when I get the software so that I can upload it for the world to see.((NUFORC Note:  Witness has offered to forward a copy of the tape to our Center.  We will view it when it arrives.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28624.html](http://www.nuforc.org/webreports/reports/028/S28624.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
