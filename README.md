@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:26 on 1 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:28 on 1 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>TR-3b low flyover Lake Oswego, Oregon.3 red lights in equilateral triangle formation flying east to west at 500-1000 feet.About helicopter speed?  50 mph?  Size unknown.  Black craft on black sky, couldnt see it. but it seemed big.I would describe it as a red-light TR-3b with no center light.SILENT.Was not spinning or altering course.Noticed it above me at about 12 or 1 o'clock angle.Watched it fly straight until trees blocked view at about 2 o'clock angle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120783.html](http://www.nuforc.org/webreports/reports/120/S120783.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1991, an anonymous witness in Warrenton (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A  silver circle shaped disk with a dome on top and a shield that opened and closed in a cloud on a sunny day in Warrenton VirginiaMy name is Mrs. Leslie Kalen at the time of the event my name was Leslie Carol Pullin. I am 49 years old and a very sucessful Investor and Buisness Owner. My fortune came after we sold my fathers Company that I started with him. It was called Command Technologies, Inc located in Warrenton Va. It sold about 6 years ago.We were a  Military Defense Co. with Miltary contracts. My fathers name is Major Donald Rose. I was the FSO and Director of Security for several years. I received my training at DOD in Richmond Va. I held a TS Clearance.A report was filed through I think this site at the time it occurred. The date may be 1992. A report was filed and came back with no explanation. My father told me to leave it alone and I did. But not till I told enough people..The old report shows this remark made from my father.I need to know if anyone else has ever saw the same thing.1991-1992  1800  Leaving work at Command Technologies in Warrenton Virginia which is located next to Vint Hill Military Base ( which is closed now ) I pick up my young son an head towards Culpeper Virgina which is about 30 mins away and home. I was only about 10 mins in the travel before entering onto the highway . It was a bright sunny warm day the sun was in front of me. Their where very few white puffy clouds in the sky. I pulled car off to the side of the road and step out walked to the passenger side and looked up I had noticed a glare to my right in the sky like a reflection off of metal.It was a circle shaped disk tucked slightly inside the cloud. About 3/4 of the way out. It was close enough that I could make out the details. It was a silver color Circle shaped with a circle Dome on top smaller then the bottom part. It looked like something out of those old Sci-Fi flicks.While I was staring up at it a shield opened on the upper dome for about 2 mins then closed. The cloud slowly coverd it or it moved back into it and disappeared. I got into my car and told my family friends and filed a report.I could pass a polygraph test on this event. I never had another experience again with the UFO.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73830.html](http://www.nuforc.org/webreports/reports/073/S73830.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
