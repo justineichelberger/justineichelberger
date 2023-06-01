@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:28 on 1 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:34 on 1 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Bahamas () reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Seen at Bahamas at approx 1:00 pm. Checked out of my hotel but my flight was scheduled to leave at 8:00 pm so I left most of my video taping for that afternoon. Looking up at the sky I noticed a vapor trail from a jet. I pointed my video camera at the trail and noticed a silver cylindrical object flying across the sky slowly. I kept my camera on it as it passed through and under the clouds. My wife is heard on the video tape joking that it might be a ufo. I thought it could be a balloon but at the height of the clouds could it be visible?  When I got home I viewed the footage on my big screen TV and was amazed to see that this object was cylindrical shaped and spinning and wobbling. It seemed to change shape from cylindrical to square and back a few times. The clearest shot of this object is when it passed underneath the clouds and the object was black and very detailed at appeared like a top hat at that point. I have this footage on tape and I'm planning to transfer it to my PC when I get the software so that I can upload it for the world to see.((NUFORC Note:  Witness has offered to forward a copy of the tape to our Center.  We will view it when it arrives.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28624.html](http://www.nuforc.org/webreports/reports/028/S28624.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Midvale (UT) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Boomerang shaped set of lights over Midvale Utah.I’m guesing at the date and time as I was a young boy and that was quite a while ago. This must have been between June and August as I visited there on summer vacation from school.I believe I was around ten years old. I was sleeping out in the back yard at a friends house.  We were laying with our heads to the East and feet to the West.  The closest East running street is what used to be called Greenwood ave. (7800 So.?)   I remember being almost asleep and looking directly above and slightly to the South and I saw a boomarang shaped set of lights aproximately 500-1000 feet up. The object was moving in a straight line from East to West and made no sound that I remember.I could not see an outline of the craft only the lights.  The lights were smooth edged, round, and evenly spaced.  They were off white or pale yellow, the closest color I can compare it to is a halogen street light.I remember there being one light at the corner (point) of the angle in front and maybe three trailing the center light on each side at approximately a 45 degree angle like a carpenters square or boomerang.I remember pointing it out to my friend.  As I stated before, I was almost asleep and must have fallen asleep after it passed out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68700.html](http://www.nuforc.org/webreports/reports/068/S68700.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
