@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:41 on 1 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:34:54 on 1 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Coulterville (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>red/orange round object launching off the ground	In early summer of 2001 (my best guess; I was 11 at the time, now 23.), my parents were driving my brothers and I to our grandparents' house for vacation. I was sitting behind my dad, who was driving. It was late at night, probably around 11pm. I had the strangest feeling that I was being watched... I turned and looked to my left, towards the mountain-side, less than a second later, a large round globe lit up, red and orange. There were no lights on it, just a solid glow. Light did not reflect off of other objects around it like trees, rocks, or shrubs. It seemed to immediately shield or barrier itself with something that seemed "electrical". No more that a second later, it "catapulted" off the ground incredibly fast, into the sky. It was going away from me, leaving a small white trail. It seemed like it stayed pretty close to the ground, like it wasn't going very far. The whole thing happened in less than 4 seconds while we were driving! by.	 I was the only one in my family who had witnessed this event. A few years later, I mentioned this experience with my dad. He told me that he has seen a couple of red/orange globes flying in the same area. He saw them on two separate occasions. Each time, the were floating within the valley at night, between the mountains. They were described to be about the same size as the one I saw, but they were going slower, maybe a couple hundred miles an hour. They float around then shoot off, out of sight.	These events happened on Hwy 49 in California, between the town of Coulterville and the Bagby Recreation Area.  These are my best estimates of my experience; the object was about 200ft round,  about 300 ft behind the edge of the mountain-side closest to the road.  If we stopped the car and climbed to where it was, it probably would have been less than half a mile away.  I couldn't say if the object made any sounds or not, but it was very graceful.  It looked like it took off quietly.((NUFORC Note:  Date of sighting may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101579.html](http://www.nuforc.org/webreports/reports/101/S101579.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1982, an anonymous witness in Rouyn Noranda (Canada) (QC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Flying saucer with colored light turning aroud it...25 feet diameter.UFO saucer shape about 25-30 feet diameter with colored lights turning around the UFO.. it was flying in the air with no sounds..it came toward us (500 feet the closest) and then disappear behind the mountains far away..we were about 500 feet from the closest house in that area..((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50475.html](http://www.nuforc.org/webreports/reports/050/S50475.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
