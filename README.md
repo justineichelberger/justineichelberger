@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:38 on 1 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:47 on 1 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Lost Park area (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately Through the night - Through the night minutes.</sub><blockquote><sub>Bright redish flame type objectMy friends and I were camping sometime in 1999, and we saw a strange, bright red light in the distance (maybe 1/2 mile away from us).  Two of us took a quick hike to the nearby ridge to get a better look.  I thought at first that it was a campfire (it looked like a flame), but when we got a better look it was clear that the object was floating in the sky just above the trees; and it was lighting up the ground below it.  It seemed to change shape (sort of like how a flame moves and changes); and its colors were a bright redish-orange. The object moved very slow, but it did hover around methodically; yet not really precise either.  There was absolutely no sounds from the object.  The phenomenon lasted for about 10 minutes; and then the object literally shot into the sky at speeds that I didn't think were possible.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52761.html](http://www.nuforc.org/webreports/reports/052/S52761.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in Trinity village (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>satellite in orbit takes sudden right angle turn and disappears.I was sleeping under the stars in July, or early August after a long night of amateur astronomy.  My eyes opened about 4:00 AM, judging from the constellations overhead.  I looked directly above me, and was caught off guard by a very slow moving satellite in orbit exactly overhead.  It was pretty faint.  I was barely able to detect its movement except that I watched it for over a minute, and I could see that it had slowly moved against the backdrop of stars, making its way southward.  Then, without warning, the satellite took a sharp 90 degree turn and accelerated to an incredible amount of speed in a westward direction.  Within a fraction of a second it was gone.  From what I remember I only saw it for a few moon lengths after it had taken the right turn before it was gone from view.  I was in my early teens at the time.  I refused to believe I had seen something extra terrestrial since I was a big science buff, and had always observed the scientific consen! sus refute UFO's as having been extra terrestrial spacecraft.  For over 20 years I didn't even think about what I saw until I began hearing the myriad of other UFO recounts that described lights taking sudden right degree turns like the one I saw.  It's still hard for me to accept that what I saw was extra terrestrial, but whatever I saw it seemed to violate the laws of physics, at least in terms of propulsion.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79432.html](http://www.nuforc.org/webreports/reports/079/S79432.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
