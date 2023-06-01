@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:37 on 1 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:26 on 1 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Glowing Amber Floating barrel size object.I saw an object about the size of a 55 gallon drum, glowing amber, without bright lights, floating over the top of the houses in my neighborhood, while I was walking my dog.  I observed that it flowed over the top of the houses, then floating between two street lights, then up past some trees at the end of the street and then it faded from vision as it moved out into space.  I drew pictures of it when I got home.  It was glowing amber; it was not bright light and seem to be glowing from the inside.  It was the shape of a cylinder or a 55 gallon drum.  The barrel type of object floated quietly.  I asked someone who I saw on the street about 5 minutes later if they had seen it and they said no.  I'd really like to know what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129227.html](http://www.nuforc.org/webreports/reports/129/S129227.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>UFO emerges from behind a single cloudWhile traveling on my motorcylce about 40 miles S/W of Tucsan, AZ I noticed a cloud in the sky. There hadn't been any clouds that day. The cloud appeared to be coming closer as it was expanding in size. The cloud stopped and from behind it a metalic appearing cylinrical shaped object moved rapidly southward.There were no sounds. I got off my motorcycle while this was happening and got my binoculars. I looked for the object but it had disappeared so I watched the cloud as it rose upward and out of site. This happened in an area where there were no telephone poles or homes. About five minutes went by while I stood there watching and the cloud reappeared and moved back toward nearly the same spot. I saw the object moving toward me from the south. It slowed as it seemed to enter or go behind the cloud. The cloud rose again until it disappeared. I immediately returned to Tuscan. I attempted to report this occurance to The AF base and to contact the radio stations. This was done by phone and I never heard another thing about it. I was shook up for weeks by what I saw.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50920.html](http://www.nuforc.org/webreports/reports/050/S50920.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
