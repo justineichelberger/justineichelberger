@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:26 on 1 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:26 on 1 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>UFO emerges from behind a single cloudWhile traveling on my motorcylce about 40 miles S/W of Tucsan, AZ I noticed a cloud in the sky. There hadn't been any clouds that day. The cloud appeared to be coming closer as it was expanding in size. The cloud stopped and from behind it a metalic appearing cylinrical shaped object moved rapidly southward.There were no sounds. I got off my motorcycle while this was happening and got my binoculars. I looked for the object but it had disappeared so I watched the cloud as it rose upward and out of site. This happened in an area where there were no telephone poles or homes. About five minutes went by while I stood there watching and the cloud reappeared and moved back toward nearly the same spot. I saw the object moving toward me from the south. It slowed as it seemed to enter or go behind the cloud. The cloud rose again until it disappeared. I immediately returned to Tuscan. I attempted to report this occurance to The AF base and to contact the radio stations. This was done by phone and I never heard another thing about it. I was shook up for weeks by what I saw.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50920.html](http://www.nuforc.org/webreports/reports/050/S50920.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Ladue (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>black triangle  with rounded corners 1980 St.LouisSaw a very large black triangle approximately 30,000 ft. It definitely had rounded corners with faint red lights. The only movement was a slow turning motion. I was sitting in the passenger seat while my grandfather was driving, and we were stopped in traffic.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26225.html](http://www.nuforc.org/webreports/reports/026/S26225.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
