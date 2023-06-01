@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:28 on 1 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:37 on 1 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Algonquin (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>As a teenager I saw a flying saucer do triangular patterns then disappear. It had lights and was spinningThe incident occurred around 1980, I was living in Algonquin. I was lying in bed falling asleep, when I realized what I was staring at should not be.  I was looking south over an area that is now built up with houses and Spring Hill mall in West Dundee.  I did not see the craft, however I saw the lights and shape of the craft. It was a flying saucer with red green and blue lights.  The lights were spinning like in an Ed Wood film.  Classic flying saucer. I seemed to be dopey with sleep or?  When I realized what I was seeing after several minutes, I walked to my window to stare at it.  I did not get my mother , she would have whipped my butt for waking her.  After a few minutes, either the craft moved or a second then third appeared.  It was in the sky, then disappeared and reappeared directly below where it had been but much lower.  The distance was impossible to tell. I think it was the same craft, but there was no time delay. It was not like "blink-blink&quot! ; it was here, then lower.  Then it moved again to the right[west] of where it had originally been, level with the first location but all 3 were equidistant from the other forming an even sided triangle. It sat in the original spot a long time, then down, then over for a few moments each. Then disappeared. I lost a few hours that night beforehand.  The timing was so precise, the distance as well. I then went to bed, and had a strange animal experience like in a book from 1985 that I read a bit of. I lied in my bed and saw 2 lights at the top and bottom of my dresser perfectly lined up and centered. The lights blinked in perfect unison. I was so scared I nearly shit my pants. When I worked up the courage to turn the light on, I found 2 lightning bugs. They flew off immediately and I thought nothing of it until I read many abductees have strange animal sightings. [insect in my case] I have never seen anything like what I witnessed outside of science fiction, I truly believe it ! was a UFO. I have thought of being hypnotized to investigate, ! but neve r have.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98801.html](http://www.nuforc.org/webreports/reports/098/S98801.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Glowing Amber Floating barrel size object.I saw an object about the size of a 55 gallon drum, glowing amber, without bright lights, floating over the top of the houses in my neighborhood, while I was walking my dog.  I observed that it flowed over the top of the houses, then floating between two street lights, then up past some trees at the end of the street and then it faded from vision as it moved out into space.  I drew pictures of it when I got home.  It was glowing amber; it was not bright light and seem to be glowing from the inside.  It was the shape of a cylinder or a 55 gallon drum.  The barrel type of object floated quietly.  I asked someone who I saw on the street about 5 minutes later if they had seen it and they said no.  I'd really like to know what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129227.html](http://www.nuforc.org/webreports/reports/129/S129227.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
