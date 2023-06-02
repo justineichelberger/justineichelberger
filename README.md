@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:13 on 2 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:28 on 2 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Aliquippa (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Flashing lights moving at incredible speeds over AlliquippaSitting in the Kuhn's grocery parking lot in my ambulabce my partner and I wrre discussing another ambulance crew's call in which they had two helicopters fly two critical patients from a nearbye town. Looking to the sky to try and see the helicopters my partner sighted an extremely fast moving (faster then any helicopter or jet i have ever seen) flying west to east at incredible speed and completly silent.   Object had several lights, some white/blue and others red.  Object shape was unidendifiable.  All we could see was several blinking lights, blinking from front to rear.  Soon after the object disapeared from sight a commercial airliner flew over head (our location is close to Pittsburgh Int Airport and less then 2 miles from the Flight 427 crash site)  the airliner was loud and slow moving and following the flight plan that we most regularily see.  The other object was flying at a speed weve both never seen, was completely silent and flew a path that we have ! never seen airliners follow.  Soon after the sighting i tried to google the characteristics of this object for similar sights and both my phone and my work partner's phones froze.  Also the emergency radio traffic has been garbled or covered by static all night throughout the entire county.((NUFORC Note:  Witness elects to provide no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89353.html](http://www.nuforc.org/webreports/reports/089/S89353.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Darlington (SC) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Cylindrical glowing object seen in clear sky at dusk by multiple witnesses.Went to take out the trash, turned and noted cylindrical object in the sky overflying my home.  Called immediately for the other witness.  Watched until object disappeared in the distance.Pace of object was slow relative to aircraft.  No flashing lights, self lit (glowing) white. Hard to tell how high it was, but I would have called it 'low flying' were it a plane.  No sound.  It's June, so dusk was just coming on, and visibility was excellent with very few, light clouds in the sky.  Object was approx as bright as a full moon. Object left no trail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109903.html](http://www.nuforc.org/webreports/reports/109/S109903.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163532.html)
-- [287](http://www.nuforc.org/webreports/reports/163/S163772.html)
-- [286](http://www.nuforc.org/webreports/reports/163/S163769.html)
-- [285](http://www.nuforc.org/webreports/reports/163/S163568.html)
-- [284](http://www.nuforc.org/webreports/reports/163/S163531.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
