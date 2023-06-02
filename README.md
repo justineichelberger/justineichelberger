@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:20 on 2 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:29 on 2 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in St. Augustine (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Glowing white orb floating across sky then stopped.  Faded out, then re-lit6/2/2011 I was floating in the pool at my apartment.  It was a little after 9 pm I seen a bright white glowing object fly by then stop and fade out above me.  You could still see it but it was a little white dot.  It then re-lit and glowed white again still at a stop not moving.  Some other people in the pool were yelling out loud "what the hell is that"   We were all looking at the same thing in the sky.  It zoomed off so fast you could have blinked and missed it.  Now a few minutes later it came back it was the non glowing white dot cruising through the sky, then it lit up super bright and zipped away in the opposite direction.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  One of three reports from same anonymous source; possible hoax??  Possible tumbling rocket booster in orbit?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82622.html](http://www.nuforc.org/webreports/reports/082/S82622.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Gigantic fireball lit up the night sky just like it was daylight.  Eastern sky, North Phoenix.  Huge contrail was left in the sky like seen in Russian fireball incidents.((NUFORC Note:  Object reported by the news as a probable meteor.  We agree.  See photos of smoky trail left high in the sky above Arizona.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127652.html](http://www.nuforc.org/webreports/reports/127/S127652.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163532.html)
-- [287](http://www.nuforc.org/webreports/reports/163/S163772.html)
-- [286](http://www.nuforc.org/webreports/reports/163/S163769.html)
-- [285](http://www.nuforc.org/webreports/reports/163/S163568.html)
-- [284](http://www.nuforc.org/webreports/reports/163/S163531.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
