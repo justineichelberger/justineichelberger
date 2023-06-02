@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:29:01 on 2 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:25:21 on 2 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Beacon Rock State Park (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Orange spheres moving across the night sky that look like fire.We were camping at Beacon Rock State Park in the Washington Columbia Gorge when we saw fireball appearing spheres moving across the sky at about the level that a small plane would fly.Initially there were five of the fireballs in a formation. I believe there were a row of three and then a row of two. After that there were about a dozen more orange spheres in single file spaced far apart moving west to east. We kept thinking that the display was over and then another fireball would pop into view from the western sky. They were quite bright and moving faster than a small plane would.  They were gaining elevation at a low angle. They would eventually disappear. It is unclear whether they entered the cloudbank and were just no longer visible or perhaps burned out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89442.html](http://www.nuforc.org/webreports/reports/089/S89442.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Millstadt (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright disappearing lights in the sky.Bright white light suddenly appeared and then slowly disappeared to nothing.  Repeated several times, moving locations every time.  Only happened about 5-6 times.  After that I didn’t see anything else.((NUFORC Note:  Original date is flawed.  We have assigned an arbitrary date.  We have no means of contacting the source, given that he/she elects to remain totally anonymous, and provides not contact information.  Possible hoax??  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141898.html](http://www.nuforc.org/webreports/reports/141/S141898.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163532.html)
-- [287](http://www.nuforc.org/webreports/reports/163/S163772.html)
-- [286](http://www.nuforc.org/webreports/reports/163/S163769.html)
-- [285](http://www.nuforc.org/webreports/reports/163/S163568.html)
-- [284](http://www.nuforc.org/webreports/reports/163/S163531.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
