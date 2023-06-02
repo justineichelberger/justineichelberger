@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:26 on 2 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:32 on 2 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Miramichi (Canada) (NB) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Advent amateur astronomer witnessed phenomenonI saw a bright white flash of light to the right of cepheus.  Ignoring it thinking it was a comet from the corner of my eye I seen it flash again.  It was very high up and continued at a steady velocity moving right of cepheus.  It was different from an aircraft or satellite because it would only light up with white light every 20-30 seconds and while doing so it would also glow for 3 seconds allowing me to make out the shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89318.html](http://www.nuforc.org/webreports/reports/089/S89318.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Murrells Inlet (SC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Red ball moving across the night sky faster than plane but not like meteor, all red, moving swiftly horizontally.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141729.html](http://www.nuforc.org/webreports/reports/141/S141729.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163532.html)
-- [287](http://www.nuforc.org/webreports/reports/163/S163772.html)
-- [286](http://www.nuforc.org/webreports/reports/163/S163769.html)
-- [285](http://www.nuforc.org/webreports/reports/163/S163568.html)
-- [284](http://www.nuforc.org/webreports/reports/163/S163531.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
