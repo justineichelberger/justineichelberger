@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:01:45 on 2 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:30 on 2 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Westland (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>At around 11 30 p.m. three red glowing objects came from the north and were going south. They came a few minuits apart and followed the same basic path.  The first one, which I have included a still image of. was lower than the other two. The clouds were quite low that night and it was below them.  Id say under 200 feet.  The objects moved steadly and made no sound. I have also included video of one of the other objects, this one was higher up than the first one.  This video needs freeze frame zoom analysis.  It is hard to film these objects because of their glow, the camera cannot focus on them.  But the still image I have is quite clear.  I don't know what this thing is but it went right over my head</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98447.html](http://www.nuforc.org/webreports/reports/098/S98447.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Mountain City (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Solid lights without noise traveling at different altitudes in the night sky.We saw at least 8 different solid white lights moving across the night sky.  2 of them were as low as a small plane, but with no noise at all.  The others were way up in the sky but again solid white lights without noise (not like a jet) and jets can't fly at those altitudes.  We have been seeing these lights with increasing frequency for the last month.  The difference with last night is they are now flying lower in the night sky than before last night.  What are they?  And do we have to worry?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119308.html](http://www.nuforc.org/webreports/reports/119/S119308.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163532.html)
-- [287](http://www.nuforc.org/webreports/reports/163/S163772.html)
-- [286](http://www.nuforc.org/webreports/reports/163/S163769.html)
-- [285](http://www.nuforc.org/webreports/reports/163/S163568.html)
-- [284](http://www.nuforc.org/webreports/reports/163/S163531.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
