@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:45 on 1 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:29 on 2 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Cockeysville (MD) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I HAD SENT TO YOU THE PHOTO OF THIS EVENT. I NEVER EVEN RECEIVED A THANKS OR AT LEAST A COMMENT.  IT WAS A GOOD PHOTO OF THE STRANGE PHENOMENA, I SAW BACK IN 1998 I BELIEVE.  IT WAS ABOUTL  10:00PM,  FROM COCKEYSVILLE, MD.  IT WAS ANOTHER PERSON NEXT TO  ME AT THE TIME, AND WE BOTH WATCH THIS.  I TOOK THE PHOTO I SENT TO YOU IT LASTED ABOUT TWO MINUTES.. THE LEAST YOU COULD HAVE DONE, IS TO SAY THANKS  NO WAY TO ENCOURAGE OTHERS TO SUBMIT SIGHT INS..((name deleted))((NUFORC Note:  We have no record of a report from this party, who elects to provide no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78503.html](http://www.nuforc.org/webreports/reports/078/S78503.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in White Marsh (MD) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>White Object over I-695EMy girlfriend and I were driving down I-695 toward White Marsh and she noticed an extremely white cigar shaped object in the sky.  It was moving South at a steady speed, and had no visible markings.  As we were driving some trees passed in the way of the object and when we passed them, the object was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89350.html](http://www.nuforc.org/webreports/reports/089/S89350.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1610](http://www.nuforc.org/webreports/reports/163/S163526.html)
-- [1609](http://www.nuforc.org/webreports/reports/163/S163528.html)
-- [1608](http://www.nuforc.org/webreports/reports/163/S163999.html)
-- [1607](http://www.nuforc.org/webreports/reports/163/S163536.html)
-- [1606](http://www.nuforc.org/webreports/reports/163/S163581.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
