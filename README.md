@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:30 on 2 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:35 on 2 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Mountain City (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Solid lights without noise traveling at different altitudes in the night sky.We saw at least 8 different solid white lights moving across the night sky.  2 of them were as low as a small plane, but with no noise at all.  The others were way up in the sky but again solid white lights without noise (not like a jet) and jets can't fly at those altitudes.  We have been seeing these lights with increasing frequency for the last month.  The difference with last night is they are now flying lower in the night sky than before last night.  What are they?  And do we have to worry?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119308.html](http://www.nuforc.org/webreports/reports/119/S119308.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>it turned the phoenix area in to full daylight....object of unknown lit up the whole phoenix area for about 20 seconds....((NUFORC Note:  Object reported by the news as a probable meteor.  We agree.  See photos of smoky trail left high in the sky above Arizona.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127657.html](http://www.nuforc.org/webreports/reports/127/S127657.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163532.html)
-- [287](http://www.nuforc.org/webreports/reports/163/S163772.html)
-- [286](http://www.nuforc.org/webreports/reports/163/S163769.html)
-- [285](http://www.nuforc.org/webreports/reports/163/S163568.html)
-- [284](http://www.nuforc.org/webreports/reports/163/S163531.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
