@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:28 on 2 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:28 on 2 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Darlington (SC) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Cylindrical glowing object seen in clear sky at dusk by multiple witnesses.Went to take out the trash, turned and noted cylindrical object in the sky overflying my home.  Called immediately for the other witness.  Watched until object disappeared in the distance.Pace of object was slow relative to aircraft.  No flashing lights, self lit (glowing) white. Hard to tell how high it was, but I would have called it 'low flying' were it a plane.  No sound.  It's June, so dusk was just coming on, and visibility was excellent with very few, light clouds in the sky.  Object was approx as bright as a full moon. Object left no trail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109903.html](http://www.nuforc.org/webreports/reports/109/S109903.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>shpere looked like it exited a cloud at high speed going N.E. then vanished.during a break i was standing outside facing south, there was a slight break in the cloud cover, i looked up and out from above or within the cloud  (could not tell) flew a sphere that was heading from west to northeast across the sky.  It was pulsating from a very dark grey to a bright white and was very destinktive with the blue sky backdrop.  i followed it from the cloud about 3/4 the way to the next cloud then it was gone, just poof vanished. this was the only sighting ive ever had.  the bussiness is on third st. in downtown spokane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44243.html](http://www.nuforc.org/webreports/reports/044/S44243.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163532.html)
-- [287](http://www.nuforc.org/webreports/reports/163/S163772.html)
-- [286](http://www.nuforc.org/webreports/reports/163/S163769.html)
-- [285](http://www.nuforc.org/webreports/reports/163/S163568.html)
-- [284](http://www.nuforc.org/webreports/reports/163/S163531.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
