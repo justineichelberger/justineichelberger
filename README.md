@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:29 on 2 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:29:01 on 2 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in White Marsh (MD) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>White Object over I-695EMy girlfriend and I were driving down I-695 toward White Marsh and she noticed an extremely white cigar shaped object in the sky.  It was moving South at a steady speed, and had no visible markings.  As we were driving some trees passed in the way of the object and when we passed them, the object was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89350.html](http://www.nuforc.org/webreports/reports/089/S89350.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Beacon Rock State Park (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Orange spheres moving across the night sky that look like fire.We were camping at Beacon Rock State Park in the Washington Columbia Gorge when we saw fireball appearing spheres moving across the sky at about the level that a small plane would fly.Initially there were five of the fireballs in a formation. I believe there were a row of three and then a row of two. After that there were about a dozen more orange spheres in single file spaced far apart moving west to east. We kept thinking that the display was over and then another fireball would pop into view from the western sky. They were quite bright and moving faster than a small plane would.  They were gaining elevation at a low angle. They would eventually disappear. It is unclear whether they entered the cloudbank and were just no longer visible or perhaps burned out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89442.html](http://www.nuforc.org/webreports/reports/089/S89442.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163532.html)
-- [287](http://www.nuforc.org/webreports/reports/163/S163772.html)
-- [286](http://www.nuforc.org/webreports/reports/163/S163769.html)
-- [285](http://www.nuforc.org/webreports/reports/163/S163568.html)
-- [284](http://www.nuforc.org/webreports/reports/163/S163531.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
