@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:27 on 2 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:20 on 2 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Tortuguero (Costa Rica) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Three lights above the atlantic Costa Rican coast were seen by three people around 3 a.m.While volunteering and tagging leatherback sea turtles with two fellow volunteers (a Columbian woman and a native of Costa Rica), we witnessed three intensely bright lights making the shape of an equilateral triangle about 15 degrees from the horizon.  The duration was about five seconds and no sound was made.  The lights simply appeared then disappeared.  As a research scientist in the United States, I only make conclusions based on a sufficient amount of evidence, so I can make no definitive conclusion for what we saw.  However, due to the fact that all three of us witnessed the event, I am confident it was real.  We were also in a very isolated part of the country, where there were no cars and only a couple of small plane flights came to the area during the daytime.((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70622.html](http://www.nuforc.org/webreports/reports/070/S70622.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Elk Grove (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orange ball of light seemed to be floating with green flashing lightsSaturday, June 2, 2012 Elk Grove, CA 9:20 PM -9:22 PM While I was watching TV, I saw a bright red-orange ball of light through my living room window.  There was absolutely no noise. I thought it was a reflection from my TV onto the window at first. I then realized that it was in the sky. This orb seemed to be levitating.  It proceeded from south or south-east to north-east.  I ran back inside after watching it a moment to grab binoculars.  On closer look, though it had traveled a considerable distance in just a short time, I was able to see green flashing lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89334.html](http://www.nuforc.org/webreports/reports/089/S89334.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [288](http://www.nuforc.org/webreports/reports/163/S163532.html)
-- [287](http://www.nuforc.org/webreports/reports/163/S163772.html)
-- [286](http://www.nuforc.org/webreports/reports/163/S163769.html)
-- [285](http://www.nuforc.org/webreports/reports/163/S163568.html)
-- [284](http://www.nuforc.org/webreports/reports/163/S163531.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
