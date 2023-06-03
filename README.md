@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:27 on 3 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:19 on 3 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Alpine (UT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Unidentified Flashing ObjectColorful object seen from naked eye.  Went and grabbed my video camera and filmed several times.  It seemed to be moving to the west around the same path of a star.  There were two of them, the other at a greater distance.  I grabbed my compass and it was around 160 degrees of magnetic north.I uploaded it to youtube  http://www.youtube.com/watch?v=v6sdHbObFPY&feature=youtu.be((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98402.html](http://www.nuforc.org/webreports/reports/098/S98402.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in West Chester (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>9_Lights_SieenAt 22:26 PM, on June 3, 2012, I was traveling south on Hamilton Mason Road, when my 12 year old daughter asked what those lights in the sky were. I glanced out my driver’s window and saw 5 very bright yellow-orange lights in the sky.  At first I believed them to be a very close aircraft but then the fourth light flew very fast under the third light. I was trying to drive and look at them which made the difficult for me to watch.  I then looked south in the sky and saw 4 other lights traveling south at average speed.  To my surprise, I looked back at the original 5 and they all but disappeared heading toward the moon.  They were just a very distant light. I hurried down my street and into the driveway and watched the last two head towards the moon and just blinked out.I am not sure what I saw but the lights we saw were too big and appeared far to bright to be aircraft. The color on them was odd as well.  At the rate they disappeared was far too fast to be any aircraft I am aware of.  The windows were down and I heard no odd noise, only traffic.I can’t believe these lights were of this earth.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89352.html](http://www.nuforc.org/webreports/reports/089/S89352.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
