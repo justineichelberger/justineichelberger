@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:25 on 3 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:20 on 3 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Joshua Tree-Twenty Nine Palms (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 18.0 - 18.0 minutes.</sub><blockquote><sub>Morphing/Pulsating OrbI was on my way to Contact in the Desert in Joshua Tree.  I was in my friends car driving on Twenty Nine Palms highway.  I noticed something in the sky reflecting light in my eye.  I pointed it out to my friend, who then pulled over for us to figure out what we were looking at.It was a morphing orb that was hovering and pulsated directly above our car.  It was intentionally interacting with us.  This event took place today, Friday, June 3, 2016, at 11:30am today.  I have 4 videos of this event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127674.html](http://www.nuforc.org/webreports/reports/127/S127674.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Bellingham (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately :30 - :30 minutes.</sub><blockquote><sub>STRANGE, LIKE I ALMOST DIDNT REMEMBER ITI WAS IN MY LIVING ROOM, SUDDENLY THERE WERE 15-20 SPOTLIGHTS IN MY ROOM. STRANGE LIGHT.  I RAN OUTSIDE TO SEE IF WAS A HELICOPTER, OR SOME OTHER CRAFT. THE AIR WAS SILENT. I WENT BACK INSIDE THEN I HEARD A SONIC BOOM SOUND. A FEW MINUTES LATER THE OWLS ACROSS THE LAKE WERE GOING CRAZY.  SOUNDS LIKE I HAVE NEVER HEARD.I AM NOT A BELIEVER IN UFO'S UNTIL TONIGHT.  MAYBE SOMETHNG GOVERNMENT. ODD. I FELT STRANGE AFTER THE LIGHT EFFECT.((NUFORC Note:  Dramatic meteor.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37296.html](http://www.nuforc.org/webreports/reports/037/S37296.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
