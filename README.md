@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:23 on 3 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:38 on 3 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Boca Raton (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Fast traveling white & multi colored object, Boca Raton, FL.Sky was mostly clear except for some clouds about 10* above the horizon.  Object traveled from about due north to the south.  I thought it was the space station until it got to the clouds on the horizion.  The speed was that of the space staion when a "visible pass" is observed from my location.  Object was beneath the clouds where it stopped and started to rise and travel a few degrees east.  At that point, it slowly continued to rise.  The object was a brilliant white light as it traveled from north to south but changed to blue, green, red & white.  There was no audible indication.  I observed the colored lights for over an hour. Using binoculars and a 60x telescope I was not able to determine the actual shape of the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119330.html](http://www.nuforc.org/webreports/reports/119/S119330.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Carbondale (IN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>While coming back home from Cuyuga, Indiana, my daughter noticed a flying object in the sky.  As she described it, we didn't believe her, but when I spotted it, I realized she wasn't luring or misimformed.  It was a  black oblong flying/hovering object,  moving all directions, it would stop, go straight, then go sideways...then stopping and flying again, it would go stright up and down.  It would fly straight then take wide curves.  It would just take a 90 degree turns at a high speed and also straight 90 degree turns going up and down as well.  Very odd flight pattern for a blimp.  No wings.  Broad day light very high in the sky just below the clouds.  It appeared as of it were skimming just under the clouds.  I took a picture of the Google map of our location as it started getting out of sight and it appears it may have been following the path of the river.((NUFORC Note:  Source of the report elects to remain anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134413.html](http://www.nuforc.org/webreports/reports/134/S134413.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
