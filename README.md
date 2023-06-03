@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:24 on 3 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:25 on 3 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Pilot Mountain (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>illuminating blue light in the sky moving really fast and then disapearedI was sitting outside on my porch with a few friends talking like we always do and i have a tendency to look up and look at the stars at night when we are talking.  They didn't notice it but they all believed me because of my reaction its hard to fake, anyways there was a blue light that appeared behind some trees right at the top i could see the top of the circle but not the bottom.  The best way i can describe it would be that it looked like a spotlight from a helicopter only it wasn't shining in a particular direction just illuminating.  The light stayed at the top of the trees never leaving my sight and moved at what looked like normal aircraft speed across the top of the treeline until it just vanished.  No one believes me but i know what i saw so i called a friend the morning after and said something about it and they said they had seen a blue light too.  His description was the exact same as mine just in a different area.  I know for sure we both seen it because he is just as confused as me.  I know the description is very vague but that is the best i can do i hope other who see this also report it.((NUFORC Note:  Witness confirmed that correct date is June 03rd, 2019.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146616.html](http://www.nuforc.org/webreports/reports/146/S146616.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Joshua Tree-Twenty Nine Palms (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 18.0 - 18.0 minutes.</sub><blockquote><sub>Morphing/Pulsating OrbI was on my way to Contact in the Desert in Joshua Tree.  I was in my friends car driving on Twenty Nine Palms highway.  I noticed something in the sky reflecting light in my eye.  I pointed it out to my friend, who then pulled over for us to figure out what we were looking at.It was a morphing orb that was hovering and pulsated directly above our car.  It was intentionally interacting with us.  This event took place today, Friday, June 3, 2016, at 11:30am today.  I have 4 videos of this event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127674.html](http://www.nuforc.org/webreports/reports/127/S127674.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
