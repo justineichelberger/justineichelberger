@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:23:21 on 3 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:22 on 3 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Snohomish (WA) reported seeing craft that fit the description of some '' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Intense bright flash of light lit up bedroom in Snohomish WAThis is probably not UFO related, but just in case there is a ufo sighting in our area we are sending it in.  It was very bizzare.  I was sitting in bed talking to my husband who was standing in the doorway.  We have sliding glass doors facing west.  The door way is exactly to the opposite of where my husband was standing.  The louvres were closed.  All of a sudden there was a tremendous bright white light that lit up the room like one of those old fashioned photograper flashes, but slower.  My first thought was it must be a large lightening bolt, but when we ran to the doors and opened them up there was a full moon and a clear sky.  Our enclosed backyard does not face anything that could have made such a light and we checked to make sure no one had broken into backyard through locked gates.  Maybe it was a meteor--unfortunately we didn't see the cause of the flash of light, but it must have been terribly bright to light the room up like it did. There was no sound from whatever the source of light was. ((NUFORC Note:  Dramatic meteor over Seattle.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37295.html](http://www.nuforc.org/webreports/reports/037/S37295.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Braintree (UK/England) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>two orange balls of light from west to east about one minute behind each other very high</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44717.html](http://www.nuforc.org/webreports/reports/044/S44717.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
