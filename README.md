@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:22 on 3 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:25 on 3 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Braintree (UK/England) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>two orange balls of light from west to east about one minute behind each other very high</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44717.html](http://www.nuforc.org/webreports/reports/044/S44717.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Orange (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Floating orange ball of light, then zipped out into spaceWas smoking a cig, saw a orange ball of light about the same size of light you'd see from a low plane, but it was orange not white and there were no flashing lights.  Watched the light fly slowy across the sky, and then it stopped and moved backwards, the way it was coming from.  Repeated to hover and shift slowly through the sky, it was flickering like a star but not a plane or helicopter,  I  watched the object stop moving and a white line showed up below it, and it started to get smaller and as it was getting smaller the light got less bright, and all of the sudden, it vanished.  While watching it, I looked around for someone else looking but the only other things that saw were the two random cats I saw sitting in the street staring at the sky.  Sighted near heart park in Orange CA, object was floating in the sky somewhat toward Angel Stadium. Anyone else see this??</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127736.html](http://www.nuforc.org/webreports/reports/127/S127736.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
