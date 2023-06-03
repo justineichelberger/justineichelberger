@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:25 on 3 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:29 on 3 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Bluewater Village (NM) reported seeing craft that fit the description of some 'Oval' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Large, bright, stationary, oval object spotted in Western New Mexico skies, that the sighting lasted about 40 minutes.We were sitting out in the front yard when I looked over my left shoulder and saw this very large bright light in the sky.  I told the other 4 people that were there and they all looked at the light.  It was too big for a star and too big and bright for a satelite.  We took some still pictures with the 35mm camera and also took the camcorder and filmed the light.  The light stayed in a stationary place and did not move at all.  It lasted about 40 minutes before we could not see the light anymore.  The light slowly faded out.  It was oval in shape and bright white.  It was much brighter than a headlight of a car for comparison.  It just hovered in one spot.  I am a nurse and my husband is a mechanic.  We have 2 boys one age 7 and the other age 13.  We are a typical American family.((NUFORC Note:  High altitude balloon, launched by the University of Chicago from Ft. Sumner, NM.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13023.html](http://www.nuforc.org/webreports/reports/013/S13023.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Hempstead (NY) reported seeing craft that fit the description of some '' over a period of approximately minutes - minutes minutes.</sub><blockquote><sub>I was at Hempstead Lake Park in early June 07, when I viewed a UFO. The object was flying from west to east. The object first appeared to be shaped like a hour glass. After a couple of minutes the object changed course and began to head north, the direction of the park. By changing course, I got a better description of the object. The object was shaped like two circles stuck together with two holes in the center of each circle. The color of the object was gray and made no noise and had no lights or markings. I estimate the object being at least 15 feet in length and flying at approximately six hundred feet. I continued watching the object fly north until it was out of view. Two other people who were at the opposite side of the lake also witnessed the object.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60798.html](http://www.nuforc.org/webreports/reports/060/S60798.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
