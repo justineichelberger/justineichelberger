@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:28 on 3 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:24 on 3 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Alpine (UT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Unidentified Flashing ObjectColorful object seen from naked eye.  Went and grabbed my video camera and filmed several times.  It seemed to be moving to the west around the same path of a star.  There were two of them, the other at a greater distance.  I grabbed my compass and it was around 160 degrees of magnetic north.I uploaded it to youtube  http://www.youtube.com/watch?v=v6sdHbObFPY&feature=youtu.be((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98402.html](http://www.nuforc.org/webreports/reports/098/S98402.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>A reddish/orange sphere (1/2 of a full moon), was seen moving steadily across the sky from SW to NE.	The object seen had round/sphere qualities.  The color was reddish orange 	I saw the object first, while in my backyard looking toward the West. I pointed to the object and my husband then spotted it.  It moved in a steady path from the SW to the NE.	This whole event lasted only about 15 seconds. We watched until we could no longer see it. We did not see any other like objects. The sky was mostly clear, but dense clouds moved in within the next hour.	I am a semi-retired teacher.  My husband served on the USS Little Rock (CLG-4) He separated from active duty in 1972 as a Lieutenant.  He has been a practicing attorney for 33 years.((NUFORC Note:  We indicate below the schedule for overflights of Houston by the International Space Station.  It should not appear to be orange, and it should have been visible for more than 15 seconds, after appearing in the WSW sky.  Moreover, the ISS would appear to be about the size and magnitude of Jupiter, not half the (perceived) size of the Moon.  Given the credentials of the two witnesses, we suspect that they would not have mistaken the ISS for the object they apparently witnessed.  PDDate Mag  Starts Max. Altitude  Ends Time Alt.  Az.  Time Alt.  Az.  Time Alt.  Az.  02 Jun 3.2 05:35:51 10 NNE 05:36:37 11 NE  05:37:24 10 NE  03 Jun 1.3 05:55:06 10 NNW 05:57:43 32 NE  06:00:21 10 ESE 03 Jun 1.2 20:42:02 10 SE  20:42:49 11 SE  20:43:35 10 ESE 03 Jun 1.1 22:14:57 10 WSW 22:17:30 30 NW  22:20:05 10 NNE 04 Jun -0.6 21:00:41 10 SSW 21:03:24 45 SE  21:06:09 10 ENE</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56946.html](http://www.nuforc.org/webreports/reports/056/S56946.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
