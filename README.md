@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:25 on 3 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:27 on 3 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Orange (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Floating orange ball of light, then zipped out into spaceWas smoking a cig, saw a orange ball of light about the same size of light you'd see from a low plane, but it was orange not white and there were no flashing lights.  Watched the light fly slowy across the sky, and then it stopped and moved backwards, the way it was coming from.  Repeated to hover and shift slowly through the sky, it was flickering like a star but not a plane or helicopter,  I  watched the object stop moving and a white line showed up below it, and it started to get smaller and as it was getting smaller the light got less bright, and all of the sudden, it vanished.  While watching it, I looked around for someone else looking but the only other things that saw were the two random cats I saw sitting in the street staring at the sky.  Sighted near heart park in Orange CA, object was floating in the sky somewhat toward Angel Stadium. Anyone else see this??</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127736.html](http://www.nuforc.org/webreports/reports/127/S127736.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Milton (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Donut shaped ufo in sky along with another object.While driving down the street we noticed 2 black objects in the sky.  At first wr thought they were 2 groups of balloons as if someone let them go into the sky.  After seeing them closer, we thought maybe they were remote controlled of some sort, then as they were flying closer we noticed 1 was in the shape of a donut (black) with a hole in the Center of it (almost as if an oversized black inner tube from a pool was in the sky but bigger) and the other craft we couldn't make out the shape.  All we could see is it didn't appear to have wings, just flashing lights.We followed it as we could,  and even got video of it on my phone.  While watching the video back, you can see them in the sky, but since it's on a phone, it's not as clear as what we saw with the naked eye.  I'll have to find a program on the computer or something to try and make the video clearer so the donut shape can be seen.These 2 objects flew close enough to each other the whole duration of the sighting (10 mins give or take).  Eventually we lost sight of them as we kept getting stuck at lights and stop signs.We then searched on Google 'donut shaped ufo' sure enough a lot of info came up in regards to numerous sightings of this shape and that they're becoming more prevalent around the world.  1 image we saw on Google looked exactly like the black donut shape we saw in the sky, literally a carbon copy.  Really has us thinking. .....What did we see?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109964.html](http://www.nuforc.org/webreports/reports/109/S109964.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
