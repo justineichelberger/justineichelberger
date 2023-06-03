@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:29 on 3 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:24 on 3 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Hempstead (NY) reported seeing craft that fit the description of some '' over a period of approximately minutes - minutes minutes.</sub><blockquote><sub>I was at Hempstead Lake Park in early June 07, when I viewed a UFO. The object was flying from west to east. The object first appeared to be shaped like a hour glass. After a couple of minutes the object changed course and began to head north, the direction of the park. By changing course, I got a better description of the object. The object was shaped like two circles stuck together with two holes in the center of each circle. The color of the object was gray and made no noise and had no lights or markings. I estimate the object being at least 15 feet in length and flying at approximately six hundred feet. I continued watching the object fly north until it was out of view. Two other people who were at the opposite side of the lake also witnessed the object.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60798.html](http://www.nuforc.org/webreports/reports/060/S60798.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Pilot Mountain (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>illuminating blue light in the sky moving really fast and then disapearedI was sitting outside on my porch with a few friends talking like we always do and i have a tendency to look up and look at the stars at night when we are talking.  They didn't notice it but they all believed me because of my reaction its hard to fake, anyways there was a blue light that appeared behind some trees right at the top i could see the top of the circle but not the bottom.  The best way i can describe it would be that it looked like a spotlight from a helicopter only it wasn't shining in a particular direction just illuminating.  The light stayed at the top of the trees never leaving my sight and moved at what looked like normal aircraft speed across the top of the treeline until it just vanished.  No one believes me but i know what i saw so i called a friend the morning after and said something about it and they said they had seen a blue light too.  His description was the exact same as mine just in a different area.  I know for sure we both seen it because he is just as confused as me.  I know the description is very vague but that is the best i can do i hope other who see this also report it.((NUFORC Note:  Witness confirmed that correct date is June 03rd, 2019.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146616.html](http://www.nuforc.org/webreports/reports/146/S146616.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
