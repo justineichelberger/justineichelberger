@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:11:59 on 4 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:25 on 4 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Twin Falls (ID) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 23:58 - 23:58 minutes.</sub><blockquote><sub>ufo over  twinfalls  ,id  this is real  red  flying blinking light   change in  to  3  blinking  light  and  one big orange light  fly over city  to  shoshone  falls,no  sound, no  noise,   just  100%  et   proof  they  are  here 100%%  peace on  earth((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98413.html](http://www.nuforc.org/webreports/reports/098/S98413.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Lake View (IA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange sphere in the sky, changing speed and direction.Ok, it's exactly like 2 of the may and April reports from Des Moines.  It looked like a spherical orange fireball or Street light in the sky.  I got 1 pic that turned out OK.  It came from northeast moving slow at first then came close to above town directly.  Then it turned and sped up fast and disappeared behind trees to the north.  No noise at all.  No wind.  I ran to higher ground with less trees and it circled around and came back towards me from the Northeast again.  It dimmed and got brighter randomly.  It was moving faster this time.  Again, I get it excited for it to be directly over me.  And it turns right before town again and goes and disappears to the north and never saw it again.  It was insane.  It changed speed, direction, brightness, but not color or shape.  First time ever seeing anything like that.  I was skateboarding after I got off work when this happened.  The two people that described similar sightings in Des Moines.  Their descriptions.  Literally took my ! words out of my mouth.  The 1 person described it as an Amber Sreet light and that's exactly how I described it.  It's reoccurring.  I know a lot of people had to see it.  It was very obvious and attention grabbing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134427.html](http://www.nuforc.org/webreports/reports/134/S134427.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [266](http://www.nuforc.org/webreports/reports/163/S163602.html)
-- [265](http://www.nuforc.org/webreports/reports/163/S163599.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163598.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163597.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163971.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
