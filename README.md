@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:06 on 4 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:25 on 4 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately parking lot - parking lot minutes.</sub><blockquote><sub>A silver sphere zooming in circles and then disappearingI was standing outside the parking lot of my neighborhood pool and saw birds in the sky acting weird.  Then when I looked closely enough at about 300 yards away I was a silver sphere. The sphere went straight up out of a cloud went around in circles and then disappeared. I was walking away and looked back up and it started going in circles, went behind a cloud, and came back up only to disappear again!!! There was no noise so it could not have been a plane or a helicopter and was definetly not a blimp!!!  Please tell me what it was((NUFORC Note:  Witness is anonymous, and provides no e-address.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17912.html](http://www.nuforc.org/webreports/reports/017/S17912.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Lewniowa (Poland) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>An UFO with white lights on it, emitting beams and moving in a strange way.Weather conditions: very good; clear sky, full of stars I observed an unidentified object when i looked out from the window - at first I noticed bright lights but after a while shape of the object became visible (a disk). It was wobbling in the east, above trees (a forest nearby), then suddenly stopped and emitted a bright white beam to trees. It lasted ca. 0,5 minute. About 24:10 the object changed its position - moved to the centre of village (from east to south). It was a bit strange for in the centre there is a church - UFO seemed as if it has chosen a "track" because it was moving from the church to houses lying opposite (ca. 300 metres). It lasted very long, over 1,5 hour.((NUFORC Note:  We wonder whether the witness might have observed a celestial body, although that is only conjecture on our part.  Stars and planets do not project beams of light down to the surface of the Earth, although we frequently receive reports from people who claim that they allegedly have witnessed such an event.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35836.html](http://www.nuforc.org/webreports/reports/035/S35836.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [266](http://www.nuforc.org/webreports/reports/163/S163602.html)
-- [265](http://www.nuforc.org/webreports/reports/163/S163599.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163598.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163597.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163971.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
