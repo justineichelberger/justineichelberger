@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:38 on 3 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:43 on 4 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Carbondale (IN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>While coming back home from Cuyuga, Indiana, my daughter noticed a flying object in the sky.  As she described it, we didn't believe her, but when I spotted it, I realized she wasn't luring or misimformed.  It was a  black oblong flying/hovering object,  moving all directions, it would stop, go straight, then go sideways...then stopping and flying again, it would go stright up and down.  It would fly straight then take wide curves.  It would just take a 90 degree turns at a high speed and also straight 90 degree turns going up and down as well.  Very odd flight pattern for a blimp.  No wings.  Broad day light very high in the sky just below the clouds.  It appeared as of it were skimming just under the clouds.  I took a picture of the Google map of our location as it started getting out of sight and it appears it may have been following the path of the river.((NUFORC Note:  Source of the report elects to remain anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134413.html](http://www.nuforc.org/webreports/reports/134/S134413.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Sydney (NSW, Australia) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>At the time this event occured, I was waiting for a bus in a residential area. The street goes east-westwardly. I was standing facing the north. The bus was coming from the east end of the street, so I was looking towards that direction initially. then out of no particular reason I turn around and looked up and this strange looking object floating there: it was a longish object like a cigar of a tube, white in color, with red lights glowing around it by which I mean I can see clearly where the red lights ends. At this moment a passenger plane was climbing from my backward uper left hand and flew past that object. and I thought at that moment the people in the plane must also have seen the strange object. Meanwhile I made some comparisons between these two: I could see clearly the wings, tail, the marks and even the potholes on the plane; and i knew it was climbing because it was flying at an upward angle and there was airport nearby. But with the object, I couldn't see much of it except that it was about the same size with the plane because they were at about the same attitute from my position and it had no wings, no tails and no specific characteristics to tell me that this was something I have seen before. I didn't take it very seriously at first. I thought that if it was ufo or something, the people in the passenger plane must have seen it and perhaps many other people have seen it too, cause that day was a briliant cloudless day and besides that the people working in the nearby airport with radar and everything must have seen it too. So I thought there would be some reports on next day's newspaper, and I didn't find any next two days. So on 7th, I called New South Wales UFO Investigation Centre(POBox W42, West Pennant Hills, NSW2125; phone 02-94844680). One man received my call and said would try to find out what it was and got back to me.((NUFORC Note:  We hope that the New South Wales UFO Investigation Center will follow up on the report, and share any significant findings.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23208.html](http://www.nuforc.org/webreports/reports/023/S23208.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [296](http://www.nuforc.org/webreports/reports/163/S163591.html)
-- [295](http://www.nuforc.org/webreports/reports/163/S163585.html)
-- [294](http://www.nuforc.org/webreports/reports/163/S163646.html)
-- [293](http://www.nuforc.org/webreports/reports/163/S163590.html)
-- [292](http://www.nuforc.org/webreports/reports/163/S163574.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
