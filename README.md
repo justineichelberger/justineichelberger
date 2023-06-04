@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:43 on 4 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:46 on 4 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Sydney (NSW, Australia) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>At the time this event occured, I was waiting for a bus in a residential area. The street goes east-westwardly. I was standing facing the north. The bus was coming from the east end of the street, so I was looking towards that direction initially. then out of no particular reason I turn around and looked up and this strange looking object floating there: it was a longish object like a cigar of a tube, white in color, with red lights glowing around it by which I mean I can see clearly where the red lights ends. At this moment a passenger plane was climbing from my backward uper left hand and flew past that object. and I thought at that moment the people in the plane must also have seen the strange object. Meanwhile I made some comparisons between these two: I could see clearly the wings, tail, the marks and even the potholes on the plane; and i knew it was climbing because it was flying at an upward angle and there was airport nearby. But with the object, I couldn't see much of it except that it was about the same size with the plane because they were at about the same attitute from my position and it had no wings, no tails and no specific characteristics to tell me that this was something I have seen before. I didn't take it very seriously at first. I thought that if it was ufo or something, the people in the passenger plane must have seen it and perhaps many other people have seen it too, cause that day was a briliant cloudless day and besides that the people working in the nearby airport with radar and everything must have seen it too. So I thought there would be some reports on next day's newspaper, and I didn't find any next two days. So on 7th, I called New South Wales UFO Investigation Centre(POBox W42, West Pennant Hills, NSW2125; phone 02-94844680). One man received my call and said would try to find out what it was and got back to me.((NUFORC Note:  We hope that the New South Wales UFO Investigation Center will follow up on the report, and share any significant findings.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23208.html](http://www.nuforc.org/webreports/reports/023/S23208.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>One triangle shaped space craft with bright blue lights above an apartment complex parking lot.  Object was hovering in a large circle moderately fast, disappearing and reappearing.((NUFORC Note:  Video, taken by witness, seems to indicate a stationary, blue object in the night sky.  However, image of the object is very small, faint, and blurry.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109960.html](http://www.nuforc.org/webreports/reports/109/S109960.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [266](http://www.nuforc.org/webreports/reports/163/S163602.html)
-- [265](http://www.nuforc.org/webreports/reports/163/S163599.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163598.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163597.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163971.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
