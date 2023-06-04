@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:17 on 4 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 4 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Phoenix (approx. 35 miles south of) (AZ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>viewed a very bright object aprox. 35 miles south of Phoenix on I-10 while traveling south to Tucson. BRILLIANT -WHITE LIGHT VIEWED FOR 15-20 SECONDS about 30-40 degrees of the dessert floor. The thing was smaller than that of the sun! (see image sent via e-mail)the brightlight just vanished????? I did not see a contrail of streaking away, or any other thing that looked like it could be a plane!Traveling south on I-10, aprox. 35 miles south of Phoenix, on 6/4/99, i saw a very intense, bright object in the eastern sky. The light was very bright, and seemed to be somewhat oval in shape. It seemed to have a metalic finish, almost a chrome!! it seemed to have a roundness about it. i watched it as i was driving, out my driverside window. the sky was clear. no clouds, on this sunny morning.In relationship to the ground...the sun was higher in the sky. Size...(see image I sent via e-mail)As I watched it for about 15-20 seconds, turned away to see where i was on the road, turned back to view the bright light, and it had vanished! i did not see any other airplanes, contrails,landing gear, wings, or anything that looked like an airplane. Upon returning to Phoenix after my business in Tucson, I called the FAA and they refered me to Peter Davenport....hence...this report! FEEL FREE TO CONTACT ME IF YOU NEED MORE INFO!!!! MR DAVENPORT HAS MY ADDRESS ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07951.html](http://www.nuforc.org/webreports/reports/007/S07951.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Starkville (MS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Spotted what looked like the ISS over Starkville, Ms, about 15 minutes past midnight.We thought we spotted the I.S.S. traveling east to West ((sic.  ISS goes W to E)) across the sky at 12:15AM, but check on line and found out it could not be the space station.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109940.html](http://www.nuforc.org/webreports/reports/109/S109940.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [266](http://www.nuforc.org/webreports/reports/163/S163602.html)
-- [265](http://www.nuforc.org/webreports/reports/163/S163599.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163598.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163597.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163971.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
