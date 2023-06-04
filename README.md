@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:31 on 4 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:58 on 4 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Andover (KS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>just sitting out side bright orange ball from the north to the south no noise or flashing lights right over the house.((NUFORC Note:  Date, and perhaps time, are defective.  We attempted to contact source of report, but were unsuccessful.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127697.html](http://www.nuforc.org/webreports/reports/127/S127697.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1969, an anonymous witness in Chance (MD) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>AN DISK SHAPED CRAFT ON THE EASTERN SHORE OF MARYLANDTHE OBSERVER WAS DRIVING HOME FROM A LONG NIGHT OF WORK,DOWN A ROAD WHICH EVEN TODAY IS NOT HEAVILY USED .THE TRUCK HE WAS DRIVING BEGAN TO STUDDER,RIGHT THEN HE SAID HE SAW A BRIGHT LIGHT AHEAD. THE TRUCK DID NOT CUT OUT, SO HE KEPT DRIVING TOWARD THE LIGHT AHEAD. HE SAID"I THOUGHT IT WAS A HELICOPTOR,BUT I DIDNT HEAR ANYTHING." HE THEN PULLED OVER AFTER GETTING WITHIN EYESITE.HE SAID HE SAW A DISK SHAPED CRAFT APROX. 50FT ACROSS. HE SAT AND WATCHED IT FOR A FEW MINUTES AND THEN HE SAID IT SHOT OFF WITH OUT ANY NOISE WHAT SO EVER. HE TOLD ME THAT HE HAD ONLY TOLD ONE OTHER PERSON ABOUT THIS IN FEAR OF BEING LAUGHED AT.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38274.html](http://www.nuforc.org/webreports/reports/038/S38274.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [266](http://www.nuforc.org/webreports/reports/163/S163602.html)
-- [265](http://www.nuforc.org/webreports/reports/163/S163599.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163598.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163597.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163971.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
