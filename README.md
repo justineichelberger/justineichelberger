@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:28 on 4 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:28 on 4 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Noblesville (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Very bright white star like object slowly moves across the sky intercepted by a blinking red light.Walking the dog looking at the stars on a very clear morning I saw a very bright star moving north.  The light was about 20 times brighter than the brightest star and singularly bright white with no other colors visible. It never twinkled or varied in brightness as it traveled very slowly across my sky view.  I stopped walking to verify that it was indeed moving and not my imagination. I noticed that it had a very unusual trajectory.  It seemed to meander a little east and west never moving in a straight line.  From the south I observed a blinking red lighted aircraft that I now think was a terrestrial air craft approaching the bright star.  I started realizing something was odd when the blinking red light came in very close airspace to the star and appeared to tag along with it.  The blinking red light had a very straight trajectory and did not move like the white light did.  As I was watching this unfold the lights moved beyond my field of view blocked by my gara! ge.  As I started to back up very slowly, I started to also move to my left which exposed a huge portion of open sky that was previously blocked by my garage.  I then realized there were at least 3 other moving stars moving against a constellation of dimmer stars giving me the illusion that I was seeing 8 or more other moving stars.  I ran back into the house to get another person to witness this, but when I returned with the witness a few moments later all that was visible was the original moving star with the blinking red light beside it still traveling north.  The 3 or so moving objects were gone and just 4 or 5 dim stationary stars in a constellation remained.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98440.html](http://www.nuforc.org/webreports/reports/098/S98440.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Greenbrier (AR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Two white lights in the sky blinking in the east, moved upward, west, disappeared then one red light appeared from behind, getting close then vanished.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146618.html](http://www.nuforc.org/webreports/reports/146/S146618.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [266](http://www.nuforc.org/webreports/reports/163/S163602.html)
-- [265](http://www.nuforc.org/webreports/reports/163/S163599.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163598.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163597.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163971.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
