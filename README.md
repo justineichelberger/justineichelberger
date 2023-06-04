@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:27 on 4 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:31 on 4 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Somerville (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>the 3 of us were sitting out in my pool listening to the near by fireworks.  i was looking up at the stars when i noticed on begin to move.  it was at equal distance in relation to the near by stationary stars but this one began to move.  i quickly brought it to my 2 friends attention to confirm that i was not seeing things.  they to saw it slowly move to the right, there was no streak of light or sound.  it moved very slow and at a straight angle, then it just disappeared, it didn't fade away or go behind a cloud it just vanished.  Seveal minutes later as we began disguessing what we saw, an enormous helicopter flew over my house with its search lights on, it flashed my house with it and continues on towards the direction in which we saw the object.**see summary for description** the only other thing i can add is that the light was the size of a star, it was white/orange colored and moved in the straight fashion of a controlled craft would do.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08224.html](http://www.nuforc.org/webreports/reports/008/S08224.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Andover (KS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>just sitting out side bright orange ball from the north to the south no noise or flashing lights right over the house.((NUFORC Note:  Date, and perhaps time, are defective.  We attempted to contact source of report, but were unsuccessful.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127697.html](http://www.nuforc.org/webreports/reports/127/S127697.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [266](http://www.nuforc.org/webreports/reports/163/S163602.html)
-- [265](http://www.nuforc.org/webreports/reports/163/S163599.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163598.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163597.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163971.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
