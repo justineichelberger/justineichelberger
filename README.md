@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:58 on 4 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:33 on 4 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1969, an anonymous witness in Chance (MD) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>AN DISK SHAPED CRAFT ON THE EASTERN SHORE OF MARYLANDTHE OBSERVER WAS DRIVING HOME FROM A LONG NIGHT OF WORK,DOWN A ROAD WHICH EVEN TODAY IS NOT HEAVILY USED .THE TRUCK HE WAS DRIVING BEGAN TO STUDDER,RIGHT THEN HE SAID HE SAW A BRIGHT LIGHT AHEAD. THE TRUCK DID NOT CUT OUT, SO HE KEPT DRIVING TOWARD THE LIGHT AHEAD. HE SAID"I THOUGHT IT WAS A HELICOPTOR,BUT I DIDNT HEAR ANYTHING." HE THEN PULLED OVER AFTER GETTING WITHIN EYESITE.HE SAID HE SAW A DISK SHAPED CRAFT APROX. 50FT ACROSS. HE SAT AND WATCHED IT FOR A FEW MINUTES AND THEN HE SAID IT SHOT OFF WITH OUT ANY NOISE WHAT SO EVER. HE TOLD ME THAT HE HAD ONLY TOLD ONE OTHER PERSON ABOUT THIS IN FEAR OF BEING LAUGHED AT.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38274.html](http://www.nuforc.org/webreports/reports/038/S38274.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Newcastle upon Tyne () reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>ENGLAND 2 large .Round balls in sky with 2 rows of others jumping and  joining them, 3 times, lasted aprox 6 minsOn the 4th June 2009 my husband and I were preparing to go to bed, it was 12.10 am, suddenly I spotted a light in the sky, when we looked up we saw 2 big balls of light.One was bigger than the other, but they were both very large.They kept going brighter then dimmer, then all of a sudden we seen 2 rows of smaller balls jumping across from the west and joined the 2 larger balls.This happened 3 times in all,it lasted for aprox 5-7 minutes then they all disappeared.It was totally unexplainable,we have never seen anything like it before.We could not get to sleep for thinking about it We live in Newcastle upon Tyne England.Our house faces fields and it has a clear view in front of it with no roads or houses,so we had a good view of this incident and would love to know if someone else spotted it, I’m sure that we could not be the only ones.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70391.html](http://www.nuforc.org/webreports/reports/070/S70391.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [266](http://www.nuforc.org/webreports/reports/163/S163602.html)
-- [265](http://www.nuforc.org/webreports/reports/163/S163599.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163598.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163597.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163971.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
