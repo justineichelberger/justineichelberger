@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:22 on 4 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:31 on 4 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Sedro Wooley (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright yellow/white low flying large, silent object that changes course quickly and smoothly. No navigation lights flashing.This is the second night to witness this. On the 3rd of June, my daughter and I seen this same the object.  That was around 2200 hours.  Again on the 4th at 23:23, I was out side walking the dags and again I see this very bright light (yellow/White)  Moving and at slower speed and lower altitude.  The aircraft that fly in the area are much higher. There was no sound. It changes course quickly and smoothly.  No flashing lights. The night before when we witness this, there were two aircraft to the west.  They were civilian. They had their strobe lights on.  This object had none. I live in a wooded area and could only see the object until obstructed by the trees. I am a retired Naval Flight crew and have seen many aircraft.  I have no idea what this was or is.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98423.html](http://www.nuforc.org/webreports/reports/098/S98423.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lindenhurst (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Floating man over south shore Suffolk countyI was sitting at Well Wood docks in Lindenhurst, NY.  I was just chilling by the water waiting to pick up someone  I saw a few planes fly by, until I saw a large black thing coming close to where u was.  It got closer then it was in view  I couldn't exactly see what it was but not plane or helicopter and def was not ballon  it looked like a shape of man and device over him, or man on cross yes I know it sounds crazy but 4 other people saw it and was shocked  it was floating till it stopped mid air rotate came back towards us then stopped  floated the turn direction moved north  I followed looking to see what it was but it was at least 100' feet up i followed about mile then it changed direction headed west  where 2 other people said what is that we watched it hover and head west over Montauk hwy till it was gone I took pictures  I even got in tuch with local news who said send pictures other people had call it in pictures aren't great sine took it with my iPhone</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109955.html](http://www.nuforc.org/webreports/reports/109/S109955.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [266](http://www.nuforc.org/webreports/reports/163/S163602.html)
-- [265](http://www.nuforc.org/webreports/reports/163/S163599.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163598.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163597.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163971.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
