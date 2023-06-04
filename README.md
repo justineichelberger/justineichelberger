@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:22 on 4 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:35 on 4 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Havelock (NC) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Unusual aircraft or ??I live near a military base.  I have seen every kind of military aircraft known, but I have never seen anything like or since what I saw on 6/4/97.  It was approximately 8:30 pm and I went outside to put the windows up on the car.  As I was outside, I looked to the NE sky and noticed something flying low.  It's normal for military aircraft to fly low in this area, but the light pattern was strange.  It had only red lights in the front and a very unusual pattern I've never seen before (that's what caught my attention), and I could see that from the trajectory of the way it was flying that it would come over my head.  During this time, I noticed recognizable military aircraft flying around but keeping distance.  Anyhow, this aircraft came over my head, and I did not hear any engine noise.  It was HUGE!  I could see small white lights on either side which would be at the end of each wing(?).  I was transfixed by this sight and continued to watch.  Then the view changed as the object went over my head and was moving away from me, and there was a plasma white color in the middle of the back, similar to the color of an afterburner on an F-18.  This unknown aircraft was not flying quickly; it was not an F-18.  It continued past me in the opposite direction.  All of a sudden, two red lights shot out from it, and then I saw a triangular pattern of lights--the white light had gone off and was replaced by red.  Then, the top two red lights shot off together and one of the military jets headed in that direction, and then the object lit up the back again, and went the opposite direction, with 2 jets following along behind it.  I stood there wondering what I had just seen and my first idea was maybe the B-2 Stealth at night, but I really couldn't say for sure.  Maybe it was simply some sort of night-time military exercise---which is the impression I got, but what I saw didn't really make sense, and like I say, I've seen all kinds of military aircraft flying (except for the B-2). I know of no aircraft that flies arou! nd here that doesn't make any kind of noise.  This whole incident I had still puzzles me to this day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14720.html](http://www.nuforc.org/webreports/reports/014/S14720.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Boston (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Sat outside and saw lights appear and disappear in the sky.a friend and I were sat outside enjoying a beer, roughly around 11pm at night and we both saw lights in the sky appear and then disappear over a duration of a few seconds. At this point we were both confirmed with each other what we saw which we thought was a small plane. There was no noise, just lights and came from nowhere and disappeared into nowhere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81944.html](http://www.nuforc.org/webreports/reports/081/S81944.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [266](http://www.nuforc.org/webreports/reports/163/S163602.html)
-- [265](http://www.nuforc.org/webreports/reports/163/S163599.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163598.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163597.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163971.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
