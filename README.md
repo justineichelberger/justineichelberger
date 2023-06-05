@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:28 on 5 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:46 on 5 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cleveland (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Rhythmically moving point of light slowly crossing the northern sky near ChattanoogaAt around 11:40 I wandered outside to smoke a cigarette with my father and happened to notice what appeared to be an out of place star in the northern sky.  We've been doing quite a bit of telescope skywatching lately and generally know the night sky quite well so we were intrigued.We continued to observe it and noticed that it was moving west to east in a strangely rhythmic manner.  It slowed down and sped up, repeating this every 2-3 seconds until it was finally out of sight around 5 minutes later.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89385.html](http://www.nuforc.org/webreports/reports/089/S89385.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bowie (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>gaseous green object seen from vehicle as about the size of a nickel, seemed to be crashing, and no engine noise or sonic boom.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89386.html](http://www.nuforc.org/webreports/reports/089/S89386.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
