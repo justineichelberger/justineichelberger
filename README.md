@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:35 on 5 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:52 on 5 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Huntsville (AL) reported seeing craft that fit the description of some 'Flash' over a period of approximately 1:30 - 1:30 minutes.</sub><blockquote><sub>Around midnight I heard this noise and I looked outside and there were like 5 or 6 blinking lights up in the sky....they were in a row and  then some would dissapear and another would appear. And off to the side there were about 3 red lights. I have no idea what it was. The lights seemed to be moving.....the red ones were slower. I tried to take a picture of it, it probably won't turn out though.....but we got out the video recorder and recoreded some of it.Around midnight I heard this noise and I looked outside and there were like 5 or 6 blinking lights up in the sky....they were in a row and  then some would dissapear and another would appear. And off to the side there were about 3 red lights. The lights were moving.....the red ones were slower. I tried to take a picture of it, it probably won't turn out though.....but we got out the video recorder and recoreded some of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08061.html](http://www.nuforc.org/webreports/reports/008/S08061.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Aurora (CO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>5 Bright lights seen.5 bright lights were seen heading west all within a few minutes of each other.  Images would not show up on camera for some reason. Thought they were meteors, but no news on them, and have never seen planes go that way.((NUFORC Note:  A second telephoned report from other witnesses in Aurora, CO, was received on the morning of Friday, June 6th.  It appears that both groups witnessed the same cluster of objects.  We are awaiting those other reports from the second set of witnesses, as we post the database on June 6th, 2014.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109978.html](http://www.nuforc.org/webreports/reports/109/S109978.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
