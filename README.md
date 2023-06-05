@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:03 on 5 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:27 on 5 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Wilmington (DE) reported seeing craft that fit the description of some 'Egg' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>In June 1999 a shiny silver egg shaped craft was seen in North Wilmington, DEI was driving on westbound on Silverside Road in North Wilmington, Delaware in the early afternoon in early June 1999. Between the trees to the northwest of me I saw what appeared to be a shiny silver, egg shaped craft. It appeared to be hovering directly over Branmar shopping center, probably 200 or 300 feet in the air. Each time there was a clearing the trees I could see the object. The trees only covered the object for a few seconds at a time. After about 5 minutes my view was again blocked by the trees. Once I reached a clearing, again after only several seconds of obscured vision, the object was gone with no trace of which direction it went. About two weeks later, again while driving, on southbound I-95 just before the exit for route 273 into Newark, Delaware I saw an object that appeared identical. It, again, appeared to simply be hovering over the area near Bear, Delaware. I had an unobscured view this time. I watched very intently as I drove (dangerous? maybe a little). After watching it for a minute or two it the object seemed to disappear into nothing.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33198.html](http://www.nuforc.org/webreports/reports/033/S33198.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Wilmore (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Bright white light flying over wilmore KentuckyThe light came into view in a descending patern as if it were a plane about to land, but silent, alot brighter than a normal plane and no airports were nearby.  It appeared to be four small lights that blurred together into one large white bright light.  The light went behind a pine tree, yet did not reappear once it had crossed the pine tree as any plane would.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75677.html](http://www.nuforc.org/webreports/reports/075/S75677.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
