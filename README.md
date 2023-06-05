@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:03:28 on 5 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:23 on 5 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Madison (WI) reported seeing craft that fit the description of some 'Changing' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>from my office overlooking downtown and state street.  this dark object traveled from north to south above the buildings but below the low clouds.  It didn't change shape (but that is not a choice given) it didn't have any distinct geometric shape, but looked like a larger cap with a dangling down piece.  It appeared to move with the wind and not under any power.  If I had to guess I would have said it was a mostly deflated balloon with the helium in the top part and the bottom dangly part uninflated.  I first thought it was a parachutist, but when it got closer it was obviously not and it was  traveling horizontally, not down</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119429.html](http://www.nuforc.org/webreports/reports/119/S119429.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Central Square (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two separate occasions... red balls traveling northbound through center of sky.  First one seemed to &quot;burn out&quot; after a bit aTwo separate occasions... red balls traveling northbound through center of sky.  First one seemed to "burn out", after a bit and then turned black, as it was still going North.  The second ball about 3 minutes later did not burn out...  update... as I was writing this.   A third went by and burned out right over us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127724.html](http://www.nuforc.org/webreports/reports/127/S127724.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
