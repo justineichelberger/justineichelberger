@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:23 on 5 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:31 on 5 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Central Square (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two separate occasions... red balls traveling northbound through center of sky.  First one seemed to &quot;burn out&quot; after a bit aTwo separate occasions... red balls traveling northbound through center of sky.  First one seemed to "burn out", after a bit and then turned black, as it was still going North.  The second ball about 3 minutes later did not burn out...  update... as I was writing this.   A third went by and burned out right over us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127724.html](http://www.nuforc.org/webreports/reports/127/S127724.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in York (UK/England) () reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>The object exactly like a hotair ballon shape, and translucent, with an orange glow at its base, moving north west to south east at an estimated speed of 150-200 knots.The sky completely clear of cloud, the object being observed through binoculars in view for approxiamately 30-60 seconds suddenly just disapeared.  The time 23.10hrs 5th June 2010.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75681.html](http://www.nuforc.org/webreports/reports/075/S75681.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
