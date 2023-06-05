@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:33 on 5 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:25 on 5 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Mc Grath (MN) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>Fast single file lightsSeems 3 lights moving fast thru the sky in a single file line as if they were chasing each other</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156928.html](http://www.nuforc.org/webreports/reports/156/S156928.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Middletown (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>A replay of what has been happening since 6/1/2012 here in Middletown, a lot of UFOs moving all over in our sky.At 9:15 last night my husband took our dog out and looked.  The previous nights activity made him look up. He called me to the porch to look.  At first, all I saw was the north star.  Then I saw what he was talking about.Just to the left was a little hello/orange light moving fast and stopping then changing direction.As we watched, having our son to come out to watch too, more and more appeared.It turned out to be a smaller version of the previous night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127728.html](http://www.nuforc.org/webreports/reports/127/S127728.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
