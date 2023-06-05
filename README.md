@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:21 on 5 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:41 on 5 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Gresham (OR) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I was on my phone and then my friend came inside and then told us to hurry up and come outside, when we came outside we saw an object above the hot tub, and it looked like a drone but it made no noise, my cousin acted like he had a gun and pointed at it, and then started to hover over us for about what seemed like 5 minutes at least and then it changed to the color red like my friends shirt, and then went further and further up, before it fully  disappeared it was half black and half red</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119433.html](http://www.nuforc.org/webreports/reports/119/S119433.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Really really bizarreSo from our bedroom window we saw a bright flashing light. We first thought it was a helicopter.  It was making a strange sound like a subwoofer. We looked out the window and saw an object flying at an eerie pace.  Unlike anything we had ever seen. It had many different flashing lights.  Again we thought it was a helicopter but it had no propellars. Also helicopters don't move like this.  After A minute or so it disappeared behind a few trees.  After this we ventured to the roof top where we saw 3 of the same craft in the distance.  They looked like airplanes but did not move like airplanes. They also hovered for extended periods of time and were going back and forth and up and down over the Mississauga area of toronto. They also became blindingly bright when they seemed to be turning. They are still flying around but it became too cold and we came inside. From our bed we heard the noise again and went to the window to see the same craft travelling east before falling out of sight.Observers were ((name deleted)) (local business owner) & ((name deleted ((business deleted)) manager)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98425.html](http://www.nuforc.org/webreports/reports/098/S98425.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
