@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:36 on 5 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:32 on 5 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Sargent (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was sitting in my living room at about 11 on June 5 and had been smoking a little hash.  Sorry, I do this from time to time.  Well, anyway, as I sat there,  I got this strange feeling as if the room was moving slightly from side to side.  I called my dog "hambone" to come into the room b/c I didn't want him to be frightened.  I sat there for a moment stroking his belly watching his leg move back and forth such as dogs do.  I then noticed outside the window there was  a faint glow about the sky so I decided to investigate.  Upon looking out the window, I saw what looked to be like a ball of light hovering approxmately 3 inches from the tops of my trees in the back yard.  It was real wierd.  I tried to convince myself that it wasn't real but there was just something real eeery about it.  I think what or whoever it was must of saw me looking at it b/c about that time, the overhead light went out and just as fast as I saw the strange object, it was gone.  I told many people about this and they all think I am crazy but I swear its the truth!  The truth IS out there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13248.html](http://www.nuforc.org/webreports/reports/013/S13248.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Northlake (IL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Possible UFO, around commercial Jet planeI was outside watching my son play in his new wading pool, I was taking pictures of him playing and just basically relaxing and overseeing his activities. Since I live near O'Hare airport, I naturally always snap photos of the planes taking off from the airport. I snapped three photos of three different planes about 8-10 minutes apart. When I went to upload them into my computer, I noticed that the first picture had these strange cigar shaped objects around the plane. I immediatley checked the other pics, They were clear and there were no objects on any of the photos. I checked my camera and even checked to see if there was debris on the lens, there was none. All my other pictures of planes were all clear and did nit have anything on them. That is why I decided to submit the report and the picture to you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63711.html](http://www.nuforc.org/webreports/reports/063/S63711.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
