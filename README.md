@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:25 on 5 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:19 on 5 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Middletown (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>A replay of what has been happening since 6/1/2012 here in Middletown, a lot of UFOs moving all over in our sky.At 9:15 last night my husband took our dog out and looked.  The previous nights activity made him look up. He called me to the porch to look.  At first, all I saw was the north star.  Then I saw what he was talking about.Just to the left was a little hello/orange light moving fast and stopping then changing direction.As we watched, having our son to come out to watch too, more and more appeared.It turned out to be a smaller version of the previous night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127728.html](http://www.nuforc.org/webreports/reports/127/S127728.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in McKees Rocks (Kennedy Twp.) (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3  RED/ORANGE CIRCULAR OBJECTS MOVING FROM NORTHEAST TO SOUTHWEST OVER MCKEES ROCKS AND KENNEDY TOWNSHIP  JUST WEST OF PITTSBURGHON JUNE 5, 2012, LOOKING OUTSIDE MY LIVING ROOM WINDOW, I SAW TWO REDDISH/ORANGE CIRCULAR LIGHTS TRAVELING SLOWLY ONE BEHIND THE OTHER AND SEPARATED BY ABOUT THREE OR FOUR HUNDRED YARDS.  ANOTHER ORANGE RED CIRCULAR LIGHT WAS ABOUT A HUNDRED YARDS AND TO THE LEFT OF THE SECOND ONE.  THEY WERE TRAVELING FROM THE NORTHEAST TO THE SOUTHWEST COMING STRAIGHT TOWARDS MY NEIGHBORHOOD FROM THE PITTSBURGH, PA./ MCKEES ROCKS AREA. I CALLED MY WIFE AND SON WHO WERE ALREADY IN BED AND THEY ALSO SAW THESE LIGHTS, BUT THEY SAID THAT I WAS CRAZY AND THAT THEY WERE JUST AIRPLANES HEADING TOWARDS PITTSBURGH INTERNATIONAL AIRPORT WHICH IS ABOUT 5 MILES SOUTHWEST OF US.  AS THEY SLOWLY APPROACHED, THE FIRST AND SECOND ONES TRAVELED BEHIND SOME LOW PUFFY CUMULUS CLOUDS AND ALMOST CAME TO A STOP RIGHT ABOVE MY HOUSE.  THE THIRD LIGHT THEN SUDDENLY JUST BLINKED OFF AND IT WAS GONE.  THE SECOND ONE THAT WAS ABOVE MY HOUSE THEN BLINKED OFF AND FINALLY THE FIRST ONE WHICH WAS NOW SITTING MOTION!  LESS ABOVE THE HOUSE SHOT UP AT AN INCREDIBLE SPEED AND WAS JUST GONE ALMOST IMMEDIATELY.  I BELIEVE THAT THESE WERE THE SAME LIGHTS THAT SOMEBODY ELSE REPORTED SEEING AS THEY WERE DRIVING HOME IN THE ROBINSON TOWNSHIP AREA.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98280.html](http://www.nuforc.org/webreports/reports/098/S98280.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
