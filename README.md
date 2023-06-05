@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:21 on 5 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:31 on 5 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Santa Ana (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Grey Alien BeingI was in bed..and I saw an Alien out the window..  I was afraid of telling anyone.  No aircraft just an actual being.  He was just running against the window...this was a rehabilitation facility.. after I was in the Santa Ana Jail.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Possible hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76595.html](http://www.nuforc.org/webreports/reports/076/S76595.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Rochester (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>I was with my friend and we were in my backyard which is a very wooded area and it was pretty dark but we were just going for a walk.  And we saw in the sky 3 weird objects that I can't explained an it looked like it was just swaying and swinging itself in the sky.to be honest I thought it was a shooting star until it began sinking to the ground slowly followed by a loud bang and me and my friend ran back home, we were terrified.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141779.html](http://www.nuforc.org/webreports/reports/141/S141779.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
