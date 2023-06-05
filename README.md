@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:38 on 5 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:03 on 5 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in S.M (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately Few minutes - Few minutes minutes.</sub><blockquote><sub>UFo's Extraterrestrial visits?I'm wonder if somebody had same experience, like I have, after the installation of a security infrared camera. This camera is pointed to de front lawn and driveway, because somebody vandalized it.After few days of recordings, checking the videtape, one day in May, I notice this spheres, 4-5 inches in diameter, with distint transparencies, moving around checking the grass, and my pick-up truck, and after two hrs, this line of light with three spheres on it, scanning the camera up an down, few times,very weird! This visits repeated 10 consecutive  times, with spheres having different transparency, and their keep in visiting! I'm a person with tecnical knowledge in infrared and retired from working in aerospace, and I believe this spheres are visible only under the infrared light, because can not see them with my naked eyes, also is possible their are atracted to it. This spheres in my opinion are probes or drones with intelligence or remotedly operated, and for sure their are extraterrestrial! I have 10 video tapes with documented visits, and I keep on recording every nigth!((NUFORC Note:  Precise location in California is not indicated by the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25444.html](http://www.nuforc.org/webreports/reports/025/S25444.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Wilmington (DE) reported seeing craft that fit the description of some 'Egg' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>In June 1999 a shiny silver egg shaped craft was seen in North Wilmington, DEI was driving on westbound on Silverside Road in North Wilmington, Delaware in the early afternoon in early June 1999. Between the trees to the northwest of me I saw what appeared to be a shiny silver, egg shaped craft. It appeared to be hovering directly over Branmar shopping center, probably 200 or 300 feet in the air. Each time there was a clearing the trees I could see the object. The trees only covered the object for a few seconds at a time. After about 5 minutes my view was again blocked by the trees. Once I reached a clearing, again after only several seconds of obscured vision, the object was gone with no trace of which direction it went. About two weeks later, again while driving, on southbound I-95 just before the exit for route 273 into Newark, Delaware I saw an object that appeared identical. It, again, appeared to simply be hovering over the area near Bear, Delaware. I had an unobscured view this time. I watched very intently as I drove (dangerous? maybe a little). After watching it for a minute or two it the object seemed to disappear into nothing.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33198.html](http://www.nuforc.org/webreports/reports/033/S33198.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
