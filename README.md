@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:32 on 5 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 5 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Sargent (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was sitting in my living room at about 11 on June 5 and had been smoking a little hash.  Sorry, I do this from time to time.  Well, anyway, as I sat there,  I got this strange feeling as if the room was moving slightly from side to side.  I called my dog "hambone" to come into the room b/c I didn't want him to be frightened.  I sat there for a moment stroking his belly watching his leg move back and forth such as dogs do.  I then noticed outside the window there was  a faint glow about the sky so I decided to investigate.  Upon looking out the window, I saw what looked to be like a ball of light hovering approxmately 3 inches from the tops of my trees in the back yard.  It was real wierd.  I tried to convince myself that it wasn't real but there was just something real eeery about it.  I think what or whoever it was must of saw me looking at it b/c about that time, the overhead light went out and just as fast as I saw the strange object, it was gone.  I told many people about this and they all think I am crazy but I swear its the truth!  The truth IS out there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13248.html](http://www.nuforc.org/webreports/reports/013/S13248.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Huntsville (AL) reported seeing craft that fit the description of some 'Flash' over a period of approximately 1:30 - 1:30 minutes.</sub><blockquote><sub>Around midnight I heard this noise and I looked outside and there were like 5 or 6 blinking lights up in the sky....they were in a row and  then some would dissapear and another would appear. And off to the side there were about 3 red lights. I have no idea what it was. The lights seemed to be moving.....the red ones were slower. I tried to take a picture of it, it probably won't turn out though.....but we got out the video recorder and recoreded some of it.Around midnight I heard this noise and I looked outside and there were like 5 or 6 blinking lights up in the sky....they were in a row and  then some would dissapear and another would appear. And off to the side there were about 3 red lights. The lights were moving.....the red ones were slower. I tried to take a picture of it, it probably won't turn out though.....but we got out the video recorder and recoreded some of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08061.html](http://www.nuforc.org/webreports/reports/008/S08061.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
