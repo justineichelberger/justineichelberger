@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 4 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:28 on 5 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Starkville (MS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Spotted what looked like the ISS over Starkville, Ms, about 15 minutes past midnight.We thought we spotted the I.S.S. traveling east to West ((sic.  ISS goes W to E)) across the sky at 12:15AM, but check on line and found out it could not be the space station.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109940.html](http://www.nuforc.org/webreports/reports/109/S109940.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cleveland (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Rhythmically moving point of light slowly crossing the northern sky near ChattanoogaAt around 11:40 I wandered outside to smoke a cigarette with my father and happened to notice what appeared to be an out of place star in the northern sky.  We've been doing quite a bit of telescope skywatching lately and generally know the night sky quite well so we were intrigued.We continued to observe it and noticed that it was moving west to east in a strangely rhythmic manner.  It slowed down and sped up, repeating this every 2-3 seconds until it was finally out of sight around 5 minutes later.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89385.html](http://www.nuforc.org/webreports/reports/089/S89385.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [266](http://www.nuforc.org/webreports/reports/163/S163602.html)
-- [265](http://www.nuforc.org/webreports/reports/163/S163599.html)
-- [264](http://www.nuforc.org/webreports/reports/163/S163598.html)
-- [263](http://www.nuforc.org/webreports/reports/163/S163597.html)
-- [262](http://www.nuforc.org/webreports/reports/163/S163971.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
