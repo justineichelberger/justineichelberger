@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:32 on 5 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:21 on 5 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Northlake (IL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Possible UFO, around commercial Jet planeI was outside watching my son play in his new wading pool, I was taking pictures of him playing and just basically relaxing and overseeing his activities. Since I live near O'Hare airport, I naturally always snap photos of the planes taking off from the airport. I snapped three photos of three different planes about 8-10 minutes apart. When I went to upload them into my computer, I noticed that the first picture had these strange cigar shaped objects around the plane. I immediatley checked the other pics, They were clear and there were no objects on any of the photos. I checked my camera and even checked to see if there was debris on the lens, there was none. All my other pictures of planes were all clear and did nit have anything on them. That is why I decided to submit the report and the picture to you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63711.html](http://www.nuforc.org/webreports/reports/063/S63711.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Gresham (OR) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I was on my phone and then my friend came inside and then told us to hurry up and come outside, when we came outside we saw an object above the hot tub, and it looked like a drone but it made no noise, my cousin acted like he had a gun and pointed at it, and then started to hover over us for about what seemed like 5 minutes at least and then it changed to the color red like my friends shirt, and then went further and further up, before it fully  disappeared it was half black and half red</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119433.html](http://www.nuforc.org/webreports/reports/119/S119433.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/163/S163656.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163611.html)
-- [330](http://www.nuforc.org/webreports/reports/163/S163615.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163607.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
