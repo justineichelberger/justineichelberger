@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:33 on 6 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:25 on 6 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Bakersfield (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>A saucer flew over the roof of my car several times.Some time ago, while I was headed South on I-5, outside Bakersfield CA, a flying saucer made several passes over the roof of my car.  I did look out my window and could see an array of circular lights on the disk as it was approximately at each pass about 100 feet from the roof of my car.  I did not stop and maintained a speed of 60 mph as I was extremely afraid, but at the same time curious.  This happened in a time frame of about 15 minutes.  The saucer would sway out from my cars roof to 45 degrees to the side of the car at 200 feet then swing back over my roof.  It then would go to the other side of my car at about 45 degrees to an altitude of 200 feet again.  The diameter of the saucer was approximately 50 feet.I was outside of the city limits of Bakersfield, driving along the I-5 an oddly I was the only car on the freeway headed South.  I did not notice any traffic headed North bound either?  Was this an attempt by aliens to abduct me?  Yet they elected not to EMP my car, because I would have crashed.  Do you think they were waiting for me to stop the car?  The year was 2002.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145446.html](http://www.nuforc.org/webreports/reports/145/S145446.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Springfield (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Five small ships with red lights coming from the SSW met and followed a much larger until they disappeared on the horizon.I saw what appeared to be planes or helicopters with red lights coming from the SSW moving to the NW following each other.Then a large aircraft (ship) approached from the east, with white lights on the bottom, headed west.Two more of the aircraft with red lights appeared and joined the others.  All five of these then seemed to be following the path of the big ship.  They all disappeared on the horizon.Did anyone else see this?  Their red lights caught my attention.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110018.html](http://www.nuforc.org/webreports/reports/110/S110018.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/163/S163728.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163729.html)
-- [415](http://www.nuforc.org/webreports/reports/163/S163990.html)
-- [414](http://www.nuforc.org/webreports/reports/163/S163865.html)
-- [413](http://www.nuforc.org/webreports/reports/156/S156960.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
