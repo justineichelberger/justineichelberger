@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:26 on 6 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:55 on 6 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Object of solid blue light moves quietly over our house and travelled away from us, then quickly fading into nothing.I walked outside and looked up and directly above our area was a light, the size of a dime. It was one solid blue light, and made no sound.   It travelled East South East , following 33.   I asked the wife to come out quickly and she saw it as well.  There was no blinking at all and it moved slowly away and then faded rapidly before it left our line of sight.       It was definitely within the atmosphere, below the cloud cover and it was no airplane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63732.html](http://www.nuforc.org/webreports/reports/063/S63732.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Sandy (UT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Sandy, Utah light  10 minutes 3 light objects travelling South to North 1 travelling East to West seemingly on collission course with 1Sitting in hot tub 23:20 pm mostly very clear skies some clouds following a storm several hours earlier. All activity was east of my location in Sandy, UT., and flights were over the Wasatch mountains. I saw an object of undetermined size flying north above the mountains much higher than any type of plane I am aware of. As I was watching the northbound light another light  appeared traveling East to West and appeared to be on a collision course and both units maneuvered at this point seemingly to avoid the west bound light. The West bound light extinguished shortly thereafter. The north bound light continued North and covered incredible distance in a short amount of time. I continued to watch the sky and another light headed from South to North. I saw one more after this that was not as bright and moved rapidly from South to North. I watch this area of sky frequently and this was an exceptionally unique occurance. I would be interested in contact by email if! this a typical sighting or what you may think about it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75702.html](http://www.nuforc.org/webreports/reports/075/S75702.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/163/S163728.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163729.html)
-- [415](http://www.nuforc.org/webreports/reports/163/S163990.html)
-- [414](http://www.nuforc.org/webreports/reports/163/S163865.html)
-- [413](http://www.nuforc.org/webreports/reports/156/S156960.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
