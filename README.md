@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:37 on 6 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:26 on 6 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Cold Spring (NY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>((NUFORC Note:  Witness provides no information; elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156929.html](http://www.nuforc.org/webreports/reports/156/S156929.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in North Wales (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Lustrous/metallic orb traveling between clouds on Route 202 (North) near North Wales, PASaw an illuminated orb-shaped object while traveling North on 202 (was a passenger in a car, driver did not witness). Object was traveling relatively slowly (similar speed to a bi-plane) towards the South in a consistent linear path. Orb-shaped object appeared to be metallic and was highly reflective. The object was not remotely shaped like a conventional commercial aircraft, nor did it have any sort of hazard lights. Witnessed object traveling for about 5-10 seconds, turned away, then upon turning back the object was nowhere in sight. Tried to monitor that section in sky for a few minutes after initially seeing the object but couldn’t identify it a second time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156950.html](http://www.nuforc.org/webreports/reports/156/S156950.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/163/S163728.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163729.html)
-- [415](http://www.nuforc.org/webreports/reports/163/S163990.html)
-- [414](http://www.nuforc.org/webreports/reports/163/S163865.html)
-- [413](http://www.nuforc.org/webreports/reports/156/S156960.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
