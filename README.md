@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:14 on 6 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:27:18 on 6 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Jericho (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Nasa's Space station.-----Duuuuugghh!! Gosh, you freek'n idiots.for everyone that thought this was a U.F.O. Duuuuugh... It was the space station you idiots. Heading East well passing planes in speed. I was lucky to see it on my telescope.-Awesome. It crossed the Entire U.S. and did not blink. If you say that you saw its shape you're lying unless you have 20/20 vision. If you thought it was a shooting star, keep wishing. Nothing else was in vision aside from stars and the moon so you cannot say that this is not was you saw, like I know you will. -------Yes YOU!!((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56997.html](http://www.nuforc.org/webreports/reports/056/S56997.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Bothell (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Wobbly white light north of Seattle WAI had stepped outside for a moment and instinctively looked up at the stars.  It was warm night and mostly clear.  I saw what appeared to be a satellite, and watched it as  it moved in a path towards the north east. It as a white weak light, only slightly brighter as a star, and moving faster than I would expect a satellite to move.There were no blinking lights visible so I ruled it out as plane.  A satellite also seeded unlikely as I am close to a major metropolitan area with some light pollution present.What caught my attention that made this object unusual to me was that as it moved across the sky it appeared to have a slight wobble in its flight path.  I wasn't sure if what I was seeing was correct, so I tracked it's movement relative to several other "stationary" stars and it did indeed seem to have a wobble.I eventually lost sight of the object after it passed over some trees in my neighbor's yard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98477.html](http://www.nuforc.org/webreports/reports/098/S98477.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/163/S163728.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163729.html)
-- [415](http://www.nuforc.org/webreports/reports/163/S163990.html)
-- [414](http://www.nuforc.org/webreports/reports/163/S163865.html)
-- [413](http://www.nuforc.org/webreports/reports/156/S156960.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
