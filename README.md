@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:27 on 6 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:27 on 6 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Corvallis/Newport (between) (OR) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>My cousin, fiance, daughter and my cousin’s girlfriend left Newport, Oregon, and accidentally headed north along the coastline, when we were followed by, I think, a jeep.  I don't remember clearly.  It wouldn't turn its brights off, and there wasn't a spot to pull off until we hit a city we dubbed "Creepsville," in a joking manner.We eventually hit a small convenient store, where we could pull over and smoke a cigarette. We talked and decided that we missed a turn to go back to Redmond, Oregon.  So we went back towards Newport and wasted time and gas going that direction, and getting to Newport, we stopped at a gas station, where I filled up on gas and went to the atm. Afterwards we smoked another cigarette off to the side of the gas station and witnessed something in the sky.  My cousin pointed it out before anyone we looked and I wasn't very impressed, considering I didn't feel like I needed to be at the time, for the fact that 3 people had been witnessing it besides me.  It looked like a lantern, floating in the sky high out above the ocean, heading towards us.  It was flickering and looked like the wind was trying to blow it out, rather like a signal flare, but it went out in a way it couldn't have been one.  We drove into the woods towards Corvallis, Oregon.  Upon leaving Newport, my fiancé asked what the time was, and I answered with "12:01 like midnight."  My cousin and I started to talk about mythological creatures, as well as urban legends, like zombies, and other things.  I don't remember talking about stuff towards the point where we hit a small power station.  The only thing I remember is a house between there, and Corvallis.  The last thing I saw was a sign that said “12:21 Corvallis,” and I got a chill because it is impossible to travel to from Newport to Corvallis in 20 minutes.  A time lapse happened.((NUFORC Note:  We spoke via telephone with the source of the report, and she seemed to us to be sincere in her description of the alleged events.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119376.html](http://www.nuforc.org/webreports/reports/119/S119376.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Madison (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately few minutes - few minutes minutes.</sub><blockquote><sub>I  drive a cement truck. While on site job, I an a few othe people sited an object in the skiy. It was between 11:00 and 12;OO A. M. It was circular in shape. Saw 3 lights.  Very quiet. Stayed in one area. for a few seconds. and vanished.  Never  have seen anythhing like this..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29203.html](http://www.nuforc.org/webreports/reports/029/S29203.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/163/S163728.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163729.html)
-- [415](http://www.nuforc.org/webreports/reports/163/S163990.html)
-- [414](http://www.nuforc.org/webreports/reports/163/S163865.html)
-- [413](http://www.nuforc.org/webreports/reports/156/S156960.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
