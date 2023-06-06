@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:27 on 6 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:35 on 6 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Bertram (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Red light chanes to orange as it moves overhead.My husband and saw a red light coming from the west.  As it passed overhead the color became more orange to yellow.  We turned around and watched it as long we could.  We did not hear any noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119424.html](http://www.nuforc.org/webreports/reports/119/S119424.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Park Ridge (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>It was a very large and extremely bright white orb moving slowly in a southeastern direction slightly southeast of O'Hare Airport.I have lived 5 minutes from O’Hare Airport for 32 years.   I know full what a helicopter or plane look and sound like.   I have seen tons of meteors when I lived Arizona for 8 years. This was neither.  It was a very large and extremely bright white orb moving slowly in a southeastern direction, seemingly at a very high altitude.  In fact, you may start receiving reports from downtown, the southern side of Chicago, and in Indiana shortly.  I have never seen anything like it.  It was completely silent, and moved slowly and smoothly.  It was at a very high altitude, so the size of this thing was astonishing.  It was heading into a southeastern direction.  There was no trailer, no flashing lights, and it was brighter than the moon.  My guess is that it was an un-manned orb used for surveillance.  It was approximately 2.5 miles southeast of O'Hare Airport, so the radar had to pick it up for sure.((NUFORC Note:  One of several reports from the same source.  We do not know whether they have been submitted as serious-minded reports, or whether they are hoaxes.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63735.html](http://www.nuforc.org/webreports/reports/063/S63735.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/163/S163728.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163729.html)
-- [415](http://www.nuforc.org/webreports/reports/163/S163990.html)
-- [414](http://www.nuforc.org/webreports/reports/163/S163865.html)
-- [413](http://www.nuforc.org/webreports/reports/156/S156960.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
