@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:25 on 6 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:38 on 6 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Springfield (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Five small ships with red lights coming from the SSW met and followed a much larger until they disappeared on the horizon.I saw what appeared to be planes or helicopters with red lights coming from the SSW moving to the NW following each other.Then a large aircraft (ship) approached from the east, with white lights on the bottom, headed west.Two more of the aircraft with red lights appeared and joined the others.  All five of these then seemed to be following the path of the big ship.  They all disappeared on the horizon.Did anyone else see this?  Their red lights caught my attention.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110018.html](http://www.nuforc.org/webreports/reports/110/S110018.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Elberta (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A stationary light no different in appearance then a star started to move in a straight line south at a high rate of speed and then dissapeared.  I only looked up in the sky because I had seen three of these on the 3rd of this month, a few nights ago, all traveling northbound and also dissapearing in the same manner.  I know the difference between what I'm seeing out here, and a shooting star or meteor.  These lights are clearly objects that are very far away and moving more slowly then shooting stars and they are barely perceptable, where a shooting star is very bright.  the objects move quickly though for the distance that they appear up in space.An aircraft that is only a few miles up from earth travels fast across the sky but airplanes that are higher up would not move as fast as the unidentified objects I have observed.  There is a military base in Pensacola of course but airplanes have flashing lights and this light does not blink.  Also, these objects appear to be much higher up in the sky then any aircraft I've seen.((NUFORC Note:  This was the date that the gentleman, billed as "The Amazing Kreskin," predicted a dramatic UFO sighting would occur over Nevada.  On June 07, 2002, he retracted, and stated that the "prediction" had been a hoax, designed to show how gullible human beings can be regarding the UFO phenomenon.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23175.html](http://www.nuforc.org/webreports/reports/023/S23175.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/163/S163728.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163729.html)
-- [415](http://www.nuforc.org/webreports/reports/163/S163990.html)
-- [414](http://www.nuforc.org/webreports/reports/163/S163865.html)
-- [413](http://www.nuforc.org/webreports/reports/156/S156960.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
