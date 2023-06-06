@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:24 on 6 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:23 on 6 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Large green fireball with tail.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127742.html](http://www.nuforc.org/webreports/reports/127/S127742.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Pleasanton/Dublin (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately hour - hour minutes.</sub><blockquote><sub>Saw a what we thought at first as a very large bright STAR or planet? then the object in the S/W direction (from our back yard) dropped or launched a smaller object from it. It was a straight dowm drop from the larger object. The second object we saw was Northwest from where we were standing in our back yard in Pleasanton CA. This 2nd object was red-yellow and also very bright in appearance, It appeared to fire sometype of projectile to the South, the projectile was quick and as it shot-out from the object it was fast then slowed and disappeared. Were there any rockets or NASA type crafts in our area last night?? also both objects stayed in the same area for a good 45 mins---till we gave up and went to bed.. Would appreciate a response...We are a married couple in Pleasanton CA. My husband has worked at a local Car Manufacture Co, for 27 years. We had not been drinking and were completely sober. We were the only 2 witnesses, as far as we know.I'm sure there is a good explianation for these weird "objects"!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07972.html](http://www.nuforc.org/webreports/reports/007/S07972.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/163/S163728.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163729.html)
-- [415](http://www.nuforc.org/webreports/reports/163/S163990.html)
-- [414](http://www.nuforc.org/webreports/reports/163/S163865.html)
-- [413](http://www.nuforc.org/webreports/reports/156/S156960.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
