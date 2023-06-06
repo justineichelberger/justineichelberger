@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:01:23 on 6 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:14 on 6 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Sonora (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>UFO with (humourous) psychic componentAt 01.00 on May 31st 2006 I went to my porch to let my dogs out to go to toilet.  Neither would go out, which is very unusual. Just before heading to bed I heard an immense crackle very close outside like a static charge. (The windows were open). I went to bed without investigating... which seeems kind of odd, but maybe I was just frightened. I awoke in the morning to find one of the dogs had gone to toilet in the porch (rather than go out the night before). The next night (0100 on 06/06/06) at around the same time again, I went to the porch to let the dogs out and again, neither would go out. I stood on the porch and looked at the sky and broke wind. Immediately I thought 'oh... i don't want to frighten them' and immediately, before I could even process this strange thought, saw a craft fly from above me to the North. It was in view for about a second... it wasn't going super-fast..... i saw enough of it to be able to recall it. It had several lights on it and was about the size of the moon in the sky.... maybe not so high up?  What's odd about this comical tale is that I appeared to know something was there before I saw it... I have absolutely no idea why I would have that thought enter my head after breaking wind!  Maybe nothing to do with this but Sonora has a lot of static electricity.... I am always getting shocked when I go shopping off of metal or material. Also, the cell phone reception here is very staticy... our TV reception is always getting lost. Sometimes it's good, others it's completely dead. We had 3 different engineers visit and they can't see anything wrong with it. I have been as honest as possible in recalling events (as can be seen by the reference to breaking wind!)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50848.html](http://www.nuforc.org/webreports/reports/050/S50848.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Jericho (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Nasa's Space station.-----Duuuuugghh!! Gosh, you freek'n idiots.for everyone that thought this was a U.F.O. Duuuuugh... It was the space station you idiots. Heading East well passing planes in speed. I was lucky to see it on my telescope.-Awesome. It crossed the Entire U.S. and did not blink. If you say that you saw its shape you're lying unless you have 20/20 vision. If you thought it was a shooting star, keep wishing. Nothing else was in vision aside from stars and the moon so you cannot say that this is not was you saw, like I know you will. -------Yes YOU!!((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56997.html](http://www.nuforc.org/webreports/reports/056/S56997.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/163/S163728.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163729.html)
-- [415](http://www.nuforc.org/webreports/reports/163/S163990.html)
-- [414](http://www.nuforc.org/webreports/reports/163/S163865.html)
-- [413](http://www.nuforc.org/webreports/reports/156/S156960.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
