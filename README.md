@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:25 on 7 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:28 on 7 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1950, an anonymous witness in Kensington (MD) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Reflective oval seen hovering over Washington D.C.The object was noticed approaching sundown as it flashed reflected sunlight brilliantly like a mirror.  It didn't flash again but appeared to be a reflective, metallic, egg shaped object hovering to the south over Washington D.C. or Chevy Chase, MD.  It first appeared similar to a blimp, but had no markings, tail surfaces, flaps, openings, windows, lights, rivets or other surface details.  It moved silently and left no contrail.  Kensington is at a higher elevation than Washington but it was difficult to judge the size, distance and height of the object.  It appeared to be at about 20 degrees elevation from the horizon and disappeared at perhaps 60 degrees from horizon.The object moved very slowly to the west parallel to the ground for several minutes, and after angling upwards 45 or 50 degrees it began to ascend rapidly and in 15 or 20 seconds it became a tiny point of light in the dark blue sky before disappearing.  Its upward movement was of continuous and rapid acceleration at several times the speed of a conventional aircraft.  As it moved the object's apparent shape changed from egg-like to a flattish ellipsoid,  more specifically a symmetrical convex lenticular cross section top-to-bottom, a slightly elongated ellipse along it length, the narrower part of which was its rear.The object was also seen by my wife and neighbors.Note:  This is an amended version of a report submitted to NICAP by my now deceased father.  I recall hearing there were many other witnesses and hope to prompt a response from one.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59553.html](http://www.nuforc.org/webreports/reports/059/S59553.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Cheyenne (WY) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I looked out my bedroom window and saw an object in the sky that was changing colors quickly, the lights were neon. It sat in the sky for about two minutes, then slowly moves east, then in less then one second it accelerated to EXTREME speed and dissapeared. The object was AMAZING in brilliant neon colors that changed VERY QUICKLY ! ... There were no engine sounds at all. The object was very bright and did not appear to be a craft from earth. I got a warm feeling inside when i saw the craft, as though they were here to let me know i'm not alone ... WE'RE NOT ALONE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70386.html](http://www.nuforc.org/webreports/reports/070/S70386.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
