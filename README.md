@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:27 on 7 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:22 on 7 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Atlanta (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Daytime UFO sighting, odd shaped and slow moving craft vanishes behind cloud.The UFO was slow moving and shaped like half a triangle It was metallic - very shiny.  It was directly above me so I watched it until it moved behind a cloud but it never came out the other side I waited sometime for it to cross the cloud but it didn't  (The cloud wasn't too big so it shouldn't have taken but maybe 5-10 seconds at the speed it was moving That's it - that's what I saw - it was an airplane or Any other typical air craft - I have never seen that Shape before or the slow moving of the craft Ill swear on a stack of Bibles that I witnessed this.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106829.html](http://www.nuforc.org/webreports/reports/106/S106829.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Silent unwavering white glowing light, changed directionUnwavering white round light traveling from south to north.  It was silent.  When it was over us, it changed course and turned toward the east, and continued in northeastward direction, more toward the east than the north.  We live in Portland air traffic path, and therefore know it was not an airplane.  It was silent.  It was very high, so appeared to be traveling slowly.  Visible until trees hid it.  It Made no noise.  It had no blinking lights.  It was circular</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89448.html](http://www.nuforc.org/webreports/reports/089/S89448.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
