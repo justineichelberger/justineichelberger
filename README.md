@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:25 on 7 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:26 on 7 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Westmorland (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>2 oval shaped crafts,5 blocks long,bright blue, faster than f-18 fighter jet.I was 5 yrs old and my parents were driving our car when I looked out the left backseat window and I saw 1 oval shaped craft it was like a bright blue.  5 seconds later I saw another one, and they were about 5 blocks long. so in about 15 mins they took off faster than an f-18 fighter jet.  and thats all i can remember since i was only 5.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81540.html](http://www.nuforc.org/webreports/reports/081/S81540.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Manville (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Three black dots in a triangle seen at dusk.It was dusk and looking towards the southwest there were three black dots in a triangle hovering.  They were about the size of a star and very distant.  They were not moving.  They were very hard to see but were there.  Impossible to catch on camera.  All of sudden a fourth one came in. It was to the right of the three in the triangle.  Slowly the fourth one disappeared.  Then two from the triangle disappeared.  Then the last one disappeared suddenly.  They never returned.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110086.html](http://www.nuforc.org/webreports/reports/110/S110086.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
