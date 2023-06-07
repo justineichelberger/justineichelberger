@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:05:32 on 7 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:29 on 7 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Marshfield (MO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>ufo on 18 wheeleri was driving to work and i saw a line of government vehicles driving down the interstate with their lights on then there was 2 18 wheelers, one had a regular trailer on it and the other had a flatbed on it with a giant disk shaped object that took up both sides of the road plus a little then there was another row of government vehicles. i approached this around mile marker 97. it was something i have have never seen and it honestly scared me a bit. it kind of makes me think the government is trapping them for technology at least that is my assumption. i just want an explanation on what it was and if it was extraterrestrial.((NUFORC Note:  Probably the U. S. Navy UAC, the X-47B, being transported to the Washington, D.C., area.  Many news reports about the object.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89488.html](http://www.nuforc.org/webreports/reports/089/S89488.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Chatsworth (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>It was a large, round, very shiny with little black jets and a small dome on top.  It was rotating and it made no sound at all.3 of us in our gym class looked up and saw what first appeared to be a low-flying airplane.  It was the shiniest thing I've ever seen in my life and I can't even describe it.  It was hovering right over  an apartment bldg. across the school field.  It was very large and it made no sounds at all. It had a little dome in the middle and had little black jets all around the bottom of it.  It was in the middle of the day, very clear with no clouds or wind.  We looked away for a few seconds and it had completely dissappeared.((NUFORC Note:  We will attempt to get the other witnesses to submit corroborating reports.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23205.html](http://www.nuforc.org/webreports/reports/023/S23205.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
