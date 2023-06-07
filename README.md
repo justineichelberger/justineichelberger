@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:25 on 6 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:44 on 7 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Schafhausen (Germany) () reported seeing craft that fit the description of some 'Diamond' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>star shaped UFO seen in Germany, June 6, 2004. for about 1 minute , took digital pictures.Hi, I don't know if this is a real UFO, I hope it is not because if it is it is scary! I was in a a small town Schafhausen, near Stuttgart in Germany. It was June 6, 2004 at 11:50 AM. I saw this star shaped thing floating slowly in a straight line and turning like a cog-wheel on a track. It was too large for a child's balloon and for a commercial balloon it was missing the basket and or any type of advertising on it.What do you think it was? I took several pictures of it, I include the closest one.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65345.html](http://www.nuforc.org/webreports/reports/065/S65345.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Russell (KS) reported seeing craft that fit the description of some 'Cone' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>WHEN I WAS COMING THROUGH TOWN I SAW A HUGE CONE UFO RED PECULIAR LIGHTS OVER RUSSELL KANSAS.I WAS COMING THROUGH TOWN AND I WAS A HUGE CONE UFO IT WAS RED ON TOP AND YELLOW ON BOTTOM THEN RED ON THE TOP AND YELLOW ON THE BOTTOM. AND I ALSO SAW SOME RED PECULIAR LIGHTS OVER TREELINES. IT WASN'T A BLIMP OR WEATHER BALLOON BUT STRANGE PECULIAR LIGHTS OVER THE TOWN. THIS HAPPENED ON JUNE 7, 2005 ON A TUESDAY NIGHT. THERE WAS NO SOUND TO THE UFO I SAW THAT NIGHT OR THE PECULIAR LIGHTS I WAS WHEN I WAS COMING THROUGH TOWN. IT WAS PARTLY CLOUDY. THIS HAPPENED AT 7:45 P.M. AT NIGHT.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48023.html](http://www.nuforc.org/webreports/reports/048/S48023.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/163/S163728.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163729.html)
-- [415](http://www.nuforc.org/webreports/reports/163/S163990.html)
-- [414](http://www.nuforc.org/webreports/reports/163/S163865.html)
-- [413](http://www.nuforc.org/webreports/reports/156/S156960.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
