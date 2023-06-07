@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:32 on 7 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:26 on 7 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Jeffersonville (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Red light traveling opposite course to ISS.I went out to watch the ISS fly over last night.  It was moving from NW to SE.  I continued to watch till it was almost lost in the light pollution of Metro Louisville, KY.  Just as about to turn around and go inside, I noticed a faint red point source of light traveling on a reciprocal course to ISS and moving at same apparent speed.  At first I thought it was an airplane with starboard nav light out, but as it travelled overhead I never heard any engine noise.  I continued to watch it till I lost it from sight behind some large trees.I consider myself a good observer, as I was in Air Force in Vietnam and later got my BS and MS in Physics.  I have never seen anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141769.html](http://www.nuforc.org/webreports/reports/141/S141769.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Eagan (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>5 Dark Round-Orbs in a String Form Decending form the Cloud BankI saw 5 round orbs flying down out of a cloud bank and I grabbed my digital camera (Fine Pix S3000) and started shooting some pictures. I only was able to get one that came out visable. They were moving at a moderate speed and move up, down and looped back up into the cloud bank out of my vision. They were a dark - grey/blackish color, and in the photo they look black. It was a grey day and you can see a tree top in the  bottom of the photo - but the most incredible part is the 5 orbs/ships that are what looks like stringing down in formation of some kind from the clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44308.html](http://www.nuforc.org/webreports/reports/044/S44308.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
