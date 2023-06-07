@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:44 on 7 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:22 on 7 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Russell (KS) reported seeing craft that fit the description of some 'Cone' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>WHEN I WAS COMING THROUGH TOWN I SAW A HUGE CONE UFO RED PECULIAR LIGHTS OVER RUSSELL KANSAS.I WAS COMING THROUGH TOWN AND I WAS A HUGE CONE UFO IT WAS RED ON TOP AND YELLOW ON BOTTOM THEN RED ON THE TOP AND YELLOW ON THE BOTTOM. AND I ALSO SAW SOME RED PECULIAR LIGHTS OVER TREELINES. IT WASN'T A BLIMP OR WEATHER BALLOON BUT STRANGE PECULIAR LIGHTS OVER THE TOWN. THIS HAPPENED ON JUNE 7, 2005 ON A TUESDAY NIGHT. THERE WAS NO SOUND TO THE UFO I SAW THAT NIGHT OR THE PECULIAR LIGHTS I WAS WHEN I WAS COMING THROUGH TOWN. IT WAS PARTLY CLOUDY. THIS HAPPENED AT 7:45 P.M. AT NIGHT.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48023.html](http://www.nuforc.org/webreports/reports/048/S48023.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Moberly (MO) reported seeing craft that fit the description of some 'Changing' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>I have noticed a very bright twinkling light several nites in a row and it will appear in the west sky around 10:30PM and around 11:00PM will disappear.  I wrote it off as a satalite or planet.  Last night I was on my second story deck facing the west and just above the tree line I saw a shape with bright red, green, blue lights that seemed to move very slowly while changing the shape of the object.  It seemed to be not moving...I called my dogs in and could hear no sound of aircraft at all.  All was quiet.  I then went into the bedroom and watched out of the west window and got my husband up to see what he thought and he said he had not seen anything like that and it was moving but very slowly.  I con't to watch and could see flashes of white lights seeming to come away and to the object the white lights almost looked like shooting stars.  It took about 25 mins. for the object to move northwest and below the tree line and out of sight.  In my observing the ! object the lights didn't dim, they stayed very bright red, green and blue and would change in position to change the shape of the object.  This is not the first time I have seen strange lights to the west above the tree line but the first time to see the lights so bright and different colors.  I also observed an airplane flying and looking like it was going right to it and then dipped down and flew under the object.  I tried to take pictures but my camera is not a strong enough lense to get a clear one.((NUFORC Note:  Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75722.html](http://www.nuforc.org/webreports/reports/075/S75722.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
