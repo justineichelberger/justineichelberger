@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:26 on 7 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:30 on 7 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Eagan (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>5 Dark Round-Orbs in a String Form Decending form the Cloud BankI saw 5 round orbs flying down out of a cloud bank and I grabbed my digital camera (Fine Pix S3000) and started shooting some pictures. I only was able to get one that came out visable. They were moving at a moderate speed and move up, down and looped back up into the cloud bank out of my vision. They were a dark - grey/blackish color, and in the photo they look black. It was a grey day and you can see a tree top in the  bottom of the photo - but the most incredible part is the 5 orbs/ships that are what looks like stringing down in formation of some kind from the clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44308.html](http://www.nuforc.org/webreports/reports/044/S44308.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Lancaster (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>2 yellow lights over Lancaster, NH.about a week ago i was watching a UFO show on the history channel.  and they showed a UFO in the sky over Ohio in the summer of 2010.  as soon as i saw the ufo on the TV my heart started to beat like crazy.  i saw that something, the same night.it was around 10:00 pm in Lancaster NH.  i sometime lay out in the yard and just look up at the stars trying to see if i can see a shooting star, or sometimes the space-station.  well this night i was looking into the north west sky about 30 degrees above the horizon. when i saw what i thought was the space station, but this time of the year it would not be in the northwest sky.  it was coming east to west.  it started a big bright ball moving steady.  i looked and looked for any kind of airplane lights but it was just one solid yellow light.  then out of know where it looks like something on-docked from the light. now there was two lights and the second light seemed to stop but the other kept going.  once it got about a finger length away the 2nd light started moving the same speed and stayed that length away.  after watching these two lights for about 8 mins they just faded into the distance.  i was not shore what i had just seen so i went to my Facebook and stared to ask people if anyone had seen it.  shore enough  i had three friend tell me they had seen the something i did.  i didn't know how to report a UFO so i just didn't say anything about it till now.  i hope you people can find what i'm talking about. i don't want to keep thinking i'm crazy.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81630.html](http://www.nuforc.org/webreports/reports/081/S81630.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
