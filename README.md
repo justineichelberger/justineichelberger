@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:28 on 7 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:29 on 7 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Cheyenne (WY) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I looked out my bedroom window and saw an object in the sky that was changing colors quickly, the lights were neon. It sat in the sky for about two minutes, then slowly moves east, then in less then one second it accelerated to EXTREME speed and dissapeared. The object was AMAZING in brilliant neon colors that changed VERY QUICKLY ! ... There were no engine sounds at all. The object was very bright and did not appear to be a craft from earth. I got a warm feeling inside when i saw the craft, as though they were here to let me know i'm not alone ... WE'RE NOT ALONE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70386.html](http://www.nuforc.org/webreports/reports/070/S70386.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Royal Palm Beach (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>White little light than a little red flashing light  and  goneWell i was walking out to look at the sky when i saw a little like moving north which planes around hear dont move in that direction, planes move west to east, all of them came from the same dirretion. They would have a little light than it would turn off at the same place all of them did and then it would turn on another like that was flashin a red light and it look liked a white light too, and than they would all go in the same dirrection and they were gone. Like 3 min. would go by and another one would come at that same dirrectoin and have the flashing red light like they all did.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37460.html](http://www.nuforc.org/webreports/reports/037/S37460.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
