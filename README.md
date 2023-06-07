@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:27:04 on 7 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:05:32 on 7 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Hollywood (FL) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately  -  minutes.</sub><blockquote><sub>i think i was abducted by aliens in Hollywood, Florida on June 7th, 1999.every night about 9:00 pm i take a walk after dinner because my doctor said i had to start exercising or my high blood pressure would worsen or even fatal. so i listened and faithfully went every night. but on the night of June 7th, 1999 i experienced something that was unbelieveably out of this world, literally. as i was walking a space ship looking object appeard before my eyes. i thought i was hellucinating at first, but this was real. next thing i know i'm inside this space ship. i couldn't see anything because it was pitch black inside. all of a sudden i felt a quick needle go in my back. before i could start screaming i was back on the ground outside and the space ship disappeared. i ran home as fast as i could and called the police and the came over. they asked me if i had any medical problems and by this i knew they didn't believe me. i told them i had high blood pressure and that the doctor told me i had to start exercising. so they checked my blood pressure and they siad it was very high. i also had them check my back to see if there was anything their because i had felt a needle go in. but there was nothing. the police said i was probably hellucinating or something because of my high blood pressure. but i knew i wasn't.no one has ever believed me and so i'm hoping by writing this someone in the Hollywood, Florida area might have seen something that night on June 7th, 1999.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22997.html](http://www.nuforc.org/webreports/reports/022/S22997.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Marshfield (MO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>ufo on 18 wheeleri was driving to work and i saw a line of government vehicles driving down the interstate with their lights on then there was 2 18 wheelers, one had a regular trailer on it and the other had a flatbed on it with a giant disk shaped object that took up both sides of the road plus a little then there was another row of government vehicles. i approached this around mile marker 97. it was something i have have never seen and it honestly scared me a bit. it kind of makes me think the government is trapping them for technology at least that is my assumption. i just want an explanation on what it was and if it was extraterrestrial.((NUFORC Note:  Probably the U. S. Navy UAC, the X-47B, being transported to the Washington, D.C., area.  Many news reports about the object.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89488.html](http://www.nuforc.org/webreports/reports/089/S89488.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
