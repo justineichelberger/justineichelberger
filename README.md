@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:22 on 7 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:27:04 on 7 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Moberly (MO) reported seeing craft that fit the description of some 'Changing' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>I have noticed a very bright twinkling light several nites in a row and it will appear in the west sky around 10:30PM and around 11:00PM will disappear.  I wrote it off as a satalite or planet.  Last night I was on my second story deck facing the west and just above the tree line I saw a shape with bright red, green, blue lights that seemed to move very slowly while changing the shape of the object.  It seemed to be not moving...I called my dogs in and could hear no sound of aircraft at all.  All was quiet.  I then went into the bedroom and watched out of the west window and got my husband up to see what he thought and he said he had not seen anything like that and it was moving but very slowly.  I con't to watch and could see flashes of white lights seeming to come away and to the object the white lights almost looked like shooting stars.  It took about 25 mins. for the object to move northwest and below the tree line and out of sight.  In my observing the ! object the lights didn't dim, they stayed very bright red, green and blue and would change in position to change the shape of the object.  This is not the first time I have seen strange lights to the west above the tree line but the first time to see the lights so bright and different colors.  I also observed an airplane flying and looking like it was going right to it and then dipped down and flew under the object.  I tried to take pictures but my camera is not a strong enough lense to get a clear one.((NUFORC Note:  Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75722.html](http://www.nuforc.org/webreports/reports/075/S75722.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Hollywood (FL) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately  -  minutes.</sub><blockquote><sub>i think i was abducted by aliens in Hollywood, Florida on June 7th, 1999.every night about 9:00 pm i take a walk after dinner because my doctor said i had to start exercising or my high blood pressure would worsen or even fatal. so i listened and faithfully went every night. but on the night of June 7th, 1999 i experienced something that was unbelieveably out of this world, literally. as i was walking a space ship looking object appeard before my eyes. i thought i was hellucinating at first, but this was real. next thing i know i'm inside this space ship. i couldn't see anything because it was pitch black inside. all of a sudden i felt a quick needle go in my back. before i could start screaming i was back on the ground outside and the space ship disappeared. i ran home as fast as i could and called the police and the came over. they asked me if i had any medical problems and by this i knew they didn't believe me. i told them i had high blood pressure and that the doctor told me i had to start exercising. so they checked my blood pressure and they siad it was very high. i also had them check my back to see if there was anything their because i had felt a needle go in. but there was nothing. the police said i was probably hellucinating or something because of my high blood pressure. but i knew i wasn't.no one has ever believed me and so i'm hoping by writing this someone in the Hollywood, Florida area might have seen something that night on June 7th, 1999.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22997.html](http://www.nuforc.org/webreports/reports/022/S22997.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
