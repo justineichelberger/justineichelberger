@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:29 on 7 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:20 on 7 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Chatsworth (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>It was a large, round, very shiny with little black jets and a small dome on top.  It was rotating and it made no sound at all.3 of us in our gym class looked up and saw what first appeared to be a low-flying airplane.  It was the shiniest thing I've ever seen in my life and I can't even describe it.  It was hovering right over  an apartment bldg. across the school field.  It was very large and it made no sounds at all. It had a little dome in the middle and had little black jets all around the bottom of it.  It was in the middle of the day, very clear with no clouds or wind.  We looked away for a few seconds and it had completely dissappeared.((NUFORC Note:  We will attempt to get the other witnesses to submit corroborating reports.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23205.html](http://www.nuforc.org/webreports/reports/023/S23205.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 21:45 - 21:45 minutes.</sub><blockquote><sub>We were standing in the back of my friend ((name deleted)) house and saw diving, Acrobatic stunts that planes could not do, like leave the atmosphere.We were out back sitting down star gazing,watching planes go by, when there was just a little light left in sky when ((name deleted)) hit me in my arm and asked me,"DO YOU SEE THAT"! I looked over and saw what I thought was a plane at first but it was a really bright white color and it look like it was landing on the other side off the hill at pearson feild when it shot straight up and left the atmosphere. Then we really started to watch and saw more hovering at a good distance where binoculars could only see a bluish fireball, and they left came back looked like they were just messing around having fun because one of them was heading towards a plain from one side and almost nailed him from looks, don't know how the guy in the plain didn't see that sucker coming.if I remember correctly they were drifting off to the east, couple left the atmosphere and thats all we saw. It was the most intense thing that has happened to me because I have never seen a UFO in person ya know so now that I have seen them I'll make sure to report them!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11695.html](http://www.nuforc.org/webreports/reports/011/S11695.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
