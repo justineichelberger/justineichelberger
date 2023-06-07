@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:20 on 7 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:30 on 7 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 21:45 - 21:45 minutes.</sub><blockquote><sub>We were standing in the back of my friend ((name deleted)) house and saw diving, Acrobatic stunts that planes could not do, like leave the atmosphere.We were out back sitting down star gazing,watching planes go by, when there was just a little light left in sky when ((name deleted)) hit me in my arm and asked me,"DO YOU SEE THAT"! I looked over and saw what I thought was a plane at first but it was a really bright white color and it look like it was landing on the other side off the hill at pearson feild when it shot straight up and left the atmosphere. Then we really started to watch and saw more hovering at a good distance where binoculars could only see a bluish fireball, and they left came back looked like they were just messing around having fun because one of them was heading towards a plain from one side and almost nailed him from looks, don't know how the guy in the plain didn't see that sucker coming.if I remember correctly they were drifting off to the east, couple left the atmosphere and thats all we saw. It was the most intense thing that has happened to me because I have never seen a UFO in person ya know so now that I have seen them I'll make sure to report them!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11695.html](http://www.nuforc.org/webreports/reports/011/S11695.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Glendale (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Cluster of approximately  20 bright white blinking lights traveled slowly in a westerly direction  over Glendale, AZ, 1:30 am.At approximately 1:30 am, my boyfriend was out back with the pups and asked me to come outside to see what he had been watching for a couple minutes in the West sky.  There was this cluster of 20 bright crisp silvery metallic white lights in a loose grouping.  The angle we were looking up into the sky was 30 degrees.  The lights appeared to have a pattern they were blinking off and on through but neither of us could tell you specifically what it was.  This grouping of lights, for lack of a better description, moved in a westerly direction as if attached to a drunken butterfly.  Slowly, left, right, forward, stationary, rinse, repeat.   Although the lights were moving farther west and away from us, they were still very bright white.....not soft or amber but clear bright white.((NUFORC Note:  We spoke with both witnesses, and both appeared on a radio program.  They were both very objective, and sober-minded, in describing the event, and we suspect that both of them are quite reliable, and capable, witnesses.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119478.html](http://www.nuforc.org/webreports/reports/119/S119478.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
