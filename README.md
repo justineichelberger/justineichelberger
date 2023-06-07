@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:30 on 7 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:25 on 7 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Glendale (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Cluster of approximately  20 bright white blinking lights traveled slowly in a westerly direction  over Glendale, AZ, 1:30 am.At approximately 1:30 am, my boyfriend was out back with the pups and asked me to come outside to see what he had been watching for a couple minutes in the West sky.  There was this cluster of 20 bright crisp silvery metallic white lights in a loose grouping.  The angle we were looking up into the sky was 30 degrees.  The lights appeared to have a pattern they were blinking off and on through but neither of us could tell you specifically what it was.  This grouping of lights, for lack of a better description, moved in a westerly direction as if attached to a drunken butterfly.  Slowly, left, right, forward, stationary, rinse, repeat.   Although the lights were moving farther west and away from us, they were still very bright white.....not soft or amber but clear bright white.((NUFORC Note:  We spoke with both witnesses, and both appeared on a radio program.  They were both very objective, and sober-minded, in describing the event, and we suspect that both of them are quite reliable, and capable, witnesses.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119478.html](http://www.nuforc.org/webreports/reports/119/S119478.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Westmorland (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>2 oval shaped crafts,5 blocks long,bright blue, faster than f-18 fighter jet.I was 5 yrs old and my parents were driving our car when I looked out the left backseat window and I saw 1 oval shaped craft it was like a bright blue.  5 seconds later I saw another one, and they were about 5 blocks long. so in about 15 mins they took off faster than an f-18 fighter jet.  and thats all i can remember since i was only 5.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81540.html](http://www.nuforc.org/webreports/reports/081/S81540.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/163/S163630.html)
-- [340](http://www.nuforc.org/webreports/reports/163/S163733.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163638.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163639.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163820.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
