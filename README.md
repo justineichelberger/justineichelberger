@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:28 on 8 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:32 on 8 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Dowagiac (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>3 lights at the leading edge of an approaching storm08June2008 approx 15:00  Just after  the sirens for a tornado warning, 3 white lights were seen by my husband and myself , at the leading edge of the storm. The 3 lights were clumped together and then split with 1 leading and 2 following. They vanished into the approaching storm. They were moving north to south, just West of Dowagiac. We watched them for about 2 minutes. It may have been birds with light glinting off of them, but at that point there was no sunshine.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63762.html](http://www.nuforc.org/webreports/reports/063/S63762.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Topsail Beach (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Big bright slow moving light that made no soundBig bright slow moving light traveling north over Topsail Sound at the south end of Topsail Island.  It made no sound. It lasted about a minute then it disappeared.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98518.html](http://www.nuforc.org/webreports/reports/098/S98518.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
