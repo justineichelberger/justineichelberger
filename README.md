@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:24 on 8 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:34 on 8 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Wakefield (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>tried to video, was on phoneI saw 3 white disk shaped objects, seems to be hiding in and out of storm clouds</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141773.html](http://www.nuforc.org/webreports/reports/141/S141773.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Gulf Breeze (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>brighter than a star light travels the clear night sky, viewed by 6 adults for around a minute, then it just disappears.On Sat night, the 8th of June 2019, my wife, myself, & 2 other couples (6 people) were hanging out talking on the back porch of a friend's house.  We were talking of how Jupiter was supposed to be so close we could see the moons with a pair of binoculars, so we decided to pull up our skyview apps on our iphones to look at stars & try to find Jupiter.  At about 21:45 we began to spot communication satellites traveling the night sky, they were all over, as well as the occasional high flying airplanes.  You can always tell the airplanes from the blinking lights on each wingtip… One of the men in the group notices a light in the sky, like a satellite, only brighter, almost as bright as the N star.  It was travelling from the S to the N faster than a satellite, almost double the speed of a satellite as viewed with the naked eye, it had no blinking lights, it was too high to be heard, but it was quite clear in the NE sky that night, so no clouds to obscure it.  I remarked at how it kind of had a blue blur behind it, almost like it was going so far it was getting blurry near the end.  It was viewed by all six adults over the age of 35, no one was intoxicated, all sober.  It traveled the sky in a straight line for around a minute, about 1' across the sky viewed by eye, it stayed a constant speed, then phased out...totally disappeared, no explosion, no giant flash...it was there, then it wasn't.  We've tried to explain it off, as we live near some high profile military bases, but somethings, somethings just can't be explained.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146720.html](http://www.nuforc.org/webreports/reports/146/S146720.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
