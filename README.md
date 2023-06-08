@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:05:03 on 8 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:41 on 8 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>its a rectangle and half circle on top shaped, the rectangle side has flashing white "windows" it flashed across randomly one by one "window" the top half circle is lighted red. i was at the upper deck of my apartment suddenly i saw bright white light shined to the ground and i looked up  i knew it was not an airplane or a helicopter it just rock back and forth very slowly going northeast i alerted my neighbors they saw it too then i ran to get my husband  but by the time me and my husband came outside it was at a distant sight from when i saw it recently. My neighbor took photograghs of it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23240.html](http://www.nuforc.org/webreports/reports/023/S23240.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>5 stationary blinking lights in a diagonal line, NW TucsonFrom central Tucson looking Northwest, there were 5 white lights blinking, larger then planes, in a diagonal line pointing upwards, staying still, then fading out. Moments later, 3 brighter lights appeared in the same area, but not in a line and then faded out.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75729.html](http://www.nuforc.org/webreports/reports/075/S75729.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
