@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:32 on 8 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:26 on 8 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Granite Falls (WA) reported seeing craft that fit the description of some '' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>WA/MUFON member relays report: Man witnessed a bright, white spherical light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01552.html](http://www.nuforc.org/webreports/reports/001/S01552.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in North Wales (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>There was acircle shaped object moving very fast with blue lights flashed very fast.There was a cirlce shaped craft moving very fast at high altiude.  It was moving from the southwest to the northeast.  It had blue lights on it and they were flashing very fast.  As it got further away it just seemed to disappear into the sky.  This all happened over a ten to twelve second span because the object was moving very fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89474.html](http://www.nuforc.org/webreports/reports/089/S89474.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
