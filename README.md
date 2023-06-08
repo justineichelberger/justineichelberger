@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:27 on 8 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:34 on 8 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Orland Park (IL) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 lights in a triangle and singular lights followed.I did not see the 1st singular object but my friend did. I saw the second that was 3 objects in a triangle that looked slow moving in a straight path from NE to SW then after about a minute the left light dipped down and the other 2 continued and went behind trees and out of sight.  Then there was a series of singular lights in what appeared to be a straight path for about 10 minutes.  There was no usual aviation lights and did not have audible sounds. There were no trails, just a constant "burning" light on every object.I am not sure what this was would of dismissed it as some science experiment but I have a friend and my father who was in the Korean war kind of perplexed as to what we saw.  I did manage to get a pic and some really bad video on my cell phone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98530.html](http://www.nuforc.org/webreports/reports/098/S98530.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Elora (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>big object gone in matter of secondstravelling back from work we noticed that what seem to be the moon due to its enourmous size was in the wrong place really close and glowing orange but did not make much of a concern about it but driving closer we noticed it moving down rather fast and in a matter of seconds it was gone. this huge object fanished into thin air no were to be seen</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50869.html](http://www.nuforc.org/webreports/reports/050/S50869.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
