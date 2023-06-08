@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:38 on 8 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:28 on 8 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Fuquay Varina (NC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Red streak in the sky, followed by a flying black disc with a flashing red light.My family and I saw what looked like a long streak of fire in the sky.  It remained for a few minutes without changing, but appeared to be moving downward very slowly.  Two of us went outside for a better look.  The streak was silent.  All of a sudden, it shortened, then it stretched really long and curved. It suddenly disappeared, and we saw a black disc shaped object where the streak appeared to end.  It had a blinking red light, and it flew quickly up and out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127777.html](http://www.nuforc.org/webreports/reports/127/S127777.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Dowagiac (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>3 lights at the leading edge of an approaching storm08June2008 approx 15:00  Just after  the sirens for a tornado warning, 3 white lights were seen by my husband and myself , at the leading edge of the storm. The 3 lights were clumped together and then split with 1 leading and 2 following. They vanished into the approaching storm. They were moving north to south, just West of Dowagiac. We watched them for about 2 minutes. It may have been birds with light glinting off of them, but at that point there was no sunshine.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63762.html](http://www.nuforc.org/webreports/reports/063/S63762.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
