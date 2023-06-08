@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:30 on 8 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:39 on 8 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Voorhees (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Star looking object Splits Into TwoI went outside to my car to get a smoke and for some reason I looked up. I look at the stars all the time so I am familier with the shape, color, and hieght of everyday stars. I was looking striaght into the air when the "star" was one and suddenly split in two, while one stayed stationary the other moved North west at a visable speed than burned out slowly. I am 100% sure at what I saw, and I can not explain it. This object had the same characteristics of a normal bright white star.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63766.html](http://www.nuforc.org/webreports/reports/063/S63766.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Independence (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright light in northwest night sky that changed color and locations ( and in number) rapidly before zooming away...At about 4am, my friend and I were standing in our backyard, which is surrounded by strawberry fields.  We are away from the bright lights of any city, and we often stargaze on clear nights.  This morning, while looking towards the northwest sky, we both noticed a bright and shining light that seemed to (at first) be pulsating...we have an app called sky guide that shows us where objects are in the night sky, and this was not an object identified on any of our apps.  As we continued to watch, the light appeared to be moving in various formations, and actually seemed to split off and away from another similar entity before returning back to the object (or beside it maybe)....it hovered and zoomed about as if it was teleporting to the side/to and fro from the central origin point and appeared to be at least 2...probably 3 in formation moving in unison.  What was most amazing was the rotation of colors that presented!  We are typically used to seeing the GPS aircra! ft above us (they have red, white, and blue blinking lights) that are VERY common, especially in the past few years.  To a novice viewer, these GPS craft can very easily seem exotic.  This was NOT any type of craft or sky object that either of us had ever seen before-in fact, I couldn't stop staring in amazement as each second seemed more and more unbelievable.  Right above the distant silhouette of the tree line, this "light" actually transformed  itself from a glow similar to that of a bright white star to greenish blue to red (in rapid succession) and then eventually back to white while hovering, glowing brighter (similar to watching the backside of thrusters being engaged) then fading and appearing to finally move away and quickly increase altitude until it was GONE!  Afterwards, I studied the placement of the stars, etc, Mercury was at the same height of the entity but directly southwest vs northwest where the light had been.  The only bright star between Mercury ! and the strange light was Vega...this craft or crafts were brighter.  Sunrise came about an hour afterwards.  We will continue to search the skies for this as well!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127774.html](http://www.nuforc.org/webreports/reports/127/S127774.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
