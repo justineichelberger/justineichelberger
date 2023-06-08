@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:42 on 8 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:12 on 8 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Waverly (TN) reported seeing craft that fit the description of some 'Changing' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Fifty feet away,size of basketball orange and darting in trees.I thought this was the size of a volley ball to basketball.It was darting up and down and around large trees.It was no more than 50 feet away at any time.It seemed to move in straight lines then stop.  No noise at all.  The color seemed between white light and orange.In the third photo there are 2, the bottom one appeared blueish in color.  In the fourth photo notice the thick white smoke or cloud.In the first photo notice how the object is curvy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98672.html](http://www.nuforc.org/webreports/reports/098/S98672.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1970, an anonymous witness in Not sure (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Single craftThis happened over 30 years ago, so some of the details are not clear.  We had stopped at a lake and camped then my ex husband, and son (he was about 2 years old), did some fishing.  We left around 10 am heading towards San Louis Obispo.  We both saw the craft; it was the typical "saucer" shape, aluminum color.  I had always thought for about 2 hours.  Recently I underwent hypnosis, and it seems the time frame was probably around 4-5 hours.  Our final destination was Salinas to visit relatives.  We had planned on taking an inland scenic route on the way up (from the Los Angeles area), then come home the coastal route.  Shortly after leaving the campsite we started seeing the craft, it was like it was magnetized to the car.  No matter how fast or slow we went, or what direction we went, or how fast or slow we changed directions.  It stayed exactly the same place in my field of vision.  At one point he stopped the car and cleaned off the windshield, thinking, “maybe it’s just a reflection.”  Needless to say it made no difference.  My son, who is now 35, has no recollection of the incident.  My ex husband would not discuss it with me at all, other than to say we both did see the same thing.  I was 3-4 months pregnant with my daughter.  When we were about 10-15 minutes out of San Louis Obispo, it was gone.  In the blink of an eye, one second it was there the next it was gone.  It has haunted me ever since.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34069.html](http://www.nuforc.org/webreports/reports/034/S34069.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
