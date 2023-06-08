@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:34 on 8 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:03 on 8 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Gulf Breeze (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>brighter than a star light travels the clear night sky, viewed by 6 adults for around a minute, then it just disappears.On Sat night, the 8th of June 2019, my wife, myself, & 2 other couples (6 people) were hanging out talking on the back porch of a friend's house.  We were talking of how Jupiter was supposed to be so close we could see the moons with a pair of binoculars, so we decided to pull up our skyview apps on our iphones to look at stars & try to find Jupiter.  At about 21:45 we began to spot communication satellites traveling the night sky, they were all over, as well as the occasional high flying airplanes.  You can always tell the airplanes from the blinking lights on each wingtip… One of the men in the group notices a light in the sky, like a satellite, only brighter, almost as bright as the N star.  It was travelling from the S to the N faster than a satellite, almost double the speed of a satellite as viewed with the naked eye, it had no blinking lights, it was too high to be heard, but it was quite clear in the NE sky that night, so no clouds to obscure it.  I remarked at how it kind of had a blue blur behind it, almost like it was going so far it was getting blurry near the end.  It was viewed by all six adults over the age of 35, no one was intoxicated, all sober.  It traveled the sky in a straight line for around a minute, about 1' across the sky viewed by eye, it stayed a constant speed, then phased out...totally disappeared, no explosion, no giant flash...it was there, then it wasn't.  We've tried to explain it off, as we live near some high profile military bases, but somethings, somethings just can't be explained.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146720.html](http://www.nuforc.org/webreports/reports/146/S146720.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Stationary bell shaped object seen in daytime sky.My husband and I were walking along a boardwalk that follows the Ruston Way waterfront in Tacoma, Wa.  I happened to notice an object that I first thought was a balloon but i realized that it couldn't be that because it was too high up and was stationary.  Airplanes were passing underneath, so if they fly at cruising altitude of 35000 miles than this was much higher.  From the naked eye, I couldn't make out a shape but after I took a picture and was able to zoom in, I saw that it had two parts to it.  Bell shaped on one end and attached to it, an egg shape.  It looks whitish grey against the blue background of the sky.  We watched it for about 20 min.  I went to use the bathroom and when I came back, I couldn't find it again.((NUFORC Note:  We have looked at the photo that was sent to our Center, and the anomalous object in the picture appears to us to be an airliner.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110083.html](http://www.nuforc.org/webreports/reports/110/S110083.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
