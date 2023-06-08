@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:12 on 8 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:26:54 on 8 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1970, an anonymous witness in Not sure (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Single craftThis happened over 30 years ago, so some of the details are not clear.  We had stopped at a lake and camped then my ex husband, and son (he was about 2 years old), did some fishing.  We left around 10 am heading towards San Louis Obispo.  We both saw the craft; it was the typical "saucer" shape, aluminum color.  I had always thought for about 2 hours.  Recently I underwent hypnosis, and it seems the time frame was probably around 4-5 hours.  Our final destination was Salinas to visit relatives.  We had planned on taking an inland scenic route on the way up (from the Los Angeles area), then come home the coastal route.  Shortly after leaving the campsite we started seeing the craft, it was like it was magnetized to the car.  No matter how fast or slow we went, or what direction we went, or how fast or slow we changed directions.  It stayed exactly the same place in my field of vision.  At one point he stopped the car and cleaned off the windshield, thinking, “maybe it’s just a reflection.”  Needless to say it made no difference.  My son, who is now 35, has no recollection of the incident.  My ex husband would not discuss it with me at all, other than to say we both did see the same thing.  I was 3-4 months pregnant with my daughter.  When we were about 10-15 minutes out of San Louis Obispo, it was gone.  In the blink of an eye, one second it was there the next it was gone.  It has haunted me ever since.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34069.html](http://www.nuforc.org/webreports/reports/034/S34069.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Gary (IN) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>diamondlike shaped objectOn street in Gary, in. heading to u.s. 20 to sr912. lost sight going west after went behind trees. entered us20 and spotted again on ramp. lost sight. saw again on i-90/chicago skyline entrance. when on street at intersection saw in west saw square floating like balloon. looked like 4 window panes but offset somewhat like a diamond. brite white sphere appeared beside it but went away. had lines like an old window but at angle. best way i can describe without drawing picture. highly reflective like steel in the evening sun.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63885.html](http://www.nuforc.org/webreports/reports/063/S63885.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
