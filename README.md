@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:03 on 8 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:39 on 8 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Stationary bell shaped object seen in daytime sky.My husband and I were walking along a boardwalk that follows the Ruston Way waterfront in Tacoma, Wa.  I happened to notice an object that I first thought was a balloon but i realized that it couldn't be that because it was too high up and was stationary.  Airplanes were passing underneath, so if they fly at cruising altitude of 35000 miles than this was much higher.  From the naked eye, I couldn't make out a shape but after I took a picture and was able to zoom in, I saw that it had two parts to it.  Bell shaped on one end and attached to it, an egg shape.  It looks whitish grey against the blue background of the sky.  We watched it for about 20 min.  I went to use the bathroom and when I came back, I couldn't find it again.((NUFORC Note:  We have looked at the photo that was sent to our Center, and the anomalous object in the picture appears to us to be an airliner.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110083.html](http://www.nuforc.org/webreports/reports/110/S110083.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Hamilton (New Zealand) () reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>7 Redish Yellow spheres Spotted in New Zealand.Last night on 08/06/17, at around 8:15pm, I saw 4 lights hovering in the sky and I went to get my partner to see them with me, less than a minute later another one flew in, then another one, then a final 7th.The four that were flying were hovering there, and the others were moving in from the side trying to catch up.I Stopped and asked my partner and I myself listened as one was coming in and seemed to be the closest.  We listened intently as I realized they could be helicopters but we could not hear anything.Then when the lights were all together which moved and looked like helicopters flying together, one started blinking then faded out.  Then another one started blinking and faded out one by one until they all blinked and faded out.Some only blinked for a little while, while other blinked for longer until they all faded out.It was one of the more strange incidents in my life.There was also a plane high up in the sky (Much higher than these Flying objects as the blinking red light that you see on A plane was much smaller and it flew like a plane.)  The color of these lights was:  I saw yellow, my partner saw red.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134640.html](http://www.nuforc.org/webreports/reports/134/S134640.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
