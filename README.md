@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:26 on 8 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:38 on 8 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in North Wales (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>There was acircle shaped object moving very fast with blue lights flashed very fast.There was a cirlce shaped craft moving very fast at high altiude.  It was moving from the southwest to the northeast.  It had blue lights on it and they were flashing very fast.  As it got further away it just seemed to disappear into the sky.  This all happened over a ten to twelve second span because the object was moving very fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89474.html](http://www.nuforc.org/webreports/reports/089/S89474.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Fuquay Varina (NC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Red streak in the sky, followed by a flying black disc with a flashing red light.My family and I saw what looked like a long streak of fire in the sky.  It remained for a few minutes without changing, but appeared to be moving downward very slowly.  Two of us went outside for a better look.  The streak was silent.  All of a sudden, it shortened, then it stretched really long and curved. It suddenly disappeared, and we saw a black disc shaped object where the streak appeared to end.  It had a blinking red light, and it flew quickly up and out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127777.html](http://www.nuforc.org/webreports/reports/127/S127777.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
