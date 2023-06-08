@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:27 on 8 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:30 on 8 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Virginia Beach (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange Lights in Triangular Formation over Virginia BeachI just saw an incredibly large triangle over land in Virginia Beach and couldn't believe the size.  There were clouds out tonight so it could not have possibly been stars or a planet.  I can identify a helicopter or airplane from the numerous vehicles I see almost daily in this area. It was silent and was below the cloud deck, but the size was extremely large.  Giant in fact.  I've never seen something so large and distinct in our sky ever.  I am truly touched, enough to write this note tonight.  Each light was equidistant from each other and faded out quickly.  One light went out and then the other 2 went out at the same time and not a Chinese lantern.  I've seen them before as well.  Hopefully others saw the same thing as me and the people around me weren't the only ones seeing this object.  It was a once in a lifetime event as far as I'm concerned.((ADDENDUM FROM WITNESS)Dear Peter,I called WAVY news, the local NBC affiliate and reported my sighting.  It was an amazing site. I only wonder if it was a government vehicle of sorts,  Amazing indeed!Thanks for your time this evening. I can't sleep now…((name deleted))((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98505.html](http://www.nuforc.org/webreports/reports/098/S98505.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Voorhees (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Star looking object Splits Into TwoI went outside to my car to get a smoke and for some reason I looked up. I look at the stars all the time so I am familier with the shape, color, and hieght of everyday stars. I was looking striaght into the air when the "star" was one and suddenly split in two, while one stayed stationary the other moved North west at a visable speed than burned out slowly. I am 100% sure at what I saw, and I can not explain it. This object had the same characteristics of a normal bright white star.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63766.html](http://www.nuforc.org/webreports/reports/063/S63766.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
