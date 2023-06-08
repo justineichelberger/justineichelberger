@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:22 on 8 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:27 on 8 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Van Buren/Alma (AR) reported seeing craft that fit the description of some 'Flash' over a period of approximately  -  minutes.</sub><blockquote><sub>Strange green lights over Van Buren and Alma, Arkansas?  Not sub station explosion.On or around 10:00 pm the electricity in Alma and Mulberry went out.  We were told that a sub station had an explosion and the transformers were on fire.At almost the same time my mother called in a panic and told me that my bother and my son were driving from Van Buren to Kibler on Kibler Hwy and as they crossed Arkansas St. they seen what they said the sky all of the sudden turned a turquoise green color.It flickered and it was large. As they drove toward it the lights stopped and disappeared then re appeared further ahead and it kept doing this for nearly 8 minutes. They followed this for at least 3 miles and then all of the sudden it went away.My brother said it had no shape but it glowed and the glowing light flickered. He said the size of the glow was massive.He called the police and they said they had nearly 30 reports of strange lights in the area at the time.The news said it was an explosion at a sub station but my brother said that was NOT what he seen. My son is almost 14 and is scared to death from what he seen.I want to know if there has been any other reports on this web site and if so i would love to hear them.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70413.html](http://www.nuforc.org/webreports/reports/070/S70413.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Virginia Beach (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange Lights in Triangular Formation over Virginia BeachI just saw an incredibly large triangle over land in Virginia Beach and couldn't believe the size.  There were clouds out tonight so it could not have possibly been stars or a planet.  I can identify a helicopter or airplane from the numerous vehicles I see almost daily in this area. It was silent and was below the cloud deck, but the size was extremely large.  Giant in fact.  I've never seen something so large and distinct in our sky ever.  I am truly touched, enough to write this note tonight.  Each light was equidistant from each other and faded out quickly.  One light went out and then the other 2 went out at the same time and not a Chinese lantern.  I've seen them before as well.  Hopefully others saw the same thing as me and the people around me weren't the only ones seeing this object.  It was a once in a lifetime event as far as I'm concerned.((ADDENDUM FROM WITNESS)Dear Peter,I called WAVY news, the local NBC affiliate and reported my sighting.  It was an amazing site. I only wonder if it was a government vehicle of sorts,  Amazing indeed!Thanks for your time this evening. I can't sleep now…((name deleted))((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98505.html](http://www.nuforc.org/webreports/reports/098/S98505.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
