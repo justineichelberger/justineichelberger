@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:26:54 on 8 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:05:03 on 8 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Gary (IN) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>diamondlike shaped objectOn street in Gary, in. heading to u.s. 20 to sr912. lost sight going west after went behind trees. entered us20 and spotted again on ramp. lost sight. saw again on i-90/chicago skyline entrance. when on street at intersection saw in west saw square floating like balloon. looked like 4 window panes but offset somewhat like a diamond. brite white sphere appeared beside it but went away. had lines like an old window but at angle. best way i can describe without drawing picture. highly reflective like steel in the evening sun.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63885.html](http://www.nuforc.org/webreports/reports/063/S63885.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>its a rectangle and half circle on top shaped, the rectangle side has flashing white "windows" it flashed across randomly one by one "window" the top half circle is lighted red. i was at the upper deck of my apartment suddenly i saw bright white light shined to the ground and i looked up  i knew it was not an airplane or a helicopter it just rock back and forth very slowly going northeast i alerted my neighbors they saw it too then i ran to get my husband  but by the time me and my husband came outside it was at a distant sight from when i saw it recently. My neighbor took photograghs of it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23240.html](http://www.nuforc.org/webreports/reports/023/S23240.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
