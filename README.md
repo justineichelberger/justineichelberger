@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:41 on 8 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:01:06 on 8 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>5 stationary blinking lights in a diagonal line, NW TucsonFrom central Tucson looking Northwest, there were 5 white lights blinking, larger then planes, in a diagonal line pointing upwards, staying still, then fading out. Moments later, 3 brighter lights appeared in the same area, but not in a line and then faded out.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75729.html](http://www.nuforc.org/webreports/reports/075/S75729.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Murrysville (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red-orange spheres flying over Murrysville, PA valley and PA Turnpike.Observed in the evening sky were six (6) red-orange lights spaced about a mile apart from each other over the Murrysville, PA valley area.  I live in the Level Green, Penn Twp area.  My front porch faces north towards Cheswick, PA. which is across the Allegheny River at 11.40 miles.  The lights appeared to come out of the north eastern sky over what would be Plum-Monroeville, PA about 3.54 miles over the tree tops.  They flew towards my house and angled to the right over the valley and all disappeared one by one in the same place over the PA Turnpike.  They were observed for five (5) minutes.  Then another one appeared over the same area but flew perhaps, 2 miles further and disappeared over the Lyons Trail Court area.  No sound made.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98499.html](http://www.nuforc.org/webreports/reports/098/S98499.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
