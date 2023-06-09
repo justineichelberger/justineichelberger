@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:33 on 9 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:51 on 9 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1964, an anonymous witness in Baltimore (MD) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>June, 1964; 9;00 PM: immense counter-rotating double domed craft only 100 feet above me(Not sure of exact day in June of 1964, but it was early June) At 9PM I left a friends house from a Young Life meeting in the neighborhood of Rogers Forge on Hopkins Street (an upper scale row house community) to get some fresh air when I looked up into the sky.  About 100 feet above me was a huge hovering craft with a "Capitol" shaped dome on top and the same shape on the bottom separated by a ring.  It hummed as the top dome spun in one direction and the bottom in another.  It was as clear as day.  Each half of the craft had rows of lighted windows.  I had never heard of UFO's before, so there was no preconceived notion to create interpret anything in my mind.  Awestruck, I looked back into the house, where I saw a friend about to exit and called him to come see.  As he stood next to me and looked up, I asked him, "Do you see that?", pointing to the craft.  He answered affirmatively and described what I was seeing.  Thirty seconds later, it moved off at astounding speed directly in front of us.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50672.html](http://www.nuforc.org/webreports/reports/050/S50672.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Fallbrook (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Square flying object w/white lights on corners, red light on sides, white in center. Another had one BIG red light and moved VERYY fastI was in my room watching TV, then all of a sudden, I couldn't even hear my show anymore because there was this loud, high pitched humming or whistling sound. So I run to my window and look outside... there's a huge square pattern of lights, with a flashing red one that would flash on one side, then a white one would flash in the middle. So I’m freaking out running outside and staring at it. When I look again, there's another light, moving SO fast, straight towards the square one. Just when i think they're going to hit, one moves down and the other moves up, then they continue to circle around the Fallbrook/Oceanside area.There was another one that was also circling that SOUNDEDD like a helicopter, but i knew it couldn't be because of its speed. And especially as it got further away, it was moving way faster than even a jet looks like it's moving, into the same general area that the other two went to.This happened three times. Unfortunately I couldn't find a camera in time to get a picture, but on the last round... SO FAR... i almost did but it was too far away.But when I did research on s square air craft... there was no government air craft that was square with lights like this one had. Then results came up as "UFO"s so I had to say SOMETHING.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70429.html](http://www.nuforc.org/webreports/reports/070/S70429.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/163/S163647.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163671.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163634.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163632.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165547.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
