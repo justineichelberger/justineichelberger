@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:34 on 8 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:33 on 9 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Elora (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>big object gone in matter of secondstravelling back from work we noticed that what seem to be the moon due to its enourmous size was in the wrong place really close and glowing orange but did not make much of a concern about it but driving closer we noticed it moving down rather fast and in a matter of seconds it was gone. this huge object fanished into thin air no were to be seen</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50869.html](http://www.nuforc.org/webreports/reports/050/S50869.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1964, an anonymous witness in Baltimore (MD) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>June, 1964; 9;00 PM: immense counter-rotating double domed craft only 100 feet above me(Not sure of exact day in June of 1964, but it was early June) At 9PM I left a friends house from a Young Life meeting in the neighborhood of Rogers Forge on Hopkins Street (an upper scale row house community) to get some fresh air when I looked up into the sky.  About 100 feet above me was a huge hovering craft with a "Capitol" shaped dome on top and the same shape on the bottom separated by a ring.  It hummed as the top dome spun in one direction and the bottom in another.  It was as clear as day.  Each half of the craft had rows of lighted windows.  I had never heard of UFO's before, so there was no preconceived notion to create interpret anything in my mind.  Awestruck, I looked back into the house, where I saw a friend about to exit and called him to come see.  As he stood next to me and looked up, I asked him, "Do you see that?", pointing to the craft.  He answered affirmatively and described what I was seeing.  Thirty seconds later, it moved off at astounding speed directly in front of us.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50672.html](http://www.nuforc.org/webreports/reports/050/S50672.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/163/S163636.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163738.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163818.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163629.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163669.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
