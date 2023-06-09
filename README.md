@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:51 on 9 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:27:44 on 9 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Fallbrook (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Square flying object w/white lights on corners, red light on sides, white in center. Another had one BIG red light and moved VERYY fastI was in my room watching TV, then all of a sudden, I couldn't even hear my show anymore because there was this loud, high pitched humming or whistling sound. So I run to my window and look outside... there's a huge square pattern of lights, with a flashing red one that would flash on one side, then a white one would flash in the middle. So I’m freaking out running outside and staring at it. When I look again, there's another light, moving SO fast, straight towards the square one. Just when i think they're going to hit, one moves down and the other moves up, then they continue to circle around the Fallbrook/Oceanside area.There was another one that was also circling that SOUNDEDD like a helicopter, but i knew it couldn't be because of its speed. And especially as it got further away, it was moving way faster than even a jet looks like it's moving, into the same general area that the other two went to.This happened three times. Unfortunately I couldn't find a camera in time to get a picture, but on the last round... SO FAR... i almost did but it was too far away.But when I did research on s square air craft... there was no government air craft that was square with lights like this one had. Then results came up as "UFO"s so I had to say SOMETHING.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70429.html](http://www.nuforc.org/webreports/reports/070/S70429.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Shavertown (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Stationary light in distanceThis event occurred after a storm that knocked out all of the lights in the area.  I was leaving a friend’s home with my mother when I noticed an extremely bright light off in the distance. The light was yellow, spherical and stationary.  My mother confirmed the light. I walked my mother to the car, and when I looked back, the light had disappeared entirely.  This instance was extraordinary in that there were no ordinary lights to be seen anywhere.  Moreover, the cloud cover allowed no other stars to be seen.  The night was exceptionally dark.  When I first saw the object, I believed it to be a star.  However, after further inspection, I believed it to be far too large and far too bright to be an ordinary star.  In addition, I believe that if it had been a star, it would have been shrouded by the cloud cover, and, as a result, would not have been visible at all, or would have been quite dull.  It was apparent that this object was beneath the cloud cover. Even more, the light seemed to be slightly pulsing. I stood and watched it for about ten seconds. I intended to observe it more, but when I looked back, it was gone. I returned to my vehicle to check whether or not there was any radio interference. There was not.I am a senior at a major university studying philosophy.  My mother has received her masters.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57009.html](http://www.nuforc.org/webreports/reports/057/S57009.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/163/S163647.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163671.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163634.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163632.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165547.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
