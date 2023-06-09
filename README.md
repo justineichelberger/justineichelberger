@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:07:37 on 9 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:29 on 9 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Oswego (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Saw at least six orange lights floating in a northeast directionIn the parking lot of the Walmart on route 34 and saw an orange light in the sky moving smoothly in a northeast direction.  They appeared one right after the other some by themselves and at least one pair.  No sound at all and the lights were flickering.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89506.html](http://www.nuforc.org/webreports/reports/089/S89506.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Monrovia (AL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Lat night, around 10:00 cst., me and a friend were outside and I looked up and saw a very bright red and white light.  I told my friend to check it out.  We have the Blackhawk command here at Redstone so I thought they may be doing a night mission.  As it got closer we noticed that it was not making any sound just a bright flashing red and white light.  We watched it for a minute or so and then making no sound it took off across the sky and disappeared within seconds. One of the strangest things I have ever saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81717.html](http://www.nuforc.org/webreports/reports/081/S81717.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/163/S163647.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163671.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163634.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163632.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165547.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
