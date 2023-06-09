@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:24 on 9 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:40 on 9 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Johnson Park, NE CA.,Shasta Co., calif (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.25 - 1.25 minutes.</sub><blockquote><sub>While observing Mars and Spica I observed a glowing white orb approaching from the South West. The object wa traveling faster than an orbiting sattelite. It then stopped and began to ascend until I could no longer see it. I am famaliar with aircraft and am sure it was no airplane or helicopter. I am also sure it was no meteorite.I would like to know if anyone else saw what I did.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07990.html](http://www.nuforc.org/webreports/reports/007/S07990.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Nelson/Ruby Bay (New Zealand) () reported seeing craft that fit the description of some 'Teardrop' over a period of approximately until morning - until morning minutes.</sub><blockquote><sub>Tear drop shaped UFO and other UFOs seen in Ruby Bay, Nelson, NEW ZEALANDI was down on the beach having a smoke, looking out across the bay towards the Nelson Harbour. I saw a tear drop shaped craft with spinning red lights beaming light into the water. I sprinted to my friends caravan and got him to see. other residents of the camping ground also had seen it. It moved closer towards the beach sending beams of light accross the bay. It made an electrical humming noise and a thundering sound that could easily be heard by Myself and the residents of McKees Domain, Ruby Bay. The craft moved at a phenominal speeds and disapeared and reapeared in different places, it moved up into the sky. The objects seemed to be interested in the aircraft departing and landing at the nelson airport. It was about 20:00 and over the next hour another 6 craft appeared in the sky. The objects in the sky looked like giant orbs of amber light and over the rest of the night the objects moved around the Nelson Harbour and the hills around Ruby Bay. The objects came in close and shot off randomly over the rest of the night until morning. Flat batteries in cars have occured everywhere at the McKees Domain. and dead fish are being washed up on the beach in Ruby Bay.((NUFORC Note:  If, in fact, the object moved as described by the witness, it could not have been a "twinkling" star.  We do not know what he saw.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37494.html](http://www.nuforc.org/webreports/reports/037/S37494.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/163/S163647.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163671.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163634.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163632.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165547.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
