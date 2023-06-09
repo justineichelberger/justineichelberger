@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:24 on 9 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:29 on 9 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in North Brook (IL) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 148</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146915.html](http://www.nuforc.org/webreports/reports/146/S146915.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in St. George (Canada) (ON) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>our neighbour was walking from the barn to the house when a flying saucer  with many colored lights suddenly hovered about 50 feet directly overhead at silo height. he looked at it for about 10 seconds and in shock ran to the house  where as the brantford expositor  the local newspaper reported the young man was white and shaking  from fear.  the police were called and the local newspaper ran the story and were convinced of the sightings authenticity and reality as the young man was extremely frightened((NUFORC Note:  Witness elects to remain totally anonymous.  We do not know if this is a serious report, or not.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37652.html](http://www.nuforc.org/webreports/reports/037/S37652.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/163/S163647.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163671.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163634.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163632.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165547.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
