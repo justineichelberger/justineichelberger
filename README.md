@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:29 on 9 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:22 on 9 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>4 objects spoted over Lake Michigan in ChicagoWhile laying on the beach at Chicago's North Avenue Beach I was observing planes and birds flying overhead in a perfect blue sky.  While following the path of one plane I noticed a silver dot in the sky of which the plane had just flown under.  Having seen this perspective I was able to observe the silver dot hovering in a motionless position high above land then disappear in what appeared to be an ascet out of the blue sky and out of sight; straight upwards. This piqued my curriosity and I questioned if what I had seen was real.  30 minutes later an orange or copper colored dot appeared which seemed to be more observable than the silver object I observed earlier.  The orange dot was hovering when suddenly two white dots appeared into sight.  The three objects hovered motionless for some moments then swayed back and forth.  Hovering in a triangle formation. My initial thoughts were that I was seeing Mars(orange or copper color) and two neighboring stars.  I was skeptical only to the fact that I've never observed stars in the daytime much less Mars.  It also seemed that the formation was shifting from a right triangle to an obtuse triangle which took away any assumptions of planets and stars appearing stationary during the daytime. I took pictures of the sky using my camera phone.  The quality of the camera I don't think is good enough to have captured these objects digitally.  However if someone would like to examine them I took 5 or so pictures of the sky.  I also walked over to a life guard and pointed out what I was observing.  He had no explanation of what these objects were but did see them as well once I pointed them out. Minutes later the objects flew off in what appeared to be heading south in the sky.  Their departures were very swift and disappeared in what seemed to last less than a second.  I approached the life guard again and had asked if he still saw the objects in the sky.  He answered no and stated he saw the one object fly off.  As we tried to make sense of what we had just witnessed, another small white object started to appear.  This turned out to be a seagull's down feather descending onto the beach.  Our eyes had not been fooled.  These were not jets, clouds, or feathers.  Instead they mimicked the hours and hours of footage found documenting UFO's.  Which tells me that anyone with a trained eye can spot them.  They've been around for a long time and will continue to be.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57088.html](http://www.nuforc.org/webreports/reports/057/S57088.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Anhem (Netherlands) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was at my work in Arnhem and looked outsite.  Suddenly I saw a object flying/moving from East to West without noice or smoke or anything.  It moves rather fast from East to West and dissapeared behind the tower of the church. The object was more like an egg and for shoore doesn't look like a plain or a balloon!! I saId to my colleague, "What is that! what is there flying??"It is not a plain ore something.  I tried to make a picture of it, but on the photo you can't see anything!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81703.html](http://www.nuforc.org/webreports/reports/081/S81703.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/163/S163647.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163671.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163634.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163632.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165547.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
