@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:22 on 9 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:24 on 9 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Anhem (Netherlands) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was at my work in Arnhem and looked outsite.  Suddenly I saw a object flying/moving from East to West without noice or smoke or anything.  It moves rather fast from East to West and dissapeared behind the tower of the church. The object was more like an egg and for shoore doesn't look like a plain or a balloon!! I saId to my colleague, "What is that! what is there flying??"It is not a plain ore something.  I tried to make a picture of it, but on the photo you can't see anything!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81703.html](http://www.nuforc.org/webreports/reports/081/S81703.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Johnson Park, NE CA.,Shasta Co., calif (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.25 - 1.25 minutes.</sub><blockquote><sub>While observing Mars and Spica I observed a glowing white orb approaching from the South West. The object wa traveling faster than an orbiting sattelite. It then stopped and began to ascend until I could no longer see it. I am famaliar with aircraft and am sure it was no airplane or helicopter. I am also sure it was no meteorite.I would like to know if anyone else saw what I did.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07990.html](http://www.nuforc.org/webreports/reports/007/S07990.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/163/S163647.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163671.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163634.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163632.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165547.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
