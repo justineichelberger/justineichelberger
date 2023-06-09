@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:27 on 9 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:27 on 9 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Alexandria (LA) reported seeing craft that fit the description of some '' over a period of approximately 65.0 - 65.0 minutes.</sub><blockquote><sub>White and Orange lights over Alexandria, LAFour white lights blinking and slow crisscrossing. Passed very close to one another. Also, following crossing, bright orange light lasting about 5 seconds parallel to the flight pattern. Pictures taken with Ipod.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70454.html](http://www.nuforc.org/webreports/reports/070/S70454.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Atlanta (GA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Can be seen on Google maps at this location:XXXX Kings Gap Rd Hamilton GA 31811-XXXX United StatesWhile searching an address on Google maps I saw an object above the trees at this location: XXXX Kings Gap Rd Hamilton GA 31811-XXXX United States. don't know if it's been reported before but it's there for everyone to see.  just put the address in Google maps and pan around the sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89504.html](http://www.nuforc.org/webreports/reports/089/S89504.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/163/S163647.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163671.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163634.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163632.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165547.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
