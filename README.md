@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:27:44 on 9 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:07:37 on 9 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Shavertown (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Stationary light in distanceThis event occurred after a storm that knocked out all of the lights in the area.  I was leaving a friend’s home with my mother when I noticed an extremely bright light off in the distance. The light was yellow, spherical and stationary.  My mother confirmed the light. I walked my mother to the car, and when I looked back, the light had disappeared entirely.  This instance was extraordinary in that there were no ordinary lights to be seen anywhere.  Moreover, the cloud cover allowed no other stars to be seen.  The night was exceptionally dark.  When I first saw the object, I believed it to be a star.  However, after further inspection, I believed it to be far too large and far too bright to be an ordinary star.  In addition, I believe that if it had been a star, it would have been shrouded by the cloud cover, and, as a result, would not have been visible at all, or would have been quite dull.  It was apparent that this object was beneath the cloud cover. Even more, the light seemed to be slightly pulsing. I stood and watched it for about ten seconds. I intended to observe it more, but when I looked back, it was gone. I returned to my vehicle to check whether or not there was any radio interference. There was not.I am a senior at a major university studying philosophy.  My mother has received her masters.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57009.html](http://www.nuforc.org/webreports/reports/057/S57009.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Oswego (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Saw at least six orange lights floating in a northeast directionIn the parking lot of the Walmart on route 34 and saw an orange light in the sky moving smoothly in a northeast direction.  They appeared one right after the other some by themselves and at least one pair.  No sound at all and the lights were flickering.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89506.html](http://www.nuforc.org/webreports/reports/089/S89506.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/163/S163647.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163671.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163634.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163632.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165547.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
