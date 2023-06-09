@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:27 on 9 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:23 on 9 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Atlanta (GA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Can be seen on Google maps at this location:XXXX Kings Gap Rd Hamilton GA 31811-XXXX United StatesWhile searching an address on Google maps I saw an object above the trees at this location: XXXX Kings Gap Rd Hamilton GA 31811-XXXX United States. don't know if it's been reported before but it's there for everyone to see.  just put the address in Google maps and pan around the sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89504.html](http://www.nuforc.org/webreports/reports/089/S89504.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Carlisle (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I stepped outside for a ciggetett. As I looked up at a star, I noticed flaches of light at different points around this particular star.  A few jets flew over head with strobes flashing. The jets were much lower than the flashes of what I saw. It seemed as if the objects were manervering for position. Then flashes of light were seen eminting from eacj craft.  It seemed as though they were shooting at east other. Sometimes one would (fire) the the other one.  At other times both would fire at the same time.This was very much higher than anything of referance. A few commercial jets flew over but at a noticible much lower altitude.I was reminded of the bible, the book of Ephesians, where it says that we wrestle not against flesh and bollod, but against spiritual wickedness in the heavenly places. Again in the Book of Revelation it speakes of Michael asnd His angels fought against the Dragan (Satan) adn his angels, and they prevailed not, but were cast down to the earth.  I saw a streak as lightning finaly zoom across the sky. seeming to become lower as it passed out of sight to the west behing the mountain.  Aliens are not from another world... but are fallen angels warring against God.  This activity will increase very soon. All will see "signs in the sky".  This is part of "THE END OF DAYS".</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44418.html](http://www.nuforc.org/webreports/reports/044/S44418.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/163/S163647.html)
-- [304](http://www.nuforc.org/webreports/reports/163/S163671.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163634.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163632.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165547.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
