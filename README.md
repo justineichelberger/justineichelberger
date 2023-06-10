@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:26 on 10 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:22 on 10 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Credit River (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>A star that wasn't a starThere was what I though was a star, as bright as Altair, moving slowly from east to west, but too fast for a star.  I thought it was a high flying airplane or satellite.  Then it made a 90 degree turn an flew quickly to the south.Odd, so I called for the two people in the house. They came out and the "star" was now stationary.  Great, they'll think I'm nuts, I thought.  Then it started moving to west again in alternating fast, then slow, jerking motions.  It was a white light that would brighten and dim. Then it shot 180 degrees to the east.  It kept doing strange things like this.  After about 10 minutes, our necks got tired so we went back in. What was it?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89500.html](http://www.nuforc.org/webreports/reports/089/S89500.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Louisville (directly over metropolitan area) (KY) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>I was riding parallel to downtown Louisville on the Indiana side of the Ohio river. Was In "Floyds knobs" in New Albany, Ind....looking South-South west. I was in the passenger side of the vehicle facing above direction.  My friend was driving. Floyds Knobs provides an optimum view of the city skyline and is a favored area for such viewing.I glanced skyward and observed a "streaking" object rapidly advancing West to East over the city. The object was of the intensity of an atypical star. perhaps indicative of its distance. Having taken astronomy in college it was certainly NOT a comet, incoming asteroid or other debris. The object when DIRECTLY over the city released an apparent projectile.  Both objects were white in color. the secondary object "streaked" On an apparent trajectory towards the city itself. The object secondary object dissapeared from view when it was washed out by the city lights below. The initial primary object continued rapidly in a westerly direction eventually fading from view.I am a full time college student . My companion at he time is as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03454.html](http://www.nuforc.org/webreports/reports/003/S03454.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [420](http://www.nuforc.org/webreports/reports/163/S163767.html)
-- [419](http://www.nuforc.org/webreports/reports/163/S163768.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163821.html)
-- [417](http://www.nuforc.org/webreports/reports/163/S163655.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163651.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
