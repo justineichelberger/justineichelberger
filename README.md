@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:31 on 10 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:32 on 10 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Chantilly (VA) reported seeing craft that fit the description of some '' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>My inquiry is to determine if anyone has reported a similar event to my experience.  I am certain it was paranormal, but have never heard of any similar occurrences and have no bases for explanation.  I can only describe what occurred.  I do not necesarily wish this information to be placed within your database but wish to receive a response informing me if others have had a similar experience.I have approximated the date knowing it to be sometime during the first 10 days of June.  I awakened during the night with a sense of some presence in the room.  Looking toward my door, I saw, fading quickly, something which almost had the appearance of a hologram.  Next, shadows appeared outside the windows in an erratic shape.  I thought the shadows to be from trees moving in a strong wind.  The appearance was of a storm blowing the limbs to create these shadows outside the window.However, there was no storm.  I looked out the adjacent window on the side of the house facing opposite and there was no wind at all.  In fact, there were no trees positioned in such a way to cast a shadow.  I opened the blinds to see what might be causing the shadows.  I saw what seemed to be a hologram with the shape of two small eyes moving erratically outside the window.  I was frightened and closed the blinds.  I moved to another bedroom in the house and tried to forget what I had seen.Two weeks later, I was awakened late with by a humming sound and again saw the erratic shadows outside the window.  This time, knowing there was no storm or other possible source of shadows from trees or anything else, (I had investigated possible sources and found none,)I was very frightened.  I watched the shadows for 10-15 minutes and then called the police.  When the policeman arrived, we walked out on the back deck to investigate and found no visible signs of any intrusion whatsoever.  After the policeman left I walked toward the door facing the back porch and saw a large burst of bluish white light.  It looked unnatural, almost like a laser.  I wondered if something were trying to inform me they understood what I had done by calling the police.  I have not seen this since but am very curious to know if you have had anyone report a similar experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24122.html](http://www.nuforc.org/webreports/reports/024/S24122.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Hardy (VA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>My father and I observed a silent, black, saucer-like object (with bright white lights on the underside) moving quickly from West to East about 300-500 feet or so above the property.  It was the middle of the day with a clear sky, so it was easy to spot.  The object went behind the trees within about 5 seconds, but when I ran out down our driveway to get a better view, I could see it continuing to move in a straight line from West to East. I have a flight radar app on my phone and when I checked it right afterward, there were no planes or helicoptors shown to be in the area.  It was very bizarre, to say the least.((ADDENDUM FROM WITNESS))Sure. It was June 10th (a Saturday) and it happened in the middle of the day. ((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135413.html](http://www.nuforc.org/webreports/reports/135/S135413.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [420](http://www.nuforc.org/webreports/reports/163/S163767.html)
-- [419](http://www.nuforc.org/webreports/reports/163/S163768.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163821.html)
-- [417](http://www.nuforc.org/webreports/reports/163/S163655.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163651.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
