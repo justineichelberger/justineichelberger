@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:23 on 10 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:42 on 10 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Hardy (VA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>My father and I observed a silent, black, saucer-like object (with bright white lights on the underside) moving quickly from West to East about 300-500 feet or so above the property.  It was the middle of the day with a clear sky, so it was easy to spot.  The object went behind the trees within about 5 seconds, but when I ran out down our driveway to get a better view, I could see it continuing to move in a straight line from West to East. I have a flight radar app on my phone and when I checked it right afterward, there were no planes or helicoptors shown to be in the area.  It was very bizarre, to say the least.((ADDENDUM FROM WITNESS))Sure. It was June 10th (a Saturday) and it happened in the middle of the day. ((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135413.html](http://www.nuforc.org/webreports/reports/135/S135413.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Long Beach (CA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>At least 25 UFO floating in the sky.At least 25 UFO floating in the air.  Seem to stay float in a still position and about 2 of them seem to "dance" around.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134523.html](http://www.nuforc.org/webreports/reports/134/S134523.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [420](http://www.nuforc.org/webreports/reports/163/S163767.html)
-- [419](http://www.nuforc.org/webreports/reports/163/S163768.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163821.html)
-- [417](http://www.nuforc.org/webreports/reports/163/S163655.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163651.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
