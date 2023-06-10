@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:23:24 on 10 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:34 on 10 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Redlands (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>orange ball drops tiny orange lightsi was in my room after midnight and suddenly had the urge to look outside. i did, and saw a blurry orange light. i went outside and looked at it. it was a large circular blob of orange-ish light. it hovered for a few seconds, then dropped a tiny bright orange ball which fell straight down, then darted around. this happened every ten or fifteen seconds. maybe six or seven little balls dropped. they darted all around, fading in and out. finally, the big orange ball stopped, hovering for a few seconds, then faded to black very quickly, as if it was moving away very fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17936.html](http://www.nuforc.org/webreports/reports/017/S17936.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Paradise Valley (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Star-looking object beneath the clouds stopping and startingLooking into the sky almost directly southwest of my location I noticed a far away object that resembled a large star or planet- not terribly different looking from the appearance of Venus under good conditions.  The sky was fairly overcast at the time of sighting and the object appear in front of very thick clouds indicating it was not any form of celestial body. The object was completely stationary for a short period of time but started moving West.  The movement was slow and first then the object proceeded to accelerate  and slow again somewhat sporadically.  The movement was unlike any aircraft I've seen.  The movement was not perceived based on the movement of clouds; I was tracking it solely based on it's position relative to the moon. After moving for approximately thirty seconds to one minute it stopped again and was completely stationary.  As soon as it stopped, I went inside to get my phone and look up the number for the hotline.  I place the call less than two minutes later and it was still visible and still stationary. The object was perceived to be at the same altitude as the clouds as it would disappear under very heavy cloud coverage although it still shone bright even in lower cloud coverage that blocked most of the light from the moon.  As heavier clouds moved by it, I saw for a split second what could have been a second object that appeared slightly further West and visually lower than the first.  I was not exposed to the second object to rule out the possibility of it being a celestial body however I do not recall seeing it in clear skies as I did the first.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71012.html](http://www.nuforc.org/webreports/reports/071/S71012.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [420](http://www.nuforc.org/webreports/reports/163/S163767.html)
-- [419](http://www.nuforc.org/webreports/reports/163/S163768.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163821.html)
-- [417](http://www.nuforc.org/webreports/reports/163/S163655.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163651.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
