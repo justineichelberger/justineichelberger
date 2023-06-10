@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:23 on 10 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:26 on 10 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ormond Beach (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I observed something very strange on evening of June 10, 2016, at approximately 9:10pm EST.  I was outside in my side yard looking West when from my left (South) I observed what appeared to be a fireball entering from high in the South.  It traveled North North West.  It was approximately 3 times brighter than Jupiter (which was up) and very bright white yellow orange and had a slight tail pointing South.  I instantly thought fireball, but the object was slowing down, so I instantly thought this object was space junk.  This object was "dropping" what appeared to be hot material that was same color as the object.  The object continued to slow down and dripped the strange material two times on its trajectory before the object slowed to a complete static stop.  I was baffled to say the least.  As the object remained stationary, it dripped the bright material momentarily.  The flight time from when I saw the object to when it came to a complete static stop was approximately 10 seconds - which is far too long of a time for any fireball or space junk, which I've witnessed countless times.  I observed this object stationary for approximately 2 minutes in absolute amazement.  I had my iPhone in my hand and shot one still photo of the object prior to it coming to a complete stop and I shot video as well.  All you can see is a small dot due to iPhone camera not suited for shooting in dark.  It also showed up on the video.  While observing the object stationary for approximately 2 minutes I decided to take a chance a run in the house a grab a real camera, which only took about 2 minutes to retrieve, when I went back outside it was gone and I have no idea what happened to it.  I've been a dedicated amateur astronomer for over 40 years and I know the sky well. Also visible were commercial jetliners in the sky in the same general area of the sky.  This was neither a fireball or space junk - they don't slow down and come to a complete stop in the sk! y as this object did.  It was not the Moon, which was up and in a different part of the sky. It was not Jupiter, which was up and in a different part of the sky.  It was not Mars, which was up and in a different part of the sky.  It was not a satellite.  It was not the ISS.  I'm hoping that others observed this object and will make reports.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127811.html](http://www.nuforc.org/webreports/reports/127/S127811.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Credit River (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>A star that wasn't a starThere was what I though was a star, as bright as Altair, moving slowly from east to west, but too fast for a star.  I thought it was a high flying airplane or satellite.  Then it made a 90 degree turn an flew quickly to the south.Odd, so I called for the two people in the house. They came out and the "star" was now stationary.  Great, they'll think I'm nuts, I thought.  Then it started moving to west again in alternating fast, then slow, jerking motions.  It was a white light that would brighten and dim. Then it shot 180 degrees to the east.  It kept doing strange things like this.  After about 10 minutes, our necks got tired so we went back in. What was it?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89500.html](http://www.nuforc.org/webreports/reports/089/S89500.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [420](http://www.nuforc.org/webreports/reports/163/S163767.html)
-- [419](http://www.nuforc.org/webreports/reports/163/S163768.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163821.html)
-- [417](http://www.nuforc.org/webreports/reports/163/S163655.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163651.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
