@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:50 on 10 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:24 on 10 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Rabbit Valley (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Saw a very bright and fast solid white light moving from west to east.  Stopping and going, moving left and righ,t then disappearing before the eastern horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134516.html](http://www.nuforc.org/webreports/reports/134/S134516.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Tybee Island (traveling toward) (GA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Blue orb moving slow but steadily across the Georgia coastline sky towards Tybee IslandMy husband and I were traveling toward Tybee Island for our honeymoon.  He was driving and I was in the passengers seat.  I spotted this brilliant blue orb moving toward us from over my right shoulder.  I immediately said to my husband, "Look!  Do you see that?!"   He replied, "What ((deleted)) is that?"  The blue "orb" with no discernible parts, only light, moved across our path and vanished.  It was wild.  I never knew there was a place I could report this where I wouldn't be completely humiliated and called crazy until now, thus the late report.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87240.html](http://www.nuforc.org/webreports/reports/087/S87240.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [420](http://www.nuforc.org/webreports/reports/163/S163767.html)
-- [419](http://www.nuforc.org/webreports/reports/163/S163768.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163821.html)
-- [417](http://www.nuforc.org/webreports/reports/163/S163655.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163651.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
