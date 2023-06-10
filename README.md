@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:20 on 10 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:34 on 10 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Shelbyville (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 30 sicets - 30 sicets minutes.</sub><blockquote><sub>I was looking up at the night sky at this red object in the sky it was a light I thought it might be a airplane then it zipped to the right then it blinked blue and red lights didn't zipped off to where I could not see it no more this all happened within 30 seconds I think they are trying to tell me something I am in constant contact with these beans and I think they're trying to communicate with me</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134511.html](http://www.nuforc.org/webreports/reports/134/S134511.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Magenta-Violet Orb Moves Abnormally Through Eastern Mesa SkySaw a circular UFO while walking my dogs tonight around 8:00pm MST.Glanced up and saw a violet-turning-magenta colored circular figure (I can only explain the violet color as looking like your nails do when you're in a room that has a black light on) in the sky sitting dead still.  At first I thought it may be a plane or helicopter coming straight toward me, appearing to be still, but then the object started moving to the left (eastern sky beginning at dead-center east, then slightly left of east across horizon and back).  The object moved slowly to begin but glided unlike anything I have ever seen. It then stood at a dead stop once again for about 30 seconds.  After this it ZIPPED QUICKLY AND UNNATURALLY to the left about an entire palms-length when held up to the horizon. After this it stood still for a moment once more, then zipped back to the right to its original position and lowered itself straight down at an unnatural speed.  This happened three times and I have three separate videos of the event.Directly before recording the third video, a helicopter made a brief attempt at chasing the object (which prompted me to run into my home to grab my camera for a third recording).((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141787.html](http://www.nuforc.org/webreports/reports/141/S141787.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [420](http://www.nuforc.org/webreports/reports/163/S163767.html)
-- [419](http://www.nuforc.org/webreports/reports/163/S163768.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163821.html)
-- [417](http://www.nuforc.org/webreports/reports/163/S163655.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163651.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
