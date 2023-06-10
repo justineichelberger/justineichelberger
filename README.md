@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:37 on 10 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:25 on 10 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in San Carlos (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright Light seen in circular form over the eastern sky in AZ  am.Early Sunday morning myself and 4 others saw a bright yellow light in the Eastern Sky over close to the time when the sun is about to rise. The circular object was a bright YELLOW type light.  Many other type of UFO activity occur in the night sky over San Carlos Apache Reservation in east central AZ.  Just watch!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18014.html](http://www.nuforc.org/webreports/reports/018/S18014.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Normal (IL) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>Strange cat head shapped UFO above my house in Illinois.Me and my friend we in 4th grade when this happend.  It was in summer, and in the day time. We were playing in the sprinkler right in front of my house on the drive way.  All of a sudden everything got dead silent, the breeze stopped, the birds stopped, everything.   We turned around to look above my house. RIGHT above my house was a medium sized craft hovering.  It was round with two point on the front, it was shaped like a cat head.  After about 40 secs. of it just hovering there, it began to tilt downward towards us.  The points were now facing down at us.  The craft was dark black, and there was a window on front, the window was too tinted so we could not fully see what was inside.  But we could see 2 figueres inside. After about a minute of it sitting there, it flew off as fast as it came and dissapeared behind a cloud.  The breeze and all the sounds soon came back.  And it was gone.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79914.html](http://www.nuforc.org/webreports/reports/079/S79914.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [420](http://www.nuforc.org/webreports/reports/163/S163767.html)
-- [419](http://www.nuforc.org/webreports/reports/163/S163768.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163821.html)
-- [417](http://www.nuforc.org/webreports/reports/163/S163655.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163651.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
