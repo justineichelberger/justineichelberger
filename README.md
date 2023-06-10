@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:33 on 10 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:37 on 10 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Freeport (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Strange sight on Long Island...daytimeWas driving on the Loop parkway heading towards the Meadowbrook parkway when I saw an object in the NE sky flash when sunlight hit it. The gleam caught my eye and I then started to follow it. The object seemed to have sharp corners was chrome in color/reflectivity and had a tumbling motion as it headed North/Northwest from a Southeast origin. Object was moving extremely fast, too fast to be mistaken for mylar balloons. It was at a speed consistant with military jets seen at an airshow 2 weeks prior, but the shape was not an aircraft. The only way it can be described would be is that it looked like a shard of glass in its shape, tumbled like it was out of control, but never lost altitude and was moving extremely fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44377.html](http://www.nuforc.org/webreports/reports/044/S44377.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in San Carlos (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright Light seen in circular form over the eastern sky in AZ  am.Early Sunday morning myself and 4 others saw a bright yellow light in the Eastern Sky over close to the time when the sun is about to rise. The circular object was a bright YELLOW type light.  Many other type of UFO activity occur in the night sky over San Carlos Apache Reservation in east central AZ.  Just watch!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18014.html](http://www.nuforc.org/webreports/reports/018/S18014.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [420](http://www.nuforc.org/webreports/reports/163/S163767.html)
-- [419](http://www.nuforc.org/webreports/reports/163/S163768.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163821.html)
-- [417](http://www.nuforc.org/webreports/reports/163/S163655.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163651.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
