@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:27 on 11 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:21 on 11 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Newburgh (NY) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Myself and a co-worker witnessed a bright metallic saucer shaped object in the morning while driving on the NYS thruway.Hi I am a driver for ((brand name deleted)) and at approximately  7:35 am on June 11 me and a co-worker witnessed what can only appear to have been a UFO. We were heading south bound on the NY state thruway (RT.87).  The saucer shape object appeared in the sky near a cloud and was still.  It was pretty high and I would estimate it was at least the size of a commercial plane.  The object was the brightest metal I ever seen. It stayed motionless for about five seconds and simply vanished, as if it popped into the atmosphere and then popped out. I called a local radio station and they told me that several other people did claim to have witnessed  this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63863.html](http://www.nuforc.org/webreports/reports/063/S63863.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Portage (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Star sized lightsOn June 11, 2008, at 3:00 am, I witnessed, what I thought was a star in the east sky.  It wasn’t, It was the size and brightness of a star, but moved erratically. It appeared to be writing in the sky.  It had a faint aura, and seemed to turn blue with a red light that looked to be rotating from time to time.I observed this for about 15 min.  At that time I saw what looked to be 5 smaller lights.  Blue in color, but very small compared to the main light.  The smaller lights looked to be discharged from the main light, 3 from the left side, 2 from the right.  I had my children come and witness this, we continued to watch it for another 15-20 min.At 3:30 I went back outside and at this time there where more.  All the same size, 2 in the east and 3 in the southeast.  All making the same movements of the above mentioned.   I’m not sure how to describe this movement except to say, it looked like it was making a symbol or writing, it reminded me of a bee going from flower to flower.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63828.html](http://www.nuforc.org/webreports/reports/063/S63828.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/163/S163661.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163659.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163665.html)
-- [301](http://www.nuforc.org/webreports/reports/163/S163819.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163668.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
