@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:23 on 11 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:35 on 11 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I saw a craft that probably was not from earth.There was a sighting previous to this one which displayed certain similarities to the one explained.  We were walking down a boardwalk right after work.  The airport was to the right, to the east - about five miles away.  I saw a light hovering in that direction.  At first it looked to be a helo or close plane.  Then, as quickly as I spotted it, it started moving sporadically; first to the left, then to the right, then back, then back, then up, then down, then 20,000 mph to the right and gone.  Don't worry, I'm fully convinced that it was a gov't craft - or worry.  The only thing I have trouble with is that about four years before, I witnessed a craft do the same type of motion, exactly.  And not only that; we were talking about that previous experience when this one occurred.  However, my previous observation was of a craft that was so far away it was equal to a satelite in distance.  I grew up watching stars and planets and I do know what I am talking about.  Currently, I own a four and a half inch reflector telescope which I can see the rings on Saturn and the moons of Jupiter.  Well, four of them.  Back to the original story; This craft was so close it could have been a local craft before it started to move in a manner consistent with a non-earth-craft type of motion.  I hear the Discovery channel skeptics who relate observations like this one to energy and motion hallucinations.  These people are on the pay-roll, don't listen to them.  If what I saw that night was from here, God help us.  If it wasn't, God really help us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45179.html](http://www.nuforc.org/webreports/reports/045/S45179.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Zionsville (IN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 00:02:00 - 00:02:00 minutes.</sub><blockquote><sub>UFO takes off and flies away in rural indiana near crash site.Three of us were driving home on a wooded road, the woods open up to a clearing; we are about 100 feet from the site of a bad car crash a day before.  We look out the right window and are shocked to see four bright lights in a row hovering about 50 feet in the air.  The lights flipped from horizontal to vertical in place then rose and flipped again so now it was upside-down, then it took off diagonally, not in a straight line but curved and flew off to the right.We stopped and the cars behind us stopped.  When it took off we kept driving away trying to figure out what we saw, I tried to take a video but it was too dark.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75744.html](http://www.nuforc.org/webreports/reports/075/S75744.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/163/S163661.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163659.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163665.html)
-- [301](http://www.nuforc.org/webreports/reports/163/S163819.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163668.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
