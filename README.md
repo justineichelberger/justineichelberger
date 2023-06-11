@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:28 on 11 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:20 on 11 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Zionsville (IN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 00:02:00 - 00:02:00 minutes.</sub><blockquote><sub>UFO takes off and flies away in rural indiana near crash site.Three of us were driving home on a wooded road, the woods open up to a clearing; we are about 100 feet from the site of a bad car crash a day before.  We look out the right window and are shocked to see four bright lights in a row hovering about 50 feet in the air.  The lights flipped from horizontal to vertical in place then rose and flipped again so now it was upside-down, then it took off diagonally, not in a straight line but curved and flew off to the right.We stopped and the cars behind us stopped.  When it took off we kept driving away trying to figure out what we saw, I tried to take a video but it was too dark.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75744.html](http://www.nuforc.org/webreports/reports/075/S75744.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Kitchener (ON) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>No sound no lights.The object was approximately 3 ft. long.  Black and blue with a bit of yellow.  It flew just over tree top level doing about 40 or 50 kph.  At first I thought it was a party balloon but there was no wobble and seemed to go at a steady rate.  The wind was out of the north west but that was the direction it was heading.  Against the wind.  Made no sound whatsoever.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146817.html](http://www.nuforc.org/webreports/reports/146/S146817.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/163/S163661.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163659.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163665.html)
-- [301](http://www.nuforc.org/webreports/reports/163/S163819.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163668.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
