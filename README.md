@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:33 on 11 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:20 on 11 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Madison (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Glowing fire ball very bright and fast just disappeared after a few minutes.Looked like a round ball of fire changing colors red, white, orange, blue, moving very fast. One went by then a minute later another then another. When I zoomed in with my camera it looked like the sun.  Me and wife on our way home saw them at first I thought it was an airplane, but realized it was moving to fast.  We have never seen any kind of ufos before it was eerie.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127822.html](http://www.nuforc.org/webreports/reports/127/S127822.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Freer (near) (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately UNK - UNK minutes.</sub><blockquote><sub>Multi-Colored Light Emmitting Disc Seen Between San Diego and Freer, TX.This report is for my Mom who saw the object.  She was returning home about 02:30, 11 Jun 00 between San Diego and Freer, TX.  She saw a a bright light ahead in the distance.  It was ununsually bright white light.  As she got closer she could see light through the brush off the hwy. The object was noticed to have descended into where it was and then as she got closer, it rose and hovered above the brushline.  It was disc shaped and had a black spike on top of it.  It was emitting beams of light and mutli-colored lights as she watched it.  She sais it was "spinning" like a top and she was within 200 feet of it.  She could here it making a whinning noise as ti was spinnig and gearing up.  It hen flew off into the sky very fast. Contacted NUFORC via phone and reported incident.((NUFORC Note:  We talked at considerable length to the individual who submitted this report, and found him to be quite credible.  He is a retired senior military officer, and has considerable experience with astronomy.  The case is under investigation by MUFON investigators.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13081.html](http://www.nuforc.org/webreports/reports/013/S13081.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/163/S163661.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163659.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163665.html)
-- [301](http://www.nuforc.org/webreports/reports/163/S163819.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163668.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
