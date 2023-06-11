@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:18 on 11 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:22 on 11 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>fast moving ufo with orange and while circleswhile taking sky photos I took many 3second 3 photo shots looking just south of the big dipper.  While reviewing the shots I noticed a long object with 3 white circles and 3 orange circle along the length of the object.  The relationship between the white and orange circles is different in each photo.  It traveled in a straight line and move through the entire frame fro upper right to lower left within the 3 second time period of the three photos. f3.5 iso800 Nikon d5100 was used in low resolution.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98592.html](http://www.nuforc.org/webreports/reports/098/S98592.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some '' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>3 adults witness "white balloon" to south.  Then witness 3 triangular-shaped objects nearby.  They slowly drift into clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00568.html](http://www.nuforc.org/webreports/reports/000/S00568.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/163/S163661.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163659.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163665.html)
-- [301](http://www.nuforc.org/webreports/reports/163/S163819.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163668.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
