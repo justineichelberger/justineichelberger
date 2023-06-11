@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:36 on 11 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:28 on 11 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Afghanistan (Forward Operating Base) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>V shape formation over AfhganistanWhile I was on guard duty, from ((deleted)) to ((deleted)) hrs., I looked up to the northern mountains at my 2:00 o'clock  I saw a string of lights moving from east to west; it stopped at my 12:00 o'clock.  I ran out of the tower with my NVG (night vision goggles).  As I got to the outside of the tower the object was gone. I stared in the area and noticed that the object was coming out of a left bank turn heading towards me.  The mountains are about 2 miles away, and it floated over our Forward Observation Base (F.O.B.) in Afghanistan.  It stopped over our base and it spun around pointing north again it drifted west over a small village.  Just past the village, it stopped then it just shot over the northern mountains in a split second. The object was 5 large lights in a V shape formation.  I could not see the object, due to the cloud cover, but you can tell that it was one solid object with 5 lights.  It was also very large as it hovered over the base, I can see that it was larger then the base! In a war zone no military air craft are to fly with lights on, and I know all of our aircrafts.  Also, as the U.F.O was hovering over the base it was a windy night with gust of 30 miles.  It had stopped and it started again as it passed.((NUFORC Note:  We spoke via telephone with the witness, and he sounded to us to be quite sober-minded, and quite serious about the sighting.  He reported that he thought the altitude of the tops of the mountains was about 2,000 feet.  Also, he estimated that the object appeared to be, from the vantage point of the witness, to be larger than a clenched fist, at arm's length, appears to be.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75895.html](http://www.nuforc.org/webreports/reports/075/S75895.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Zionsville (IN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 00:02:00 - 00:02:00 minutes.</sub><blockquote><sub>UFO takes off and flies away in rural indiana near crash site.Three of us were driving home on a wooded road, the woods open up to a clearing; we are about 100 feet from the site of a bad car crash a day before.  We look out the right window and are shocked to see four bright lights in a row hovering about 50 feet in the air.  The lights flipped from horizontal to vertical in place then rose and flipped again so now it was upside-down, then it took off diagonally, not in a straight line but curved and flew off to the right.We stopped and the cars behind us stopped.  When it took off we kept driving away trying to figure out what we saw, I tried to take a video but it was too dark.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75744.html](http://www.nuforc.org/webreports/reports/075/S75744.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/163/S163661.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163659.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163665.html)
-- [301](http://www.nuforc.org/webreports/reports/163/S163819.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163668.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
