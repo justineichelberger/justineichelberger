@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:24 on 10 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:31 on 11 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Parlin (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Yellowish light with sound. Lasted for 3-4 sec.I dont know what it was. Got to tell this to some one. Saw a light moving (like a rocket) in the northern direction, accompanied with a sound. The light was yellowish in color, it did not move straight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13063.html](http://www.nuforc.org/webreports/reports/013/S13063.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in San pedro (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>At about 1600 hrs, I was on my balcony, and I noticed first 1 dot, in the eastern sky,  I went inside for my camera, I looked again, and there were 5, they stayed in formation, and would change formation every minute or so.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81812.html](http://www.nuforc.org/webreports/reports/081/S81812.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [420](http://www.nuforc.org/webreports/reports/163/S163767.html)
-- [419](http://www.nuforc.org/webreports/reports/163/S163768.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163821.html)
-- [417](http://www.nuforc.org/webreports/reports/163/S163655.html)
-- [416](http://www.nuforc.org/webreports/reports/163/S163651.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
