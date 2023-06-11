@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:30 on 11 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:40 on 11 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Belton (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>It looked as if two stars were shooting lasers at each other.I was driving to my cousin's house, down 29 south, at around june 28th, and had just turned left on Danne Bannister road, and after about a mile I saw what appeared to be flashes of lightning at about a 70°incline to my left.  When I turned and looked it looked like two stars in the sky and they were shooting white laser lights at one another.  The lower one shot about four times then the one that was higher and to the right fired four times, then the lower one fired three more times only to get fired back at about five or six times.  Then they just sat there for maybe 30 seconds and the one that was higher moved in a half circle stopped underneath then took a right and vanished while the other just sat there.((NUFORC Note:  The source of the report indicates a date of June 28, 2015, which is illogical, given that the date is still in our future.  We have amended the date above temporarily, until we receive a corrected date from the witness, at which time, we will re-post the report with a corrected date.  PD</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119495.html](http://www.nuforc.org/webreports/reports/119/S119495.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bartlett (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Steady bright object at sunset in western skyObserved in the western sky a bright object with a bright steady glow with no movement. for 2 to 3 mintues. It was at the 11 o'clock position to the setting sun. The object than just disappeared no dimming or fading at all.The sky was clear with no cloud cover. This was the brightest object in the western sky other than the setting sun. No commercial or private planes in that section of the sky. I have previous law enforcement background. I am also a ham radio operator and a trained weather spotter.  I own my own business which is a reporting service that uses mobile apps and pictures to report what we see.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156997.html](http://www.nuforc.org/webreports/reports/156/S156997.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/163/S163661.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163659.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163665.html)
-- [301](http://www.nuforc.org/webreports/reports/163/S163819.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163668.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
