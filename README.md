@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:22 on 11 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:33 on 11 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Council Bluffs (IA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 133</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157382.html](http://www.nuforc.org/webreports/reports/157/S157382.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Madison (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Glowing fire ball very bright and fast just disappeared after a few minutes.Looked like a round ball of fire changing colors red, white, orange, blue, moving very fast. One went by then a minute later another then another. When I zoomed in with my camera it looked like the sun.  Me and wife on our way home saw them at first I thought it was an airplane, but realized it was moving to fast.  We have never seen any kind of ufos before it was eerie.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127822.html](http://www.nuforc.org/webreports/reports/127/S127822.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/163/S163661.html)
-- [303](http://www.nuforc.org/webreports/reports/163/S163659.html)
-- [302](http://www.nuforc.org/webreports/reports/163/S163665.html)
-- [301](http://www.nuforc.org/webreports/reports/163/S163819.html)
-- [300](http://www.nuforc.org/webreports/reports/163/S163668.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
