@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:30 on 12 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:36 on 12 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Oak Brook (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>3 light object   hovering and stopping    witnessed in afternoon in chicago area surburb near  O'hare international airportI have heard about UFO sightings. On that day I became a believer. It was sunny outside while I was sitting in the passenger side of my cousins car in a mall named Yorktown. We were waiting for some friends to meet us. I noticed a black object in the sky that was hovering in the air. I new it was not a plane because I saw planes flying in the sky. I about a 20 minute drive from Ohare airport and a 30 minute drive from Midway. It was almost 5pm and I could easier see the planes coming and going to the airports. That is why a new it was not a plane. Plus the fact planes can not hover in the air. The object sat in the air and then started moving. I could clearly see thre lights underneath it. The light were in a triangle formation. This is when I began to freakout. I grab my cousin and told him to look at the object. My exact words was what the ((deleted)) is that. I said it isnt a plan because those are planes. I pointed to planes around the area that were moving that left air steaks. The object would move and stop. Move and Stop. I do not know anything that is man made that can move in the sky and stop. This is when a began to freak out. I looked around the parking lot and looked as people went into their cars. I thought are we the only people watching this. We seem as if we were the only people watching this object. I was not like it was only appearing for a couple of seconds. I had been watching the object for at least 10 minutes. I could not believe what I was seeing. Things got interesting. The object came to a final stop and kept rising higher and higher in the sky. Suddenly a plane that was flying as high as it was, moved in the direction of the object. the object disappeared in a blink of an eye. When I was watching this object i got my cellphone out and final realized who would believe me. The police? Yeah right. I wanted to call the airport aviation. Yeah right. i told people but they look at me as if I'm crazy. i blessed to have found your sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29845.html](http://www.nuforc.org/webreports/reports/029/S29845.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Jensen Beach (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately minute - minute minutes.</sub><blockquote><sub>Bright light explodes followed by blue stream traveling fast north to south above shoreline all power ceased fire reported southCrackling earsplitting sound at same time of exploding bright light tailed by blue stream of light traveling fast from north to south above shoreline caused all power to cease after a few seconds power returned.  Note: fire reported south of sighting in Hobe Sound Florida shortly after.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81742.html](http://www.nuforc.org/webreports/reports/081/S81742.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
