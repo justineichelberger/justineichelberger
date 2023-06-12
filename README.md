@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:32 on 12 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:36 on 12 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Louisa (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>((NUFORC Note:  We believe the witness describes the event quite accurately, but that it was caused by the flash from an Iridium satellite.  Please see the website link below for details:  http://www.heavens-above.com/iridium.asp?lat=44.017&lng=-107.955&alt=1229&loc=Worland&TZ=MST&Dur=2&Date=37788.6893634259PD))yellowish orange circular shaped light  traveled across the sky --briefly changed to a bright white lightI was visiting family in eastern Kentucky. We were sitting outside late in the evening when we noticed an apparently low flying yellowish orange light (circle) traveling from a south to north direction. The object might have been within a mile or ess of our position, but it was  difficult to judge the distance or size of the object itself.There was no sound, vapor trail, or navigational lights. We did observe a short time after the object came into view, a jet travelling at a higher altitude and with navigational strobes on in an east to west direction.Midway through it's path, the light changed. It becamea very bright white light. The source of this seem to begin in the center and then radiate outwardly to encompass most of the sphere. I did see just a small amount of yellowish orange,but the white was more overpowering. It was a bright sharp white light. One might compare it to a car's bright lights.During this time, the object continued at it's usual speed and altitude until it vanished over a hill.In the past few years, I've seen similar objects going over at low altitudes and from different locales in the region (see reports filed on : 8/3/99 and 3/8/01 in data base}.  There have been a couple other sightings of these in this region since then, but I did not file reports at the time.It was too low to be a satellite, but I did check the Iridium satellite schedule. To the best of my knowledge, these satellites were not what we viewed.Also, the sky was partly cloudy that night with high clouds and a near full moon.The object was travelling below the cloud banks.Thanks!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29188.html](http://www.nuforc.org/webreports/reports/029/S29188.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Georgetown (KY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Triangle shaped craft, flying about 20,000 ft white and 1 red light</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110193.html](http://www.nuforc.org/webreports/reports/110/S110193.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
