@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:28 on 12 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:27 on 12 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Rancho Cucamonga (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>We observed a bright orange object moving across the sky slowly form horizon to horizon.In mid June 2003, my co worker and I were preparing to leave his house to go to work when he noticed a bright orange object moving through the sky at a slow pace. The object appeared to be no more than several hundred feet in the air. The reason we believe this to be the case is due to heavy clown cover on this particular evening and the object was below the clouds. While observing the object we kept commenting on the way the object was rectangular in shape and was a bright orange glow almost the color of a street lamp. However, the edges of the object appeared to be emitting what looked like flames also, we noticed the object did not dim nor brighten as it moved across the sky. The object also appeared to be rotating in a slight circular motion as it passed overhead. (Perhaps 15 deg) Usually when you see an airplane approaching from a distance the headlights of the airplane or bright from a distance and then dim and fade away until you only see the marker lights after it eventually passes. In this case the object stayed at the same intensity from the moment we noticed it, until it moved beyond the horizon to the east. Neither my self nor my coworker has seen anything similar to this in the past.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31614.html](http://www.nuforc.org/webreports/reports/031/S31614.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Ukiah (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was walking my dog- heading north on Oak Manor Drive, I turned  west going west on Yosemite Drive.  I saw a big white static fireball fall vertical from the sky, it fell fast and was glowing white.  The only sound I heard was a car or business alarm going off right before it fell.  It was fast and reminded me of a malfunctioning firework object, but 10x bigger.  It was 10:10 pm on Monday, June 12, 2017.   Two weeks ago I saw a red fireball fall at around the same time of night but it was a Sunday.  I reported that one to the meteor reporting sight.  Neither tonights or the one 2 weeks ago looked like a meteor or falling star.  I also have authentic photos of other activity, but I'm not reporting that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134562.html](http://www.nuforc.org/webreports/reports/134/S134562.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
