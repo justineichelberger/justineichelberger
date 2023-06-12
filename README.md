@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:23 on 12 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:24 on 12 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>On the evening of 6/12/2013 10:06PM, Sky was broken, but you could see stars and the moon.  There had been a fireworks down in Surfside Beach, however visible from where we walking.To my left on a (approximate) 45 degree angle I was drawn to these lights out over the shore.  At an altitude of 150 to 200 feet.. Approximated of course because I had nothing to reference it to.  The lights would  appear and disappear.  I had my phone in my hand waiting for call and I took a chance and took a photo of the lights.  I looked at it later and have been curious to what it is. I saw them one more time and then they disappeared all together.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99005.html](http://www.nuforc.org/webreports/reports/099/S99005.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Sawgrass (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A CLOSE RANGE SIGHTING OF A CRAFT WITH ANGLED DOWN SWEPT FORWARD WINGS WITH A LARGER CENTRAL BODY.IT HAD ONE LARGE RED LIGHT ONTHE BOTTOM OF THE CENTRAL PORTION OF THE CRAFT AND TWO SMALLER GREENISHBLUE LIGHTS PER WING.IT SEEMED TO DEFY KNOWN PHYSICS.I WAS COMING HOME ON THE SAWGRASS WITH A GIRL FRIEND AROUND 9:30PM HEADING NORTH APPROCHING THE BIG BEND WICH HEADS DUE EAST.THE HIGHWAY RESTS ALONGSIDE THE EVERGLADES.I NOTICED A STRANGE LIGHT APPROCHING OUT OF THE EAST,DECENDING RAPIDLY FROM A FEW THOUSAND FEET DOWN TO BEARLY A HUNDRED FEET. THE CRAFT STOPED DIRECTLY OVER THE BIG BEND IN THE HIGHWAY, AT WICH POINT I WAS ABLE TO GET AN EXELLENT VIEW OF A VERY UNCONVENTIONAL CRAFT.IT REMAINED STATIONARY ONLY FOR A SECOND AS IT SEEMED TO SPIN ON A DIME TOWARD THE DIRECTION WICH IT CAME. THEN THE CRAFT LEISURLY ACCELERATED OFF TOWARDS THE EAST. WHEN THE CRAFT SPUN AROUND IT WAS EASILY WITHIN TWOHUNDRED FEET OF US.THERE WAS NO JET BLAST OR ANY OUTHER SOUND,IT WAS SILENT.THE CLOSEST COMPARISON OF THE CRAFT I CAN MAKE IS THAT IT RESEMBLED A "KLINGNON WARBIRD".IT HAD SLIGHTLY ANGLED DOWN SWEPT FORWARD WINGS AND A MAIN CENTRAL BODY APPROXIMATLY 30 TO 40 FEET IN LENGTH. IT HAD ONE LARGE CENTRAL RED LIGHT AND TWO SMALLER BLUISHGREEN LIGHTS PER WING. IT RESEMBLED NO KNOWN CONVENTIONAL CRAFT IN SHAPE OR IT'S UNNATURAL FLYING ABILITY. I WAS ABLE TO FOLLOW THE CRAFTS SMOOTH YET ERRATIC COURSE FOR SEVERAL MINUTES AS WE TRAVELED DOWN THE HIGHWAY BEFORE WE LOST SIGHT OF IT.NOTE: TWO DOUBLE BLADED MILLITARY HELLICOPTORS SEEMED TO BE ATTEMPTING TO FOLLOW THE CRAFT. THEY PASSED DIRECTLY OVER MY VEHICLE A FEW MILES DOWN THE ROAD.WETHER IT WAS A TOP SECRET MILLITARY CRAFT WITH UNCANNY MENUVERABILITY OR AN ALIEN SPACESHIP IT DOSN'T SEEM TO RESEMBLE ANY PREVIOUS UFO REPORT THAT I'M FAMILIAR WITH.STRANGE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05835.html](http://www.nuforc.org/webreports/reports/005/S05835.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
