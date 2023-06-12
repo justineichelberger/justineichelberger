@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:23 on 12 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:26 on 12 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Late night, on a mountain relatively close to my home, I encountered this green light streak across the sky.  Heading in the north-west direction.  A mysterious green light that I saw as going in an upwards flight so fast; it was gone within a few seconds.  Only one green object to be seen heading away from me.Reason for being up the mountain so late was because I had just got off work, and walked home.  Instead of going straight home, I had gone to the mountain to see the city lights which are very beautiful and night.  I could see just about the whole city of Phoenix, Arizona.  This flying object of the unknown was  more north; I think heading straight to Nevada.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127863.html](http://www.nuforc.org/webreports/reports/127/S127863.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Tuckerton (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>encounter with beings, sightings, and physical encounters  It was after fishing in tuckerton with my grandpop, I was resting for the day, around 4:30 in the morning I heard a voice approach the window that was opened, see the yard is all rocks so footsteps are easily identified. This thing walked up to the window I cracked for fresh air – chanted my name.  My hair stood up and I froze. I went to look but it dissapered. I had the feeling this being left I went out side , and over the bay I saw a flash of light, very big one- 5 minutes later a tiny plane went to where the light was and immediately turned around.The very next weekend it happened again. But this time I went to look it jumped on the roof , sounded like a squirel on steroids running across the roof. I froze up once again.  Then outside the glass sliding doors I saw a black being  approximately 3 feet tall being , which looked like the text book alien dolls but black and 3 feet tall. And it had white dots on its chest , seemed like it was a star constellation of some sort on its suit. Very nerve racking! I jumped and told my grandpop – who takes me fishin. Someone’s trying to break in the  house. He looked , I told him what I saw and heard. He said possums make that breathing sound, See the being talked like it was breathing talking.- All it said was Nick. Well the flash of light happened again, the little plane showed up to the light and turned around.Next this thing followed me home, this is maple shade nj. This is where it really gets weird, I saw a odd sized and shaped ship over the trees,no sound couple of lights –all happens between 4-5am.  A fighter jet swooped the trees chasing one, I have been touched.  Still till this day it happens. There is a whole lot to talk about. It has been 4 years now. Every damn night something happens to me. These beings come up to my window, say my name. There is alot of things happening to me I am not comfortable talking about, but it’s is comforting for me to tell someone that may understand what I am going through.((NUFORC Note:  Possibly not a serious report???  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66118.html](http://www.nuforc.org/webreports/reports/066/S66118.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
