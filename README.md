@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:45 on 12 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:23 on 12 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Westwood (NJ) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Saw craft coming from NYC and it had a large dome light on it.  Dome light went off and it went behind a cloud and never appeared again.  Went slow and had v formation I have seen online.  Light was brighter than I have seen before which brought my attention to this craft!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90830.html](http://www.nuforc.org/webreports/reports/090/S90830.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Late night, on a mountain relatively close to my home, I encountered this green light streak across the sky.  Heading in the north-west direction.  A mysterious green light that I saw as going in an upwards flight so fast; it was gone within a few seconds.  Only one green object to be seen heading away from me.Reason for being up the mountain so late was because I had just got off work, and walked home.  Instead of going straight home, I had gone to the mountain to see the city lights which are very beautiful and night.  I could see just about the whole city of Phoenix, Arizona.  This flying object of the unknown was  more north; I think heading straight to Nevada.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127863.html](http://www.nuforc.org/webreports/reports/127/S127863.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
