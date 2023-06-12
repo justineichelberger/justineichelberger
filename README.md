@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:27 on 12 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:26 on 12 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Ukiah (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was walking my dog- heading north on Oak Manor Drive, I turned  west going west on Yosemite Drive.  I saw a big white static fireball fall vertical from the sky, it fell fast and was glowing white.  The only sound I heard was a car or business alarm going off right before it fell.  It was fast and reminded me of a malfunctioning firework object, but 10x bigger.  It was 10:10 pm on Monday, June 12, 2017.   Two weeks ago I saw a red fireball fall at around the same time of night but it was a Sunday.  I reported that one to the meteor reporting sight.  Neither tonights or the one 2 weeks ago looked like a meteor or falling star.  I also have authentic photos of other activity, but I'm not reporting that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134562.html](http://www.nuforc.org/webreports/reports/134/S134562.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Lewisville (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.025 - 0.025 minutes.</sub><blockquote><sub>orange glow seen in NE skyWitnessed an oval shaped orange glow about 33 degrees from flat terrain in the NE sky.  The object was stationary.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63865.html](http://www.nuforc.org/webreports/reports/063/S63865.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
