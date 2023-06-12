@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:23 on 12 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:28 on 12 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Wichita (KS) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>three bright lights moving like a snake across the sky.I am a pilot living in a suburb of Wichita.  My home has a view of both the aircraft on arrival to the Air Force Base as well as Jabarra airport.  I am used to seeing planes at night. What I saw I cannot explain as an aircraft.  I saw three bright, green and red lights evenly spaced move from a standstill west to east across the horizon.  When they moved however it was as if they followed a sinusoidal wave like a snake moving through the sky.  The sine wave was slow but the movement of the three lights as a group was very fast and with no sound.  The lights disappeared from my view behind a house, presumably.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110174.html](http://www.nuforc.org/webreports/reports/110/S110174.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Rancho Cucamonga (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>We observed a bright orange object moving across the sky slowly form horizon to horizon.In mid June 2003, my co worker and I were preparing to leave his house to go to work when he noticed a bright orange object moving through the sky at a slow pace. The object appeared to be no more than several hundred feet in the air. The reason we believe this to be the case is due to heavy clown cover on this particular evening and the object was below the clouds. While observing the object we kept commenting on the way the object was rectangular in shape and was a bright orange glow almost the color of a street lamp. However, the edges of the object appeared to be emitting what looked like flames also, we noticed the object did not dim nor brighten as it moved across the sky. The object also appeared to be rotating in a slight circular motion as it passed overhead. (Perhaps 15 deg) Usually when you see an airplane approaching from a distance the headlights of the airplane or bright from a distance and then dim and fade away until you only see the marker lights after it eventually passes. In this case the object stayed at the same intensity from the moment we noticed it, until it moved beyond the horizon to the east. Neither my self nor my coworker has seen anything similar to this in the past.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31614.html](http://www.nuforc.org/webreports/reports/031/S31614.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
