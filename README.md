@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:06:23 on 12 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:23 on 12 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Hurffville/Sewell (I-55, MM 55) (NJ) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Was seen in southwest along 55 southbound around mile marker 45.  Was a large golden flash that lasted about 10 seconds.  Was not a comet, meteor, or plane.  Didn't get a photo to quick.  Just appeared and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119550.html](http://www.nuforc.org/webreports/reports/119/S119550.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>On the evening of 6/12/2013 10:06PM, Sky was broken, but you could see stars and the moon.  There had been a fireworks down in Surfside Beach, however visible from where we walking.To my left on a (approximate) 45 degree angle I was drawn to these lights out over the shore.  At an altitude of 150 to 200 feet.. Approximated of course because I had nothing to reference it to.  The lights would  appear and disappear.  I had my phone in my hand waiting for call and I took a chance and took a photo of the lights.  I looked at it later and have been curious to what it is. I saw them one more time and then they disappeared all together.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99005.html](http://www.nuforc.org/webreports/reports/099/S99005.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
