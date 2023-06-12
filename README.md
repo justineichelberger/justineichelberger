@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:32 on 12 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:46 on 12 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Montebello (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>two to three second display of  synchronized lights travelling really fast.I was a passenger in the rear of a car when i saw the lights.  We were headed east on Washington Blvd and the lights were also heading east.  They were towards the north.  I observed the light in the north sky.  At first, i saw one light, green like a laser light. It was going horizontally really fast.  At first, i thought that it was a firework, but then it did something amazing.  While flying, it split into two, with the second light coming off at a perfect 45 degree angle then immediately paralleling the first light.  At the same time that the second light paralleled the first light, a third light shot out of the second light then on turn also paralleled the other two lights.  The first light was slightly ahead of the second light which was slightly ahead of the third light.  I immediately yelled at my 2 companions but it happened too fast and they didn't catch it.  I know what i saw and i don't need witnesses.  I have seen and believe.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108988.html](http://www.nuforc.org/webreports/reports/108/S108988.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lafayette (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Slow moving, soundless, low flying orange light traveling directly over Lafayette, Ohio.Orange light traveling south at approx. 40mph directly over Lafayette, Ohio, at about 500'.  The light shifted to a SE direction at about the position of the railroad track in the center of town.  The orange light did not change color or intensity as it approached and passed.  There were no sounds emitted by the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81732.html](http://www.nuforc.org/webreports/reports/081/S81732.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
