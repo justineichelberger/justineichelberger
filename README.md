@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:32 on 12 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:23 on 12 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Diamond Bar (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>one craft intered and stoped east of me moved to my south viewed me met two other craft and left in a tryangel formationi and i good frond on or about midinght in the year 1978 were travling do so on old diamond bar buld. this was a very dar k area betwen towns a 5 mile back road with no lights . my self and my friend both spoted wyat apeared to be a  faling star. stricking across the sky. moving form so to our east with a long trail. but it did not burn out. it stoped. i puled  my trucl off the  road and we watched it in the skydo east of us whtch would not be  near chino airoprt. it looked  just like any other srat in the sky that night but i had my finger pointed at it and kept tellin g\my friend to not tkes his eye off it becasue falling stars do not stop.as we looked it moved in about two tents of a second to our south about 3 miles do south of us now it just sat ther over the top of the hill witch would now be the tonner canyon road exet off the 57 fry near brea calif.we then drive do south to get a closer look and stoped about ome mile from it. we  stoped in a lighted  parking lot of a closed alpha beta store on south diamond bar blvdand watehed it as it then aproched us getting sloser to us as it moved  north it became larger and larger and it turned  from white like a star in the night sky to a bright orange like a sunset. tell it was taking up most of the sky. we left the truck and ran  north but  figured it was to large to run from and teturned to the truck and hid behind it. i them moved  back to the south  very slow tell it was bout a mile to our south and just a small white  not again, at that time to craft  came uo from behind the hill is was hovering near  then  wer the same as it was  except they were  some what jitery in ther movement intell  the three forme da triangel.at that time all three went do east and up leaving a ssmall trail as them left this earth in a flash. that is it..ps i am a pilot now it that can help you this was not form this earth((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25860.html](http://www.nuforc.org/webreports/reports/025/S25860.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Wichita (KS) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>three bright lights moving like a snake across the sky.I am a pilot living in a suburb of Wichita.  My home has a view of both the aircraft on arrival to the Air Force Base as well as Jabarra airport.  I am used to seeing planes at night. What I saw I cannot explain as an aircraft.  I saw three bright, green and red lights evenly spaced move from a standstill west to east across the horizon.  When they moved however it was as if they followed a sinusoidal wave like a snake moving through the sky.  The sine wave was slow but the movement of the three lights as a group was very fast and with no sound.  The lights disappeared from my view behind a house, presumably.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110174.html](http://www.nuforc.org/webreports/reports/110/S110174.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
