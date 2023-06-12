@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:12 on 12 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:45 on 12 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in New York City (Bronx) (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>blue shiney sparkle ball.Far away clear and slow moving.I saw a bright bluish light.I was walking in the west kingsbrige section of the bronx.It went from a western direction to an eastern direction.It seemed far and it moved very slow ecept in the begining it was slightly eratic.At one point I looked away and when I looked back It was there again.The sky was very clear and it shone very bright.It was like a mix of a reflection,a ball,an energy,sparkly,electric ball blue shinny bubble of electricity.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37635.html](http://www.nuforc.org/webreports/reports/037/S37635.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Westwood (NJ) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Saw craft coming from NYC and it had a large dome light on it.  Dome light went off and it went behind a cloud and never appeared again.  Went slow and had v formation I have seen online.  Light was brighter than I have seen before which brought my attention to this craft!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90830.html](http://www.nuforc.org/webreports/reports/090/S90830.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
