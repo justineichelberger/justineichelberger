@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:36 on 12 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:40 on 12 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Georgetown (KY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Triangle shaped craft, flying about 20,000 ft white and 1 red light</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110193.html](http://www.nuforc.org/webreports/reports/110/S110193.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Bay City (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 6:00 - 6:00 minutes.</sub><blockquote><sub>Large triangular craft sighted during thunderstorm.I saw one during a thunderstorm, June 12 or 13 2008 about 00:45. It flew directly overhead at about 200 to 300 feet altitude. It was triangular with a bright white light at each corner, black or dark grey in color.  In the center there was what appeared to be a circular opening with a dim redish orange glow. This circular opening was surrounded by smaller white lights.  In the center of the back edge there was a rectangular red light that didn't blink.  This craft was at least 100 feet wide.Form a distance of a mile it looked like the top of a huge a cell phone tower with bright white lights at each corner.  The lights were perpendicular, like cell phone antenna. It hovered about 200 to 300 feet above ground. As we passed it by, I noticed it was huge, way too big to be a cell phone tower, and something we had never seen before. I drove two more miles. Dropped off my passenger at Johns Bar, and turned around.  On the way back it flew directly overhead. This event was witnessed on M-15 between Bay City and Munger Michican near Russel Rd.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64398.html](http://www.nuforc.org/webreports/reports/064/S64398.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
