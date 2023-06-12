@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:36 on 12 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:25 on 12 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in St. Helen (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>sparks in the skyLast night (June 12th 2007) I was standing outside of my door at the hotel.   I was smoking a cig. looking up at the sky in the northern direction.  I could see many stars in the sky when all of a sudden a star like light appeared out of nowhere.  At first I thought it was an airplane because it looked too low to be a star.  Then I noticed  how fast it was moving and thought to myself that it was moving awful fast for an air plane.  It was moving in an horizontal direction, I believe towards the west.  Then I thought it might me some sort of military jet because of its speed and camp Grayling only being about a 30min car ride or so.  Then all of a sudden the light started to produce trailers that looked like large sparks.  Then I thought I was going to see a plane crash and then the light just disappeared.  I saw no sign of it nor could I locate it in the sky.  The only explanation  I could come up with was maybe a comet but it would seem that if it were we would have know about it before hand.  Have no idea what it might have been and have never seen anything like it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57070.html](http://www.nuforc.org/webreports/reports/057/S57070.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Bay City (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 6:00 - 6:00 minutes.</sub><blockquote><sub>Large triangular craft sighted during thunderstorm.I saw one during a thunderstorm, June 12 or 13 2008 about 00:45. It flew directly overhead at about 200 to 300 feet altitude. It was triangular with a bright white light at each corner, black or dark grey in color.  In the center there was what appeared to be a circular opening with a dim redish orange glow. This circular opening was surrounded by smaller white lights.  In the center of the back edge there was a rectangular red light that didn't blink.  This craft was at least 100 feet wide.Form a distance of a mile it looked like the top of a huge a cell phone tower with bright white lights at each corner.  The lights were perpendicular, like cell phone antenna. It hovered about 200 to 300 feet above ground. As we passed it by, I noticed it was huge, way too big to be a cell phone tower, and something we had never seen before. I drove two more miles. Dropped off my passenger at Johns Bar, and turned around.  On the way back it flew directly overhead. This event was witnessed on M-15 between Bay City and Munger Michican near Russel Rd.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64398.html](http://www.nuforc.org/webreports/reports/064/S64398.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
