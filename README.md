@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 13 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:59 on 13 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Durango (CO) reported seeing craft that fit the description of some 'Disk' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Have photo of clear dome on UFO that I didn't see when taking the photo, only afterwards, and may have captured another craft as well.I was took a photo of a wispy cloud formation and an almost full moon in the blue afternoon sky.  5 days later when I downloaded the photo I saw a small line in it.  I thought it was the monitor dirt, or something from the camera lense.  I did a zoom in and saw the clear-ish dome on top of it!  The whole picture was slightly blurry of course, but you can see the saucer shape and the dome shape - and maybe wheels on either end of the bottom.  If you enlarge the photo you can also see white (it gets pixelated) underneath it.The weird thing is that in another part of the sky there's another artifact -completely foreign shaped, like a Romulan ship (with pointed arms) in some kind of maneuver- since it's really small I can't tell much about it.  Definitely not something on the lense though.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81832.html](http://www.nuforc.org/webreports/reports/081/S81832.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Wisconsin Rapids (WI) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Glowing red object flying across sky ten times faster then jet!!!!!!appeared like a star only reddish-orange, thought it might be an airplane at first only it moved very fast across the eastern sky, from north to south and then met up with two other "stars" and traveled back from south to north. I am writing this for my husband and I saw it myself, it moves very quickly across the sky, it looks like an air plane at first but it moves at least ten times faster and it switched from N. to S. Then it stopped, two of the "stars" close together and the other one a little farther away not moving.  The two "stars" then just floated in the sky while 5 minutes later an even brighter red glowing object flew across the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18033.html](http://www.nuforc.org/webreports/reports/018/S18033.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163691.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163705.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163787.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163689.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163688.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
