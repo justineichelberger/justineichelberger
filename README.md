@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:34 on 13 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:30 on 13 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in South Bend (IN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately nightly - nightly minutes.</sub><blockquote><sub>Craft repeatedly above the South Bend airport (drone or what?)I have seen a strange object in the sky for well over a year.  It appears to be hovering above the south bend airport.  It is definitely not a star or satellite.  I have seen this thing many times and it does move.  I can't tell if this is some sort of craft used by the airport or military and I can't find anything about this object.  I was wondering if its some sort of drone, but it stays in the sky for a long time and the lights on it are extremely bright.  I've seen it with different lights (red, green and white ) and not always the same.  I don't have any sophisticated equipment to get a good look at it.  I've tried a cheap telescope, but I can't make out any definitive shape, although it clearly wasn't anything I've seen before.  I would imagine someone else besides my family has seen this thing and if so, maybe someone knows something.  All I want to know is what this is.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127849.html](http://www.nuforc.org/webreports/reports/127/S127849.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Jessup (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Basically seened UFO make a sideways U turn, lasted 3 seconds red in color, odd shapeI looked up into the sky and noticed a weird shaped red object west from my house towards the next town of Peckville and it made a a side ways letter U shape and when it went back to the same distance of the start it seemed to disappear behind the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37549.html](http://www.nuforc.org/webreports/reports/037/S37549.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163691.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163705.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163787.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163689.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163688.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
