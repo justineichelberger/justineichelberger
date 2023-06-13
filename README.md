@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:22 on 13 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:26 on 13 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Frederick (MD) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Military transporting ufo on route 270 in mdMe, my wife and child were traveling down 270 in frederick.  We saw numerous military vehicles travelind south bound in the othe direction.  In the middle of the escort was a flat bed truck with a huge round aircraft.  There was atleast 30 military vehicles.  They had all lanes blocked off and hd to be going at least 80mph with lights flashing.  There was no other cars traveling near this object.If anyone else seen this caravan of military personal please share your experience and views.  I'm 100% sure that it was an ufo((NUFORC Note:  It was reported as a piece of U. S. Navy military equipment.  It's an X-47B unmanned aerial vehicle.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89570.html](http://www.nuforc.org/webreports/reports/089/S89570.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in La Ceja (Antioquia) (Colombia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>it was a clear night when, we saw a red light in the azimut moving from the north to the southit was a clear night when, we saw a red light in the azimut, we taught it was a paper globe  common in our country or a anti guerilla black hawk helicopter with a night vision system, but suddenly it changed its direction north - south to west - east very fast, and then  it disappeared at the horizon.We reported the event to the our country  air administration and they said they haven´t seen any objet in their radar screens.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37559.html](http://www.nuforc.org/webreports/reports/037/S37559.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163691.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163705.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163787.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163689.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163688.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
