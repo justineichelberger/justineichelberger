@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:27 on 13 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:24 on 13 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Parker (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was driving home from A Perfect Circle concert, at Red Rocks, when my friend and I noticed a strange bright orange light fixed in the sky at the corner of Jordan and Main street.  I imediately stopped the car to watch the glowing light. I was in the middle of the road and there were no other cars around.  Eventually the light got bigger and we could tell it was coming towards us.  A Triangular craft with red and blue lights slowly passed over head.  It looked really strange.  I suppose it could've been some kind of jet... but it was going slow and sounded sort of different also.  My friend and I were quite sober and neither of us have ever seen anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37583.html](http://www.nuforc.org/webreports/reports/037/S37583.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pawleys Island (SC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Orange/red balls of light appear over ocean in Pawleys Island/ twinkling white lightsAs we approached the beach at the Litchfield inn about 9:30 pm my husband and I witnessed 2 glowing orange-red spheres appear on the horizon over the ocean.  One directly over top the other. they appeared suddenly from seemly no where lasting several seconds, then like a switch was thrown disappeared.Suddenly after that the same strange glowing spheres appeared, this time 3 of them in a triangle.  One over the other with one to the left forming a triangle.  Lasting a few seconds then disappearing all at once.Several minutes later two appeared side by side (looked like orange/red headlights) at just above the ocean horizon.  These two lasted 10-15 seconds, then disappeared.  There were several people in chairs on the beach that witnessed it.  After this twinkling white lights were seen at the same point on the horizon moving back & forth up & down rapidly. These lasted several minutes.  Many on the beach thought they could be military.  We didn't hear any aircraft.   We saw a very similar I incident in Pawleys Island in May 2010 and reported it on this site.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89656.html](http://www.nuforc.org/webreports/reports/089/S89656.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163691.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163705.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163787.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163689.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163688.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
