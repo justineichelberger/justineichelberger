@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:59 on 13 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:21:25 on 13 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Wisconsin Rapids (WI) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Glowing red object flying across sky ten times faster then jet!!!!!!appeared like a star only reddish-orange, thought it might be an airplane at first only it moved very fast across the eastern sky, from north to south and then met up with two other "stars" and traveled back from south to north. I am writing this for my husband and I saw it myself, it moves very quickly across the sky, it looks like an air plane at first but it moves at least ten times faster and it switched from N. to S. Then it stopped, two of the "stars" close together and the other one a little farther away not moving.  The two "stars" then just floated in the sky while 5 minutes later an even brighter red glowing object flew across the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18033.html](http://www.nuforc.org/webreports/reports/018/S18033.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Santa Cruz (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>fire that rose in the night's sky in Santa Cruz, CAI was in the backyard facing the ocean.  A big ball of flame slowly rose above the rooftops from the west, getting smaller as it rose and proceeded southwest, where my sister saw it, and headed north as it got further up and out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98625.html](http://www.nuforc.org/webreports/reports/098/S98625.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163691.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163705.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163787.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163689.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163688.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
