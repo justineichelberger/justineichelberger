@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:26 on 13 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:36 on 13 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in La Ceja (Antioquia) (Colombia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>it was a clear night when, we saw a red light in the azimut moving from the north to the southit was a clear night when, we saw a red light in the azimut, we taught it was a paper globe  common in our country or a anti guerilla black hawk helicopter with a night vision system, but suddenly it changed its direction north - south to west - east very fast, and then  it disappeared at the horizon.We reported the event to the our country  air administration and they said they haven´t seen any objet in their radar screens.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37559.html](http://www.nuforc.org/webreports/reports/037/S37559.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lummi Island (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>long object with lights on both ends traveling soundlessly nw to se2 lights traveling from the northwest to southeast seemingly connected by a long object. there was no noise coming from the object. the lights on either end were brighter than the stars. It was low in the sky compared to the stars and satellites. it was the lenght of my two fingers separated an inch apart.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157030.html](http://www.nuforc.org/webreports/reports/157/S157030.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163691.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163705.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163787.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163689.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163688.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
