@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:28 on 13 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 13 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1960, an anonymous witness in Quincy (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately several minutes - several minutes minutes.</sub><blockquote><sub>A lighted object was silently descending vertically into the canyon, then stopped and hoveredA few days ago, while researching UFO California sightings, I came across the Red Bluff Incident, and it absolutely blew my mind!  I am convinced without a shadow of doubt that I was a witness to this event. From the latter part of June until the 24th of August, 1960, I  along with a friend , prospected for gold on the middle fork of the Feather River.  We gained access to the river through the little California mine, between Oroville and Quincy Ca. For many years, I’ve wanted to collaborate this event of August, 1960, but have been unable to do so, until just a few days ago.  I’ll try to be brief and precise  On an evening in mid August, 1960, I awoke on an open air cot on a sandbar, and was watching the stars and SAC planes when my attention was diverted to movement down the canyon.  The river elevation was 1,700’ and the ridge elevation was 6-7000’.  A lighted object was silently descending vertically into the canyon.  It stopped and hovered.  The craft seemed to be rotating with internal rotating lights.  As I was watching, the vehicle sent very bright beams of light on the canyon walls, and down to the river.  From my vantage point, and because of the extreme terrain, I could not see the floor of the canyon or the river.  I may have been 200 - 300 yards, but it is  impossible to estimate the actual distance.  After a minute or so,  the bottom lights disappeared, the vehicle silently ascended and was gone very quickly. I have discussed this event with  my wife and very close friends, but have never joined any groups, or sought information about what I had witnessed.  I would welcome some feed back on this if there is still anyone around.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63741.html](http://www.nuforc.org/webreports/reports/063/S63741.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Yuma (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>YumaWas outside looking at the sky, notice a golden triangle with some sort of a barrier surrounding it Shape.  Floating silent a swift, as close it can be to see the size of it.  The way it looks from close in by what i see ?  It's probably a body portal or a Sky glider.  Its weird though, how it gliding on it side tipping up towards in a shape of a triangle and bright gold. also the way it just sat for a while, when i was staring at it then it moved on... I say very unusual Craft....... Thought i was about to be abducted.. Freaky man</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80781.html](http://www.nuforc.org/webreports/reports/080/S80781.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163691.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163705.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163787.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163689.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163688.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
