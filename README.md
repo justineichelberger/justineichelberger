@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:26 on 12 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 13 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Lewisville (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.025 - 0.025 minutes.</sub><blockquote><sub>orange glow seen in NE skyWitnessed an oval shaped orange glow about 33 degrees from flat terrain in the NE sky.  The object was stationary.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63865.html](http://www.nuforc.org/webreports/reports/063/S63865.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Durango (CO) reported seeing craft that fit the description of some 'Disk' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Have photo of clear dome on UFO that I didn't see when taking the photo, only afterwards, and may have captured another craft as well.I was took a photo of a wispy cloud formation and an almost full moon in the blue afternoon sky.  5 days later when I downloaded the photo I saw a small line in it.  I thought it was the monitor dirt, or something from the camera lense.  I did a zoom in and saw the clear-ish dome on top of it!  The whole picture was slightly blurry of course, but you can see the saucer shape and the dome shape - and maybe wheels on either end of the bottom.  If you enlarge the photo you can also see white (it gets pixelated) underneath it.The weird thing is that in another part of the sky there's another artifact -completely foreign shaped, like a Romulan ship (with pointed arms) in some kind of maneuver- since it's really small I can't tell much about it.  Definitely not something on the lense though.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81832.html](http://www.nuforc.org/webreports/reports/081/S81832.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [330](http://www.nuforc.org/webreports/reports/164/S164016.html)
-- [329](http://www.nuforc.org/webreports/reports/163/S163793.html)
-- [328](http://www.nuforc.org/webreports/reports/163/S163678.html)
-- [327](http://www.nuforc.org/webreports/reports/163/S163685.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163764.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
