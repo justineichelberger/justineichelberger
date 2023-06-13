@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:24 on 13 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:34 on 13 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pawleys Island (SC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Orange/red balls of light appear over ocean in Pawleys Island/ twinkling white lightsAs we approached the beach at the Litchfield inn about 9:30 pm my husband and I witnessed 2 glowing orange-red spheres appear on the horizon over the ocean.  One directly over top the other. they appeared suddenly from seemly no where lasting several seconds, then like a switch was thrown disappeared.Suddenly after that the same strange glowing spheres appeared, this time 3 of them in a triangle.  One over the other with one to the left forming a triangle.  Lasting a few seconds then disappearing all at once.Several minutes later two appeared side by side (looked like orange/red headlights) at just above the ocean horizon.  These two lasted 10-15 seconds, then disappeared.  There were several people in chairs on the beach that witnessed it.  After this twinkling white lights were seen at the same point on the horizon moving back & forth up & down rapidly. These lasted several minutes.  Many on the beach thought they could be military.  We didn't hear any aircraft.   We saw a very similar I incident in Pawleys Island in May 2010 and reported it on this site.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89656.html](http://www.nuforc.org/webreports/reports/089/S89656.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in South Bend (IN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately nightly - nightly minutes.</sub><blockquote><sub>Craft repeatedly above the South Bend airport (drone or what?)I have seen a strange object in the sky for well over a year.  It appears to be hovering above the south bend airport.  It is definitely not a star or satellite.  I have seen this thing many times and it does move.  I can't tell if this is some sort of craft used by the airport or military and I can't find anything about this object.  I was wondering if its some sort of drone, but it stays in the sky for a long time and the lights on it are extremely bright.  I've seen it with different lights (red, green and white ) and not always the same.  I don't have any sophisticated equipment to get a good look at it.  I've tried a cheap telescope, but I can't make out any definitive shape, although it clearly wasn't anything I've seen before.  I would imagine someone else besides my family has seen this thing and if so, maybe someone knows something.  All I want to know is what this is.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127849.html](http://www.nuforc.org/webreports/reports/127/S127849.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163691.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163705.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163787.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163689.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163688.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
