@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:26 on 13 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:24 on 13 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Barstow (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>There were  red and blue lights  round lights coming toward us.  It was the size of a small car hovering.Me and a girlfriend went to Las Vegas for her birthday by car.  As we approached the connecting freeway highway 15 from highway 58 there was a truck blocking the road because he tried to turn around and got stuck.  After several attempts of people trying to help him, cars found a way to get around.  There was a ditch behind the truck, and cars tried to drive partially under the truck into the ditch.  We made it, and not far up the road there were red and blue lights coming toward us.  I assumed it was a police car.  When it reached us it stopped or drove backwards because I was still driving.  It all seemed like in slow motion.  There were no wheels underneath, and we were looking desparately for tires.  It hovered right next to my car and the drivers side as if it was looking in at us.  I said, do you see what I see and she said yes.  I proceeded to try and get away and it stayed with us a short time and then took off like a light, there was no sound as I rolled down my window.  Now you see it, now you don't.  We called our family to tell them when we arrived in Las Vegas in our hotel about the incident.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42480.html](http://www.nuforc.org/webreports/reports/042/S42480.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Edmonton (Canada) (AB) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>bright green light changes direction towards earth then is gone.i live on the top floor of my building and it faces east and south. i was looking out one of the east facing windows when i saw a bright green light flying south in a straight line, at first i thought it was a plane and then all of a sudden it shot very quickly towards the south west in a downward direction with a long ovalish shape with the same bright green colour, then there was a very quick blink in the light then it reappeared on the same course in the same colour but this time the long ovalish shape was a compressed ovalish shape and then just as quickly as it changed its direction it disappeared. this all happend in about five seconds. ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18019.html](http://www.nuforc.org/webreports/reports/018/S18019.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163691.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163705.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163787.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163689.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163688.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
