@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 13 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:23 on 13 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Yuma (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>YumaWas outside looking at the sky, notice a golden triangle with some sort of a barrier surrounding it Shape.  Floating silent a swift, as close it can be to see the size of it.  The way it looks from close in by what i see ?  It's probably a body portal or a Sky glider.  Its weird though, how it gliding on it side tipping up towards in a shape of a triangle and bright gold. also the way it just sat for a while, when i was staring at it then it moved on... I say very unusual Craft....... Thought i was about to be abducted.. Freaky man</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80781.html](http://www.nuforc.org/webreports/reports/080/S80781.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Leavenworth (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Bright triangular shape changing direction and moving irregularly.Arrived from a South-Westerly direction, headed South-East.  It was a steady, bright yellowish light, moving swiftly, leaving no contrail.  The level did not coincide with that of airplanes or satellites, in that it appeared closer.  In addition, the mass appeared larger and brighter.  It was originally headed slightly to our left, in a gentle arc.  After four minutes, it changed direction, heading directly away.  There was a slight zigzagging as it receded.  Triangular shape based on our observance point depending on its varied trajectory.  Two fragile, yet steady points of light emitting from upper planes of triangle when viewed from below (prior to direction change)  Left sight at 10:27 pm, still heading South East at our best estimation.((NUFORC Note:  Sighting of International Space Station, visible at 22:21 hrs.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81772.html](http://www.nuforc.org/webreports/reports/081/S81772.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163691.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163705.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163787.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163689.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163688.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
