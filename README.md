@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:21:25 on 13 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:26 on 13 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Santa Cruz (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>fire that rose in the night's sky in Santa Cruz, CAI was in the backyard facing the ocean.  A big ball of flame slowly rose above the rooftops from the west, getting smaller as it rose and proceeded southwest, where my sister saw it, and headed north as it got further up and out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98625.html](http://www.nuforc.org/webreports/reports/098/S98625.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I thought I was watching a satelite, it disappeared, then reappeared in a different location, made a 180 and vanished.Number 1, I'm not nuts. I thought I was seeing a satelite. It streaked across the sky like it was a satelite, then it "turned off". The "image" was gone. Then it re-appeared just slightly south of its original position, made an arching 180 degree turn and vanished again. The object was in the west-south-west sky between two stars on a vertical plain. I can point out the stars if you'd like, I don't know the names of the stars. There wasn't a tail. It didn't change colors, (by the way, it looked white from here.)it didn't hover and do all those things that TV shows. It came and left, that's it. (When I say it came, I should say that something was visible, it was fairly close as far as celestial things go.) The reason I was outside was to smoke a cigarette, bad habit. I just hope you take this seriously. I was going to call McChord but I think they would have had me locked-up. This is the second one I have seen, the first one being about 15 years ago, the other guy I was with thought it was weird and we left it at that. This was weird and I just wanted to let you know what I saw. Thank you for your time and considerartion. Mike Crawford PS - leave a naumber or message, I do work for a living, really - I'm not nuts!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08057.html](http://www.nuforc.org/webreports/reports/008/S08057.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163691.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163705.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163787.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163689.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163688.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
