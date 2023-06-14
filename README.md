@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:27 on 14 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:27 on 14 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Flint (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>My daughter and I were on our way home from Genesee Valley Mall.   We were at a red light on the corner of Linden & Beecher Rd.  I looked up in the sky and coming from the south eash and heading north west was a HUGE fireball looking things going through the sky.  It changed colors a couple time, but was mostly a aqua greenish blue color.  The sky was clear, except for the path of this fireball.  It seemed to be traveling behind the only clouds in the sky and shortly after it went out of sight, the clouds faded away as well.  The object kind of looked like a roman candle, but it wasn't going vertical, it was going horizontal and it was descending as it went across the sky.  No way was it a firework.  It was also about 2" in diameter as it went across the sky.  I mean it was LARGE.  No firework could have done this unless someone fired it from a helicopter over 10k feet and even then.... it would be so small like a spec.  This was huge!  My first time eve! r seeing anything like this.  It is something I will always remember it for as long as I live.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89622.html](http://www.nuforc.org/webreports/reports/089/S89622.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Glendale (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>metallic saucer in broad daylight floating near verdugo mountains in glendale/los angeles areathere was only one, and it sort of came out of nowhere. It was about ten, maybe twenty miles from where I was. I was in a car wash station with my wife and niece waiting for our car to come out then when I looked at the mountain view, I saw this flying thing, shining from the sun which appeared to look like a disc. I wasnt certain what the shape was, but it certainly was somewhat round as the sun's reflection had a gradient to it. It floated west as fast as a helicopter although I didnt see any propellers or wings or fins to identify it as a plane or chopper. It was certainly metallic, maybe silver and it later dissappeared into the canopy of trees and power lines and buildings as I was at a vantage point with many obstructions to my field of view. I pointed it out to my wife and she gasped and saw it, my niece also saw it and couldnt believe what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23338.html](http://www.nuforc.org/webreports/reports/023/S23338.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
