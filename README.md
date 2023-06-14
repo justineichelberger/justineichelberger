@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:31 on 14 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:28 on 14 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Corinth (MS) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Still occurring - Still occurring minutes.</sub><blockquote><sub>Unknown flying object over Corinth.My friend and I were watching the International Space Station pass over Corinth at 8:34 p.m.Shortly thereafter, we noticed another star like object in the sky overhead.  It continued for some time after the ISS had completely moved out of viewing.  At first we thought it might be a star, but it was moving in sweeping circular motions, then darting around eradically, speeding up and then showing down.  When it was not moving, it seemed to be stationary in one spot.  It was too far off to see the shape or size, but it was as bright as Jupiter to the south.  The GPS coordinates were approximately 34 degrees, 57', 39 " N and 88 degrees, 39', 6" W.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134584.html](http://www.nuforc.org/webreports/reports/134/S134584.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Auburn (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately instantaneous - instantaneous minutes.</sub><blockquote><sub>3 bright flashes with the second being the longest followed by a helicopter(s) rounding where I live.  This has happened more than once.  A few months back my neighbor and I were on my front porch, when a hang-glider shaped silent craft that looked like it had some cloaking device soared right above us at 50' and then it was followed by 7 helicopters that showed up 5-10 minutes after we were freaking out about what we had just witnessed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110238.html](http://www.nuforc.org/webreports/reports/110/S110238.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
