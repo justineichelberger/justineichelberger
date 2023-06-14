@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:28 on 14 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:30 on 14 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Auburn (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately instantaneous - instantaneous minutes.</sub><blockquote><sub>3 bright flashes with the second being the longest followed by a helicopter(s) rounding where I live.  This has happened more than once.  A few months back my neighbor and I were on my front porch, when a hang-glider shaped silent craft that looked like it had some cloaking device soared right above us at 50' and then it was followed by 7 helicopters that showed up 5-10 minutes after we were freaking out about what we had just witnessed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110238.html](http://www.nuforc.org/webreports/reports/110/S110238.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Perry (UT) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>It was a 747 are bigger flying lower than most of the time I kelp Watching It had like a White Cloud coming from the Nose of the Plane then more of the Cloud cover it the It Just Gone the Sound Stop it was What The HELL . I'm been sick Livertranplant So I'm always Out side and My Dad Worked for MC. Doulgles Cal.etc I've been A round Air Plane's All my Life I'm also a Sky Watcher Too .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163704.html](http://www.nuforc.org/webreports/reports/163/S163704.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
