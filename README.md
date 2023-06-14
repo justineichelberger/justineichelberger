@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:27 on 14 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:26 on 14 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Glendale (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>metallic saucer in broad daylight floating near verdugo mountains in glendale/los angeles areathere was only one, and it sort of came out of nowhere. It was about ten, maybe twenty miles from where I was. I was in a car wash station with my wife and niece waiting for our car to come out then when I looked at the mountain view, I saw this flying thing, shining from the sun which appeared to look like a disc. I wasnt certain what the shape was, but it certainly was somewhat round as the sun's reflection had a gradient to it. It floated west as fast as a helicopter although I didnt see any propellers or wings or fins to identify it as a plane or chopper. It was certainly metallic, maybe silver and it later dissappeared into the canopy of trees and power lines and buildings as I was at a vantage point with many obstructions to my field of view. I pointed it out to my wife and she gasped and saw it, my niece also saw it and couldnt believe what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23338.html](http://www.nuforc.org/webreports/reports/023/S23338.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Baltimore (MD) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Early Morning - Early Morning minutes.</sub><blockquote><sub>Unknown Humming Sounds In Early Morning In Baltimre,MD.Also late at night which is early morning to some,from any where from 12am-4am if you listen you can hear humming sounds. It then gets louder,and have no clue the sound is comming from? It is not from a train,truck,nor ship. I lived in the city all my life,and it is unknown where this very early morning humming sound is comming from? And it is driving me nuts. I asked a buddy who works at the CMT,and he said he hears it to,and drives him crazy too. If its flashing lights I rarly see,its every morning humming sounds. Hum hum hum hum humm humm humm hummm hummm,etc.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44400.html](http://www.nuforc.org/webreports/reports/044/S44400.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
