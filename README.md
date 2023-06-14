@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:28 on 14 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:42 on 14 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Irvine (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately current - current minutes.</sub><blockquote><sub>circular distorted shape   please look!I was scrolling through google maps in the area of saddleback mountains, orange county california for a bike trail.  I was following the trail on my screen when what i thought i saw was first a triangle,  It was very eiry feeling   even thinking of what i saw is giving goose bumps.  After scolling in as far as i could i could tell that the image was circulare and distorting the satellite imagery.  I have looked at thousands of mile of map and have never seen this before.  AND the image is still there!   i took a screen shot just incase SOME ELSE finds this.I ride mountain bike all over the clevleand national forest. I am also a student in Networking and Communcation with a proud 3.7 gpa((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75792.html](http://www.nuforc.org/webreports/reports/075/S75792.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Other' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Bow tie like ship with blueish light in middle flying counter clockwise almost out of control.Out with my sister having our yard sale when she says, "Is that a bird?"  As I looked at the object I first thought it was a bag that had flown up with the wind.  As the object got closer towards us we noticed that it was a ship of some sort.  It appeared to look similar to a bow tie like shape.  It moved in an unconventional pattern almost counter clockwise.  Seemed as if the pilot had lost all control of the ship.  I know that it definitely was a ship due to the one light that would flicker when the craft turned in our direction.  The light seemed almost blueish and was in the middle of the craft.  The object appeared to go higher and higher and we stared until it was out of distance and way up in the sky.  As the object passed our area I began to record with my iPhone but only seen a dot when I looked back at the video.  Thought it was weird so I decided to google and came across this site so hope someone else noticed.  Just seemed very out of the ordinary.  Lastly I would like to add that it made absolutely no noise at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110225.html](http://www.nuforc.org/webreports/reports/110/S110225.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
