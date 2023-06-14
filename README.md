@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:19 on 14 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:32 on 14 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cranston (RI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>2 fireballs, bright white interiors, bright red flaming edges, moved SW across the sky, then disappered one at a time.Thursday, June 14, 2012, about 11:00 PM.  Cranston, RI (Edgewood section).  I was inside and walking up my stairs when a bright light caught my eye outside the window.  I looked out and saw two very bright, large, fireballs moving across the sky, one some distance behind the other.  They seemed to be travelling the same path, at the same speed, as if one was following the other and they were moving from away from my house, towards the southwest.Immediately, I thought they could not be planes.  They were both very bright – their interior color was white/gold and the outer part of the balls was bright red, with a star-like, flaming appearance.  They did not look in any  way how planes look in a night sky – no flashing lights, only one glowing ball, as opposed to several small lights, etc.Because they appeared so unusual, I wondered if the thick glass of my window was distorting the light and causing the flame-like appearance and the color separation of the white/gold and red.  I went downstairs to a window that I could open that does not have a screen in it, and the balls looked exactly the same – bright white/gold interiors and red flame-like edges.They continued to move on the same path, away from me, toward the southwest, one behind the other, and then the one in the front and furthest away from me just disappeared from view (as opposed to fading away as it got further and further away.)  Then the second one disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89588.html](http://www.nuforc.org/webreports/reports/089/S89588.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Castaic (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>one bright greenish yellow  spherical object shoots across the skyCastaic, CA.  June 14, 2008.  11:50 pm. (approx.)  My husband and I were glued to the tube when suddenly a bright flash drew my attention to the sheer-curtained window to the Northwest.It was bright and seemlingly very close (when compared to a normal object in the sky) - spherical in shape and greenish-yellow in color, coming from the southeast.  Without a word, we both bolted to the balcony and stared in amazement at a completely still and lifeless sky.My husband says, "That is the ((deleted)) craziest ((deleted)) I've ever seen((deleted))!"   Wonder if anyone else saw it.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63893.html](http://www.nuforc.org/webreports/reports/063/S63893.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
