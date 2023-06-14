@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:24 on 14 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:27 on 14 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Oxon Hill (MD) reported seeing craft that fit the description of some 'Disk' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>UFO SIGHTING CLOSE UP IN DMV AREA ON STREETTHIS CRAFT WAS IN THE MIDDLE OF THE STREET.  POINT BLANK PERIOD.  ITS ALL OVER FACEBOOK AND EVERYBODY HAS PICS OF IT IN NICE DISTANCE INCLUDING ME.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89572.html](http://www.nuforc.org/webreports/reports/089/S89572.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Frankfort (IN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>We saw unusually moving bronze lights in the sky in Indiana I’m 2002.Late at night, out in the country at a friend’s house a bunch of kids from church were camping in her backyard.  She casually pointed up and we all saw bronze fiery lights in the sky.  She wasn’t surprised, she said she saw UFO’s all the time out there.  We stood there and watched the lights move around in different formations, usually in a line.  They were beautiful and looked like they were dancing gracefully at one point. They moved very slow sometimes.  Accelerated very quickly.  At one point some of them moved so far across the sky I knew I was looking at something I have never ever seen before, no plane or helicopter can move so quickly.  They also slightly changed color from bronze to white.  They were so far away we couldn’t truly see what they were, just balls of fire like stars that had come alive.  Eventually they all took off, one by one, very quickly, and disappeared .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157334.html](http://www.nuforc.org/webreports/reports/157/S157334.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
