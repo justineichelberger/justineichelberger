@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:26 on 14 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:34 on 14 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Baltimore (MD) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Early Morning - Early Morning minutes.</sub><blockquote><sub>Unknown Humming Sounds In Early Morning In Baltimre,MD.Also late at night which is early morning to some,from any where from 12am-4am if you listen you can hear humming sounds. It then gets louder,and have no clue the sound is comming from? It is not from a train,truck,nor ship. I lived in the city all my life,and it is unknown where this very early morning humming sound is comming from? And it is driving me nuts. I asked a buddy who works at the CMT,and he said he hears it to,and drives him crazy too. If its flashing lights I rarly see,its every morning humming sounds. Hum hum hum hum humm humm humm hummm hummm,etc.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44400.html](http://www.nuforc.org/webreports/reports/044/S44400.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Edison (NJ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO seen in Edison NJ USA up closeIt was on the night of Friday 13th June 2008. I had just gone outside for a walk (sometimes I do this but never ever had I seen something like this before). We live in a town house complex. I saw a disk shaped object black in color with 3 sets of lights, two on top, two on the bottom and two on the back or side. Lights were yellow and red and they were flickering. It was surprisingly very close to me and so it appeared to be humongous. It looked like it wanted to land and the entire object looked like it was coming down at an angle of approximately 45 degrees and it then would change its angle of dip until it was horizontal(in a very hi-tech manner). It then would wiz I.e. move fast and makes abrupt stops. I thought it was going to land somewhere near by and I continued to pursue it. I was very scared. I did see a few cars on the road. But I have no idea if they spotted the same thing. I also must mention that I saw an airplane above it and it was quite far away in the sky as opposed to this object I saw. I can say that this UFO I saw was approximately the length of maybe 3-4 airplanes (nose to tail) and maybe the height of 1(i.e. distance from nose to tail again).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64023.html](http://www.nuforc.org/webreports/reports/064/S64023.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
