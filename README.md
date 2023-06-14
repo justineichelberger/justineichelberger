@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:31 on 14 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:28 on 14 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Greenfield (IL) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Irregular shape with twinkling lights.I walked to my backyard and in the sky to the west I saw what looked like a bunch of twinkling christmas lights in a sort of v pattern. The lights blinked one at a time in a racing pace. There was no pattern to the blinking. There was no sound from this object. After watching it for about 5 minutes I noticed an airplane coming past it from the south-there was no similarity. I watched it for about 15 minutes(until I could no longer see it). Actually, I couldn't really tell if it was a v. The lights were spaced in an irregular formation. I would say that the space between these lights were probably 1/3 of the size of the moon, and there were many lights. Since the pattern of the blinking was so irregular, it was hard for me to figure out the shape-I do know that it was not in the shape of an airplane, helicopter, or blimp. When I first noticed it I was approximately a half mile from it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13109.html](http://www.nuforc.org/webreports/reports/013/S13109.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Irvine (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately current - current minutes.</sub><blockquote><sub>circular distorted shape   please look!I was scrolling through google maps in the area of saddleback mountains, orange county california for a bike trail.  I was following the trail on my screen when what i thought i saw was first a triangle,  It was very eiry feeling   even thinking of what i saw is giving goose bumps.  After scolling in as far as i could i could tell that the image was circulare and distorting the satellite imagery.  I have looked at thousands of mile of map and have never seen this before.  AND the image is still there!   i took a screen shot just incase SOME ELSE finds this.I ride mountain bike all over the clevleand national forest. I am also a student in Networking and Communcation with a proud 3.7 gpa((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75792.html](http://www.nuforc.org/webreports/reports/075/S75792.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
