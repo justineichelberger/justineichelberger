@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:35 on 14 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:27 on 14 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Racine (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Five Orange Lights Flying North Over Racine Wisconsin by Lake MichiganI had an interesting sighting last night, Saturday June 14, 2014, at 10:15 pm.  I am on the north side of Racine, WI, very close to Lake Michigan.  My husband and I saw two orange lights traveling across the western sky from south to north.  They were positioned one on top of the other.  They were at the top of the tree level.   No sooner had they crossed behind a tree, another orange light approached from the south.  This happened 2 more times for a total of 5 orange lights, slow moving south to north, until they appeared on the other side of the tree, then they turned northwest.There was no sound, nor any blinking lights or strobes.  We waited for more, but saw nothing else.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110257.html](http://www.nuforc.org/webreports/reports/110/S110257.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Flint (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>My daughter and I were on our way home from Genesee Valley Mall.   We were at a red light on the corner of Linden & Beecher Rd.  I looked up in the sky and coming from the south eash and heading north west was a HUGE fireball looking things going through the sky.  It changed colors a couple time, but was mostly a aqua greenish blue color.  The sky was clear, except for the path of this fireball.  It seemed to be traveling behind the only clouds in the sky and shortly after it went out of sight, the clouds faded away as well.  The object kind of looked like a roman candle, but it wasn't going vertical, it was going horizontal and it was descending as it went across the sky.  No way was it a firework.  It was also about 2" in diameter as it went across the sky.  I mean it was LARGE.  No firework could have done this unless someone fired it from a helicopter over 10k feet and even then.... it would be so small like a spec.  This was huge!  My first time eve! r seeing anything like this.  It is something I will always remember it for as long as I live.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89622.html](http://www.nuforc.org/webreports/reports/089/S89622.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
