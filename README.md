@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:28 on 14 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:20 on 14 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Edison (NJ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO seen in Edison NJ USA up closeIt was on the night of Friday 13th June 2008. I had just gone outside for a walk (sometimes I do this but never ever had I seen something like this before). We live in a town house complex. I saw a disk shaped object black in color with 3 sets of lights, two on top, two on the bottom and two on the back or side. Lights were yellow and red and they were flickering. It was surprisingly very close to me and so it appeared to be humongous. It looked like it wanted to land and the entire object looked like it was coming down at an angle of approximately 45 degrees and it then would change its angle of dip until it was horizontal(in a very hi-tech manner). It then would wiz I.e. move fast and makes abrupt stops. I thought it was going to land somewhere near by and I continued to pursue it. I was very scared. I did see a few cars on the road. But I have no idea if they spotted the same thing. I also must mention that I saw an airplane above it and it was quite far away in the sky as opposed to this object I saw. I can say that this UFO I saw was approximately the length of maybe 3-4 airplanes (nose to tail) and maybe the height of 1(i.e. distance from nose to tail again).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64023.html](http://www.nuforc.org/webreports/reports/064/S64023.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1967, an anonymous witness in Thomasville (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>2 young men see strange barbell ufo in clear blue dauytime sky at low level.while walking down short dirt road behind a schoolhouse nw thomasville the sky was clear and blue light wind we saw at apx 500 to 100 feet up at 45 degree angel a barbell shaped object and followed by a round ball object shiney netal  no opening no sound no exhaust nothing mounted anywhere on objects no smell no lights did not drop anything level flight path going west to east slower than small prop plan barbell sige og 60s era jet ball about half that size we watched it go a short distance and when it got to a certain point in the sky it disappeared no flash no blink one second there the next nopt there  ball did th same thing at the same point sky we were standing there talking about and with in a few mins ths sky filled up with us air force jets criss crossing the sky at diff levels apx 10 jets opne was a radar plane  one jet flew same path as object hit same point in sky(we lined it up with small tree limbs) but it did not disappear  the pilots had to see us on the ground. my friend was 19 not working i was 21 and with 20 20 vision working as ast manger of service station i would go on to get an fcc broadcasting lic ense speding 35 years in radio as newsman and program director. my friend and i are still friends to this day and wee had formed in 1966 the ufo bureau of ga(rtill going)to investigate research and collect all types of paranormal subjects but mostly ufos bigfoot ghost cattle mutilations and crop circles.end</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60254.html](http://www.nuforc.org/webreports/reports/060/S60254.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
