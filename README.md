@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:29 on 13 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:39 on 14 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Bellevue (NE) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>It was a white and green sphere almost like a giant ball. I think it was 8 feet tall and  8 feet wide but im not sure. It was outside and pretty high up in the sky but not too high. It made a weird crinkling noise like plastic being crumpled up. It just sat there and didnt move but right before it left it made a pop sound and went away so fast you could  barely see it leave.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163691.html](http://www.nuforc.org/webreports/reports/163/S163691.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Albany (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I must be goin crazy but i  wasnt someone else saw it too.Me and my cousin were walking down the hill near our houses on a dirt road, now i like to look at the sky when there is not a cloud in it. I look up and i see five stars in a hatchet shape like this.* * *          * * Well i had never seen any constalation like that before. I said "dude look at the stars over there, dont that look weird." And i showed him where they were. He says to me " yeah so there stars, and your piont." Well as we were walking i just kept staring at them then just as i was going to look away they started to move, slow at first but then faster, alot faster then a satilight which is what i thought it was but for 1 they dont bunch up like that, and 2 they dont go that fast. I stoped dead in my tracks and said "DUDE LOOK, DO YOU SEE THEM?" he looked up and saw the same thing i did( I had him explain what he saw just in case I  or he would think i was crazy). It was the weirdest thing iv ever seen. Well he did not care at all what was happening so he said "lets go" we were on our way to a friends house like 500 hundred feet away from where we saw it.as we got on to the porch i thought i would look again. well i found where they were all right back the way they were. But i! saw them split up and go the oppasite direction from each other. This is no lie I would steak my life on it.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26581.html](http://www.nuforc.org/webreports/reports/026/S26581.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163691.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163705.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163787.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163689.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163688.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
