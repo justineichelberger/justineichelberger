@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:28 on 14 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:31 on 14 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Stars that formed an equilateral triangle that disappeared simultaneously.While watching an outside Shakespeare play in St. Louis, Missouri, my attention was mostly on the play until I glanced up and took notice of the equilateral triangle of stars.  I saw three stars geometrically in line they formed an equilateral triangle.  At first, I thought that they were just stars, but then I noticed how equal the lines were.  So I started watching them instead of the play, just for a about 4 minutes.  Then they all disappeared right before my eyes, simultaneous all at the same time.  I thought that maybe there was a cloud.  So I waited to see if they would reappear, they did not.  And the sky was pretty clear, with some wind and a few clouds.I know that in the constellations there are Summer and Winter star triangles.  I told my husband and he said that it was the Summer Triangle.  Why would they all disappear at the same time and not return.  I looked for them later and did not see them again.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110245.html](http://www.nuforc.org/webreports/reports/110/S110245.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Corinth (MS) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Still occurring - Still occurring minutes.</sub><blockquote><sub>Unknown flying object over Corinth.My friend and I were watching the International Space Station pass over Corinth at 8:34 p.m.Shortly thereafter, we noticed another star like object in the sky overhead.  It continued for some time after the ISS had completely moved out of viewing.  At first we thought it might be a star, but it was moving in sweeping circular motions, then darting around eradically, speeding up and then showing down.  When it was not moving, it seemed to be stationary in one spot.  It was too far off to see the shape or size, but it was as bright as Jupiter to the south.  The GPS coordinates were approximately 34 degrees, 57', 39 " N and 88 degrees, 39', 6" W.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134584.html](http://www.nuforc.org/webreports/reports/134/S134584.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
