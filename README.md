@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:24 on 15 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:23 on 15 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1985, an anonymous witness in Seward (AK) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>While traveling from Anchorage to Seward, Alaska, a "typical" flying saucer whizzed directly over my Chevy Blazer coming from the other direction. I was only able to view it for a few seconds. It wasn't dark at 2:00AM because at that latitude it doesn't get dark in mid-June. Still, it was dusky and overcast so the true color of the craft was hard to determine. It appeared dull gray to me and there were no lights. Even though I had both windows down, I couldn't hear any sound coming from the craft. No engine noise whatsoever. I estimate its speed at roughly 400 mph and its elevation at around 1000 feet, possibly lower. The object wasn't huge, roughly 75 feet in diameter. Seward is south of Anchorage so the craft would have been heading north. I am coming forward with this now because Peter Davenport indicated on the rdaio that all sightings are relevant, no matter how dated.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36342.html](http://www.nuforc.org/webreports/reports/036/S36342.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Wheeling (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Flashing white light, brighter then stars, very high in sky, shined a light kind of like helicopter but way to high in the sky for a pli was outside my wheeling il home and it was about 3 am and all of a sudden there is this bright light, as bright as the brightest star or brighter. i said wow, that is bright, and then it moved where i shifted my head 20 degrees to see it. i thought is that a helicopter? but it was way way up there! i waited a few seconds and it flashed again. there was no pattern to the flying, kind of in 4 different places in seconds. about 1o minutes after this happened i said i will go inside now and then i saw this flash of light again. this time it was behind me and i had to spin around to see it. it was also red this time, not as big..maybe half as big as the other one. and it did they same kind of flash a few times and move her kind of thing.my first time seeing something like this, that i was like, what just happened?((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  The times indicated are ambiguous and confused.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89592.html](http://www.nuforc.org/webreports/reports/089/S89592.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
