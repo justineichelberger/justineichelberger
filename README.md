@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:30 on 15 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:30 on 15 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1968, an anonymous witness in Mariposa (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>the red lights shined into the back of the car.. just like the police have.i was 18  at the time and me and three friends were just leaving the town of mariposa after we just bought some beer and we were going to a party about 10miles out side of town...we got about 2miles out and going up this hill....and there were no other cars on the road....and it was dark..when all of a sudden ...these bright red lights shined threw the back window of the car...we turned to look at them..but they were so bright and close i couldnt see what was behind them...we thought for sure it was the local police and we were busted for being under age with beer..so the driver pulled over and stopped on the side of the road..and the red  lights stopped behind us...so we sat there waiting for the police to come up to the car for about 5 mins...i was in the back seat and i told the other 3 guys that i,m going to get out and see what was going..so i did..when i got out and looked behind us..the red lights were not behind us...but on a hill a 100 feet up ..from our left side..and when they saw me they started moveing towards us...everybody got out and saw them to...when it got about 200 feet up and to the left..we saw that it was 5 red lights ..4 and 1 in middle about 30 feet apart from each going slow above the trees with no sound..in between the lights and around them it was black and i could see the stars...we couldnt see how they were connected together ..becaused they moved together...as we were  looking at them they dimmed down from a bright red to a light pink..and went out or dissapeared....and then nothing but a black sky and stars. all 4 of us saw that...and we hadnt even started drinking yet..what ever it was we know it was real....((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87708.html](http://www.nuforc.org/webreports/reports/087/S87708.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Chapel Hill (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large disc shaped UFO just over our house, no sound. 3  red lights in a triangle underneath. It was huge.It was midnight and me and my sis were watching tv.  As i got up to get a drink I noticed a light in the sky as i stepped closer to the window i noticed 3 red lights in a triangle and as my eyes ajusted I began to see the outline of the object, a circle.  Me and my sis hollered at my brother to come see the UFO. We opened the sliding glass door to the right to go out to listen.  There was no sound.  The object was right above our trees in the front yard.  We expect the object was very close to the size of a football field. It slowly moved away revealing it was a disc shaped UFO with a line of lights around the whole ship. I would guess it was moving about 1-5 mph.  Our parents were sleeping at the time by the time we woke them it was so far away it could have been a airplane to them.  But for me and my siblings it was the closest encounter we have ever had.  I will always look to the sky...hoping this time i have a camera.  Note: This happened sometime in the summer of 96. Not sure of the month or day.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76159.html](http://www.nuforc.org/webreports/reports/076/S76159.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
