@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:06 on 15 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:24 on 15 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Groningen (Winschoten - Groningen Highway) (Netherlands) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>My sister was driving with four people to home(it was morning). Than they saw that something was following them a whole time in the sky. First they thought it was the moon, but one of them say "it can be, because the moon is over there". Than they saw all those colors of the object and it was hiding in the clouds evrytime there was a car in there nearby. And after 15 minutes they saw how the object slowly flyed away. And It was flying upwards into space. And i believe my sister because she was scared for a week after this experience. She has draw the object for me.You must talk to my sister!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04253.html](http://www.nuforc.org/webreports/reports/004/S04253.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1985, an anonymous witness in Seward (AK) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>While traveling from Anchorage to Seward, Alaska, a "typical" flying saucer whizzed directly over my Chevy Blazer coming from the other direction. I was only able to view it for a few seconds. It wasn't dark at 2:00AM because at that latitude it doesn't get dark in mid-June. Still, it was dusky and overcast so the true color of the craft was hard to determine. It appeared dull gray to me and there were no lights. Even though I had both windows down, I couldn't hear any sound coming from the craft. No engine noise whatsoever. I estimate its speed at roughly 400 mph and its elevation at around 1000 feet, possibly lower. The object wasn't huge, roughly 75 feet in diameter. Seward is south of Anchorage so the craft would have been heading north. I am coming forward with this now because Peter Davenport indicated on the rdaio that all sightings are relevant, no matter how dated.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36342.html](http://www.nuforc.org/webreports/reports/036/S36342.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
