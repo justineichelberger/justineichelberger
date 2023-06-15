@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:35 on 15 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:54 on 15 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Noblesville (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>DRIVING SOUTH ON ST. RD, 213 MY FRIEND SPOTTED a BRIGHT SHINNING METALIC CIRCULAR OBJECT ,SHE ASKED IF I HAD SEEN IT . I SAID NO THEN A FEW SECONDS LATER WE BOTH SAW IT SEVERAL MORE TIMES ,IT WAS IF YOU COULD ONLY SEE IT WHEN IT WAS TURNING. THERE WAS OTHER AIR CRAFT WE COULD SEE FLYING AROUND, NONE OF WITCH WERE APPEARING AND DISAPPEARING.THEN WE LEFT THE HIGH POINT WHERE WE COULD VIEW MILES OF SKY THEN WE NEVER SAW IT AGAIN.IT WAS FAIRLY SMALL, LIKE MAYBE THE SIZE OF A PERSONAL AIRCRAFT. SHINNEY SILVER METALIC CIRCULAR ,DIDN'T REALLY FIT ANY DESCRIPTION I HAVE EVER READ OR HEARD ABOUT. bUT IT WAS A VERY BRIGHT SUNNY DAY VERY CLEAR NOT A CLOUD IN THE SKY LIKE SAID WE COULD SEE SOME PLANES COMMING IN AND GOING OUT OF THE FISHERS AIRPORT ,APROXIMATLY 10 MILES AWAY, WHAT WE SAW WAS MUCH CLOSER THAN THAT . WE COULD ALSO SEE SEVERAL OTHER PLANES WITHIN A TEN MILE RANGE, I NOTICED. WHAT WE SAW DISAPPEARED BEFORE OUR EYES</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11941.html](http://www.nuforc.org/webreports/reports/011/S11941.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Carrollton (IL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange Strobing light in the Southern SkyOn this Thursday night my wife and I were sitting outside a bit after 9 p.m. and both of us noticed a strobing light in the sky. This was not lightning, at least like none I have ever seen. There were only a few thin wisps of cloud in the sky; stars were plainly visible. This was a clear night. The light pulsated approximately every 10 seconds and appeared to be rectangular -- standing on end. The flash happened quickly and last approximately 10 minutes. It seemed to change location slightly from flash to flash. I held my hand out and it appeared to be about an inch long when I spread my fingers. It was in the southern sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50977.html](http://www.nuforc.org/webreports/reports/050/S50977.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
