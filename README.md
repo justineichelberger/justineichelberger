@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:34 on 14 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:35 on 15 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Edison (NJ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO seen in Edison NJ USA up closeIt was on the night of Friday 13th June 2008. I had just gone outside for a walk (sometimes I do this but never ever had I seen something like this before). We live in a town house complex. I saw a disk shaped object black in color with 3 sets of lights, two on top, two on the bottom and two on the back or side. Lights were yellow and red and they were flickering. It was surprisingly very close to me and so it appeared to be humongous. It looked like it wanted to land and the entire object looked like it was coming down at an angle of approximately 45 degrees and it then would change its angle of dip until it was horizontal(in a very hi-tech manner). It then would wiz I.e. move fast and makes abrupt stops. I thought it was going to land somewhere near by and I continued to pursue it. I was very scared. I did see a few cars on the road. But I have no idea if they spotted the same thing. I also must mention that I saw an airplane above it and it was quite far away in the sky as opposed to this object I saw. I can say that this UFO I saw was approximately the length of maybe 3-4 airplanes (nose to tail) and maybe the height of 1(i.e. distance from nose to tail again).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64023.html](http://www.nuforc.org/webreports/reports/064/S64023.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Noblesville (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>DRIVING SOUTH ON ST. RD, 213 MY FRIEND SPOTTED a BRIGHT SHINNING METALIC CIRCULAR OBJECT ,SHE ASKED IF I HAD SEEN IT . I SAID NO THEN A FEW SECONDS LATER WE BOTH SAW IT SEVERAL MORE TIMES ,IT WAS IF YOU COULD ONLY SEE IT WHEN IT WAS TURNING. THERE WAS OTHER AIR CRAFT WE COULD SEE FLYING AROUND, NONE OF WITCH WERE APPEARING AND DISAPPEARING.THEN WE LEFT THE HIGH POINT WHERE WE COULD VIEW MILES OF SKY THEN WE NEVER SAW IT AGAIN.IT WAS FAIRLY SMALL, LIKE MAYBE THE SIZE OF A PERSONAL AIRCRAFT. SHINNEY SILVER METALIC CIRCULAR ,DIDN'T REALLY FIT ANY DESCRIPTION I HAVE EVER READ OR HEARD ABOUT. bUT IT WAS A VERY BRIGHT SUNNY DAY VERY CLEAR NOT A CLOUD IN THE SKY LIKE SAID WE COULD SEE SOME PLANES COMMING IN AND GOING OUT OF THE FISHERS AIRPORT ,APROXIMATLY 10 MILES AWAY, WHAT WE SAW WAS MUCH CLOSER THAN THAT . WE COULD ALSO SEE SEVERAL OTHER PLANES WITHIN A TEN MILE RANGE, I NOTICED. WHAT WE SAW DISAPPEARED BEFORE OUR EYES</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11941.html](http://www.nuforc.org/webreports/reports/011/S11941.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/163/S163704.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163708.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164117.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163956.html)
-- [347](http://www.nuforc.org/webreports/reports/157/S157633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
