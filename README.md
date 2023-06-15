@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:54 on 15 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:20:16 on 15 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Carrollton (IL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange Strobing light in the Southern SkyOn this Thursday night my wife and I were sitting outside a bit after 9 p.m. and both of us noticed a strobing light in the sky. This was not lightning, at least like none I have ever seen. There were only a few thin wisps of cloud in the sky; stars were plainly visible. This was a clear night. The light pulsated approximately every 10 seconds and appeared to be rectangular -- standing on end. The flash happened quickly and last approximately 10 minutes. It seemed to change location slightly from flash to flash. I held my hand out and it appeared to be about an inch long when I spread my fingers. It was in the southern sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50977.html](http://www.nuforc.org/webreports/reports/050/S50977.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Pflugerville (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>I had just watched the shuttle and space station cross over from nw to se.Then about 2 mins after a twice as large sta5r looking thing went north to south just as fast. It was too hogh for a plane and had no blinking lights. However, when it got south its light faded out as though it had one big white kight on the bottom. Soon after another one went by just as high and fast. I have no idea what they were. I have never seen such a thing. Mabey the are friends.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23318.html](http://www.nuforc.org/webreports/reports/023/S23318.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
