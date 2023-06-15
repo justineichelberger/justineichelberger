@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:20:16 on 15 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:25 on 15 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Pflugerville (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>I had just watched the shuttle and space station cross over from nw to se.Then about 2 mins after a twice as large sta5r looking thing went north to south just as fast. It was too hogh for a plane and had no blinking lights. However, when it got south its light faded out as though it had one big white kight on the bottom. Soon after another one went by just as high and fast. I have no idea what they were. I have never seen such a thing. Mabey the are friends.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23318.html](http://www.nuforc.org/webreports/reports/023/S23318.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1982, an anonymous witness in Issaquah (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately a while (?) - a while (?) minutes.</sub><blockquote><sub>I was five years old. I was sleeping on the couch in the living room with my mother.  I woke up late at night, stood up in the room, and saw a bluish silvery object cross the sky through our front window.  It looked like a smallish teacup resting upside down on top of two saucers resting face to face I do not remember anything but watching it cross the sky from left to right.  It took a medium amount of time to cross the sky line but I get the feeling I watched it longer than that somehow.  It remains one of my clearest memories from my childhood. I have a very good memory but this one is extra sharp!((NUFORC Note:  The witness indicates no date for the incident.  We have assigned an arbitrary date and time until we can obtain an estimated date.  We do not know how old the witness is, so we can only estimate the date from the nature of her profession.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22332.html](http://www.nuforc.org/webreports/reports/022/S22332.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
