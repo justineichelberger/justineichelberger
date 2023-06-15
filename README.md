@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:23 on 15 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:25 on 15 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1986, an anonymous witness in Fairdale (WV) reported seeing craft that fit the description of some '' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>very bright changing color lights coming from windowthis happened to me when i was a small child i was five years old i was lying in bed with my sister who was asleep and my parents were asleep also in a diferent room when suddenly and with no warning an extremely  bright light blasted through my bedroom window i think the first color may have been a white light and after about 5-10 seconds the colors would change i remember red blue white and yellow  and it made a strange sound when the colors changed. ironicly i would compare the sound to the sound you hear on the movie predator when your seeing in the predators vision. it lasted for about a minute then it just stoped and everything was calm and quiet again.after about 20 minutes after it happened i gained the nerve to wake my sister up and told her what had happened and asked her if she seen what happened but she didnt .i told my parents the next day and they told me i was dreaming and didnt believe me.i didnt see any craft or any beings or have any missing time it seemed seamless. i dont know if i was parylized or just too scared to move i probably would have hyperventilated but i was too scared to breath.there is only a mountain covered with trees looking out of that window about 75-100 yards away.i cant seem to think of anything else that this could have been besides a ufo.((NUFORC Note:  Source remains anonymous.  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22096.html](http://www.nuforc.org/webreports/reports/022/S22096.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Beaver Creek (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Craft appears from over the top of house and stops over yard as kids are looking out the window at bed time.in 1976 when i was 6 and my sister was 7 we lived in beavercreek, about 20 minutes from downtown portland.  it was about 10 pm, my sister and i were looking out of our bedroom window into our backyard, as we had done many times before to try to avoid going to sleep.  a classic shaped fly sauce ( two inverted pie plates) skimmed over the top of our house until it made a dead hault  directly in the center of our back yard.  we lived with woods all around us, but there was a clearing between our house and where the trees began.  it just came to a dead stop about 20 feet off of the ground at the most.  we had a one story home, and it barely cleared the top of our roof as it came in to view.  the odd thing was is that as close as it was to us it made no noise whatsoever.  none.... it was the most eary feeling i have ever experienced in my life.  the experience haunts me to this day.  my sister and i just looked up at it almost in a trance like state, until about a minute later it slowly began to move away.  i know it sounds crazy but i know whatever was in that craft was looking back down at us as we were loooking up at it.  the bottom of the ufo gave off a faint illuminescent light.  the craft looked shiny light grey.  no one will or can ever make me doubt that what i saw was not from this world.((NUFORC Note:  We assume the date is approximate.  Witness is anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18891.html](http://www.nuforc.org/webreports/reports/018/S18891.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
