@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:28 on 15 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:44 on 15 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in East Wenatchee (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Two triangle shaped green and pink craft seen flying in a mist from east to westTwo Crafts were seen flying from East To West over Douglas County Wa. While a family was laying out in their backyard. The objects were flying in military type order, side by side, with one slighty ahead of the other. The colors were green and slightly off red(pinkish). The colors were off because they looked like a mist or fog was moving with them covering each up. The speed of these crafts flying over must of been fast(between 3-5 seconds). Father estimated them at at between 1000-1500 mph(comparing them with jets that usually fly over from Seattle). The heighth of these objects was hard to estimate but we could tell they were below the stars out because it was perfectly clear out. The size of these crafts was estimated at being larger than a football field.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29348.html](http://www.nuforc.org/webreports/reports/029/S29348.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1967, an anonymous witness in Savannah (GA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Five orange glowing spheres together in a line above the treetops.Many years have gone by, it could have been 1966,67 or 68. But the details I will never forget. When you see something so unusual, it stays with you. When I was a teenager, my friend and I were out in the evening when we noticed low in the sky about 20-30 degrees above the horizon,a set of five orange glowing spheres or circular shapes. It was more like a glow than a bright light, but with dstinct round edges, not fuzzy. The spheres were in a line, with the edges touching each other, so as to form one object. The center sphere was the largest, about half the size of a full moon. The next adjacent two were smaller, and the outer two were the smallest, about half the size of the center sphere. We stood there for a few minutes staring at it in amazement. There were no sounds, movement, blinking or rays of light coming from it. Just completely still and glowing orange.  My house was at the edge of a subdivision, and the direction was east over a wooded undeveloped area.  It was very dark, so there were no street lights or ground lights to confuse it with something else.  The spheres were much bigger than any aircraft lights. We ran down the street to get another friend to come out and see it, but a few minutes later it was gone. A few days later, as I recall, there was a short newspaper article that various people in Savannah had seen orange glowing lights in the night sky.  I assume it was the same object that we had seen.  Whoever they interviewed explained that it was migrating ducks flying in a "v" formation and their bellies glowed orange from reflected light. Yeah, right! Duck bellies are not perfectly round and are extremely tiny in the sky! I have never seen anything like that since.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29419.html](http://www.nuforc.org/webreports/reports/029/S29419.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
