@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:30 on 15 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:06 on 15 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Chapel Hill (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large disc shaped UFO just over our house, no sound. 3  red lights in a triangle underneath. It was huge.It was midnight and me and my sis were watching tv.  As i got up to get a drink I noticed a light in the sky as i stepped closer to the window i noticed 3 red lights in a triangle and as my eyes ajusted I began to see the outline of the object, a circle.  Me and my sis hollered at my brother to come see the UFO. We opened the sliding glass door to the right to go out to listen.  There was no sound.  The object was right above our trees in the front yard.  We expect the object was very close to the size of a football field. It slowly moved away revealing it was a disc shaped UFO with a line of lights around the whole ship. I would guess it was moving about 1-5 mph.  Our parents were sleeping at the time by the time we woke them it was so far away it could have been a airplane to them.  But for me and my siblings it was the closest encounter we have ever had.  I will always look to the sky...hoping this time i have a camera.  Note: This happened sometime in the summer of 96. Not sure of the month or day.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76159.html](http://www.nuforc.org/webreports/reports/076/S76159.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Groningen (Winschoten - Groningen Highway) (Netherlands) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>My sister was driving with four people to home(it was morning). Than they saw that something was following them a whole time in the sky. First they thought it was the moon, but one of them say "it can be, because the moon is over there". Than they saw all those colors of the object and it was hiding in the clouds evrytime there was a car in there nearby. And after 15 minutes they saw how the object slowly flyed away. And It was flying upwards into space. And i believe my sister because she was scared for a week after this experience. She has draw the object for me.You must talk to my sister!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04253.html](http://www.nuforc.org/webreports/reports/004/S04253.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
