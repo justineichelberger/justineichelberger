@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:25 on 15 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:22 on 15 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Beaver Creek (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Craft appears from over the top of house and stops over yard as kids are looking out the window at bed time.in 1976 when i was 6 and my sister was 7 we lived in beavercreek, about 20 minutes from downtown portland.  it was about 10 pm, my sister and i were looking out of our bedroom window into our backyard, as we had done many times before to try to avoid going to sleep.  a classic shaped fly sauce ( two inverted pie plates) skimmed over the top of our house until it made a dead hault  directly in the center of our back yard.  we lived with woods all around us, but there was a clearing between our house and where the trees began.  it just came to a dead stop about 20 feet off of the ground at the most.  we had a one story home, and it barely cleared the top of our roof as it came in to view.  the odd thing was is that as close as it was to us it made no noise whatsoever.  none.... it was the most eary feeling i have ever experienced in my life.  the experience haunts me to this day.  my sister and i just looked up at it almost in a trance like state, until about a minute later it slowly began to move away.  i know it sounds crazy but i know whatever was in that craft was looking back down at us as we were loooking up at it.  the bottom of the ufo gave off a faint illuminescent light.  the craft looked shiny light grey.  no one will or can ever make me doubt that what i saw was not from this world.((NUFORC Note:  We assume the date is approximate.  Witness is anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18891.html](http://www.nuforc.org/webreports/reports/018/S18891.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Bryan (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>observed light above normal airways moving at a high rate of speed seemed to be swerving. watched it until could not see anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03900.html](http://www.nuforc.org/webreports/reports/003/S03900.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1278](http://www.nuforc.org/webreports/reports/163/S163748.html)
-- [1277](http://www.nuforc.org/webreports/reports/163/S163712.html)
-- [1276](http://www.nuforc.org/webreports/reports/163/S163721.html)
-- [1275](http://www.nuforc.org/webreports/reports/163/S163718.html)
-- [1274](http://www.nuforc.org/webreports/reports/163/S163785.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
