@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:42 on 16 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:22 on 16 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Fayetteville (AR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Close encounter at Mt Sequoyah cross Fayetteville ArkansasAt Mt Sequoyah Cross in a near by sitting park, with a friend conversing while stargazing. I noticed a trail of lights (this trail of lights had to be at least two football fields in length) moving silently, slowly gliding over Tree line. Once my friend and I started questioning what this object was, this trail of lights moved even slower (as if it was checking us out).My friend started videoing while I took photos of what we seen. My friend’s video was being “jammed” fuzzy black and gray showed on his phone until he mentioned out loud “I see the body” two orbs shot out towards us and revealed a face. Right after this object was no longer in sight, birds started chirping aggressively.This whole event lasted about 4 minutes from beginning to end. A mysterious magical moment indeed!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157128.html](http://www.nuforc.org/webreports/reports/157/S157128.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in New York City (Bronx) (NY) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A white teardrop looking object shot through the night sky lasting about 5 seconds. It appeared suddenly and flew by quickly. Must have been 200-300 ft off the ground.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157054.html](http://www.nuforc.org/webreports/reports/157/S157054.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
