@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:27 on 16 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:32 on 16 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Streetsboro (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO near Streetsboro, OH with loud explosionWas taking my dog for a walk before bed around 9:30pm and noticed three bright lights in the sky hovering. They eventually turned into 1 bright light. To my naked eye it looked like the light was rotating. About 2 minutes later another UFO showed up, and looked like it was being chased by a fighter jet. Then there was an extremely loud explosion that shook the ground and which I felt. Not sure if it was from the jet hitting the sound barrier or what. But both ufo I witnessed had NO SOUND. All of this is recorded on video, and I’ll upload to YouTube eventually</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163968.html](http://www.nuforc.org/webreports/reports/163/S163968.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bridgewater (PA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large cluster of very bright white lights floating at steady pace.I went to take the dog out for the night before the start of a coming storm and saw about 50 bright white lights clustered in a long formation.  As I called for my 20 yr old daughter to come out my neighbors were both watching it.  No noise and all seemed to float at a steady fast pace in the same direction.  During the 5 mins we watched the brightness never changed and the pace stayed steady.  I told my daughter to video it with her phone.  I had considered weather balloons since we were just getting the start of a thunder/lighting storm, but there were too many to be weather balloons.  My neighbor said there was a Relay for Life at the park 1 mile from the house so I thought maybe Chinese lanterns, but their website had the event only on Sat 17 to Sun 19.  No activities tonight, plus again we had an approaching storm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127900.html](http://www.nuforc.org/webreports/reports/127/S127900.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
