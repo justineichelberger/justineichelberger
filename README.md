@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:23 on 16 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:26 on 16 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Siesta Key (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange fire balls flying in the night sky on siesta keyAble to see these flying fireballs coming from public beach direction, flying south and then curving west out over the ocean and then dissipating to nothing.  They were flying in a consecutive path (one right after the other or soon after the other, twice there was a break in the pattern). It was called into the sheriff office and no other citings had been reported.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89633.html](http://www.nuforc.org/webreports/reports/089/S89633.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Sun City (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Fireball and something "falling" from it viewed over Sun City California, June 16, 2008My stepfather and I (age 35) were standing in the driveway of his home in Sun City California. I was getting my luggage out of the car and he was smoking a cigarette when he called me by name and told me to "look at that". I looked up towards the north and high up in the sky we observed what appeared to be a "glowing" orange-red-yellow ball. The hue changed between the three colors almost similar to a fire. As we watched the "ball" it remained stationary and something (?) appeared to fall straight down from it (also the same fire-like) color. It dissipated before it hit the ground. meanwhile the stationary fireball gradually faded over the course of about a minute until it was completely gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63926.html](http://www.nuforc.org/webreports/reports/063/S63926.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
