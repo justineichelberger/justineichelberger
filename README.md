@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:26 on 16 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:22 on 16 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Sun City (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Fireball and something "falling" from it viewed over Sun City California, June 16, 2008My stepfather and I (age 35) were standing in the driveway of his home in Sun City California. I was getting my luggage out of the car and he was smoking a cigarette when he called me by name and told me to "look at that". I looked up towards the north and high up in the sky we observed what appeared to be a "glowing" orange-red-yellow ball. The hue changed between the three colors almost similar to a fire. As we watched the "ball" it remained stationary and something (?) appeared to fall straight down from it (also the same fire-like) color. It dissipated before it hit the ground. meanwhile the stationary fireball gradually faded over the course of about a minute until it was completely gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63926.html](http://www.nuforc.org/webreports/reports/063/S63926.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Kew Gardens (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 150.0 - 150.0 minutes.</sub><blockquote><sub>About 12 crafts with Lights changing from yellow to red, some traveled others were more stationaryAt around 2:00 a.m. I looked out the window from 8th floor apt. Building and noticed 4 lights similar to stars forming a diamond shape, to the right I saw a brighter light they appeared stationary. I informed my husband but he doesn’t believe they are UFO’s but believes there are other life forms out there, go figure.  He saw them and found it a strange formation.I kept my sight on the brighter craft and could actually see the light changing from yellow to red, I could see it flicker and move.  I know it was very far but I kept my eyes on it.  They moved slowly, during the two and a half hours I watched them I was able to count at least 12 of them.  The diamond-shaped seemed to come together, but kept  the diamond shape while the brighter one on the right began to move in a dancing way from right to left.The other 7 were not as bright but were the most active they did the same dancing movement but traveled and disappeared from sight in moderate speed, with the exception of one that confirmed my suspicion it “zoomed” and disappeared near the brightest of them.  They all had the flickering effect and change of color from yellow to red.I no longer second guess UFO’s visiting us here on Earth I felt overwhelmed at such a sight, a bit scared and amazed that I was able to experience that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110320.html](http://www.nuforc.org/webreports/reports/110/S110320.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
