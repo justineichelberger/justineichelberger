@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:32 on 16 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 16 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bridgewater (PA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large cluster of very bright white lights floating at steady pace.I went to take the dog out for the night before the start of a coming storm and saw about 50 bright white lights clustered in a long formation.  As I called for my 20 yr old daughter to come out my neighbors were both watching it.  No noise and all seemed to float at a steady fast pace in the same direction.  During the 5 mins we watched the brightness never changed and the pace stayed steady.  I told my daughter to video it with her phone.  I had considered weather balloons since we were just getting the start of a thunder/lighting storm, but there were too many to be weather balloons.  My neighbor said there was a Relay for Life at the park 1 mile from the house so I thought maybe Chinese lanterns, but their website had the event only on Sat 17 to Sun 19.  No activities tonight, plus again we had an approaching storm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127900.html](http://www.nuforc.org/webreports/reports/127/S127900.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Anaheim (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>UFO seen flying over Disneyland during fireworks show.I was visiting California for my little sister's graduation. My family and I went to Disneyland after her graduation.  The UFO was seen in the evening at Sleeping Beauty's Castle during the end of the night fireworks show.  During the middle of the fireworks show, my family and I, along with the hundreds of people at Disney, noticed a shape approaching the castle coming from the West.  The shape became evident that it was in the shape of a saucer as it flew closer to the castle.  Hundreds of eye witnesses and myself became very quiet as it flew over us.  My best guess is it was maybe 500 ft above us as we could all see it was silver, metallic and it had a series of lights on the underside of the craft that spiraled in a counter-clockwise direction.  The craft never made a sound as it flew over us.  The flight pattern was smooth and linear.  The craft never stopped.  It continued to fly through the fireworks, over the castle and onto the horizon. I tried to video tape! it with my little digital camera; however, all you could see was the lights swirling in the counter-clockwise direction and could not quite make out the shape of the craft because it was too dark.  I remember listening to a bunch of the surrounding people whispering and asking if that was a UFO as it approached the castle.  There is no doubt in my mind that what we saw was not an airplane, helicopter or any other flying craft we typically see in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90313.html](http://www.nuforc.org/webreports/reports/090/S90313.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
