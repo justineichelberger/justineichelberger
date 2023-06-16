@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:22 on 16 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:25 on 16 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in New York City (Bronx) (NY) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A white teardrop looking object shot through the night sky lasting about 5 seconds. It appeared suddenly and flew by quickly. Must have been 200-300 ft off the ground.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157054.html](http://www.nuforc.org/webreports/reports/157/S157054.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Swindon/Didcott (UK/England) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright, static, object with tail - helicopter in possibly pursuitI was travelling home from Swindon to London on Monday evening.  The sun was setting but the sky was still blue.  Coming into to Didcott Station (1st stop from Swindon to London) my attention was drawn to a bright light in the sky.  Initially, I believed it to be the sun reflecting off a plane but noticed that the object had a very short tail (diagonally down to the right-hand side).  The tail was not long enough to be a shooting star or a high flying jet plane and the object appeared to be motionless and not streaming across the sky.  I lost track of the object soon after spotting it under cloud cover over some large chimney stacks.  I tried to take a photo of the object using my phone (5mp - pretty good) but after clicking the button repeatedly the camera would not come on.  As soon as the cloud cover came over, one click and the camera switch on.  This spooked me a little bit!  Pulling out of Didcott Station I then saw a dark coloured helicopter (not a traffic or police helicopter) fly over the train from right to left and head in the direction that I spotted the bright object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63966.html](http://www.nuforc.org/webreports/reports/063/S63966.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
