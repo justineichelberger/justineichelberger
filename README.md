@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:26 on 16 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:52 on 16 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Rapid City (SD) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Multiple Aircraft.I could not sleep, so I was sitting on my front porch, and heard a helicopter approaching at low level from the southwest and automatically assumed it was LIFE FLIGHT, our local medical transport unit, as tourist season brings more accidents.  As the aircraft got closer, I could see a large bright gold orb flying approximately 100-150 feet in front of the helicopter.  I immediately ran in to get my husband out of bed and grabbed my phone to try to record it.  As we looked up, we could also see far above the two lower aircraft in unison were two blue orbs flying and following them.  The blue orbs appeared to move both smoothly and erratically while the gold orb flew smoothly and continuously in front of the helicopter in direction toward the northeast.  We are skeptics but thought this was worth reporting as it was something we cannot explain.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127918.html](http://www.nuforc.org/webreports/reports/127/S127918.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Davis (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 white lights and 1 red seen over field in DavisAs I was driving down Pole Line past Harper Jr High, I looked out to my left and saw 3 bright white lights in a triangle form.  I thought it was a plane but it didn't have the blinking hazard lights on the ends.It had 3 white lights in a triangle formation and under the frontmost light there seemed to be a red light. It moved farther away from me over the course of a few minutes.  The movement was very smooth. As it moved away it seems like it turned almost on its side and went higher up.  Now I'm not sure if it was one triangular craft or 3 moving independently of each other.I sadly had to stop watching and drive.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89650.html](http://www.nuforc.org/webreports/reports/089/S89650.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
