@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:23 on 16 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:27 on 16 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Logan (WV) reported seeing craft that fit the description of some 'Circle' over a period of approximately big flashing circle - big flashing circle minutes.</sub><blockquote><sub>it was a big flashing circle hovering in one spot.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52034.html](http://www.nuforc.org/webreports/reports/052/S52034.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Streetsboro (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO near Streetsboro, OH with loud explosionWas taking my dog for a walk before bed around 9:30pm and noticed three bright lights in the sky hovering. They eventually turned into 1 bright light. To my naked eye it looked like the light was rotating. About 2 minutes later another UFO showed up, and looked like it was being chased by a fighter jet. Then there was an extremely loud explosion that shook the ground and which I felt. Not sure if it was from the jet hitting the sound barrier or what. But both ufo I witnessed had NO SOUND. All of this is recorded on video, and I’ll upload to YouTube eventually</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163968.html](http://www.nuforc.org/webreports/reports/163/S163968.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
