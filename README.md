@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:22 on 16 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:23 on 16 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Arlington Heights (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Black object flying toward clouds abruptly stop and then descend staight down and disappear.I was driving my car eastbound on Golf Road approaching Arlington Heights Road in the city of Arlington Heights, IL, at approximately 4:00 p.m. when I observed what I thought was a plane in the distance flying toward the clouds.  I was about to tell my kids to watch and see if they could spot it come back out of the clouds when the object stopped short of entering the cloud.  Knowing this was not possible for anything I know is currently being flown, I immediately asked my kids to look in the direction I was pointing and asked if they saw the black object in front of the cloud. Two of my 3 kids acknowledged seeing the black object.  As the traffic light changed I made a left turn and immediately pulled into a service drive to again be facing east. I still had the object in my sight as did my 13 year old daughter and 8 year old son. The object then began descending straight downward slowly and then disappeared. We stayed for a few minutes to see if it would reapp! ear but it did not.I have watched aircraft my whole life and am good at judging distance. I would say this object was miles away judging by the size and distance of the clouds. Again the object appeared to be a plane because of the smooth straight line of travel it was taking but I could not see any distinguishing shape or trait other than it being black and shaped somewhat similar to an aircraft fuselage.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98702.html](http://www.nuforc.org/webreports/reports/098/S98702.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Logan (WV) reported seeing craft that fit the description of some 'Circle' over a period of approximately big flashing circle - big flashing circle minutes.</sub><blockquote><sub>it was a big flashing circle hovering in one spot.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52034.html](http://www.nuforc.org/webreports/reports/052/S52034.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
