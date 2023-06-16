@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:25 on 16 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:31 on 16 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Swindon/Didcott (UK/England) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright, static, object with tail - helicopter in possibly pursuitI was travelling home from Swindon to London on Monday evening.  The sun was setting but the sky was still blue.  Coming into to Didcott Station (1st stop from Swindon to London) my attention was drawn to a bright light in the sky.  Initially, I believed it to be the sun reflecting off a plane but noticed that the object had a very short tail (diagonally down to the right-hand side).  The tail was not long enough to be a shooting star or a high flying jet plane and the object appeared to be motionless and not streaming across the sky.  I lost track of the object soon after spotting it under cloud cover over some large chimney stacks.  I tried to take a photo of the object using my phone (5mp - pretty good) but after clicking the button repeatedly the camera would not come on.  As soon as the cloud cover came over, one click and the camera switch on.  This spooked me a little bit!  Pulling out of Didcott Station I then saw a dark coloured helicopter (not a traffic or police helicopter) fly over the train from right to left and head in the direction that I spotted the bright object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63966.html](http://www.nuforc.org/webreports/reports/063/S63966.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Kew Gardens (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 150.0 - 150.0 minutes.</sub><blockquote><sub>About 12 crafts with Lights changing from yellow to red, some traveled others were more stationaryAt around 2:00 a.m. I looked out the window from 8th floor apt. Building and noticed 4 lights similar to stars forming a diamond shape, to the right I saw a brighter light they appeared stationary. I informed my husband but he doesn’t believe they are UFO’s but believes there are other life forms out there, go figure.  He saw them and found it a strange formation.I kept my sight on the brighter craft and could actually see the light changing from yellow to red, I could see it flicker and move.  I know it was very far but I kept my eyes on it.  They moved slowly, during the two and a half hours I watched them I was able to count at least 12 of them.  The diamond-shaped seemed to come together, but kept  the diamond shape while the brighter one on the right began to move in a dancing way from right to left.The other 7 were not as bright but were the most active they did the same dancing movement but traveled and disappeared from sight in moderate speed, with the exception of one that confirmed my suspicion it “zoomed” and disappeared near the brightest of them.  They all had the flickering effect and change of color from yellow to red.I no longer second guess UFO’s visiting us here on Earth I felt overwhelmed at such a sight, a bit scared and amazed that I was able to experience that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110320.html](http://www.nuforc.org/webreports/reports/110/S110320.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
