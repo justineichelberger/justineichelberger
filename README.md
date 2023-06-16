@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:28 on 16 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:19 on 16 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Single silent fireball disappeared in Las Vegas headed north.My husband and I were in our backyard facing south when we saw a bright orange flame-like orb fly fluidly up and head north. It was silent and proceeded north toward Sheep Mountain and seemed to just disappear from sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98687.html](http://www.nuforc.org/webreports/reports/098/S98687.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Zanesville (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright orange "fireball" seen at dusk by 2 in Zanesville, OhioMy girlfriend and I went outside at approximately 10:01 pm, on June 16, 2012.  There was still some light from the setting sun allowing a small portion of the sky to still be visible.  We live a few miles north of Zanesville, Ohio.  We heard some neighbors shooting off fireworks, so we went out to see. We looked to the west and saw one bright circular orange object moving from left to right.At first we thought it was one the rockets from the fireworks that had yet to burn itself out, mind you the fireworks had stopped going off at this point.   But it stayed lit and moved in a straight line, perfectly smooth. It appeared to be low in altitude and moved from south to north. It would estimate that it was between 30 to 45 degrees above the horizon.The object appeared to be a little bigger and brighter than Venus.  My first reaction was that this was the ISS space station, because the object seemed to match the speed and was not flickering in any way.   But we looked it up and saw that the station was over the Atlantic ocean, which means it would have been on the eastern horizon moving away from us.  I pulled out my phone and took a video of the object.  It was already halfway across the sky when we got out there. It lasted 1:30 -2 minutes tops.  As it moved farther away, it appeared to dim, and then completely disappeared, my guess is that it went behind a cloud.  But the clouds appeared to be cirrus, meaning they were quite high in altitude.I looked up the weather for our area and saw that the wind speeds were calm (less than 5mph) and SSE.  So the wind was blowing the same direction as the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89642.html](http://www.nuforc.org/webreports/reports/089/S89642.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
