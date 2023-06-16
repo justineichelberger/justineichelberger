@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:25 on 16 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:28 on 16 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>small flat black disc takes odd flightpath over my neighborhood.As my girlfriend and I were having lunch on our deck my eyes caught glance of a black object very high up, but below cloud coverage. There was a rainstorm rolling in and the black object seemed to be just beneath. As it moved closer I was thinking bird or balloon, but I noticed it keep a direct path and even speed. It stayed directly on path over my building, about 150 feet up. It was flat and round, I could see that because as it traveled it seemed to tip over, revealing how thin it was, then back to flat. Then upon passing by my building and a few more, it stopped and hovered, then turned a semi circle to the right. I freaked at this point because it was going against the wind. The object then resumed course away from me and I was at risk of loosing sight of it so I ran up to the roof to watch it. It was gone upon my arrival and I stayed for maybe 10 minutes looking for it. I returned downstairs to my deck. Upon return I looked all around and over to the right about 2 blocks down the object was back paralleled with my building and moving east bound again. Meaning, it had circled back, gotten behind me and down the street, and resumed a straight course while I was in transit from the roof. Unless it was another object. If so it was identical. Ive been watching for the past hour and have seen nothing else.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57110.html](http://www.nuforc.org/webreports/reports/057/S57110.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Single silent fireball disappeared in Las Vegas headed north.My husband and I were in our backyard facing south when we saw a bright orange flame-like orb fly fluidly up and head north. It was silent and proceeded north toward Sheep Mountain and seemed to just disappear from sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98687.html](http://www.nuforc.org/webreports/reports/098/S98687.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
