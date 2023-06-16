@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:23 on 16 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:29 on 16 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in North Chesterfield (VA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Waitress, I have more than enough on my plate presently, take that shit off my plate and bring it back into the kitchen please!I observed an object in the sky, WNW (from my front step assuming it faced true due north).  The range is very difficult to determine.  Maybe 50 miles, give or take 20 miles.  Approximately 35° above the horizon.  The object appeared to move down toward the tree line very slowly with either 3 or 4 lights for about 2-3 seconds.  Then turned left (South) at 4 times the speed for about 3-4 seconds.  At that point I got to my feet and walked towards the object only to have the neighbor's side light cause the object's lights shine without the same intensity.  Then the object turned back to the original direction at half the speed (1-2 seconds) until I lost it behind the tree line.  2 things that sparked my curiosity where how quickly the object changed direction and absolutely no sound whatsoever</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141841.html](http://www.nuforc.org/webreports/reports/141/S141841.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Ames (IA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>1 disk shape objectIt was moving slowly across the sky to the North.I blinked and looked back up and it was gone.There was no jet stream or vapors.Just the object.There was no lights,but it was in the daytime so i could not see the lights if there was any.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37691.html](http://www.nuforc.org/webreports/reports/037/S37691.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
