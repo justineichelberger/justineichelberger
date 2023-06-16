@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:24 on 16 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:25 on 16 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Narragansett (RI) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright stationary amber light then fading outAmber circle of light, very bright, stationary just above the horizon, viewed several miles away to the north of our location on the ocean's edge,  by myself and my friend. We thought at first it was a plane's headlight coming straight toward us but realized that it was stationary in that part of the sky; an odd light due to brightness and amber color.  As we watched it for several minutes it slowly began to fade to a barely visible point of light, not moving from that location. At that time my friend said she saw an arc of light in that same area and afterwards a fast up and down shaft of light lasting a second. I was scanning the sky elsewhere so I didn't see what she saw. There were other traveling lights in that same area but they looked like far-off planes; the sky was very clear.  We could not come up with any explanation for what we saw other than a UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50978.html](http://www.nuforc.org/webreports/reports/050/S50978.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>small flat black disc takes odd flightpath over my neighborhood.As my girlfriend and I were having lunch on our deck my eyes caught glance of a black object very high up, but below cloud coverage. There was a rainstorm rolling in and the black object seemed to be just beneath. As it moved closer I was thinking bird or balloon, but I noticed it keep a direct path and even speed. It stayed directly on path over my building, about 150 feet up. It was flat and round, I could see that because as it traveled it seemed to tip over, revealing how thin it was, then back to flat. Then upon passing by my building and a few more, it stopped and hovered, then turned a semi circle to the right. I freaked at this point because it was going against the wind. The object then resumed course away from me and I was at risk of loosing sight of it so I ran up to the roof to watch it. It was gone upon my arrival and I stayed for maybe 10 minutes looking for it. I returned downstairs to my deck. Upon return I looked all around and over to the right about 2 blocks down the object was back paralleled with my building and moving east bound again. Meaning, it had circled back, gotten behind me and down the street, and resumed a straight course while I was in transit from the roof. Unless it was another object. If so it was identical. Ive been watching for the past hour and have seen nothing else.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57110.html](http://www.nuforc.org/webreports/reports/057/S57110.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
