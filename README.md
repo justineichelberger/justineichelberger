@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:25 on 17 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:23 on 17 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Kure Beach (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Orange lights over ocean.After dusk, when the sky was darker, but not totally black, we saw an orange light (single) come on and fade out gradually over a duration of a few seconds. Then about 45 seconds later, a second light came on towards the south of the original (same pattern/duration). Then it started about 5 minutes later even further south.  Again, seeing two (but this time one of them had a double vertical light).  15 minutes later they were spotted north (double the area they were at previously).  Only this time there were three of them.  One was a single light, one was a double light and the last had three horizontal lights (like square window shapes - while the double was verticle circles).  Then a few minutes later, they showed back up around the same area, but the three lighted one was much closer to us. They were way out over the ocean, had no streak marks like a flare or firework would. We thought they could be military craft, but they didn't "fly" right.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110321.html](http://www.nuforc.org/webreports/reports/110/S110321.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Baton Rouge (LA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Unknown round object followed by two jets over Baton Rouge flying northwest at approx 11:00 AMNear midday, blue sky with scattered clouds.  Single round shiny object with contrail traveling northwest.  Did not observe any lights or erratic behavior. Object maintained steady course and speed.The object was followed by two jets.  The object was slightly wider than the fuselage of the jets.The jets did not leave contrails.  The jets trailed the object flying in formation.  The second jet flew to the right rear of the lead jet.  The jets were not fighters and appeared to be larger.  Possibly the size of large corporate jet.The distance between the first jet and second jet was approx the length of three of the aircraft.The first jet accelerated and caught up with the object.  The second jet remained behind the object and never adjusted speed.The first jet passed the object then decelerated to its original speed.  Clouds briefly obscured the three but they quickly reappeared maintaining the same heading.  All three eventually flew out of sight.I tried to take a picture with my camera phone but have not downloaded the photo and a review the photo on the phone is difficult.My co-worker and I are both former military.  I have flown on a variety of military aircraft in the army and my co-worker was in the navy.  He remarked that the round object displayed no wings or characteristics of known aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81825.html](http://www.nuforc.org/webreports/reports/081/S81825.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/163/S163954.html)
-- [334](http://www.nuforc.org/webreports/reports/163/S163859.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163960.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163760.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163762.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
