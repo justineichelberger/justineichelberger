@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:38 on 17 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:19 on 17 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Hillsboro (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright white object high in the sky over Hillsboro, Oregon.We were working out in front of our house, and I noticed an object high in the distance, hanging motionless in the sky.  I told my husband and son and we grabbed the binoculars and started watching it.  It did not move, and if it did, it was extremely slow to where you hardly noticed it.  2 other people going by in a car stopped and asked what we were looking at.  They got out of the car and also witnessed it.  Through the binoculars it was extremely bright white.  I drew a picture of the shape.  I also took some photos and a video but it was so high up, my cell phone just cannot get a great shot of it.  It hung there about 15 minutes and then disappeared into the distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134663.html](http://www.nuforc.org/webreports/reports/134/S134663.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1973, an anonymous witness in Mount Sterling (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>A town left in AwehI know that this is a late time to write this report.  But I know that the event that took place was witnessed by my stepfather ((name 1 deleted)), my half-brother, ((name 2 deleted)), and myself, ((name 3 deleted)).  After talking to my step father a few yrs. ago we talked about the UFO that we saw in Kentucky,  It was in the month of June 1973, we were driving to a friend’s house at around 5pm.  My mother and sister was there and we were going there to pick them up.  As we were driving we saw a large ship overhead, and it hovered over us, the whole way to town. (Mount Sterling, KY), this ship was huge, all we could see is the bottom of the ship.  It was lit up with all kinds of lights, different colors.  Flickering off and on, all the lights flickered in different speeds, it was like red would flash one time, and then blue lights would flash, and as we could tell there were about 6 different colors of lights.This ship was about one hundred feet of the ground and to this day,  I cannot believe how the ship did not fall to the earth.  It was just there, over the car, moving over us as we moved in the car.  There was not beams of light, no rays or sound that we could hear.As we drove into town, we saw people all over looking up at the craft.  People were on the streets, standing alongside the road, sidewalks, by their cars.  And when we arrived at our destination, the ship stopped and after a few minutes, the craft took off.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118029.html](http://www.nuforc.org/webreports/reports/118/S118029.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/163/S163954.html)
-- [334](http://www.nuforc.org/webreports/reports/163/S163859.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163960.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163760.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163762.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
