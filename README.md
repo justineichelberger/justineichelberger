@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:36 on 17 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:25 on 17 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Salinas (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>20 or more white lights in 2 straight lines .I looked out my window & saw a formation of lights in 2 straight lines .No noise heard traveling east towardsFremont's Peak or  Hollister  Ca. Tried to take video but lights didn't appear on the screen Of my cell .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157074.html](http://www.nuforc.org/webreports/reports/157/S157074.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Chesterfield (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Triangle followed by 2 lights over Chesterfield, MI.I walked out on my back porch to smoke and looked up and saw 5 what I thought were stars, until 3 of them started moving.  They were a perfect triangle moving from south to north following Gratiot avenue and crossing 23 mile road in Chesterfield Michigan. At first, I was stunned.  I finally yelled to my wife to come downstairs from our bedroom. When she was coming down she slipped and I ran in to help her.  When we got outside the shape was gone.  This took place in all about 20-25 seconds. We stood outside for a moment when my wife asked me if it "looked like that?"  She pointed up and there was a bright light very high fade in and out.  It was to fast to be a satellite and to high for an airplane.  Then there was another.  All were going in the same direction, north to south.  I have never seen anything like this before in my life and it made all the hair on my body stand up on end.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110318.html](http://www.nuforc.org/webreports/reports/110/S110318.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/163/S163954.html)
-- [334](http://www.nuforc.org/webreports/reports/163/S163859.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163960.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163760.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163762.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
