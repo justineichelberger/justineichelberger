@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:30 on 17 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:20 on 17 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Laguna Vista (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>GOING OUTSIDE I LOOKED AT A PASSING AIRPLANE AND THEN WAY TO THE RIGHT AND MUCH HIGHER THAN THE PLANE I SAW OVER 20 SAUCER SHAPED OBJECTS WITH RAPID MOVEMENTS.LIGHTS ON THE UNDERNEATH SIDE THAT WOULD OCCASIONALLY BLINK ,  BUT STAY STEADY MOST OF THE TIME.  i HAD  SHADED GLASSES ON , THE COLOR LOOKED LITE ORANGE , AS IT WOULD SWOOP DOWN, IT WOULD TURN ON THE SIDE LOOKING LIKE SHINEY ALUMINUM OR REFLECTING MIRRORS. IT DISAPPEARED ALL AT ONCE AS IF THEY WENT UP HIGH OUT OF SIGHT. I SAW  A COUPLE MORE AFTER THE LARGE  GROUP LEFT BUT THEN THEY SEEMED TO GO UP HIGH OUT OF SIGHT TOO.  THIS DESCRIPTION IS IN THE  WORDS OF MY STEPMOTHER  AS SHE IS TOO PRIVATE TO COME PUBLIC.  i WILL  BE AVAILABLE FOR HER TO CALL ME IF SHE SEES MORE.  SHE WOULD NOT BE TELLING ME THIS IF SHE DID NOT BELIEVE THIS WAS WHAT SHE SAW. SHE IS REAL CURIOUS AND WANTS TO KNOW ALL ABOUT IT.  i MAY BE ABLE TO GET HER TO TALK TO YOU BUT ONLY IF IT IS KEPT CONFIDENTALLEY.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08095.html](http://www.nuforc.org/webreports/reports/008/S08095.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Langley (Canada) (BC) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>short cylindrical floating objectLooking to the west from my yard this object was like a floating "garbage can" standing vertically it floated slowly but against the prevailing wind. It was not an overly large object. I would estimate it was about at about 500' and it progressed slowly until out of my sight. It was a dark metallic color made no noise and left no vapor trail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29340.html](http://www.nuforc.org/webreports/reports/029/S29340.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/163/S163954.html)
-- [334](http://www.nuforc.org/webreports/reports/163/S163859.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163960.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163760.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163762.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
