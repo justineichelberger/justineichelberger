@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:29 on 16 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:38 on 17 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Ames (IA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>1 disk shape objectIt was moving slowly across the sky to the North.I blinked and looked back up and it was gone.There was no jet stream or vapors.Just the object.There was no lights,but it was in the daytime so i could not see the lights if there was any.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37691.html](http://www.nuforc.org/webreports/reports/037/S37691.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Hillsboro (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright white object high in the sky over Hillsboro, Oregon.We were working out in front of our house, and I noticed an object high in the distance, hanging motionless in the sky.  I told my husband and son and we grabbed the binoculars and started watching it.  It did not move, and if it did, it was extremely slow to where you hardly noticed it.  2 other people going by in a car stopped and asked what we were looking at.  They got out of the car and also witnessed it.  Through the binoculars it was extremely bright white.  I drew a picture of the shape.  I also took some photos and a video but it was so high up, my cell phone just cannot get a great shot of it.  It hung there about 15 minutes and then disappeared into the distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134663.html](http://www.nuforc.org/webreports/reports/134/S134663.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [316](http://www.nuforc.org/webreports/reports/163/S163968.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163470.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163955.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163716.html)
-- [312](http://www.nuforc.org/webreports/reports/163/S163996.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
