@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:22 on 17 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:27 on 17 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Third sighting this week:  Saw two orange orbs (non-moving and silent) in sky over southwest Phoenix.I guess I'm more likely to see a UFO considering I've seen them three times this week and cannot quit looking at the sky at night now!  :)  Better odds, I'm going to have a car accident if I don't watch it.  Back to what I saw:  I was on my way home from a movie at Desert Ridge in Phoenix with three of my friends.  We had talked about my sightings from earlier in the week and even had a good laugh about them.  I couldn't help looking at the sky when I noticed the lights were there again.  This time there were two orbs.  My friend who was driving exited 101 at Scottsdale Road and proceeded south.  We made a right turn at the first street (Mayo) and headed west and stopped 1/4 mile down to watch the lights.  They were blinking on and off just as they had done two nights previous.  There was also another car pulled over just a little further down the street and the driver was standing outside of his car watching them too.  I noted the time immediately when I saw the lights (10:00 p.m.).  The show lasted for about 10 minutes.  This time I took a picture with my cell phone.  The resolution is terrible but it did capture the objects as well as some planes that were in the area.  Interestingly though the color of the objects is not orange in the photo.  One is brown and the other is green.  During the 10 minutes, the planes appear to fly above, below and all around them, going about their business as if it's nothing unusual.  I just don't understand why the pilots don't report these lights.  Are they not seeing them?  In reading the reports in the database, there appear to be a high number in the southwest sky that are very similar over Phoenix.  With all the cameras around recording our every move these days, why do we not have one focused on the sky to capture this phenomenon in Phoenix?  I'm really curious now as to the origin of these lights.  I've purchased a compass that I'm keeping in my car to provide better details.  At least my friends saw it this time.  I will see if I can get them to submit their report as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37702.html](http://www.nuforc.org/webreports/reports/037/S37702.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Barnwell (SC) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Rectangle shaped object in the south sky, followed by two jets.On this night, while me and my dad were out on our deck looking toward the south, we noticed what appeared to be a very small cloud next to the moon. Then we watched it moved toward the north and descending. We then noticed that it was rectangle in shape and greenish color as it moved toward the earth.  When it got near the top of the trees it stopped and faded out of sight.  We walked beyond the trees, and noticed high flying aircraft entering the area, then turning and going in the direction of were the craft was last seen. After just a few  minutes, there were no aircraft in the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63961.html](http://www.nuforc.org/webreports/reports/063/S63961.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/163/S163954.html)
-- [334](http://www.nuforc.org/webreports/reports/163/S163859.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163960.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163760.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163762.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
