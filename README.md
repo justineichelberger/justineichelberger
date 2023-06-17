@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:20 on 17 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:18 on 17 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Challis (ID) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Object was observed in Challis, Idaho, at an approximate altitude of 500 meters above town center near courthouse.  Observer thought the object to be a metallic balloon recreational drone.  Object then did a very high speed maneuver gaining altitude approximately 200 meters, exhibiting a strange semi stable flight that seemed to drift left and right up and down slightly.  Observer captured a photo after maneuver and seconds before it departed.  No acceleration was observed it simply disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147222.html](http://www.nuforc.org/webreports/reports/147/S147222.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Redondo Beach (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two amber/red balls flying east from Redondo Beach towards Los AngelesIt was approximately 10:45pm, I had just got home from dinner with a friend and had just decided to go out to my balcony to have a cigarette.  I had just started calling a friend and was getting ready to light my cigarette and was leaving a voicemail for my friend when I looked up into the northwest sky and saw two reddish/orange almost amber in color orb's moving eastward.  I live near the ocean, so they were traveling east towards the city. They started to go behind some trees off of my balcony, I ran out to the pool area here at my apartment building and saw the 2 orbs still moving in the sky, but slower.  At that point I had thought about getting my video camera and ran back inside to get it, when I went back out to the pool area with my video camera I just saw one of the two orbs, it was stationary and then started to fade away.  It took approx. 30-45 seconds for it to fade away.Since I live near the ocean there was a light haze, the orbs seemed to move slower than a jet and seemed to be larger than what you would normally see as an airplane.  The orbs did't flash, they just seemed to be amber/red in color with a very slight trail or aura (could have been the haze in the sky) they almost seemed like fireballs.  If it had been just one, I would have thought it was a meteor or space junk entering, but there were two of them, traveling at about the same speed, one ahead of the other slightly.When I made it out to the pool area with my video camera, one of the orbs was gone, but there was still one there and it had stopped moving and just stayed in one spot and then slowly faded away.As far as my background, I grew up in the area, I am a small business owner and in my late 30's.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81818.html](http://www.nuforc.org/webreports/reports/081/S81818.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/163/S163954.html)
-- [334](http://www.nuforc.org/webreports/reports/163/S163859.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163960.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163760.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163762.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
