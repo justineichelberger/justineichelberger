@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:23 on 17 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:36 on 17 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Garrettsville (OH) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 64</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157452.html](http://www.nuforc.org/webreports/reports/157/S157452.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Chesapeake (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I live in Chesapeake, Virginia, specifically in the area known as Deep Creek.  At approximately 1:41 a.m, I was driving home after a late dinner/early breakfast and saw a good sized yellowish orb of light slowly moving across the sky at cloud level.  I pulled off the road to observe.  Initially, it was a solid orb of light.  I watched it for a minute or two, then called my 20 year old using my cell phone.  I wanted her to go outside (from home) so she could see what I was seeing.  About 15 seconds into our 1 minute and 29 second conversation, the orb starting "blinking" on and off at something close to half-second intervals.  As we were ending our conversation, it blinked one more time and then disappeared completely.About 15 to 20 seconds after the last blink, a second faster moving craft appeared lower in the sky.  I couldn't quite make out its shape, but it had rapidly blinking bright red and white lights (almost like an ambulance), with a solid blue light in the center.  At the risk of sounding stupid, it appeared to be chasing the first object.  It passed behind a tree and I wasn't able to find it again.  I don't know if it also disappeared, or if I simply couldn't see it at this point.All of this took place in a span of about 5 minutes.I should probably also add that all four of the car's windows were down and I heard no sound coming from either craft.While not relevant to this incident, approximately 3 months ago, I experienced a somewhat similar event. I observed a bright white orb of light moving slowly toward me beneath the clouds.  After a minute or so, a smaller orb seemed to separate itself from the larger and move off to its right side.  It was immediately followed by a third orb which moved off to its left side, forming a somewhat sloppy triangle.  All three remained for another 15 seconds and then simply disappeared.  There was nothing to interfere with my view.  They were there, and then they were gone.These were also soundless.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146875.html](http://www.nuforc.org/webreports/reports/146/S146875.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/163/S163954.html)
-- [334](http://www.nuforc.org/webreports/reports/163/S163859.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163960.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163760.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163762.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
