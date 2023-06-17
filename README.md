@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:27 on 17 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:25 on 17 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Barnwell (SC) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Rectangle shaped object in the south sky, followed by two jets.On this night, while me and my dad were out on our deck looking toward the south, we noticed what appeared to be a very small cloud next to the moon. Then we watched it moved toward the north and descending. We then noticed that it was rectangle in shape and greenish color as it moved toward the earth.  When it got near the top of the trees it stopped and faded out of sight.  We walked beyond the trees, and noticed high flying aircraft entering the area, then turning and going in the direction of were the craft was last seen. After just a few  minutes, there were no aircraft in the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63961.html](http://www.nuforc.org/webreports/reports/063/S63961.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Kure Beach (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Orange lights over ocean.After dusk, when the sky was darker, but not totally black, we saw an orange light (single) come on and fade out gradually over a duration of a few seconds. Then about 45 seconds later, a second light came on towards the south of the original (same pattern/duration). Then it started about 5 minutes later even further south.  Again, seeing two (but this time one of them had a double vertical light).  15 minutes later they were spotted north (double the area they were at previously).  Only this time there were three of them.  One was a single light, one was a double light and the last had three horizontal lights (like square window shapes - while the double was verticle circles).  Then a few minutes later, they showed back up around the same area, but the three lighted one was much closer to us. They were way out over the ocean, had no streak marks like a flare or firework would. We thought they could be military craft, but they didn't "fly" right.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110321.html](http://www.nuforc.org/webreports/reports/110/S110321.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/163/S163954.html)
-- [334](http://www.nuforc.org/webreports/reports/163/S163859.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163960.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163760.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163762.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
