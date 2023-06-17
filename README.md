@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:22 on 17 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:32 on 17 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1955, an anonymous witness in Rantoul (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We had fallen out to the parking lot awaiting marching orders to go to (chow) it was still dark and we saw a light approaching from the east at a tremendous speed, it stopped a little to the east (Not quite overhead). It then proceeded north at a great speed and stopped at about the 2 oclock position.  It then returned to nearly overhead, stayed there for maybe a minute and then shot off to where it came from.  We decided to investigate on our own and some of us checked with weather to see if any balloons had been sent up.  Some of us checked to see is anything had been picked up on radar.  Some of us checked the flight schedule for aircraft.  NOTHING showed up on any reports, we concluded that this could have been a UFO.  There were approximately 35 airmen in that squadron.  This happened at Chanute AFB< Illinois in 1955.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17799.html](http://www.nuforc.org/webreports/reports/017/S17799.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Marshall (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Multiple fast moving, pulsing objects doing crazy maneuvers.During a gathering of friends three of us went out to look at the night sky. We heard a C130 passing over us which is not uncommon. As we looked at the sky I noticed what I thought was a satellite, but it began flashing and was moving much quicker than a satellite would.  When I saw another one, I asked my friends if they saw it to . They also saw it. They were pulsing yellow/orange lights.We looked to the west and saw the C130 shooting out flares.  We looked back at the pulsing objects and there were at least six coming from different directions.  They were in the upper atmosphere and completely silent, moving faster and in ways I’ve never seen a normal aircraft move.  I called my other friends over so they could see it to.  The objects began making maneuvers and formations for about 15 minutes.  Definitely not typical military formations, more like sacred geometry.  Toward the end, two of the objects began to fly at each other in a perfect arc that must have started miles away from each other at very high speed.  At the last moment the one on the left shot up and out of the way of the other at a crazy speed.They all left in different directions and it was like nothing ever happened.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157149.html](http://www.nuforc.org/webreports/reports/157/S157149.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/163/S163954.html)
-- [334](http://www.nuforc.org/webreports/reports/163/S163859.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163960.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163760.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163762.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
