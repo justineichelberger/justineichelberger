@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:50 on 17 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:21 on 17 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1961, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Disk shapped saucer over the city of Chicago.It was around 7pm on a summers evening when I, my Mother, Father, and two brothers saw a disk shaped object in the sky. I would say it was about 100 yards above us. It had lights around the outter rim, which were red and green and flashing. It maintained a motionless station in the sky as we continued to observe it. I got the impression someone was looking down on us, I was 15 years of age at that time. After about 5 min. it first moved off slowly traveling in a north easterly direction heading out over lake Michigan then it suddenly speeded up in a flash and was out of sight in a matter of a couple of seconds. The most interesting fact I recall about that day is, after the sighting was completed non of my family members discussed what we saw. Everyone went back to what ever it was they were doing as if it never happened. My father still lives in Chicago at this time at the age of 83 and my two brother's are now in their fifties, I am 57. My mother passed in 1967. Now this is going to sound strange, the next time I saw the alomst exact same object was in the movie "Close Encounters of The Third Kind." What we saw on that day looked just liked the first spaceship which first came over the landing area in that movie. If anyone wants to talk to me about it please e-mail me.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32322.html](http://www.nuforc.org/webreports/reports/032/S32322.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Rodeo (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Extremely bright, continuoulsy luminous, object moving silently eastward for several minutes, then disappearing in a few seconds.Looking to the east we saw the a very bright 2/3 moon (about 45 degrees above horizon) and Mars off to its right.  It was not yet completely dark, but almost so; still some weak light in the west.  It is important to note that the moon, Mars and only the very brightest of stars were visible at this time.  A third extremely bright object was observed just to the left of the moon moving directly eastward.  The object was >2x brighter than Mars, and it was white to amber in color and made no noise at all.  We could not recognize any shape to the object due to its apparent high altitude.  It proceeded silently to the east for several minutes and then disappeared in just a few seconds.  Importantly, there were no blinking navigation lights of any kind observed; the object remained continuously luminous until it vanished.  Due to its excessive brightness, the object did not appear to be a satellite, but I cannot entirely rule out that possibility.  Later we did observe several satellites, which were uniformly very dim and hard to see due to the brightness of the moon.  The "UFO" described above was only second in brightness to the moon!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127949.html](http://www.nuforc.org/webreports/reports/127/S127949.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/163/S163954.html)
-- [334](http://www.nuforc.org/webreports/reports/163/S163859.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163960.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163760.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163762.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
