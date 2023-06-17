@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:20 on 17 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:20 on 17 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Langley (Canada) (BC) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>short cylindrical floating objectLooking to the west from my yard this object was like a floating "garbage can" standing vertically it floated slowly but against the prevailing wind. It was not an overly large object. I would estimate it was about at about 500' and it progressed slowly until out of my sight. It was a dark metallic color made no noise and left no vapor trail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29340.html](http://www.nuforc.org/webreports/reports/029/S29340.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Challis (ID) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Object was observed in Challis, Idaho, at an approximate altitude of 500 meters above town center near courthouse.  Observer thought the object to be a metallic balloon recreational drone.  Object then did a very high speed maneuver gaining altitude approximately 200 meters, exhibiting a strange semi stable flight that seemed to drift left and right up and down slightly.  Observer captured a photo after maneuver and seconds before it departed.  No acceleration was observed it simply disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147222.html](http://www.nuforc.org/webreports/reports/147/S147222.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/163/S163954.html)
-- [334](http://www.nuforc.org/webreports/reports/163/S163859.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163960.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163760.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163762.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
