@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:25 on 18 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:11 on 18 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Oak Island (NC) reported seeing craft that fit the description of some 'Cross' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Orange Orbs and blinking lights, followed by a strange airplane-shaped craft.I was outside on the deck of my vacation home on Oak Island.  I was watching for more of the same lights I had seen the night before and sure enough I began to see rapidly-blinking white lights and orange orbs.  The white lights were moving erratically and seemed to be chasing each other.  Then one or two large orange lights would appear and then fade away.  The lights were all within 30-40 degrees of the horizon.As I was watching these lights, the next-door neighbor blinded my view with his flood light.  As I looked to see what he was doing, he turned it back off and as I turned back toward the ocean I saw a large white light hovering down the beach from me.  It seemed to be hovering over the Ocean Crest Pier and the light was just as large and bright as the lights on the pier.  I got my binoculars and looked and all I could see was a large, bright white light.Suddenly the white light seemed to fade away and a small red light appeared and began to move south toward the end of the pier.  Then the red light faded away and the large white light appeared again and seemed to just be hovering.  After a couple minutes I could see that the light had begun to move toward me and there appeared to be a red light on the right and a green light on the left.  None of these lights were blinking.  By then my mother in law had come outside and watched with me as it glided directly over us.  It barely made any sound, only a quiet hum.  It was moving somewhat slow and was probably only a few hundred feet in the air.  It was headed toward the northeast. At the back of the craft was a fourth light.  This one was large and the same orange color as the orbs I had seen earlier over the ocean.  The orange light was blinking, but then stopped and remained steady as the craft moved out of sight over the houses.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110505.html](http://www.nuforc.org/webreports/reports/110/S110505.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Corunna (Canada) (ON) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>SILVER OBJECT, SPED SOUNDLESSLY OUT OF SIGHTLOOKED WEST IN SKY, FROM THE CANADIAN SIDE OF THE ST. CLAIR RIVER, AND NOTICED A SILVER DISK SHAPED OBJECT MOVING FROM SOUTH TO NORTH AT HIGH SPEED. IN THE PERIOD OF 5 SECONDS IT MOVED OUT OF SIGHT. IT MADE NO NOISE AND LEFT NO TRAIL IN THE SKY. IT'S HEIGHT COULD BE ESTIMATED TO BE ABOUT 3 MILES IN THE AIR AND WAS TRAVELLING HORIZONTALLY IN A STRAIGHT LINE OUT OVER THE RIVER TOWARDS LAKE HURON.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57127.html](http://www.nuforc.org/webreports/reports/057/S57127.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/163/S163947.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163746.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163952.html)
-- [346](http://www.nuforc.org/webreports/reports/163/S163950.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164098.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
