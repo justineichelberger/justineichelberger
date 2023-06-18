@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:24 on 17 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:34 on 18 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Damascus (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two fast moving lightsThere were two lights, one following the other perfectly like it was on the nose and tail of a plane. They were moving very fast and I watched them fly under a star but the star didn't blink like it would if there was a solid object connecting the two lights. They passed under another star, which also didn't blink and there also was no noise whatsoever.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157112.html](http://www.nuforc.org/webreports/reports/157/S157112.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Rockford (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>The object looked like a long triangle that was moving through the night sky.I was on my way to bed when I looked out the living room patio door when I noticed lights in the sky. There was a group of four lights in the sky. Three of the lights were white and bright and formed a longer than wide triangle each of the lights were at the three corners of the object. A fourth light was less bright and red and it was located in the middle towards the back. The object was heading northest in a slightly circling line of travel.I could not judge the altitude of the object but it looked like it was moving about 30 mph.It was gone before I could get outside to hear if it was making a noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23540.html](http://www.nuforc.org/webreports/reports/023/S23540.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/163/S163954.html)
-- [334](http://www.nuforc.org/webreports/reports/163/S163859.html)
-- [333](http://www.nuforc.org/webreports/reports/163/S163960.html)
-- [332](http://www.nuforc.org/webreports/reports/163/S163760.html)
-- [331](http://www.nuforc.org/webreports/reports/163/S163762.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
