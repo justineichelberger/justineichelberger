@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:21 on 18 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:23 on 18 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Blountville (TN) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>tri lobed silver objectI was traveling north on interstate 81 after comeing off of I 26 from jonesborough TN. I had taken My son and nephew to the water park for the day.After a long day swimming we started back to Bristol.The children had just went to sleep after looking at the pictures on our dig.camera that we had taken.As i was driveing along I realy didnt pay much attention to the radio as it faded out but I did try to get another station But something shiny caught the corner of my right eye. I looked over to my feft a little and noticed a silver object comeing paralell to 81 going north. I was traveling at around 75 mph when it passed me.It turned  to my right and came across the interstate hwy. and was out of sight before I could get stopped.Astonished to see what I was seeing I realized I had a camera and grabbed it. I started takeing pictures as I was driveing and took several pictures through the windshield. When I got home I down loaded them and found one frame out of 9 that had something in it siver orbed shaped objects that were  or seems to be connected.((NUFORC Note:  We are apprised by Mr. Kim Shaffer, State Director of MUFON for Eastern Tennessee, that the witness, with whom Mr. Shaffer has met, is highly reliable and credible.  We are grateful to both these gentlemen for providing the information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37739.html](http://www.nuforc.org/webreports/reports/037/S37739.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO seen over St Johns RiverI was standing on a dock on the St Johns river watching an approaching thunderstorm when I noticed a shadow against the clouds.  As it moved a little closer I could just make out the shape of a triangle or possibly a diamond shaped object.  The object was solid black and about 100 feet long moving very slowly heading south towards downtown Jacksonville.  It was completly silent and I guess about 80 feet off of the ground.  It was probally a quarter mile from my location.  I could also make out a couple small dim white lights that seemed to be on the edges.  At one point it looked like it momentarily turned on some sort of spotlight for a few seconds and shined it on a large ship docked at the port.  It freaked me out and I could not believe what I was seeing.  I watched for about a minute then ran inside to get my wife.  When I came back outside it had started to rain and I could no longer see the object.  This is the first time I have ever seen anything like this.  I don't want to tell anyone because they might think I'm a nut case.  My wife gave me this funny look.  All I could do was stand there with my knees shaking.  I actually had trouble sleeping thinking about what I had seen.  Very strange and creepy.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63982.html](http://www.nuforc.org/webreports/reports/063/S63982.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/163/S163947.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163746.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163952.html)
-- [346](http://www.nuforc.org/webreports/reports/163/S163950.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164098.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
