@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:36 on 18 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:21 on 18 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lincoln (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Star like object appears next to Big Dipper and flies toward northern California';s Sierra Nevada mountains..I saw a second light adjacent to the lower right star of the Big Dipper's bucket appear at exactly midnight.  The new light or star was just below and very close to Big Dipper's lower right side star, top outside of the bucket star.  The Big Dipper is in the northwest sky to my position. As soon as I saw this new star adjacent to Big Dipper, I focused and watched intently.  For approximately three to five seconds   It appeared stationary then started moving toward me in a south easterly direction.  It was the same brightness and size of the other Big Dipper stars.  It flew relatively slowly across the sky and was easy to track.  I watched it for 30 seconds and watched it fade out after it crossed California's central valley and approached Sierra Nevada mountains or above Auburn, California.  I noticed It had some bulk to it as It got closer and overhead, like a square with rounded corners but still looking like a star.  Looked at my watch after fade out, 12:01 AM June 18, 2012.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89695.html](http://www.nuforc.org/webreports/reports/089/S89695.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Irvine (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>SILVER SHIMMERING OBJECT.  COULD NOT DEFINE SHAPE.  CAME TO COMPLETE STOP IN SKY.I AM AN AUTO SALESMAN.  I WAS STANDING IN OUR CAR LOT WHEN I SAW THIS BRIGHT SILVER OBJECT AT ABOUT 45 DEGREES ABOVE THE HORIZON COMING TOWARD MY VICINITY.  I WATCHED IT FOR APPROXIMATELY ONE MINUTE UNTIL IT WAS DIRECTLY OVERHEAD.  I CALLED TO ANOTHER SALESMAN TO COME AND SEE WHAT I WAS SEEING.  HE DID.  NEITHER OF US COULD GET ANY DEFINITIVE OBSERVATION AS TO SHAPE OR SIZE BECAUSE OF ITS ALTITUDE. WHEN IT WAS OVERHEAD OF US IT CAME TO COMPLETE STOP.  IT STAYED IN THIS POSITION FOR ABOUT ANOTHER TWO OR THREE MINUTES AND THEN STARTED GOING STRAIGHT UP.  WE WATCHED IT UNTIL WE COULDN'T SEE IT ANY LONGER.  MY IMPRESSION WAS THAT IT WAS A SILVER METALIC OBJECT THAT GLINTED AS IT MOVED.  SKY WAS COMPLETELY CLEAR.  NO CLOUDS. VISABILITY UNLIMITED.  NO WINGS.  NO TAIL. NO SOUND.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44458.html](http://www.nuforc.org/webreports/reports/044/S44458.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/163/S163947.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163746.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163952.html)
-- [346](http://www.nuforc.org/webreports/reports/163/S163950.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164098.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
