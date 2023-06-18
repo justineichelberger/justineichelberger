@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:11 on 18 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:27 on 18 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Corunna (Canada) (ON) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>SILVER OBJECT, SPED SOUNDLESSLY OUT OF SIGHTLOOKED WEST IN SKY, FROM THE CANADIAN SIDE OF THE ST. CLAIR RIVER, AND NOTICED A SILVER DISK SHAPED OBJECT MOVING FROM SOUTH TO NORTH AT HIGH SPEED. IN THE PERIOD OF 5 SECONDS IT MOVED OUT OF SIGHT. IT MADE NO NOISE AND LEFT NO TRAIL IN THE SKY. IT'S HEIGHT COULD BE ESTIMATED TO BE ABOUT 3 MILES IN THE AIR AND WAS TRAVELLING HORIZONTALLY IN A STRAIGHT LINE OUT OVER THE RIVER TOWARDS LAKE HURON.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57127.html](http://www.nuforc.org/webreports/reports/057/S57127.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Sicklerville (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Objects were in groups 6 to 8 Seem to be oval in shape Orange light or beam was on the objects Objects were floating in groups  It was late night floating in sky.((NUFORC Note:  Date indicated by witness was flawed.  We have assigned an artificial date, which is subject to amendment.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146917.html](http://www.nuforc.org/webreports/reports/146/S146917.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/163/S163947.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163746.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163952.html)
-- [346](http://www.nuforc.org/webreports/reports/163/S163950.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164098.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
