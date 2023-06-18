@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:25 on 18 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:30 on 18 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Randolph (MA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>My husband called me from out the room and said this looks like a ufo around 9:30pm.  I looked up and saw a bright lights thru the clouds that just stayed in one spot for 20 minutes, and then faded and came back.   We then went back later it was gone.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119616.html](http://www.nuforc.org/webreports/reports/119/S119616.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Enfield (CT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 00:45 - 00:45 minutes.</sub><blockquote><sub>Odd bright yellow light in the sky with speed changes and changed directions, emitted no sound at allMe and friend saw an odd bright orange light kid of fire like go through the sky fast slow down and then pick speed up lost it shortly after due to tree line, came home and explained to my mom what i saw and she vouched the same sighting only going a complete different direction, no sound was heard at all, and a plane was seen very shortly after that so i knew it was no plane or jet.  Wish i had thought about my camera, but was kind of in awe to think of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90311.html](http://www.nuforc.org/webreports/reports/090/S90311.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/163/S163947.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163746.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163952.html)
-- [346](http://www.nuforc.org/webreports/reports/163/S163950.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164098.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
