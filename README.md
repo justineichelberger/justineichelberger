@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:21 on 18 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:30 on 18 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Newtown (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Looking out at the horizon a saw a double blinking light far off rising above the treeline (20*)after 2 blinks (i initially thought it was an aircraft) it disappeared and suddenly reappeared 3-5 inches (vision scape) to the right, then immediatly it moved up 3-5 inches-blinked again 2-3 times moved to thr ight blinked again and then out of view---estimate of speed was 50-100x that of a jet aircraft--I have goosebumbs as I compose this--have been a skeptic all my life--WOW</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37661.html](http://www.nuforc.org/webreports/reports/037/S37661.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Paulsboro (NJ) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Just lights. One light for 2 seconds, then a little lower, a light for 2 seconds, then a little lower, a light for 2 seconds but does not move. Then the light glows again for 2 seconds then nothing. Then glows again for 2 seconds then nothing. Then glows again for the same time, then never scene again.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51058.html](http://www.nuforc.org/webreports/reports/051/S51058.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/163/S163947.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163746.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163952.html)
-- [346](http://www.nuforc.org/webreports/reports/163/S163950.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164098.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
