@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:05:23 on 18 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:27 on 18 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mission Viejo (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>It was bright ámbar big light over the homes, it last for one minute and then got brighter and then dimer and then  was gone!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110366.html](http://www.nuforc.org/webreports/reports/110/S110366.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Alabama (location unspecified) (AL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>hovering ball of fireIt's been 10yrs. give or take and i can still remember it...it was like a round object with fire, thats the best i can tell you because honestly, you'd had to seen it to understand what i mean. It was round bout 5:30 that afternoon i was at my buddies house and we had nothing better to do but shoot ducks, but shortly that got boring to so we just sat there on the patio talking when IT, or whatever it was SLOWYLY CREPT around a VERY BIG hill,(it would take prob. about 5mins to get to the top,if you walked up it), and when i say slowly i mean, i didn't even realize it till he said something, it made absolutely NO sound, nothing. It wasn't the sun niether because the sun was behind us.  whatever this was, it was right infront of us, just hovering, no sound, no nothing. So as kids what did we do...got our guns back out and started shooting at it seeing that from the patio to where it was it was only about 100yds away. not that far, but because we didn't no better and nobody lived anywhere near there we continued to shoot at it...and yet still IT did nothing...then i'll say about 3mins. later it left the same way it came, right back around the big hill where you couldn't see anything...we took off as quick as we could, down the patio, down the hillside, beside the pond, and right beside the hill where it once was, nothing...not a single thing. we told our folks when they got there but they said ok, sure. and that was that never saw anything like that again.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50072.html](http://www.nuforc.org/webreports/reports/050/S50072.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/163/S163947.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163746.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163952.html)
-- [346](http://www.nuforc.org/webreports/reports/163/S163950.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164098.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
