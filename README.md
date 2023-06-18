@@ -212,7 +212,7 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:21 on 18 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:28 on 18 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
 ![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Irvine (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>SILVER SHIMMERING OBJECT.  COULD NOT DEFINE SHAPE.  CAME TO COMPLETE STOP IN SKY.I AM AN AUTO SALESMAN.  I WAS STANDING IN OUR CAR LOT WHEN I SAW THIS BRIGHT SILVER OBJECT AT ABOUT 45 DEGREES ABOVE THE HORIZON COMING TOWARD MY VICINITY.  I WATCHED IT FOR APPROXIMATELY ONE MINUTE UNTIL IT WAS DIRECTLY OVERHEAD.  I CALLED TO ANOTHER SALESMAN TO COME AND SEE WHAT I WAS SEEING.  HE DID.  NEITHER OF US COULD GET ANY DEFINITIVE OBSERVATION AS TO SHAPE OR SIZE BECAUSE OF ITS ALTITUDE. WHEN IT WAS OVERHEAD OF US IT CAME TO COMPLETE STOP.  IT STAYED IN THIS POSITION FOR ABOUT ANOTHER TWO OR THREE MINUTES AND THEN STARTED GOING STRAIGHT UP.  WE WATCHED IT UNTIL WE COULDN'T SEE IT ANY LONGER.  MY IMPRESSION WAS THAT IT WAS A SILVER METALIC OBJECT THAT GLINTED AS IT MOVED.  SKY WAS COMPLETELY CLEAR.  NO CLOUDS. VISABILITY UNLIMITED.  NO WINGS.  NO TAIL. NO SOUND.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44458.html](http://www.nuforc.org/webreports/reports/044/S44458.html)</i></sub></sub></sub><br>
 <h5><details open>
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/163/S163947.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163746.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163952.html)
-- [346](http://www.nuforc.org/webreports/reports/163/S163950.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164098.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
