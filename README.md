@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:55 on 18 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:27:09 on 18 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Skokie (IL) reported seeing craft that fit the description of some 'Flash' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>About 6 to 7 UFO's flashing bright lights often, a couple of were able to change the color of the lights to dark red and moving awfully fast within the same area.  This lasted for about 35 minutes. 2 weeks ago (this time during the day) one ufo was seen in the opposite direction, but same  viewing location for about an hour.  I taped both events. Within a month, I'm finally able to say i seen it with my own eyes and twice. (35 years old)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146892.html](http://www.nuforc.org/webreports/reports/146/S146892.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Savannah (GA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Really bright flashes of light.This was wild, mainly clear skies, aircraft in the area, no lightning, really bright lights and flashes of light.  One was so bright it shocked us!  No music heard, was not a spotlight, no thunder, right at tall tree level or lower, wtf.  Relatively clear night, no thunder or lightning, one flash was insanely bright!!!  Pointed in our general direction with huge bright flash.  No transformers blew, no power outages reported, no storms, no noise from the area.  No drone is that bright.  I will definitely be out tonight to check!!!((NUFORC Note:  We have changed the time above, assuming an evening sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146908.html](http://www.nuforc.org/webreports/reports/146/S146908.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/163/S163947.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163746.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163952.html)
-- [346](http://www.nuforc.org/webreports/reports/163/S163950.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164098.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
