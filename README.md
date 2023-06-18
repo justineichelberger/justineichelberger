@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:24 on 18 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:28 on 18 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Charlottesville (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>AS I WAS TAKING A SHORT VIDEO OF PLANE , I SAW IN MY VIDEO A WHITE LIGHT OBJECT FLY DOWNWARD IN FRONT OF PLANE EXTREMELY FAST HIGH SPEED AND TOOK A SCREEN SHOT AND ZOOMED IN TO OBJECT .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164098.html](http://www.nuforc.org/webreports/reports/164/S164098.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Pittsfield (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I saw a light in the sky that I could not identify.My father and I were having a conversation on his back porch on acorn st. He said " hey look at that" I saw a simple red light ascending from the tree line that was 100 yards in front of us. the object looked like it was approx. 2-3 miles away and over the city.  As I observed further and the light moved upward from right to left, I noticed that there was a rainbow aura around the steadily shining light.  This object moved without any sound, then it went behind the clouds and was gone. I have been a helicopter pilot for over ten years, and I can say with confidence, it was not anything I can identify.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85586.html](http://www.nuforc.org/webreports/reports/085/S85586.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/163/S163947.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163746.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163952.html)
-- [346](http://www.nuforc.org/webreports/reports/163/S163950.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164098.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
