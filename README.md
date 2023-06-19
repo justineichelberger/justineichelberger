@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:26 on 19 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:08 on 19 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1965, an anonymous witness in Western Pacific () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>high speed ufo spotted and tracked on U.S. Navy radarIn about June of 1965, while in the US Navy, aboard a destroyer in the Western Pacific, we observed a UFO on radar at about midnight one night. We first picked up the object on our long-range air search radar at about 300 miles.  It flew "down" our radar beam (descended towards our ship), overflew us and then exited on a reverse profile, disappearing at about 300 miles again.  This happened in an extremely short period of time. In the ensuing 40 years, I've forgotten the particulars, but I do remember that we calculated the craft's speed in excess of 50,000 mph.  This was not a so-called "ghost" image, or a radar signal bouncing off the moon. We were a seasoned crew of trained radar experts. We knew what we were seeing and tracking.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43396.html](http://www.nuforc.org/webreports/reports/043/S43396.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Red round object with naked eye, disk shape with flames through scope in southwest  skyAt approximately 9:20 PM, my husband told me to view a red round object in the southwest sky at about 2:00 in our Leica spotting scope.  It appeared with the naked eye smaller than a full moon and larger than a planet.  Viewing it through the scope it appeared to be more of a disk that was tipping slightly up and down and from side to side with white and blue flames exiting the top. It quickly got smaller as it moved to the south very rapidly in a straight line.((NUFORC Note:  We spoke via telephone with the source of this report, and she sounded to us to be both eloquent, and sober-minded.  We suspect her report is quite reliable.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110434.html](http://www.nuforc.org/webreports/reports/110/S110434.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
