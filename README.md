@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:22 on 19 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:37 on 19 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>15 STRANGE OVAL LIGHTS ABOVE THE LOW CLOUDS SOUTH OF ORLANDO, FLORIDA.While driving home at 10:20pm, traveling West on Conroy road, South of Orlando, Florida, we watched 15 oval lights move very quickly over us traveling in a Southwest direction where they all stopped over the Williamsberg area and hovered just above the low clouds that were about 500'.  Then after hovering for about 10 minutes, each one in turn traveled in an upward direction until the light could no longer be seen.  This was the most unusual night sky we've ever seen.  Amazing what you see when you look up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146934.html](http://www.nuforc.org/webreports/reports/146/S146934.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Devon Meadows (VIC, Australia) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Big, very bright and extremly fast.I was walking when a weird shaped object havered above my head. It was a bright light and took off as soon as i looked up. I was going so fast i could only watch it fly though the sky for about three seconds. It was very bright and changed colour as it went thought the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37696.html](http://www.nuforc.org/webreports/reports/037/S37696.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
