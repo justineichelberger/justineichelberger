@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:33 on 19 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:31 on 19 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Santa Clara (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Two lights flying close together and then fading away.I was out in my backyard taking in the fresh air when I spotted two moving lights in the sky. They looked just like bright stars, or air planes without the blinking lights. One was flying behind the other, both at about the speed of an air plane. If you held your fingers up to the sky, they were about a 4 1/2 inches apart. They kept at about that same distance moving South East. Then, over a period of about 5 seconds, they both faded away.((NUFORC Note:  Space Shuttle w/ ISS??  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57174.html](http://www.nuforc.org/webreports/reports/057/S57174.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Westchester (IL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Sighting of an unidentified flying Object in the sky which had a shape similar to the structure above the capital building in Washington D.C.Sighting of what appeared to be a silver metallic flying object which had a very distinctive shape.  Unlike an airplane, strangely enough, it looked like the structure on top of the Capitol Building in Washington D.C. and I witnessed that it was spinning fast and moving forward at the same time.  I could only see one but there could have been more.  It was late at night just before midnight, and I was getting ready to go to sleep.  I saw different color lights and no sound of any kind.  The entire event did not last more than 10-15 seconds.  The only thing that I thought was strange is that during the sighting of this object, I heard strange voices in my head which sounded like a different language, but a language that is totaly different and not from this world.  Then, as the object disappeared, the voices also stopped.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08145.html](http://www.nuforc.org/webreports/reports/008/S08145.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
