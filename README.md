@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:27 on 19 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:26 on 19 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Zephyr Cove (NV) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Black triangle with one light at each end moving somewhat slowI saw what I thought was two stars split apart.So called my daughter to come look.The lights where coming apart up and down,verticly wider and wider.The light where coming toward us.After that we saw a traingle in the sky above us traveling toward us.It was almost above us to the left.It was slow traveling with white lights on each end of the corners.I was so freakedout by it I called the police. It came to almost a stop.After that it started to fade, the lights first then the whole triangle. I swear I saw something I have never seen in my life before.  My daughter of 20 saw it as well.((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57230.html](http://www.nuforc.org/webreports/reports/057/S57230.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Fort Wayne (IN) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Two dull orange lights side by side  moving together in a straight line then made a slight arch in it's path. There wer no sounds and mTwo lights side by side- both were dull or hazy Amber to Orange in color traveling from the Northeast to the Southwest.I noticed the lights West Northwest of overhead but North and East of Arcturus and were visual for about 20 degrees going south before trees got in the way. Lasted approximately 5 seconds. The object or objects traveled side by side in a straight line to the South-Southwest and did a slight bow in it's flight path and then headed more to the Southwest. It or they did not have a tail and there was no sound of a jet or prop plane. The lights were larger then any star out and seem larger and duller then plane lights (commerial fights). They seemed to fast for for a high altitude flight. The Fort Wayne International airport is SouthWest of my location. I've seen many planes, but none that acted like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13148.html](http://www.nuforc.org/webreports/reports/013/S13148.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
