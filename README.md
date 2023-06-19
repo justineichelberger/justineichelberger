@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:28 on 19 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:38 on 19 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Westmont (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Rapid moving lightsObserved 2 lights very far distance equidsitant moving at a very rapid speed in a southern direction.  At first I thought these might be planes but I observed a plane moving just below these two lights at a very slow speed compared to the lights.  I observed these lights for approximatley 10 sec. before they both vanished almost simultaneously.((NUFORC Note:  Space Shuttle w/ ISS??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57167.html](http://www.nuforc.org/webreports/reports/057/S57167.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Fuquay Varina (NC) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Massive aircraft hovering just above tree-lineSitting on the front porch smoking a cigarette, I noticed 3 lights hovering over the tree line,  I then pointed it out to my gf, and we began trying to figure out what it could be.  during this process the object stayed hovering for about the time it time it took to finish my cigarette, at this time we started walking in that direction.  it seemed almost as soon as we began to walk towards it the object began moving and the light formation had changed it began with one yellow light in front one in the back and a red/orange one in the middle. This time it was yellow yellow red.  As we reached a clearing a little down the road we were able to see the object pretty clearly as it slowly went downward.  This aircraft was easily 3 times the size of a grounded airplane had only 3 lights and made absolutely no sound at all.  it went behind a small group of tree but then never came out the other side.  As we were walking back to the house we noticed multiple airplanes and one helicopter almost surveying the exact area we just witnessed this enormous aircraft. :note:  I have always been a skeptic about UFOs but tonight just changed that.  This thing was like a ocean liner in the sky and just above tree level there is no other explanation for that.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  We would like to speak with the source of the report, to satisfy ourselves that it is a seriou-minded report, but we have no means of contacting the source.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127976.html](http://www.nuforc.org/webreports/reports/127/S127976.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
