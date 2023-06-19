@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:22:11 on 19 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:25 on 19 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>red,blue,green cylinder or egg-shaped craft directly over central Austin, Texastwice now, my apartment mate and i have seen an egg/cylinder-like craft flying at an unknown height and moving silently and swiftly coming to a full stop without slowing down, making crisp right angles and ascending and descending with tremendous acceleration.  The first sighting occurred at 23:00hrs (CST) on Thursday, 06/19/14, and the second sighting occurred an hour later on Saturday, 06/21/14.  The object displayed  red, blue and green colored lights that would slowly dim and brighten.  At first we thought it may have been a police helicopter but it had no beacon, no searchlight nor any sign of a forward light and it moved so effortlessly, guickly and silently through the sky. on both occasions it flew over central Austin, heading south and then north finally descending east of Interstate 35 resulting in its disappearance behind our nearest treeline.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110629.html](http://www.nuforc.org/webreports/reports/110/S110629.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Corpus Christi (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>These five objects were about 300 to 600 feet above the ground, may 1/4 mile from us.These objects were not moving at first, appeared to have a blue color. One of the objects had an scope type "thing" pop up and back  down into the object, the object would than rotate completely around on itself. Two objects moved, a mile or so away from the other three then could no longer be seen. The other three objects remain without moving, than all three arranged in a triangel shape, lasting a few more minutes, than they moved away from view.These objects were not planes or anything we have ever seen before.Observers are as follows; all above the age of 40, all work, known to be very reliable people.Point of contact, ((personal information deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08143.html](http://www.nuforc.org/webreports/reports/008/S08143.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
