@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:33 on 19 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:25 on 19 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Wayne (NJ) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Bright, Cigar Shaped UFO following Commercial Jetliner in NJI live underneath a congested air traffic area that it used for approaches to Newark Liberty, Laguadia, and JFK. The bright, white, cigar shaped object that my grandmother and I spotted was following an approaching commercial jetliner. The UFO was located slightly above the jetliner, following from a distance of about 5-10 miles behind it. The UFO didn't make any sharp movements, nor did it grossly stand out. The UFO simply followed the jetliner at a constant safe speed in a direct straight line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57265.html](http://www.nuforc.org/webreports/reports/057/S57265.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in East Chicago (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Lights starts and stops in the sky.I was outside walking my dogs and happen to look up at the sky.  As I kept starring I noticed what seemed to be a shooting star. But this shooting star was stopping and going. It than changed its course from south to north, to west to east for about two seconds. Than went from south to north again. It kept its course till it disappeard into the horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29313.html](http://www.nuforc.org/webreports/reports/029/S29313.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
