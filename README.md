@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:43 on 19 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:32 on 19 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lebanon (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>a critical detail is that someone posted a video of sighting UFOs very near me just 3 days agoSirs:  At approximately 11:30am, I was pulling into a shopping center parking lot in Lebanon Ohio.  I immediately took notice of an oval-oblong chrome object moving silently across a crystal clear blue sky.  No clouds in sight.  I immediately parked my car and got out and continued to watch it as it moved to the west.  As I was watching it, another object, oval-oblong chrome, seemed to 'appear' and began moving north toward Dayton.  The first object continued in its west direction.  The objects made no sound.  Then a passenger jet began approaching from the west.  It looked like a JET - no confusion. It was distinctly a passenger Jet. Curious about the sighting, I googled the search UFOs seen over Lebanon Ohio June 19, 2013.  To my surprise, a video is posted of a "fleet of UFO's seen over Montgomery Ohio on June 16, 2013". Montgomery is about 20-30 minute drive south of Lebanon. Here is the link to that video  http://www.dailymotion.com/video/x110apl_ufo-fleet-over-montgomery-ohio-15-june-2013_tech#.UcHjvJyA_f1</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98754.html](http://www.nuforc.org/webreports/reports/098/S98754.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Fishers (IN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 84</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157515.html](http://www.nuforc.org/webreports/reports/157/S157515.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
