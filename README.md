@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:30 on 19 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:28 on 19 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Custar (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately i dont know we were hidin - i dont know we were hidin minutes.</sub><blockquote><sub>it was circle with bright yellow and red lightsme and my friends were sitting on her porch and we heard a loud hummmmmmm type thing and looked up and seen it and then we hid under the table!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70566.html](http://www.nuforc.org/webreports/reports/070/S70566.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Moose (WY) reported seeing craft that fit the description of some 'Disk' over a period of approximately Unk - Unk minutes.</sub><blockquote><sub>Disc shaped object over Grand Tetons in WYDisc shaped craft seen in picture of mountains at Grand Teton National Park.  We discovered the disc in the photo after we returned home from vacation to Yellowstone National Park.  When zooming in to picture, disc appears to have a white colored halo and something protruding from the left side.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142035.html](http://www.nuforc.org/webreports/reports/142/S142035.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
