@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:25 on 19 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:22 on 19 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Corpus Christi (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>These five objects were about 300 to 600 feet above the ground, may 1/4 mile from us.These objects were not moving at first, appeared to have a blue color. One of the objects had an scope type "thing" pop up and back  down into the object, the object would than rotate completely around on itself. Two objects moved, a mile or so away from the other three then could no longer be seen. The other three objects remain without moving, than all three arranged in a triangel shape, lasting a few more minutes, than they moved away from view.These objects were not planes or anything we have ever seen before.Observers are as follows; all above the age of 40, all work, known to be very reliable people.Point of contact, ((personal information deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08143.html](http://www.nuforc.org/webreports/reports/008/S08143.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Plymouth (NH) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>silent, bright blinking light, slow moving, close to the tree topsA flashing light caught my eye while driving. Turning in that direction, I saw an object drifting over the road to my left.  It was basically cigar shaped with a small asymmetrical "wing" on one side. The flashing light was at the end of this "wing".  One end of the craft glowed with a red light. The other end appeared to have 3 panels attached to the bottom of it.  The center panel had 2 white lights illuminated; the outer 2 panels had 3 green lights illuminated.  The object seemed close enough to hit if you stood on the roof of the 2 story building under it and fired a roman candle straight up.  It appeared to be moving with intend but at a slow speed.  It was completely silent.  My view was obstructed by trees before the craft changed direction or speed or anything.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75941.html](http://www.nuforc.org/webreports/reports/075/S75941.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
