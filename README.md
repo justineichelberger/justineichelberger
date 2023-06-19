@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:26 on 19 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:26 on 19 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Fort Wayne (IN) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Two dull orange lights side by side  moving together in a straight line then made a slight arch in it's path. There wer no sounds and mTwo lights side by side- both were dull or hazy Amber to Orange in color traveling from the Northeast to the Southwest.I noticed the lights West Northwest of overhead but North and East of Arcturus and were visual for about 20 degrees going south before trees got in the way. Lasted approximately 5 seconds. The object or objects traveled side by side in a straight line to the South-Southwest and did a slight bow in it's flight path and then headed more to the Southwest. It or they did not have a tail and there was no sound of a jet or prop plane. The lights were larger then any star out and seem larger and duller then plane lights (commerial fights). They seemed to fast for for a high altitude flight. The Fort Wayne International airport is SouthWest of my location. I've seen many planes, but none that acted like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13148.html](http://www.nuforc.org/webreports/reports/013/S13148.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1965, an anonymous witness in Western Pacific () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>high speed ufo spotted and tracked on U.S. Navy radarIn about June of 1965, while in the US Navy, aboard a destroyer in the Western Pacific, we observed a UFO on radar at about midnight one night. We first picked up the object on our long-range air search radar at about 300 miles.  It flew "down" our radar beam (descended towards our ship), overflew us and then exited on a reverse profile, disappearing at about 300 miles again.  This happened in an extremely short period of time. In the ensuing 40 years, I've forgotten the particulars, but I do remember that we calculated the craft's speed in excess of 50,000 mph.  This was not a so-called "ghost" image, or a radar signal bouncing off the moon. We were a seasoned crew of trained radar experts. We knew what we were seeing and tracking.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43396.html](http://www.nuforc.org/webreports/reports/043/S43396.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
