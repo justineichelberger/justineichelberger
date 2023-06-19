@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:37 on 19 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:37 on 19 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Devon Meadows (VIC, Australia) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Big, very bright and extremly fast.I was walking when a weird shaped object havered above my head. It was a bright light and took off as soon as i looked up. I was going so fast i could only watch it fly though the sky for about three seconds. It was very bright and changed colour as it went thought the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37696.html](http://www.nuforc.org/webreports/reports/037/S37696.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Goose Creek (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Low fast flying triangular object over the tree tops.My girlfriend and I were going up to the Burger King in Goose Creek when we both noticed a large triangular object in the sky moving from left to right very fast; it did not look like any air craft we have seen.It was black, about 500-1000 feet in the air, just above the tree line.  It had to be at least 25 yards across, 50 yards long.  It had 3 steady white lights at the top and one at the back in the center.  No flashing lights what so ever, moved quietly and if it weren't for having to look at the sky from the windshield, we would have never saw it.  We tried to get to where we could see it if it was a normal plane and it was gone.  I looked at least a mile down the road and I saw nothing.When we got back, non-civilian crafts were flying in the direction that the UFO was flying, and those were at the same altitude of the UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119643.html](http://www.nuforc.org/webreports/reports/119/S119643.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
