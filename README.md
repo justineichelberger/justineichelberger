@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:37 on 19 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:29 on 19 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Goose Creek (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Low fast flying triangular object over the tree tops.My girlfriend and I were going up to the Burger King in Goose Creek when we both noticed a large triangular object in the sky moving from left to right very fast; it did not look like any air craft we have seen.It was black, about 500-1000 feet in the air, just above the tree line.  It had to be at least 25 yards across, 50 yards long.  It had 3 steady white lights at the top and one at the back in the center.  No flashing lights what so ever, moved quietly and if it weren't for having to look at the sky from the windshield, we would have never saw it.  We tried to get to where we could see it if it was a normal plane and it was gone.  I looked at least a mile down the road and I saw nothing.When we got back, non-civilian crafts were flying in the direction that the UFO was flying, and those were at the same altitude of the UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119643.html](http://www.nuforc.org/webreports/reports/119/S119643.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Algonquin Park (Canada) (ON) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>2 Bright Lights, hovering in the horizon and then jerk to the right.We were taking a canoe night ride, and just as the sun was setting, I notice a bright light on the horizon. I thought it was venus or something and then another light appeared about 2 cm from the first lights position. They both started moving across the sky at medium speed in a straight line at first. Then suddenly, They jerked to the right, and hovered around the direction of the big dipper for about 30 seconds. Then they bolted off into the sky. As they were leaving, they almost looked like they had tails, as a comet would. After that, we got out our scuba flash light, and we started sending out moarse code pulses of light into the direction they went (we are always ready for stuff like this and are always hoping for an encouter). To our surprise, about 10 secs after we did this, we got 2 very faint flashs as if it were coming from the crafts.((NUFORC Note:  Anonymous report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14892.html](http://www.nuforc.org/webreports/reports/014/S14892.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
