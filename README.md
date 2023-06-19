@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:38 on 19 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:22:11 on 19 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Fuquay Varina (NC) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Massive aircraft hovering just above tree-lineSitting on the front porch smoking a cigarette, I noticed 3 lights hovering over the tree line,  I then pointed it out to my gf, and we began trying to figure out what it could be.  during this process the object stayed hovering for about the time it time it took to finish my cigarette, at this time we started walking in that direction.  it seemed almost as soon as we began to walk towards it the object began moving and the light formation had changed it began with one yellow light in front one in the back and a red/orange one in the middle. This time it was yellow yellow red.  As we reached a clearing a little down the road we were able to see the object pretty clearly as it slowly went downward.  This aircraft was easily 3 times the size of a grounded airplane had only 3 lights and made absolutely no sound at all.  it went behind a small group of tree but then never came out the other side.  As we were walking back to the house we noticed multiple airplanes and one helicopter almost surveying the exact area we just witnessed this enormous aircraft. :note:  I have always been a skeptic about UFOs but tonight just changed that.  This thing was like a ocean liner in the sky and just above tree level there is no other explanation for that.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  We would like to speak with the source of the report, to satisfy ourselves that it is a seriou-minded report, but we have no means of contacting the source.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127976.html](http://www.nuforc.org/webreports/reports/127/S127976.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>red,blue,green cylinder or egg-shaped craft directly over central Austin, Texastwice now, my apartment mate and i have seen an egg/cylinder-like craft flying at an unknown height and moving silently and swiftly coming to a full stop without slowing down, making crisp right angles and ascending and descending with tremendous acceleration.  The first sighting occurred at 23:00hrs (CST) on Thursday, 06/19/14, and the second sighting occurred an hour later on Saturday, 06/21/14.  The object displayed  red, blue and green colored lights that would slowly dim and brighten.  At first we thought it may have been a police helicopter but it had no beacon, no searchlight nor any sign of a forward light and it moved so effortlessly, guickly and silently through the sky. on both occasions it flew over central Austin, heading south and then north finally descending east of Interstate 35 resulting in its disappearance behind our nearest treeline.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110629.html](http://www.nuforc.org/webreports/reports/110/S110629.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
