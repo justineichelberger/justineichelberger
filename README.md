@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:39 on 20 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:29 on 20 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Bremerton (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>blazed along tree line then dissapeared.A friend and I were talking, leaning against my car late one summer night. The crickets were out and chirping. For some reason we both stopped talking and a huge light in a triangle shape caught our eye. It was real dark except for a couple house lights on. It was over the tree line, not sure of distance, and it moved very slowly, what I would guess as about 20 to 40 MPH. The crickets stopped chirping as this thing moved. I could hear a faint "crackling" noise as it moved. There was no other sound as This is a secluded area. We held our breath as this thing reached a spot in the sky and rocketed at about a 75 degree angle out of sight, it did leave a faint light trail that lasted half a second or so and then was gone. We thought it may have been over the bangor sub base. If it was it was farther away than I thought and had to have been very large to have been that visable. A very unreal experiance and no one believes me.  I dont know what I saw but I do know that humans do not have that kind of capability, no airplane flies that slow with no noise then dissapears that quickly.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27455.html](http://www.nuforc.org/webreports/reports/027/S27455.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Indianapolis (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Red flame flying through the sky.I live in the Geist area of Indianapolis and I work in Marketing for a large corporate law firm.  I'm not a UFO chaser but did just see something strange in the sky. I was taking out the garbage and off to the south of my house I saw a light that caught my eye.  It travelled north for about 1 minute.  It was about as high as a low flying plane and it disappeared before it should have left my sight.  It moved very steadily and in a straight line.  The only way to describe it is it looked like an emergency road flare flying across the sky.  It was red and steady but it flickered a bit and was moving quickly.  It went over my street, right above me then as it went past, it was gone.  I've seen flares shot that float to earth on the little parachutes and it looked exactly like that except it was moving fast and in a forward direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89743.html](http://www.nuforc.org/webreports/reports/089/S89743.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
