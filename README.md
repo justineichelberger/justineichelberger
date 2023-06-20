@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:32 on 20 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:00 on 20 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Tenino (WA) reported seeing craft that fit the description of some '' over a period of approximately 1.0166666666666666 - 1.0166666666666666 minutes.</sub><blockquote><sub>((NUFORC Note:  Source of report includes no information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163984.html](http://www.nuforc.org/webreports/reports/163/S163984.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Lebanon (VA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Yellow ball surronded by red fire, followed by a blue tailYellow ball of fire with red flames surrouding the ball with a bright light blue tail of fire following it. The whole thing was as bright as an arce weld from a welder. it hurt our eyes to look at it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13563.html](http://www.nuforc.org/webreports/reports/013/S13563.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
