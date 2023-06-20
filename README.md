@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:01:54 on 20 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:46 on 20 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in St. Augustine (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My wife and I were driving east on highway 207 about 25 miles from beach when I look up and seen the sun being block out by strait lines going up like someone was blocking out the sun then sideways but always blocking the sun out  I tried to film it on my iPhone but when we reviewed it there was nothing there like it never happen and this thing completely block out the sun at one point and then the sun started coming back like someone was lifting a curtain what ever it was it was invisible to the eyes and not there for any type of electronics my wife and I have beer talk about until now maybe others seen it I hope so I'm starting to think I'm crazy it's easier to explain in person the way this thing rose up sideways and down all at the same time((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111742.html](http://www.nuforc.org/webreports/reports/111/S111742.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lancaster (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>East on route 30, noticed an oval shaped silverish mirror appearance object in sky.  Very still in the sky and then disappeared.Driving East on route 30 reaching a light.  I noticed a sparkle and or reflection of sun in the sky and started to stare and noticed an oval shaped (zeppelin shape in comparison) silverish mirror like material hovering or floating in the sky.The object was very still.  Then it seemed or started to turn in a different direction.  Because I noticed the shape changing.  Then it just seemed to vanish like magic.  All this in about 2-3 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110401.html](http://www.nuforc.org/webreports/reports/110/S110401.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
