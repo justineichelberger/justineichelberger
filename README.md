@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:53 on 20 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:34 on 20 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Church Hill (TN) reported seeing craft that fit the description of some 'Flash' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Explosion in the air.I was at my neighbors discussing some work I am doing for him.  It was dark.  Three of us were satnding in a circle when my neighbor shouted, "Look!"  He pointed over my shoulder and when I turned I saw two brilliant flashes of light above the clouds in rapid succession.  Then some smaller orange lights radiated from the center of the flashes and rapidly faded as if an explosion had occured.  About one minute later we heard the explosion very plainly.  My told me they saw an object fly to the spot before the explosion but I did not turn around in time to see it, I only witnessed the explosion.  I called and reported it to Tri Cities Regional Airport safety line. After the explosion we decided to go see if anything had fallen out of the sky but were sidetracked by small orange/white or gold lights flying slowly.  We only saw one at a time but they (it) would disappear and then reappear somewhere else.  I am not totally convinced they were not airplane landing lights, but this area just does not have that kind of air traffic volume.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13168.html](http://www.nuforc.org/webreports/reports/013/S13168.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Muncie (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately few minutes - few minutes minutes.</sub><blockquote><sub>Black triangle with 2 bright white lights on back 2 points floated by, no sound.  paused lights turned to orange  craft disappearedJune 20, 2007  I was fishing at a pond in Muncie IN with 2 of my friends.  Around 10:30pm I noticed something in the sky, it was a large black triangle with 2 bright white lights on the back points.  This large craft floated overhead in kind of a horseshoe like move then it went off slowly, to the right in a straight line. It didn't make any sound at all. This lasted for a few minutes, during this time my friends and I were trying to figure out if it was military, a UFO, or something else.  We were very excited either way.  We kept watching this craft go to the right of us, then it seemed to pause, the lights seemed to get brighter... then all of the sudden the white lights turned to orange and the entire craft disappeared. At this point the 3 of us determined this thing was definitely a UFO.  I am not saying that this craft must be extraterrestrial, but if it is man made it is being kept a secret from the public.  In any case I got really creeped out by seeing it had my friends take me home shortly afterwards. Also, the pond that we were at, was very close to a small airport in Muncie IN</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57613.html](http://www.nuforc.org/webreports/reports/057/S57613.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
