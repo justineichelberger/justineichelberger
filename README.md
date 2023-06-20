@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:46 on 20 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:24 on 20 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lancaster (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>East on route 30, noticed an oval shaped silverish mirror appearance object in sky.  Very still in the sky and then disappeared.Driving East on route 30 reaching a light.  I noticed a sparkle and or reflection of sun in the sky and started to stare and noticed an oval shaped (zeppelin shape in comparison) silverish mirror like material hovering or floating in the sky.The object was very still.  Then it seemed or started to turn in a different direction.  Because I noticed the shape changing.  Then it just seemed to vanish like magic.  All this in about 2-3 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110401.html](http://www.nuforc.org/webreports/reports/110/S110401.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Cary (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>A red light from  zero to light speed, no time flat.As I and and about 13 other friends (about 6 of which saw this) was walking out of a path between trees, to a parking lot. I notice a red glow on the pavement. I thought it was from the moon. So I turned to ask did anyone other than me notice it, and as I did one of my friends was pointing up to the sky and he said "what is that" I looked up to the direction he was pointing, and I saw a red light in the sky not moving at all, than it just took off like light speed. As it went over the pavement I could see the red glow that was on the ground leave with it. It went over a school and we saw it no more. I was about 1/2 mile in the sky. MOst of whome saw this had mixed views as to what it was, But I know what I saw. Note. I am a Bible school student and I do not lie.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24040.html](http://www.nuforc.org/webreports/reports/024/S24040.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
