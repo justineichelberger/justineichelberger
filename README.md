@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:21 on 20 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:01:54 on 20 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in Atlantic Ocean (in-flight) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1972 hurraine agnes - 1972 hurraine agnes minutes.</sub><blockquote><sub>WHEN I SEEN JESUS I WAS NOT AFRAID. CIGAR SHAPE FLYING OBJECT.  IN 1972..  ACROSS FROM MY PLANE ABOUT 150 FEET.HI THIS HAPPEN IN 1972 HURRAINE (Six.  Hurricane) AGNES, PLANE TRIP TO ITALY.  THIS WAS A CIGAR SHAPE OBJECT, NO WINGS.  IT WAS ABOUT 150 FT ACROSS FROM MY PLANE.  IT WAS I THINK A LONG AS THE PLANE I WAS IN.  IT WAS SOMETHING LIKE A PLANE.  I SAW ABOUT 8 UFO PEOPLE.  IT WAS IN COLOR.  THE LAST PERSON ON THE PLANE LOOK LIKE JESUS (BUT THE FACES WERE SMEARED.  AS SOON AS I POINTED TO THEM IS TOOK OFF QUICK.  THE SPEED OF THEIR CIGAR SHAPE OBJECT, I SAY DOUBLE THE SPEED AS MY PLANE.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147533.html](http://www.nuforc.org/webreports/reports/147/S147533.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in St. Augustine (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My wife and I were driving east on highway 207 about 25 miles from beach when I look up and seen the sun being block out by strait lines going up like someone was blocking out the sun then sideways but always blocking the sun out  I tried to film it on my iPhone but when we reviewed it there was nothing there like it never happen and this thing completely block out the sun at one point and then the sun started coming back like someone was lifting a curtain what ever it was it was invisible to the eyes and not there for any type of electronics my wife and I have beer talk about until now maybe others seen it I hope so I'm starting to think I'm crazy it's easier to explain in person the way this thing rose up sideways and down all at the same time((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111742.html](http://www.nuforc.org/webreports/reports/111/S111742.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
