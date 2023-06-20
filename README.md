@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:34 on 20 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:30 on 20 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Muncie (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately few minutes - few minutes minutes.</sub><blockquote><sub>Black triangle with 2 bright white lights on back 2 points floated by, no sound.  paused lights turned to orange  craft disappearedJune 20, 2007  I was fishing at a pond in Muncie IN with 2 of my friends.  Around 10:30pm I noticed something in the sky, it was a large black triangle with 2 bright white lights on the back points.  This large craft floated overhead in kind of a horseshoe like move then it went off slowly, to the right in a straight line. It didn't make any sound at all. This lasted for a few minutes, during this time my friends and I were trying to figure out if it was military, a UFO, or something else.  We were very excited either way.  We kept watching this craft go to the right of us, then it seemed to pause, the lights seemed to get brighter... then all of the sudden the white lights turned to orange and the entire craft disappeared. At this point the 3 of us determined this thing was definitely a UFO.  I am not saying that this craft must be extraterrestrial, but if it is man made it is being kept a secret from the public.  In any case I got really creeped out by seeing it had my friends take me home shortly afterwards. Also, the pond that we were at, was very close to a small airport in Muncie IN</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57613.html](http://www.nuforc.org/webreports/reports/057/S57613.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Chiddingfold (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>20-30 bright lights in chiddingfold, surrey, uk.all were traveling in straight lines but they were not all in a line, but they were following each other. they were bright orange to start with then faded until they came to a cloud they then faded dull orange and diapeared behind the cloud. the sky was qiute bright.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70602.html](http://www.nuforc.org/webreports/reports/070/S70602.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
