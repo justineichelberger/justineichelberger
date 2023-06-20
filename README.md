@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:17:45 on 20 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:35 on 20 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Tunbridge Wells (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>moving bright "star" made zigzag manouver and slowly fadedI was working at my computer and decided to take a break, it was around 22:30 gmt, I stepped out on to our patio and on looking up at the sky I noticed an aircraft quite low in the sky probably on an approach to Gatwick Airport, it was at that point that I noticed what appeared at first to be a large star moving in a Northery direction, it continued to move in this direction for around 45 seconds then made an extremely fast zigzag manouver and then slowly faded which gave the impression that it was moving away at a considerable speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18241.html](http://www.nuforc.org/webreports/reports/018/S18241.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Palmdale (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Unidentified orange light travelling at high speed with sudden changes in direction.A little before one o clock this morning I was laying in my friends room talking with her. My friend called me and told me to go out side and look up into the sky for an orange lighted unidentified flying object. We ran through the house to go out side and at first we did not see it because it was behind a tree but after passing the tree it became clearly visible. It appeared orange travelling at a very high speed thus confirming that it was not a usual aircraft seen in the sky. The craft travelled about five miles with in a minute to a minute and a half moving in sudden different directions. At one point it seemed as if it were moving towards us, soon after the light dissappeared. We did not take our attention off of the light at any moment.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64004.html](http://www.nuforc.org/webreports/reports/064/S64004.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
