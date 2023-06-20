@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:34 on 20 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:21 on 20 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Pinecastle (FL) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Myself and my golf buddy was on our way to a small golf club near the orlando international air port.  We stoped for a traffic light near a large wooded area.  As we were looking at the traffic light a large cylinder shaped object rose up and stayed suspended in air for about 8 seconds.  It had small oval circles  or portholes  near the top of it, their was no wings and no sound.  It was covered with a greenish white glow all the way around the outside of the object.  We both saw the same thing it was awsome.  I never beleved in reports like ths before my sighting, but I do now.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70639.html](http://www.nuforc.org/webreports/reports/070/S70639.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in Atlantic Ocean (in-flight) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1972 hurraine agnes - 1972 hurraine agnes minutes.</sub><blockquote><sub>WHEN I SEEN JESUS I WAS NOT AFRAID. CIGAR SHAPE FLYING OBJECT.  IN 1972..  ACROSS FROM MY PLANE ABOUT 150 FEET.HI THIS HAPPEN IN 1972 HURRAINE (Six.  Hurricane) AGNES, PLANE TRIP TO ITALY.  THIS WAS A CIGAR SHAPE OBJECT, NO WINGS.  IT WAS ABOUT 150 FT ACROSS FROM MY PLANE.  IT WAS I THINK A LONG AS THE PLANE I WAS IN.  IT WAS SOMETHING LIKE A PLANE.  I SAW ABOUT 8 UFO PEOPLE.  IT WAS IN COLOR.  THE LAST PERSON ON THE PLANE LOOK LIKE JESUS (BUT THE FACES WERE SMEARED.  AS SOON AS I POINTED TO THEM IS TOOK OFF QUICK.  THE SPEED OF THEIR CIGAR SHAPE OBJECT, I SAY DOUBLE THE SPEED AS MY PLANE.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147533.html](http://www.nuforc.org/webreports/reports/147/S147533.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
