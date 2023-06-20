@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:29 on 19 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:32 on 20 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright, Oval, Slow Moving, Single-Aircraft with blinking colorful lights hovering over Chicago, IL  10:30PM 6/19/2011At 10:30pm on Sunday night, 6-19-2011, I was in my apartment when I noticed the sky glowing an unusual purple outside my window.  I stepped out onto my 28th story balcony to see what why the sky was so lit up at 10:30 at night.  I immediately noticed an unusual aircraft at the center of the illuminated sky.  My initial reaction was that it was some new kind of advertising blimp with flashy lights.  As I continued to study the aircraft I realized how unfamiliar and strange it appeared and it seemed to be flying too high above the city to be advertising anything legible.Aircraft Description:  Single aircraft -Extremely bright  -Blinking lights, from white, to red, to blue  -Oval in shape  -Slow moving, almost hovering  -Strange flight pattern, (first moved NE, then came back and moved SW vanishing from the viewpoint of my balcony.)   Personal Reaction to the Sighting:  After staring for a few minutes in disbelief I grabbed my i-phone took two pictures and a brief video.  Called my mom, a few friends, and your hotline.My Background:  I was alone at the time this occurred, I had just come home from Father’s day dinner with my family and was getting ready to go to sleep.I am a 24 year old female,college graduate in Economics; currently working in Finance and definitely not a person who has given UFO’s much thought until now.Seeking clarification on what I saw last night.  I’m fascinated by the possibility this could be an unknown, but I would like to know if what I saw was simply a blimp or some other man-made aircraft.If someone could look at my photos and videos and get back to me I would appreciate it.Did anyone else see this???</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81863.html](http://www.nuforc.org/webreports/reports/081/S81863.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Tenino (WA) reported seeing craft that fit the description of some '' over a period of approximately 1.0166666666666666 - 1.0166666666666666 minutes.</sub><blockquote><sub>((NUFORC Note:  Source of report includes no information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163984.html](http://www.nuforc.org/webreports/reports/163/S163984.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/163/S163736.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164120.html)
-- [351](http://www.nuforc.org/webreports/reports/163/S163737.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164116.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164018.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
