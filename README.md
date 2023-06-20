@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:30 on 20 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:28 on 20 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Chiddingfold (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>20-30 bright lights in chiddingfold, surrey, uk.all were traveling in straight lines but they were not all in a line, but they were following each other. they were bright orange to start with then faded until they came to a cloud they then faded dull orange and diapeared behind the cloud. the sky was qiute bright.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70602.html](http://www.nuforc.org/webreports/reports/070/S70602.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Berlin (NH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>1 Large gold light below left of moon fades out 4 more large gold lights appear same area loud engine noise.While walking to my vehicle looking at the moon I seen a bright gold colored light left of the moon think this was Venus I thought wow nice view then the light faded out all the time I was hearing what sounded like Jet engines but seen no contrails or anything.  I put my stuff in the vehicle still hearing the engine noise suddenly four very large gold color lights reappeared in the sky just left of the moon and faded in and out then disappeared I continued to watch the sky as I could hear the engine noise but could not see anything.  The moon was almost full and bright and the sky was clear as the the sun was still peaking light over the mountains so the stars were not yet visible.  new development I can hear the same engine noises  but see nothing sky still clear it is 22:27  The engine noise sounds as if your were testing a jet engine on a stand.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98768.html](http://www.nuforc.org/webreports/reports/098/S98768.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
