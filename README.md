@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:24 on 20 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:34 on 20 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Cary (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>A red light from  zero to light speed, no time flat.As I and and about 13 other friends (about 6 of which saw this) was walking out of a path between trees, to a parking lot. I notice a red glow on the pavement. I thought it was from the moon. So I turned to ask did anyone other than me notice it, and as I did one of my friends was pointing up to the sky and he said "what is that" I looked up to the direction he was pointing, and I saw a red light in the sky not moving at all, than it just took off like light speed. As it went over the pavement I could see the red glow that was on the ground leave with it. It went over a school and we saw it no more. I was about 1/2 mile in the sky. MOst of whome saw this had mixed views as to what it was, But I know what I saw. Note. I am a Bible school student and I do not lie.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24040.html](http://www.nuforc.org/webreports/reports/024/S24040.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>At approximately 8:15pm mountain time on Wednesday 6/20/12 I saw an Unidentified Flying Object over Denver Colorado.  There was a weather system moving from the south to the north. The leading edge of the system had broken up into small clouds creating small gaps of clear sky.  I saw what  I thought was an airliner.  I realized this object was moving to fast to be a passenger plane.  However it was at approximately the same height as a high fling airliner, somewhere in the 25000 ft range.The object itself was white. It was triangular shaped.  The leading point was farther away from the the 2 aft points making an elongated triangle. This object was moving very fast defiantly not fast enough to be an airliner.  There was no sound.  The light was very good.  The sun was at a great angle to reflect off the object while being behind the clouds of the weather system.  There was no trail or aura.I am a enthusiast of military air craft. I know the difference in shape of most military air craft.  This was not a fighter jet.  This was not an F-117 or B2 bomber. I have  a physical every year and my eye sight is checked at that time.  It has been checked at 20-10 vision.  This is better then 20-20. I can see very well. If I had to guess I would say this object was man made.  I would say it is a lifting body possibly a space plane, a plane capable of flying from ground to orbit to back.  I would guess it is the new spy plane to replace the SR-71 blackbird.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89768.html](http://www.nuforc.org/webreports/reports/089/S89768.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
