@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:29 on 20 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:27 on 20 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Indianapolis (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Red flame flying through the sky.I live in the Geist area of Indianapolis and I work in Marketing for a large corporate law firm.  I'm not a UFO chaser but did just see something strange in the sky. I was taking out the garbage and off to the south of my house I saw a light that caught my eye.  It travelled north for about 1 minute.  It was about as high as a low flying plane and it disappeared before it should have left my sight.  It moved very steadily and in a straight line.  The only way to describe it is it looked like an emergency road flare flying across the sky.  It was red and steady but it flickered a bit and was moving quickly.  It went over my street, right above me then as it went past, it was gone.  I've seen flares shot that float to earth on the little parachutes and it looked exactly like that except it was moving fast and in a forward direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89743.html](http://www.nuforc.org/webreports/reports/089/S89743.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in Conroe (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Unknow 6 ft long ball of flame fire that pause, fly 3 circle around the tree then up it went.At the time we were playing around a 25 feet oak tree infront of our apartment complex, we seen this ball of fire flew our way stop at the top of the tree that we play under.  Approximately 6 ft long ball of fire red, orange, yellow, green, and blue went around the tree 3 time, it stop again then take off.  This particular ball of fire was seen two time around the wooded apartment complex.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Date may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87390.html](http://www.nuforc.org/webreports/reports/087/S87390.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
