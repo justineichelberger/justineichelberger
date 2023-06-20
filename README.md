@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:27 on 20 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:42 on 20 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in Conroe (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Unknow 6 ft long ball of flame fire that pause, fly 3 circle around the tree then up it went.At the time we were playing around a 25 feet oak tree infront of our apartment complex, we seen this ball of fire flew our way stop at the top of the tree that we play under.  Approximately 6 ft long ball of fire red, orange, yellow, green, and blue went around the tree 3 time, it stop again then take off.  This particular ball of fire was seen two time around the wooded apartment complex.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Date may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87390.html](http://www.nuforc.org/webreports/reports/087/S87390.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Fresno (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>BIG NOISELESS CRAFT AT SPEEDS FASTER THAN ANY THING EVER HEARD OF.Arround 2;oo a m, my cousin was driving, when, all of a sudden, a light came down very fast, and settled about 1/2 mile ahead of us,probably 150 feet above the ground. We had to pass right under this craft, which wasn't a helicopter, or an airplane. There was a dim light hovering arround this oval shaped object, but we could not tell where the light was coming from; it was just there. Right before we got close to it, it moved to the side of I-5, briefly touched down, didnt make a sound, or lift a single particle of loose sand. About 2 seconds later, it took off, moved back  to it's original possition, by now above us.It was as big as a football field, and didn't make a single sound. Then it took off, and it was amazing how such a big aircraft moved so fast without making the slightest sound. It was so fast, that it dissapeared in the sky in less than a full second. We looked at each other, described what we had just seen, and promised not to sayanything to anybody, fearing they would say we were crazy. We have talked about it 2 or 3 times since then; I have told my immediate fammily, and they don't seem to believe. Both me and my cousyn were 30 years old at the time.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48560.html](http://www.nuforc.org/webreports/reports/048/S48560.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [482](http://www.nuforc.org/webreports/reports/164/S164090.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163777.html)
-- [480](http://www.nuforc.org/webreports/reports/163/S163998.html)
-- [479](http://www.nuforc.org/webreports/reports/164/S164017.html)
-- [478](http://www.nuforc.org/webreports/reports/164/S164112.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
