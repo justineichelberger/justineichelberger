@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:22 on 21 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:50 on 21 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in St. Augustine (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately ? - ? minutes.</sub><blockquote><sub>Help requested identifying object over wall of fort in FloridaMy family and I were in St. Augustine, FL for the day.  We were at the fort, Castillo de san Marcos, where we have visited many times before.  We didn't see or hear anything unusual that day and none of us remember a plane, helicopter or anything else flying overhead (even though none of these things even vaguely resemble what we caught in the picture).  We just had the film developed and I also requested a picture CD.  As I was looking through the pictures one of them shows a distinctly silver, disk-shaped object over the fort.  I have no idea what this is and it was suggested to me find somewhere to send the picture in hopes of finding out just what we captured in this picture.  Can you help?  Again, nothing was noticed that day, just once we got the pictures back developed.  The picture was shot with a 35mm camera.((NUFORC Note:  We will request that the witness forward a copy of the photo to NUFORC for our perusal.  We receive many such photos and requests, and only very few of the photos, do we think, are of bona fide UFO's.  PD))((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29671.html](http://www.nuforc.org/webreports/reports/029/S29671.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in New York City (Manhattan) (NY) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A black object changed its shape slightly while floating over Manhattan.video URLs:  https://youtu.be/KS5gREkNpzg https://youtu.be/dwYCANyaWF4  My sister and I were driving in very slow traffic over the Manhattan Bridge, around 4 or 5pm on June 21st.  She spotted this very slow moving object drifting over Manhattan.  No idea what it was.  We thought maybe a flock of birds or balloons but it seemed a bit big for both of them.  When we saw planes flying they were small in comparison, reflective and moving much faster.  Any ideas?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134906.html](http://www.nuforc.org/webreports/reports/134/S134906.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/164/S164078.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164109.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163791.html)
-- [374](http://www.nuforc.org/webreports/reports/163/S163780.html)
-- [373](http://www.nuforc.org/webreports/reports/163/S163805.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
