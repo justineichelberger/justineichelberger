@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:26 on 21 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:01:09 on 21 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Coquitlam (Canada) (BC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>BRIGHT CIRCULAR SHAPED OBJECT IN SKY OVER COQUITLAMI was closing my porch blinds downstairs in my house when I saw a bright circular shaped  light in the sky. It was moving side to side and all over the place really. It was a cloudy night so no stars were visible and its movement was too strange to have been any kind of human made craft or satellite. Its brightness was like that of a star and the light kept dimming and coming back such as a dying light bulb. As I turned my head to phone my friend to look out his window to see it also I turned my head back and it was gone. It was not there earlier as I looked out the same window maybe 5min before and there was no lights in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57234.html](http://www.nuforc.org/webreports/reports/057/S57234.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5833333333333334 - 0.5833333333333334 minutes.</sub><blockquote><sub>Star-like lights switched places and disappeared.I was sitting outside enjoying the weather when I noticed 2 previously stationary, white, star-like objects begin to move in a rotation around their center.  At first I wasn't sure it was actually happening until they started speeding up.  They switched places around their middle, and slightly expanded out from the center.  They continued to expand until they created a 45 degree line from the ground, and then headed parallel to each other straight up and down.  The light to the east headed down and behind a building, the light to the west headed up and stopped.  It sat motionless for a bit.  I looked away for a moment to check a text, and when I looked back, it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119686.html](http://www.nuforc.org/webreports/reports/119/S119686.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/164/S164078.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164109.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163791.html)
-- [374](http://www.nuforc.org/webreports/reports/163/S163780.html)
-- [373](http://www.nuforc.org/webreports/reports/163/S163805.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
