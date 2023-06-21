@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:45 on 21 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:25 on 21 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 480.0 - 480.0 minutes.</sub><blockquote><sub>Many white lights/objects moving at high speeds throughout the day.I began taking photographs of the sky at approximately 07:00. I began noticing movement in the sky, but initially wrote it off as my imagination.  With the naked eye they were nearly impossible to see; small pinpricks of light moving at very high speeds.However, they were captured in the photographs.  Zooming in on the photos they appear to be small shining orbs or motes of light.  They almost resemble stars against the morning and afternoon sky, though I never noticed one sitting still.They seemed to be most noticable surrounding aircraft.I would wander outside at irregular intervals to snap a few more photos.  I stopped at approximately 16:30, at which time the lights or objects were still active.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81882.html](http://www.nuforc.org/webreports/reports/081/S81882.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fryeburg (ME) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange Orbs over Fryeburg, Maine.While Driving on Route 5 in Fryeburg, Maine, I witnessed 6 orange orbs in the sky to my left.While pulling over to get my camera out, 4 of them simply vanished.I was able to film 2 of them for a good minute or more.There was nothing in between the two orbs, I am positive it wasn't from planes.Also, in the video you see one of them simply fade out and the last remaining orb then starts moving around erratically, and I could not keep my camera on it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111303.html](http://www.nuforc.org/webreports/reports/111/S111303.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/164/S164078.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164109.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163791.html)
-- [374](http://www.nuforc.org/webreports/reports/163/S163780.html)
-- [373](http://www.nuforc.org/webreports/reports/163/S163805.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
