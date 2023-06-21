@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:25 on 21 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:33 on 21 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fryeburg (ME) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange Orbs over Fryeburg, Maine.While Driving on Route 5 in Fryeburg, Maine, I witnessed 6 orange orbs in the sky to my left.While pulling over to get my camera out, 4 of them simply vanished.I was able to film 2 of them for a good minute or more.There was nothing in between the two orbs, I am positive it wasn't from planes.Also, in the video you see one of them simply fade out and the last remaining orb then starts moving around erratically, and I could not keep my camera on it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111303.html](http://www.nuforc.org/webreports/reports/111/S111303.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Correctionville (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>triangular shape with 2 lights streaming offi was fishing at a local gravel pit when my friend said what the hell is that  i then turned around and seen a triangular shape,  the lights were shifting from point to point in perfect formation,  it did 2 rotations that i could see, then two of the lights jetted off into the sky and then dissapered at exactly the same spot,  the weather was completely nice no clouds or anything,  we could not believe what we had just witnessed, the event and lights were in extreme perfect formation, t o bright and fast to be anything manmade.((NUFORC Note:  Possible sighting of the ISS, flying in tandem with the Space Shuttle.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57245.html](http://www.nuforc.org/webreports/reports/057/S57245.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/164/S164078.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164109.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163791.html)
-- [374](http://www.nuforc.org/webreports/reports/163/S163780.html)
-- [373](http://www.nuforc.org/webreports/reports/163/S163805.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
