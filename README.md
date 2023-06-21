@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:37 on 21 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:26 on 21 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Wayland (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Fireball sighted moving across the sky in the Finger Lakes.At approximately 11:20 pm Eastern on June 21, 2014, I witnessed what I can only describe as an orange fireball moving across the sky at a moderate speed.  I was in my back yard in Wayland, NY, just south of the Finger Lakes, Hemlock and Canandaigua Lakes specifically.  I noticed the fireball when it was approximately 60 degrees above the horizon.  It moved on what seemed to be a straight trajectory from the northeast to the southwest.  As the fireball moved to the southwest, it remained fairly regular in brightness and shape until it was past my location, when it dimmed until I could no longer see it.  After a few seconds, it reappeared a bit smaller and less intense and then it appeared to “flash” as a silvery mark in the sky.  Eventually it moved far enough that I lost it against the ambient light nearer the southwest horizon.  The sky was very clear and the fireball was very bright compared to the stars in the sky tonight.  The fireball seemed to be exactly th! at, a fireball- its shape was not totally regular, it appeared to have actual flames, not just a glowing light.  It was much larger than any star or planet as seen with the naked eye but smaller than the moon.  It made no sound that I could hear apart from any other noise this evening.My initial reaction was to record the fireball with my phone.  The video does not show nearly the amount of detail or intensity that I was able to observe, but does provide an approximate record of how long it was visible.  My second thought was that it was a sky lantern, but after just a few seconds it was evident that that it was too bright, moving too fast, and moving laterally instead of vertically.  I have spent too much time camping or at the lake to think this was a lantern.  After it was clear that I wouldn’t be able to see the fireball again, I called NUFORC and filed this report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110489.html](http://www.nuforc.org/webreports/reports/110/S110489.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Creekside (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>13 red balls of light across night skyWas having cook out, my 8 yr old son pointed them out. 1 red ball of light in a circle shape came over the tree line, followed by 12 more.  Moved across night sky in a row with about 4 ft between each.  There was 2 adults myself and husband.  And 2 children 8 and 12.  We have never seen anything like it and my children are very scared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98797.html](http://www.nuforc.org/webreports/reports/098/S98797.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/164/S164078.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164109.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163791.html)
-- [374](http://www.nuforc.org/webreports/reports/163/S163780.html)
-- [373](http://www.nuforc.org/webreports/reports/163/S163805.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
