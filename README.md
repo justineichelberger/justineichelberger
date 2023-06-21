@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:22 on 21 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:26 on 21 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in La Porte (IN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Fire emitting sphere seen for the 4th time while on porch having a cigaretteWhile having a cigarette on the porch this object came into view from the west at 10:14 p.m.   I could not see see the craft at this time but I have seen this object on 3 other occasions.  The craft is a sphere shape and emits fire at the bottom.  It traveled from the west to the east at approximately 5 miles per hour with the flame flickering.  I tried to capture pictures of it using my digital camera but could only get the flame of the object (picture 100_5372.jpg - 100_5375.jpg)   The object made no sound and was approximately 50 feet above treetop level.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81909.html](http://www.nuforc.org/webreports/reports/081/S81909.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Coquitlam (Canada) (BC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>BRIGHT CIRCULAR SHAPED OBJECT IN SKY OVER COQUITLAMI was closing my porch blinds downstairs in my house when I saw a bright circular shaped  light in the sky. It was moving side to side and all over the place really. It was a cloudy night so no stars were visible and its movement was too strange to have been any kind of human made craft or satellite. Its brightness was like that of a star and the light kept dimming and coming back such as a dying light bulb. As I turned my head to phone my friend to look out his window to see it also I turned my head back and it was gone. It was not there earlier as I looked out the same window maybe 5min before and there was no lights in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57234.html](http://www.nuforc.org/webreports/reports/057/S57234.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/164/S164078.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164109.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163791.html)
-- [374](http://www.nuforc.org/webreports/reports/163/S163780.html)
-- [373](http://www.nuforc.org/webreports/reports/163/S163805.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
