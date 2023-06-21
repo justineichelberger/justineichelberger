@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:33 on 21 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:32 on 21 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Garden Grove (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>two objects, very high up. doing  criss cross formations across the sky.It was about 9:30 Pacific time and i was about to do my usual sit up routine before going out for my saturday evening. It sprinkled rain for a few minutes that evening and made the sky very clear with partial clouds.I was lying on my back staring at a 747 probably landing towards the long beach airport. Suddenly from the right side of my vision, i noticed two bright objects, extremely high up in altitude flying extremely fast side by side, then crossing each other as if they were flying some sort of formation, but almost as if the objects were playing, very organized. The objects were definetely not shooting stars or comets. The objects flew in a playful organized pattern across the sky at extrodonary speed. the way the objects criss crossed and exchanged paths was so amazing to see,lasted for 3-4 seconds,flying into in the distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70604.html](http://www.nuforc.org/webreports/reports/070/S70604.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Oshawa (Canada) (ON) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Red fireballs going up, then dwindled into pinkish/red round circulating objects as they directed NorthSouth East Oshawa, one at a time, Rocket like, Red Fireballs arose up past the clouds then mellowed out and became a flat, round, turning object floating north through the sky.  Once mellowed out, they became not as bright but still pinkish/red in color and almost seethrough. Was not a plane of any sort. no flashing probe lights and a plane could not manouver the way these objects did. There was about 5 minutes in between each one.  Very eerie and unusual?((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100042.html](http://www.nuforc.org/webreports/reports/100/S100042.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/164/S164078.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164109.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163791.html)
-- [374](http://www.nuforc.org/webreports/reports/163/S163780.html)
-- [373](http://www.nuforc.org/webreports/reports/163/S163805.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
