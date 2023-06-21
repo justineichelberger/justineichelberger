@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:45 on 21 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:45 on 21 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Groton (MS) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Low slow and completely silent.Standing outside on my deck off of my bedroom, I saw the object flying to the north, which was odd because typical air traffic in the area was from the east Boston across to the west.  The object was triangle shaped about 20 feet across and flying approximately no more than 100 feet off the ground.  The object was surrounded by 3 lights at each point of the triangle green red and blue lights.  The object flew over me on my deck and didn’t make any sound at all.  Low slow and silent is the best way to describe the object.  Worth noting  that the craft was flying in the general direction of a nearby radio telescope array that MIT uses for research.  It’s been a while I understand but I wanted to get my sighting documented in case anyone else might have seen it also.  I wanted to get my report added to the record because I’m convinced that what I saw was a UFO.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148466.html](http://www.nuforc.org/webreports/reports/148/S148466.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 480.0 - 480.0 minutes.</sub><blockquote><sub>Many white lights/objects moving at high speeds throughout the day.I began taking photographs of the sky at approximately 07:00. I began noticing movement in the sky, but initially wrote it off as my imagination.  With the naked eye they were nearly impossible to see; small pinpricks of light moving at very high speeds.However, they were captured in the photographs.  Zooming in on the photos they appear to be small shining orbs or motes of light.  They almost resemble stars against the morning and afternoon sky, though I never noticed one sitting still.They seemed to be most noticable surrounding aircraft.I would wander outside at irregular intervals to snap a few more photos.  I stopped at approximately 16:30, at which time the lights or objects were still active.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81882.html](http://www.nuforc.org/webreports/reports/081/S81882.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/164/S164078.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164109.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163791.html)
-- [374](http://www.nuforc.org/webreports/reports/163/S163780.html)
-- [373](http://www.nuforc.org/webreports/reports/163/S163805.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
