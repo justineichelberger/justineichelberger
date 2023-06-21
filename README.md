@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:25 on 21 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 21 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Winnetka (CA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>shiny object in the clear sky hoovering, then suddenly disappearsI was driving down the street and happened to look up in the sky because I saw something shiny, almost like metal or tin reflecting when the sun hits it.  It was the only thing that was in the sky, a clear sunny day with no clouds or anything.  I kept staring up at it as others in their cars did too because it was reflecting the sun so brightly.  I kept staring at it while it was stationary in the sky and without blinking it was GONE!  No movement, no nothing, just completely disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64029.html](http://www.nuforc.org/webreports/reports/064/S64029.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in Tucano (Brazil) () reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Flashing light two times with 15 seconds interval.I saw a a flashing light only twice in the same place , with 15 seconds interval. After a minute I could see a UFO copper aged appearance with no light, only the silhouette, flying L-shaped and fading.  It is the second time I've seen such an object.My father saw something the other day, and was amazed when I told the caracteriscias that met what he saw .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117997.html](http://www.nuforc.org/webreports/reports/117/S117997.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/164/S164078.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164109.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163791.html)
-- [374](http://www.nuforc.org/webreports/reports/163/S163780.html)
-- [373](http://www.nuforc.org/webreports/reports/163/S163805.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
