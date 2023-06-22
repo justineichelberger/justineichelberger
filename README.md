@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:11 on 22 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:22:07 on 22 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Marion (NY) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A dark bell or teardrop shaped object hovered in the sky and disappeared behind some clouds.object observed in a post rainstorm sky by itself. It was dark in color due to its distance and the weather conditions. The Object was bell or teardrop shaped and hovered for about 10 or so minutes. It then disappeared or went behind clouds. This was captured on video tape and is stored on my computer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34818.html](http://www.nuforc.org/webreports/reports/034/S34818.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>What looked at first like the average satellite made some abrupt turns before resuming its course northward.Firstly, sorry, I'm not only guessing the date, I'm also guessing the time - it could have been 22:00 or 24:00, I simply can't remember exactly. I happened to be taking a break from household chores and stood outside the back door to my home. I glanced upwards at the stars and, directly above me, I saw what I thought must be a satellite moving in a northerly direction, but much faster than any satellite I've seen previously, perhaps three or four times as fast as I would normally expect. It had the appearance of a star, in magnitude about halfway between the brightness of Venus and the dimmest naked eye star. I continued to watch it and, to my surprise, after about five seconds the object made an abrupt wide turn to the left, turning enough to reverse its course momentarily and then turned back again. The turns weren't particularly smooth and there seemed to be a variation in speed, although I'm no longer sure about that. The object resumed a straight course at an even speed (same speed as at first sighting taking greater distance into account) about ten degrees to the right of its original course. When it reached about forty five degrees above the horizon I lost it in the city haze. Had I seen it at that point I again would have assumed that it was a satellite. I know what high flying aircraft look like. I've seen high altitude weather balloons during the day. I've seen birds flying high with city lights reflecting off their wings. I see meteors periodically. This looked like a satellite, other than the movement and the speed.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37858.html](http://www.nuforc.org/webreports/reports/037/S37858.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
