@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:42 on 22 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:33 on 22 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Evansville (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>TO:  National UFO Reporting Center From:  ((Name deleted))  Dear National UFO Reporting Center, I live in the city of Evansville, located in southern Indiana.  At approximately 10:45 p.m. on June 22, my fiancee and I both noticed a strange speck of light as we stood on the ledge of our second story apartment.  The light behaved in a bizarre fashion, moving at what seemed to be incredible speeds in a zigzag motion back and forth.  It would disappear into some trees for a moment then reappear.  The entire episode lasted until 10:50. In are attempt to give this moment a rational explanation we both ruled out the following: The object did not appear to be any type of aircraft due to it's bizarre flying behavior, nor was it a search light because there was no ground source projecting it. I am writing this to the National UFO Reporting Center in the hopes that there may have been others that had witnessed this strange event.  It may be possible that the object was picked up on radar at our local air port though I could not obtain that information at this time. Whatever it was it has defiantly spooked both of us into thinking that much of the stuff we see on TV may not be figments of the imagination.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04161.html](http://www.nuforc.org/webreports/reports/004/S04161.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>There were 2 small round lights in the sky going towards each other at a medium rate of speed.  No blinking lights and too far away/fast to be airplane.  The 2 lights eventually flew right past each other and then disappeared.  Too close to each other to be normal aircrafts.  Too slow to be shooting star.  No reports of any asteroids or meteors.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147000.html](http://www.nuforc.org/webreports/reports/147/S147000.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
