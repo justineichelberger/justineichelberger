@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:35 on 22 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:37 on 22 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Guilford (CT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>8-10 round yellow lights grouped in 2 lines of 4 with one or 2 a short distance away((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  We have changed the time above to reflect a nighttime sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98896.html](http://www.nuforc.org/webreports/reports/098/S98896.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Buffalo (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>I watched 2 objects fly from east to west. Much faster than the speed of commercial jets and military jets are a rarity in this area. Also, no sound was heard.At first I thought it was a satellite, but I noticed a second object flying parallel with the first. I thought it odd that 2 satellites would fly in such proximity, when they moved farther apart, then closer together, then farther apart, then made a 45 degree turn to the South.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37727.html](http://www.nuforc.org/webreports/reports/037/S37727.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
