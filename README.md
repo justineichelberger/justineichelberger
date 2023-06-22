@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:37 on 22 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:31 on 22 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Buffalo (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>I watched 2 objects fly from east to west. Much faster than the speed of commercial jets and military jets are a rarity in this area. Also, no sound was heard.At first I thought it was a satellite, but I noticed a second object flying parallel with the first. I thought it odd that 2 satellites would fly in such proximity, when they moved farther apart, then closer together, then farther apart, then made a 45 degree turn to the South.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37727.html](http://www.nuforc.org/webreports/reports/037/S37727.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Ogilvie (MN) reported seeing craft that fit the description of some 'Other' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>A fuzzy bluish-white fireball moving initally West in a meandering trajectory that eventually became North West.An object appeared above and in front of me as I was taking some time to watch the Aurora Borealis.  It made no sound and made a wavering path initially West and then ending up heading Northwest.  The main object appeared round, but seemed to have a significant electrical charge as the object had a surrounding cloud or sphere of charged particles that was roughly half the diameter of the moon with the brighter center portion being about as bright as Jupiter initially and comparable for relative  size from my vantage point.  It appeared to moving within the Aurora Borealis as the sky itself was clear, but the cloud of particles (assumed) is what made it distingly different as the visible stars and planets did not have that hazy appearance about them.  The center slowly faded in intensity at about the halfway point of it being visible, but the cloud remained illuminated of about the same color as the Aurora Borealis until it moved into a curtain of aurora as b! right as the object was.  The object appeared to be moving at about half the speed of a satellite if not slower due to the duration.  Its appearance initially as I faced it would have been about 30 degrees above the horizon, and when it disappeared it would have been about 45 degrees from the ground from my vantage point.((NUFORC Note:  Out-gassing event of spent rocket.  PD))((NOTE FROM MR. TED MOLCZAN))Hello Peter,Your hunch probably is correct.The Sentinel 2A satellite was launched on a Vega rocket from the Guiana Space Center, last night at 9:52 PM EDT (Jun 2301:52 UTC).Coverage of the launch was here:http://spaceflightnow.com/2015/06/22/vv05-mission-status-center/SeeSat-L received several reports of sightings near 23:49 EDT (3:49 UTC), of what appears to have been exhaust from the final burn of the Vega rocket's AVUM liquid fueled upper stage. That burn lowered the perigee to ensure that the object decays from orbit within a reasonable time, in order to curb the growth of space debris.http://satobs.org/seesat/Jun-2015/0193.htmlhttp://satobs.org/seesat/Jun-2015/0194.htmlhttp://satobs.org/seesat/Jun-2015/0195.htmlhttp://satobs.org/seesat/Jun-2015/0198.htmlhttp://satobs.org/seesat/Jun-2015/0199.html Marco Langbroek blogged his analysis:http://sattrackcam.blogspot.nl/2015/06/aurora-hunter-images-last-moments-of.htmlPlease let me know if you have any questions or comments.Best regards,Ted((END NOTE)).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119708.html](http://www.nuforc.org/webreports/reports/119/S119708.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
