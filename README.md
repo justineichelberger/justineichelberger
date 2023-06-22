@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:22 on 22 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 22 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Egan (SD) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>White cigar shaped object in sight for 2 to 3 minutes sighting duration. No noise, contralis, etc.The time was approximately, 9:15 pm on July 22 of 2009. I was in the back yard of my brother's property next door, facing south, talking to my brother who was to the east side of the property. I turned to talk to him and when I did, looked up at the trees that separate the property. I noticed an object that I would describe as looking like a pill type capsule or cigar shape. This object was bright white and obviously reflecting the setting sun. it had no noise nor did it have a contrail like conventional aircraft. It moved at a steady pace in a north south direction. There were a few clouds but, they were to the south and as the object moved off, you could still see it reflecting the light while in the clouds. I would estimate it roughly at around 7,000 ft. altitude. When I first saw it, it looked to be about 3 inches long from my vantage point on the ground. As I said, it appeared first as a cigar shape but, as it went away, it appeared as a round shape as would be expected by something of that shape moving away from you.I am a former volunteer fire fighter and a trained weather spotter so, I am familiar with the skies. I grew up near an airport and had a father who was crazy about airplanes so, I am familiar with all types of conventional aircraft.My brother did not see it at first when I pointed it out to him due to the trees but, did see it long enough to file a report also.((NUFORC Note:  Date corrected by source of report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70925.html](http://www.nuforc.org/webreports/reports/070/S70925.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Omaha (NE) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red/Green light craft seen flying irregulary over Omaha.  Rapid acceleration and deacceleration.Rapidly moving object seen over Omaha.  Changed between green and red lights when moving.  Object could stop and remain stationary in the sky.  Object was able to accelerate very rapidly and could ascend/descend very quickly.  Estimated top speed: ~700mph</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134716.html](http://www.nuforc.org/webreports/reports/134/S134716.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
