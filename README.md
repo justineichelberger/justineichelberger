@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:29 on 22 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:22 on 22 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Kenly (NC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>extremely fast moving light with no soundthe sky was clear with no clouds and bright stars. no city lights beacause i live in the country. my wife and i were talking about shooting stars when i noticed what follows. there was a dim flat white light with a brighter blinking light on the center. it was blinking rapidly. it was not very high in the sky and was moving from left to right at an extremely fast pace. it went from straight in front of me (12oclock) towards my right till about 5 oclock all in about 5 seconds. my wife asked what it was and i told her i had no idea. ive never seen anything move that fast in the sky. it was dead quiet outside and we never heard any noise. we were on the deck and once it got past the house we lost sight of it because the house blocked our view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29852.html](http://www.nuforc.org/webreports/reports/029/S29852.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Horta ( Azores) (Portugal) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Unknown object or craft seen mid-Atlantic over the AzoresThe unknown object seen was viewed during a sequences of exposures taken with an Olympus E-330 whilst photographing a well known tourist attraction namely "Ponta de Castelo Branco" (White Castle Point)on the island of Faial in the Azores. The technique being used which captured the unknown object was HDR (High Dynamic Range)and a series of shots were taken over a periof of circa 10 seconds. The object appeared in only one frame (with said frame,the preceding and following frames being shot on a period of a maximum of approximately 4 seconds). The single object was similar in shape to the space shuttle albeit much more streamlined like a nose cone of a rocket and appeared to have no defined detail other than what appeared to be a wing and curved elements at the rear of the object. The object appeared to be travelling from left to right and seemed to be light coloured, perhaps white.The photograph is available (as are the precedinhg and following shots taken) for review if so desired.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65107.html](http://www.nuforc.org/webreports/reports/065/S65107.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
