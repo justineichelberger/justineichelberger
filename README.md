@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:30 on 22 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:48 on 22 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Barnesville (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>3 red triangle-shaped lightsI was talking to my boyfriend around midnight/1:00 am and we were standing in his yard. All of a sudden I notice 3 red lights that seemed to be in a triangle shape moving across the sky. As I kept watching it I noticed that it was flying very fast in a very odd way. My boyfriend and I both noticed that it made no sound, and the lights almost appeared to be spinning. Neither one of us had ever witnessed anything like it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51186.html](http://www.nuforc.org/webreports/reports/051/S51186.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Orchard Lake (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>First saw 3 red lights traveling at same speed horizontally, not blinking or in any particular formation, low in the sky moving east to south west soon followed by 2 more then 3 or 4 then another 2.  All moved at same speed and altitude.  No pattern.  All disappeared into same area of sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146999.html](http://www.nuforc.org/webreports/reports/146/S146999.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
