@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:36 on 22 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:45 on 22 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>slow low white flying cigar shaped ufo over east mesa.I was driving down main st and off of crimson rd I saw a low white cigar shape craft. It was going from south to north and went down out of site like it landed. It was moving show and was over the SRP water plant.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29345.html](http://www.nuforc.org/webreports/reports/029/S29345.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Siesta Key (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Big orange and yellow circle floating over the Gulf of Mexico seen from Siesta Key Beach.I was sitting outside on a wall and I heard people yelling so I looked up and I saw a UFO.  It was circular.  There were 2 prominate colors; yellow in the center and orange on the border of the object. The object moved very slowly.  I was on Cresent Beach and it went from the "Point of Rocks" (left of my view) to the right where it dissappeared into nowhere. It was a clear night so i know that it didn't dissappear behind a cloud.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76538.html](http://www.nuforc.org/webreports/reports/076/S76538.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
