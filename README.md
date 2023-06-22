@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:33 on 22 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:24 on 22 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>There were 2 small round lights in the sky going towards each other at a medium rate of speed.  No blinking lights and too far away/fast to be airplane.  The 2 lights eventually flew right past each other and then disappeared.  Too close to each other to be normal aircrafts.  Too slow to be shooting star.  No reports of any asteroids or meteors.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147000.html](http://www.nuforc.org/webreports/reports/147/S147000.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Webster (NY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>I saw a large strong light coming across the sky.  It did not look like a satellite or a comet or asteroid. It certainly did not resemble an airplane in the sky.  It seemed to me that it was not in earth orbit but fairly close. It was moving at a fast pace but not as fast as comet or something like that.  It was definitely moving faster than satellite and it was brighter than any star in the sky.  The light was strong and consistent it had no flashes or other colors on it.  I heard no sound at all coming from it.  It was traveling in a straight line at first.  then a few mins later it just disappeared in a matter of seconds.  It stopped moving across the sky and looked like it was moving away from us and intense speed.  It was compleaty gone in a matter of seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89977.html](http://www.nuforc.org/webreports/reports/089/S89977.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
