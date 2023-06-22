@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:50 on 21 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:42 on 22 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in New York City (Manhattan) (NY) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A black object changed its shape slightly while floating over Manhattan.video URLs:  https://youtu.be/KS5gREkNpzg https://youtu.be/dwYCANyaWF4  My sister and I were driving in very slow traffic over the Manhattan Bridge, around 4 or 5pm on June 21st.  She spotted this very slow moving object drifting over Manhattan.  No idea what it was.  We thought maybe a flock of birds or balloons but it seemed a bit big for both of them.  When we saw planes flying they were small in comparison, reflective and moving much faster.  Any ideas?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134906.html](http://www.nuforc.org/webreports/reports/134/S134906.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Mount Sterling (KY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>On June 22, 2015, I was sitting on my back deck watching the sky and directly over my head I saw an oval shaped light traveling from South to North.  I would estimate the speed of 100 plus MPH as it was moving in a direct line, until it went out of sight.  There was a little wind that evening but the Illuminated Orb did not waver in its path. I call my daughter who had just enough time to see it before it flew out of sight.  It appeared to be 200 to 300 feet above my house when I first saw it.  I could see nothing in the orb.  It was half the size of a full moon and illuminated as bright as it first passed overhead and, of course, appeared smaller as it zoomed away in the night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125611.html](http://www.nuforc.org/webreports/reports/125/S125611.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/164/S164078.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164109.html)
-- [375](http://www.nuforc.org/webreports/reports/163/S163791.html)
-- [374](http://www.nuforc.org/webreports/reports/163/S163780.html)
-- [373](http://www.nuforc.org/webreports/reports/163/S163805.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
