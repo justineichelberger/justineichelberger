@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:28 on 22 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:28 on 22 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Red Deer (Canada) (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was late June,  I was out on the balcony of my apartment which faces East.  I could view the night sky from northeast to southeast.  I was facing north, northeast and talking with my grilfriend at the time.  It was a warm, clear evening.  I am an amateur atronomer and I am quite familliar with the nightime sky.  It is probably due to my knowledge that I noticed a star that was not only in the wrong spot , but the brightest, celestial object I had ever witnessed. It was a bright, shiny, white light.  As soon as I focused my attention on it, the light seemed to have dissapeared.  I however was able to adjust my vision quickly enough to notice two smaller points of light where the original bright spot was.  The two smaller points seemed to be at quite a high altitude, as a rough comparason for altitude, I would figure slightly lower than most orbital ranges for satellites.  They were positioned in a 45 deg. angle (see bottom for position diagram). The points reconverged and diverged one last time.  One point went northwest and the other went south.  The point that went northwest, I lost track of when it flew in front of Orion's belt.  The point travelling south I watched for about 4 minutes until it veered southeast and it faded out of sight.  The speed seemed obviously faster compared to orbiting satellite speeds. No sound of any type was detected by anyone. Position diagram:        . (point #1)   .  (pont #2)      ____________________________________(horizon)_________________________________((NUFORC Note:  Witness indicates that the date of the event is approximate.  Formation did not survive transfer from our e-mail program to the database.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53026.html](http://www.nuforc.org/webreports/reports/053/S53026.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in North Smithfield (RI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Shiny sphere sighted over North Smithfield farm.I was mowing a lawn at my mothers farm when it started to rain.  I raced back to the garage to get to a dry area and the rain started mixing with hail.  I stayed in the garage for 10 mins then went back outside and looked up at the clouds to try and see if more rain was coming.  That’s when I noticed a small circular object passing just below cloud level.  I think it was metal as when the sun reflected off it you could see it shine like chrome.  I squinted hard to see it as it was very small.  It moved slowly across the sky, sometimes dipping into the clouds. It left no chemtrails or smoke behind it and made no sound.  It definitely wasn’t a plane.  It definitely wasn’t a balloon either as its path was straight and deliberate.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146991.html](http://www.nuforc.org/webreports/reports/146/S146991.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
