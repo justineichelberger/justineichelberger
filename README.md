@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:39 on 22 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:28 on 22 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Troup (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Was working on a well site in Troup Texas around 0200. Off to the left a Bright red light caught my attention. Looked in the direction South East and saw a VERY bright Red light ascending out of the woods....or it seemed to be. The object then stopped in mid air..I'mn guesing 20 or 30 feet out of the tree tops. It then changed colors rapidly from red to green to white and the back to red. Moved towards my direction covering approximately 10 miles in a few seconds. Once the object got closer to me I saw four lights on the object in the pattern Red Green Green Red...and a white light at the end...pulsating brightly. This object passed no more than 400 feet over me...and made absolutley NO noise....I have a 2 million power Q-beam I shined on it....and it looked like the motor cycle from the 80's movie Tron....that's the best way I can describe it. It continued moving in a North Westerdly direction till out of sight. I am a military veteran and have seen almost all of the known air craft the military has in its arsenal. This object loooked like nothing I have ever seen while I was in service. I did notoce after the object passed over that I was slightly disoriented and a little dizzy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64094.html](http://www.nuforc.org/webreports/reports/064/S64094.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Red Deer (Canada) (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was late June,  I was out on the balcony of my apartment which faces East.  I could view the night sky from northeast to southeast.  I was facing north, northeast and talking with my grilfriend at the time.  It was a warm, clear evening.  I am an amateur atronomer and I am quite familliar with the nightime sky.  It is probably due to my knowledge that I noticed a star that was not only in the wrong spot , but the brightest, celestial object I had ever witnessed. It was a bright, shiny, white light.  As soon as I focused my attention on it, the light seemed to have dissapeared.  I however was able to adjust my vision quickly enough to notice two smaller points of light where the original bright spot was.  The two smaller points seemed to be at quite a high altitude, as a rough comparason for altitude, I would figure slightly lower than most orbital ranges for satellites.  They were positioned in a 45 deg. angle (see bottom for position diagram). The points reconverged and diverged one last time.  One point went northwest and the other went south.  The point that went northwest, I lost track of when it flew in front of Orion's belt.  The point travelling south I watched for about 4 minutes until it veered southeast and it faded out of sight.  The speed seemed obviously faster compared to orbiting satellite speeds. No sound of any type was detected by anyone. Position diagram:        . (point #1)   .  (pont #2)      ____________________________________(horizon)_________________________________((NUFORC Note:  Witness indicates that the date of the event is approximate.  Formation did not survive transfer from our e-mail program to the database.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53026.html](http://www.nuforc.org/webreports/reports/053/S53026.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
