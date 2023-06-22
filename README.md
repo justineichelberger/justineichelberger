@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:28 on 22 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:31 on 22 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in North Smithfield (RI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Shiny sphere sighted over North Smithfield farm.I was mowing a lawn at my mothers farm when it started to rain.  I raced back to the garage to get to a dry area and the rain started mixing with hail.  I stayed in the garage for 10 mins then went back outside and looked up at the clouds to try and see if more rain was coming.  That’s when I noticed a small circular object passing just below cloud level.  I think it was metal as when the sun reflected off it you could see it shine like chrome.  I squinted hard to see it as it was very small.  It moved slowly across the sky, sometimes dipping into the clouds. It left no chemtrails or smoke behind it and made no sound.  It definitely wasn’t a plane.  It definitely wasn’t a balloon either as its path was straight and deliberate.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146991.html](http://www.nuforc.org/webreports/reports/146/S146991.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Bensalem (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright orange round balls.Orange colored balls flying in formation no sound traveling slow. Looked like one went out of formation then corrected itself back into formation. They came in groups of about 8 or 10 at a time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110496.html](http://www.nuforc.org/webreports/reports/110/S110496.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
