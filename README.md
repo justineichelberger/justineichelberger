@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:34 on 22 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:37 on 23 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Anna Maria Island (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Yellow/orange bright light observed from Anna Maria Island for about 3 minutesAppeared over the Gulf of Mexico, coming from the Longboat Key area moving northwest, a large yellow/orange bright light moving across sky, appeared to be burning, stopped at one point for 3-4 seconds, then moved on. Then turned black until going out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89950.html](http://www.nuforc.org/webreports/reports/089/S89950.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in West Natcoke (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Round,shiny object moving in a strange way with at least thirty objects.i was at a birthday party in honey pot pa and looked up and saw round shiny things in the air maybe a mile or more up in the sky. they were moving in a strange way so i got my camera and was able to get 2 pics of them.  As I downloaded the pics and  enlarged two pics it looked like greenish, reddish, yellowish lights coming from it.((NUFORC Note:  Date of sighting is flawed.  We wonder whether this is a serious report.  PD))((NUFORC Note:  Witness corrects date to June 23, 2012.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90663.html](http://www.nuforc.org/webreports/reports/090/S90663.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [366](http://www.nuforc.org/webreports/reports/163/S163802.html)
-- [365](http://www.nuforc.org/webreports/reports/157/S157120.html)
-- [364](http://www.nuforc.org/webreports/reports/157/S157121.html)
-- [363](http://www.nuforc.org/webreports/reports/157/S157131.html)
-- [362](http://www.nuforc.org/webreports/reports/157/S157126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
