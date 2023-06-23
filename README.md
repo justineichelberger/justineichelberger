@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:26 on 23 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:27 on 23 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1981, an anonymous witness in Neufchatel (Canada) (PQ) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Cigar like shape object,  floating over a field, had red lights and was making a  humming sound.I was about twelve or thirteen years old. That summer there had been a lot of UFO's sighting in Quebec.  I remember seeing it in the news paper.  That night we had a small get together with neihbors.  The adults had a camp fire going.  I remember at one point that my friends and I left the party to take a walk close to the field.  That's when we saw the object.  The object was floating about 15 feet over top of the field it was horizontal with red lights.  I could hear some kind of humming sound, but it was not an helicopter.  The movements were too smooth to be an helicopter. It was just floating for a while and at some point sarted to go from left to right back and forth making cross like movement. It felt like something in there saw us and got affraid.  And suddenly it left really quickly and totally disapeared in a matter of a few seconds.The next day we went to look in the field to see if we would be able to see something on the ground but we did not see anything.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27012.html](http://www.nuforc.org/webreports/reports/027/S27012.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Mountlake Terrace (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 100</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157239.html](http://www.nuforc.org/webreports/reports/157/S157239.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/163/S163794.html)
-- [388](http://www.nuforc.org/webreports/reports/163/S163814.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161996.html)
-- [386](http://www.nuforc.org/webreports/reports/157/S157252.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
