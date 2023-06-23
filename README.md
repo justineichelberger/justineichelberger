@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 23 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:10 on 23 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in West Natcoke (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Round,shiny object moving in a strange way with at least thirty objects.i was at a birthday party in honey pot pa and looked up and saw round shiny things in the air maybe a mile or more up in the sky. they were moving in a strange way so i got my camera and was able to get 2 pics of them.  As I downloaded the pics and  enlarged two pics it looked like greenish, reddish, yellowish lights coming from it.((NUFORC Note:  Date of sighting is flawed.  We wonder whether this is a serious report.  PD))((NUFORC Note:  Witness corrects date to June 23, 2012.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90663.html](http://www.nuforc.org/webreports/reports/090/S90663.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Surfside Beach (SC) reported seeing craft that fit the description of some 'Changing' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Strange lights over ocean in Surfside Beach, SCAt approximately 22:37 on June-23-2014, I had observed 2 orange lights over the ocean. I was standing on the beach at near the pier.  The lights were glowing bright for 10-15 seconds and then went out.  They reappeared 5 seconds later and started to break apart into several smaller lights. They formed a perfectly straight line across the water until they came back together 10 seconds later. The lights went off a couple seconds later. After 7 seconds the lights reappeared  and broke off into 8 eight smaller lights. They got brighter after they totally separated and then went out. I did not see them after that. 2 other people on the beach saw the same thing at the same time. This was the most incredible thing I have ever seen. I am going back out tonight to see if I can catch it on film.((NUFORC Note:  We spoke via telephonw with the witness, and he sounded to us to be serious and sober-minded.  He will have another witness submit a report, as well.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110579.html](http://www.nuforc.org/webreports/reports/110/S110579.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/163/S163794.html)
-- [388](http://www.nuforc.org/webreports/reports/163/S163814.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161996.html)
-- [386](http://www.nuforc.org/webreports/reports/157/S157252.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
