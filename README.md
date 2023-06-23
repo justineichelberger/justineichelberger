@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:12:38 on 23 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:30 on 23 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Newberg (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright red dot that resembled a star, but moved and then faded away.Witnessed a red dot hat looked like a star near the tip of Libra (as my Google sky map shows).  It appears to move amd then stop.  After watching it for minutes it faded away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75965.html](http://www.nuforc.org/webreports/reports/075/S75965.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Disk' over a period of approximately +/- min - +/- min minutes.</sub><blockquote><sub>Daylight Disk near DenverI was heading East on I70 just passing up Harlan exit (right near the amusement park, when I noticed a disk like objeck moving north (just south of the highway), became parrell with the highway-did appear to be rotating, but it was pretty high up.  It seemed to change course and move west after a few seconds- then it just vanished.  It was blue skies, middle of the day.  I continued to travel east to about the Steele St exit and just past the colusem I saw it again, moving west ward then an up direcion before it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51155.html](http://www.nuforc.org/webreports/reports/051/S51155.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/163/S163794.html)
-- [388](http://www.nuforc.org/webreports/reports/163/S163814.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161996.html)
-- [386](http://www.nuforc.org/webreports/reports/157/S157252.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
