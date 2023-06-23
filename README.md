@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:29 on 23 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:34 on 23 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Canaan (NH) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>White elongated pill shaped thing with rounded ends spotted on a beautiful sunny morningThe sky was blue with puffy white clouds.  I glanced out the kitchen window and spotted some type of skycraft.  I realized it was not a plane, so I grabbed my binoculars and ran out to the driveway to get a better look.What I observed was shaped like an elongated pill, rounded at both ends, white in color with odd charcoal grey markings on the bottom 1/3 of it.  No wings, no tailfin, no landing gear, no windows, no blinking lights, no numbers, no trail behind it.It tracked in a steady speed in a north-westerly direction, silent.I only got to see it for a short time, during those precious seconds I was observing as much detail as I could.Has anyone seen this? I'd like to know, because I am a little unnerved by it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110584.html](http://www.nuforc.org/webreports/reports/110/S110584.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Gorge (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Fireball Sphere in the skyThis sighting occurred during a concert out at the Gorge Amphitheater in Washington State. Around 1:00-1:30 June 23.  A fireball looking sphere appeared out of the sky.  First starting off small, a bit bigger than the size of an airplane light and then proceeded to become larger in size.  It stood still for about a minute then began to scan the sky in a straight line toward the left very slowly.  Eventually after a minute or so it then got fairly larger in size froze in its position and then started to fade away becoming smaller and smaller till it virtually disappeared.  At the time I was with my friends, I turned them around and they saw the whole thing with me.  Not only were they witnesses we also were hearing other people talk about the phenomenon as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94110.html](http://www.nuforc.org/webreports/reports/094/S94110.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/163/S163794.html)
-- [388](http://www.nuforc.org/webreports/reports/163/S163814.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161996.html)
-- [386](http://www.nuforc.org/webreports/reports/157/S157252.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
