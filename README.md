@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:24 on 23 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:34 on 23 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in New York City (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Large, intense stationary bright light seemed to fade in and out over New Jersey.While walking along the Hudson River on Manhattan's west side two friends and I witnessed an very large bright white light that just hovered over in the western sky over New Jersey. It was completely stationary and initially looked like a very bright planet shining in the clear blue sky, but soon became extremely intense, then fade away and turn to a barely visible cigar shape, before returning to a bright white light. For about 45 minutes we watched it fade in and out intensely. It seemed enormous in comparison to the planes flying in and out of Newark Airport.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57318.html](http://www.nuforc.org/webreports/reports/057/S57318.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Louisville (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>White light grew in size and disappeared.I was taking my dog out before bed when I heard this loud airplane roaring above, so I looked up in the sky and saw this solid white light passing near the plane. All of a sudden it grew about 5 times in size for about 2 seconds, turned a light bluish color and then shrank until I couldn’t see it anymore. The strange thing is it appeared to be traveling away from earth not north, south, east or west.It was a clear night sky and lots of stars were out.((NUFORC Note:  Possible flare from Iridium satellite??  We have amended the date above, in order to reflect a nighttime sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81897.html](http://www.nuforc.org/webreports/reports/081/S81897.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/163/S163794.html)
-- [388](http://www.nuforc.org/webreports/reports/163/S163814.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161996.html)
-- [386](http://www.nuforc.org/webreports/reports/157/S157252.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
