@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:27:44 on 23 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:12:38 on 23 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lehigh Acres () reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>I live in Lehigh Acres, FL.  about six o clock in the afternoon, I was driving my car and making a right turn, and suddenly for a matter of seconds like a flashlight, I saw something on top of the trees, I could not see the whole shape of it because most of it was hidden behind the trees, at least I was not able to see  everything from my car.  What I saw was something sticking out of the trees with rounded red and white lights and a few seconds later it vanished,  in other words his atoms and particles starting like evaporating in the air. before it dissapeared completely from my eyesight,  its atoms started evaporating one by one.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89978.html](http://www.nuforc.org/webreports/reports/089/S89978.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Newberg (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright red dot that resembled a star, but moved and then faded away.Witnessed a red dot hat looked like a star near the tip of Libra (as my Google sky map shows).  It appears to move amd then stop.  After watching it for minutes it faded away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75965.html](http://www.nuforc.org/webreports/reports/075/S75965.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/163/S163794.html)
-- [388](http://www.nuforc.org/webreports/reports/163/S163814.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161996.html)
-- [386](http://www.nuforc.org/webreports/reports/157/S157252.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
