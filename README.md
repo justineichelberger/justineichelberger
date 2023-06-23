@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:34 on 23 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:09 on 23 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Gorge (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Fireball Sphere in the skyThis sighting occurred during a concert out at the Gorge Amphitheater in Washington State. Around 1:00-1:30 June 23.  A fireball looking sphere appeared out of the sky.  First starting off small, a bit bigger than the size of an airplane light and then proceeded to become larger in size.  It stood still for about a minute then began to scan the sky in a straight line toward the left very slowly.  Eventually after a minute or so it then got fairly larger in size froze in its position and then started to fade away becoming smaller and smaller till it virtually disappeared.  At the time I was with my friends, I turned them around and they saw the whole thing with me.  Not only were they witnesses we also were hearing other people talk about the phenomenon as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94110.html](http://www.nuforc.org/webreports/reports/094/S94110.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Loveland (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>My family and I were driving south on Taft Hill Road, between Fort Collins and Loveland, Colorado when I spotted an extremely bright light to the South East.  I would estimate it floating, stationary, about 300 to 400 feet in the air.It is raining and a thunderstorm behind the object so it was not a star or a drone of any sort. I have flown drones and lived in the area long enough to know where drones are flown and what they look like.My wife and daughter watched it while I drove, wondering what it was.  They then said, "It just disappeared!"  I asked my wife for a more detailed explanation and she said that it didn't drop to the ground or fly up into the storm clouds.  It vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141920.html](http://www.nuforc.org/webreports/reports/141/S141920.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/163/S163794.html)
-- [388](http://www.nuforc.org/webreports/reports/163/S163814.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161996.html)
-- [386](http://www.nuforc.org/webreports/reports/157/S157252.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
