@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:30 on 23 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:41 on 23 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Disk' over a period of approximately +/- min - +/- min minutes.</sub><blockquote><sub>Daylight Disk near DenverI was heading East on I70 just passing up Harlan exit (right near the amusement park, when I noticed a disk like objeck moving north (just south of the highway), became parrell with the highway-did appear to be rotating, but it was pretty high up.  It seemed to change course and move west after a few seconds- then it just vanished.  It was blue skies, middle of the day.  I continued to travel east to about the Steele St exit and just past the colusem I saw it again, moving west ward then an up direcion before it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51155.html](http://www.nuforc.org/webreports/reports/051/S51155.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Garden City (SC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>My family is vacationing at Garden City.  Last night I walked onto balcony of condo and saw three large orange lights come on, one two three in a row.  We had seen this phenomena three years ago here.  I called to my family to come see the lights.  Within a few minutes successive large red/orange fireballs would illuminate and extinguish.  Then we noticed small blinking lights, numerous, up to ten at a time moving all over the sky in the area of the big orange lights.  All of this activity seemed to be from Garden City pier to Myrtle Beach State Park and mostly over ocean.  Any number of arrangement of lights were seen up to a large perfectly shaped chevron shape formed by eight of the big fireballs.  The fireballs appeared as groups of three and four tightly spaced as well.  At some intervals between fireball appearances there were as much as 5 to 10 solid minutes of small sparkling lights moving for miles up and down the coast.  I am employed in aviation and I am! reasonably convinced that no aircraft were seen.  The appearance as well as the silence had more of a ghostly feel than of nuts and bolts aircraft. Many people were on beach so im sure others witnessed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110577.html](http://www.nuforc.org/webreports/reports/110/S110577.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/163/S163794.html)
-- [388](http://www.nuforc.org/webreports/reports/163/S163814.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161996.html)
-- [386](http://www.nuforc.org/webreports/reports/157/S157252.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
