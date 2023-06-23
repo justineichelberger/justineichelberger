@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:41 on 23 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:35 on 23 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Garden City (SC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>My family is vacationing at Garden City.  Last night I walked onto balcony of condo and saw three large orange lights come on, one two three in a row.  We had seen this phenomena three years ago here.  I called to my family to come see the lights.  Within a few minutes successive large red/orange fireballs would illuminate and extinguish.  Then we noticed small blinking lights, numerous, up to ten at a time moving all over the sky in the area of the big orange lights.  All of this activity seemed to be from Garden City pier to Myrtle Beach State Park and mostly over ocean.  Any number of arrangement of lights were seen up to a large perfectly shaped chevron shape formed by eight of the big fireballs.  The fireballs appeared as groups of three and four tightly spaced as well.  At some intervals between fireball appearances there were as much as 5 to 10 solid minutes of small sparkling lights moving for miles up and down the coast.  I am employed in aviation and I am! reasonably convinced that no aircraft were seen.  The appearance as well as the silence had more of a ghostly feel than of nuts and bolts aircraft. Many people were on beach so im sure others witnessed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110577.html](http://www.nuforc.org/webreports/reports/110/S110577.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Rome (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>object appeared to be pulsating and vibrating the lights on the bottom were strobe like and very bright it made no sound .small craft with no sound  glowing bluish green strobing orange and purple lights on bottom part of craft dogs started howling in the area feeling apprehensive tried to get a better view of craft it was about 200 ft above the ground heading in a southeast direction slowly climbing in altitude had to be at least fifty feet in diameter my son and I were about 70 yards away from it there was a strange smell in the air like burning metal it continued southeast until it went out of sight.((NUFORC Note:  Date may be flawed.  We wonder whether the witness intended a date of June 24th, but we have no means of contacting that person.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90046.html](http://www.nuforc.org/webreports/reports/090/S90046.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/163/S163794.html)
-- [388](http://www.nuforc.org/webreports/reports/163/S163814.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161996.html)
-- [386](http://www.nuforc.org/webreports/reports/157/S157252.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
