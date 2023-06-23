@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:09 on 23 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:30 on 23 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Loveland (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>My family and I were driving south on Taft Hill Road, between Fort Collins and Loveland, Colorado when I spotted an extremely bright light to the South East.  I would estimate it floating, stationary, about 300 to 400 feet in the air.It is raining and a thunderstorm behind the object so it was not a star or a drone of any sort. I have flown drones and lived in the area long enough to know where drones are flown and what they look like.My wife and daughter watched it while I drove, wondering what it was.  They then said, "It just disappeared!"  I asked my wife for a more detailed explanation and she said that it didn't drop to the ground or fly up into the storm clouds.  It vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141920.html](http://www.nuforc.org/webreports/reports/141/S141920.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Forked River (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Triangle shaped object in the sky at 1:48am with blinking lights, flies straight up into the skyThe triangle shaped object was in the sky at a tilted angle,with white lights blinking on the bottom side of the object.  There was a giant black and grey cloud to the right side of it,and a white cloud came out of the space ship.  At that point I flashed  a flashlight toward the object.  The white cloud retreated into or behind the object, and the object then shot straight up into the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92244.html](http://www.nuforc.org/webreports/reports/092/S92244.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/163/S163794.html)
-- [388](http://www.nuforc.org/webreports/reports/163/S163814.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161996.html)
-- [386](http://www.nuforc.org/webreports/reports/157/S157252.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
