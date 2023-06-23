@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:35 on 23 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:33 on 23 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Rome (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>object appeared to be pulsating and vibrating the lights on the bottom were strobe like and very bright it made no sound .small craft with no sound  glowing bluish green strobing orange and purple lights on bottom part of craft dogs started howling in the area feeling apprehensive tried to get a better view of craft it was about 200 ft above the ground heading in a southeast direction slowly climbing in altitude had to be at least fifty feet in diameter my son and I were about 70 yards away from it there was a strange smell in the air like burning metal it continued southeast until it went out of sight.((NUFORC Note:  Date may be flawed.  We wonder whether the witness intended a date of June 24th, but we have no means of contacting that person.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90046.html](http://www.nuforc.org/webreports/reports/090/S90046.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Lancaster (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A red/pink pulsing object performing strange flight patterns.On the morning of June 23, my girlfriend and I were heading up Rt. 33 North in Southern Central Ohio, about two or three miles south of Lancaster. She was the first one to notice the object, then myself. It was just a speckle of light in the sky, starting off as a pinkish light then pulsing to red. The object would have appeared like a normal aircraft, except that this one slowed down to almost a stop then sped up again. We watched it for maybe 20-30 Seconds before it abruptly disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37738.html](http://www.nuforc.org/webreports/reports/037/S37738.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/163/S163794.html)
-- [388](http://www.nuforc.org/webreports/reports/163/S163814.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161996.html)
-- [386](http://www.nuforc.org/webreports/reports/157/S157252.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
