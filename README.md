@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:33 on 23 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:29 on 23 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Corpus Christi (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>A single extremely luminescent light jolted continuously and changed shape for hoursNow, I often stare at the stars at night and in the morning but on this particular morning around two twenty I noticed a really bright “star” next to a quite dim star and I start to watch, just enjoying the view and at first I think it’s just me leaning and throwing off my vision but I’m stable on the ground and this “star” moves. Not for a long distance but a short and quick little jolt. This intrigues me, so I keep watching. Again a quick jolt but now its changed form, almost like an arrowhead.  Now that shape shift could have just been my eyes going fuzzy for a second but as 15 minutes pass by, still staring at this arrangement of light, I am convinced this is not just a star for stars do not fade in and out for more than a second to two seconds at a time nor do they jolt in the form of triangles either.I asked my father to come out and witness this as well just to tell me if it was just me and that my eyes were just going fuzzy from the staring but even he himself was baffled at this sight we both were surveying; deciding this was definitely something that was out of the ordinary.(3:54 AM) Now as I write this it is still outside and doing its thing up by that same dim light I’ve kept track of. I am just a regular woman with no astronomical background for credibility to what I am saying in this letter but I know I’ve witnessed something that needs to be documented and seriously looked into for the sheer awareness that something else is out there and potentially observing us as well.((NUFORC Note:  Star??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70660.html](http://www.nuforc.org/webreports/reports/070/S70660.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Cascade Mtns. (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Man calls to report that son had witnessed a blue-green orb hit side of mountain.  No sound.  Follow up visit reveals no damage.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01592.html](http://www.nuforc.org/webreports/reports/001/S01592.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/163/S163794.html)
-- [388](http://www.nuforc.org/webreports/reports/163/S163814.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161996.html)
-- [386](http://www.nuforc.org/webreports/reports/157/S157252.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
