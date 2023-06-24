@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:26 on 24 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:35 on 24 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Essex (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Saw UFO, photographed UFOI got home from Deliveries walked to the lawn chair with my camera. looked over the store and saw what i thought was a Turkey vulture flying, i wasnt sure so i ripped 2 photos, then realized my camera was on manual focus, i looked back at Turkey Vulture and it then took of from over the store out of sight in less than a second,  Awsome!!!  the shots im including here are normal focal lenth, 135mm and enhanced enlargments, there not the best but you can see it.((NUFORC Note:  Photos not of a genuine UFO, we believe.  One of four reports from same source.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77268.html](http://www.nuforc.org/webreports/reports/077/S77268.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Sound Beach (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>lunar crossing eventIn orbit of and/or crossing the Moon (earths moon) . I observes a small dark object cross the moon at 20:57 Hrs e.d.s.t. on Thursday 24 June 2004. the object moved straight across the mooh horizontaly from the lighted side into the dark side at a latatude of apx. 30 - 40 Deg. North (lunar). The event duration was apx. 3 - 5 sec. (the time it took to cross the lighted side of the lunar surface). The size was relativley small(in relation to the moon), there did not appear to be an impact, and continued observation for apx.20 min. did not yield another sighting/event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37765.html](http://www.nuforc.org/webreports/reports/037/S37765.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
