@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:45 on 24 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:32 on 24 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Abilene (TX) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>White egg/teardrop craft seen hovering near Abilene, TXOn Thursday June 24, 2021 I was heading from Abilene, TX along FM 600 (also called West Lake Road) toward Nugent, TX at approximately 2PM. I spotted a large white object in the sky. I kept waiting for it to move but it did not. The closer I got to it I realized it was hovering in the air below the cloud line. As I got closer, I could see it was a polished white and reflected the sunlight. If I had to guess, I would say it was roughly the size of a CH-47 military helicopter. It looked to be sort of egg or tear dropped shaped with now windows, fins or any visible propulsion system. I continued down the road with the object to left of me. As I drew up along beside it, it stopped hovering and matched my speed exactly (approximately 70mph) with the “tip” of the object facing the same direction as the front of my vehicle. At a certain point, I passed two radio/cell phone towers (the really tall kind with red blinking lights on them), the object passed between them! at about ¾ of their total height. Soon after this, the object turned left suddenly and began to fly away from me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164248.html](http://www.nuforc.org/webreports/reports/164/S164248.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Baker (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>giant triangle spotted of I-15 N to vegas between barstow and baker, Ca, june 24th at 11pm.We were driving North on Interstate 15 from Los Angeles, CA on June 24th, 2005.  About 40 Miles from Baker, CA after passing Barstow, CA, we (my passenger and I) noticed a Bright white "star" off to the northwest, just off the side of the highway.  As we continued North on the HWY, we noticed 2 smaller lights to the sides slightly lower than the bright center light.  They appeared to be of equal distance and angle from the center light.  As we approached, it increased in width.  It was 11PM so the only lights were the travelling cars and the stars, it was a clear night, it seemed we were getting closer to the object, triangle.  As we got closer, we noticed that the stars vanished behind the object, the black object.  We continued past the object and never saw it again.  It seemed as if it were not moving at all or so slow it was unmeasurable.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44572.html](http://www.nuforc.org/webreports/reports/044/S44572.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
