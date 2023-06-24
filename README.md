@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:32 on 24 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:38 on 24 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Nanticoke (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>10+ red-orange orbs in skyMy mother and I were planning to go out and she went to prepare something in the car. After a minute she came in the house and called me to tell me there was something in the sky. I found that very odd and ran down the stairs to go outside to check it out. There were ten or more red-orange orbs in the sky. My mother told me that there were even more  before she called me. Very strange. My brother followed me, and I went to call my father. By the time he got there, about all of them had 'disappeared' except one, which stayed there for a prolonged period of time before disappearing. I reported this also here: http://www.ufostalker.com/ufostalker/UFO+Sighting+in+Nanticoke+Pennsylvania+United+States+on+June+10th+2012/39163, and I've found that there were other people in the area who have witnessed this. My brother tried to record it on his phone but couldn't get the video to work. I'm now keeping my camcorder with me in case I see anything.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90127.html](http://www.nuforc.org/webreports/reports/090/S90127.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Morrisville (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright/fast moving object in the night skyThe sighting occurred around the time of 10:00 PM, it was a clear night and I had decided to lay in my yard and view the sky. The sky was dark and dotted with stars, planes slowly moved across the sky. I continued to watch the sky for a good thirty minutes or so until I saw something out of the ordinary in the sky. What I saw was a sudden bright light; at first I thought it was just a bright star but the more I looked I realized it wasn’t a star at all. The light was not a fiery white blaze a meteor would normally generate, it instead looked as though something was shining a huge bright spotlight in the sky towards my directing. The flying object was not bearing any strobe light or light a plane would normally carry and not giving off any loud chopping noise a helicopter would generate and was not giving off a roar a jet would normally create. The light it was giving was too bright and massive to be any airliner as well. As I strained my eyes to make out the light on the aircraft it suddenly turned to the left so I could get an almost clear view of its side. With the light no longer focused in my direction I strained to view what appeared to be a long cylinder-like object with a red light on what I assumed was its front. Soon the red light dimmed to such an extent that it was impossible to decipher where it exactly was in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70826.html](http://www.nuforc.org/webreports/reports/070/S70826.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
