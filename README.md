@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:35 on 24 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:25 on 24 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Sound Beach (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>lunar crossing eventIn orbit of and/or crossing the Moon (earths moon) . I observes a small dark object cross the moon at 20:57 Hrs e.d.s.t. on Thursday 24 June 2004. the object moved straight across the mooh horizontaly from the lighted side into the dark side at a latatude of apx. 30 - 40 Deg. North (lunar). The event duration was apx. 3 - 5 sec. (the time it took to cross the lighted side of the lunar surface). The size was relativley small(in relation to the moon), there did not appear to be an impact, and continued observation for apx.20 min. did not yield another sighting/event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37765.html](http://www.nuforc.org/webreports/reports/037/S37765.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Wentzville (MO) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Seamingly intelligent glowing pink cylinder.Having a cigarette outside, I noticed a pink glowing cylinder about the size of a nunchuk handle.  It did a slow twisting spin, while moving left to right, shifting those movments within a foot or two in the air.It was as if this object knew I could see it, like a person doing a dance when no one was around and then being startled when caught.  It stopped its spinning twist, froze, then made a very rapid arch and flew behind my neighboring townhouse.  There was nobody on the roof of the town house, and diffenitly not a quadcopter as I own a few.  That night there was a large thunderstorm and there were trees taller than the townhouse giving foreground or a back drop if you will too lend me a very sharp view of this unknow object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110567.html](http://www.nuforc.org/webreports/reports/110/S110567.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
