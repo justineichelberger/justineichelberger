@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:23 on 24 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:30 on 24 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Girard (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 330.0 - 330.0 minutes.</sub><blockquote><sub>SMALL TRIANGULAR LIGHTS AT HIGH ALTITUDE FLARING BRIGHTLY THEN DIMMING OUT .AFTER FLYING SHORT DISTANCEA little before 11 o clock (est) I was out enjoying the night air. I looking at a fairly bright star towards the east about 3/4 of the way up the sky from the horizon when I noticed what I thought at first was a satellite .It was faint like a dim star but as I looked more carefully I saw that it was really three points of light making a very small triangle . I saw no strobe lights and the three lights were all of about the same brightness . They were moving from south to north very slowly and seemed to be at a great altitude . They were somewhat reddish in color. The lights had not moved far when they began to get much much brighter like some one was turning up a dimmer switch to its brightest setting and then back down slowly . They kinda of flared up and the lightwas a very bright bluish white like a star going nova  . This brightness lasted only a couple of seconds and then they dimmed to their original magnitude and then within a couple seconds of that the disapeared entirely. This happened 4 times in sucession with 4 different sets of lights . The 4th was much closer to the horizon than the other three and it lasted the longest maybe 20 seconds. It to flared brightly and then very quickly dimmed and was gone. I then went into the house and told my son about it and went back outside . A few minutes later he came out and I was describing what it was that I had seen and was pointing out the location in the sky when I noticed another one in the same area but this time going northwest to southeast. He saw it immediately and as he watched with me the lights flared and faded as before . We continued to watch this for about an hour and it happened repeatedly in exactly the same manner . the amount of time any one of these small triangles were visible ranged from 20seconds to LESS THAN 5 SECONDS . The emphasis is intentional . They were definetly not planes unless planes dim their lights or shut them off completely . They werent satellites either unless they can do the same thing . I have seen satellites on many occasions of meteor shower watching and I have NEVER seen anything do this . All of this activity took place in the same small area of the sky at a high altitude except for the 4th one  All of the sightings after the first 4 were moving in different directions but originating or appearing in the same area of the sky near cygnus (I think ,Im not very good at constellations .  Have you ever heard of anything like this before ? My son is 15 and very curious about what he has just seen as am I. I had just sent you the a report of the only sighting I have ever had ( TILL NOW !) just last week . Weird .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44543.html](http://www.nuforc.org/webreports/reports/044/S44543.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Surrey (UK/England) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>big orange ufoit was late and dark i was with 3 other freinds and a orange cigar shaped ufo slowly traveld horozontly across the night sky we say it for like 1 min then it disapeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64209.html](http://www.nuforc.org/webreports/reports/064/S64209.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
