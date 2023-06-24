@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:29 on 24 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:01 on 24 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Columbia (MO) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>In June of 2006 I was in the front yard of my home and looked up and saw, at a low altitude, what appeared to be only the glistening aluminum fuselage of a plane. It was much lower than a large passenger plane or blimp. No sound was heard. It was low enough that I should have been able to see wings, tail and windows but I saw nothing. The sun was shining directly on the object. It saw it twice in June, each time it was around 7:30 (19:30 hrs). It was in view each time about 30 seconds. The direction of travel was SW to NE. There was no way to tell how big it was except that it appeared to be about a half an inch at arms length. We have one airport, Regional. The runway does not accomodate large planes. Planes traveling across Missouri are always at a higher altitude than this object was. Small 2 or 4 seater planes fly over at a lower altitude and it is always easy to see detail such as wings, tail and registration numbers. The engine noise is audible as well.  I saw this object again on July 4th, 2006. See that report on NUFORC website. I have no idea what I saw nor can I guess. I just offer this report up as another oddity of this haunted planet. Personal sighting - B.Becker  - Missouri Investigators Group  ufomig@yahoo.com((NUFORC Note:  Witness indicates that the date of the event is approximate.  We express our gratitude to Barb Becker, President of the UFO Missouri Investigators Group, for sharing this report with NUFORC.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53320.html](http://www.nuforc.org/webreports/reports/053/S53320.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Babbitt (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright, fast moving "star" heading east over Birch Lake RV Park in Babbitt, MN.Around 11pm on June 24th, we were all sitting around a campfire when I looked up and saw a very bright "star" moving east very fast.  I have been camping for 30 years and have always looked up in the night sky and have seen satellites go by, but never this fast or this bright. Everyone else I was with said it was a satellite, but I wasn't convinced.  Where there any satellites over Babbitt, MN, on this night, or did I witness something else? I witnessed a large fireball object in an open field about five years ago, while we were stopped waiting for a train to pass, so now I'm on the look out for such things constantly.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81940.html](http://www.nuforc.org/webreports/reports/081/S81940.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
