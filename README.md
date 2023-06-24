@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:27:23 on 24 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:10:50 on 24 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two orange very illuminated objects moved from west to east, slowed down and moved south and faded out.Two orange illuminated objects went from west to east over the puget sound.  Illumination increased dramatically and objects slowed down to near stop.  Second object disappeared, first object turned south and slowly faded away.  Observed objects via binoculars and did not see any sign of aircraft strobe nor red/green navigation lights.  Bright orange illumination that was twinkling/flashing.The fact that the object slowed down and changed course made this really odd, in addition to the one object disappearing and the other fading away.At the same time an aircraft was lined up with 13R centerline on approach while traveling over Magnolia neighborhood.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110606.html](http://www.nuforc.org/webreports/reports/110/S110606.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Gilroy (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>3 BRIGHT LIGHTS HEADING SOUTH  3:00 AM  YOU COULD NOT HAVE MISSED THEM!ABOUT ONCE A WEEK OR SO DEPENDING ON THE WEATHER I SET OUT MY CAMCORDER AND FILM A TIME LAPSE OF THE NIGHT JUST TO SEE WHATS GOING ON UP THERE WHEN NOBODY IS LOOKING.THE REASON WHY I CONTINUE TO DO THIS IS BECAUSE I HAVE WITNESSED SOME ODD THINGS THAT HAVE INFLUENCED ME TO TAKE A DIFFERENT PATH IN LIFE. I FEEL THAT IF I COULD CAPTURE ONE OF THESE ODD EVENTS ON FILM IT WOULD HELP EXPLAIN TO OTHERS WHY I AM SOO DIFFERENT NOW, NOT LIKE I GIVE A RATS ASS ABOUT FITTING IN WITH THE REST OFF THE FLOCK. ANYWAY, I DECIDED TO FILM LAST NIGHT BECAUSE OF THE EVENT THAT OCCURED A FEW DAYS AGO IN ARIZONA WITH THE NUCLEAR POWER PLANT AND ALL THE PEOPLE THAT SAID THEY SAW SOMETHING IN THE SKY. AT 3:00am I WENT TO CHECK ON MY CAMERA TO MAKE SURE THE LENS ON MY CAMERA WAS NOT ACCUMULATING DEW. I WAS TAKING THE USUAL CHECK OF THE SKY AND JUST WHEN I FINISHED MY 360. CHECK I NOTICED TWO BRIGHT LIGHTS IN THE SOUTHERN SKY. I QUICKLY GRABBED MY CAMERA AND TOOK IT OUT OF THE TIME LAPSE MODE WITH A BIT OF FUMBLING AND WAS ABLE TO CAPTURE TWO OBJECTS THAT WERE ABOUT AS BRIGHT AS THE BRIGHTEST SATELLITES YOU HAVE EVER OBSERVED. THE OBJECTS WERE MOVING SOUTH IN  BETWEEN THE STARS ALTAIR AND VEGA. ONE OBJECT WAS A FEW DEGREES AHEAD OF THE OTHER LICKE THIS `\,  . THEY WERE MOVING MUCH FASTER THAN SATELLITES PLUS I WENT ON THE WEB AND USED THE J-TRACK 3D PROGRAME TO SEE IF THE SPACE STATION OR ANY SATELLITES WERE PASSING OVERHEAD AT THAT TIME. ACCORDING TO EVERYBODY WHO PROVIDES DATA ON SPACE DEBRIS THE SKY WAS CLEAR.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37764.html](http://www.nuforc.org/webreports/reports/037/S37764.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
