@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:32 on 24 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:30 on 24 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Baker (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>giant triangle spotted of I-15 N to vegas between barstow and baker, Ca, june 24th at 11pm.We were driving North on Interstate 15 from Los Angeles, CA on June 24th, 2005.  About 40 Miles from Baker, CA after passing Barstow, CA, we (my passenger and I) noticed a Bright white "star" off to the northwest, just off the side of the highway.  As we continued North on the HWY, we noticed 2 smaller lights to the sides slightly lower than the bright center light.  They appeared to be of equal distance and angle from the center light.  As we approached, it increased in width.  It was 11PM so the only lights were the travelling cars and the stars, it was a clear night, it seemed we were getting closer to the object, triangle.  As we got closer, we noticed that the stars vanished behind the object, the black object.  We continued past the object and never saw it again.  It seemed as if it were not moving at all or so slow it was unmeasurable.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44572.html](http://www.nuforc.org/webreports/reports/044/S44572.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Morrisville (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright/fast moving object in the night skyThe sighting occurred around the time of 10:00 PM, it was a clear night and I had decided to lay in my yard and view the sky. The sky was dark and dotted with stars, planes slowly moved across the sky. I continued to watch the sky for a good thirty minutes or so until I saw something out of the ordinary in the sky. What I saw was a sudden bright light; at first I thought it was just a bright star but the more I looked I realized it wasn’t a star at all. The light was not a fiery white blaze a meteor would normally generate, it instead looked as though something was shining a huge bright spotlight in the sky towards my directing. The flying object was not bearing any strobe light or light a plane would normally carry and not giving off any loud chopping noise a helicopter would generate and was not giving off a roar a jet would normally create. The light it was giving was too bright and massive to be any airliner as well. As I strained my eyes to make out the light on the aircraft it suddenly turned to the left so I could get an almost clear view of its side. With the light no longer focused in my direction I strained to view what appeared to be a long cylinder-like object with a red light on what I assumed was its front. Soon the red light dimmed to such an extent that it was impossible to decipher where it exactly was in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70826.html](http://www.nuforc.org/webreports/reports/070/S70826.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
