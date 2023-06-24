@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:22 on 24 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:26 on 24 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Lights grouped, then moving up at a fast rate of speed.I moved to the window to pull the shade down and noticed an odd group of lights in the southern sky.  As we are in the city (Chicago) and cannot often see stars, it was so compelling that I called my husband to observe this with me.  Eight to twelve lights grouped together in formations (2, 4).  Once they grouped together, they began to move at a very fast rate traveling straight UP...in a straight line.  This was mind-blowing for us as there was a distinct formation and a clear ascent straight upward.  We will never forget this.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111307.html](http://www.nuforc.org/webreports/reports/111/S111307.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Essex (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Saw UFO, photographed UFOI got home from Deliveries walked to the lawn chair with my camera. looked over the store and saw what i thought was a Turkey vulture flying, i wasnt sure so i ripped 2 photos, then realized my camera was on manual focus, i looked back at Turkey Vulture and it then took of from over the store out of sight in less than a second,  Awsome!!!  the shots im including here are normal focal lenth, 135mm and enhanced enlargments, there not the best but you can see it.((NUFORC Note:  Photos not of a genuine UFO, we believe.  One of four reports from same source.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77268.html](http://www.nuforc.org/webreports/reports/077/S77268.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
