@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:22 on 24 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:19 on 24 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Snoqualmie (WA) reported seeing craft that fit the description of some '' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Young man driving E on I-90 witnesses streamlined, delta-shaped obj. streak across clear, blue sky.  Excellent rept.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00580.html](http://www.nuforc.org/webreports/reports/000/S00580.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Milan (TN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Large chrome sphere shaped craft seen in TennesseeI was walking on a local YMCA outdoor track around 12:00 noon, when something in the sky caught my attention. It looked like a large chrome(silver)sphere shaped object moving slowly in the sky behind the YMCA building. It looked to be maybe 4000 to 5000 ft in the air. As I kept watching the object it moved upward to my left at a forty-five degree angle into a small cloud. I never took my eyes off the cloud thinking sooner or later it had to reappear somewhere beyond this cloud,but it never did. I finished my walk and never saw the craft again.  I might have been a weather balloon,but I've never seen one that large and able to move in a straight line at forty-five degrees on it's on power.  If anyone has any idea as to what it might have been I would certainly like to know.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68395.html](http://www.nuforc.org/webreports/reports/068/S68395.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
