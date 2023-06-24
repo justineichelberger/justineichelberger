@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:25 on 24 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:45 on 24 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Wentzville (MO) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Seamingly intelligent glowing pink cylinder.Having a cigarette outside, I noticed a pink glowing cylinder about the size of a nunchuk handle.  It did a slow twisting spin, while moving left to right, shifting those movments within a foot or two in the air.It was as if this object knew I could see it, like a person doing a dance when no one was around and then being startled when caught.  It stopped its spinning twist, froze, then made a very rapid arch and flew behind my neighboring townhouse.  There was nobody on the roof of the town house, and diffenitly not a quadcopter as I own a few.  That night there was a large thunderstorm and there were trees taller than the townhouse giving foreground or a back drop if you will too lend me a very sharp view of this unknow object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110567.html](http://www.nuforc.org/webreports/reports/110/S110567.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Abilene (TX) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>White egg/teardrop craft seen hovering near Abilene, TXOn Thursday June 24, 2021 I was heading from Abilene, TX along FM 600 (also called West Lake Road) toward Nugent, TX at approximately 2PM. I spotted a large white object in the sky. I kept waiting for it to move but it did not. The closer I got to it I realized it was hovering in the air below the cloud line. As I got closer, I could see it was a polished white and reflected the sunlight. If I had to guess, I would say it was roughly the size of a CH-47 military helicopter. It looked to be sort of egg or tear dropped shaped with now windows, fins or any visible propulsion system. I continued down the road with the object to left of me. As I drew up along beside it, it stopped hovering and matched my speed exactly (approximately 70mph) with the “tip” of the object facing the same direction as the front of my vehicle. At a certain point, I passed two radio/cell phone towers (the really tall kind with red blinking lights on them), the object passed between them! at about ¾ of their total height. Soon after this, the object turned left suddenly and began to fly away from me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164248.html](http://www.nuforc.org/webreports/reports/164/S164248.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
