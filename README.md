@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:01 on 24 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:27:23 on 24 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Babbitt (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright, fast moving "star" heading east over Birch Lake RV Park in Babbitt, MN.Around 11pm on June 24th, we were all sitting around a campfire when I looked up and saw a very bright "star" moving east very fast.  I have been camping for 30 years and have always looked up in the night sky and have seen satellites go by, but never this fast or this bright. Everyone else I was with said it was a satellite, but I wasn't convinced.  Where there any satellites over Babbitt, MN, on this night, or did I witness something else? I witnessed a large fireball object in an open field about five years ago, while we were stopped waiting for a train to pass, so now I'm on the look out for such things constantly.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81940.html](http://www.nuforc.org/webreports/reports/081/S81940.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two orange very illuminated objects moved from west to east, slowed down and moved south and faded out.Two orange illuminated objects went from west to east over the puget sound.  Illumination increased dramatically and objects slowed down to near stop.  Second object disappeared, first object turned south and slowly faded away.  Observed objects via binoculars and did not see any sign of aircraft strobe nor red/green navigation lights.  Bright orange illumination that was twinkling/flashing.The fact that the object slowed down and changed course made this really odd, in addition to the one object disappearing and the other fading away.At the same time an aircraft was lined up with 13R centerline on approach while traveling over Magnolia neighborhood.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110606.html](http://www.nuforc.org/webreports/reports/110/S110606.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
