@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:30 on 24 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:21 on 24 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Chatsworth (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>1 object got it on video when i was about to take a picture it was gone.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110676.html](http://www.nuforc.org/webreports/reports/110/S110676.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Terrace (Canada) (BC) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Egg shaped object hovering over the south side of the river.I received a telephone call from a witness at 9:10 a.m., June 27, 2003. A man reported to me that he and his wife were just heading out for a couple of days fishing trip at Prince Rupert, British Columbia. They were just outside of Terrace, B.C.  driving on highway #16 along the Skeena River heading west when the man's wife gave out a yell for him to look up and towards the south. The gentleman said it took a couple of seconds before his brain kicked in, thinking what he was looking at was very unusual. He pulled the vehicle over to the side of the road and both watched an egg shaped object hovering over the south side of the river at approx: 1000 feet. They mentioned it was approx: the size of a pick-up truck, shiny silver in color. It was completely smooth, or no seams on the object were visible. "Witness expressed: it looked like an egg"!! (he laughed and said they must grow large chickens in Canada). They did not hear any sounds coming from it. The sighting lasted for approx: 10 to 15 seconds before it sped off at an incredible rate of speed south. He also said that since it wasn't that early in the morning there were other vehicles passing them on the highway, and a couple of vehicles had slowed way down and they could been seen looking in the direction of the object. The witness said I know what normal aircraft look like, and this thing was not anything that I have ever seen before. HBCC UFO Note: Of course I am looking for any others who were traveling the highway that morning in hopes they may have seen the same thing. The witnesses had heard me on the radio and from there looked me up. Thank you to the witnesses for their report. Brian Vike, Director HBCC UFO Research Canadian Toll Free UFO Hotline 1 866 262 1989 - Free call.Editor: Canadian Communicator - Paranormal Magazine email: hbccufo@telus.net Website: http://www3.telus.net/public/wilbur8/hbcc_ufo_research.htm((NUFORC Note:  We express our gratitude to Brian Vike for sharing the report with NUFORC.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29438.html](http://www.nuforc.org/webreports/reports/029/S29438.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
