@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:16:10 on 25 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:28 on 25 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Sphere' over a period of approximately at home - at home minutes.</sub><blockquote><sub>While looking out my living room, I saw a glowing red UFO come down and land on a few branchs, then flew off northwards at high speedsWhlie I was playing with my new binoculars, I looked away for a second, then looked again and saw a small red apple like object come down from the sky and land on a group of small branchs. Then I looked for a few seconds then I told my brother to come see this object. By the time he got there it flew away towards the north a high speeds. A couple of years later, while watching Unsloved Mysteries I saw a ufo that looked like that one I saw but bigger. Which got me thinking about the UFO that I saw. Then I begin going over what anyone would say about the UFO that I saw. I started by thinking that it can't be a laser because it was too big to be one,or that it was an illuion.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52862.html](http://www.nuforc.org/webreports/reports/052/S52862.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Yakima (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright starlike object that moved position in a small area of sky seen north of Yakima during middle of dayI saw an object that at first glance one would think was possibly an airplane since it appeared the sun was reflecting off of it but it stayed in a small area of the sky for approximately 3 minutes and then wasn't visible again for a minute and then was visible again for about 30 seconds and then wasn't seen again.  When visible it had a steady light.  It was seen from Yakima about 15 degrees above the horizon slightly toward the North Northwest.  I pointed it out to a neighbor lady who also saw it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81920.html](http://www.nuforc.org/webreports/reports/081/S81920.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
