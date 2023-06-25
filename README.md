@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:28 on 24 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 25 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Montana City (MT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Silver/translucent spiral-ribbed object over the ElkhornsAt 8:00 pm under full sun, a friend and I had just returned to our pickup, and happened to hear a plane overhead.  When we looked up, we noticed the plane, but also noticed a silvery round object that appeared to be stationary.  We watched the object for nearly an hour, with a fair wind, clouds passed under it and three aircraft flew passed it, but it didn't move.  Somehow it was geosynchronous.  After exhausting our SkyView and GoogleSky apps we determined it wasn't something that showed up on either.  We drove north about four miles to a friend's house and borrowed their spotting scope.  The object was still in full view; under a 45X view the object appeared shimmering silver and almost translucent, a spiral pattern of ribs was clearly visible on the bottom of the object.  One individual reported clearly seeing blinking lights in fixed position on the lower portion of the object.  Five of us watched the object through the scope until about 10:00pm when it started to! fade with the dimming light.  The individual looking at the object at the time reported that, while he had a clear view of it, it vanished right before his eyes.  We watched the sky further, as stars began to finally peak out, but where unable to relocate the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128052.html](http://www.nuforc.org/webreports/reports/128/S128052.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Cherry Grove (SC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange lights Myrtle BeachOrange spheres of light appeared over the ocean, fairly high well above the horizon.  4 spheres appeared to be connected horizontally.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157158.html](http://www.nuforc.org/webreports/reports/157/S157158.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/163/S163816.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164248.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164107.html)
-- [339](http://www.nuforc.org/webreports/reports/163/S163815.html)
-- [338](http://www.nuforc.org/webreports/reports/163/S163853.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
