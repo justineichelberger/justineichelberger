@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:25 on 25 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:29 on 25 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Sphere' over a period of approximately  -  minutes.</sub><blockquote><sub>sphere seen right on  the outside of boise, idaho.last summer i was going on a trip with my brother and my mom to salt lake city, utah, from boise, idaho. as we wee right outside boise, i saw a sphere shape, not moving or anything. the object was slightly blurried, as if the edge was not smooth. as we came closer to it, it appeared to get slightly larger but not much, as if it was heading the same way we were. it was definately metallic, because the sun reflected off of it. then, the object changed and became smooth lookingwhen we approached it more. then it started to move in front and then behind a cloud. it did this very rapidly for about a minute, then went behind the cloud and never came back. i know that we were near the airport and the military, but it was not an airplane, because it made no noise, and it was not a helicoptor, because it was smaller than a helicopter. i have never seen it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05350.html](http://www.nuforc.org/webreports/reports/005/S05350.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Toledo (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Unidentified Object Sighted  It looked like a frisbee and had circular lights around with 1 light on top. The saucer, was hovering over the field in front of our apartment. We observed it going very slow moving to the right then to the left then back over our way. It was moving in circular motion and was very quiet. When we went to go chase it, it disappeared, when we returned to our apartment we could instantly see it again. we have been observing it for over 1 1/2 hrs and it is still in the same area and position</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57301.html](http://www.nuforc.org/webreports/reports/057/S57301.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
