@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:38 on 25 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:27 on 25 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>On my way home from work heading north on the Florida turnpike from homestead I spot about 10 objects in the air that had red lights on them.  At first I thought the lights were fireworks but then realized the lights were slowly flying at a low rate of speed from east to west over the Kendall area.  I know they were not jet powered or turbine powered aircraft because they were definitely going under 100 mph.  They could be helicopters or airplanes but I don't see why there would be over 10 aircraft with red lights flying extremely close to each other.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98906.html](http://www.nuforc.org/webreports/reports/098/S98906.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Garden City (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Garden City, SCWitnessed a circular orange/yellow object and assumed it was a planet until it disappeared.  A few minutes later 2 orange/yellow objects appeared over the ocean and then disappeared.  For approximately 15 minutes witnessed 10-15 objects that would appear solo or in groups.  This occurred slightly north of the Garden City pier.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110679.html](http://www.nuforc.org/webreports/reports/110/S110679.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
