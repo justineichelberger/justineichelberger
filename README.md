@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:29 on 25 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:28 on 25 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Toledo (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Unidentified Object Sighted  It looked like a frisbee and had circular lights around with 1 light on top. The saucer, was hovering over the field in front of our apartment. We observed it going very slow moving to the right then to the left then back over our way. It was moving in circular motion and was very quiet. When we went to go chase it, it disappeared, when we returned to our apartment we could instantly see it again. we have been observing it for over 1 1/2 hrs and it is still in the same area and position</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57301.html](http://www.nuforc.org/webreports/reports/057/S57301.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Westerly (RI) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>traveling at fast speeds as high as the stars on a clear night then gone out of sightone small light about as high as the stars moving south at a high rate of speed then went out of sight, It was awesome((NUFORC Note:  Witness remains anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23910.html](http://www.nuforc.org/webreports/reports/023/S23910.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
