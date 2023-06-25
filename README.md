@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:22 on 25 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:27 on 25 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Market Drayton (UK/England) () reported seeing craft that fit the description of some 'Other' over a period of approximately several minutes - several minutes minutes.</sub><blockquote><sub>Soldier told last night how he saw UFOs spinning in the skies above his military barracksThis is the most recent report of several sightings in and around the county of Shropshire UK and is particularly interesting as military personnel captured the UFOs on camera and video. Helicopter police were also involved in a later incident. The full report can be seen, including the video, on: http://www.thesun.co.uk/sol/homepage/news/article1336870.ece  (The Sun is a major daily, national news paper for the UK).At approximately 11 pm last night June 24th three British military personnel spotted and filmed, over several minutes, a fleet of about thirty UFOs passing over their military barracks. Two hours later, helicopter police encountered a "huge craft" 80 miles away near the town of Cardiff and three hours before a couple driving along the A5 near Shrewsbury claim they were followed by a strange light in the sky. Last Friday, a woman walking her dog took a daylight photo of seven UFOs at Bromsgrove, Worcestershire.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64121.html](http://www.nuforc.org/webreports/reports/064/S64121.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Westport (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Low, silent procession of orange 15-20 lights slowly flying over Westport to over Long Island SoundDriving car along Compo Beach, on cloudy, overcast night. Just dropped off my son to see friends. No moon or starlight. Saw two or three large orange lights flying, low, slowly over Westport proceeding toward Long Island Sound. Lights about the size of a shirt button at arms length. While almost directly overhead, they appeared to be flying low and slow. If lights were not low, then they would have had to be huge. Saw another light following first lights, then another, then another. All moving in straight line toward Long Island. Pulled car over to watch as more lights continued to add to the widely spaced procession of lights. Fifteen to twenty in all. Car windows rolled down, but could hear no sound. Another car stopped at a stop sign - not moving - as lights flew by. Returned home and texted my son who saw them also, but said they looked red to him.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90096.html](http://www.nuforc.org/webreports/reports/090/S90096.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
