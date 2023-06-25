@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:31 on 25 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:25 on 25 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Idaho Falls (ID) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>3 lights above a well known parkI was playing a night game with some friends at Tautphaus Park (a well known, very large park) and I was running away from friends across a large field.  I looked up as I was running and saw 3 lights moving in a consistent formation.  They seemed too low to be an airplane and too high to be a toy.  As they moved along they began to weave and zoom among each other.  There was no pattern to how they were moving.  They were moving short distances really fast.  After a few seconds of this movement they shot off out of sight.  This is the only sighting I have had.  I am not a sci-fi freak.  I am a reliable college grad.  This is not a hoax.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61056.html](http://www.nuforc.org/webreports/reports/061/S61056.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Sphere' over a period of approximately  -  minutes.</sub><blockquote><sub>sphere seen right on  the outside of boise, idaho.last summer i was going on a trip with my brother and my mom to salt lake city, utah, from boise, idaho. as we wee right outside boise, i saw a sphere shape, not moving or anything. the object was slightly blurried, as if the edge was not smooth. as we came closer to it, it appeared to get slightly larger but not much, as if it was heading the same way we were. it was definately metallic, because the sun reflected off of it. then, the object changed and became smooth lookingwhen we approached it more. then it started to move in front and then behind a cloud. it did this very rapidly for about a minute, then went behind the cloud and never came back. i know that we were near the airport and the military, but it was not an airplane, because it made no noise, and it was not a helicoptor, because it was smaller than a helicopter. i have never seen it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05350.html](http://www.nuforc.org/webreports/reports/005/S05350.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
