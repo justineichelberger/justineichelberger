@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:28 on 25 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:33 on 25 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Yakima (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright starlike object that moved position in a small area of sky seen north of Yakima during middle of dayI saw an object that at first glance one would think was possibly an airplane since it appeared the sun was reflecting off of it but it stayed in a small area of the sky for approximately 3 minutes and then wasn't visible again for a minute and then was visible again for about 30 seconds and then wasn't seen again.  When visible it had a steady light.  It was seen from Yakima about 15 degrees above the horizon slightly toward the North Northwest.  I pointed it out to a neighbor lady who also saw it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81920.html](http://www.nuforc.org/webreports/reports/081/S81920.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Late in the evening, my family and I were walking the beach, when we noticed random orange lights appearing and then disappearing very quickly.  Sometimes these lights were spread out and other times very very close and blinked in patterns.  I'm aware that others noticed these lights as well and we're attempting to record them.  An aircraft took off from the nearby airport as the lights were still visible and flew directly into the area of them and then immediately returned to the airport.  We saw the lights a couple more times after that and then no more.U</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110670.html](http://www.nuforc.org/webreports/reports/110/S110670.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
