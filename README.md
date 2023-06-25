@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:32:51 on 25 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:16:10 on 25 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Carey (15 miles east of; on Hwy 20) (ID) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Rectangular object observed for three minutes, then it instantly vanished.As a skeptic regarding UFO sightings, this is not easy to report.We were traveling eastbound on Idaho State Highway 20, 14 miles east of Carey, Idaho.  The object was ahead of us at a 60 degree angle from the horizon and on a bearing of 35 degrees.  It appeared stationary for about three minutes and then was INSTANTLY gone.It was rectangular in shape, had no visible lights.  Since distance was impossible to determine, the size is anyone's guess.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81955.html](http://www.nuforc.org/webreports/reports/081/S81955.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Sphere' over a period of approximately at home - at home minutes.</sub><blockquote><sub>While looking out my living room, I saw a glowing red UFO come down and land on a few branchs, then flew off northwards at high speedsWhlie I was playing with my new binoculars, I looked away for a second, then looked again and saw a small red apple like object come down from the sky and land on a group of small branchs. Then I looked for a few seconds then I told my brother to come see this object. By the time he got there it flew away towards the north a high speeds. A couple of years later, while watching Unsloved Mysteries I saw a ufo that looked like that one I saw but bigger. Which got me thinking about the UFO that I saw. Then I begin going over what anyone would say about the UFO that I saw. I started by thinking that it can't be a laser because it was too big to be one,or that it was an illuion.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52862.html](http://www.nuforc.org/webreports/reports/052/S52862.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
