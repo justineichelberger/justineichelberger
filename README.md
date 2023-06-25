@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:24 on 25 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:38 on 25 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Woodstock (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>2 sphere like objects over Georgia tonight.While taking pictures of a complete rainbow, I started zooming and suddenly I noticed two floating sphere like objects.  After making the zoom, they seemed to have like an energy source surrounding them.I showed it to my daughters and immediately I tried to take a video but when I was focusing, they suddenly vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141942.html](http://www.nuforc.org/webreports/reports/141/S141942.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>On my way home from work heading north on the Florida turnpike from homestead I spot about 10 objects in the air that had red lights on them.  At first I thought the lights were fireworks but then realized the lights were slowly flying at a low rate of speed from east to west over the Kendall area.  I know they were not jet powered or turbine powered aircraft because they were definitely going under 100 mph.  They could be helicopters or airplanes but I don't see why there would be over 10 aircraft with red lights flying extremely close to each other.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98906.html](http://www.nuforc.org/webreports/reports/098/S98906.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
