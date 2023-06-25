@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:24 on 25 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:32:51 on 25 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Big Bear Lake area (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>jello-y lights, it transformed before our eyes.can lights seperaate? saw what looked like a bunch of small people carrying lights. well no "people" were seem but the lights were not very high up and moved a little erratically in  circle as if people were dancing around holding lights. one brighter light was in the center. it was about 1/2 mi away or so. shined flashlight at it. the "fairy lights" turned off. the big light got brighter and faced us. grew in size. like it was made of hot taffy, the light pulled .part smoothly yet stretchy into two. went to chase and find this craft! it turned off. waited at a clearing to see it. finally it appears, raises off the ground silently, hovers still, groans, and lights turn off and on. grows wings like an airplane and flys away.((NUFORC Note:  Date is approximate.  Witness describes self as a teacher.  We do not know whether this report is serious, or not.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27583.html](http://www.nuforc.org/webreports/reports/027/S27583.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Carey (15 miles east of; on Hwy 20) (ID) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Rectangular object observed for three minutes, then it instantly vanished.As a skeptic regarding UFO sightings, this is not easy to report.We were traveling eastbound on Idaho State Highway 20, 14 miles east of Carey, Idaho.  The object was ahead of us at a 60 degree angle from the horizon and on a bearing of 35 degrees.  It appeared stationary for about three minutes and then was INSTANTLY gone.It was rectangular in shape, had no visible lights.  Since distance was impossible to determine, the size is anyone's guess.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81955.html](http://www.nuforc.org/webreports/reports/081/S81955.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
