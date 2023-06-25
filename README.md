@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 25 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:24 on 25 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Cherry Grove (SC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange lights Myrtle BeachOrange spheres of light appeared over the ocean, fairly high well above the horizon.  4 spheres appeared to be connected horizontally.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157158.html](http://www.nuforc.org/webreports/reports/157/S157158.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Big Bear Lake area (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>jello-y lights, it transformed before our eyes.can lights seperaate? saw what looked like a bunch of small people carrying lights. well no "people" were seem but the lights were not very high up and moved a little erratically in  circle as if people were dancing around holding lights. one brighter light was in the center. it was about 1/2 mi away or so. shined flashlight at it. the "fairy lights" turned off. the big light got brighter and faced us. grew in size. like it was made of hot taffy, the light pulled .part smoothly yet stretchy into two. went to chase and find this craft! it turned off. waited at a clearing to see it. finally it appears, raises off the ground silently, hovers still, groans, and lights turn off and on. grows wings like an airplane and flys away.((NUFORC Note:  Date is approximate.  Witness describes self as a teacher.  We do not know whether this report is serious, or not.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27583.html](http://www.nuforc.org/webreports/reports/027/S27583.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
