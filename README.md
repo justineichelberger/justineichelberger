@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:25 on 25 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:24 on 25 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Apison (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Spotted one object that looked like a bright star in the clear night sky. It was moving N and then took a slight left heading NW.  Object intensified its color at least three times more than its normal brightness.  It would then dim almost until you couldn't see it and then it brightened up again a second time and then it dimmed out and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90104.html](http://www.nuforc.org/webreports/reports/090/S90104.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Woodstock (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>2 sphere like objects over Georgia tonight.While taking pictures of a complete rainbow, I started zooming and suddenly I noticed two floating sphere like objects.  After making the zoom, they seemed to have like an energy source surrounding them.I showed it to my daughters and immediately I tried to take a video but when I was focusing, they suddenly vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141942.html](http://www.nuforc.org/webreports/reports/141/S141942.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
