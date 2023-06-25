@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 25 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:20 on 25 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Rome (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A fleet of orbs over city 100's  video link in description boxSome of the orbs were moving close to eachother as if they were connected.  Video link here:  https://ufostalker.com/sighting/109739</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157189.html](http://www.nuforc.org/webreports/reports/157/S157189.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Winnipeg (Canada) (MB) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Seeing UFO'S in Manitoba.OK!  Well,so far I have seen these almost 2-3 times a week or more over the past year.Just happened upon this site so I wanted to make this documented because if anyone else sees this too I won't feel like I am going crazy!I have started to question my faith and looked into Bible/UFO/Historical findings.The objects look like stars,they are way up in the sky.I look at the stars alot and can notice these things alot.Most times they start in the west and go east,a couple times it has been south to North.The way I notice is,I am just standing outside having a smoke.Because I don't smoke indoors.I look at the sky and just stare at the stars,and then if you look around an really stare at them.It moves,it is slow.Sometimes they float like a feather,and then all of a sudden turn red like it is a falling star burning.Sometimes they just move and stay put.But not for long,just a couple minutes then they move into space and disappear.Sometimes there is more than one and they kinda play around with eachother,in a circular tag game style.They look like stars,even higher than the visable stars.Having no other appearance,just white glowing star like quality.No other lights flashing at all.And they are a mystery to me.But I know it is something.Must be ufo's??((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70735.html](http://www.nuforc.org/webreports/reports/070/S70735.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
