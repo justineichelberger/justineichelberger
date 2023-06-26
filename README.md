@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:25 on 25 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:42 on 26 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in South Haven (MI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Small craft docked on the side of a much larger craft.  Within 200 feet of both.It’s been on my mind lately, in 1974 I was near the Palisades Power Plant in Covert Michigan while it was being built if I remember right. Anyway I was on apart of US 31 which had been cut off because of the building of the power plant, watching the sky as I usually did back then. I was sitting on the side of the road facing south. As I watched to the east, south and west I saw a large saucer shaped craft probably 80 to 95 feet in diameter rise up out of the swampy area to my left and a bit behind me. What has always bothered me is  that there was a smaller saucer shaped craft docked on the side of the large one. Both craft were a gray metallic color but had no lights of any kind. There was absolutely no sound, I sat watching it rise up to about tree top height and then it stopped  and hovered. I was about 200 feet away from the crafts, it just hovered there for about a minute as I studied it. Well it was not moving so I decided I  would. I turned my Datsun pick up around moving back to the North, drove under the crafts. I know they were real because I saw them in my mirror and saw the crafts move across the road to the west as I drove away. Like I said the one docked on the side really bothers me, I have never heard of a UFO with one docked on the side of it. Have You? I was not abducted I know that for sure, I went immediately to a near by friends house. Had him grab his camera and go with me up into the hills between US 31 and Lake Michigan. As we neared the area just north of the power plant where a boy scout camp was located we saw the out line of the craft through the tree canopy above. We could not get any kind of a picture because of the tree cover. It continued westerly out over Lake Michigan. By the time we reached the bluffs above the lake the craft was out of sight. Also my pick up started to run very rough, missing and spitting . I returned my friend back to his home and I continued back to my home, barely making it. The next morning my truck refused to start, it would turn ! over but not start. I had just tuned it up days earlier and found the new points and spark plugs burned away as if they had many thousands of miles on them.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60562.html](http://www.nuforc.org/webreports/reports/060/S60562.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Rockwell City (IA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 21:09 - 21:09 minutes.</sub><blockquote><sub>Fire Ball Moving Very Slows, there was 1, they just moved, they were orangish yellow and in the backround just the night sky.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61363.html](http://www.nuforc.org/webreports/reports/061/S61363.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [398](http://www.nuforc.org/webreports/reports/163/S163837.html)
-- [397](http://www.nuforc.org/webreports/reports/163/S163849.html)
-- [396](http://www.nuforc.org/webreports/reports/157/S157173.html)
-- [395](http://www.nuforc.org/webreports/reports/157/S157153.html)
-- [394](http://www.nuforc.org/webreports/reports/157/S157157.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
