@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:29:21 on 26 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:29:48 on 26 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Ozark (AR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We observed a rapidly moving light in the morning that was only outshone by the moon and sun.I do not know how to do this.  I have a report although I have no clue as to how to cut and copy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75950.html](http://www.nuforc.org/webreports/reports/075/S75950.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Watkins Glen (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.8333333333333334 - 0.8333333333333334 minutes.</sub><blockquote><sub>Seen in Southwest sky for approximately 45 to 50 seconds, then disappeared.I was running South, when I looked up and saw a sphere shape in sky, complete round ball, silver and bright in the southwest sky, I saw it for about 45 to 50 sec and then it was gone. Object did not appear to be moving.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157163.html](http://www.nuforc.org/webreports/reports/157/S157163.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/164/S164111.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163839.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163841.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163861.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
