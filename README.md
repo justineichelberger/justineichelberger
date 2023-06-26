@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:14:15 on 26 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:28 on 26 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Litchfield (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two orange/yellow spheres appeared and disappeared over the ocean at Litchfield, SCI looked out over the ocean from my deck and saw an orange/yellow light moving from north east to south west.  It disappeared and then reappeared and then another one lit up to the south west for a moment.  They both disappeared a few seconds after.  Two jets appeared a few minutes later and appeared to follow the same path.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110675.html](http://www.nuforc.org/webreports/reports/110/S110675.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Surprise (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>falling star, or ufo?started from the heavens, came down at a very steep angle, assumed it was a falling star, and waited and watched as it headed towards the ground, gettting fainter, then it mad a change in direction and began to flash brightly pulsating as it headed parralel with the ground towards the south east, it then dissapeared behind a house across from my backyard, did not see where it went.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51128.html](http://www.nuforc.org/webreports/reports/051/S51128.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/164/S164111.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163839.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163841.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163861.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
