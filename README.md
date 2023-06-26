@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 26 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:39 on 26 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Issaquah (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Golden light seen Issaquah WAI was standing on my back porch, and I saw a gold colored light traveling roughly in a Northerly direction, in a straight line.  I have seen identical objects over the last two years twice before.  It was not a flare from a satellite, because it was a steady glow which did not diminish.  I saw it make its way rather slowly at a steady speed and it disappeared in the clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70767.html](http://www.nuforc.org/webreports/reports/070/S70767.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Carlsbad (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Shinny golden matalic disk/sauser shaped object seen for 2-3 secs....then disappeared!  Today's incident:  I was outside in the backyard getting some sunshine, and as I was looking up towards the south-west, at about 1 or 2 o'clock, I saw a shiny matalic object, moving rapidly (I say 200-500 mph) in the sky towards the south-east at about 2,000 to 5,000 ft. It had a bright golden/matalic glow to it.I saw it for only 2 or 3 seconds and then....it disappeared.There were clouds in the sky, but where I saw the UFO flying, it was perfectly clear and deep blue...It didn't go inside/behind a cloud,like alot of reports suggest...it just vanished..into thin air!!!  I'm almost 51, and have had numerous siteings in the span of my lifetime.Incident # 2 : I also want to mention an incident that occured last winter(nov. or dec.) I was laying in bed.It was early morning,and I had just woke up.I suddenly became aware of some type of communication (could have been telepathic) coming from somewhere.The communication asked me, " Do you want to come watch us leave"...It startled me BIG TIME..because it was in my thought pattern.I believe I could have been abducted earlier that morning or night.The only way I can describe it was that it sounded like an insect talking..If that makes any sense..like a praying mattis..or something like that.VERY strange!  If anyone else out there has had a similar experience, I would like to hear/ read about it.  I'm 100% sane, with an IQ in the 130 + range..so I'm NOT some loony-tune. Anyways..oh yeah..I like to hear from an expert on ufo abductions, if possible.I believe I've been abducted in the past also. Thanks.God bless.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75957.html](http://www.nuforc.org/webreports/reports/075/S75957.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/164/S164111.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163839.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163841.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163861.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
