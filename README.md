@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:29 on 26 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:25 on 26 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>4 white or cream disk-shaped UFOs in pairs about a minute apart over Boise, IdahoI am a 33 year old woman who saw, along with my 3 year old daughter, two saucer-shaped white or cream colored UFOs go by, approximately at the speed of an airplane, the first two were side by side, not real close though, and the other two came about a minute later and were one behind the other. I had seen several jets flying by as well at different times but these UFOs had no wings or appendages of any kind, nor any trails behind them. Jet appeared behind them approx 3-4 minutes later.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57329.html](http://www.nuforc.org/webreports/reports/057/S57329.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>saw what looked almost like a rocket, very high elevation, shoot across the sky in 3 bursts of speed and color from rear of whatever it way... it went from the west side of town toward the east, saw it from Wyoming and San Antonio area- 3 or 4 bursts of green and yellow, and incredible speed.   it was not a rocket, or an airplane or a meteor, for sure.  disappeared behind a cloud and gone--it was very fast, very noticeable and completely unlike anything I have ever seen, and I grew up on Air Force bases, so I know what missiles and weird planes look like.  I was watering outside and happened to be looking up and caught it.  I have seen other sightings, many of unexplained lights near the Sandia mountains, but nothing like this, ever</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147093.html](http://www.nuforc.org/webreports/reports/147/S147093.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/164/S164111.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163839.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163841.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163861.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
