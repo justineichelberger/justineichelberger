@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:30 on 26 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:30 on 26 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in The Colony (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately getting ready for soccer - getting ready for soccer minutes.</sub><blockquote><sub>One disc-shaped object flying South over Dallas then followed an aircraft West.As I was sitting outside on my porch this morning, I glanced up at the starry night sky, only to notice a UFO. It wasn't like any aircraft I have ever seen before. I knew this because it seemed to be shaped like a Frisbee, and it was pulsating with white light, one flash every two seconds growing strong then weak again.I didn't have a camera, and I didn't know what it was, so I just stood up to watch what it would do and where it would go. It flew in a vertical line South, turned around in a complete circle, and then it followed an airplane flying West until it was out of my sight.I immediately ran inside to report what I saw to my mother. She didn't doubt what I had said for one second. Thank You.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75943.html](http://www.nuforc.org/webreports/reports/075/S75943.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Mahopac (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>The most amazing thing I had ever seen!Disk in the western sky.  Green and Red flashing lights around perimeter.  Never moved North or South, just desended in the western sky very slowly.  Kept looking until I just saw a perfectly round silhouette.  I think the neighbors spotlight prevented me from seeing the lights through the binoculars once it got lower in the western sky and further away, but with the naked eye I could still see the red light flashing.  This was not a plane!!!!!!!!  When it was closer I observed exactly what I described.  I took pictures but the camera was not the greatest.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18195.html](http://www.nuforc.org/webreports/reports/018/S18195.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/164/S164111.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163839.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163841.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163861.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
