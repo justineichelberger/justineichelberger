@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:36 on 26 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:30 on 26 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Apple Valley (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>3 observers witnessed a "manta-ray" shaped craft move west over mountain range for 30 min. No lights or windows were visable.VERY LARGE!Witnesses observed very large "manta-ray" shaped object approximately  7 - 8 miles away move slowly west over a mountain range. The object was larger than blimp size and was solid black with no reflective surfaces. Observer 1 ( writing this summary ) huried into house a got a pair of binoculars ( 10x50 ) and observed the object for a couple of minutes. I then proceeded to locate our 35mm camera and snap off 6 pictures. Unfortunately when I went to rewind the film for developing it was no longer in the camera and is still missing. The first thing I did when I picked up the camera was to look through the little window to see the type of film and number of exposures on it ( 200 ASA 24 exp ) I then looked at how many exposures were left ( all 24 ) and proceede to the back porch to take my 6 photos. What happened to the film is still a mystery, but this object was a very symetrical structured craft that was so black it looked like a hole in the sky. There were no lights or windows visable.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04358.html](http://www.nuforc.org/webreports/reports/004/S04358.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Grand Rapids (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Very strange slow motion mechanic noise that lasted about 30 seconds.Did not see anything but heard a super creepy mechanic noise/echo for about 30 seconds, before it faded away.  We have the windows open, could hear the noise over the TV.  We turned off the TV and listened to it before it faded away.  Did NOT sound like a plane or helicopter.  Very slow motion mechanic sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134743.html](http://www.nuforc.org/webreports/reports/134/S134743.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/164/S164111.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163839.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163841.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163861.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
