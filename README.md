@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:45 on 26 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:29 on 26 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Laconia (NH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Pink Orb/Sphere in New HampshireI was on vacation waiting for my daughter, husband and friends to arrive at the resort when I received a disturbing phone call from the police department that my son in law had hung himself.  At first I thought it was a mistake, I tried calling my daughter..no answer.  I tried calling my son in law..no answer.  I was standing on the porch of my resort when I suddenly saw a pink orb/sphere in the sky.  It did not move...it was pink, I could see white round objects in front of it.  It was not the moon.  My neighbor below came outside to observe the orb...I yelled down to her..."Do you see the orb?" OMG..yes I do.We could not believe our eyes.  It was in the sky for about 10-15 minutes when all of a sudden it was gone.  Could this have been a sign from my deceased son in law?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144872.html](http://www.nuforc.org/webreports/reports/144/S144872.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Intense white lights followed by red and blue lightsI was sitting at my computer with the window open when I noticed what I thought was a blue helicopter light, but it quickly grabbed my complete attention with its strange movements.  The light moved across the skyline at extremely high speed, assuming the object was as distant as I think it was.  It was also incredibly smooth, gliding effortlessly north to south.  Every 8 seconds or so, the radiant blue light became an intense white light for about 1 second, and then became a dull red before becoming an intense blue again.  This happened probably 4 times before the object dipped below the some apartments to the east of me.	I've never seen something that I couldn't explain like this before and thought I should describe it.  My girlfriend also witnessed this UFO and agrees that it could not have been any aircraft the two of us are familiar with.  I couldn't really see a craft shape very well, but she feels that when it went from the white light, which was VERY bright like search lights, back to red and then blue, it kind of seemed like the object was rotating.  We opened our back door I couldn't hear any damn thing, but my girlfriend thinks she heard it whining, again unlike any aircraft we understand.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110661.html](http://www.nuforc.org/webreports/reports/110/S110661.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/164/S164111.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163839.html)
-- [315](http://www.nuforc.org/webreports/reports/163/S163841.html)
-- [314](http://www.nuforc.org/webreports/reports/163/S163861.html)
-- [313](http://www.nuforc.org/webreports/reports/163/S163833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
