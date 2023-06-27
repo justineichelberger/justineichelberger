@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:27 on 27 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:36 on 27 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Allison Park (PA) reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I saw circular disk with bright lights , speaker malfunction, strange noises.I was driving home from airlift one day,  I had my head out of the window because I was sweating and I turned to look up at the stars and I see this circular thing hovering with multiple different colored lights covering it.  I stared at it fir a good 3 seconds then turned to my friend who was sitting in the backseat next to me and told him to look at it, seconds after he had seen it, it was gone.  We looked at each other after and we so freaked out ..  Then we turned down this road and I had my speaker playing before, but I turned it off, I turned the speaker back on and it said something in a whinny woman’s voice then it just shut off.  i asked if anyone else in the car had heard it, my friend beside me had and so did his mother they both claimed it was a woman’s voice before I said anything to them about what I heard.When I arrived back at my house no one was home my sister at a friend's house and my mom at work, so I was a bit scared.  I called my friend to talk to her about it (different friend from before) and she had said that she had been hearing noises almost like a plane flying close to the ground, right above her house it just kept on going.  Then she heard a Big Bang pretty close to her house and saw a flag of light which I saw with her over FaceTime but when she looked out the window nothing was there, and that’s when the noises stopped.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147819.html](http://www.nuforc.org/webreports/reports/147/S147819.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Three stationary lights in a triangular pattern on the eastern horizon.  The lights then disappeared one at a time at approximately one minute intervals.  Observed from 11th Uinta.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141965.html](http://www.nuforc.org/webreports/reports/141/S141965.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/163/S163826.html)
-- [319](http://www.nuforc.org/webreports/reports/163/S163831.html)
-- [318](http://www.nuforc.org/webreports/reports/163/S163867.html)
-- [317](http://www.nuforc.org/webreports/reports/163/S163830.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163835.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
