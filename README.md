@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:29 on 27 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:29 on 27 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Overland Park (KS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>My brother and I saw a circle that moved, made a trail, and disappeared in a minute.My dad was driving my brother and me home.  I was looking out the window at the planet Venus, when a yellow glow caught my attention.  I watched it for sometime.  Then it sped diagonally down.  Suddenly the radio became extremely fuzzy and switched off for a moment, then switch back on.  I kept watching it intensly while asking myself what it could be.  I decided to get help in identifying it, so I beckoned my younger brother to see it.  At first he didn't know what I was talking about, then he asked me if I was talking about the "line" that he saw.  I turned around, confused, and saw that the circle had created a tail behind it that had started to fade away.  After the tail diminished, the circle dissapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26840.html](http://www.nuforc.org/webreports/reports/026/S26840.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>SightingI was driving and I caught a glimpse of light out of the corner of my eye and I pulled my car over to the side of the road and it all happened so quickly and only in a matter of seconds but there was a bright green light in the sky I can't describe the shape the lights were in but it was just high up on the sky and in the middle of the sky and when I blinked the lights were completely gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134802.html](http://www.nuforc.org/webreports/reports/134/S134802.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/163/S163826.html)
-- [319](http://www.nuforc.org/webreports/reports/163/S163831.html)
-- [318](http://www.nuforc.org/webreports/reports/163/S163867.html)
-- [317](http://www.nuforc.org/webreports/reports/163/S163830.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163835.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
