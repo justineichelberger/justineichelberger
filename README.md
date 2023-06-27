@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:29 on 27 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:31 on 27 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>SightingI was driving and I caught a glimpse of light out of the corner of my eye and I pulled my car over to the side of the road and it all happened so quickly and only in a matter of seconds but there was a bright green light in the sky I can't describe the shape the lights were in but it was just high up on the sky and in the middle of the sky and when I blinked the lights were completely gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134802.html](http://www.nuforc.org/webreports/reports/134/S134802.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Pasadena (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>HIGH FLYING CYLINDER  EXPOSED BY  BRIGHT SUN.WHILE EAST BOUND ON THE 210 FREEWAY IN THE TOWN OF LA CANADA-FLINTRIDGE ON 26 JUNE 2001,AT APPROX 15:20 HRS.I OBSERVED A SHINEY CYCLINDER TYPE OBECT AT ABOUT 40000+FT MAKE A SHARP TIGHT ANGLE PULL UP THAT FOR APPOX 6 SECONDS EXPOSED IT TO THE SUN AS IT TOOK A HEADING TOWARDS THE SOUTH-WESTHIGH FLYING</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18243.html](http://www.nuforc.org/webreports/reports/018/S18243.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/163/S163826.html)
-- [319](http://www.nuforc.org/webreports/reports/163/S163831.html)
-- [318](http://www.nuforc.org/webreports/reports/163/S163867.html)
-- [317](http://www.nuforc.org/webreports/reports/163/S163830.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163835.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
