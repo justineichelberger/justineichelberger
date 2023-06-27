@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:23 on 27 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:23 on 27 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Georgetown (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Black triangles, rushing air sound and high rate of speed in area north of Austin on 06/27/04At approximately 19:08, I had just walked onto the back patio and sat down. Then a few minutes later I hear what sounds to be like rushing air and the 5 to 10 seconds later I see around nine objects appear from above my patio cover heading south to southwest at a high rate of speed and low altitude. The objects were black in color, appeared to be triangular in shape and from the few seconds I was able to see them in the sky between the patio cover and the tree line, they appeared to fly almost in a formation with two offset from the formation on the right side.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37836.html](http://www.nuforc.org/webreports/reports/037/S37836.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Endicott (NY) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Man, driving down long driveway, sees bright light directed at his house.  Witnesses bright light in sky.  Obj. streaks off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00589.html](http://www.nuforc.org/webreports/reports/000/S00589.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/163/S163826.html)
-- [319](http://www.nuforc.org/webreports/reports/163/S163831.html)
-- [318](http://www.nuforc.org/webreports/reports/163/S163867.html)
-- [317](http://www.nuforc.org/webreports/reports/163/S163830.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163835.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
