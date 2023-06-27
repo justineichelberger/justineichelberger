@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:25 on 27 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:51 on 27 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Holden Beach (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>We were setting on the back deck of the beach house looking at the ocean, when we saw 3 separate orange lights appear one at a time just above the horizon.  It lasted about 10 seconds then they all went out at the same time.  We all we like WTF was that. Then it happened again 5 mins later but further down the beach. THIS IS NOT THE FIRST TIME WE HAVE SEEN THIS.  We saw the same thing 4 years ago.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81954.html](http://www.nuforc.org/webreports/reports/081/S81954.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>brght blue flashing discI work for the railroad and was riding a railcar into a clear track when i noticed a blue light out of the corner of my eye. The object I saw was a bright blue disc traveling from north to south at a low rate of speed.I immediatley stopped the movement of my train.The object then became a brighter shade of blue and began accelarating leaving a short white trail it then flashed brilliantly and seemed to flash out of existence.I know from a lifetime of working nights that I did not see a meteorite it was clearly a blue disc flying on a crystal clear night.The whole experience lasted 4 to 5 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51189.html](http://www.nuforc.org/webreports/reports/051/S51189.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/163/S163826.html)
-- [319](http://www.nuforc.org/webreports/reports/163/S163831.html)
-- [318](http://www.nuforc.org/webreports/reports/163/S163867.html)
-- [317](http://www.nuforc.org/webreports/reports/163/S163830.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163835.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
