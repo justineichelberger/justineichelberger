@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:31 on 27 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:43 on 27 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Tempe (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 75.0 - 75.0 minutes.</sub><blockquote><sub>5 lights in a saucer shape hovering and disappearing over phoenix metro areaSlightly earlier in the evening, myself and at least five others were observing a row of five white lights due north of our position at rocking rodeo at Priest and Elliot rd in Tempe, AZ. It appeared to be very large and many miles north of us, about 10-15 degrees above the horizon.. the lights did not appear to be moving at all, and overall had a slightly saucer shaped silhouette. After viewing for about 15 minutes, object dissappeared instantly, only to appear 45 minutes later in the same position but not as bright, as only a saucer shaped white light.(The individual lights were not distinguishable.) Again, after a few minutes of viewing, the object instantly disappeared again. No "twinkling" as most aircraft lights appear through the valley smog, and it appeared and reappeared in the same position over too long a span of time to be commercial aircraft on approach to Sky Harbour airport. If it was a jet, it must have been enormous, and I can't explain its spontaneous disappearance and reappearance ... Commercial traffic to sky harbor usually clearly changes course and the lights of normal craft get dimmer but are still visible as the planes course turns away from an observer....not just disappearing. This anomaly was quite bright and visible for quite some time, 5-10 people at rocking rodeo(graham central station) viewed this.. I would have to assume elsewhere in the Phoenix metro area others witnessed it as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37815.html](http://www.nuforc.org/webreports/reports/037/S37815.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mishawaka (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Three reddish orange light moving across the sky.We saw three orange/red moving lights in a line formation go across the night sky coming from the south and heading towards the north west.  Have never seen anything lime this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110715.html](http://www.nuforc.org/webreports/reports/110/S110715.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/163/S163826.html)
-- [319](http://www.nuforc.org/webreports/reports/163/S163831.html)
-- [318](http://www.nuforc.org/webreports/reports/163/S163867.html)
-- [317](http://www.nuforc.org/webreports/reports/163/S163830.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163835.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
