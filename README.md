@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:36 on 27 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:29 on 27 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Three stationary lights in a triangular pattern on the eastern horizon.  The lights then disappeared one at a time at approximately one minute intervals.  Observed from 11th Uinta.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141965.html](http://www.nuforc.org/webreports/reports/141/S141965.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Overland Park (KS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>My brother and I saw a circle that moved, made a trail, and disappeared in a minute.My dad was driving my brother and me home.  I was looking out the window at the planet Venus, when a yellow glow caught my attention.  I watched it for sometime.  Then it sped diagonally down.  Suddenly the radio became extremely fuzzy and switched off for a moment, then switch back on.  I kept watching it intensly while asking myself what it could be.  I decided to get help in identifying it, so I beckoned my younger brother to see it.  At first he didn't know what I was talking about, then he asked me if I was talking about the "line" that he saw.  I turned around, confused, and saw that the circle had created a tail behind it that had started to fade away.  After the tail diminished, the circle dissapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26840.html](http://www.nuforc.org/webreports/reports/026/S26840.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/163/S163826.html)
-- [319](http://www.nuforc.org/webreports/reports/163/S163831.html)
-- [318](http://www.nuforc.org/webreports/reports/163/S163867.html)
-- [317](http://www.nuforc.org/webreports/reports/163/S163830.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163835.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
