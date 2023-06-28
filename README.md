@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:04 on 28 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:27:49 on 28 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>4 objects in flight, sometimes formation, following a path over SE Reno, towards CA/NV state line, moving in all directions over time, pulling tight turns and moving very quickly in uniform movements turning and spinning heading over time northwards.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157186.html](http://www.nuforc.org/webreports/reports/157/S157186.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Brookings (OR) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A very bright, white-blue diamond shaped object crossed the sky from west to east,...My wife and I both watched a very bright, white-blue diamond shaped object cross the sky from west to east, it stayed at the same speed and brightness the whole time. I looked at it through binoculars and could see that both front and back ends were  pointed, though the front end was not as sharply angled. The light seemed to come from inside the object, it made no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44821.html](http://www.nuforc.org/webreports/reports/044/S44821.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
