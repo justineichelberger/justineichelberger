@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:22 on 28 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:25 on 28 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Madison (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>While fishing on a breakwater pier on lake monona i observed five round silver objects high in the sky.three were staitonary and in a triangular formation ,the other two were moving around above them. I asked another fisherman if he could see them he said no ,but another fisherman said that he could see them .I noticed he was wearing polarized fishing glasses like me.So i took my glasses off and i could not see them ,I said something to the other fisherman,when i looked back they were gone i searched the sky and found them in the western sky ,they were in the same formatiom but soon disapeared one by one.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158390.html](http://www.nuforc.org/webreports/reports/158/S158390.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in York (NE) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large round red silent lightOn June 28th app: 10:15  P.M. as I was sitting on my deck watching the fireflies I saw a hug red object come floating over, it appeared to be floating and I expected it to start dropping, but it just kept moving to the SW It was almost as big as the moon which was off to the south of it, I heard no noise, there were no flashing lights as a plane would have, just the steady red.  I thought maybe a plane on fire but no flames  just red ball I thought maybe something falling like a meteor etc  but it just kept moving a nice steady speed and no fire trail etc.As it went behind some trees I walked to the road  and got a clear view and watched it until it disappeared into the horizon, this all took app: 60 sec  from the top of my house until it disappeared, this took place over a rural setting</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90217.html](http://www.nuforc.org/webreports/reports/090/S90217.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
