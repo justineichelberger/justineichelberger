@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:29 on 28 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:38 on 28 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Woodbridge (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Small Triangle Shaped craft with Blinking Fuzzy balls performs corkscrew.Quick  sighting here from NJ,  a few mins after 9 pm on June 28th, there were strong thunderstorms to our north so I was observing them,  in a brief interval, three fuzzy balls of light that were aligned in triangular formation appeared to the north-west about 1/4 mile from my position over a family restaurant ,  it  appear controlled and when the lightning flashed  it was backlit  and appeared as a triangle form..  with these fuzzy balls on each corner … About the size of a VW BEETLE...... This object then did a  quick forward cork-screw maneuver  and continued forward to the south west, changing color from green to red with the forward light having a small comma streak  trailing from it and gaining altitude fast into the clouds disappearing from my view   .. Object speed must have been about 40mph , about 300 ft in height …....   Never saw anything like this, have seen ball lightning  but this was moving as one object  and that corkscrew  it did   was rea! lly COOL LOOKING ! Thanks..........</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128128.html](http://www.nuforc.org/webreports/reports/128/S128128.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in China Spring (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 LIGHTS SEEN IN NIGHT SKYSAW A TRIANGULAR SHAPED CRAFT, 3 OBJECTS AND WAS MOVING ABOUT 10-15 MPH (FROM WHERE I WAS STANDING), HEARD A NOISE BUT NOT LIKE NORMAL AIR-CRAFT. NO FLASHING LIGHT (LIKE FAA REGULATES)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51156.html](http://www.nuforc.org/webreports/reports/051/S51156.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
