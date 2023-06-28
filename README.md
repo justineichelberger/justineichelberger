@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:27 on 28 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:23 on 28 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in New York City (Staten Island) (NY) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Silver egg shaped UFO low flying in New YorkSilver egg shaped object with flattish bottom surface slowly and quietly flying towards New Jersey. It was twice the height of my four story building. Pretty low and something I have never seen before. i am a sceptic but, wow. Whatever it was, it spooked me and the two people waiting for the bus.((NUFORC Note:  We believe that the first possibility we would address would be some kind of blimp.  However, please see report for this date from the Philippines.   PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23667.html](http://www.nuforc.org/webreports/reports/023/S23667.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Fitchburg (MA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>There was an extremely bright white light - in a very cloudy sky. It was skipping about in the sky very fast, couldn't keep track of it. It had a quick pulsating action. When it reappeared in a different spot the second time, it flew behind a mass of trees.There was an extremely bright white light - in a very cloudy sky. It was skipping about in the sky very fast, couldn't keep track of it. It had a quick pulsating action. When it reappeared in a different spot the second time, it flew behind a mass of trees. I never saw anything like it... There is also a very strange occurrence in Lunenburg, the next town over. Over Lake Whalom, every evening.,there is a huge bright white light that hovers in the same position of the sky evening. It pulses very, very brightly. After about 5 minutes it slowly moves to the left and it abruptly disappears. It will reappear shortly after and do it again - all night long. The locals have been seeing this for years, and it very dependable. It is not a plane, for it is there every evening. It stays in the same place until it shifts to the left and disappears. It is not a planet - for it is there yearround and it moves. I guess you just have to see it. I am a webmaster in West Boylston, MA. I am a 23 year old female with a Bachelor's of Science in Graphic Design, no history of mental illness!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04248.html](http://www.nuforc.org/webreports/reports/004/S04248.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
