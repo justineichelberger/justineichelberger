@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:51 on 28 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:28 on 28 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Simi Valley (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>((NUFORC Note:  Witness reports observing a "circle."  We post this report because of a similar report from Mission Viejo, CA, for the same time period.  Reports may be from the same parties, or may be related in some manner.  We will try to resolve this question.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18247.html](http://www.nuforc.org/webreports/reports/018/S18247.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>The object appeared to be gliding at a steady speed but fast.  It was dark brown and lifeless, only to be seen by the reflection of the city lights.  It made made no sounds, nor did it have any signs of fuel burning from an exhaust...  According to my iPhone compass app. the object appeared to be at 45* degree angle approx. 4 to 5 thousand feet above.  The app. further recorded the following: 263* W ^+6 @ 4693 from the location we were @ 25*42'55"N-80*27'02"W.When we called for everyone else outside, it faded away steadily from our horizon towards the dark sky, until it blended into the nightfall as a dimming star, until we were no longer able to see it.Should you require a pic of the compass app we captured, it's available.  Moreover, we each decided to draw a pic of what we saw without showing it to each other until drawn, the two drawings were very similar.To whom it may concern, this incident was very real & somewhat disturbing...  Hopefully it WON'T be taken as a prank.  Respectfully, two baffled individuals!((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110832.html](http://www.nuforc.org/webreports/reports/110/S110832.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
