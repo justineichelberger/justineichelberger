@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:29 on 28 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:29 on 28 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Dolores (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright yellowish orange object moving south to east.On 06-28-2014 at approximately 2227 hours, I observed a bright yellowish to orange light moving from the south next to the constellation Scorpio.  I noticed the object moved from the south, and then slowly curve to the northeast.  The objects motion was not a consistent smooth motion, it appeared to hesitate at times giving it a slight jerky motion.  Once the object neared the east, the color became a deeper orange.  I observed the object for about two to three minutes until I could no longer observe it.  The brightness of the object was twice the brightness of a commercial airliner.  Due to the brightness of the object, I wondered if it was the International Space Station.  I did look at isstracker.com and saw that at 2227 hours the Station would have been over the southern tip of South America.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110824.html](http://www.nuforc.org/webreports/reports/110/S110824.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Woodbridge (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Small Triangle Shaped craft with Blinking Fuzzy balls performs corkscrew.Quick  sighting here from NJ,  a few mins after 9 pm on June 28th, there were strong thunderstorms to our north so I was observing them,  in a brief interval, three fuzzy balls of light that were aligned in triangular formation appeared to the north-west about 1/4 mile from my position over a family restaurant ,  it  appear controlled and when the lightning flashed  it was backlit  and appeared as a triangle form..  with these fuzzy balls on each corner … About the size of a VW BEETLE...... This object then did a  quick forward cork-screw maneuver  and continued forward to the south west, changing color from green to red with the forward light having a small comma streak  trailing from it and gaining altitude fast into the clouds disappearing from my view   .. Object speed must have been about 40mph , about 300 ft in height …....   Never saw anything like this, have seen ball lightning  but this was moving as one object  and that corkscrew  it did   was rea! lly COOL LOOKING ! Thanks..........</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128128.html](http://www.nuforc.org/webreports/reports/128/S128128.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
