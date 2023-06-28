@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:23 on 27 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:31 on 28 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Endicott (NY) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Man, driving down long driveway, sees bright light directed at his house.  Witnesses bright light in sky.  Obj. streaks off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00589.html](http://www.nuforc.org/webreports/reports/000/S00589.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Scotia (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Bright orb in sky, moving steadily, no trail, no streaks. Suddenly vanishedClear sky with moon out.  While walking due NE, I saw an object about the size and brightness of Venus, traveling NE in a straight line.  It was moving much slower than a meteor, but faster than a plane.  It was a steady, bright white light; it left no trail or streak.  It moved at a steady pace high above the horizon, moving away from me,  and suddenly disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141974.html](http://www.nuforc.org/webreports/reports/141/S141974.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/163/S163826.html)
-- [319](http://www.nuforc.org/webreports/reports/163/S163831.html)
-- [318](http://www.nuforc.org/webreports/reports/163/S163867.html)
-- [317](http://www.nuforc.org/webreports/reports/163/S163830.html)
-- [316](http://www.nuforc.org/webreports/reports/163/S163835.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
