@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:31 on 28 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:04 on 28 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Scotia (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Bright orb in sky, moving steadily, no trail, no streaks. Suddenly vanishedClear sky with moon out.  While walking due NE, I saw an object about the size and brightness of Venus, traveling NE in a straight line.  It was moving much slower than a meteor, but faster than a plane.  It was a steady, bright white light; it left no trail or streak.  It moved at a steady pace high above the horizon, moving away from me,  and suddenly disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141974.html](http://www.nuforc.org/webreports/reports/141/S141974.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>4 objects in flight, sometimes formation, following a path over SE Reno, towards CA/NV state line, moving in all directions over time, pulling tight turns and moving very quickly in uniform movements turning and spinning heading over time northwards.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157186.html](http://www.nuforc.org/webreports/reports/157/S157186.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
