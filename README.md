@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:06:09 on 28 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:26 on 28 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Alloa (UK/Scotland) () reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Huge shiny rectangle flying over Scotland about the size of a footy pitch.It is a beautiful clear sky day.  We were driving from Alloa towards Alva when something high up flashed in the sun and caught my eye as well as one of my passengers.  Then the 2nd passenger saw it.  It was very large, rectangular and appeared to light up around the edges although that could have been from the sun.  It was almost blurred around the object making me think it almost had an aura.  It moved very very fast and travelled end over end.  I would estimate the height to be between 30k and 40k feet which would have made the craft around the size of a football pitch.  You could hear no noise whatsoever.  I am an aviation reporter and enthusiast and I have seen just about every vehicle that flies.  This thing was huge and unlike anything encountered before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147135.html](http://www.nuforc.org/webreports/reports/147/S147135.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Litchfield Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 29.0 - 29.0 minutes.</sub><blockquote><sub>Quick, flashing lights over Litchfield Beach, SCMy husband I saw two very distinct white lights appear and then disappear over the ocean directly out from Litchfield Beach, SC, at approximately 9:30 p.m., June 28, 2011.  We saw them four or five more times around 5 -10 minutes apart.  They would flash and then disappear.  There were three lights at one time.  Some had an orange glow that got intense and then disappeared.  There were no trails of light or sounds.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81970.html](http://www.nuforc.org/webreports/reports/081/S81970.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
