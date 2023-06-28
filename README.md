@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:27 on 28 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:24 on 28 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Rainelle (WV) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Saw 2 large yellow lights, with red light strip on bottom, traveling NE, stopping, hovering, separating and then suddenly disappearing.I walked outside onto our deck and saw 2 large yellow lights traveling in a Northwest direction in the sky.  Each of them had a red strip of light on the undersides.Both lights came from the Southeast and traveled at a speed and distance equidistant from each other.  They both suddenly stopped, hovered briefly, and then traveled in a Northern direction for a short distance, keeping the same separation distance as when I first saw them.They suddenly stopped again, hovered briefly, and then one traveled in an Eastward direction,  away from the other, toward the town of Lewisburg, for a large distance and then fizzled out disappeared.The second one remained hovering for a short period of time and then elevated upward and fizzled out and disappeared like the first one.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110826.html](http://www.nuforc.org/webreports/reports/110/S110826.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fort Wayne (IN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two orange spheres seen.  The first one traveling south to north and disappeared into a low level cloud.  The second one came from the south but took a sharp turn to the west and disappeared from sight within a few seconds.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110833.html](http://www.nuforc.org/webreports/reports/110/S110833.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
