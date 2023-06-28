@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:25 on 28 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:27 on 28 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in York (NE) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large round red silent lightOn June 28th app: 10:15  P.M. as I was sitting on my deck watching the fireflies I saw a hug red object come floating over, it appeared to be floating and I expected it to start dropping, but it just kept moving to the SW It was almost as big as the moon which was off to the south of it, I heard no noise, there were no flashing lights as a plane would have, just the steady red.  I thought maybe a plane on fire but no flames  just red ball I thought maybe something falling like a meteor etc  but it just kept moving a nice steady speed and no fire trail etc.As it went behind some trees I walked to the road  and got a clear view and watched it until it disappeared into the horizon, this all took app: 60 sec  from the top of my house until it disappeared, this took place over a rural setting</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90217.html](http://www.nuforc.org/webreports/reports/090/S90217.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Australia () reported seeing craft that fit the description of some 'Cone' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>dark, egg shaped, rocket boosters no windowsThere was no lights on in the streets and I was out taking a smoke when all of a sudden loud noise and i looked to the sky. Then I saw a dark craft travelling through the sky. The thing that made me think that it was odd was that the craft had no lights on and was flying very low to the ground.  Also it was rather egg shaped with no wings, and a rocket like booster on the bottom of it.  I walked slowly to the house and told my wife of these happens, but by the time that i returned to the garden there was nothing left in the sky.((NUFORC Note:  Witness elects to remain totally anonymous, and provides no contact information; indicates that the date of the alleged incident is approximate.  Does not indicate location in Australia.  May not be a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45950.html](http://www.nuforc.org/webreports/reports/045/S45950.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
