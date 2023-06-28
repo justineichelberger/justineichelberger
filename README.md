@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:31 on 28 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:27 on 28 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Australia () reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>unusual lights above air port and cityWhilst driving south past airport approx 10 km north of Mount Gambier, South Australia I saw three white lights elevation approx 30 degrees on west side of air strip and thinking it was a plane about to land watched out of interest however whilst it was lined up on an approach past it had three white lights in a line but no nagigation lights. The airport landing lights were off when they should be switched on by the pilot when landing. There was no noise and after a few seconds i realised after alighting from my car that the lights were stationary in the sky. I could not see any shape at all. I continued on after about a minute and while entereing the city saw an orange glow at about 45 degrees elevation traverse from s/w to n.e towards the airport about 10 km away. it moved quite slowly but in a straight line not deviating and had no navigation lights or sound at all. It had a haze around it however and was not man made.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44842.html](http://www.nuforc.org/webreports/reports/044/S44842.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in New York City (Staten Island) (NY) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Silver egg shaped UFO low flying in New YorkSilver egg shaped object with flattish bottom surface slowly and quietly flying towards New Jersey. It was twice the height of my four story building. Pretty low and something I have never seen before. i am a sceptic but, wow. Whatever it was, it spooked me and the two people waiting for the bus.((NUFORC Note:  We believe that the first possibility we would address would be some kind of blimp.  However, please see report for this date from the Philippines.   PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23667.html](http://www.nuforc.org/webreports/reports/023/S23667.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
