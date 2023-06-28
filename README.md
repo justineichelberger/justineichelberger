@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:29 on 28 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:31 on 28 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in New York City (Manhattan) (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Light blue diskshape with a blinking red light on bottom above east river.My dad was on the roof of our building and he saw a weird object flying on the sky, he used his cell to call me and told me to go up to the roof. Our building is located at midtown manhattan and when i went up we saw a light blue disk with a dome. it was somewhat tilted about 30 degrees and there was a small blinking red light on the bottom. it moved steadily and slowly from left to right above the river and then it went behind the building so we lost sight of it. my dad saw it first so i am not sure how long it stayed on air but i probably spent 4 min looking at it. it could very well be a blimp because it was pretty big but i have doubts because it didnt have any writings on it, it had a disk shape, it was tilted, and it was lit up in a weird way--glowing in blue. if it was lit up like that its hard to believe why they dont put advertizing on it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29783.html](http://www.nuforc.org/webreports/reports/029/S29783.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Australia () reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>unusual lights above air port and cityWhilst driving south past airport approx 10 km north of Mount Gambier, South Australia I saw three white lights elevation approx 30 degrees on west side of air strip and thinking it was a plane about to land watched out of interest however whilst it was lined up on an approach past it had three white lights in a line but no nagigation lights. The airport landing lights were off when they should be switched on by the pilot when landing. There was no noise and after a few seconds i realised after alighting from my car that the lights were stationary in the sky. I could not see any shape at all. I continued on after about a minute and while entereing the city saw an orange glow at about 45 degrees elevation traverse from s/w to n.e towards the airport about 10 km away. it moved quite slowly but in a straight line not deviating and had no navigation lights or sound at all. It had a haze around it however and was not man made.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44842.html](http://www.nuforc.org/webreports/reports/044/S44842.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
