@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:27 on 28 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:27 on 28 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Jacksonville (IL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Oval white light with no navigational lights travelling to the northeast.While working outside, I looked up at the stars to the southwest and noticed an oval white light that I thought to be a landing light of an aircraft coming towards me.  The light was moving faster than what I thought it should be and also observed that there were no navigational lights that an aircraft would be flashing (green for right and red for left). The light continued to the northeast with no sound until I saw an obvious aircraft with navigational lights travelling to the northwest.he light stopped as if it was at a traffic light and as soon as the obvious aircraft passed, the light continued on it's northeastern path.I thought that was pretty strange and approx. a half hour or 45 minutes later while walking back to the office, something was biting the left side of my neck. Thinking it was a bug of sometype, I tried squishing it on my neck but the intense biting sensation continued.  Thinking it was a bug bite of sometype, I ignored the painful bite for a couple of days until I saw a nurse who worked at the same place I do.  I asked her to look at this painful bug bite for me on my neck and upon looking at it, she informed me that it was a burn and not a bite.  She said the burn was a triangular shape.A day or two later, I had my son take a picture of the triangular burn and upon relating what happened and expecting him to laugh at me, he immediately went to the computer and pulled up a very similar triangular mark on a male allegedly made by aliens when he was abducted. While I wasn't abducted, the uncanny similiarity of the two triangular marks, both appearing like arrowheads, leads me to be suspicious of what I really saw that night.It was a clear night, no clouds, stars could easily be seen, and there were no fires or any other instruments/equipment near me that could have burned me in such a manner.  I still have the scar on my neck as well as the pictures of the burn.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78143.html](http://www.nuforc.org/webreports/reports/078/S78143.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Rainelle (WV) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Saw 2 large yellow lights, with red light strip on bottom, traveling NE, stopping, hovering, separating and then suddenly disappearing.I walked outside onto our deck and saw 2 large yellow lights traveling in a Northwest direction in the sky.  Each of them had a red strip of light on the undersides.Both lights came from the Southeast and traveled at a speed and distance equidistant from each other.  They both suddenly stopped, hovered briefly, and then traveled in a Northern direction for a short distance, keeping the same separation distance as when I first saw them.They suddenly stopped again, hovered briefly, and then one traveled in an Eastward direction,  away from the other, toward the town of Lewisburg, for a large distance and then fizzled out disappeared.The second one remained hovering for a short period of time and then elevated upward and fizzled out and disappeared like the first one.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110826.html](http://www.nuforc.org/webreports/reports/110/S110826.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
