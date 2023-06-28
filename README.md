@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:10:12 on 28 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:29 on 28 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Broadhead (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0:45 - 0:45 minutes.</sub><blockquote><sub>I was in a field having a bonfire.  I looked through the fire and thought I was looking at 2 bright embers.  I stepped aside so the fire was not in my direct line of site.  I witness two bright lights roughly 1 foot apart in the night sky if you were to hold up a ruler.  They were traveling towards each other at a very fast rate.  They passed within an in of each other (again using the concept of holding a ruler to the night sky) this fact convinced me that they were no terrestrial aircraft because of the proximity they were to each other in passing.   After they passed each other the lights vanished entirely after about 2-5 seconds.  This happened between Saturn and Jupiter in the night sky on a summer evening.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147146.html](http://www.nuforc.org/webreports/reports/147/S147146.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Dolores (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright yellowish orange object moving south to east.On 06-28-2014 at approximately 2227 hours, I observed a bright yellowish to orange light moving from the south next to the constellation Scorpio.  I noticed the object moved from the south, and then slowly curve to the northeast.  The objects motion was not a consistent smooth motion, it appeared to hesitate at times giving it a slight jerky motion.  Once the object neared the east, the color became a deeper orange.  I observed the object for about two to three minutes until I could no longer observe it.  The brightness of the object was twice the brightness of a commercial airliner.  Due to the brightness of the object, I wondered if it was the International Space Station.  I did look at isstracker.com and saw that at 2227 hours the Station would have been over the southern tip of South America.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110824.html](http://www.nuforc.org/webreports/reports/110/S110824.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
