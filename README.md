@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:27 on 29 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:22 on 29 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Edmond (OK) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Spherical gray or black object with rotating ring of lights making humming noise.My 6 year daughter was out in the driveway last night playing with a turtle we had found in the yard.  When I went outside, she told me she had seen a space ship.  Asked to describe it she said it was shaped like the "planet with the rings".  She described the circular part as gray or black in color, but she wasn't sure because of the white light "spinning" around it (in the ring).  She described the object as large and slow moving.  She says it made a humming noise.  When I asked her if it was close or far away like an airplane, she said it was close and about the size of our living room ceiling.  When I asked her why she didn't run in and tell us, she said she was just staring at it and watched it until it left.She has never made up any outlandish stories before, so I felt like I needed to write down the details and found this website when searching Google.  I was trying to find out if anyone else reported any other strange sightings last night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44663.html](http://www.nuforc.org/webreports/reports/044/S44663.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Gainesville (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Started as a shooting star.  Coming downward until it turned to a teardrop with a fire tail.  Then it stopped and started to pulsate a very bright light.  After it dropped for a second it then hovered.  After 10 to 15 pulsates it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157204.html](http://www.nuforc.org/webreports/reports/157/S157204.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
