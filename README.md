@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:53 on 29 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:26:40 on 29 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in West Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>stingray shaped sphereglided in from the north east... we thought it was a piece of plastic (approx 4 ft square)...no wind at the time....shape of a sting ray fish... white in colour...it passed in front of us in our apartment went down to the water and swooped down over the water for approx 100 feet about 10 seconds then went up towards the northwest and dissapeared into the clouds about 2/3 miles away....my camera batteries were dead??....we both saw it myself naked eye and my girlfriend through the binoculars.....called the west vancouver police....thats it ... first time we have seen anything like it ... my girlfriend said as it turned upward it was grey/black on one side ...again the wind was zero......???...best contact is  ((e-address deleted))...this email does not allways work…</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23517.html](http://www.nuforc.org/webreports/reports/023/S23517.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in South Ogden (UT) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large v shaped craft  offset connected to two spheresIt was 7:45 am june 29th 2012. I noticed a craft moving from south to north. I live in in area where there are several airports. Hill Afb, Ogden Hicnkley airport and SLC International airport so the air traffic is heavy. Im familiar with many different aircraft . Not this one. It was a  V shape in the front  but offset connected to two large white spheres. It seemed to be at a very high altitude and very large. I drew a photo to the best of my ability and took a picture that I will email thx Bob.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90218.html](http://www.nuforc.org/webreports/reports/090/S90218.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
