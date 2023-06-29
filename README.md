@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:32 on 29 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:48 on 29 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in PIco Rivera (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Yellow orange fireball traveling southeast seen by one witness in Los Angeles area.At approximately 8:42pm on June 29, 2012, I observed a fireball shape which had the appearance of bright orange and yellow outside my front living room window about 1-2 miles away.  It appeared to be above the tree line and move slowly in an eastern direction.  The city where I live is located in the urban Los Angeles area.  The "fireball" moved slowly and at that time I went outside to get a better view.   As I did, I noticed the fireball started to diminish in size although it was still moving slowly and heading in a southeast direction towards the mountains.  It gradually got smaller until it appeared to be the size of a dot and then totally "go out" however, I could still detect some sort of craft traveling in a southeast direction.  At no time did I detect any sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92251.html](http://www.nuforc.org/webreports/reports/092/S92251.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Haifa (Israel) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>diagonal formation of 3 objects, round shaped, flickering lightsThere were 3 objects, round shaped, flickering light.  Looked like stars in the sky, only they were aligned in a diagonal line, and soon as they appeared they were gone, like they faded into the background.  There was still light and sky were bright, it couldn't have been a cloud covering them.  Near the diagonal light there were more objects, looked the same but they were bright with different colors, like red, blue, white light.((NUFORC Note:  Date appears to be flawed.  We have amended it, to reflect a sighting on June 29th.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119892.html](http://www.nuforc.org/webreports/reports/119/S119892.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
