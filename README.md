@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:40 on 29 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:24 on 29 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Medford (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Several "noiseless," pale orange, non-blinking spheres, floating from south to north in Medford, LI, NYSeveral brightly lit pale orange sphere objects (totally noiseless),steadily lit (no blinking or additional lights), appearing to "float" across the sky at small airplane speed from the south to a northerly direction at approximately 9:40pm-9:45pm on 6/29/2014.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110801.html](http://www.nuforc.org/webreports/reports/110/S110801.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Edmonds (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Approximately 24 Orange Lights Over Puget Sound06/29/2013  Approximately 10:10pm to 10:20pm Edmonds, WA, looking West over Puget Sound   While walking our dog, my wife noticed some strange orange lights over Puget Sound.  At first glance I thought they were helicopters, but they didn’t look quite right and there were a lot of them, but not flying in any true formation.  She mentioned they looked like a murder of crows going to roost.  As we watch them move from the North to South, they started to disappear.  The night was clear and we could see some early stars where they were disappearing.  They just kept coming on a relative same direction, but other than that they didn’t appear to be following any type of formation.  Some seemed to be coming more in an South East direction toward us, then would fade away.  There were at least a couple dozen of them.  They would seem to end, and then a few more would come from the same general direction.  All heading in a Southern direction.  Toward the end, one looked like it was almost coming toward us more than the others.  When I thought that I should surely hear some sound from it by now, it just faded away.  I have a video form my cell phone, but I’m not sure how it turned out.  I haven’t look at it yet. We continued to walk out dog (who also seemed a little nervous, I’m not sure if she picked up my wife’s attitude about the lights or if she sensed something, but she wanted us to pick her up).  We kept looking back to the West and kept seeing a few more.  The last one faded out somewhat earlier than the others, but none of them did at the same area, but most did later in their journey.We finally got home, and almost exactly an hour later (11:10pm) we saw one more while we were in the house.  We couldn’t help but keep looking.If you have any other reports I would love to know.  If someone knows what it is, I’d like to know that as well.  I’ve live here my whole life, and I’ve never seen anything like this. Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99034.html](http://www.nuforc.org/webreports/reports/099/S99034.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
