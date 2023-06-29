@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:27 on 29 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:34 on 29 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sugar Loaf (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 triangular shaped or triangular lit objects moving then hovering very high in the night skyThere were three crafts, moving at a speed faster than an airplane.  They stopped and hovered very high.  They appeared to be triangular, or at least the lights were triangular.  One moved at a very slow pace and stopped again. I went inside after about 10 minutes, and they remained barely moving.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119932.html](http://www.nuforc.org/webreports/reports/119/S119932.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Paw Paw (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two Brite red lights.I seen two bright red lights in the sky in waverly township.  They stayed red for at least three minutes then disappeared only to do the same about three to four times before finally disappearing.  The duration was about 10-15 minutes long.  I could tell the we're fairly close maybe about a couple feilds away from my home.  Just before disappearing it seamed the last time they blinked on they were a little more west than before.  I first noticed them out my back window then my son and I went outside and stood on the table to see them.  They were too low to the ground to be a plane that's for sure.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119806.html](http://www.nuforc.org/webreports/reports/119/S119806.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
