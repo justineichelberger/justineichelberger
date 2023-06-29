@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:26:40 on 29 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:07:47 on 29 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in South Ogden (UT) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large v shaped craft  offset connected to two spheresIt was 7:45 am june 29th 2012. I noticed a craft moving from south to north. I live in in area where there are several airports. Hill Afb, Ogden Hicnkley airport and SLC International airport so the air traffic is heavy. Im familiar with many different aircraft . Not this one. It was a  V shape in the front  but offset connected to two large white spheres. It seemed to be at a very high altitude and very large. I drew a photo to the best of my ability and took a picture that I will email thx Bob.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90218.html](http://www.nuforc.org/webreports/reports/090/S90218.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Pompton Lakes (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Two circular lights over the western sky in the direction of the Wannaque  Reservoir.  The two lights would vanish for moments at a time and the lower one, (brighter than the other), would very gradually sway, almost unnoticeable.  Before disappearing, the bottom light split into two, which then chased each other 360' in a counterclockwise motion, then vanished.((NUFORC Note:  Venus and Jupiter in conjunction.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119906.html](http://www.nuforc.org/webreports/reports/119/S119906.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
