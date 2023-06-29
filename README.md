@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:41 on 29 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:33 on 29 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Centennial (CO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>4 star-sized craft moving over Centennial Colorado in different directions in under 4 minutes.Drone Question.  My fiancé and I have seen 4 UFOs over Centennial, Colorado tonight.  The singleand steady light emitted is no bigger nor brighter than a dimly lit star in the sky.  And there was no sound.  They also seemed higher up than an airplane.  No contrails either. What could they be?  I tried to film them with my iPhone but they’re too dim and far away to capture.Not meteors either, since those fizzle out quickly and appear much brighter and tend to move much faster and make some noise like a flare.  The first one I spotted I just thought I was lucky and spotted a satellite.  The second and third were following each other and all 3 moving from the West to the East.  The fourth was going SE to NW, last seen at 2244 hours.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157219.html](http://www.nuforc.org/webreports/reports/157/S157219.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Parkville (MD) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Witnessed an orange, yellow, white with red glow UFO on June29th,2012 slowly desending in Parkville Maryland.I saw this on June 29th 2012,@ approximately 11:30 PM. There had just been a horrible thunder and electrical storm. We lost power and I was sitting,reading by candle light alone in the living room.  Thinking I heard people talking outside, I went to the door to see what damage there was (and who was talking). Instead I was amazed to see this ball of orange/red glowing light. It was mid sky and desending slowly. It was close enough for me to see rings of color, white inside,yellow,and orange with a glow of red.  In less than a minute it disappeared behind the tree/building line.  I waited for an explosion or something but nothing happened. It appeared to be landing or was very close to the homes. It made no noise, there were no street, home or business lights on anywhere during, before or after this time as we had a massive power failure that last for days. After it disappeared I waited for a couple of minutes and ran upstairs to tell my son. I didnt get a pic b! ecause I wouldnt have had enough time but a few days later I began searching the internet for someone else who may have seen it. On the 4th day I found 2 different videos taken from separate areas/people in my state. The first one was exactly what I had seen. I was thrilled to see it and to know I wasnt the only one who witnessed this(these?)that night. The second video was really remarkable as well. The colors from both of the videos and what I saw were the same. Circles of color, white, yellow, orange with a red glow. I am a ((deleted--50's)) year old currently disabled woman.I used to be a Business Development Manager for ((deleted)) companies.  I injured myself 2 years ago and had back surgery. I am married and have been living in the home I own for XX years.  I have one son who is XX.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91131.html](http://www.nuforc.org/webreports/reports/091/S91131.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
