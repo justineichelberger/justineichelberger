@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:06 on 29 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:29 on 29 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Charlottesville (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Green orb light balls at 4:31am in Charlottesville, VABirds were chirping very loudly outside of my apartment around 4:00am in the morning.  The volume of the chirping progressed to the point where I decided to see if there was a nest outside my apartment because I could not fall asleep.  When I opened the door, there was a large green ball shaped object fairly low in the sky (lower than the moon which was not visible from my door).  I quickly called my boyfriend to the door to see and as he came to the door, the single ball separated or multiplied into two balls which grew in size then dissolved slowly.  Seconds after, two more ball appeared (almost looked like they popped in the sky), then four more in perfect symmetry; they appeared like a number four looks like on dice. Seconds after that, another burst of four balls 'popped' in the sky.  My boyfriend and I both did double takes as we could not believe what we were seeing.  Additionally, we found the birds' behavior perplexing as I have never heard birds before at that hour of the morning nor have I seen them be so active (dodging and fleeting from tree to tree).  Shortly after all the balls dissolved into the sky (total of about a minute, two at most), the birds chirping ceased and the night was quiet once again.  Lastly, we speculated that it could be fireworks but there were no sounds coming from the lights or any other sounds other than the birds that we could hear.  The balls did evolve in color, beginning in green, then to yellowish orange color until they faded away completely.  I did take a single photo towards the end when they were mostly dissolved, but the outlines of the balls can be seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134818.html](http://www.nuforc.org/webreports/reports/134/S134818.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Shell Lake (near) (Canada) (SK) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>One glowing orb appeared just above a nearby treeline, changed direction, then moved quickly away.My brother and I were sitting by the fire at the lake when a round glowing orb, the size of a basketball appeared just over the treeline approximately 40 feet in the distance.  As soon as we started recording it, it changed directions and moved quicky away from us. I'm a 27 year old male from Wainwright, Alberta, and was visiting my family at a lake near Shell Lake called Iroquois Lake. While sitting with my younger brother by the fire, we both witnessed the orb and we both used or iphones to record it.((NUFORC Note:  We have amended the time above, to reflect an evening sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90252.html](http://www.nuforc.org/webreports/reports/090/S90252.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
