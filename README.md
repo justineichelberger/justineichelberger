@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:22 on 29 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:41 on 29 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Gainesville (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Started as a shooting star.  Coming downward until it turned to a teardrop with a fire tail.  Then it stopped and started to pulsate a very bright light.  After it dropped for a second it then hovered.  After 10 to 15 pulsates it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157204.html](http://www.nuforc.org/webreports/reports/157/S157204.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Centennial (CO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>4 star-sized craft moving over Centennial Colorado in different directions in under 4 minutes.Drone Question.  My fiancé and I have seen 4 UFOs over Centennial, Colorado tonight.  The singleand steady light emitted is no bigger nor brighter than a dimly lit star in the sky.  And there was no sound.  They also seemed higher up than an airplane.  No contrails either. What could they be?  I tried to film them with my iPhone but they’re too dim and far away to capture.Not meteors either, since those fizzle out quickly and appear much brighter and tend to move much faster and make some noise like a flare.  The first one I spotted I just thought I was lucky and spotted a satellite.  The second and third were following each other and all 3 moving from the West to the East.  The fourth was going SE to NW, last seen at 2244 hours.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157219.html](http://www.nuforc.org/webreports/reports/157/S157219.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
