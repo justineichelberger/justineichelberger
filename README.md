@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 29 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:53 on 29 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Richmond (KY) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>small mystery object over Wal-MartOn my way back into Richmond from the Blue Grass Army Depot, a friend and I saw a strange object floating across the Eastern By-pass, from the K-Mart side over to a position above Wal-Mart's parking lot. At first we thought the object was a kite, because of its erratic path, but then it would often straighten up and move in a very deliberate direction, like a manned object. I used my digital camera as a binoculars by looking through the zoom lens at maximum range, and after close inspection I clearly saw something moving on the side of the object facing me. To me, depending on the size perspective, it seemed to be either a small craft reminiscent of the old Apollo Lunar Landers, or it was something like an Autogyro, the old "flying chair" device that's been used in military recon missions for decades. If it was the latter, the movement I saw on it could have been the person operating it. The object was seen by a great many people in the parking lot and by persons on the Eastern By-Pass. UFOs are very commonplace in the vicinity of the Blue Grass Army Depot and I wasn't surprised when the event did not make the local news.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32488.html](http://www.nuforc.org/webreports/reports/032/S32488.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in West Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>stingray shaped sphereglided in from the north east... we thought it was a piece of plastic (approx 4 ft square)...no wind at the time....shape of a sting ray fish... white in colour...it passed in front of us in our apartment went down to the water and swooped down over the water for approx 100 feet about 10 seconds then went up towards the northwest and dissapeared into the clouds about 2/3 miles away....my camera batteries were dead??....we both saw it myself naked eye and my girlfriend through the binoculars.....called the west vancouver police....thats it ... first time we have seen anything like it ... my girlfriend said as it turned upward it was grey/black on one side ...again the wind was zero......???...best contact is  ((e-address deleted))...this email does not allways work…</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23517.html](http://www.nuforc.org/webreports/reports/023/S23517.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
