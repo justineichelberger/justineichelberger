@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:27 on 28 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 29 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Australia () reported seeing craft that fit the description of some 'Cone' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>dark, egg shaped, rocket boosters no windowsThere was no lights on in the streets and I was out taking a smoke when all of a sudden loud noise and i looked to the sky. Then I saw a dark craft travelling through the sky. The thing that made me think that it was odd was that the craft had no lights on and was flying very low to the ground.  Also it was rather egg shaped with no wings, and a rocket like booster on the bottom of it.  I walked slowly to the house and told my wife of these happens, but by the time that i returned to the garden there was nothing left in the sky.((NUFORC Note:  Witness elects to remain totally anonymous, and provides no contact information; indicates that the date of the alleged incident is approximate.  Does not indicate location in Australia.  May not be a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45950.html](http://www.nuforc.org/webreports/reports/045/S45950.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Richmond (KY) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>small mystery object over Wal-MartOn my way back into Richmond from the Blue Grass Army Depot, a friend and I saw a strange object floating across the Eastern By-pass, from the K-Mart side over to a position above Wal-Mart's parking lot. At first we thought the object was a kite, because of its erratic path, but then it would often straighten up and move in a very deliberate direction, like a manned object. I used my digital camera as a binoculars by looking through the zoom lens at maximum range, and after close inspection I clearly saw something moving on the side of the object facing me. To me, depending on the size perspective, it seemed to be either a small craft reminiscent of the old Apollo Lunar Landers, or it was something like an Autogyro, the old "flying chair" device that's been used in military recon missions for decades. If it was the latter, the movement I saw on it could have been the person operating it. The object was seen by a great many people in the parking lot and by persons on the Eastern By-Pass. UFOs are very commonplace in the vicinity of the Blue Grass Army Depot and I wasn't surprised when the event did not make the local news.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32488.html](http://www.nuforc.org/webreports/reports/032/S32488.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [327](http://www.nuforc.org/webreports/reports/164/S164052.html)
-- [326](http://www.nuforc.org/webreports/reports/163/S163823.html)
-- [325](http://www.nuforc.org/webreports/reports/163/S163937.html)
-- [324](http://www.nuforc.org/webreports/reports/163/S163883.html)
-- [323](http://www.nuforc.org/webreports/reports/157/S157376.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
