@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:31 on 29 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:22 on 29 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Klamath Falls (OR) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Man repts. bright obj. overhead, "brighter than Jupiter."  Moves slowly to SE, enters haze at 15' K, disappears from view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00602.html](http://www.nuforc.org/webreports/reports/000/S00602.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Dillon (MT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Translucent object floating in opposite direction of clouds.In the evening, my family and I sat down on our deck for dinner.  My oldest daughter noticed something floating overhead and said, “wow, look at that”.  My other daughter, wife and I all looked up and noticed what looked like a clear, translucent balloon like object floating in the sky.  I thought it may be a plastic bag, or something similar, but I continued to watch it.  It appeared to be rising very slowly.  I noticed it went just behind a cloud, and was much larger than I first imagined.  Not sure how large, but the lower clouds were probably at roughly 8,000 to 9,000 feet, we are at about 5,000 feet.  The clouds were drifting fairly fast from west to east, but the wind did not affect the floating object at all.  In fact, it was drifting from east to west and still rising slowly.I went into my house and grabbed a pair of binoculars to observe the object closer.  When viewed through binoculars, it still seemed to be a translucent object with two possibly rigid rings.  The rings sort of reflected the sunlight sort of rainbow like.  I observed that is was just above the low clouds now as they drifted by from west to east (our typical wind direction).  So my initial thought of it being some sort of weather balloon was mystified by the fact it was still rising in a westerly direction, into the wind.  The clouds above it were also drifted from west to east, so the wind from that day was typical for our area, out of the west.This is why I decided to send in this report, if it had risen and drifted the same direction as the clouds then I would have been sure of it being a balloon.We went back into the house, did some dishes and came back out a bit later, maybe and hour and a half, and the object remained.  It was a bit higher, but still traveling very slowly westward, while all clouds were traveling from west to east.  We looked again after dark, but did not see the object then.I looked it up online to see if anyone had seen anything like it.  I did see something that looked exactly like it in a youtube video shot over Brazil in 2017.  That video is at the following link: https://www.youtube.com/watch?v=3yXoES7Dlp0 .  That video shows the object above clouds drifting in the opposite direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142032.html](http://www.nuforc.org/webreports/reports/142/S142032.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
