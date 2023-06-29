@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:25 on 29 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:31 on 29 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Minong (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Four unexplainable lights came from the north and move in separate directions and disappeared.June 29, 2013 -  2230 EDT  46*02'35.57”N   91*56'43.15”W  Two of us, heading west on HWY 77 east of Minong Wisconsin saw four lights in the sky.  We were near a lake McClaine.  The four lights at first appeared stationary over the west shore of the small lake. When we realized they were moving we pulled the car off the road, turned the engine off, radio off, fan off, lights off.  We realized one of the lights was going to pass right over us and we wanted to determine if there were any engine noises.  None.  Completely silent.  We got out of the car.  The lights at first seemed to be moving in the same direction but then separated.  Oh, they were at first moving from North to South.  Then, one moved west and vanished, we thought into the haze.  One disappeared before it got to us, one to the east and vanished.  The one that moved above us was pulsing as it continued to the south, and then the light went out and we saw a dark mass continue moving to the south.  The sky was hazy, not quite dark, but full of twilight.  I could not take my eyes away, and it did not occur to me to try to get a video as I did not want to miss any part of the event.  Then it was over.  It lasted for about three minutes or so.  I am wondering what it could have been and if anyone else reported seeing it.  In retrospect I cannot determine the altitude.  At first my friend thought they were the top lights of four transmission towers, and that they were near the lake.  But then we think it is possible they were very very high, and at first very far away, but moving rapidly towards us to give the appearance of being stationary.  I tried to determine if, after the lights went out, if there was perhaps some debris that would be falling.  Instead what I saw was the dark mass continue moving at the same pace as the light was.  It did not lose altitude.  We argued for some time as to the nature of the event.  I said it was a phenomena.  He explained it as an explosion of some kind, perhaps a meteor or an aircraft, but we do not know of anything that would burn like that.  It seemed somewhat ethereal.He also said that he thought the dark mass may have been smoke because it appeared to expand.  I did not see smoke, there was no smoke trail behind it.  Yet we both agreed that the way that it moved was inexplicable.  When we got home less than an hour later he called our local police as well as Superior Wisconsin to report it.  I went to the internet to see if anyone else was talking about it.  That is how I found your page, and I called you.((NUFORC Note:  We spoke via telephone with this witness, and she sounded to us to be quite sober-minded and credible.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99036.html](http://www.nuforc.org/webreports/reports/099/S99036.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Klamath Falls (OR) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Man repts. bright obj. overhead, "brighter than Jupiter."  Moves slowly to SE, enters haze at 15' K, disappears from view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00602.html](http://www.nuforc.org/webreports/reports/000/S00602.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/163/S163887.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163862.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163868.html)
-- [352](http://www.nuforc.org/webreports/reports/157/S157223.html)
-- [351](http://www.nuforc.org/webreports/reports/157/S157219.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
