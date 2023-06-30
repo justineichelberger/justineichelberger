@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:40 on 30 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:21 on 30 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Birmingham (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A red 'sun' that pulsed back and forth in an unbelievable way.Me and my sister (who were about 9 and 8 years old) were in our back garden playing and we spotted in the sky what we thought was the sun. It perplexed us that the 'sun' was much more red than usual and was not that low on the horizon. After looking at it over the fence for about 30 seconds the object started to pulsate back and forth (it is very hard to explain how it did it). It was as if it was pulsing bigger and smaller towards us and then away from us. We both ran away into the house and I remember before I ran indoors I got on another fence to check if what I was seeing was real. I started to cry when I saw it from this view and ran indoors. We told our parents to come out to see it and after about 2 minutes after we had convinced them to come to have a look the red light in the sky had gone and was nowhere to be seen. The object was a dark but vibrant red and was circular. The pulsing it did was eerie and it scared us both in the way it pulsed, it was just unlike anything I had ever seen before.((NUFORC Note:  Witness indicates date of June 31.  June has only 30 days.  We have amended the date above.  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24896.html](http://www.nuforc.org/webreports/reports/024/S24896.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Frisco (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Triangle shaped object with white lights entered and exited atmosphere.My husband and I were traveling south on highway 121 headed to work.  A triangle with white lights at each point appeared high in the horizon.  The object moved in a forward motion while the lights alternated around the points.  I would say it was in our atmosphere for 5-10 seconds.  We both observed it and then it shot off and was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110777.html](http://www.nuforc.org/webreports/reports/110/S110777.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1187](http://www.nuforc.org/webreports/reports/163/S163878.html)
-- [1186](http://www.nuforc.org/webreports/reports/163/S163880.html)
-- [1185](http://www.nuforc.org/webreports/reports/164/S164131.html)
-- [1184](http://www.nuforc.org/webreports/reports/157/S157229.html)
-- [1183](http://www.nuforc.org/webreports/reports/158/S158894.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
