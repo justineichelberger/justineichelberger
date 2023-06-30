@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:05:42 on 30 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:27 on 30 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in Highway (KS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>This very real sighting took place in 1972.  My ex husband and I were followed by a relatively small UFO which lower itself all the way to the highth of my window.it was small, made no sound and had one green and red light at each end.  It followed us for at least 15 minutes.  Then we found ourselves parked on the side of the highway looking back at it again at very close range.  It turned very bright and it took off straight up.  There seems to be time missing.  My ex husband and i NEVER ever brought this event up.  WE never discussed it, which now seems odd.  There is more to this story however.((NUFORC Note:  Source of report indicates that the date in 1972 is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70141.html](http://www.nuforc.org/webreports/reports/070/S70141.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in South Bend (IN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>gray in my room  had a recurring event w/1 gray in bedroom. terrifying. body frozen with fear.could not escape, gray could read my thoughts, anticipate what I was going to do.finally, in one event, i kept telling myself i must free my arms, break the paralysis.it was hard but i did, the image of the gray faded like mist, and i have not had an event since.I have to conclude that these were bad dreams, and people that claim abduction at nite from their beds are also having bad dreams. The media has created this image of the grays, and it is unnerving, unsettling.What are the triangles? Why doesn't someone build an array of video cameras and make a constant observation of the night sky for an extended period of time?((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79426.html](http://www.nuforc.org/webreports/reports/079/S79426.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1187](http://www.nuforc.org/webreports/reports/163/S163878.html)
-- [1186](http://www.nuforc.org/webreports/reports/163/S163880.html)
-- [1185](http://www.nuforc.org/webreports/reports/164/S164131.html)
-- [1184](http://www.nuforc.org/webreports/reports/157/S157229.html)
-- [1183](http://www.nuforc.org/webreports/reports/158/S158894.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
