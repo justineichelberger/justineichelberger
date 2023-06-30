@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:57 on 30 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:25:42 on 30 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Port Angeles (WA) reported seeing craft that fit the description of some '' over a period of approximately 7200.0 - 7200.0 minutes.</sub><blockquote><sub>Man repts. multiple sightings of up to 10 bright objects streaking overhead during 26-30JN95.  Very bright, solid lights "like stars."</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00599.html](http://www.nuforc.org/webreports/reports/000/S00599.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1966, an anonymous witness in Weare (NH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>23:00 hours, Summer 1966, The Old One-Room-School House, Riverdale Road (Old Route 114) Weare, Hillsborough County, New Hampshire.  My parents, my sister and I were opening our camp for the summer.  My father noticed what looked like a bright multi-colored string of lights (Like you’d see at a roadside clams shack) rising beyond the silhouette of the pine tree forest from the next valley over (The Blanchette Bros. Farm).  As we watched the lights rise we realized that the stars beyond had blacked out and you could make out a large oval 200’ – 50’ shape (Like a giant tilted Frisbee or a tilted Ferris wheel).  The lights were alternating colors red, white, blue, yellow, green… …Like a string of party lights and ran a even intervals around the edge of the UFO.The UFO hovered without a sound.  Nothing around seemed to change or be affected by it… …the crickets continued to chirp, the frogs in the pond across the road continued to peep, and croak, but as it moved slowly the light of the stars flickered and went out as the shape blocked them or reappeared behind the UFO as it moved passed by them revealing them again.  The UFO moved closer to us floating like a balloon and hovered over the edge of the camp about one hundred and fifty feet above.  My mother ushered me into the camp, but my father and sister stayed outside watching it for another 45 minutes until it slowly moved away.Next morning my father and I visited the police in Goffstown where we learned that many people in the surrounding towns of Francestown, New Boston, Goffstown, and Weare had made similar reports.  We also visited Florence Dow (Local UFO authority) of Goffstown and talked to her about the sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142922.html](http://www.nuforc.org/webreports/reports/142/S142922.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1187](http://www.nuforc.org/webreports/reports/163/S163878.html)
-- [1186](http://www.nuforc.org/webreports/reports/163/S163880.html)
-- [1185](http://www.nuforc.org/webreports/reports/164/S164131.html)
-- [1184](http://www.nuforc.org/webreports/reports/157/S157229.html)
-- [1183](http://www.nuforc.org/webreports/reports/158/S158894.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
