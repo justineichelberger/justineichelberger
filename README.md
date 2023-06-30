@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:27 on 30 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:25 on 30 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in South Bend (IN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>gray in my room  had a recurring event w/1 gray in bedroom. terrifying. body frozen with fear.could not escape, gray could read my thoughts, anticipate what I was going to do.finally, in one event, i kept telling myself i must free my arms, break the paralysis.it was hard but i did, the image of the gray faded like mist, and i have not had an event since.I have to conclude that these were bad dreams, and people that claim abduction at nite from their beds are also having bad dreams. The media has created this image of the grays, and it is unnerving, unsettling.What are the triangles? Why doesn't someone build an array of video cameras and make a constant observation of the night sky for an extended period of time?((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79426.html](http://www.nuforc.org/webreports/reports/079/S79426.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1952, an anonymous witness in Auburn (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Early nighttime sighting of huge oval object for 1 minute.This occurred many years ago but it is very clear in my memory.  Was btweem Enumclaw and Auburn going to a movie in a NE direction.  It was dark that night with no traffic or background lights.  I saw out of the passenger side a very very large oval object covering most of the sky.  It had colors of the spectrum shimmering around its body and a row of portholes in the center.  There was a reddish fire coming from its tail.  I signalled my husband to stop the car and he also saw it.  It was moving very slowly.  Then it took off extremely fast towards the NE and disappeared over the horizon.  Afterward we discussed reporting this but decided not to since the government was denyig everything at the time.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  We have assigned an arbitrary date in June 1952.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48805.html](http://www.nuforc.org/webreports/reports/048/S48805.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1187](http://www.nuforc.org/webreports/reports/163/S163878.html)
-- [1186](http://www.nuforc.org/webreports/reports/163/S163880.html)
-- [1185](http://www.nuforc.org/webreports/reports/164/S164131.html)
-- [1184](http://www.nuforc.org/webreports/reports/157/S157229.html)
-- [1183](http://www.nuforc.org/webreports/reports/158/S158894.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
