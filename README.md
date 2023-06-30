@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:24 on 30 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:24 on 30 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Casa Grande (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3 nights - 3 nights minutes.</sub><blockquote><sub>not just pheonix lightsthis is regarding to the pheonix lights over arizona. the military is saying that they were flares. well they were not only seen over pheonix arizona. we were on our way home from casa grande to colonial del sol which is a couple miles outside of casa grande arizona going north and in a vacant field in between casa grande and colonial del sol up in the sky there was first one light,then another,then another. it went up to 5 or 6 of the lights. they were a bright yellow orange. we were trying to figure out what they were. the only thing that we could come up with at first was helicopters, because the lights just stayed in one spot and they were so bright. then they started to go out down 2 then 3, then they would come back on. then they would all go out. we then later watched the same lights west of colonial del sol for several nights after. we would watch these lights appear then go down to one light which would turn red and shoot all over the place. there are no military flares that will do that! then during the day i also saw some things that i thought was kind of funny. i saw bright matalic objects up in the air that would stay in one spot for a couple minutes and then just be gone. i also saw a bright matalic object over by the top of casa grande mountain during the day. my brother did call sights and they had planes flying over the area the next few nights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69381.html](http://www.nuforc.org/webreports/reports/069/S69381.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>We saw a v shape craft or object that just hovered over us for a few minutes.  There were lights all around.As we were looking at it ...it just quickly disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153637.html](http://www.nuforc.org/webreports/reports/153/S153637.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1187](http://www.nuforc.org/webreports/reports/163/S163878.html)
-- [1186](http://www.nuforc.org/webreports/reports/163/S163880.html)
-- [1185](http://www.nuforc.org/webreports/reports/164/S164131.html)
-- [1184](http://www.nuforc.org/webreports/reports/157/S157229.html)
-- [1183](http://www.nuforc.org/webreports/reports/158/S158894.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
