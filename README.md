@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:38 on 30 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:24 on 30 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Anacortes (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Daytime UFO in Anacortes, WAOn the evening of June 30, 2012 at 5:00 pm, I just dropped my girlfriend off at work and as I was about to leave, out of my peripherals, to the north I notice an object (what seemed to be ) entering our atmosphere at a downward 45 degree angle, then stopping about 2,000ft above a close island. It only took a second from when I noticed it until it had stopped then began moving west along the same horizontal height as where it has stopped it was at this time I started taking pictures, it took the object less then, I’d say 20 sec to travel from stopping point to out of sight.I leave roughly a straight distance of 20 mile from a navy air base and can take pictures of all sorts of military planes and government planes too, but no pictures will compare to this UFO.  Exactly 14 minutes later there became this grey streak where the UFO came down at an angle, and then the only way I can describe where the UFO stopped before moving west is a grey sonic boom looking cloud in just that spot though.Me, I am a very open minded person I see no reason why E.T.s can’t exist if we do, I have a good clue of air crafts not only because I lived near a military base for 20 years but I have also spent 2 ½ years in the military. I have noticed an increase in UFO activity in the last year or two.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91387.html](http://www.nuforc.org/webreports/reports/091/S91387.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Casa Grande (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3 nights - 3 nights minutes.</sub><blockquote><sub>not just pheonix lightsthis is regarding to the pheonix lights over arizona. the military is saying that they were flares. well they were not only seen over pheonix arizona. we were on our way home from casa grande to colonial del sol which is a couple miles outside of casa grande arizona going north and in a vacant field in between casa grande and colonial del sol up in the sky there was first one light,then another,then another. it went up to 5 or 6 of the lights. they were a bright yellow orange. we were trying to figure out what they were. the only thing that we could come up with at first was helicopters, because the lights just stayed in one spot and they were so bright. then they started to go out down 2 then 3, then they would come back on. then they would all go out. we then later watched the same lights west of colonial del sol for several nights after. we would watch these lights appear then go down to one light which would turn red and shoot all over the place. there are no military flares that will do that! then during the day i also saw some things that i thought was kind of funny. i saw bright matalic objects up in the air that would stay in one spot for a couple minutes and then just be gone. i also saw a bright matalic object over by the top of casa grande mountain during the day. my brother did call sights and they had planes flying over the area the next few nights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69381.html](http://www.nuforc.org/webreports/reports/069/S69381.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1187](http://www.nuforc.org/webreports/reports/163/S163878.html)
-- [1186](http://www.nuforc.org/webreports/reports/163/S163880.html)
-- [1185](http://www.nuforc.org/webreports/reports/164/S164131.html)
-- [1184](http://www.nuforc.org/webreports/reports/157/S157229.html)
-- [1183](http://www.nuforc.org/webreports/reports/158/S158894.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
