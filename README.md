@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:22 on 30 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:20 on 30 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Bigfork (MT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>I woke up balf a sleep shook x-husband said do you see the light? he raised up half way said 'ya' and he fell back to sleep i looked at it again thought the street light must be real bright. layed back down . we at the time lived only 2000 feet frome the base of the rockie mt.'s on the small lake but the light i saw i thought at first that it was a bright star but then asumed it was the street light because it was so close to the ground maybe what looked to me 100 ft up above the field. the strange part the next thing i remember is i am on my back opened my eyes i saw the eve of the house the window chest level feet already in threw the window the red small light torwards the front of the triangle white type lights torwards the back the bottem witch i was staring at had designs or lines of some sort. sight breeze i cant remember any sound. perhaps i was dreaming? my x husband still remembers me waking him that night and remembers seeing the light.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49400.html](http://www.nuforc.org/webreports/reports/049/S49400.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1958, an anonymous witness in Texas City (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Cluster of UFOs   I was 6 to 9 years old when I witnessed several tiny star-like objects in the dark night sky.  What caught my attention as I star-gazed was the perfect formation of what I thought were stars until they moved."They" were too many to count, but they were in what appeared to be an old-type wheel formation with the "stars" making up the spokes of the wheel.Their movement was like a burst from a fireworks rocket.  It was sudden, coordinated, and vastly quick as they disappeared in all directions.Even at that age, I knew I had watched something extraordinary.  I never told anyone until a couple of years ago.I'm 65 now and have wondered if others saw what I saw.  After watching programs about sightings from airplane and jet pilots and other reputable individuals, I feel that it's time to report my experience.I hope this will help.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  NUFORC has assigned an arbitrary date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121482.html](http://www.nuforc.org/webreports/reports/121/S121482.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1187](http://www.nuforc.org/webreports/reports/163/S163878.html)
-- [1186](http://www.nuforc.org/webreports/reports/163/S163880.html)
-- [1185](http://www.nuforc.org/webreports/reports/164/S164131.html)
-- [1184](http://www.nuforc.org/webreports/reports/157/S157229.html)
-- [1183](http://www.nuforc.org/webreports/reports/158/S158894.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
