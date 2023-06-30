@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:27 on 30 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:25 on 30 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Yakima (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>BRIGHT LIGHT IN SKY TURNS INTO SMALL LIGHT IN A BLINK OF THE EYE AND FLYS NORTH UPWARD INTO THE SKYAround 11:30 or 12 at night on June 30th of 2008, me and 2 female friends were up on the canal located in Terrace Heights looking toward Mount Adams. I happened to look up threw my moon roof of my car and noticed a bright white light toward Mount Adams which was at a south west direction from our location, but it seemed to be right over Yakima. At first I thought it was a airplane but it had no flashing lights like an airplane. I also observed an airplane fly by this object, the airplane was heading towards Seattle. When I realized the object was not a airplane I told my female friends “what is that”. My friend in the passenger seat tried to look at it threw the moon roof but didn’t see it, so she looked out the window, as she did that the light just in a blink of the eye turned very small like a star in the sky. Me and her observed the object fly north in a upward direction until it vanished into space. I have talked to another female friend of mine who also said her and another friend had seen this light at the same time for about 20 minutes, they were on Mead and 13th ave looking south west when they observed the light. I was wondering if anyone else has seen this light and also see it fly away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64327.html](http://www.nuforc.org/webreports/reports/064/S64327.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Lost River (WV) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>white light fell from sky and bouncedIt looked like a shooting star but before it hit the mountain top it stopped then bounced 3 times then disappeared .  It did not throw any light beam or light up tree tops, just a very fast, very bright light ? Actually scared me and I've lived in the mountains my whole life, still have no explanation for what we seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86414.html](http://www.nuforc.org/webreports/reports/086/S86414.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1187](http://www.nuforc.org/webreports/reports/163/S163878.html)
-- [1186](http://www.nuforc.org/webreports/reports/163/S163880.html)
-- [1185](http://www.nuforc.org/webreports/reports/164/S164131.html)
-- [1184](http://www.nuforc.org/webreports/reports/157/S157229.html)
-- [1183](http://www.nuforc.org/webreports/reports/158/S158894.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
