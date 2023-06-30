@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:32 on 30 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:57 on 30 June 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1964, an anonymous witness in Ontonagon (MI) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A large rectangular shape heading up River st. to Lake SuperiorIn 1964-65 we were  hanging out down town Ontonagon, MI, a rectagular shape moved along River St., out to Lake Superior.  It was summer time and as it glided over town you could hear a faint swooshing sound (weird as hell) and we could see the outline as it was a clear night & stars were out.  It was like there was a pressure in the air when it went over.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95911.html](http://www.nuforc.org/webreports/reports/095/S95911.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Port Angeles (WA) reported seeing craft that fit the description of some '' over a period of approximately 7200.0 - 7200.0 minutes.</sub><blockquote><sub>Man repts. multiple sightings of up to 10 bright objects streaking overhead during 26-30JN95.  Very bright, solid lights "like stars."</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00599.html](http://www.nuforc.org/webreports/reports/000/S00599.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1187](http://www.nuforc.org/webreports/reports/163/S163878.html)
-- [1186](http://www.nuforc.org/webreports/reports/163/S163880.html)
-- [1185](http://www.nuforc.org/webreports/reports/164/S164131.html)
-- [1184](http://www.nuforc.org/webreports/reports/157/S157229.html)
-- [1183](http://www.nuforc.org/webreports/reports/158/S158894.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
