@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:30 on 1 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:29 on 1 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Brisbane (Australia) () reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>object aprox 100 m off ground, colour,hot reddy yellow. dropped substance that looked like molten steel,dissapeared before hitting ground.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59869.html](http://www.nuforc.org/webreports/reports/059/S59869.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Mission (SD) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A silent flaming disk traveling at a high rate of speed in the sky.On July 1, 2013, in Mission, South Dakota, myself and another person were conversing outside when we witnessed in the sky two disk-shaped objects that appeared to be flaming and moving in a linear direction at a very high rate of speed.  The time was approximately 23:35 and the sky was dark. Wind speed was below five miles per hour and the temperature was approximately 56 degrees Fahrenheit.One was witnessed north of town for approximately one minute before fading and disappearing.  The second was witnessed southeast of town, and it traveled in a northwest direction and faded out of sight to the northwest of town.These objects were silent and traveled at a speed consistent with an aircraft flying at a medium altitude.  They appeared to be disk-shaped with orange flames on the topside of these disks.  When these objects flew directly over our location, the flames were no longer visible from the bottom portion, but the glow could be seen through these disks.  No other lights or objects were noted.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99100.html](http://www.nuforc.org/webreports/reports/099/S99100.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [850](http://www.nuforc.org/webreports/reports/163/S163884.html)
-- [849](http://www.nuforc.org/webreports/reports/163/S163882.html)
-- [848](http://www.nuforc.org/webreports/reports/164/S164073.html)
-- [847](http://www.nuforc.org/webreports/reports/163/S163866.html)
-- [846](http://www.nuforc.org/webreports/reports/164/S164590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
