@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:15:00 on 1 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:31 on 1 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Colchester (CT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Briefly saw multicolored disk fly by fmaily car as we drove down a back road.I was driving in my family’s car with my mother down a back road.  Suddenly I saw a flash of light behind us.  I turned my head to look out my window and I saw a disk shaped object, titled on its side, zoom past us and dart into the clouds above.The disk acted as though it were a prism (it was the colors of all the colors of the rainbow)!  The object left a momentary trail of the rainbow light behind on the path it took into the clouds.The object had very little effect on out vehicle; the only effect was some brief static on the car radio as it zoomed by us.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57442.html](http://www.nuforc.org/webreports/reports/057/S57442.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Pentang (Canada) (ON) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>2 orange yellow balls of light descend then move off horizontally NW in the Penetang Bay in Ontario witness by 3 boatersI was sitting on my boat in the harbour waiting for our Jul 1 Canada day fireworks I notice 2, what I thought were masthead lights.   I noted this to my friend but I was confused as they did not track on the water and suddenly went in two directions, in fact they crossed land and appeared to be about 50-100 feet in the air.  They light was like a glowing orange fireball.  There was no notice as we listened for a helicopter or plane sound.  One light appeared to descend the suddenly in a flat way head to the northwest of the bay were are in and disappear out of view to the NW.July 2 we discussed what we saw and a friend of mine posted on Facebook an image she took the night of July 1 and it was exactly what we saw.  She is located in Orilia Ontario.  A fellow boater stopped at our boat and asked we saw the strange light, he describe he saw 3 with similar activity.((NUFORC Note:  We have requested that the witness have the other witnesses submit reports, as well.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99551.html](http://www.nuforc.org/webreports/reports/099/S99551.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [850](http://www.nuforc.org/webreports/reports/163/S163884.html)
-- [849](http://www.nuforc.org/webreports/reports/163/S163882.html)
-- [848](http://www.nuforc.org/webreports/reports/164/S164073.html)
-- [847](http://www.nuforc.org/webreports/reports/163/S163866.html)
-- [846](http://www.nuforc.org/webreports/reports/164/S164590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
