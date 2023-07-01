@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:30:17 on 1 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:15:00 on 1 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in North Hollywood (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Silver toroidal craft accompanied by rotating triangular craftI just saw 2 UFO's over North Hollywood!!!  The first was toroidal shaped (like a donut)... I could see through the middle.The second was triangle shaped w 5 flashing lights in a hexagon pattern. It was spinning around as it flew overhead.At first I thought they were silver balloons... but as they got closer I saw that they were vehicles.They were absolutely silent.The first went off to the East.The triangle went east, and then turned around and came back.The donut shaped craft came back, joined the other and they went off to the southeast.Tried taking pictures but I dont think they showed up very well.  They were really high up.  I saw a few jets fly over and could tell they were far below the UFO's.Here is a pic from my phone... I think this is the donut shaped one... when the light went out I could see through it.((name deleted))  :)  P.S. it is the little light dot it lower left of picture... zoom it to see it!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142029.html](http://www.nuforc.org/webreports/reports/142/S142029.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Colchester (CT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Briefly saw multicolored disk fly by fmaily car as we drove down a back road.I was driving in my family’s car with my mother down a back road.  Suddenly I saw a flash of light behind us.  I turned my head to look out my window and I saw a disk shaped object, titled on its side, zoom past us and dart into the clouds above.The disk acted as though it were a prism (it was the colors of all the colors of the rainbow)!  The object left a momentary trail of the rainbow light behind on the path it took into the clouds.The object had very little effect on out vehicle; the only effect was some brief static on the car radio as it zoomed by us.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57442.html](http://www.nuforc.org/webreports/reports/057/S57442.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [850](http://www.nuforc.org/webreports/reports/163/S163884.html)
-- [849](http://www.nuforc.org/webreports/reports/163/S163882.html)
-- [848](http://www.nuforc.org/webreports/reports/164/S164073.html)
-- [847](http://www.nuforc.org/webreports/reports/163/S163866.html)
-- [846](http://www.nuforc.org/webreports/reports/164/S164590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
