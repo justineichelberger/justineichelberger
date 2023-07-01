@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:19 on 1 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:21 on 1 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in La Romana (Dominican Republic) () reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Giagantic circle of light emitting smaller light circles of different colorsIn 1992, my classmates and I had just finished our associate's degree program from the Altos De Chavon The School Of Design in my country Dominican Republic. Most of us were celebrating on the second floor in an open balcony. We were dancing and laughing (not drinking)It was a clear but dark night with few stars here and there. Suddenly, one of my friends screamed at everybody to look at the sky, all of us came rushing to look and when I looked up I saw a huge light that looked like a giagantic moon. This light started to appear closer and closer, and everybody started screaming. I was out of my shocked when my friend yelled at me to use my camara (I was taking pictures of all of us before this happened) I lift the camera and started taking shots like crazy, and in a frenzy went down the stairs to get under that beautiful and giagantic light. when I got down to the patio another of the students was coming from the grocery store and he asked what was going on? I told him to look up and he dropped all the bags he was carrying when he saw the light.  Right next to him and under that brilliant light I kept taking pictures when suddenly this magnificent object started emitting from its center smaller circles of lights of different colors.  It was scary at the beginning, but once I got closer to it I felt just amazed of its size and beauty.The sighting lasted about 5 to 8 or ten minutes (I'm not sure) All I know is that it was the second sighting of my life and I felt really lucky to be witnessing such as an amazing "thing". I took my camera to develop the pictures from that night, and I got all the group pictures except the ones I shot at the light. The giagantic light shots all developed as a deep black empty space.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51925.html](http://www.nuforc.org/webreports/reports/051/S51925.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1991, an anonymous witness in Maunk Chunk (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>BRIGHT LIGHT SHINED ON US  IN OUR BOAT GONE IN SECONDS OVER MOUNTAINMYSELF AND MY FISHING BUDDY WHERE ON THE LAKE MAUNK CHUNK NOT FAR FROM HAWK MOUNTAIN THE OBJECT STOPPED ABOVE OUR BOAT SHINED LIGHT ON US FOR 20 SECONDS AND HEADED OVER THE MOUNTAIN LIKE A FLASH IN THE DIRECTION OF HAWK MOUNTAIN. THE TIME WE SAW IT WAS AROUND MIDNIGHT LITTLE BEFORE LITLLE AFTER NO NOISE WAS GONE IN SECONDS. IF ANYONE ELSE SAW IT E-MAIL ME AT ((e-address deleted)) ALL UNDERSCORE</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42156.html](http://www.nuforc.org/webreports/reports/042/S42156.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [850](http://www.nuforc.org/webreports/reports/163/S163884.html)
-- [849](http://www.nuforc.org/webreports/reports/163/S163882.html)
-- [848](http://www.nuforc.org/webreports/reports/164/S164073.html)
-- [847](http://www.nuforc.org/webreports/reports/163/S163866.html)
-- [846](http://www.nuforc.org/webreports/reports/164/S164590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
