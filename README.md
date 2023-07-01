@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:22 on 1 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:27 on 1 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Sterling (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two ruby red dots, appeared out of thin air and within seconds were miles apart moving abnormally clockwise and counter clock wise.It was 12:08 am on July 1, 2021. I was on my way back home from driving my husband to his night job. I was singing in the car and focusing on the road checking my mirrors and looking around as no one was in front of me. I was driving eastbound on route 7, a quarter of a mile before the exit to route 28 south bound facing east, when to my slight left above, looking north east I saw two washed out ruby red dots appear out of thin air, close together parallel. My eyes immediately focused on them because they were so bright and I was looking in the same direction moments before they appeared out of thin air. I can vouch that they just appeared out of thin air. They were in my line of sight. I thought it was a firework that was set off at first, the type that just appears up above and falls down, however the lights didn’t move. They appeared still for a couple seconds and started to move away from each other and started to pivot parallel in a clockwise motion. They distanced themselves about at least 20 ft at first, and then started shifting counter clockwise and quickly separated, moving away from each other. Within a second they we’re at least 10 miles away from each other. It was so sudden th! at I had to look back because I couldn’t keep both dots in my view when I observed them spread out. They slowly stopped turning and stayed still at maybe a 20 degree angle incline. I looked behind me and the other red dot was behind. They literally made a mirrored motion. There were two other cars, one beside me and one behind me and we all slowed down and looked up. I’m not sure who else saw it but once they spread out they stayed still and didn’t move for the next minute. I continued my way home as I was only a minute away and noticed that the ufo that pivoted lower flickered and faded into the clouds. I don’t know what it is but my hairs stood up as soon as they appeared. I was completely alert singing on my way home and it felt like they showed in my eye sight for me to see. I was terrified and had to call my husband to calm me down. It was the most alarming thing I have ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163877.html](http://www.nuforc.org/webreports/reports/163/S163877.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in St. Thomas (U. S. Virgin Islands) () reported seeing craft that fit the description of some '' over a period of approximately not sure - not sure minutes.</sub><blockquote><sub>craft from st thomasWe were on a dingy going from Saphire Beach to Red Hook.  The night was really dark because it was a new moon, but my friend and I took this trip many of times.  We knew exactly where we were at when this bright light shine right over us like the time had stopped. When we were spot it by who ever it was there was no sound but just a huge light on top of us.  The light was not any kind of light that I had ever seen.  When that light shined on us I took a look at my friend and it was like a slow motion.  I told my friend that I would never repeat this story, but after reading some of yours, I figure I would like to let you know.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57587.html](http://www.nuforc.org/webreports/reports/057/S57587.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [850](http://www.nuforc.org/webreports/reports/163/S163884.html)
-- [849](http://www.nuforc.org/webreports/reports/163/S163882.html)
-- [848](http://www.nuforc.org/webreports/reports/164/S164073.html)
-- [847](http://www.nuforc.org/webreports/reports/163/S163866.html)
-- [846](http://www.nuforc.org/webreports/reports/164/S164590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
