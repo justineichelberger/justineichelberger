@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:25 on 1 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:35 on 1 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1968, an anonymous witness in Plantsville (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large bright blue light in the skyA friend and I were playing in an open field at the base of Mount Southington.  It was summer and just about dusk when we noticed a bright blue light in the sky, just hovering above us.  There was no sound and it didn't appear to be moving.  We just stood there looking at it wondering what it was and then all of a sudden it just disappeared.  I was so scared that I just ran home and left my friend standing there in the field alone.  When I got home my mother told me that the lights had gone out for an instant and there was no reception on the T.V.  To this day my friend reminds me of how I left her standing alone in the field.  There were reports that it had landed on the mountain and the government had roped off the area.  There were all kinds of military trucks coming in and out of that area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14069.html](http://www.nuforc.org/webreports/reports/014/S14069.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1968, an anonymous witness in Santa Barbara (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Five white lights hovering...Not weather balloons!I was with my parents and boyfriend, and my brother was with his girlfriend.  We had all gone for a walk, probably around 9pm.  We were living in the foothills of Santa Barbara - Montecito to be exact.  There were no street lights, thus it was very dark.  I believe it was I that said, "What are those lights over there?"  What we observed were maybe five or six rounded lights that were just hovering in the night sky, not high up, not flying around, but moving slightly, ,..not fast, just twinkling in the sky very near us.  Similar to a helicopter when trying to hover over an object.  They moved, but not much.  My father immediately said, "Oh, those are weather balloons!"  I thought he was nuts. I remember the lights having a whitish hew. We observed them for maybe five minutes and then just walked back to the house.  Not a word mentioned ever again, except by me over the years. I moved out of the house the following week. Under hypnosis many years later, I returned to that night, and quickly realized that I had been abducted later that night.  In all of my hypnosis sessions (3) I return to that incident.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36272.html](http://www.nuforc.org/webreports/reports/036/S36272.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [850](http://www.nuforc.org/webreports/reports/163/S163884.html)
-- [849](http://www.nuforc.org/webreports/reports/163/S163882.html)
-- [848](http://www.nuforc.org/webreports/reports/164/S164073.html)
-- [847](http://www.nuforc.org/webreports/reports/163/S163866.html)
-- [846](http://www.nuforc.org/webreports/reports/164/S164590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
