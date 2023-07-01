@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:19 on 1 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:26 on 1 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Summerfield (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Looked up, to the west saw very low very bright white lights clustered together,is this a space station? motionless, definitely not an airplane as it was stationary for an extended time very strange, actually got a few shots with my cell phone.((NUFORC Note:  Probably Venus and Jupiter??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119945.html](http://www.nuforc.org/webreports/reports/119/S119945.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Hudson (MI) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Cigar shaped craft spotted just before dark- observed also by police officerThis happened when I was 5 years old. It happened in the summer in the evening. Exact date may not be correct. I still remember the event and my mother does to.A Hudson police officer also seen the UFO.This sighting may have been in the police officer daily report.We had stopped at a local party store on Highway US127 that runs north/south through the town of Hudson. I looked up and sighted a cigar shaped craft directly over the highway. The craft was at a low altitude probably below 500 feet. The sun was just beginning to set and was to our backs, the craft was a little to the east of us and you almost had to luck straight up to see it. We observed port holes and you could see lights inside the windows. The craft did not move. A Hudson police officer who was in the store came out and was about to get in his car and my mother got his attention about the cigar craft. The officer was stating he had not seen anything like it and did not know what it was that we were observing. It was getting darker and the cigar shaped craft was starting to blend with the dark sky and by now all you could see as far as lights was the window lights. I can't remember how many windows there was but more than 3 windows and they were in a row toward the bottom of the craft. It had no anti collision lights of any kind on this cigar shaped craft. No sound was heard emitting from it.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43959.html](http://www.nuforc.org/webreports/reports/043/S43959.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [850](http://www.nuforc.org/webreports/reports/163/S163884.html)
-- [849](http://www.nuforc.org/webreports/reports/163/S163882.html)
-- [848](http://www.nuforc.org/webreports/reports/164/S164073.html)
-- [847](http://www.nuforc.org/webreports/reports/163/S163866.html)
-- [846](http://www.nuforc.org/webreports/reports/164/S164590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
