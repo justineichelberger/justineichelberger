@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:35 on 1 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:27 on 1 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1968, an anonymous witness in Santa Barbara (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Five white lights hovering...Not weather balloons!I was with my parents and boyfriend, and my brother was with his girlfriend.  We had all gone for a walk, probably around 9pm.  We were living in the foothills of Santa Barbara - Montecito to be exact.  There were no street lights, thus it was very dark.  I believe it was I that said, "What are those lights over there?"  What we observed were maybe five or six rounded lights that were just hovering in the night sky, not high up, not flying around, but moving slightly, ,..not fast, just twinkling in the sky very near us.  Similar to a helicopter when trying to hover over an object.  They moved, but not much.  My father immediately said, "Oh, those are weather balloons!"  I thought he was nuts. I remember the lights having a whitish hew. We observed them for maybe five minutes and then just walked back to the house.  Not a word mentioned ever again, except by me over the years. I moved out of the house the following week. Under hypnosis many years later, I returned to that night, and quickly realized that I had been abducted later that night.  In all of my hypnosis sessions (3) I return to that incident.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36272.html](http://www.nuforc.org/webreports/reports/036/S36272.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Manville (NJ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Me and my girl friend and our best friend were sutting on my front pourch i was looking at the moon bugging my self out then we started playing cards on the front steps and i see a red orange type glowing thing coming closer i thought it was a plane so i look to were it should of came over the trees and i say were did the plan go it should of when over by now then i move over to my right a little to see it just hovering there glowing and like pulsing over a house so i start to freak out and we all get up ad walk to te edge of the grass and we see it and trying to take pics of it and it started to slowly move and te color ad the craft started to go like dim and in like a blink of a eye it just shoots offf so i run to my room grab my hat and boots and we started waling were we saw it and the guy was standing looking up two blooks from my house and i had asked him how long he was standing there and he said long enough to see a red glowing thing in the sky so we! tlked then i went hime and looked up somewere i can report this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90282.html](http://www.nuforc.org/webreports/reports/090/S90282.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [850](http://www.nuforc.org/webreports/reports/163/S163884.html)
-- [849](http://www.nuforc.org/webreports/reports/163/S163882.html)
-- [848](http://www.nuforc.org/webreports/reports/164/S164073.html)
-- [847](http://www.nuforc.org/webreports/reports/163/S163866.html)
-- [846](http://www.nuforc.org/webreports/reports/164/S164590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
